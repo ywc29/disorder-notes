@@ -1,0 +1,35 @@
+name: Myotonia congenita
+ghr-page: https://ghr.nlm.nih.gov/condition/myotonia-congenita
+text/text-role: description
+text/html: <p>Myotonia congenita is a disorder that affects muscles used for movement (skeletal muscles). Beginning in childhood, people with this condition experience bouts of sustained muscle tensing (myotonia) that prevent muscles from relaxing normally.  Although myotonia can affect any skeletal muscles, including muscles of the face and tongue, it occurs most often in the legs. Myotonia causes muscle stiffness that can interfere with movement. In some people the stiffness is very mild, while in other cases it may be severe enough to interfere with walking, running, and other activities of daily life. These muscle problems are particularly noticeable during movement following a period of rest. Many affected individuals find that repeated movements can temporarily alleviate their muscle stiffness, a phenomenon known as the warm-up effect.</p><p>The two major types of myotonia congenita are known as Thomsen disease and Becker disease. These conditions are distinguished by the severity of their symptoms and their patterns of inheritance. Becker disease usually appears later in childhood than Thomsen disease and causes more severe muscle stiffness, particularly in males. People with Becker disease often experience temporary attacks of muscle weakness, particularly in the arms and hands, brought on by movement after periods of rest.  They may also develop mild, permanent muscle weakness over time.  This muscle weakness is not seen in people with Thomsen disease.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: CLCN1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CLCN1
+synonym: Congenital myotonia
+db-key(1)/db: GTR
+db-key(1)/key: C0027127
+db-key(2)/db: GTR
+db-key(2)/key: C0751360
+db-key(3)/db: GTR
+db-key(3)/key: C2936781
+db-key(4)/db: GeneReviews
+db-key(4)/key: myotonia-c
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: G71.12
+db-key(6)/db: MeSH
+db-key(6)/key: D009224
+db-key(7)/db: OMIM
+db-key(7)/key: 160800
+db-key(8)/db: OMIM
+db-key(8)/key: 255700
+db-key(9)/db: Orphanet
+db-key(9)/key: 614
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 20305008
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 57938005
+reviewed: 2007-04
+published: 2018-04-17

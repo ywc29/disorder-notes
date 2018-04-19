@@ -1,0 +1,33 @@
+name: Rubinstein-Taybi syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/rubinstein-taybi-syndrome
+text/text-role: description
+text/html: <p>Rubinstein-Taybi syndrome is a condition characterized by short stature, moderate to severe intellectual disability, distinctive facial features, and broad thumbs and first toes.  Additional features of the disorder can include eye abnormalities, heart and kidney defects, dental problems, and obesity.  These signs and symptoms vary among affected individuals.  People with this condition have an increased risk of developing noncancerous and cancerous tumors, including certain kinds of brain tumors. Cancer of blood-forming tissue (leukemia) also occurs more frequently in people with Rubinstein-Taybi syndrome.</p><p>Rarely, Rubinstein-Taybi syndrome can involve serious complications such as a failure to gain weight and grow at the expected rate (failure to thrive) and life-threatening infections.  Infants born with this severe form of the disorder usually survive only into early childhood.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CREBBP
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CREBBP
+related-gene(2)/gene-symbol: EP300
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/EP300
+related-chromosome/name: 16
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/16
+synonym(1): Broad Thumb-Hallux Syndrome
+synonym(2): RSTS
+synonym(3): RTS
+db-key(1)/db: GTR
+db-key(1)/key: C0035934
+db-key(2)/db: GTR
+db-key(2)/key: C3150941
+db-key(3)/db: GeneReviews
+db-key(3)/key: rsts
+db-key(4)/db: MeSH
+db-key(4)/key: D012415
+db-key(5)/db: OMIM
+db-key(5)/key: 180849
+db-key(6)/db: OMIM
+db-key(6)/key: 613684
+db-key(7)/db: Orphanet
+db-key(7)/key: 783
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 45582004
+reviewed: 2007-01
+published: 2018-04-17

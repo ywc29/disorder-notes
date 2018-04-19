@@ -1,0 +1,19 @@
+name: Isolated hyperchlorhidrosis
+ghr-page: https://ghr.nlm.nih.gov/condition/isolated-hyperchlorhidrosis
+text/text-role: description
+text/html: <p>Isolated hyperchlorhidrosis is characterized by the excessive loss of salt (sodium chloride or NaCl) in sweat. In particular, "hyperchlorhidrosis" refers to the high levels of chloride found in sweat, although both sodium and chloride are released. Because the salt is abnormally released from the body in sweat, there are lower than normal levels of sodium in fluids inside the body (hyponatremia). Most infants with isolated hyperchlorhidrosis experience one or more episodes of dehydration with low levels of sodium in the blood (hyponatremic dehydration), which can require hospitalization. These episodes typically follow a mild illness that causes vomiting or diarrhea. Affected infants also have poor feeding and an inability to grow and gain weight at the expected rate (failure to thrive). By early childhood, though, weight and height usually catch up to normal, although the abnormal loss of salt still remains. These individuals may still experience dangerous hyponatremia when they sweat excessively, for example in warm temperatures or when exercising.</p><p>While hyperchlorhidrosis can occur as one of several features of other conditions, such as cystic fibrosis, people with isolated hyperchlorhidrosis do not have the additional signs and symptoms of these other conditions.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CA12
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CA12
+synonym: carbonic anhydrase XII deficiency
+db-key(1)/db: GTR
+db-key(1)/key: CN219251
+db-key(2)/db: MeSH
+db-key(2)/key: D014883
+db-key(3)/db: OMIM
+db-key(3)/key: 143860
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 709413001
+reviewed: 2014-05
+published: 2018-04-17

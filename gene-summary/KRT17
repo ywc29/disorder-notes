@@ -1,0 +1,22 @@
+gene-symbol: KRT17
+name: keratin 17
+ghr-page: https://ghr.nlm.nih.gov/gene/KRT17
+text/text-role: function
+text/html: <p>The <i>KRT17</i> gene provides instructions for making a protein called keratin 17 or K17. Keratins are a group of tough, fibrous proteins that form the structural framework of certain cells, particularly cells that make up the skin, hair, nails, and similar tissues. Keratin 17 is produced in the nails, the hair follicles, and the skin on the palms of the hands and soles of the feet. It is also found in the skin's sebaceous glands, which produce an oily substance called sebum that normally lubricates the skin and hair.</p><p>Keratin 17 partners with a similar protein, keratin 6b, to form molecules called keratin intermediate filaments. These filaments assemble into dense networks that provide strength and resilience to the skin, nails, and other tissues. Networks of keratin intermediate filaments protect these tissues from being damaged by friction and other everyday physical stresses. Keratin 17 is also among several keratins involved in wound healing.</p>
+related-health-condition(1)/name: pachyonychia congenita
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/pachyonychia-congenita
+related-health-condition(2)/name: steatocystoma multiplex
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/steatocystoma-multiplex
+synonym(1): CK-17
+synonym(2): cytokeratin-17
+synonym(3): K1C17_HUMAN
+synonym(4): K17
+synonym(5): keratin-17
+synonym(6): keratin 17, type I
+synonym(7): keratin, type I cytoskeletal 17
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3872
+db-key(2)/db: OMIM
+db-key(2)/key: 148069
+reviewed: 2015-12
+published: 2018-04-17

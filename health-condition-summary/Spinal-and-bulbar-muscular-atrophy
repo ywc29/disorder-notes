@@ -1,0 +1,29 @@
+name: Spinal and bulbar muscular atrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/spinal-and-bulbar-muscular-atrophy
+text/text-role: description
+text/html: <p>Spinal and bulbar muscular atrophy, also known as Kennedy disease, is a disorder of specialized nerve cells that control muscle movement (motor neurons). These nerve cells originate in the spinal cord and the part of the brain that is connected to the spinal cord (the brainstem).</p><p>Spinal and bulbar muscular atrophy mainly affects males and is characterized by muscle weakness and wasting (atrophy) that usually begins in adulthood and worsens slowly over time. Muscle wasting in the arms and legs results in cramping; leg muscle weakness can also lead to difficulty walking and a tendency to fall. Certain muscles in the face and throat (bulbar muscles) are also affected, which causes progressive problems with swallowing and speech. Additionally, muscle twitches (fasciculations) are common. Some males with the disorder experience unusual breast development (gynecomastia) and may be unable to father a child (infertile).</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: AR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/AR
+synonym(1): bulbospinal muscular atrophy, X-linked
+synonym(2): KD
+synonym(3): Kennedy disease
+synonym(4): Kennedy spinal and bulbar muscular atrophy
+synonym(5): Kennedy's disease
+synonym(6): SBMA
+synonym(7): X-linked spinal and bulbar muscular atrophy
+db-key(1)/db: GTR
+db-key(1)/key: C1839259
+db-key(2)/db: GeneReviews
+db-key(2)/key: kennedy
+db-key(3)/db: MeSH
+db-key(3)/key: D055534
+db-key(4)/db: OMIM
+db-key(4)/key: 313200
+db-key(5)/db: Orphanet
+db-key(5)/key: 481
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 230253001
+reviewed: 2012-12
+published: 2018-04-17

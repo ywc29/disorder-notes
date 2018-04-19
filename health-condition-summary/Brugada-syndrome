@@ -1,0 +1,61 @@
+name: Brugada syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/brugada-syndrome
+text/text-role: description
+text/html: <p>Brugada syndrome is a condition that causes a disruption of the heart's normal rhythm. Specifically, this disorder can lead to irregular heartbeats in the heart's lower chambers (ventricles), which is an abnormality called ventricular arrhythmia. If untreated, the irregular heartbeats can cause fainting (syncope), seizures, difficulty breathing, or sudden death. These complications typically occur when an affected person is resting or asleep.</p><p>Brugada syndrome usually becomes apparent in adulthood, although it can develop any time throughout life. Signs and symptoms related to arrhythmias, including sudden death, can occur from early infancy to late adulthood. Sudden death typically occurs around age 40. This condition may explain some cases of sudden infant death syndrome (SIDS), which is a major cause of death in babies younger than 1 year. SIDS is characterized by sudden and unexplained death, usually during sleep.</p><p>Sudden unexplained nocturnal death syndrome (SUNDS) is a condition characterized by unexpected cardiac arrest in young adults, usually at night during sleep. This condition was originally described in Southeast Asian populations, where it is a major cause of death. Researchers have determined that SUNDS and Brugada syndrome are the same disorder.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CACNA1C
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CACNA1C
+related-gene(2)/gene-symbol: CACNA2D1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CACNA2D1
+related-gene(3)/gene-symbol: CACNB2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CACNB2
+related-gene(4)/gene-symbol: GPD1L
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/GPD1L
+related-gene(5)/gene-symbol: HCN4
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/HCN4
+related-gene(6)/gene-symbol: KCND3
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/KCND3
+related-gene(7)/gene-symbol: KCNE3
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNE3
+related-gene(8)/gene-symbol: KCNE5
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNE5
+related-gene(9)/gene-symbol: KCNJ8
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNJ8
+related-gene(10)/gene-symbol: RANGRF
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/RANGRF
+related-gene(11)/gene-symbol: SCN1B
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN1B
+related-gene(12)/gene-symbol: SCN2B
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN2B
+related-gene(13)/gene-symbol: SCN3B
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN3B
+related-gene(14)/gene-symbol: SCN5A
+related-gene(14)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN5A
+related-gene(15)/gene-symbol: SLMAP
+related-gene(15)/ghr-page: https://ghr.nlm.nih.gov/gene/SLMAP
+related-gene(16)/gene-symbol: TRPM4
+related-gene(16)/ghr-page: https://ghr.nlm.nih.gov/gene/TRPM4
+synonym(1): bangungut
+synonym(2): idiopathic ventricular fibrillation, Brugada type
+synonym(3): Pokkuri death syndrome
+synonym(4): sudden unexpected nocturnal death syndrome
+synonym(5): sudden unexplained death syndrome
+synonym(6): SUDS
+synonym(7): SUNDS
+db-key(1)/db: GTR
+db-key(1)/key: C1142166
+db-key(2)/db: GTR
+db-key(2)/key: CN029323
+db-key(3)/db: GeneReviews
+db-key(3)/key: brugada
+db-key(4)/db: MeSH
+db-key(4)/key: D053840
+db-key(5)/db: OMIM
+db-key(5)/key: 601144
+db-key(6)/db: Orphanet
+db-key(6)/key: 130
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 418818005
+reviewed: 2015-03
+published: 2018-04-17

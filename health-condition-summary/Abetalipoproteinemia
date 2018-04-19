@@ -1,0 +1,33 @@
+name: Abetalipoproteinemia
+ghr-page: https://ghr.nlm.nih.gov/condition/abetalipoproteinemia
+text/text-role: description
+text/html: <p>Abetalipoproteinemia is an inherited disorder that impairs the normal absorption of fats and certain vitamins from the diet. Many of the signs and symptoms of abetalipoproteinemia result from a severe shortage (deficiency) of fat-soluble vitamins (vitamins A, E, and K). The signs and symptoms of this condition primarily affect the gastrointestinal system, eyes, nervous system, and blood.</p><p>The first signs and symptoms of abetalipoproteinemia appear in infancy. They often include failure to gain weight and grow at the expected rate (failure to thrive); diarrhea; and fatty, foul-smelling stools (steatorrhea).</p><p>As an individual with this condition ages, additional signs and symptoms include disturbances in nerve function that may lead to poor muscle coordination and difficulty with balance and movement (ataxia). They can also experience a loss of certain reflexes, impaired speech (dysarthria), tremors or other involuntary movements (motor tics), a loss of sensation in the extremities (peripheral neuropathy), or muscle weakness. The muscle problems can disrupt skeletal development, leading to an abnormally curved lower back (lordosis), a rounded upper back that also curves to the side (kyphoscoliosis), high-arched feet (pes cavus), or an inward- and upward-turning foot (clubfoot).</p><p>Individuals with this condition may also develop an eye disorder called retinitis pigmentosa, in which breakdown of the light-sensitive layer (retina) at the back of the eye can cause vision loss. In individuals with abetalipoproteinemia, the retinitis pigmentosa can result in complete vision loss. People with abetalipoproteinemia may also have other eye problems, including involuntary eye movements (nystagmus), eyes that do not look in the same direction (strabismus), and weakness of the external muscles of the eye (ophthalmoplegia).</p><p>Individuals with abetalipoproteinemia usually have a low number of red blood cells (anemia) with abnormally star-shaped red blood cells (acanthocytosis) and have difficulty forming blood clots, which can cause abnormal bleeding. In some cases, a condition called fatty liver develops, which can cause liver damage.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: MTTP
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MTTP
+synonym(1): abetalipoproteinaemia
+synonym(2): abetalipoproteinemia neuropathy
+synonym(3): ABL
+synonym(4): acanthocytosis
+synonym(5): apolipoprotein B deficiency
+synonym(6): Bassen-Kornzweig disease
+synonym(7): Bassen-Kornzweig syndrome
+synonym(8): betalipoprotein deficiency disease
+synonym(9): congenital betalipoprotein deficiency syndrome
+synonym(10): microsomal triglyceride transfer protein deficiency disease
+synonym(11): MTP deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0000744
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E78.6
+db-key(3)/db: MeSH
+db-key(3)/key: D000012
+db-key(4)/db: OMIM
+db-key(4)/key: 200100
+db-key(5)/db: Orphanet
+db-key(5)/key: 14
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 190787008
+reviewed: 2018-02
+published: 2018-04-17

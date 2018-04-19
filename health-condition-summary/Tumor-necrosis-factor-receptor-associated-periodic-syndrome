@@ -1,0 +1,25 @@
+name: Tumor necrosis factor receptor-associated periodic syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/tumor-necrosis-factor-receptor-associated-periodic-syndrome
+text/text-role: description
+text/html: <p>Tumor necrosis factor receptor-associated periodic syndrome (commonly known as TRAPS) is a condition characterized by recurrent episodes of fever. These fevers typically last about 3 weeks but can last from a few days to a few months. The frequency of the episodes varies greatly among affected individuals; fevers can occur anywhere between every 6 weeks to every few years.  Some individuals can go many years without having a fever episode. Fever episodes usually occur spontaneously, but sometimes they can be brought on by a variety of triggers, such as minor injury, infection, stress, exercise, or hormonal changes.</p><p>During episodes of fever, people with TRAPS can have additional signs and symptoms. These include abdominal and muscle pain and a spreading skin rash, typically found on the limbs. Affected individuals may also experience puffiness or swelling in the skin around the eyes (periorbital edema); joint pain; and inflammation in various areas of the body including the eyes, heart muscle, certain joints, throat, or mucous membranes such as the moist lining of the mouth and digestive tract. Occasionally, people with TRAPS develop amyloidosis, an abnormal buildup of a protein called amyloid in the kidneys that can lead to kidney failure. It is estimated that 15 to 20 percent of people with TRAPS develop amyloidosis, typically in mid-adulthood.</p><p>The fever episodes characteristic of TRAPS can begin at any age, from infancy to late adulthood, but most people have their first episode in childhood.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: TNFRSF1A
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TNFRSF1A
+synonym(1): autosomal dominant familial periodic fever
+synonym(2): familial Hibernian fever
+synonym(3): FPF
+synonym(4): TNF receptor-associated periodic fever syndrome
+synonym(5): TRAPS
+db-key(1)/db: GTR
+db-key(1)/key: C1275126
+db-key(2)/db: MeSH
+db-key(2)/key: D056660
+db-key(3)/db: OMIM
+db-key(3)/key: 142680
+db-key(4)/db: Orphanet
+db-key(4)/key: 32960
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 403833009
+reviewed: 2016-02
+published: 2018-04-17

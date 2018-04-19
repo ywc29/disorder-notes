@@ -1,0 +1,35 @@
+gene-symbol: RBPJ
+name: recombination signal binding protein for immunoglobulin kappa J region
+ghr-page: https://ghr.nlm.nih.gov/gene/RBPJ
+text/text-role: function
+text/html: <p>The <i>RBPJ</i> gene provides instructions for making a protein called RBP-J, which is an integral part of a signaling pathway known as the Notch pathway. Notch signaling controls how certain types of cells develop in the growing embryo, including those that form the bones, heart, muscles, nerves, and blood. Signaling through the Notch pathway stimulates the RBP-J protein to attach (bind) to specific regions of DNA and control the activity of genes that play a role in cellular development.</p>
+related-health-condition(1)/name: Adams-Oliver syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/adams-oliver-syndrome
+related-health-condition(2)/name: rheumatoid arthritis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/rheumatoid-arthritis
+synonym(1): AOS3
+synonym(2): CBF-1
+synonym(3): CBF1
+synonym(4): csl
+synonym(5): H-2K binding factor-2
+synonym(6): IGKJRB
+synonym(7): IGKJRB1
+synonym(8): immunoglobulin kappa J region recombination signal binding protein 1
+synonym(9): KBF2
+synonym(10): RBP-J
+synonym(11): RBP-J kappa
+synonym(12): RBP-JK
+synonym(13): RBPJK
+synonym(14): RBPSUH
+synonym(15): recombining binding protein suppressor of hairless
+synonym(16): recombining binding protein suppressor of hairless isoform 3
+synonym(17): renal carcinoma antigen NY-REN-30
+synonym(18): SUH
+synonym(19): SUH_HUMAN
+synonym(20): suppressor of hairless homolog
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3516
+db-key(2)/db: OMIM
+db-key(2)/key: 147183
+reviewed: 2015-11
+published: 2018-04-17

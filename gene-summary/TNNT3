@@ -1,0 +1,29 @@
+gene-symbol: TNNT3
+name: troponin T3, fast skeletal type
+ghr-page: https://ghr.nlm.nih.gov/gene/TNNT3
+text/text-role: function
+text/html: <p>The <i>TNNT3</i> gene provides instructions for making one form of a protein called troponin T. The troponin T protein produced from the <i>TNNT3</i> gene is found in skeletal muscles, which are the muscles used for movement. Troponin T is one of three proteins that make up the troponin complex in muscle cells. The troponin complex, along with calcium, helps regulate muscle tensing (contraction).</p><p>The troponin complex is part of a structure called the sarcomere, which is the basic unit of muscle contraction. Sarcomeres contain thick and thin filaments. The overlapping thick and thin filaments attach (bind) to each other and release, which allows the filaments to move relative to one another so that muscles can contract.</p><p>When calcium levels are low, the troponin complex blocks the binding between the thick and thin filaments that is needed for muscle contraction. An increase in calcium levels causes structural changes in the troponin complex, which exposes the binding sites and allows the thick and thin filaments to interact, leading to muscle contraction.</p>
+related-health-condition/name: Sheldon-Hall syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/sheldon-hall-syndrome
+synonym(1): AMCD2B
+synonym(2): beta-TnTF
+synonym(3): beta TnTF
+synonym(4): DA2B
+synonym(5): DKFZp779M2348
+synonym(6): fast skeletal muscle troponin T
+synonym(7): FSSV
+synonym(8): fTnT
+synonym(9): TNTF
+synonym(10): troponin T type 3 (skeletal, fast)
+synonym(11): troponin T, fast skeletal muscle
+synonym(12): troponin T, fast skeletal muscle isoform 1
+synonym(13): troponin T, fast skeletal muscle isoform 2
+synonym(14): troponin T, fast skeletal muscle isoform 3
+synonym(15): troponin T, fast skeletal muscle isoform 4
+synonym(16): troponin-T3, skeletal, fast
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7140
+db-key(2)/db: OMIM
+db-key(2)/key: 600692
+reviewed: 2015-06
+published: 2018-04-17

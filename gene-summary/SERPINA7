@@ -1,0 +1,21 @@
+gene-symbol: SERPINA7
+name: serpin family A member 7
+ghr-page: https://ghr.nlm.nih.gov/gene/SERPINA7
+text/text-role: function
+text/html: <p>The <i>SERPINA7</i> gene (also known as <i>TBG</i>) provides instructions for making a protein called thyroxine-binding globulin. In the bloodstream, this protein carries hormones made or used by the thyroid gland, which is a butterfly-shaped tissue in the lower neck. Thyroid hormones play an important role in regulating growth, brain development, and the rate of chemical reactions in the body (metabolism). Most of the time, thyroid hormones circulate in the bloodstream attached to thyroxine-binding globulin and similar proteins.</p>
+related-health-condition/name: inherited thyroxine-binding globulin deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/inherited-thyroxine-binding-globulin-deficiency
+synonym(1): alpha-1 antiproteinase, antitrypsin
+synonym(2): serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7
+synonym(3): serine (or cysteine) proteinase inhibitor, clade A, member 7
+synonym(4): serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 7
+synonym(5): TBG
+synonym(6): THBG_HUMAN
+synonym(7): thyroxin-binding globulin
+synonym(8): thyroxine-binding globulin
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6906
+db-key(2)/db: OMIM
+db-key(2)/key: 314200
+reviewed: 2009-09
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: GSN
+name: gelsolin
+ghr-page: https://ghr.nlm.nih.gov/gene/GSN
+text/text-role: function
+text/html: <p>The <i>GSN</i> gene provides instructions for making two forms of a protein called gelsolin. One form remains inside the cell (cellular gelsolin) and the other form is released from the cell (secreted gelsolin). Both forms of the gelsolin protein attach (bind) to another protein called actin. Actin proteins are organized into filaments, which form a network (the cytoskeleton) that gives structure to cells and allows them to change shape and move. Gelsolin helps assemble or disassemble actin filaments. It is thought that, through this function, the gelsolin protein regulates the formation of the actin cytoskeleton.</p>
+related-health-condition/name: lattice corneal dystrophy type II
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/lattice-corneal-dystrophy-type-ii
+synonym(1): actin-depolymerizing factor
+synonym(2): ADF
+synonym(3): AGEL
+synonym(4): brevin
+synonym(5): DKFZp313L0718
+synonym(6): GELS_HUMAN
+synonym(7): gelsolin isoform a precursor
+synonym(8): gelsolin isoform b
+synonym(9): gelsolin isoform c
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2934
+db-key(2)/db: OMIM
+db-key(2)/key: 137350
+reviewed: 2012-04
+published: 2018-04-17

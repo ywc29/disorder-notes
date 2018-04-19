@@ -1,0 +1,24 @@
+name: Proopiomelanocortin deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/proopiomelanocortin-deficiency
+text/text-role: description
+text/html: <p>Proopiomelanocortin (POMC) deficiency causes severe obesity that begins at an early age. In addition to obesity, people with this condition have low levels of a hormone known as adrenocorticotropic hormone (ACTH) and tend to have red hair and pale skin.</p><p>Affected infants are usually a normal weight at birth, but they are constantly hungry, which leads to excessive feeding (hyperphagia). The babies continuously gain weight and are severely obese by age 1. Affected individuals experience excessive hunger and remain obese for life. It is unclear if these individuals are prone to weight-related conditions like cardiovascular disease or type 2 diabetes.</p><p>Low levels of ACTH lead to a condition called adrenal insufficiency, which occurs when the pair of small glands on top of the kidneys (the adrenal glands) do not produce enough hormones. Adrenal insufficiency often results in periods of severely low blood sugar (hypoglycemia) in people with POMC deficiency, which can cause seizures, elevated levels of a toxic substance called bilirubin in the blood (hyperbilirubinemia), and a reduced ability to produce and release a digestive fluid called bile (cholestasis). Without early treatment, adrenal insufficiency can be fatal.</p><p>Pale skin that easily burns when exposed to the sun and red hair are common in POMC deficiency, although not everyone with the condition has these characteristics.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: POMC
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/POMC
+synonym(1): obesity, early-onset, adrenal insufficiency, and red hair
+synonym(2): POMC deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1857854
+db-key(2)/db: GeneReviews
+db-key(2)/key: pomc-def
+db-key(3)/db: MeSH
+db-key(3)/key: D009767
+db-key(4)/db: OMIM
+db-key(4)/key: 609734
+db-key(5)/db: Orphanet
+db-key(5)/key: 71526
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702949005
+reviewed: 2014-02
+published: 2018-04-17

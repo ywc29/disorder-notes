@@ -1,0 +1,30 @@
+gene-symbol: PTPN11
+name: protein tyrosine phosphatase, non-receptor type 11
+ghr-page: https://ghr.nlm.nih.gov/gene/PTPN11
+text/text-role: function
+text/html: <p>The <i>PTPN11</i> gene provides instructions for making a protein called SHP-2. This protein helps regulate the RAS/MAPK signaling pathway. This pathway is involved in several important cell functions, including the growth and division of cells (proliferation), the process by which cells mature to carry out specific functions (differentiation), cell movement (migration), and the self-destruction of cells (apoptosis). During embryonic development, the SHP-2 protein is critical in the development of the heart, blood cells, bones, and several other tissues.</p><p>The <i>PTPN11</i> gene belongs to a class of genes known as oncogenes. When mutated, oncogenes have the potential to cause normal cells to become cancerous.</p>
+related-health-condition(1)/name: Noonan syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/noonan-syndrome
+related-health-condition(2)/name: Noonan syndrome with multiple lentigines
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/noonan-syndrome-with-multiple-lentigines
+synonym(1): BPTP3
+synonym(2): protein-tyrosine phosphatase 2C
+synonym(3): protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)
+synonym(4): PTN11_HUMAN
+synonym(5): PTP-1D
+synonym(6): PTP2C
+synonym(7): SH protein-tyrosine phosphatase
+synonym(8): SH-PTP2
+synonym(9): SH-PTP3
+synonym(10): SHP2
+synonym(11): SHP2 phosphatase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5781
+db-key(2)/db: OMIM
+db-key(2)/key: 156250
+db-key(3)/db: OMIM
+db-key(3)/key: 176876
+db-key(4)/db: OMIM
+db-key(4)/key: 607785
+reviewed: 2016-06
+published: 2018-04-17

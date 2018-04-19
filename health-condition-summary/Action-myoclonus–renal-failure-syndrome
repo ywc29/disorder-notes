@@ -1,0 +1,28 @@
+name: Action myoclonus–renal failure syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/action-myoclonus-renal-failure-syndrome
+text/text-role: description
+text/html: <p>Action myoclonus–renal failure (AMRF) syndrome causes episodes of involuntary muscle jerking or twitching (myoclonus) and, often, kidney (renal) disease. Although the condition name refers to kidney disease, not everyone with the condition has problems with kidney function.</p><p>The movement problems associated with AMRF syndrome typically begin with involuntary rhythmic shaking (tremor) in the fingers and hands that occurs at rest and is most noticeable when trying to make small movements, such as writing. Over time, tremors can affect other parts of the body, such as the head, torso, legs, and tongue. Eventually, the tremors worsen to become myoclonic jerks, which can be triggered by voluntary movements or the intention to move (action myoclonus). These myoclonic jerks typically occur in the torso; upper and lower limbs; and face, particularly the muscles around the mouth and the eyelids. Anxiety, excitement, stress, or extreme tiredness (fatigue) can worsen the myoclonus. Some affected individuals develop seizures, a loss of sensation and weakness in the limbs (peripheral neuropathy), or hearing loss caused by abnormalities in the inner ear (sensorineural hearing loss). Severe seizures or myoclonus can be life-threatening.</p><p>When kidney problems occur, an early sign is excess protein in the urine (proteinuria). Kidney function worsens over time, until the kidneys are no longer able to filter fluids and waste products from the body effectively (end-stage renal disease).</p><p>AMRF syndrome typically begins causing symptoms between ages 15 and 25, but it can appear at younger or older ages. The age of onset and the course of the condition vary, even among members of the same family. Either the movement problems or kidney disease can occur first, or they can begin at the same time. Most people survive 7 to 15 years after the symptoms appear.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SCARB2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SCARB2
+synonym(1): action myoclonus-renal failure syndrome
+synonym(2): action myoclonus–renal failure syndrome
+synonym(3): AMRF
+synonym(4): epilepsy, progressive myoclonic 4, with or without renal failure
+synonym(5): EPM4
+synonym(6): familial myoclonus with renal failure
+synonym(7): myoclonus-nephropathy syndrome
+synonym(8): progressive myoclonus epilepsy with renal failure
+db-key(1)/db: GTR
+db-key(1)/key: C0751779
+db-key(2)/db: GeneReviews
+db-key(2)/key: amrf
+db-key(3)/db: MeSH
+db-key(3)/key: D020191
+db-key(4)/db: OMIM
+db-key(4)/key: 254900
+db-key(5)/db: Orphanet
+db-key(5)/key: 163696
+reviewed: 2016-06
+published: 2018-04-17

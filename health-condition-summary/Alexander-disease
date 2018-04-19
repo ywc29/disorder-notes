@@ -1,0 +1,29 @@
+name: Alexander disease
+ghr-page: https://ghr.nlm.nih.gov/condition/alexander-disease
+text/text-role: description
+text/html: <p>Alexander disease is a rare disorder of the nervous system.  It is one of a group of disorders, called leukodystrophies, that involve the destruction of myelin.  Myelin is the fatty covering that insulates nerve fibers and promotes the rapid transmission of nerve impulses. If myelin is not properly maintained, the transmission of nerve impulses could be disrupted.  As myelin deteriorates in leukodystrophies such as Alexander disease, nervous system functions are impaired.</p><p>Most cases of Alexander disease begin before age 2 and are described as the infantile form.  Signs and symptoms of the infantile form typically include an enlarged brain and head size (megalencephaly), seizures, stiffness in the arms and/or legs (spasticity), intellectual disability, and developmental delay.  Less frequently, onset occurs later in childhood (the juvenile form) or in adulthood.  Common problems in juvenile and adult forms of Alexander disease include speech abnormalities, swallowing difficulties, seizures, and poor coordination (ataxia).  Rarely, a neonatal form of Alexander disease occurs within the first month of life and is associated with severe intellectual disability and developmental delay, a buildup of fluid in the brain (hydrocephalus), and seizures.</p><p>Alexander disease is also characterized by abnormal protein deposits known as Rosenthal fibers.  These deposits are found in specialized cells called astroglial cells, which support and nourish other cells in the brain and spinal cord (central nervous system).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: GFAP
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GFAP
+synonym(1): Alexander's disease
+synonym(2): ALX
+synonym(3): AxD
+synonym(4): demyelinogenic leukodystrophy
+synonym(5): dysmyelinogenic leukodystrophy
+synonym(6): fibrinoid degeneration of astrocytes
+synonym(7): leukodystrophy with Rosenthal fibers
+db-key(1)/db: GTR
+db-key(1)/key: C0270726
+db-key(2)/db: GeneReviews
+db-key(2)/key: alexander
+db-key(3)/db: MeSH
+db-key(3)/key: D038261
+db-key(4)/db: OMIM
+db-key(4)/key: 203450
+db-key(5)/db: Orphanet
+db-key(5)/key: 58
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 81854007
+reviewed: 2015-10
+published: 2018-04-17

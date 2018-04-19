@@ -1,0 +1,8 @@
+gene-symbol: C3AR1
+name: complement C3a receptor 1
+ghr-page: https://ghr.nlm.nih.gov/gene/C3AR1
+related-health-condition/name: C3 glomerulopathy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/c3-glomerulopathy
+db-key/db: NCBI Gene
+db-key/key: 719
+published: 2018-04-17

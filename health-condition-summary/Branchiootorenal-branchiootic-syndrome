@@ -1,0 +1,56 @@
+name: Branchiootorenal/branchiootic syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/branchiootorenal-branchiootic-syndrome
+text/text-role: description
+text/html: <p>Branchiootorenal (BOR) syndrome is a condition that disrupts the development of tissues in the neck and causes malformations of the ears and kidneys. The signs and symptoms of this condition vary widely, even among members of the same family. Branchiootic (BO) syndrome includes many of the same features as BOR syndrome, but affected individuals do not have kidney abnormalities. The two conditions are otherwise so similar that researchers often consider them together (BOR/BO syndrome or branchiootorenal spectrum disorders).</p><p>"Branchio-" refers to the second branchial arch, which is a structure in the developing embryo that gives rise to tissues in the front and side of the neck. In people with BOR/BO syndrome, abnormal development of the second branchial arch can result in the formation of masses in the neck called branchial cleft cysts. Some affected people have abnormal holes or pits called fistulae in the side of the neck just above the collarbone. Fistulae can form tunnels into the neck, exiting in the mouth near the tonsil. Branchial cleft cysts and fistulae can cause health problems if they become infected, so they are often removed surgically.</p><p>"Oto-" and "-otic" refer to the ear; most people with BOR/BO syndrome have hearing loss and other ear abnormalities. The hearing loss can be sensorineural, meaning it is caused by abnormalities in the inner ear; conductive, meaning it results from changes in the small bones in the middle ear; or mixed, meaning it is caused by a combination of inner ear and middle ear abnormalities. Some affected people have tiny holes in the skin or extra bits of tissue just in front of the ear. These are called preauricular pits and preauricular tags, respectively.</p><p>"Renal" refers to the kidneys; BOR syndrome (but not BO syndrome) causes abnormalities of kidney structure and function.  These abnormalities range from mild to severe and can affect one or both kidneys. In some cases, end-stage renal disease (ESRD) develops later in life. This serious condition occurs when the kidneys become unable to filter fluids and waste products from the body effectively.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: EYA1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/EYA1
+related-gene(2)/gene-symbol: SIX1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SIX1
+related-gene(3)/gene-symbol: SIX5
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/SIX5
+synonym(1): BO syndrome
+synonym(2): BOR
+synonym(3): BOR syndrome
+synonym(4): BOS
+synonym(5): branchio-oto-renal syndrome
+synonym(6): branchio-otorenal dysplasia
+synonym(7): branchio-otorenal syndrome
+synonym(8): branchiootic syndrome
+synonym(9): branchiootorenal dysplasia
+synonym(10): branchiootorenal spectrum disorders
+synonym(11): branchiootorenal syndrome
+synonym(12): Melnick-Fraser syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0265234
+db-key(2)/db: GTR
+db-key(2)/key: C1842124
+db-key(3)/db: GTR
+db-key(3)/key: C1852718
+db-key(4)/db: GTR
+db-key(4)/key: C1865143
+db-key(5)/db: GTR
+db-key(5)/key: C1970479
+db-key(6)/db: GeneReviews
+db-key(6)/key: bor
+db-key(7)/db: MeSH
+db-key(7)/key: D019280
+db-key(8)/db: OMIM
+db-key(8)/key: 113650
+db-key(9)/db: OMIM
+db-key(9)/key: 120502
+db-key(10)/db: OMIM
+db-key(10)/key: 602588
+db-key(11)/db: OMIM
+db-key(11)/key: 608389
+db-key(12)/db: OMIM
+db-key(12)/key: 610896
+db-key(13)/db: Orphanet
+db-key(13)/key: 107
+db-key(14)/db: Orphanet
+db-key(14)/key: 52429
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 290006
+reviewed: 2016-03
+published: 2018-04-17

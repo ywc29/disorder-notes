@@ -1,0 +1,42 @@
+name: Epilepsy-aphasia spectrum
+ghr-page: https://ghr.nlm.nih.gov/condition/epilepsy-aphasia-spectrum
+text/text-role: description
+text/html: <p>The epilepsy-aphasia spectrum is a group of conditions that have overlapping signs and symptoms. A key feature of these conditions is impairment of language skills (aphasia). The language problems can affect speaking, reading, and writing. Another feature of epilepsy-aphasia spectrum disorders is certain patterns of abnormal electrical activity in the brain, which are detected by a test called an electroencephalogram (EEG). Many people with conditions in this spectrum develop recurrent seizures (epilepsy), and some have mild to severe intellectual disability. The conditions in the epilepsy-aphasia spectrum, which all begin in childhood, include Landau-Kleffner syndrome (LKS), epileptic encephalopathy with continuous spike-and-wave during sleep syndrome (ECSWS), autosomal dominant rolandic epilepsy with speech dyspraxia (ADRESD), intermediate epilepsy-aphasia disorder (IEAD), atypical childhood epilepsy with centrotemporal spikes (ACECTS), and childhood epilepsy with centrotemporal spikes (CECTS).</p><p>LKS and ECSWS are at the severe end of the spectrum. Both usually feature a characteristic abnormal pattern of electrical activity in the brain called continuous spike and waves during slow-wave sleep (CSWS). This pattern occurs while the affected child is sleeping, specifically during deep (slow-wave) sleep.</p><p>Most children with LKS develop normally in early childhood, although some speak later than their peers. However, affected children lose language skills beginning around age 5. This loss typically begins with verbal agnosia, which is the inability to understand speech. As LKS develops, the ability to express speech is also impaired. Approximately 70 percent of children with LKS have seizures, typically of a type described as focal (or partial) because the seizure activity occurs in specific regions of the brain rather than affecting the entire brain.</p><p>About half of children with ECSWS develop normally in early childhood, while others have delayed development of speech and motor skills. Although children with ECSWS typically lose a range of previously acquired skills, including those involved in language, movement, learning, or behavior, not everyone with ECSWS has aphasia. Seizures occur in approximately 80 percent of children with ECSWS and can include a variety of types, such as atypical absence seizures, which involve short periods of staring blankly; hemiclonic seizures, which cause rhythmic jerking of one side of the body; or generalized tonic-clonic seizures, which cause stiffening and rhythmic jerking of the entire body.</p><p>CECTS is at the mild end of the epilepsy-aphasia spectrum. Affected children have rolandic seizures; these seizures are triggered by abnormal activity in an area of the brain called the rolandic region, which is part of the cerebrum. The seizures, which usually occur during sleep, cause twitching, numbness, or tingling of the face or tongue, often causing drooling and impairing speech. In most people with CECTS, the seizures disappear by the end of adolescence. Most affected individuals develop normally, although some have difficulty coordinating the movements of the mouth and tongue needed for clear speech (dyspraxia) or impairment of language skills.</p><p>The other conditions in the epilepsy-aphasia spectrum are less common and fall in the middle of the spectrum. Children with IEAD usually have delayed development or regression of language skills. Some have seizures and most have abnormal electrical activity in their brains during sleep, although it is not prominent enough to be classified as CSWS. ACECTS features seizures and developmental regression that can affect movement, language, and attention. Children with ACECTS have abnormal electrical activity in the brain that is sometimes classified as CSWS. ADRESD is characterized by focal seizures, speech difficulties due to dyspraxia, and learning disability.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: GRIN2A
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GRIN2A
+synonym(1): acquired aphasia with epilepsy
+synonym(2): FESD
+synonym(3): focal epilepsies with speech and language disorders
+synonym(4): focal epilepsy with speech disorder and with or without mental retardation
+db-key(1)/db: GTR
+db-key(1)/key: CN181337
+db-key(2)/db: MeSH
+db-key(2)/key: D004827
+db-key(3)/db: MeSH
+db-key(3)/key: D007805
+db-key(4)/db: MeSH
+db-key(4)/key: D013064
+db-key(5)/db: MeSH
+db-key(5)/key: D018887
+db-key(6)/db: MeSH
+db-key(6)/key: D019305
+db-key(7)/db: OMIM
+db-key(7)/key: 245570
+db-key(8)/db: Orphanet
+db-key(8)/key: 725
+db-key(9)/db: Orphanet
+db-key(9)/key: 1945
+db-key(10)/db: Orphanet
+db-key(10)/key: 98818
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 230384001
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 230438007
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 230439004
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 44145005
+reviewed: 2016-11
+published: 2018-04-17

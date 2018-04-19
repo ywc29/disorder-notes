@@ -1,0 +1,49 @@
+name: Noonan syndrome with multiple lentigines
+ghr-page: https://ghr.nlm.nih.gov/condition/noonan-syndrome-with-multiple-lentigines
+text/text-role: description
+text/html: <p>Noonan syndrome with multiple lentigines (formerly called LEOPARD syndrome) is a condition that affects many areas of the body. As the condition name suggests, Noonan syndrome with multiple lentigines is very similar to a condition called Noonan syndrome, and it can be difficult to tell the two disorders apart in early childhood. However, the features of these two conditions differ later in life. The characteristic features of Noonan syndrome with multiple lentigines include brown skin spots called lentigines that are similar to freckles, heart defects, widely spaced eyes (ocular hypertelorism), a sunken chest (pectus excavatum) or protruding chest (pectus carinatum), and short stature. These features vary, however, even among affected individuals in the same family. Not all individuals with Noonan syndrome with multiple lentigines have all the characteristic features of this condition.</p><p>The lentigines seen in Noonan syndrome with multiple lentigines typically first appear in mid-childhood, mostly on the face, neck, and upper body. Affected individuals may have thousands of small dark brown skin spots by the time they reach puberty. Unlike freckles, the appearance of lentigines has nothing to do with sun exposure. In addition to lentigines, people with this condition may have lighter brown skin spots called café-au-lait spots. Café-au-lait spots tend to develop before the lentigines, appearing within the first year of life in most affected people.</p><p>Of the people with Noonan syndrome with multiple lentigines who have heart defects, about 80 percent have hypertrophic cardiomyopathy, which is a thickening of the heart muscle that forces the heart to work harder to pump blood. The hypertrophic cardiomyopathy most often affects the lower left chamber of the heart (the left ventricle). Up to 20 percent of people with Noonan syndrome with multiple lentigines who have heart problems have a narrowing of the artery from the heart to the lungs (pulmonary stenosis).</p><p>People with Noonan syndrome with multiple lentigines can have a distinctive facial appearance. In addition to ocular hypertelorism, affected individuals may have droopy eyelids (ptosis), thick lips, and low-set ears. Affected individuals also usually have an abnormal appearance of the chest; they either have pectus excavatum or pectus carinatum.</p><p>At birth, people with Noonan syndrome with multiple lentigines are typically of normal weight and height, but in some, growth slows over time. This slow growth results in affected individuals being shorter than average, although less than half of people with Noonan syndrome with multiple lentigines have significantly short stature.</p><p>Other signs and symptoms of Noonan syndrome with multiple lentigines include hearing loss caused by abnormalities in the inner ear (sensorineural deafness), mild intellectual disability, and extra folds of skin on the back of the neck. Affected males often have genital abnormalities, which can include undescended testes (cryptorchidism) and a urethra that opens on the underside of the penis (hypospadias). These abnormalities may reduce the ability to have biological children (decreased fertility). Females with Noonan syndrome with multiple lentigines may have poorly developed ovaries and delayed puberty.</p><p>Noonan syndrome with multiple lentigines is one of a group of related conditions collectively known as RASopathies. These conditions all have similar signs and symptoms and are caused by changes in the same cell signaling pathway. In addition to Noonan syndrome with multiple lentigines, the RASopathies include Noonan syndrome, cardiofaciocutaneous syndrome, Costello syndrome, neurofibromatosis type 1, and Legius syndrome.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: BRAF
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BRAF
+related-gene(2)/gene-symbol: MAP2K1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MAP2K1
+related-gene(3)/gene-symbol: PTPN11
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PTPN11
+related-gene(4)/gene-symbol: RAF1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/RAF1
+synonym(1): cardio-cutaneous syndrome
+synonym(2): cardiomyopathic lentiginosis
+synonym(3): diffuse lentiginosis
+synonym(4): lentiginosis profusa
+synonym(5): LEOPARD syndrome
+synonym(6): Moynahan syndrome
+synonym(7): multiple lentigines syndrome
+synonym(8): NSML
+synonym(9): progressive cardiomyopathic lentiginosis
+db-key(1)/db: GTR
+db-key(1)/key: C0175704
+db-key(2)/db: GTR
+db-key(2)/key: C1969056
+db-key(3)/db: GTR
+db-key(3)/key: C3150971
+db-key(4)/db: GTR
+db-key(4)/key: CN074218
+db-key(5)/db: GeneReviews
+db-key(5)/key: leopard
+db-key(6)/db: MeSH
+db-key(6)/key: D044542
+db-key(7)/db: OMIM
+db-key(7)/key: 151100
+db-key(8)/db: OMIM
+db-key(8)/key: 611554
+db-key(9)/db: OMIM
+db-key(9)/key: 613707
+db-key(10)/db: Orphanet
+db-key(10)/key: 500
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 111306001
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 45167004
+reviewed: 2016-06
+published: 2018-04-17

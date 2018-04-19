@@ -1,0 +1,29 @@
+gene-symbol: TPM2
+name: tropomyosin 2
+ghr-page: https://ghr.nlm.nih.gov/gene/TPM2
+text/text-role: function
+text/html: <p>The <i>TPM2</i> gene provides instructions for making a protein called beta (β)-tropomyosin, which is part of the tropomyosin protein family. Tropomyosin proteins regulate the tensing of muscle fibers (muscle contraction) by controlling the binding of two muscle proteins, myosin and actin. In non-muscle cells, tropomyosin proteins play a role in controlling cell shape.</p><p>β-tropomyosin is found primarily in skeletal muscles, which are the muscles used for movement. This protein helps regulate muscle contraction by interacting with other muscle proteins, particularly myosin and actin. These interactions are essential for stabilizing and maintaining structures called sarcomeres within muscle cells. Sarcomeres are the basic units of muscle contraction; they are made of proteins that generate the mechanical force needed for muscles to contract.</p>
+related-health-condition(1)/name: cap myopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cap-myopathy
+related-health-condition(2)/name: congenital fiber-type disproportion
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-fiber-type-disproportion
+related-health-condition(3)/name: distal arthrogryposis type 1
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/distal-arthrogryposis-type-1
+related-health-condition(4)/name: nemaline myopathy
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/nemaline-myopathy
+related-health-condition(5)/name: Sheldon-Hall syndrome
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/sheldon-hall-syndrome
+synonym(1): beta-tropomyosin
+synonym(2): NEM4
+synonym(3): TMSB
+synonym(4): TPM2_HUMAN
+synonym(5): tropomyosin-2
+synonym(6): tropomyosin 2 (beta)
+synonym(7): tropomyosin beta chain
+synonym(8): tropomyosin, skeletal muscle beta
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7169
+db-key(2)/db: OMIM
+db-key(2)/key: 190990
+reviewed: 2015-06
+published: 2018-04-17

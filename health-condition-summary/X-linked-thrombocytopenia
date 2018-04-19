@@ -1,0 +1,26 @@
+name: X-linked thrombocytopenia
+ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-thrombocytopenia
+text/text-role: description
+text/html: <p>X-linked thrombocytopenia is a bleeding disorder that primarily affects males. This condition is characterized by a blood cell abnormality called thrombocytopenia, which is a shortage in the number of blood cell fragments involved in clotting (platelets). Affected individuals often have abnormally small platelets as well, a condition called microthrombocytopenia. X-linked thrombocytopenia can cause individuals to bruise easily or have episodes of prolonged bleeding following minor trauma or even in the absence of injury (spontaneous bleeding). Some people with this condition experience spontaneous bleeding in the brain (cerebral hemorrhage), which can cause brain damage that can be life-threatening.</p><p>Some people with X-linked thrombocytopenia also have patches of red, irritated skin (eczema) or an increased susceptibility to infections. In severe cases, additional features can develop, such as cancer or autoimmune disorders, which occur when the immune system malfunctions and attacks the body's own tissues and organs. It is unclear, however, if people with these features have X-linked thrombocytopenia or a more severe disorder with similar signs and symptoms called Wiskott-Aldrich syndrome.</p><p>Some people have a mild form of the disorder called intermittent thrombocytopenia. These individuals have normal platelet production at times with episodes of thrombocytopenia.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: WAS
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/WAS
+synonym(1): thrombocytopenia 1
+synonym(2): XLT
+db-key(1)/db: GTR
+db-key(1)/key: C1839163
+db-key(2)/db: GeneReviews
+db-key(2)/key: was
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: D69.42
+db-key(4)/db: MeSH
+db-key(4)/key: D013921
+db-key(5)/db: OMIM
+db-key(5)/key: 313900
+db-key(6)/db: Orphanet
+db-key(6)/key: 852
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 37492005
+reviewed: 2018-02
+published: 2018-04-17

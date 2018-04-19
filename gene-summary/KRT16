@@ -1,0 +1,25 @@
+gene-symbol: KRT16
+name: keratin 16
+ghr-page: https://ghr.nlm.nih.gov/gene/KRT16
+text/text-role: function
+text/html: <p>The <i>KRT16</i> gene provides instructions for making a protein called keratin 16 or K16. Keratins are a group of tough, fibrous proteins that form the structural framework of certain cells, particularly cells that make up the skin, hair, and nails. Keratin 16 is produced in the nails, the skin on the palms of the hands and soles of the feet, and the oral mucosa that lines the inside of the mouth.</p><p>Keratin 16 partners with a similar protein, keratin 6a, to form molecules called keratin intermediate filaments. These filaments assemble into dense networks that provide strength and resilience to the skin, nails, and other tissues. Networks of keratin intermediate filaments protect these tissues from being damaged by friction and other everyday physical stresses.  Keratin 16 is also among several keratins involved in wound healing.</p>
+related-health-condition/name: pachyonychia congenita
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pachyonychia-congenita
+synonym(1): CK16
+synonym(2): cytokeratin 16
+synonym(3): cytokeratin-16
+synonym(4): K1C16_HUMAN
+synonym(5): K1CP
+synonym(6): K16
+synonym(7): keratin-16
+synonym(8): keratin 16 (focal non-epidermolytic palmoplantar keratoderma)
+synonym(9): keratin 16, type I
+synonym(10): keratin, type I cytoskeletal 16
+synonym(11): KRT16A
+synonym(12): NEPPK
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3868
+db-key(2)/db: OMIM
+db-key(2)/key: 148067
+reviewed: 2015-12
+published: 2018-04-17

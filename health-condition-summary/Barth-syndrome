@@ -1,0 +1,32 @@
+name: Barth syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/barth-syndrome
+text/text-role: description
+text/html: <p>Barth syndrome is a rare condition characterized by an enlarged and weakened heart (dilated cardiomyopathy), weakness in muscles used for movement (skeletal myopathy), recurrent infections due to small numbers of white blood cells (neutropenia), and short stature. Barth syndrome occurs almost exclusively in males.</p><p>In males with Barth syndrome, dilated cardiomyopathy is often present at birth or develops within the first months of life. Over time, the heart muscle becomes increasingly weakened and is less able to pump blood. Individuals with Barth syndrome may have elastic fibers in place of muscle fibers in some areas of the heart muscle, which contributes to the cardiomyopathy. This condition is called endocardial fibroelastosis; it results in thickening of the muscle and impairs its ability to pump blood. In people with Barth syndrome, the heart problems can lead to heart failure. In rare cases, the cardiomyopathy gets better over time and affected individuals eventually have no symptoms of heart disease.</p><p>In Barth syndrome, skeletal myopathy, particularly of the muscles closest to the center of the body (proximal muscles), is usually noticeable from birth and causes low muscle tone (hypotonia). The muscle weakness often causes delay of motor skills such as crawling and walking. Additionally, affected individuals tend to experience extreme tiredness (fatigue) during strenuous physical activity.</p><p>Most males with Barth syndrome have neutropenia. The levels of white blood cells can be consistently low (persistent), can vary from normal to low (intermittent), or can cycle between regular episodes of normal and low (cyclical). Neutropenia makes it more difficult for the body to fight off foreign invaders such as bacteria and viruses, so affected individuals have an increased risk of recurrent infections.</p><p>Newborns with Barth syndrome are often smaller than normal, and their growth continues to be slow throughout life. Some boys with this condition experience a growth spurt in puberty and are of average height as adults, but many men with Barth syndrome continue to have short stature in adulthood.</p><p>Males with Barth syndrome often have distinctive facial features including prominent cheeks. Affected individuals typically have normal intelligence but often have difficulty performing tasks involving math or visual-spatial skills such as puzzles.</p><p>Males with Barth syndrome have increased levels of a substance called 3-methylglutaconic acid in their blood and urine. The amount of the acid does not appear to influence the signs and symptoms of the condition. Barth syndrome is one of a group of metabolic disorders that can be diagnosed by the presence of increased levels of 3-methylglutaconic acid in urine (3-methylglutaconic aciduria).</p><p>Even though most features of Barth syndrome are present at birth or in infancy, affected individuals may not experience health problems until later in life. The age at which individuals with Barth syndrome display symptoms or are diagnosed varies greatly. The severity of signs and symptoms among affected individuals is also highly variable.</p><p>Males with Barth syndrome have a reduced life expectancy. Many affected children die of heart failure or infection in infancy or early childhood, but those who live into adulthood can survive into their late forties.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: TAZ
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TAZ
+synonym(1): 3-methylglutaconic aciduria type 2
+synonym(2): 3 methylglutaconic aciduria, type II
+synonym(3): BTHS
+synonym(4): cardioskeletal myopathy with neutropenia and abnormal mitochondria
+synonym(5): DNAJC19 defect
+synonym(6): MGA type 2
+synonym(7): MGA type II
+synonym(8): TAZ defect
+db-key(1)/db: GTR
+db-key(1)/key: C0574083
+db-key(2)/db: GeneReviews
+db-key(2)/key: barth
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E78.71
+db-key(4)/db: MeSH
+db-key(4)/key: D056889
+db-key(5)/db: OMIM
+db-key(5)/key: 302060
+db-key(6)/db: Orphanet
+db-key(6)/key: 111
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 297231002
+reviewed: 2014-07
+published: 2018-04-17

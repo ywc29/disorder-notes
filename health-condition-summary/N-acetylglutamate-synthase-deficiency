@@ -1,0 +1,27 @@
+name: N-acetylglutamate synthase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/n-acetylglutamate-synthase-deficiency
+text/text-role: description
+text/html: <p>N-acetylglutamate synthase deficiency is an inherited disorder that causes ammonia to accumulate in the blood. Ammonia, which is formed when proteins are broken down in the body, is toxic if the levels become too high. The nervous system is especially sensitive to the effects of excess ammonia.</p><p>N-acetylglutamate synthase deficiency may become evident in the first few days of life. An infant with this condition may be lacking in energy (lethargic) or unwilling to eat, and have a poorly controlled breathing rate or body temperature. Some babies with this disorder may experience seizures or unusual body movements, or go into a coma. Complications of N-acetylglutamate synthase deficiency may include developmental delay and intellectual disability.</p><p>In some affected individuals, signs and symptoms of N-acetylglutamate synthase deficiency are less severe, and do not appear until later in life. Some people with this form of the disorder cannot tolerate high-protein foods such as meat. They may experience sudden episodes of ammonia toxicity, resulting in vomiting, lack of coordination, confusion or coma, in response to illness or other stress.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: NAGS
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NAGS
+synonym(1): hyperammonemia, type III
+synonym(2): N-acetylglutamate synthetase deficiency
+synonym(3): NAGS deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0268543
+db-key(2)/db: GeneReviews
+db-key(2)/key: ucd-overview
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E72.29
+db-key(4)/db: MeSH
+db-key(4)/key: D056806
+db-key(5)/db: OMIM
+db-key(5)/key: 237310
+db-key(6)/db: Orphanet
+db-key(6)/key: 927
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 57119000
+reviewed: 2006-10
+published: 2018-04-17

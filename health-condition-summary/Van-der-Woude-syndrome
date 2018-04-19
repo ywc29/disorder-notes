@@ -1,0 +1,26 @@
+name: Van der Woude syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/van-der-woude-syndrome
+text/text-role: description
+text/html: <p>Van der Woude syndrome is a condition that affects the development of the face. Many people with this disorder are born with a cleft lip, a cleft palate (an opening in the roof of the mouth), or both. Affected individuals usually have depressions (pits) near the center of the lower lip, which may appear moist due to the presence of salivary and mucous glands in the pits. Small mounds of tissue on the lower lip may also occur. In some cases, people with van der Woude syndrome have missing teeth.</p><p>People with van der Woude syndrome who have cleft lip and/or palate, like other individuals with these facial conditions, have an increased risk of delayed language development, learning disabilities, or other mild cognitive problems. The average IQ of individuals with van der Woude syndrome is not significantly different from that of the general population.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: IRF6
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/IRF6
+synonym(1): cleft lip and/or palate with mucous cysts of lower lip
+synonym(2): lip-pit syndrome
+synonym(3): VDWS
+synonym(4): VWS
+db-key(1)/db: GTR
+db-key(1)/key: C0175697
+db-key(2)/db: GeneReviews
+db-key(2)/key: vws
+db-key(3)/db: MeSH
+db-key(3)/key: D019465
+db-key(4)/db: OMIM
+db-key(4)/key: 119300
+db-key(5)/db: Orphanet
+db-key(5)/key: 888
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 79261008
+reviewed: 2008-04
+published: 2018-04-17

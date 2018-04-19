@@ -1,0 +1,25 @@
+name: Donohue syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/donohue-syndrome
+text/text-role: description
+text/html: <p>Donohue syndrome is a rare disorder characterized by severe insulin resistance, a condition in which the body's tissues and organs do not respond properly to the hormone insulin. Insulin normally helps regulate blood sugar levels by controlling how much sugar (in the form of glucose) is passed from the bloodstream into cells to be used as energy. Severe insulin resistance leads to problems with regulating blood sugar levels and affects the development and function of organs and tissues throughout the body.</p><p>Severe insulin resistance underlies the varied signs and symptoms of Donohue syndrome. Individuals with Donohue syndrome are unusually small starting before birth, and affected infants experience failure to thrive, which means they do not grow and gain weight at the expected rate. Additional features that become apparent soon after birth include a lack of fatty tissue under the skin (subcutaneous fat); wasting (atrophy) of muscles; excessive body hair growth (hirsutism); multiple cysts on the ovaries in females; and enlargement of the nipples, genitalia, kidneys, heart, and other organs. Most affected individuals also have a skin condition called acanthosis nigricans, in which the skin in body folds and creases becomes thick, dark, and velvety. Distinctive facial features in people with Donohue syndrome include bulging eyes, thick lips, upturned nostrils, and low-set ears. Affected individuals develop recurrent, life-threatening infections beginning in infancy.</p><p>Donohue syndrome is one of a group of related conditions described as inherited severe insulin resistance syndromes. These disorders, which also include Rabson-Mendenhall syndrome and type A insulin resistance syndrome, are considered part of a spectrum. Donohue syndrome represents the most severe end of the spectrum; most children with this condition do not survive beyond age 2.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: INSR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/INSR
+synonym(1): Donohue's syndrome
+synonym(2): leprechaunism
+synonym(3): leprechaunism syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0265344
+db-key(2)/db: GeneReviews
+db-key(2)/key: insr-ir
+db-key(3)/db: MeSH
+db-key(3)/key: D056731
+db-key(4)/db: OMIM
+db-key(4)/key: 246200
+db-key(5)/db: Orphanet
+db-key(5)/key: 508
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 111307005
+reviewed: 2014-12
+published: 2018-04-17

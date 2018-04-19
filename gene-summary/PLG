@@ -1,0 +1,18 @@
+gene-symbol: PLG
+name: plasminogen
+ghr-page: https://ghr.nlm.nih.gov/gene/PLG
+text/text-role: function
+text/html: <p>The <i>PLG</i> gene provides instructions for making a protein called plasminogen, which is produced in the liver. Enzymes called plasminogen activators convert plasminogen into the protein plasmin, which breaks down another protein called fibrin. Fibrin is the main protein involved in blood clots and is important for wound healing, creating the framework for normal tissue to grow back. Excess fibrin is broken down when no longer needed, and the new, more flexible normal tissue takes its place.</p>
+related-health-condition/name: congenital plasminogen deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-plasminogen-deficiency
+synonym(1): DKFZp779M0222
+synonym(2): plasmin
+synonym(3): plasminogen isoform 1 precursor
+synonym(4): plasminogen isoform 2 precursor
+synonym(5): PLMN_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5340
+db-key(2)/db: OMIM
+db-key(2)/key: 173350
+reviewed: 2012-08
+published: 2018-04-17

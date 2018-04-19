@@ -1,0 +1,74 @@
+name: Multiple epiphyseal dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/multiple-epiphyseal-dysplasia
+text/text-role: description
+text/html: <p>Multiple epiphyseal dysplasia is a disorder of cartilage and bone development primarily affecting the ends of the long bones in the arms and legs (epiphyses). There are two types of multiple epiphyseal dysplasia, which can be distinguished by their pattern of inheritance. Both the dominant and recessive types have relatively mild signs and symptoms, including joint pain that most commonly affects the hips and knees, early-onset arthritis, and a waddling walk. Although some people with multiple epiphyseal dysplasia have mild short stature as adults, most are of normal height. The majority of individuals are diagnosed during childhood; however, some mild cases may not be diagnosed until adulthood.</p><p>Recessive multiple epiphyseal dysplasia is distinguished from the dominant type by malformations of the hands, feet, and knees and abnormal curvature of the spine (scoliosis). About 50 percent of individuals with recessive multiple epiphyseal dysplasia are born with at least one abnormal feature, including an inward- and upward-turning foot (clubfoot), an opening in the roof of the mouth (cleft palate), an unusual curving of the fingers or toes (clinodactyly), or ear swelling. An abnormality of the kneecap called a double-layered patella is also relatively common.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: COL9A1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/COL9A1
+related-gene(2)/gene-symbol: COL9A2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/COL9A2
+related-gene(3)/gene-symbol: COL9A3
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/COL9A3
+related-gene(4)/gene-symbol: COMP
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/COMP
+related-gene(5)/gene-symbol: MATN3
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/MATN3
+related-gene(6)/gene-symbol: SLC26A2
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC26A2
+synonym(1): EDM1
+synonym(2): EDM2
+synonym(3): EDM3
+synonym(4): EDM4
+synonym(5): EDM5
+synonym(6): epiphyseal dysplasia, Fairbank type
+synonym(7): epiphyseal dysplasia, multiple, 1
+synonym(8): epiphyseal dysplasia, multiple, 2
+synonym(9): epiphyseal dysplasia, multiple, 3
+synonym(10): epiphyseal dysplasia, multiple, 4
+synonym(11): epiphyseal dysplasia, multiple, 5
+synonym(12): epiphyseal dysplasia, Ribbing type
+synonym(13): MED
+synonym(14): multiple epiphyseal dysplasia, autosomal dominant
+synonym(15): multiple epiphyseal dysplasia, autosomal recessive
+synonym(16): rMED
+db-key(1)/db: GTR
+db-key(1)/key: C1832998
+db-key(2)/db: GTR
+db-key(2)/key: C1838280
+db-key(3)/db: GTR
+db-key(3)/key: C1838429
+db-key(4)/db: GTR
+db-key(4)/key: C1846843
+db-key(5)/db: GTR
+db-key(5)/key: C1847593
+db-key(6)/db: GTR
+db-key(6)/key: C2675767
+db-key(7)/db: GeneReviews
+db-key(7)/key: edm
+db-key(8)/db: GeneReviews
+db-key(8)/key: edm-ad
+db-key(9)/db: MeSH
+db-key(9)/key: D010009
+db-key(10)/db: OMIM
+db-key(10)/key: 120210
+db-key(11)/db: OMIM
+db-key(11)/key: 132400
+db-key(12)/db: OMIM
+db-key(12)/key: 226900
+db-key(13)/db: OMIM
+db-key(13)/key: 600204
+db-key(14)/db: OMIM
+db-key(14)/key: 600969
+db-key(15)/db: OMIM
+db-key(15)/key: 607078
+db-key(16)/db: Orphanet
+db-key(16)/key: 251
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 313339007
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 59708000
+reviewed: 2014-11
+published: 2018-04-17

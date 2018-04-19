@@ -1,0 +1,25 @@
+gene-symbol: ASAH1
+name: N-acylsphingosine amidohydrolase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ASAH1
+text/text-role: function
+text/html: <p>The <i>ASAH1</i> gene provides instructions for making an enzyme called acid ceramidase. This enzyme is found in lysosomes, which are cell compartments that digest and recycle materials. Within lysosomes, acid ceramidase breaks down fats called ceramides. Ceramides are typically found within the membranes that surround cells and play a role in regulating cell maturation (differentiation), growth and division of cells (proliferation), and controlled cell death (apoptosis). Additionally, ceramides are a component of a fatty substance called myelin that insulates and protects nerve cells. When ceramides need to be replaced, they travel to lysosomes where acid ceramidase breaks them down into a fat called sphingosine and a fatty acid. These two breakdown products are recycled to create new ceramides for the body to use.</p>
+related-health-condition(1)/name: Farber lipogranulomatosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/farber-lipogranulomatosis
+related-health-condition(2)/name: spinal muscular atrophy with progressive myoclonic epilepsy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/spinal-muscular-atrophy-with-progressive-myoclonic-epilepsy
+synonym(1): AC
+synonym(2): ACDase
+synonym(3): acylsphingosine deacylase
+synonym(4): ASAH
+synonym(5): ASAH1_HUMAN
+synonym(6): FLJ21558
+synonym(7): FLJ22079
+synonym(8): N-acylsphingosine amidohydrolase (acid ceramidase) 1
+synonym(9): PHP
+synonym(10): PHP32
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 427
+db-key(2)/db: OMIM
+db-key(2)/key: 613468
+reviewed: 2013-12
+published: 2018-04-17

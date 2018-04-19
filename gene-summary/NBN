@@ -1,0 +1,28 @@
+gene-symbol: NBN
+name: nibrin
+ghr-page: https://ghr.nlm.nih.gov/gene/NBN
+text/text-role: function
+text/html: <p>The <i>NBN</i> gene provides instructions for making a protein called nibrin. This protein is involved in several critical cellular functions, including the repair of damaged DNA.</p><p>Nibrin interacts with two other proteins, produced from the <i>MRE11A</i> and <i>RAD50</i> genes, as part of a larger protein complex. Nibrin regulates the activity of this complex by carrying the MRE11A and RAD50 proteins into the cell's nucleus and guiding them to sites of DNA damage. The proteins work together to mend broken strands of DNA. DNA can be damaged by agents such as toxic chemicals or radiation, and breaks in DNA strands also occur naturally when chromosomes exchange genetic material in preparation for cell division. Repairing DNA prevents cells from accumulating genetic damage that may cause them to die or to divide uncontrollably.</p><p>The MRE11A/RAD50/NBN complex interacts with the protein produced from the <i>ATM</i> gene, which plays an essential role in recognizing broken strands of DNA and coordinating their repair. The MRE11A/RAD50/NBN complex helps maintain the stability of a cell's genetic information through its roles in repairing damaged DNA and regulating cell division. Because these functions are critical for preventing the formation of cancerous tumors, nibrin is described as a tumor suppressor.</p>
+related-health-condition(1)/name: breast cancer
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
+related-health-condition(2)/name: Nijmegen breakage syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/nijmegen-breakage-syndrome
+related-health-condition(3)/name: ovarian cancer
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/ovarian-cancer
+related-health-condition(4)/name: prostate cancer
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+synonym(1): AT-V1
+synonym(2): AT-V2
+synonym(3): ATV
+synonym(4): Cell cycle regulatory protein p95
+synonym(5): NBN_HUMAN
+synonym(6): NBS
+synonym(7): NBS1
+synonym(8): Nijmegen breakage syndrome 1
+synonym(9): p95 protein of the MRE11/RAD50 complex
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4683
+db-key(2)/db: OMIM
+db-key(2)/key: 602667
+reviewed: 2011-04
+published: 2018-04-17

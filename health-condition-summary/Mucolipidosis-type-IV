@@ -1,0 +1,28 @@
+name: Mucolipidosis type IV
+ghr-page: https://ghr.nlm.nih.gov/condition/mucolipidosis-type-iv
+text/text-role: description
+text/html: <p>Mucolipidosis type IV is an inherited disorder characterized by delayed development and vision impairment that worsens over time. The severe form of the disorder is called typical mucolipidosis type IV, and the mild form is called atypical mucolipidosis type IV.</p><p>Approximately 95 percent of individuals with this condition have the severe form. People with typical mucolipidosis type IV have delayed development of mental and motor skills (psychomotor delay). Motor skills include sitting, standing, walking, grasping objects, and writing. Psychomotor delay is moderate to severe and usually becomes apparent during the first year of life. Affected individuals have intellectual disability, limited or absent speech, difficulty chewing and swallowing, weak muscle tone (hypotonia) that gradually turns into abnormal muscle stiffness (spasticity), and problems controlling hand movements. Most people with typical mucolipidosis type IV are unable to walk independently. In about 15 percent of affected individuals, the psychomotor problems worsen over time.</p><p>Vision may be normal at birth in people with typical mucolipidosis type IV, but it becomes increasingly impaired during the first decade of life. Individuals with this condition develop clouding of the clear covering of the eye (cornea) and progressive breakdown of the light-sensitive layer at the back of the eye (retina). By their early teens, affected individuals have severe vision loss or blindness.</p><p>People with typical mucolipidosis type IV also have impaired production of stomach acid (achlorhydria). Achlorhydria does not cause any symptoms in these individuals, but it does result in unusually high levels of gastrin in the blood. Gastrin is a hormone that regulates the production of stomach acid. Individuals with mucolipidosis type IV may not have enough iron in their blood, which can lead to a shortage of red blood cells (anemia). People with the severe form of this disorder usually survive to adulthood; however, they may have a shortened lifespan.</p><p>About 5 percent of affected individuals have atypical mucolipidosis type IV. These individuals usually have mild psychomotor delay and may develop the ability to walk. People with atypical mucolipidosis type IV tend to have milder eye abnormalities than those with the severe form of the disorder. Achlorhydria also may be present in mildly affected individuals.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: MCOLN1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MCOLN1
+synonym(1): ganglioside sialidase deficiency
+synonym(2): ML4
+synonym(3): MLIV
+synonym(4): sialolipidosis
+db-key(1)/db: GTR
+db-key(1)/key: C0238286
+db-key(2)/db: GeneReviews
+db-key(2)/key: ml4
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E75.11
+db-key(4)/db: MeSH
+db-key(4)/key: D009081
+db-key(5)/db: OMIM
+db-key(5)/key: 252650
+db-key(6)/db: Orphanet
+db-key(6)/key: 578
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 111384001
+reviewed: 2013-08
+published: 2018-04-17

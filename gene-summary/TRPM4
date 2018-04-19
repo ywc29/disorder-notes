@@ -1,0 +1,23 @@
+gene-symbol: TRPM4
+name: transient receptor potential cation channel subfamily M member 4
+ghr-page: https://ghr.nlm.nih.gov/gene/TRPM4
+text/text-role: function
+text/html: <p>The <i>TRPM4</i> gene provides instructions for making a protein called transient receptor potential cation channel subfamily M member 4 (TRPM4). This protein acts as a channel, opening and closing at specific times to control the flow of positively charged atoms (cations) into and out of cells. The TRPM4 channel is embedded in the outer membrane of cells throughout the body, but it is abundant in heart (cardiac) cells and plays key roles in these cells' ability to generate and transmit electrical signals. TRPM4 channels play a major role in signaling the start of each heartbeat, coordinating the contractions of the upper and lower chambers of the heart, and maintaining a normal heart rhythm.</p><p>In addition to regulating electric signaling in the heart, the TRPM4 channel is important for the normal functioning of the immune system, the nervous system, the kidneys, and the pancreas.</p>
+related-health-condition(1)/name: Brugada syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/brugada-syndrome
+related-health-condition(2)/name: progressive familial heart block
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/progressive-familial-heart-block
+synonym(1): calcium-activated non-selective cation channel 1
+synonym(2): hTRPM4
+synonym(3): long transient receptor potential channel 4
+synonym(4): LTrpC4
+synonym(5): melastatin-4
+synonym(6): transient receptor potential cation channel, subfamily M, member 4
+synonym(7): TRPM4_HUMAN
+synonym(8): TRPM4B
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 54795
+db-key(2)/db: OMIM
+db-key(2)/key: 606936
+reviewed: 2015-04
+published: 2018-04-17

@@ -1,0 +1,24 @@
+name: Atelosteogenesis type 3
+ghr-page: https://ghr.nlm.nih.gov/condition/atelosteogenesis-type-3
+text/text-role: description
+text/html: <p>Atelosteogenesis type 3 is a disorder that affects the development of bones throughout the body. Affected individuals are born with inward- and upward-turning feet (clubfeet) and dislocations of the hips, knees, and elbows. Bones in the spine, rib cage, pelvis, and limbs may be underdeveloped or in some cases absent. As a result of the limb bone abnormalities, individuals with this condition have very short arms and legs. Their hands and feet are wide, with broad fingers and toes that may be permanently bent (camptodactyly) or fused together (syndactyly). Characteristic facial features include a broad forehead, wide-set eyes (hypertelorism), and an underdeveloped nose. About half of affected individuals have an opening in the roof of the mouth (a cleft palate.)</p><p>Individuals with atelosteogenesis type 3 typically have an underdeveloped rib cage that affects the development and functioning of the lungs. As a result, affected individuals are usually stillborn or die shortly after birth from respiratory failure. Some affected individuals survive longer, usually with intensive medical support. They typically experience further respiratory problems as a result of weakness of the airways that can lead to partial closing, short pauses in breathing (apnea), or frequent infections. People with atelosteogenesis type 3 who survive past the newborn period may have learning disabilities and delayed language skills, which are probably caused by low levels of oxygen in the brain due to respiratory problems. As a result of their orthopedic abnormalities, they also have delayed development of motor skills such as standing and walking.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FLNB
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FLNB
+synonym(1): AOIII
+synonym(2): atelosteogenesis type III
+db-key(1)/db: GTR
+db-key(1)/key: C3668942
+db-key(2)/db: GeneReviews
+db-key(2)/key: flnb-dis
+db-key(3)/db: MeSH
+db-key(3)/key: D010009
+db-key(4)/db: OMIM
+db-key(4)/key: 108721
+db-key(5)/db: Orphanet
+db-key(5)/key: 56305
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 43814000
+reviewed: 2011-09
+published: 2018-04-17

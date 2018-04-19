@@ -1,0 +1,55 @@
+name: Hereditary hyperekplexia
+ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hyperekplexia
+text/text-role: description
+text/html: <p>Hereditary hyperekplexia is a condition in which affected infants have increased muscle tone (hypertonia) and an exaggerated startle reaction to unexpected stimuli, especially loud noises. Following the startle reaction, infants experience a brief period in which they are very rigid and unable to move. During these rigid periods, some infants stop breathing, which, if prolonged, can be fatal. This condition may explain some cases of sudden infant death syndrome (SIDS), which is a major cause of unexplained death in babies younger than 1 year. Infants with hereditary hyperekplexia have hypertonia at all times, except when they are sleeping.</p><p>Other signs and symptoms of hereditary hyperekplexia can include muscle twitches when falling asleep (hypnagogic myoclonus) and movements of the arms or legs while asleep. Some infants, when tapped on the nose, extend their head forward and have spasms of the limb and neck muscles. Rarely, infants with hereditary hyperekplexia experience recurrent seizures (epilepsy).</p><p>The signs and symptoms of hereditary hyperekplexia typically fade by age 1. However, older individuals with hereditary hyperekplexia may still startle easily and have periods of rigidity, which can cause them to fall down.  Some individuals with this condition have a low tolerance for crowded places and loud noises. Some affected people have persistent limb movements during sleep. Affected individuals who have epilepsy have the disorder throughout their lives.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: ARHGEF9
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ARHGEF9
+related-gene(2)/gene-symbol: GLRA1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GLRA1
+related-gene(3)/gene-symbol: GLRB
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/GLRB
+related-gene(4)/gene-symbol: GPHN
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/GPHN
+related-gene(5)/gene-symbol: SLC6A5
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC6A5
+synonym(1): congenital stiff-man syndrome
+synonym(2): congenital stiff-person syndrome
+synonym(3): familial hyperekplexia
+synonym(4): hyperekplexia
+synonym(5): startle syndrome
+synonym(6): STHE
+synonym(7): stiff-baby syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0234166
+db-key(2)/db: GTR
+db-key(2)/key: C1835614
+db-key(3)/db: GTR
+db-key(3)/key: C1845102
+db-key(4)/db: GTR
+db-key(4)/key: C3553288
+db-key(5)/db: GTR
+db-key(5)/key: C3553291
+db-key(6)/db: GeneReviews
+db-key(6)/key: hyperek
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: G25.82
+db-key(8)/db: MeSH
+db-key(8)/key: D016750
+db-key(9)/db: OMIM
+db-key(9)/key: 149400
+db-key(10)/db: OMIM
+db-key(10)/key: 300607
+db-key(11)/db: OMIM
+db-key(11)/key: 614618
+db-key(12)/db: OMIM
+db-key(12)/key: 614619
+db-key(13)/db: Orphanet
+db-key(13)/key: 3197
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 19557000
+reviewed: 2010-04
+published: 2018-04-17

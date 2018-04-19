@@ -1,0 +1,22 @@
+name: 16
+ghr-page: https://ghr.nlm.nih.gov/chromosome/16
+text/text-role: description
+text/html: <p>Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 16, one copy inherited from each parent, form one of the pairs. Chromosome 16 spans more than 90 million DNA building blocks (base pairs) and represents almost 3 percent of the total DNA in cells.</p><p>Identifying genes on each chromosome is an active area of genetic research.  Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 16 likely contains 800 to 900 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.</p>
+related-health-condition(1)/name: 16p11.2 deletion syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/16p112-deletion-syndrome
+related-health-condition(2)/name: 16p11.2 duplication
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/16p112-duplication
+related-health-condition(3)/name: 16p12.2 microdeletion
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/16p122-microdeletion
+related-health-condition(4)/name: alveolar capillary dysplasia with misalignment of pulmonary veins
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/alveolar-capillary-dysplasia-with-misalignment-of-pulmonary-veins
+related-health-condition(5)/name: core binding factor acute myeloid leukemia
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/core-binding-factor-acute-myeloid-leukemia
+related-health-condition(6)/name: Rubinstein-Taybi syndrome
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/rubinstein-taybi-syndrome
+db-key(1)/db: GeneReviews
+db-key(1)/key: del16p11_2
+db-key(2)/db: GeneReviews
+db-key(2)/key: rsts
+reviewed: 2017-08
+published: 2018-04-17

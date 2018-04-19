@@ -1,0 +1,41 @@
+name: WAGR syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/wagr-syndrome
+text/text-role: description
+text/html: <p>WAGR syndrome is a disorder that affects many body systems and is named for its main features: Wilms tumor, anirida, genitourinary anomalies, and intellectual disability (formerly referred to as mental retardation).</p><p>People with WAGR syndrome have a 45 to 60 percent chance of developing Wilms tumor, a rare form of kidney cancer. This type of cancer is most often diagnosed in children but is sometimes seen in adults.</p><p>Most people with WAGR syndrome have aniridia, an absence of the colored part of the eye (the iris). This can cause reduction in the sharpness of vision (visual acuity) and increased sensitivity to light (photophobia). Aniridia is typically the first noticeable sign of WAGR syndrome. Other eye problems may also develop, such as clouding of the lens of the eyes (cataracts), increased pressure in the eyes (glaucoma), and involuntary eye movements (nystagmus).</p><p>Abnormalities of the genitalia and urinary tract (genitourinary anomalies) are seen more frequently in males with WAGR syndrome than in affected females. The most common genitourinary anomaly in affected males is undescended testes (cryptorchidism). Females may not have functional ovaries and instead have undeveloped clumps of tissue called streak gonads.  Females may also have a heart-shaped (bicornate) uterus, which makes it difficult to carry a pregnancy to term.</p><p>Another common feature of WAGR syndrome is intellectual disability. Affected individuals often have difficulty processing, learning, and properly responding to information. Some individuals with WAGR syndrome also have psychiatric or behavioral problems including depression, anxiety, attention deficit hyperactivity disorder (ADHD), obsessive-compulsive disorder (OCD), or a developmental disorder called autism that affects communication and social interaction.</p><p>Other signs and symptoms of WAGR syndrome can include childhood-onset obesity, inflammation of the pancreas (pancreatitis), and kidney failure. When WAGR syndrome includes childhood-onset obesity, it is often referred to as WAGRO syndrome.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: BDNF
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BDNF
+related-gene(2)/gene-symbol: PAX6
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PAX6
+related-gene(3)/gene-symbol: WT1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/WT1
+related-chromosome/name: 11
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/11
+synonym(1): 11p deletion syndrome
+synonym(2): 11p partial monosomy syndrome
+synonym(3): WAGR complex
+synonym(4): WAGR contiguous gene syndrome
+synonym(5): Wilms tumor-aniridia-genital anomalies-retardation syndrome
+synonym(6): Wilms tumor-aniridia-genitourinary anomalies-MR syndrome
+synonym(7): Wilms tumor, aniridia, genitourinary anomalies, and mental retardation syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0206115
+db-key(2)/db: GTR
+db-key(2)/key: C2675904
+db-key(3)/db: GeneReviews
+db-key(3)/key: aniridia
+db-key(4)/db: GeneReviews
+db-key(4)/key: wilms-ov
+db-key(5)/db: MeSH
+db-key(5)/key: D017624
+db-key(6)/db: OMIM
+db-key(6)/key: 194072
+db-key(7)/db: OMIM
+db-key(7)/key: 612469
+db-key(8)/db: Orphanet
+db-key(8)/key: 893
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 4135001
+reviewed: 2014-12
+published: 2018-04-17

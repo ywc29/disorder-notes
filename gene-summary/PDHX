@@ -1,0 +1,26 @@
+gene-symbol: PDHX
+name: pyruvate dehydrogenase complex component X
+ghr-page: https://ghr.nlm.nih.gov/gene/PDHX
+text/text-role: function
+text/html: <p>The <i>PDHX</i> gene provides instructions for making a protein called E3 binding protein, which is part of a large group of proteins known as the pyruvate dehydrogenase complex. This complex is made up of several enzymes, including one called E3, and other proteins. E3 binding protein attaches E3 to the complex and provides the correct structure for the complex to perform its function.</p><p>The pyruvate dehydrogenase complex plays an important role in the pathways that convert the energy from food into a form that cells can use. This enzyme converts a molecule called pyruvate, which is formed from the breakdown of carbohydrates, into another molecule called acetyl-CoA. This conversion is essential to begin the series of chemical reactions that produces adenosine triphosphate (ATP), the cell's main energy source.</p>
+related-health-condition(1)/name: Leigh syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+related-health-condition(2)/name: pyruvate dehydrogenase deficiency
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pyruvate-dehydrogenase-deficiency
+synonym(1): dihydrolipoamide dehydrogenase-binding protein of pyruvate dehydrogenase complex
+synonym(2): DLDBP
+synonym(3): E3BP
+synonym(4): lipoyl-containing pyruvate dehydrogenase complex component X
+synonym(5): ODPX_HUMAN
+synonym(6): OPDX
+synonym(7): proX
+synonym(8): pyruvate dehydrogenase complex, component X
+synonym(9): pyruvate dehydrogenase complex, E3-binding protein subunit
+synonym(10): pyruvate dehydrogenase complex, lipoyl-containing component X
+synonym(11): pyruvate dehydrogenase protein X component, mitochondrial
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8050
+db-key(2)/db: OMIM
+db-key(2)/key: 608769
+reviewed: 2012-07
+published: 2018-04-17

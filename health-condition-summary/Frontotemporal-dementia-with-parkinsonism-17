@@ -1,0 +1,27 @@
+name: Frontotemporal dementia with parkinsonism-17
+ghr-page: https://ghr.nlm.nih.gov/condition/frontotemporal-dementia-with-parkinsonism-17
+text/text-role: description
+text/html: <p>Frontotemporal dementia with parkinsonism-17 (FTDP-17) is a brain disorder. It is part of a group of conditions, called frontotemporal dementia or frontotemporal degeneration, that are characterized by a loss of nerve cells (neurons) in areas of the brain called the frontal and temporal lobes. Over time, a loss of these cells can affect personality, behavior, language, and movement.</p><p>The signs and symptoms of FTDP-17 usually become noticeable in a person's forties or fifties. Most affected people survive 5 to 10 years after the appearance of symptoms, although a few have survived for two decades or more.</p><p>Changes in personality and behavior are often early signs of FTDP-17. These changes include a loss of inhibition, inappropriate emotional responses, restlessness, neglect of personal hygiene, and a general loss of interest in activities and events. The disease also leads to deterioration of cognitive functions (dementia), including problems with judgment, planning, and concentration. Some people with FTDP-17 develop psychiatric symptoms, including obsessive-compulsive behaviors, strongly held false beliefs (delusions), and false perceptions (hallucinations). It may become difficult for affected individuals to interact with others in a socially appropriate manner. They increasingly require help with personal care and other activities of daily living.</p><p>Many people with FTDP-17 develop problems with speech and language. They may have trouble finding words, confuse one word with another (semantic paraphasias), and repeat words spoken by others (echolalia). Difficulties with speech and language worsen over time, and most affected individuals eventually lose the ability to communicate.</p><p>FTDP-17 is also characterized by problems with movement that worsen over time. Many affected individuals develop features of parkinsonism, including tremors, rigidity, and unusually slow movement (bradykinesia). As the disease progresses, most affected individuals become unable to walk. Some people with FTDP-17 also have restricted up-and-down eye movement (vertical gaze palsy) and rapid abnormal movements of both eyes (saccades).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: MAPT
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MAPT
+synonym(1): DDPAC
+synonym(2): disinhibition-dementia-parkinsonism-amytrophy complex
+synonym(3): familial Pick's disease
+synonym(4): FTDP-17
+synonym(5): Wilhelmsen-Lynch disease
+db-key(1)/db: GTR
+db-key(1)/key: C0338451
+db-key(2)/db: GeneReviews
+db-key(2)/key: ftdp-17
+db-key(3)/db: MeSH
+db-key(3)/key: D057180
+db-key(4)/db: OMIM
+db-key(4)/key: 600274
+db-key(5)/db: Orphanet
+db-key(5)/key: 282
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702429008
+reviewed: 2017-03
+published: 2018-04-17

@@ -1,0 +1,27 @@
+name: GM2-gangliosidosis, AB variant
+ghr-page: https://ghr.nlm.nih.gov/condition/gm2-gangliosidosis-ab-variant
+text/text-role: description
+text/html: <p>GM2-gangliosidosis, AB variant is a rare inherited disorder that progressively destroys nerve cells (neurons) in the brain and spinal cord.</p><p>Signs and symptoms of the AB variant become apparent in infancy. Infants with this disorder typically appear normal until the age of 3 to 6 months, when their development slows and muscles used for movement weaken. Affected infants lose motor skills such as turning over, sitting, and crawling. They also develop an exaggerated startle reaction to loud noises. As the disease progresses, children with the AB variant experience seizures, vision and hearing loss, intellectual disability, and paralysis. An eye abnormality called a cherry-red spot, which can be identified with an eye examination, is characteristic of this disorder. Children with the AB variant usually live only into early childhood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: GM2A
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GM2A
+synonym(1): AB variant
+synonym(2): Activator Deficiency/GM2 Gangliosidosis
+synonym(3): Activator-deficient Tay-Sachs disease
+synonym(4): GM2 Activator Deficiency Disease
+synonym(5): GM2 gangliosidosis, type AB
+synonym(6): Hexosaminidase activator deficiency
+synonym(7): Tay-Sachs Disease, AB Variant
+db-key(1)/db: GTR
+db-key(1)/key: C0268275
+db-key(2)/db: MeSH
+db-key(2)/key: D049290
+db-key(3)/db: OMIM
+db-key(3)/key: 272750
+db-key(4)/db: Orphanet
+db-key(4)/key: 845
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 71253000
+reviewed: 2008-09
+published: 2018-04-17

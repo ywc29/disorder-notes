@@ -1,0 +1,28 @@
+gene-symbol: ALG1
+name: ALG1, chitobiosyldiphosphodolichol beta-mannosyltransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/ALG1
+text/text-role: function
+text/html: <p>The <i>ALG1</i> gene provides instructions for making an enzyme that is involved in a process called glycosylation. During this process, complex chains of sugar molecules (oligosaccharides) are attached to proteins and fats (lipids). Glycosylation modifies proteins so they can fully perform their functions and modifies lipids so they can help cells interact with each other. Oligosaccharides are made up of many sugar molecules that are attached to one another in a stepwise process, forming a complex chain. The enzyme produced from the <i>ALG1</i> gene transfers a simple sugar called mannose to growing oligosaccharides at a particular step in the formation of the chain. Once the correct number of sugar molecules are linked together, the oligosaccharide is attached to a protein or lipid.</p>
+related-health-condition/name: ALG1-congenital disorder of glycosylation
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/alg1-congenital-disorder-of-glycosylation
+synonym(1): asparagine-linked glycosylation 1 homolog (yeast, beta-1,4-mannosyltransferase)
+synonym(2): asparagine-linked glycosylation 1, beta-1,4-mannosyltransferase homolog
+synonym(3): asparagine-linked glycosylation protein 1 homolog
+synonym(4): beta-1,4 mannosyltransferase
+synonym(5): beta-1,4-mannosyltransferase
+synonym(6): chitobiosyldiphosphodolichol beta-mannosyltransferase
+synonym(7): GDP-Man:GlcNAc2-PP-dolichol mannosyltransferase
+synonym(8): GDP-mannose-dolichol diphosphochitobiose mannosyltransferase
+synonym(9): hMat-1
+synonym(10): HMAT1
+synonym(11): HMT-1
+synonym(12): HMT1
+synonym(13): mannosyltransferase-1
+synonym(14): Mat-1
+synonym(15): MT-1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 56052
+db-key(2)/db: OMIM
+db-key(2)/key: 605907
+reviewed: 2016-01
+published: 2018-04-17

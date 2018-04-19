@@ -1,0 +1,103 @@
+name: Nemaline myopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/nemaline-myopathy
+text/text-role: description
+text/html: <p>Nemaline myopathy is a disorder that primarily affects skeletal muscles, which are muscles that the body uses for movement. People with nemaline myopathy have muscle weakness (myopathy) throughout the body, but it is typically most severe in the muscles of the face; neck; trunk; and other muscles close to the center of the body (proximal muscles), such as those of the upper arms and legs. This weakness can worsen over time.  Affected individuals may have feeding and swallowing difficulties, foot deformities, abnormal curvature of the spine (scoliosis), and joint deformities (contractures). Most people with nemaline myopathy are able to walk, although some affected children may begin walking later than usual.  As the condition progresses, some people may require wheelchair assistance. In severe cases, the muscles used for breathing are affected and life-threatening breathing difficulties can occur.</p><p>Nemaline myopathy is divided into six types.  In order of decreasing severity, the types are: severe congenital, Amish, intermediate congenital, typical congenital, childhood-onset, and adult-onset. The types are distinguished by the age when symptoms first appear and the severity of symptoms; however, there is overlap among the various types. The severe congenital type is the most life-threatening. Most individuals with this type do not survive past early childhood due to respiratory failure. The Amish type solely affects the Old Order Amish population of Pennsylvania and is typically fatal in early childhood. The most common type of nemaline myopathy is the typical congenital type, which is characterized by muscle weakness and feeding problems beginning in infancy. Most of these individuals do not have severe breathing problems and can walk unassisted. People with the childhood-onset type usually develop muscle weakness in adolescence. The adult-onset type is the mildest of all the various types. People with this type usually develop muscle weakness between ages 20 and 50.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: ACTA1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ACTA1
+related-gene(2)/gene-symbol: CFL2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CFL2
+related-gene(3)/gene-symbol: KBTBD13
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/KBTBD13
+related-gene(4)/gene-symbol: KLHL40
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/KLHL40
+related-gene(5)/gene-symbol: KLHL41
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/KLHL41
+related-gene(6)/gene-symbol: LMOD3
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/LMOD3
+related-gene(7)/gene-symbol: NEB
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/NEB
+related-gene(8)/gene-symbol: TNNT1
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/TNNT1
+related-gene(9)/gene-symbol: TPM2
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/TPM2
+related-gene(10)/gene-symbol: TPM3
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/TPM3
+synonym(1): myopathies, nemaline
+synonym(2): myopathy, nemaline
+synonym(3): nemaline body disease
+synonym(4): nemaline rod disease
+synonym(5): rod body disease
+synonym(6): rod-body myopathy
+synonym(7): rod myopathy
+db-key(1)/db: GTR
+db-key(1)/key: C0206157
+db-key(2)/db: GTR
+db-key(2)/key: C1836447
+db-key(3)/db: GTR
+db-key(3)/key: C1836448
+db-key(4)/db: GTR
+db-key(4)/key: C1836472
+db-key(5)/db: GTR
+db-key(5)/key: C1850569
+db-key(6)/db: GTR
+db-key(6)/key: C1853154
+db-key(7)/db: GTR
+db-key(7)/key: C1854380
+db-key(8)/db: GTR
+db-key(8)/key: C3711389
+db-key(9)/db: GTR
+db-key(9)/key: C3809209
+db-key(10)/db: GTR
+db-key(10)/key: C3810384
+db-key(11)/db: GTR
+db-key(11)/key: C4015360
+db-key(12)/db: GeneReviews
+db-key(12)/key: nem
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: G71.2
+db-key(14)/db: MeSH
+db-key(14)/key: D017696
+db-key(15)/db: OMIM
+db-key(15)/key: 161800
+db-key(16)/db: OMIM
+db-key(16)/key: 256030
+db-key(17)/db: OMIM
+db-key(17)/key: 605355
+db-key(18)/db: OMIM
+db-key(18)/key: 609273
+db-key(19)/db: OMIM
+db-key(19)/key: 609284
+db-key(20)/db: OMIM
+db-key(20)/key: 609285
+db-key(21)/db: OMIM
+db-key(21)/key: 610687
+db-key(22)/db: OMIM
+db-key(22)/key: 615348
+db-key(23)/db: OMIM
+db-key(23)/key: 615731
+db-key(24)/db: OMIM
+db-key(24)/key: 616165
+db-key(25)/db: Orphanet
+db-key(25)/key: 607
+db-key(26)/db: Orphanet
+db-key(26)/key: 171430
+db-key(27)/db: Orphanet
+db-key(27)/key: 171433
+db-key(28)/db: Orphanet
+db-key(28)/key: 171436
+db-key(29)/db: Orphanet
+db-key(29)/key: 171439
+db-key(30)/db: Orphanet
+db-key(30)/key: 171442
+db-key(31)/db: Orphanet
+db-key(31)/key: 207009
+db-key(32)/db: Orphanet
+db-key(32)/key: 98902
+db-key(33)/db: SNOMED CT
+db-key(33)/key: 75072002
+reviewed: 2015-12
+published: 2018-04-17

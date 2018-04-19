@@ -1,0 +1,21 @@
+gene-symbol: ADCY5
+name: adenylate cyclase 5
+ghr-page: https://ghr.nlm.nih.gov/gene/ADCY5
+text/text-role: function
+text/html: <p>The <i>ADCY5</i> gene provides instructions for making an enzyme called adenylate cyclase 5. This enzyme helps convert a molecule called adenosine triphosphate (ATP) to another molecule called cyclic adenosine monophosphate (cAMP). ATP is a molecule that supplies energy for cells' activities, including muscle contraction, and cAMP is involved in signaling for many cellular functions.</p>
+related-health-condition/name: ADCY5-related dyskinesia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/adcy5-related-dyskinesia
+synonym(1): AC5
+synonym(2): adenylate cyclase type 5
+synonym(3): adenylate cyclase type 5 isoform 1
+synonym(4): adenylate cyclase type 5 isoform 2
+synonym(5): adenylate cyclase type V
+synonym(6): adenylyl cyclase 5
+synonym(7): ATP pyrophosphate-lyase 5
+synonym(8): FDFM
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 111
+db-key(2)/db: OMIM
+db-key(2)/key: 600293
+reviewed: 2015-07
+published: 2018-04-17

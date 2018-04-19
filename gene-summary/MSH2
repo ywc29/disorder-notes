@@ -1,0 +1,24 @@
+gene-symbol: MSH2
+name: mutS homolog 2
+ghr-page: https://ghr.nlm.nih.gov/gene/MSH2
+text/text-role: function
+text/html: <p>The <i>MSH2</i> gene provides instructions for making a protein that plays an essential role in DNA repair. This protein helps fix errors that are made when DNA is copied (DNA replication) in preparation for cell division. The MSH2 protein joins with one of two other proteins, MSH6 or MSH3 (each produced from a different gene), to form a protein complex. This complex identifies locations on the DNA where errors have been made during DNA replication. Another group of proteins, the MLH1-PMS2 protein complex, then repairs the errors. The <i>MSH2</i> gene is a member of a set of genes known as the mismatch repair (MMR) genes.</p>
+related-health-condition(1)/name: Lynch syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/lynch-syndrome
+related-health-condition(2)/name: ovarian cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/ovarian-cancer
+synonym(1): COCA1
+synonym(2): HNPCC
+synonym(3): HNPCC1
+synonym(4): MSH2_HUMAN
+synonym(5): mutS (E. coli) homolog 2
+synonym(6): mutS (E. coli) homolog 2 (colon cancer, nonpolyposis type 1)
+synonym(7): mutS homolog 2, colon cancer, nonpolyposis type 1 (E. coli)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4436
+db-key(2)/db: OMIM
+db-key(2)/key: 158320
+db-key(3)/db: OMIM
+db-key(3)/key: 609309
+reviewed: 2015-10
+published: 2018-04-17

@@ -1,0 +1,15 @@
+gene-symbol: UMOD
+name: uromodulin
+ghr-page: https://ghr.nlm.nih.gov/gene/UMOD
+text/text-role: function
+text/html: <p>The <i>UMOD</i> gene provides instructions for making a protein called uromodulin. This protein is produced by the kidneys and then excreted from the body in urine. The function of uromodulin remains unclear, although it is known to be the most abundant protein in the urine of healthy individuals. Researchers have suggested that uromodulin may protect against urinary tract infections. It may also help control the amount of water in urine.</p>
+related-health-condition/name: uromodulin-associated kidney disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/uromodulin-associated-kidney-disease
+synonym(1): Tamm-Horsfall protein
+synonym(2): UROM_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7369
+db-key(2)/db: OMIM
+db-key(2)/key: 191845
+reviewed: 2009-12
+published: 2018-04-17

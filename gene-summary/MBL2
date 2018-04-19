@@ -1,0 +1,28 @@
+gene-symbol: MBL2
+name: mannose binding lectin 2
+ghr-page: https://ghr.nlm.nih.gov/gene/MBL2
+text/text-role: function
+text/html: <p>The <i>MBL2</i> gene provides instructions for making a protein that assembles into a protein complex called mannose-binding lectin. Functional mannose-binding lectins are made up of two to six protein groups called trimers, which are each composed of three of the protein pieces (subunits) produced from the <i>MBL2</i> gene. This protein complex plays an important role in the immune system's response to foreign invaders (pathogens).</p><p>Mannose-binding lectin recognizes and attaches (binds) to sugars, such as mannose, fucose, and glucose, that are found on the surface of bacteria, viruses, and yeast. This binding turns on (activates) the complement system, which is a group of immune system proteins that work together to destroy pathogens, trigger inflammation, and remove debris from cells and tissues. Attachment of mannose-binding lectin also targets the pathogen to be engulfed and broken down by special immune cells. Recognition of foreign invaders by mannose-binding lectin provides one of the body's first lines of defense against infection.</p>
+related-health-condition/name: mannose-binding lectin deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mannose-binding-lectin-deficiency
+synonym(1): COLEC1
+synonym(2): collectin-1
+synonym(3): HSMBPC
+synonym(4): mannan-binding lectin
+synonym(5): mannose-binding lectin (protein C) 2, soluble
+synonym(6): mannose-binding lectin (protein C) 2, soluble (opsonic defect)
+synonym(7): mannose-binding lectin 2, soluble (opsonic defect)
+synonym(8): mannose-binding protein C
+synonym(9): mannose-binding protein C precursor
+synonym(10): MBL
+synonym(11): MBL2_HUMAN
+synonym(12): MBL2D
+synonym(13): MBP
+synonym(14): MBP-C
+synonym(15): MBP1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4153
+db-key(2)/db: OMIM
+db-key(2)/key: 154545
+reviewed: 2012-03
+published: 2018-04-17

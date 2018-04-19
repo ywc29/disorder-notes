@@ -1,0 +1,22 @@
+gene-symbol: AUH
+name: AU RNA binding methylglutaconyl-CoA hydratase
+ghr-page: https://ghr.nlm.nih.gov/gene/AUH
+text/text-role: function
+text/html: <p>The <i>AUH</i> gene provides instructions for producing an enzyme called 3-methylglutaconyl-CoA hydratase. This enzyme is found in cell structures called mitochondria, which convert energy from food into a form that cells can use.     Within mitochondria, this enzyme plays an important role in breaking down proteins into smaller molecules that cells can use to produce energy. Specifically, 3-methylglutaconyl-CoA hydratase is responsible for the fifth step in breaking down the protein building block (amino acid) leucine. The enzyme converts a molecule called 3-methylglutaconyl-CoA into another molecule called 3-hydroxy-3-methylglutaryl-CoA.</p><p>3-methylglutaconyl-CoA hydratase also has the ability to attach (bind) to RNA, a chemical cousin of DNA.  Researchers are working to determine the purpose of this RNA-binding ability.</p>
+related-health-condition/name: 3-methylglutaconyl-CoA hydratase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/3-methylglutaconyl-coa-hydratase-deficiency
+synonym(1): 3-methylglutaconyl-CoA hydratase
+synonym(2): 3-methylglutaconyl Coenzyme A hydratase
+synonym(3): AU RNA binding protein/enoyl-CoA hydratase
+synonym(4): AU RNA binding protein/enoyl-Coenzyme A hydratase
+synonym(5): AU RNA-binding protein/enoyl-Coenzyme A hydratase
+synonym(6): AU-specific RNA-binding protein
+synonym(7): AUMH_HUMAN
+synonym(8): enoyl-Coenzyme A hydratase
+synonym(9): methylglutaconyl-CoA hydratase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 549
+db-key(2)/db: OMIM
+db-key(2)/key: 600529
+reviewed: 2014-06
+published: 2018-04-17

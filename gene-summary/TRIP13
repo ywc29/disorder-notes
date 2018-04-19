@@ -1,0 +1,22 @@
+gene-symbol: TRIP13
+name: thyroid hormone receptor interactor 13
+ghr-page: https://ghr.nlm.nih.gov/gene/TRIP13
+text/text-role: function
+text/html: <p>The <i>TRIP13</i> gene provides instructions for making a protein that has several roles in cell division. One important role is to help ensure proper chromosome separation when cells divide. Before cells divide, they must copy all of their chromosomes. The copied DNA from each chromosome is arranged into two identical structures, called sister chromatids, which are attached to one another during the early stages of cell division. The sets of chromosomes align within the cell, with each chromatid attached to a structure called a spindle microtubule; when all chromatids are correctly attached, the spindle microtubule pulls the two halves of the chromatid pair to opposite sides of the cell. The cell then divides in two such that each new cell contains one complete set of chromosomes.</p><p>Cells have a mechanism, called the spindle assembly checkpoint, that delays cell division until each sister chromatid is attached to a spindle microtubule. The TRIP13 protein appears to regulate this checkpoint, although the exact mechanism is unclear.</p>
+related-health-condition/name: mosaic variegated aneuploidy syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mosaic-variegated-aneuploidy-syndrome
+synonym(1): 16E1-BP
+synonym(2): 16E1BP
+synonym(3): HPV16 E1 protein binding protein
+synonym(4): human papillomavirus type 16 E1 protein-binding protein
+synonym(5): pachytene checkpoint protein 2 homolog isoform 1
+synonym(6): pachytene checkpoint protein 2 homolog isoform 2
+synonym(7): thyroid receptor-interacting protein 13
+synonym(8): TR-interacting protein 13
+synonym(9): TRIP-13
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9319
+db-key(2)/db: OMIM
+db-key(2)/key: 604507
+reviewed: 2017-07
+published: 2018-04-17

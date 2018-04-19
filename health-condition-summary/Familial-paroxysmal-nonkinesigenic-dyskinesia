@@ -1,0 +1,31 @@
+name: Familial paroxysmal nonkinesigenic dyskinesia
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-paroxysmal-nonkinesigenic-dyskinesia
+text/text-role: description
+text/html: <p>Familial paroxysmal nonkinesigenic dyskinesia is a disorder of the nervous system that causes episodes of involuntary movement. Paroxysmal indicates that the abnormal movements come and go over time. Nonkinesigenic means that episodes are not triggered by sudden movement. Dyskinesia broadly refers to involuntary movement of the body.</p><p>People with familial paroxysmal nonkinesigenic dyskinesia experience episodes of abnormal movement that are brought on by alcohol, caffeine, stress, fatigue, menses, or excitement or develop without a known cause. Episodes are not induced by exercise or sudden movement and do not occur during sleep. An episode is characterized by irregular, jerking or shaking movements that range from mild to severe. In this disorder, the dyskinesia can include slow, prolonged contraction of muscles (dystonia); small, fast, "dance-like" motions (chorea); writhing movements of the limbs (athetosis); and, rarely, flailing movements of the limbs (ballismus). The dyskinesia also affects muscles in the torso and face. The type of abnormal movement varies among affected individuals, even among affected members of the same family. Individuals with familial paroxysmal nonkinesigenic dyskinesia do not lose consciousness during an episode. Most people do not experience any neurological symptoms between episodes.</p><p>Individuals with familial paroxysmal nonkinesigenic dyskinesia usually begin to show signs and symptoms of the disorder during childhood or their early teens. Episodes typically last 1 to 4 hours, and the frequency of episodes ranges from several per day to one per year. In some affected individuals, episodes occur less often with age.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: PNKD
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PNKD
+synonym(1): familial paroxysmal choreoathetosis
+synonym(2): Mount-Reback syndrome
+synonym(3): nonkinesigenic choreoathetosis
+synonym(4): paroxysmal dystonic choreoathetosis
+synonym(5): paroxysmal nonkinesigenic dyskinesia
+synonym(6): PDC
+synonym(7): PNKD
+db-key(1)/db: GTR
+db-key(1)/key: C1869117
+db-key(2)/db: GTR
+db-key(2)/key: C1970149
+db-key(3)/db: GeneReviews
+db-key(3)/key: pnknd
+db-key(4)/db: MeSH
+db-key(4)/key: D020820
+db-key(5)/db: OMIM
+db-key(5)/key: 118800
+db-key(6)/db: OMIM
+db-key(6)/key: 611147
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 609218006
+reviewed: 2017-08
+published: 2018-04-17

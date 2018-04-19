@@ -1,0 +1,23 @@
+gene-symbol: HIVEP2
+name: human immunodeficiency virus type I enhancer binding protein 2
+ghr-page: https://ghr.nlm.nih.gov/gene/HIVEP2
+text/text-role: function
+text/html: <p>The <i>HIVEP2</i> gene provides instructions for making a protein that functions as a transcription factor. Transcription factors attach (bind) to specific regions of DNA and help control the activity (expression) of particular genes. The HIVEP2 protein is most abundant in the brain, where it controls the expression of multiple genes, many of which are involved in brain growth and development. This protein may also play a role in the function of immune system cells and the process of bone remodeling, in which old bone is broken down and new bone is created to replace it. It may also be involved in other body processes; however these additional roles are not completely understood.</p>
+related-health-condition/name: HIVEP2-related intellectual disability
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hivep2-related-intellectual-disability
+synonym(1): c-myc intron binding protein 1
+synonym(2): HIV-EP2
+synonym(3): MBP-2
+synonym(4): MHC binding protein-2
+synonym(5): MIBP1
+synonym(6): MRD43
+synonym(7): Schnurri-2
+synonym(8): SHN2
+synonym(9): ZAS2
+synonym(10): ZNF40B
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3097
+db-key(2)/db: OMIM
+db-key(2)/key: 143054
+reviewed: 2017-01
+published: 2018-04-17

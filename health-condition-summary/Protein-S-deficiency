@@ -1,0 +1,27 @@
+name: Protein S deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/protein-s-deficiency
+text/text-role: description
+text/html: <p>Protein S deficiency is a disorder of blood clotting. People with this condition have an increased risk of developing abnormal blood clots.</p><p>Individuals with mild protein S deficiency are at risk of a type of clot called a deep vein thrombosis (DVT) that occurs in the deep veins of the arms or legs. If a DVT travels through the bloodstream and lodges in the lungs, it can cause a life-threatening clot known as a pulmonary embolism (PE). Other factors can raise the risk of abnormal blood clots in people with mild protein S deficiency. These factors include increasing age, surgery, immobility, or pregnancy. The combination of protein S deficiency and other inherited disorders of blood clotting can also influence risk. Many people with mild protein S deficiency never develop an abnormal blood clot, however.</p><p>In severe cases of protein S deficiency, infants develop a life-threatening blood clotting disorder called purpura fulminans soon after birth. Purpura fulminans is characterized by the formation of blood clots within small blood vessels throughout the body. These blood clots disrupt normal blood flow and can lead to death of body tissue (necrosis). Widespread blood clotting uses up all available blood clotting proteins. As a result, abnormal bleeding occurs in various parts of the body and is often noticeable as large, purple skin lesions. Individuals who survive the newborn period may experience recurrent episodes of purpura fulminans.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: PROS1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PROS1
+synonym: hereditary thrombophilia due to protein S deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C3278211
+db-key(2)/db: MeSH
+db-key(2)/key: D018455
+db-key(3)/db: OMIM
+db-key(3)/key: 612336
+db-key(4)/db: Orphanet
+db-key(4)/key: 743
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 1563006
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 439702007
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 440988005
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 441189007
+reviewed: 2009-10
+published: 2018-04-17

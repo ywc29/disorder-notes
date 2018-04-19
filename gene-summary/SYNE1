@@ -1,0 +1,23 @@
+gene-symbol: SYNE1
+name: spectrin repeat containing nuclear envelope protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SYNE1
+text/text-role: function
+text/html: <p>The <i>SYNE1</i> gene provides instructions for making a protein called Syne-1 that is found in many tissues, but it seems to be especially critical in the brain. The Syne-1 protein plays a role in the maintenance of the part of the brain that coordinates movement (the cerebellum). The Syne-1 protein is active (expressed) in Purkinje cells, which are located in the cerebellum and are involved in chemical signaling between nerve cells (neurons). The protein is thought to attach the membrane of Purkinje cells to the actin cytoskeleton, which is a network of fibers that make up the cell's structural framework. It is not clear what role this attachment plays in Purkinje cell function.</p>
+related-health-condition(1)/name: autosomal recessive cerebellar ataxia type 1
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-cerebellar-ataxia-type-1
+related-health-condition(2)/name: Emery-Dreifuss muscular dystrophy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/emery-dreifuss-muscular-dystrophy
+synonym(1): ARCA1
+synonym(2): MYNE1
+synonym(3): myocyte nuclear envelope protein 1
+synonym(4): Nesp1
+synonym(5): nesprin-1
+synonym(6): nuclear envelope spectrin repeat protein 1
+synonym(7): spectrin repeat containing, nuclear envelope 1
+synonym(8): SYNE1_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23345
+db-key(2)/db: OMIM
+db-key(2)/key: 608441
+reviewed: 2010-10
+published: 2018-04-17

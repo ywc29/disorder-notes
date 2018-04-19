@@ -1,0 +1,36 @@
+name: Congenital plasminogen deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-plasminogen-deficiency
+text/text-role: description
+text/html: <p>Congenital plasminogen deficiency is a disorder that results in inflamed growths on the mucous membranes, which are the moist tissues that line body openings such as the eyelids and the inside of the mouth. Development of the growths are usually triggered by infections or injury, but they may also occur spontaneously in the absence of known triggers. The growths may recur after being removed.</p><p>Congenital plasminogen deficiency most often affects the conjunctiva, which are the mucous membranes that protect the white part of the eye (the sclera) and line the eyelids. A characteristic feature of this disorder is ligneous conjunctivitis, in which a buildup of a protein called fibrin causes inflammation of the conjunctiva (conjunctivitis) and leads to thick, woody (ligneous), inflamed growths that are yellow, white, or red. Ligneous conjunctivitis most often occurs on the inside of the eyelids. However, in about one-third of cases, ligneous conjunctivitis over the sclera grows onto the cornea, which is the clear covering that protects the colored part of the eye (the iris) and pupil. Such growths can tear the cornea or cause scarring. These corneal problems as well as obstruction by growths inside the eyelid can lead to vision loss.</p><p>People with congenital plasminogen deficiency may also develop ligneous growths on other mucous membranes, including the inside of the mouth and the gums; the lining of the nasal cavity; and in females, the vagina. Growths on the mucous membranes that line the gastrointestinal tract may result in ulcers. The growths may also develop in the windpipe, which can cause life-threatening airway obstruction, especially in children. In a small number of cases, affected individuals are born with impaired drainage of the fluid that surrounds and protects the brain and spinal cord (the cerebrospinal fluid or CSF), resulting in a buildup of this fluid in the skull (occlusive hydrocephalus). It is unclear how this feature is related to the other signs and symptoms of congenital plasminogen deficiency.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: PLG
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PLG
+synonym(1): hypoplasminogenemia
+synonym(2): plasminogen deficiency, type I
+db-key(1)/db: GTR
+db-key(1)/key: C1968804
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: H10.51
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: H10.511
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: H10.512
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: H10.513
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: H10.519
+db-key(7)/db: MeSH
+db-key(7)/key: D020147
+db-key(8)/db: OMIM
+db-key(8)/key: 217090
+db-key(9)/db: Orphanet
+db-key(9)/key: 722
+db-key(10)/db: Orphanet
+db-key(10)/key: 97231
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 403435005
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 95841006
+reviewed: 2012-08
+published: 2018-04-17

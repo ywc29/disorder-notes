@@ -1,0 +1,24 @@
+gene-symbol: RETREG1
+name: reticulophagy regulator 1
+ghr-page: https://ghr.nlm.nih.gov/gene/RETREG1
+text/text-role: function
+text/html: <p>The <i>RETREG1</i> gene provides instructions for making a protein that is involved in a cellular process called autophagy. Cells use this process to recycle worn-out or unnecessary cell parts and break down certain proteins when they are no longer needed. In particular, the RETREG1 protein helps direct autophagy of a cell structure called the endoplasmic reticulum, which is important in protein processing and transport. Autophagy may be a way for the cell to remove parts of the endoplasmic reticulum when they are no longer needed or to break down excess or abnormal proteins that are being processed within the structure.</p><p>The RETREG1 protein also appears to be important in the organization of another cell structure called the Golgi apparatus, which is important for distribution of proteins within the cell.</p><p>The RETREG1 protein is found in sensory and autonomic nerve cells (neurons). Sensory neurons transmit pain, touch, and temperature sensations. Autonomic neurons help control involuntary functions of the body such as heart rate and blood pressure.</p>
+related-health-condition/name: hereditary sensory and autonomic neuropathy type II
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-sensory-and-autonomic-neuropathy-type-ii
+synonym(1): F134B_HUMAN
+synonym(2): FAM134B
+synonym(3): FAM134B protein
+synonym(4): FAM134B protein isoform 1
+synonym(5): FAM134B protein isoform 2
+synonym(6): family with sequence similarity 134 member B
+synonym(7): family with sequence similarity 134, member B
+synonym(8): FLJ20152
+synonym(9): FLJ22155
+synonym(10): FLJ22179
+synonym(11): JK1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 54463
+db-key(2)/db: OMIM
+db-key(2)/key: 613114
+reviewed: 2017-04
+published: 2018-04-17

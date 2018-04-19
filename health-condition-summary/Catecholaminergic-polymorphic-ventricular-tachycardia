@@ -1,0 +1,37 @@
+name: Catecholaminergic polymorphic ventricular tachycardia
+ghr-page: https://ghr.nlm.nih.gov/condition/catecholaminergic-polymorphic-ventricular-tachycardia
+text/text-role: description
+text/html: <p>Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a condition characterized by an abnormal heart rhythm (arrhythmia). As the heart rate increases in response to physical activity or emotional stress, it can trigger an abnormally fast and irregular heartbeat called ventricular tachycardia. Episodes of ventricular tachycardia can cause light-headedness, dizziness, and fainting (syncope). In people with CPVT, these episodes typically begin in childhood.</p><p>If CPVT is not recognized and treated, an episode of ventricular tachycardia may cause the heart to stop beating (cardiac arrest), leading to sudden death. Researchers suspect that CPVT may be a significant cause of sudden death in children and young adults without recognized heart abnormalities.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: CASQ2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CASQ2
+related-gene(2)/gene-symbol: RYR2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/RYR2
+synonym(1): bidirectional tachycardia induced by catecholamines
+synonym(2): Catecholamine-induced polymorphic ventricular tachycardia
+synonym(3): CPVT
+synonym(4): familial polymorphic ventricular tachycardia
+synonym(5): FPVT
+db-key(1)/db: GTR
+db-key(1)/key: C1631597
+db-key(2)/db: GTR
+db-key(2)/key: C2677794
+db-key(3)/db: GeneReviews
+db-key(3)/key: cvt
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: I47.2
+db-key(5)/db: MeSH
+db-key(5)/key: D017180
+db-key(6)/db: OMIM
+db-key(6)/key: 604772
+db-key(7)/db: OMIM
+db-key(7)/key: 611938
+db-key(8)/db: Orphanet
+db-key(8)/key: 3286
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 419671004
+reviewed: 2009-12
+published: 2018-04-17

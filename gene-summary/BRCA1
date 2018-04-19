@@ -1,0 +1,30 @@
+gene-symbol: BRCA1
+name: BRCA1, DNA repair associated
+ghr-page: https://ghr.nlm.nih.gov/gene/BRCA1
+text/text-role: function
+text/html: <p>The <i>BRCA1</i> gene provides instructions for making a protein that acts as a tumor suppressor. Tumor suppressor proteins help prevent cells from growing and dividing too rapidly or in an uncontrolled way.</p><p>The BRCA1 protein is involved in repairing damaged DNA. In the nucleus of many types of normal cells, the BRCA1 protein interacts with several other proteins to mend breaks in DNA. These breaks can be caused by natural and medical radiation or other environmental exposures, and they also occur when chromosomes exchange genetic material in preparation for cell division. By helping to repair DNA, the BRCA1 protein plays a critical role in maintaining the stability of a cell's genetic information.</p><p>Research suggests that the BRCA1 protein also regulates the activity of other genes and plays an essential role in embryonic development. To carry out these functions, the BRCA1 protein interacts with many other proteins, including other tumor suppressors and proteins that regulate cell division.</p>
+related-health-condition(1)/name: breast cancer
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
+related-health-condition(2)/name: ovarian cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/ovarian-cancer
+related-health-condition(3)/name: prostate cancer
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+synonym(1): BRCA1 gene
+synonym(2): BRCA1_HUMAN
+synonym(3): BRCC1
+synonym(4): breast cancer 1
+synonym(5): breast cancer 1 gene
+synonym(6): breast cancer 1, early onset
+synonym(7): breast cancer 1, early onset gene
+synonym(8): breast cancer type 1 susceptibility gene
+synonym(9): breast cancer type 1 susceptibility protein
+synonym(10): IRIS
+synonym(11): PPP1R53
+synonym(12): PSCP
+synonym(13): RNF53
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 672
+db-key(2)/db: OMIM
+db-key(2)/key: 113705
+reviewed: 2015-10
+published: 2018-04-17

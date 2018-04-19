@@ -1,0 +1,24 @@
+name: Warfarin resistance
+ghr-page: https://ghr.nlm.nih.gov/condition/warfarin-resistance
+text/text-role: description
+text/html: <p>Warfarin resistance is a condition in which individuals have a high tolerance for the drug warfarin. Warfarin is an anticoagulant, which means that it thins the blood, preventing blood clots from forming. Warfarin is often prescribed to prevent blood clots in people with heart valve disease who have replacement heart valves, people with an irregular heart beat (atrial fibrillation), or those with a history of heart attack, stroke, or a prior blood clot in the deep veins of the arms or legs (deep vein thrombosis).</p><p>There are two types of warfarin resistance: incomplete and complete. Those with incomplete warfarin resistance can achieve the benefits of warfarin treatment with a high dose of warfarin. Individuals with complete warfarin resistance do not respond to warfarin treatment, no matter how high the dose. If people with warfarin resistance require treatment with warfarin and take the average dose, they will remain at risk of developing a potentially harmful blood clot.</p><p>Both types of warfarin resistance are related to how the body processes warfarin. In some people with warfarin resistance, their blood clotting process does not react effectively to the drug. Others with this resistance rapidly break down (metabolize) warfarin, so the medication is quickly processed by their bodies; these individuals are classified as "fast metabolizers" or "rapid metabolizers" of warfarin. The severity of these abnormal processes determines whether the warfarin resistance is complete or incomplete.</p><p>Warfarin resistance does not appear to cause any health problems other than those associated with warfarin drug treatment.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: ABCB1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ABCB1
+related-gene(2)/gene-symbol: UGT1A1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/UGT1A1
+related-gene(3)/gene-symbol: VKORC1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/VKORC1
+synonym(1): coumarin resistance
+synonym(2): poor metabolism of coumarin
+db-key(1)/db: GTR
+db-key(1)/key: CN078029
+db-key(2)/db: MeSH
+db-key(2)/key: D004305
+db-key(3)/db: OMIM
+db-key(3)/key: 122700
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 243873002
+reviewed: 2015-07
+published: 2018-04-17

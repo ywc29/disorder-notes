@@ -1,0 +1,36 @@
+gene-symbol: SDHB
+name: succinate dehydrogenase complex iron sulfur subunit B
+ghr-page: https://ghr.nlm.nih.gov/gene/SDHB
+text/text-role: function
+text/html: <p>The <i>SDHB</i> gene provides instructions for making one of four subunits of the succinate dehydrogenase (SDH) enzyme. The SDH enzyme plays a critical role in mitochondria, which are structures inside cells that convert the energy from food into a form that cells can use.</p><p>Within mitochondria, the SDH enzyme links two important pathways in energy conversion: the citric acid cycle (or Krebs cycle) and oxidative phosphorylation. As part of the citric acid cycle, the SDH enzyme converts a compound called succinate to another compound called fumarate. Negatively charged particles called electrons are released during this reaction. The SDHB protein provides an attachment site for electrons as they are transferred to the oxidative phosphorylation pathway. In oxidative phosphorylation, the electrons help create an electrical charge that provides energy for the production of adenosine triphosphate (ATP), the cell's main energy source.</p><p>Succinate, the compound on which the SDH enzyme acts, is an oxygen sensor in the cell and can help turn on specific pathways that stimulate cells to grow in a low-oxygen environment (hypoxia). In particular, succinate stabilizes a protein called hypoxia-inducible factor (HIF)  by preventing a reaction that would allow HIF to be broken down. HIF controls several important genes involved in cell division and the formation of new blood vessels in a hypoxic environment.</p><p>The <i>SDHB</i> gene is a tumor suppressor, which means it prevents cells from growing and dividing in an uncontrolled way.</p>
+related-health-condition(1)/name: Cowden syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cowden-syndrome
+related-health-condition(2)/name: gastrointestinal stromal tumor
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/gastrointestinal-stromal-tumor
+related-health-condition(3)/name: hereditary paraganglioma-pheochromocytoma
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-paraganglioma-pheochromocytoma
+related-health-condition(4)/name: nonsyndromic paraganglioma
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-paraganglioma
+synonym(1): DHSB_HUMAN
+synonym(2): FLJ92337
+synonym(3): IP
+synonym(4): iron-sulfur subunit of complex II
+synonym(5): PGL4
+synonym(6): SDH
+synonym(7): SDH1
+synonym(8): SDH2
+synonym(9): SDHIP
+synonym(10): succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial
+synonym(11): succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial precursor
+synonym(12): succinate dehydrogenase complex subunit B, iron sulfur (Ip)
+synonym(13): succinate dehydrogenase complex, subunit B, iron sulfur (Ip)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6390
+db-key(2)/db: OMIM
+db-key(2)/key: 185470
+db-key(3)/db: OMIM
+db-key(3)/key: 606764
+db-key(4)/db: OMIM
+db-key(4)/key: 606864
+reviewed: 2012-10
+published: 2018-04-17

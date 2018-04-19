@@ -1,0 +1,27 @@
+name: Histidinemia
+ghr-page: https://ghr.nlm.nih.gov/condition/histidinemia
+text/text-role: description
+text/html: <p>Histidinemia is an inherited condition characterized by elevated blood levels of the amino acid histidine, a building block of most proteins.  Histidinemia is caused by the shortage (deficiency) of the enzyme that breaks down histidine.  Histidinemia typically causes no health problems, and most people with elevated histidine levels are unaware that they have this condition.</p><p>The combination of histidinemia and a medical complication during or soon after birth (such as a temporary lack of oxygen) might increase a person's chances of developing intellectual disability, behavioral problems, or learning disorders.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: HAL
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HAL
+synonym(1): HAL deficiency
+synonym(2): HIS deficiency
+synonym(3): histidase deficiency
+synonym(4): histidine ammonia-lyase deficiency
+synonym(5): hyperhistidinemia
+db-key(1)/db: ICD-10-CM
+db-key(1)/key: E70.41
+db-key(2)/db: MeSH
+db-key(2)/key: D000592
+db-key(3)/db: OMIM
+db-key(3)/key: 235800
+db-key(4)/db: Orphanet
+db-key(4)/key: 2157
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 124628005
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 410058007
+reviewed: 2009-08
+published: 2018-04-17

@@ -1,0 +1,34 @@
+name: Multiple mitochondrial dysfunctions syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/multiple-mitochondrial-dysfunctions-syndrome
+text/text-role: description
+text/html: <p>Multiple mitochondrial dysfunctions syndrome is characterized by impairment of cellular structures called mitochondria, which are the energy-producing centers of cells. While certain mitochondrial disorders are caused by impairment of a single stage of energy production, individuals with multiple mitochondrial dysfunctions syndrome have reduced function of more than one stage. The signs and symptoms of this severe condition begin early in life, and affected individuals usually do not live past infancy.</p><p>Affected infants typically have severe brain dysfunction (encephalopathy), which can contribute to weak muscle tone (hypotonia), seizures, and delayed development of mental and movement abilities (psychomotor delay). These infants often have difficulty growing and gaining weight at the expected rate (failure to thrive). Most affected babies have a buildup of a chemical called lactic acid in the body (lactic acidosis), which can be life-threatening. They may also have high levels of a molecule called glycine (hyperglycinemia) or elevated levels of sugar (hyperglycemia) in the blood. Some babies with multiple mitochondrial dysfunctions syndrome have high blood pressure in the blood vessels that connect to the lungs (pulmonary hypertension) or weakening of the heart muscle (cardiomyopathy).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: BOLA3
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BOLA3
+related-gene(2)/gene-symbol: NFU1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/NFU1
+synonym(1): MMDS
+synonym(2): multiple mitochondrial dysfunction syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C3276432
+db-key(2)/db: GTR
+db-key(2)/key: C3280378
+db-key(3)/db: GTR
+db-key(3)/key: C3809165
+db-key(4)/db: GeneReviews
+db-key(4)/key: mt-overview
+db-key(5)/db: MeSH
+db-key(5)/key: D028361
+db-key(6)/db: OMIM
+db-key(6)/key: 605711
+db-key(7)/db: OMIM
+db-key(7)/key: 614299
+db-key(8)/db: OMIM
+db-key(8)/key: 615330
+db-key(9)/db: Orphanet
+db-key(9)/key: 289573
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 720827002
+reviewed: 2015-05
+published: 2018-04-17

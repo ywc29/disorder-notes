@@ -1,0 +1,17 @@
+gene-symbol: UVSSA
+name: UV stimulated scaffold protein A
+ghr-page: https://ghr.nlm.nih.gov/gene/UVSSA
+text/text-role: function
+text/html: <p>The <i>UVSSA</i> gene provides instructions for making a protein that is involved in repairing DNA damaged by ultraviolet (UV) rays from the sun. The damage can block vital cell activities such as gene transcription, which is the first step in protein production. If left uncorrected, DNA damage accumulates, which causes cells to malfunction and can lead to cell death.</p><p>Cells have several mechanisms to correct DNA damage. The UVSSA protein is involved in one mechanism that repairs damaged DNA within active genes (those genes undergoing gene transcription). When DNA in active genes is damaged, the enzyme that carries out gene transcription (RNA polymerase) gets stuck, and the process stalls. Researchers think that the UVSSA protein helps remove RNA polymerase from the damaged site, so the DNA can be repaired. Part of the UVSSA protein's role in this process is to ensure that another important protein called CSB is not broken down by exposure to UV rays.</p>
+related-health-condition/name: UV-sensitive syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/uv-sensitive-syndrome
+synonym(1): KIAA1530
+synonym(2): UV-stimulated scaffold protein A
+synonym(3): UVSS3
+synonym(4): UVSSA_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57654
+db-key(2)/db: OMIM
+db-key(2)/key: 614632
+reviewed: 2012-07
+published: 2018-04-17

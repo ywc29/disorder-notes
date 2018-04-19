@@ -1,0 +1,35 @@
+gene-symbol: LAMC2
+name: laminin subunit gamma 2
+ghr-page: https://ghr.nlm.nih.gov/gene/LAMC2
+text/text-role: function
+text/html: <p>The <i>LAMC2</i> gene provides instructions for making one part (subunit) of a protein called laminin 332 (formerly known as laminin 5). This protein is made up of three subunits, called alpha, beta, and gamma. The <i>LAMC2</i> gene carries instructions for the gamma subunit; the alpha and beta subunits are produced from other genes.</p><p>Laminins are a group of proteins that regulate cell growth, cell movement (motility), and the attachment of cells to one another (adhesion). They are also involved in the formation and organization of basement membranes, which are thin, sheet-like structures that separate and support cells in many tissues. Laminin 332 has a particularly important role in the basement membrane that underlies the top layer of skin (the epidermis). This membrane gives strength and resiliency to the skin and creates an additional barrier between the body and its surrounding environment. Laminin 332 is a major component of fibers called anchoring filaments, which connect the two layers of the basement membrane and help hold the skin together.</p><p>Studies suggest that laminin 332 also has several other functions. This protein appears to be important for wound healing. Additionally, researchers have proposed roles for laminin 332 in the clear outer covering of the eye (the cornea) and in the development of tooth enamel.</p>
+related-health-condition/name: junctional epidermolysis bullosa
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/junctional-epidermolysis-bullosa
+synonym(1): B2T
+synonym(2): BM600
+synonym(3): BM600-100kDa
+synonym(4): cell-scattering factor (140kDa)
+synonym(5): CSF
+synonym(6): EBR2
+synonym(7): EBR2A
+synonym(8): kalinin (105kD)
+synonym(9): kalinin-105kDa
+synonym(10): ladsin (140kDa)
+synonym(11): LAM5, gamma-2 subunit
+synonym(12): LAMB2T
+synonym(13): LAMC2_HUMAN
+synonym(14): laminin 5, gamma-2 subunit
+synonym(15): laminin, gamma 2
+synonym(16): laminin, gamma-2
+synonym(17): laminin, nicein, beta-2
+synonym(18): LAMNB2
+synonym(19): MGC138491
+synonym(20): MGC141938
+synonym(21): nicein (100kDa)
+synonym(22): nicein-100kDa
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3918
+db-key(2)/db: OMIM
+db-key(2)/key: 150292
+reviewed: 2009-09
+published: 2018-04-17

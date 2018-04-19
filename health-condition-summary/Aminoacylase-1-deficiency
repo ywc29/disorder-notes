@@ -1,0 +1,22 @@
+name: Aminoacylase 1 deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/aminoacylase-1-deficiency
+text/text-role: description
+text/html: <p>Aminoacylase 1 deficiency is an inherited disorder that can cause neurological problems; the pattern and severity of signs and symptoms vary widely among affected individuals. Individuals with this condition typically have delayed development of mental and motor skills (psychomotor delay). They can have movement problems, reduced muscle tone (hypotonia), mild intellectual disability, and seizures. However, some people with aminoacylase 1 deficiency have no health problems related to the condition. A key feature common to all people with aminoacylase 1 deficiency is high levels of modified protein building blocks (amino acids), called <i>N</i>-acetylated amino acids, in the urine.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ACY1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ACY1
+synonym(1): ACY1D
+synonym(2): deficiency of the aminoacylase-1 enzyme
+db-key(1)/db: GTR
+db-key(1)/key: C1835922
+db-key(2)/db: MeSH
+db-key(2)/key: D008661
+db-key(3)/db: OMIM
+db-key(3)/key: 609924
+db-key(4)/db: Orphanet
+db-key(4)/key: 137754
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 709282004
+reviewed: 2014-05
+published: 2018-04-17

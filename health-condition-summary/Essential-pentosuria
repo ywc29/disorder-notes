@@ -1,0 +1,25 @@
+name: Essential pentosuria
+ghr-page: https://ghr.nlm.nih.gov/condition/essential-pentosuria
+text/text-role: description
+text/html: <p>Essential pentosuria is a condition characterized by high levels of a sugar called L-xylulose in urine. The condition is so named because L-xylulose is a type of sugar called a pentose. Despite the excess sugar, affected individuals have no associated health problems.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: DCXR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DCXR
+synonym(1): essential benign pentosuria
+synonym(2): L-xylulose reductase deficiency
+synonym(3): L-xylulosuria
+synonym(4): pentosuria
+synonym(5): xylitol dehydrogenase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0268162
+db-key(2)/db: MeSH
+db-key(2)/key: D002239
+db-key(3)/db: OMIM
+db-key(3)/key: 260800
+db-key(4)/db: Orphanet
+db-key(4)/key: 2843
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 190764000
+reviewed: 2015-01
+published: 2018-04-17

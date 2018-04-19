@@ -1,0 +1,19 @@
+gene-symbol: MYBPC1
+name: myosin binding protein C, slow type
+ghr-page: https://ghr.nlm.nih.gov/gene/MYBPC1
+text/text-role: function
+text/html: <p>The <i>MYBPC1</i> gene provides instructions for making one version of a protein called myosin binding protein C. Several versions of myosin binding protein C are produced from different genes; these proteins are found in muscles used for movement (skeletal muscles) and in heart (cardiac) muscle. The version produced from the <i>MYBPC1</i> gene, which is known as the slow skeletal isoform, is found primarily in skeletal muscles.</p><p>The slow isoform of myosin binding protein C is active during the development of skeletal muscles. Researchers believe that this protein helps regulate the tensing of muscle fibers (muscle contraction). Myosin binding protein C interacts with other muscle proteins, including myosin, actin, and titin. These proteins play essential roles in muscle cell structures called sarcomeres, which generate the mechanical force needed for muscles to contract. Studies suggest that myosin binding protein C contributes to the stability and maintenance of sarcomeres.</p>
+related-health-condition/name: distal arthrogryposis type 1
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/distal-arthrogryposis-type-1
+synonym(1): C-protein, skeletal muscle slow isoform
+synonym(2): MYBPCC
+synonym(3): MYBPCS
+synonym(4): MYPC1_HUMAN
+synonym(5): skeletal muscle C-protein
+synonym(6): slow MyBP-C
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4604
+db-key(2)/db: OMIM
+db-key(2)/key: 160794
+reviewed: 2011-01
+published: 2018-04-17

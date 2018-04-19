@@ -1,0 +1,21 @@
+gene-symbol: MEN1
+name: menin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/MEN1
+text/text-role: function
+text/html: <p>The <i>MEN1</i> gene provides instructions for making a protein called menin. This protein acts as a tumor suppressor, which means that it keeps cells from growing and dividing too fast or in an uncontrolled way.  Although the exact function of menin is unclear, it is likely involved in several important cell functions.  For example, it may play a role in copying and repairing DNA and regulating the controlled self-destruction of cells (apoptosis). The menin protein is present in the nucleus of many different types of cells and appears to be active in all stages of development.</p><p>Menin interacts with many other proteins, including several transcription factors. Transcription factors bind to specific areas of DNA and help control whether particular genes are turned on or off. Some of these genes likely play a role in cell growth and division. Researchers are working to identify the proteins that interact with menin and determine its specific role as a tumor suppressor.</p>
+related-health-condition(1)/name: familial isolated hyperparathyroidism
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-isolated-hyperparathyroidism
+related-health-condition(2)/name: multiple endocrine neoplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-endocrine-neoplasia
+related-health-condition(3)/name: primary macronodular adrenal hyperplasia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/primary-macronodular-adrenal-hyperplasia
+synonym(1): MEAI
+synonym(2): MEN1_HUMAN
+synonym(3): menin
+synonym(4): multiple endocrine neoplasia I
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4221
+db-key(2)/db: OMIM
+db-key(2)/key: 613733
+reviewed: 2013-08
+published: 2018-04-17

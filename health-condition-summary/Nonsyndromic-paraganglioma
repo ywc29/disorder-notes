@@ -1,0 +1,35 @@
+name: Nonsyndromic paraganglioma
+ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-paraganglioma
+text/text-role: description
+text/html: <p>Paraganglioma is a type of noncancerous (benign) tumor that occurs in structures called paraganglia. Paraganglia are groups of cells that are found near nerve cell bunches called ganglia. Paragangliomas are usually found in the head, neck, or torso. However, a type of paraganglioma known as pheochromocytoma develops in the adrenal glands. Adrenal glands are located on top of each kidney and produce hormones in response to stress. Most people with paraganglioma develop only one tumor in their lifetime.</p><p>Some people develop a paraganglioma or pheochromocytoma as part of a hereditary syndrome that may affect other organs and tissues in the body. However, the tumors often are not associated with any syndromes, in which case the condition is called nonsyndromic paraganglioma or pheochromocytoma.</p><p>Pheochromocytomas and some other paragangliomas are associated with ganglia of the sympathetic nervous system. The sympathetic nervous system controls the "fight-or-flight" response, a series of changes in the body due to hormones released in response to stress. Although most sympathetic paragangliomas are pheochromocytomas, some are found outside the adrenal glands, usually in the abdomen, and are called extra-adrenal paragangliomas. Most sympathetic paragangliomas, including pheochromocytomas, produce hormones called catecholamines, such as epinephrine (adrenaline) or norepinephrine. These excess catecholamines can cause signs and symptoms such as high blood pressure (hypertension), episodes of rapid heartbeat (palpitations), headaches, or sweating.</p><p>Most paragangliomas are associated with ganglia of the parasympathetic nervous system, which controls involuntary body functions such as digestion and saliva formation. Parasympathetic paragangliomas, typically found in the head and neck, usually do not produce hormones. However, large tumors may cause signs and symptoms such as coughing, hearing loss in one ear, or difficulty swallowing.</p><p>Although most paragangliomas and pheochromocytomas are noncancerous, some can become cancerous (malignant) and spread to other parts of the body (metastasize). Extra-adrenal paragangliomas become malignant more often than other types of paraganglioma or pheochromocytoma.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: KIF1B
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/KIF1B
+related-gene(2)/gene-symbol: RET
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/RET
+related-gene(3)/gene-symbol: SDHA
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/SDHA
+related-gene(4)/gene-symbol: SDHB
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SDHB
+related-gene(5)/gene-symbol: SDHD
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/SDHD
+related-gene(6)/gene-symbol: TMEM127
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/TMEM127
+related-gene(7)/gene-symbol: VHL
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/VHL
+synonym: chemodectoma
+db-key(1)/db: GTR
+db-key(1)/key: C0031511
+db-key(2)/db: MeSH
+db-key(2)/key: D010235
+db-key(3)/db: OMIM
+db-key(3)/key: 171300
+db-key(4)/db: Orphanet
+db-key(4)/key: 717
+db-key(5)/db: Orphanet
+db-key(5)/key: 94080
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 716857003
+reviewed: 2011-10
+published: 2018-04-17

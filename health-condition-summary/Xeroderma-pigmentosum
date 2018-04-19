@@ -1,0 +1,82 @@
+name: Xeroderma pigmentosum
+ghr-page: https://ghr.nlm.nih.gov/condition/xeroderma-pigmentosum
+text/text-role: description
+text/html: <p>Xeroderma pigmentosum, which is commonly known as XP, is an inherited condition characterized by an extreme sensitivity to ultraviolet (UV) rays from sunlight. This condition mostly affects the eyes and areas of skin exposed to the sun. Some affected individuals also have problems involving the nervous system.</p><p>The signs of xeroderma pigmentosum usually appear in infancy or early childhood. Many affected children develop a severe sunburn after spending just a few minutes in the sun. The sunburn causes redness and blistering that can last for weeks. Other affected children do not get sunburned with minimal sun exposure, but instead tan normally. By age 2, almost all children with xeroderma pigmentosum develop freckling of the skin in sun-exposed areas (such as the face, arms, and lips); this type of freckling rarely occurs in young children without the disorder. In affected individuals, exposure to sunlight often causes dry skin (xeroderma) and changes in skin coloring (pigmentation). This combination of features gives the condition its name, xeroderma pigmentosum.</p><p>People with xeroderma pigmentosum have a greatly increased risk of developing skin cancer. Without sun protection, about half of children with this condition develop their first skin cancer by age 10. Most people with xeroderma pigmentosum develop multiple skin cancers during their lifetime. These cancers occur most often on the face, lips, and eyelids. Cancer can also develop on the scalp, in the eyes, and on the tip of the tongue. Studies suggest that people with xeroderma pigmentosum may also have an increased risk of other types of cancer, including brain tumors. Additionally, affected individuals who smoke cigarettes have a significantly increased risk of lung cancer.</p><p>The eyes of people with xeroderma pigmentosum may be painfully sensitive to UV rays from the sun. If the eyes are not protected from the sun, they may become bloodshot and irritated, and the clear front covering of the eyes (the cornea) may become cloudy. In some people, the eyelashes fall out and the eyelids may be thin and turn abnormally inward or outward. In addition to an increased risk of eye cancer, xeroderma pigmentosum is associated with noncancerous growths on the eye. Many of these eye abnormalities can impair vision.</p><p>About 30 percent of people with xeroderma pigmentosum develop progressive neurological abnormalities in addition to problems involving the skin and eyes. These abnormalities can include hearing loss, poor coordination, difficulty walking, movement problems, loss of intellectual function, difficulty swallowing and talking, and seizures. When these neurological problems occur, they tend to worsen with time.</p><p>Researchers have identified at least eight inherited forms of xeroderma pigmentosum: complementation group A (XP-A) through complementation group G (XP-G) plus a variant type (XP-V). The types are distinguished by their genetic cause. All of the types increase skin cancer risk, although some are more likely than others to be associated with neurological abnormalities.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: DDB2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/DDB2
+related-gene(2)/gene-symbol: ERCC2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ERCC2
+related-gene(3)/gene-symbol: ERCC3
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/ERCC3
+related-gene(4)/gene-symbol: ERCC4
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/ERCC4
+related-gene(5)/gene-symbol: ERCC5
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/ERCC5
+related-gene(6)/gene-symbol: POLH
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/POLH
+related-gene(7)/gene-symbol: XPA
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/XPA
+related-gene(8)/gene-symbol: XPC
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/XPC
+synonym(1): DeSanctis-Cacchione syndrome
+synonym(2): XP
+db-key(1)/db: GTR
+db-key(1)/key: C0043346
+db-key(2)/db: GTR
+db-key(2)/key: C0268135
+db-key(3)/db: GTR
+db-key(3)/key: C0268138
+db-key(4)/db: GTR
+db-key(4)/key: C0268140
+db-key(5)/db: GTR
+db-key(5)/key: C0268141
+db-key(6)/db: GTR
+db-key(6)/key: C1848410
+db-key(7)/db: GTR
+db-key(7)/key: C1848411
+db-key(8)/db: GTR
+db-key(8)/key: C1970808
+db-key(9)/db: GTR
+db-key(9)/key: C2752147
+db-key(10)/db: GeneReviews
+db-key(10)/key: xp
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: Q82.1
+db-key(12)/db: MeSH
+db-key(12)/key: D014983
+db-key(13)/db: OMIM
+db-key(13)/key: 278700
+db-key(14)/db: OMIM
+db-key(14)/key: 278720
+db-key(15)/db: OMIM
+db-key(15)/key: 278730
+db-key(16)/db: OMIM
+db-key(16)/key: 278740
+db-key(17)/db: OMIM
+db-key(17)/key: 278750
+db-key(18)/db: OMIM
+db-key(18)/key: 278760
+db-key(19)/db: OMIM
+db-key(19)/key: 278780
+db-key(20)/db: OMIM
+db-key(20)/key: 610651
+db-key(21)/db: Orphanet
+db-key(21)/key: 910
+db-key(22)/db: SNOMED CT
+db-key(22)/key: 1073003
+db-key(23)/db: SNOMED CT
+db-key(23)/key: 25784009
+db-key(24)/db: SNOMED CT
+db-key(24)/key: 36454001
+db-key(25)/db: SNOMED CT
+db-key(25)/key: 414673004
+db-key(26)/db: SNOMED CT
+db-key(26)/key: 42530008
+db-key(27)/db: SNOMED CT
+db-key(27)/key: 44600005
+db-key(28)/db: SNOMED CT
+db-key(28)/key: 68637004
+reviewed: 2010-05
+published: 2018-04-17

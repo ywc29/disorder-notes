@@ -1,0 +1,18 @@
+gene-symbol: ASS1
+name: argininosuccinate synthase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ASS1
+text/text-role: function
+text/html: <p>The <i>ASS1</i> gene provides instructions for making an enzyme called argininosuccinate synthase 1. This enzyme participates in the urea cycle, which is a sequence of chemical reactions that takes place in liver cells. The urea cycle processes excess nitrogen that is generated as the body breaks down proteins. The excess nitrogen is used to make a compound called urea, which is excreted from the body in urine.</p><p>Argininosuccinate synthase 1 is involved in the third step of the urea cycle. This step combines two protein building blocks (amino acids), citrulline and aspartate, to form a molecule called argininosuccinic acid. A series of additional chemical reactions uses argininosuccinic acid to form urea.</p>
+related-health-condition/name: citrullinemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/citrullinemia
+synonym(1): argininosuccinate synthetase 1
+synonym(2): ASS
+synonym(3): ASSY_HUMAN
+synonym(4): Citrulline-aspartate ligase
+synonym(5): CTLN1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 445
+db-key(2)/db: OMIM
+db-key(2)/key: 603470
+reviewed: 2017-05
+published: 2018-04-17

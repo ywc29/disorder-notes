@@ -1,0 +1,26 @@
+gene-symbol: PNPLA3
+name: patatin like phospholipase domain containing 3
+ghr-page: https://ghr.nlm.nih.gov/gene/PNPLA3
+text/text-role: function
+text/html: <p>The <i>PNPLA3</i> gene provides instructions for making a protein called adiponutrin, which is found in fat cells (adipocytes) and liver cells (hepatocytes). The liver is a part of the digestive system that helps break down food, store energy, and remove waste products, including toxins. The function of the adiponutrin protein is not well understood, but it is thought to help regulate the development of adipocytes and the production and breakdown of fats (lipogenesis and lipolysis) in hepatocytes and adipocytes. Studies indicate that the activity (expression) of the <i>PNPLA3</i> gene decreases during periods without food (fasting) and increases after eating, suggesting that the amount of adiponutrin protein produced is regulated as needed to help process and store fats in the diet.</p>
+related-health-condition(1)/name: hereditary hemochromatosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hemochromatosis
+related-health-condition(2)/name: non-alcoholic fatty liver disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/non-alcoholic-fatty-liver-disease
+synonym(1): acylglycerol O-acyltransferase
+synonym(2): adiponutrin
+synonym(3): ADPN
+synonym(4): C22orf20
+synonym(5): calcium-independent phospholipase A2-epsilon
+synonym(6): dJ796I17.1
+synonym(7): FLJ22012
+synonym(8): iPLA(2)epsilon
+synonym(9): iPLA2-epsilon
+synonym(10): iPLA2epsilon
+synonym(11): patatin-like phospholipase domain-containing protein 3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 80339
+db-key(2)/db: OMIM
+db-key(2)/key: 609567
+reviewed: 2016-11
+published: 2018-04-17

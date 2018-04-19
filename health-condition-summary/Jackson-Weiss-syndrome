@@ -1,0 +1,25 @@
+name: Jackson-Weiss syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/jackson-weiss-syndrome
+text/text-role: description
+text/html: <p>Jackson-Weiss syndrome is a genetic disorder characterized by foot abnormalities and the premature fusion of certain skull bones (craniosynostosis). This early fusion prevents the skull from growing normally and affects the shape of the head and face.</p><p>Many of the characteristic facial features of Jackson-Weiss syndrome result from premature fusion of the skull bones. Abnormal growth of these bones leads to a misshapen skull, widely spaced eyes, and a bulging forehead.</p><p>Foot abnormalities are the most consistent features of Jackson-Weiss syndrome. The first (big) toes are short and wide, and they bend away from the other toes. Additionally, the bones of some toes may be fused together (syndactyly) or abnormally shaped. The hands are almost always normal.</p><p>Some individuals with Jackson-Weiss syndrome have hearing impairment. People with Jackson-Weiss syndrome usually have normal intelligence and a normal life span.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FGFR2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR2
+synonym: JWS
+db-key(1)/db: GTR
+db-key(1)/key: C0795998
+db-key(2)/db: GeneReviews
+db-key(2)/key: craniosynostosis
+db-key(3)/db: MeSH
+db-key(3)/key: D003398
+db-key(4)/db: OMIM
+db-key(4)/key: 123150
+db-key(5)/db: Orphanet
+db-key(5)/key: 1531
+db-key(6)/db: Orphanet
+db-key(6)/key: 1540
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 709105005
+reviewed: 2017-01
+published: 2018-04-17

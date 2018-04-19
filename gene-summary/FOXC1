@@ -1,0 +1,30 @@
+gene-symbol: FOXC1
+name: forkhead box C1
+ghr-page: https://ghr.nlm.nih.gov/gene/FOXC1
+text/text-role: function
+text/html: <p>The <i>FOXC1</i> gene provides instructions for making a protein that attaches (binds) to specific regions of DNA and regulates the activity of other genes. On the basis of this action, the FOXC1 protein is called a transcription factor.</p><p>The FOXC1 protein plays a critical role in early development, particularly in the formation of structures in the front part of the eye (the anterior segment). These structures include the colored part of the eye (the iris), the lens of the eye, and the clear front covering of the eye (the cornea). Studies suggest that the FOXC1 protein may also have functions in the adult eye, such as helping cells respond to oxidative stress. Oxidative stress occurs when unstable molecules called free radicals accumulate to levels that can damage or kill cells.</p><p>The FOXC1 protein is also involved in the normal development of other parts of the body, including the heart, kidneys, and brain.</p>
+related-health-condition(1)/name: Axenfeld-Rieger syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/axenfeld-rieger-syndrome
+related-health-condition(2)/name: Dandy-Walker malformation
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/dandy-walker-malformation
+related-health-condition(3)/name: Peters anomaly
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/peters-anomaly
+synonym(1): FKHL7
+synonym(2): forkhead box protein C1
+synonym(3): forkhead-related activator 3
+synonym(4): forkhead-related protein FKHL7
+synonym(5): forkhead-related transcription factor 3
+synonym(6): forkhead, drosophila, homolog-like 7
+synonym(7): forkhead/winged helix-like transcription factor 7
+synonym(8): FOXC1_HUMAN
+synonym(9): FREAC-3
+synonym(10): FREAC3
+synonym(11): myeloid factor-delta
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2296
+db-key(2)/db: OMIM
+db-key(2)/key: 601090
+db-key(3)/db: OMIM
+db-key(3)/key: 601631
+reviewed: 2014-01
+published: 2018-04-17

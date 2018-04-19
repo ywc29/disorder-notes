@@ -1,0 +1,27 @@
+name: Werner syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/werner-syndrome
+text/text-role: description
+text/html: <p>Werner syndrome is characterized by the dramatic, rapid appearance of features associated with normal aging. Individuals with this disorder typically grow and develop normally until they reach puberty. Affected teenagers usually do not have a growth spurt, resulting in short stature. The characteristic aged appearance of individuals with Werner syndrome typically begins to develop when they are in their twenties and includes graying and loss of hair; a hoarse voice; and thin, hardened skin. They may also have a facial appearance described as "bird-like." Many people with Werner syndrome have thin arms and legs and a thick trunk due to abnormal fat deposition.</p><p>As Werner syndrome progresses, affected individuals may develop disorders of aging early in life, such as cloudy lenses (cataracts) in both eyes, skin ulcers, type 2 diabetes, diminished fertility, severe hardening of the arteries (atherosclerosis), thinning of the bones (osteoporosis), and some types of cancer. It is not uncommon for affected individuals to develop multiple, rare cancers during their lifetime. People with Werner syndrome usually live into their late forties or early fifties. The most common causes of death are cancer and atherosclerosis.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: WRN
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/WRN
+synonym(1): Adult premature aging syndrome
+synonym(2): Adult Progeria
+synonym(3): Werner's Syndrome
+synonym(4): Werners Syndrome
+synonym(5): WS
+db-key(1)/db: GTR
+db-key(1)/key: C0043119
+db-key(2)/db: GeneReviews
+db-key(2)/key: werner
+db-key(3)/db: MeSH
+db-key(3)/key: D014898
+db-key(4)/db: OMIM
+db-key(4)/key: 277700
+db-key(5)/db: Orphanet
+db-key(5)/key: 902
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 51626007
+reviewed: 2012-12
+published: 2018-04-17

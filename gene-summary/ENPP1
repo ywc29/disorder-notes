@@ -1,0 +1,34 @@
+gene-symbol: ENPP1
+name: ectonucleotide pyrophosphatase/phosphodiesterase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ENPP1
+text/text-role: function
+text/html: <p>The <i>ENPP1</i> gene provides instructions for making a protein called ectonucleotide pyrophosphatase/phosphodiesterase 1 (ENPP1). The ENPP1 protein helps break down a molecule called adenosine triphosphate (ATP), specifically when it is found outside the cell (extracellular). Extracellular ATP is quickly broken down into other molecules called adenosine monophosphate (AMP) and pyrophosphate. Pyrophosphate is important in preventing the accumulation of abnormal deposits of calcium (calcification) and other minerals (mineralization) in the body.</p><p>The ENPP1 protein also plays a role in controlling cell signaling in response to the hormone insulin, through interaction between a part of the ENPP1 protein called the SMB2 domain and the insulin receptor. The insulin receptor is a protein that attaches (binds) to insulin and initiates cell signaling.</p><p>Insulin plays many roles in the body, including regulating blood sugar levels by controlling how much sugar (in the form of glucose) is passed from the bloodstream into cells to be used as energy. Cell signaling in response to insulin is also important for the maintenance of the outer layer of skin (the epidermis). It helps control the transport of the pigment melanin from the cells in which it is produced (melanocytes) to epidermal cells called keratinocytes, and it is also involved in the development of keratinocytes.</p>
+related-health-condition(1)/name: Cole disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cole-disease
+related-health-condition(2)/name: generalized arterial calcification of infancy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/generalized-arterial-calcification-of-infancy
+related-health-condition(3)/name: hereditary hypophosphatemic rickets
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hypophosphatemic-rickets
+synonym(1): alkaline phosphodiesterase 1
+synonym(2): E-NPP 1
+synonym(3): ectonucleotide pyrophosphatase/phosphodiesterase family member 1
+synonym(4): Ly-41 antigen
+synonym(5): M6S1
+synonym(6): membrane component chromosome 6 surface marker 1
+synonym(7): membrane component, chromosome 6, surface marker 1
+synonym(8): NPP1
+synonym(9): NPPS
+synonym(10): PC-1
+synonym(11): PCA1
+synonym(12): PDNP1
+synonym(13): phosphodiesterase I/nucleotide pyrophosphatase 1
+synonym(14): plasma-cell membrane glycoprotein 1
+synonym(15): plasma-cell membrane glycoprotein PC-1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5167
+db-key(2)/db: OMIM
+db-key(2)/key: 173335
+db-key(3)/db: OMIM
+db-key(3)/key: 613312
+reviewed: 2015-01
+published: 2018-04-17

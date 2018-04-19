@@ -1,0 +1,36 @@
+name: Multiple system atrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/multiple-system-atrophy
+text/text-role: description
+text/html: <p>Multiple system atrophy is a progressive brain disorder that affects movement and balance and disrupts the function of the autonomic nervous system. The autonomic nervous system controls body functions that are mostly involuntary, such as regulation of blood pressure. The most frequent autonomic symptoms associated with multiple system atrophy are a sudden drop in blood pressure upon standing (orthostatic hypotension), urinary difficulties, and erectile dysfunction in men.</p><p>Researchers have described two major types of multiple system atrophy, which are distinguished by their major signs and symptoms at the time of diagnosis. In one type, known as MSA-P, a group of movement abnormalities called parkinsonism are predominant. These abnormalities include unusually slow movement (bradykinesia), muscle rigidity, tremors, and an inability to hold the body upright and balanced (postural instability). The other type of multiple system atrophy, known as MSA-C, is characterized by cerebellar ataxia, which causes problems with coordination and balance. This form of the condition can also include speech difficulties (dysarthria) and problems controlling eye movement.</p><p>Multiple system atrophy usually occurs in older adults; on average, signs and symptoms appear around age 55. The condition worsens with time, and affected individuals survive an average of 10 years after the signs and symptoms first appear.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: COQ2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/COQ2
+related-gene(2)/gene-symbol: SNCA
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SNCA
+synonym(1): MSA
+synonym(2): OPCA
+synonym(3): progressive autonomic failure with multiple system atrophy
+synonym(4): SDS
+synonym(5): Shy-Drager syndrome
+synonym(6): sporadic olivopontocerebellar atrophy
+db-key(1)/db: GTR
+db-key(1)/key: C0037019
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: G90.3
+db-key(3)/db: MeSH
+db-key(3)/key: D019578
+db-key(4)/db: OMIM
+db-key(4)/key: 146500
+db-key(5)/db: Orphanet
+db-key(5)/key: 102
+db-key(6)/db: Orphanet
+db-key(6)/key: 227510
+db-key(7)/db: Orphanet
+db-key(7)/key: 98933
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 16576004
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 230297002
+reviewed: 2016-07
+published: 2018-04-17

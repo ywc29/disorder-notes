@@ -1,0 +1,24 @@
+gene-symbol: INSR
+name: insulin receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/INSR
+text/text-role: function
+text/html: <p>The <i>INSR</i> gene provides instructions for making a protein called an insulin receptor, which is found in many types of cells. Insulin receptors are embedded in the outer membrane surrounding the cell, where they attach (bind) to the hormone insulin circulating in the bloodstream. Insulin plays many roles in the body, including regulating blood sugar levels by controlling how much sugar (in the form of glucose) is passed from the bloodstream into cells to be used as energy.</p><p>The insulin receptor is initially produced as a single long protein that must be processed by being cut (cleaved) into four parts: two alpha subunits and two beta subunits. These subunits work together as a functioning receptor. The alpha subunits stick out from the surface of the cell, while the beta subunits remain inside the cell. The alpha subunits attach (bind) to insulin, which causes the beta subunits to trigger signaling pathways within the cell that influence many cell functions.</p>
+related-health-condition(1)/name: Donohue syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/donohue-syndrome
+related-health-condition(2)/name: polycystic ovary syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/polycystic-ovary-syndrome
+related-health-condition(3)/name: Rabson-Mendenhall syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/rabson-mendenhall-syndrome
+related-health-condition(4)/name: type A insulin resistance syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/type-a-insulin-resistance-syndrome
+synonym(1): CD220
+synonym(2): HHF5
+synonym(3): insulin receptor isoform Long preproprotein
+synonym(4): insulin receptor isoform Short preproprotein
+synonym(5): IR
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3643
+db-key(2)/db: OMIM
+db-key(2)/key: 147670
+reviewed: 2014-12
+published: 2018-04-17

@@ -1,0 +1,41 @@
+gene-symbol: SLC4A1
+name: solute carrier family 4 member 1 (Diego blood group)
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC4A1
+text/text-role: function
+text/html: <p>The <i>SLC4A1</i> gene provides instructions for making a protein known as anion exchanger 1 (AE1). This protein transports negatively charged atoms (anions) across cell membranes. Specifically, AE1 exchanges negatively charged atoms of chlorine (chloride ions) for negatively charged bicarbonate molecules (bicarbonate ions). Based on this function, AE1 is known as a chloride/bicarbonate exchanger (Cl<sup>-</sup>/HCO<sub>3</sub><sup>-</sup> exchanger). The main function of this exchanger is to maintain the correct acid levels (pH) in the body.</p><p>There are two versions of the AE1 protein that differ in size. The shorter version is found in specialized kidney cells, called alpha-intercalated cells, that line structures in the kidney called renal tubules. The renal tubules reabsorb substances that are needed and eliminate unneeded substances in urine. Specifically, alpha-intercalated cells release acid into the urine to be removed from the body. In alpha-intercalated cells, the exchange of bicarbonate through the AE1 protein allows acid to be released from the cell into the urine.</p><p>The longer version of AE1 is found in red blood cells. In addition to exchanging ions, the longer AE1 protein attaches to other proteins that make up the structural framework (the cytoskeleton) of red blood cells, helping to maintain their structure. In red blood cells, the AE1 protein can interact with another protein called glycophorin A, which helps ensure AE1 gets moved (trafficked) to the correct location of the cell. Glycophorin A is not found in kidney cells.</p>
+related-health-condition(1)/name: hereditary spherocytosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-spherocytosis
+related-health-condition(2)/name: SLC4A1-associated distal renal tubular acidosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/slc4a1-associated-distal-renal-tubular-acidosis
+synonym(1): AE1
+synonym(2): anion exchange protein 1
+synonym(3): anion exchanger 1
+synonym(4): anion exchanger-1
+synonym(5): band 3 anion transport protein
+synonym(6): BND3
+synonym(7): CD233
+synonym(8): DI
+synonym(9): Diego blood group
+synonym(10): EMPB3
+synonym(11): EPB3
+synonym(12): erythrocyte membrane protein band 3
+synonym(13): erythroid anion exchange protein
+synonym(14): FR
+synonym(15): Froese blood group
+synonym(16): RTA1A
+synonym(17): solute carrier family 4 (anion exchanger), member 1 (Diego blood group)
+synonym(18): solute carrier family 4, anion exchanger, member 1 (erythrocyte membrane protein band 3, Diego blood group)
+synonym(19): solute carrier family 4, anion exchanger, number 1
+synonym(20): SW
+synonym(21): Swann blood group
+synonym(22): Waldner blood group
+synonym(23): WD
+synonym(24): WD1
+synonym(25): WR
+synonym(26): Wright blood group
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6521
+db-key(2)/db: OMIM
+db-key(2)/key: 109270
+reviewed: 2014-08
+published: 2018-04-17

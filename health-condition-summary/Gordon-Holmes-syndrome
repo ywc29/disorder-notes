@@ -1,0 +1,27 @@
+name: Gordon Holmes syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/gordon-holmes-syndrome
+text/text-role: description
+text/html: <p>Gordon Holmes syndrome is a rare condition characterized by reproductive and neurological problems. One of the key features of the condition is reduced production of hormones that direct sexual development (hypogonadotropic hypogonadism). Many affected individuals have a delay in development of the typical signs of puberty, such as the growth of facial hair and deepening of the voice in males, and the start of monthly periods (menstruation) and breast development in females. Some never undergo puberty. While some people with Gordon Holmes syndrome seem to have normal puberty, they develop other problems with the reproductive system later in life.</p><p>In early adulthood, individuals with Gordon Holmes syndrome develop neurological problems, usually beginning with speech difficulties (dysarthria). As the condition worsens, affected individuals have problems with balance and coordination (cerebellar ataxia), often leading to difficulties with activities of daily living and a need for wheelchair assistance. Some affected individuals also develop memory problems and a decline in intellectual function (dementia).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: PNPLA6
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/PNPLA6
+related-gene(2)/gene-symbol: RNF216
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/RNF216
+synonym(1): cerebellar ataxia and hypogonadotropic hypogonadism
+synonym(2): deficiency of luteinizing hormone-releasing hormone with ataxia
+synonym(3): LHRH deficiency and ataxia
+db-key(1)/db: GTR
+db-key(1)/key: C1859305
+db-key(2)/db: MeSH
+db-key(2)/key: D002526
+db-key(3)/db: MeSH
+db-key(3)/key: D007006
+db-key(4)/db: OMIM
+db-key(4)/key: 212840
+db-key(5)/db: Orphanet
+db-key(5)/key: 1173
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 230240004
+reviewed: 2017-07
+published: 2018-04-17

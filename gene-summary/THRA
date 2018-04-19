@@ -1,0 +1,8 @@
+gene-symbol: THRA
+name: thyroid hormone receptor alpha
+ghr-page: https://ghr.nlm.nih.gov/gene/THRA
+related-health-condition/name: congenital hypothyroidism
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-hypothyroidism
+db-key/db: NCBI Gene
+db-key/key: 7067
+published: 2018-04-17

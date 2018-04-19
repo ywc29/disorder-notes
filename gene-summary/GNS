@@ -1,0 +1,19 @@
+gene-symbol: GNS
+name: glucosamine (N-acetyl)-6-sulfatase
+ghr-page: https://ghr.nlm.nih.gov/gene/GNS
+text/text-role: function
+text/html: <p>The <i>GNS</i> gene provides instructions for producing an enzyme called N-acetylglucosamine-6-sulfatase. This enzyme is located in lysosomes, compartments within cells that digest and recycle different types of molecules. N-acetylglucosamine-6-sulfatase is involved in the step-wise breakdown of large molecules called glycosaminoglycans (GAGs). GAGs are composed of sugar molecules that are linked together to form a long string. To break down these large molecules, individual sugars are removed one at a time from one end of the molecule. N-acetylglucosamine-6-sulfatase removes a chemical group known as a sulfate from a subset of GAGs called heparan sulfate when the sugar N-acetylglucosamine-6-sulfate is located at the end.</p>
+related-health-condition/name: mucopolysaccharidosis type III
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-iii
+synonym(1): G6S
+synonym(2): glucosamine-6-sulfatase
+synonym(3): GNS_HUMAN
+synonym(4): MGC21274
+synonym(5): N-acetylglucosamine-6-sulfatase
+synonym(6): N-acetylglucosamine-6-sulfatase precursor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2799
+db-key(2)/db: OMIM
+db-key(2)/key: 607664
+reviewed: 2010-08
+published: 2018-04-17

@@ -1,0 +1,29 @@
+name: 22q13.3 deletion syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/22q133-deletion-syndrome
+text/text-role: description
+text/html: <p>22q13.3 deletion syndrome, which is also commonly known as Phelan-McDermid syndrome, is a disorder caused by the loss of a small piece of chromosome 22. The deletion occurs near the end of the chromosome at a location designated q13.3.</p><p>The features of 22q13.3 deletion syndrome vary widely and involve many parts of the body. Characteristic signs and symptoms include developmental delay, moderate to profound intellectual disability, decreased muscle tone (hypotonia), and absent or delayed speech.   Some people with this condition have autism or autistic-like behavior that affects communication and social interaction, such as poor eye contact, sensitivity to touch, and aggressive behaviors.  They may also chew on non-food items such as clothing.  Less frequently, people with this condition have seizures.</p><p>Individuals with 22q13.3 deletion syndrome tend to have a decreased sensitivity to pain.  Many also have a reduced ability to sweat, which can lead to a greater risk of overheating and dehydration.  Some people with this condition have episodes of frequent vomiting and nausea (cyclic vomiting) and backflow of stomach acids into the esophagus (gastroesophageal reflux).</p><p>People with 22q13.3 deletion syndrome typically have distinctive facial features, including a long, narrow head; prominent ears; a pointed chin; droopy eyelids (ptosis); and deep-set eyes.   Other physical features seen with this condition include large and fleshy hands and/or feet, a fusion of the second and third toes (syndactyly), and small or abnormal toenails.  Some affected individuals have rapid (accelerated) growth.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SHANK3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SHANK3
+related-chromosome/name: 22
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/22
+synonym(1): 22q13 deletion syndrome
+synonym(2): deletion 22q13 syndrome
+synonym(3): deletion 22q13.3 syndrome
+synonym(4): monosomy 22q13
+synonym(5): Phelan-McDermid syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1853490
+db-key(2)/db: GeneReviews
+db-key(2)/key: gr_22q13_3
+db-key(3)/db: MeSH
+db-key(3)/key: D025063
+db-key(4)/db: OMIM
+db-key(4)/key: 606232
+db-key(5)/db: Orphanet
+db-key(5)/key: 48652
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 699310000
+reviewed: 2009-09
+published: 2018-04-17

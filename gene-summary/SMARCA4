@@ -1,0 +1,38 @@
+gene-symbol: SMARCA4
+name: SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 4
+ghr-page: https://ghr.nlm.nih.gov/gene/SMARCA4
+text/text-role: function
+text/html: <p>The <i>SMARCA4</i> gene provides instructions for making a protein called BRG1, which forms one piece (subunit) of several different SWI/SNF protein complexes. SWI/SNF complexes regulate gene activity (expression) by a process known as chromatin remodeling. Chromatin is the network of DNA and protein that packages DNA into chromosomes. The structure of chromatin can be changed (remodeled) to alter how tightly DNA is packaged. Chromatin remodeling is one way gene expression is regulated during development; when DNA is tightly packed, gene expression is lower than when DNA is loosely packed.</p><p>Through their ability to regulate gene activity, SWI/SNF complexes are involved in many processes, including repairing damaged DNA; copying (replicating) DNA; and controlling the growth, division, and maturation (differentiation) of cells. The BRG1 protein and other SWI/SNF subunits are thought to act as tumor suppressors, which keep cells from growing and dividing too rapidly or in an uncontrolled way.</p><p>The BRG1 protein uses a molecule called ATP, which provides energy for chromatin remodeling, although the exact mechanism of remodeling is unclear.</p>
+related-health-condition(1)/name: Coffin-Siris syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/coffin-siris-syndrome
+related-health-condition(2)/name: lung cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/lung-cancer
+synonym(1): ATP-dependent helicase SMARCA4
+synonym(2): BAF190
+synonym(3): BAF190A
+synonym(4): brahma protein-like 1
+synonym(5): BRG1
+synonym(6): BRG1-associated factor 190A
+synonym(7): BRM/SWI2-related gene 1
+synonym(8): FLJ39786
+synonym(9): hSNF2b
+synonym(10): MRD16
+synonym(11): nuclear protein GRB1
+synonym(12): protein brahma homolog 1
+synonym(13): protein BRG-1
+synonym(14): RTPS2
+synonym(15): SMCA4_HUMAN
+synonym(16): SNF2
+synonym(17): SNF2-beta
+synonym(18): SNF2-like 4
+synonym(19): SNF2L4
+synonym(20): SNF2LB
+synonym(21): sucrose nonfermenting-like 4
+synonym(22): SWI2
+synonym(23): transcription activator BRG1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6597
+db-key(2)/db: OMIM
+db-key(2)/key: 603254
+reviewed: 2013-05
+published: 2018-04-17

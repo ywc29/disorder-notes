@@ -1,0 +1,21 @@
+name: REN-related kidney disease
+ghr-page: https://ghr.nlm.nih.gov/condition/ren-related-kidney-disease
+text/text-role: description
+text/html: <p><i>REN</i>-related kidney disease is an inherited condition that affects kidney function. This condition causes slowly progressive kidney disease that usually becomes apparent during childhood. As this condition progresses, the kidneys become less able to filter fluids and waste products from the body, resulting in kidney failure. Individuals with <i>REN</i>-related kidney disease typically require dialysis (to remove wastes from the blood) or a kidney transplant between ages 40 and 70.</p><p>People with <i>REN</i>-related kidney disease sometimes have low blood pressure. They may also have mildly increased levels of potassium in their blood (hyperkalemia). In childhood, people with <i>REN</i>-related kidney disease develop a shortage of red blood cells (anemia), which can cause pale skin, weakness, and fatigue. In this disorder, anemia is usually mild and begins to improve during adolescence.</p><p>Many individuals with this condition develop high blood levels of a waste product called uric acid. Normally, the kidneys remove uric acid from the blood and transfer it to urine so it can be excreted from the body. In <i>REN</i>-related kidney disease, the kidneys are unable to remove uric acid from the blood effectively. A buildup of uric acid can cause gout, which is a form of arthritis resulting from uric acid crystals in the joints. Individuals with <i>REN</i>-related kidney disease may begin to experience the signs and symptoms of gout during their twenties.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: REN
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/REN
+synonym: Familial juvenile hyperuricemic nephropathy 2
+db-key(1)/db: GTR
+db-key(1)/key: C2751310
+db-key(2)/db: GeneReviews
+db-key(2)/key: hyper-nfj2
+db-key(3)/db: MeSH
+db-key(3)/key: D007674
+db-key(4)/db: OMIM
+db-key(4)/key: 613092
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 46785007
+reviewed: 2010-01
+published: 2018-04-17

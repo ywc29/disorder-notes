@@ -1,0 +1,22 @@
+name: UNC80 deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/unc80-deficiency
+text/text-role: description
+text/html: <p>UNC80 deficiency is a severe disorder characterized by nervous system and developmental problems that are apparent from birth or early infancy. The disorder does not typically get worse over time; development of intellectual function and motor skills, such as rolling over and sitting, is slow and limited, but once skills are learned, they are usually retained.</p><p>People with UNC80 deficiency have profound intellectual disability. Muscle tone is generally weak (hypotonia), but affected individuals may have increased muscle tone (hypertonia) in the arms and legs. Most people with this disorder never learn to walk. Some affected individuals have feeding difficulties because hypotonia leads to problems controlling movements of the mouth. Speech is also generally absent, although in some cases individuals have limited communication using body language, gestures, and signs. Seizures, involuntary side-to-side movements of the eyes (nystagmus), eyes that do not point in the same direction (strabismus), and a high-pitched cry can also occur in this disorder.</p><p>People with UNC80 deficiency are of normal size at birth but grow slowly during infancy and childhood. Unusual facial features typically occur in this disorder, and vary among affected individuals. These features can include a wide, short skull (brachycephaly); a triangular face shape with a prominent forehead (frontal bossing); droopy eyelids (ptosis); folds of skin covering the inner corners of the eyes (epicanthal folds); outside corners of the eyes that point downward (downslanting palpebral fissures); a nose with a prominent bridge and a bulbous or upturned tip; a short, smooth space between the upper lip and nose (philtrum); a mouth that remains open; and low-set ears. Other physical differences that can occur in people with UNC80 deficiency include a short neck, abnormal curvature of the spine (scoliosis), permanently bent joints (contractures), and inward- and upward-turning feet (clubfeet).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: UNC80
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/UNC80
+synonym(1): IHPRF2
+synonym(2): infantile hypotonia with psychomotor retardation and characteristic facies-2
+db-key(1)/db: GTR
+db-key(1)/key: C4225203
+db-key(2)/db: GeneReviews
+db-key(2)/key: unc80-def
+db-key(3)/db: MeSH
+db-key(3)/key: D001927
+db-key(4)/db: MeSH
+db-key(4)/key: D053447
+db-key(5)/db: OMIM
+db-key(5)/key: 616801
+reviewed: 2017-12
+published: 2018-04-17

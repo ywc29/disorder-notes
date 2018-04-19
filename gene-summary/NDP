@@ -1,0 +1,21 @@
+gene-symbol: NDP
+name: NDP, norrin cystine knot growth factor
+ghr-page: https://ghr.nlm.nih.gov/gene/NDP
+text/text-role: function
+text/html: <p>The <i>NDP</i> gene provides instructions for making a protein called norrin. Norrin participates in chemical signaling pathways that affect the way cells and tissues develop. Studies suggest that norrin may play a role in Wnt signaling, which is important for cell division (proliferation), attachment of cells to one another (adhesion), cell movement (migration), and many other cellular activities.</p><p>Norrin is one of many proteins, or ligands, that can attach (bind) to other proteins called frizzled receptors.  These receptors are embedded in the outer membranes of cells. Norrin binds with the receptor frizzled-4 (produced from the <i>FZD4</i> gene), fitting together like a key in a lock. When a ligand binds to a frizzled receptor, it initiates a multi-step process that regulates the activity of certain genes.</p><p>The norrin protein and its receptor frizzled-4 participate in developmental processes that are believed to be crucial for normal development of the eye and other body systems. In particular, norrin seems to play critical roles in the specialization of cells in the retina (the thin layer at the back of the eye that senses light and color) and the establishment of a blood supply to the retina and the inner ear.</p>
+related-health-condition(1)/name: familial exudative vitreoretinopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-exudative-vitreoretinopathy
+related-health-condition(2)/name: Norrie disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/norrie-disease
+synonym(1): ND
+synonym(2): NDP_HUMAN
+synonym(3): Norrie disease (pseudoglioma)
+synonym(4): norrin
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4693
+db-key(2)/db: OMIM
+db-key(2)/key: 300216
+db-key(3)/db: OMIM
+db-key(3)/key: 300658
+reviewed: 2009-02
+published: 2018-04-17

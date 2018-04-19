@@ -1,0 +1,16 @@
+gene-symbol: CRTAP
+name: cartilage associated protein
+ghr-page: https://ghr.nlm.nih.gov/gene/CRTAP
+text/text-role: function
+text/html: <p>The <i>CRTAP</i> gene provides instructions for making a protein called cartilage associated protein. While the specific function of this protein is not known, it plays an important role in normal bone development.  Cartilage associated protein works with two other proteins, leprecan and cyclophilin B, as part of a complex that helps process certain forms of collagen. Collagens are proteins that provide strength, support, and the ability to stretch (elasticity) to many body tissues.</p><p>The complex containing cartilage associated protein modifies a protein building block (amino acid) called proline in collagen molecules.  This modification, which is known as proline 3-hydroxylation, appears to be critical for the normal folding and assembly of collagen.  It also may be important for releasing collagen molecules into the spaces around cells (the extracellular matrix). The secretion of collagen from cells is necessary for the proper formation of connective tissues, such as bones, tendons, and cartilage, that form the body's supportive framework.</p>
+related-health-condition/name: osteogenesis imperfecta
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/osteogenesis-imperfecta
+synonym(1): cartilage-associated protein
+synonym(2): CASP
+synonym(3): CRTAP_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10491
+db-key(2)/db: OMIM
+db-key(2)/key: 605497
+reviewed: 2007-11
+published: 2018-04-17

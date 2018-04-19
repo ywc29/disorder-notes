@@ -1,0 +1,84 @@
+name: C3 glomerulopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/c3-glomerulopathy
+text/text-role: description
+text/html: <p>C3 glomerulopathy is a group of related conditions that cause the kidneys to malfunction. The major features of  C3 glomerulopathy include high levels of protein in the urine (proteinuria), blood in the urine (hematuria), reduced amounts of urine, low levels of protein in the blood, and swelling in many areas of the body. Affected individuals may have particularly low levels of a protein called complement component 3 (or C3) in the blood.</p><p>The kidney problems associated with C3 glomerulopathy tend to worsen over time. About half of affected individuals develop end-stage renal disease (ESRD) within 10 years after their diagnosis. ESRD is a life-threatening condition that prevents the kidneys from filtering fluids and waste products from the body effectively.</p><p>Researchers have identified two major forms of C3 glomerulopathy: dense deposit disease and C3 glomerulonephritis. Although the two disorders cause similar kidney problems, the features of dense deposit disease tend to appear earlier than those of C3 glomerulonephritis, usually in adolescence. However, the signs and symptoms of either disease may not begin until adulthood.</p><p>One of the two forms of C3 glomerulopathy, dense deposit disease, can also be associated with other conditions unrelated to kidney function. For example, people with dense deposit disease may have acquired partial lipodystrophy, a condition characterized by a lack of fatty (adipose) tissue under the skin in the upper part of the body. Additionally, some people with dense deposit disease develop a buildup of yellowish deposits called drusen in the light-sensitive tissue at the back of the eye (the retina). These deposits usually appear in childhood or adolescence and can cause vision problems later in life.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: ADAM19
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ADAM19
+related-gene(2)/gene-symbol: C3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/C3
+related-gene(3)/gene-symbol: C3AR1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/C3AR1
+related-gene(4)/gene-symbol: C8A
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/C8A
+related-gene(5)/gene-symbol: CD46
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/CD46
+related-gene(6)/gene-symbol: CFB
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/CFB
+related-gene(7)/gene-symbol: CFD
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/CFD
+related-gene(8)/gene-symbol: CFH
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/CFH
+related-gene(9)/gene-symbol: CFHR1
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/CFHR1
+related-gene(10)/gene-symbol: CFHR2
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/CFHR2
+related-gene(11)/gene-symbol: CFHR3
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/CFHR3
+related-gene(12)/gene-symbol: CFHR5
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/CFHR5
+related-gene(13)/gene-symbol: CFI
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/CFI
+related-gene(14)/gene-symbol: CR1
+related-gene(14)/ghr-page: https://ghr.nlm.nih.gov/gene/CR1
+synonym(1): C3 glomerulonephritis
+synonym(2): C3G
+synonym(3): DDD
+synonym(4): DDD/MPGNII
+synonym(5): dense deposit disease
+synonym(6): membranoproliferative glomerulonephritis type II
+db-key(1)/db: GTR
+db-key(1)/key: C0268743
+db-key(2)/db: GTR
+db-key(2)/key: C0398777
+db-key(3)/db: GTR
+db-key(3)/key: C3553720
+db-key(4)/db: GTR
+db-key(4)/key: CN120381
+db-key(5)/db: GTR
+db-key(5)/key: CN187045
+db-key(6)/db: GeneReviews
+db-key(6)/key: mpgn
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: N00.6
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: N01.6
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: N02.6
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: N03.6
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: N04.6
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: N05.6
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: N06.6
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: N07.6
+db-key(15)/db: MeSH
+db-key(15)/key: D015432
+db-key(16)/db: OMIM
+db-key(16)/key: 609814
+db-key(17)/db: OMIM
+db-key(17)/key: 614809
+db-key(18)/db: Orphanet
+db-key(18)/key: 329931
+db-key(19)/db: Orphanet
+db-key(19)/key: 93571
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 197599000
+db-key(21)/db: SNOMED CT
+db-key(21)/key: 59479006
+reviewed: 2015-12
+published: 2018-04-17

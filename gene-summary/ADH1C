@@ -1,0 +1,8 @@
+gene-symbol: ADH1C
+name: alcohol dehydrogenase 1C (class I), gamma polypeptide
+ghr-page: https://ghr.nlm.nih.gov/gene/ADH1C
+related-health-condition/name: alcohol use disorder
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/alcohol-use-disorder
+db-key/db: NCBI Gene
+db-key/key: 126
+published: 2018-04-17

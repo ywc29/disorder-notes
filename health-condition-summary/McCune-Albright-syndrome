@@ -1,0 +1,37 @@
+name: McCune-Albright syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/mccune-albright-syndrome
+text/text-role: description
+text/html: <p>McCune-Albright syndrome is a disorder that affects the bones, skin, and several hormone-producing (endocrine) tissues.</p><p>People with McCune-Albright syndrome develop areas of abnormal scar-like (fibrous) tissue in their bones, a condition called polyostotic fibrous dysplasia. Polyostotic means the abnormal areas (lesions) may occur in many bones; often they are confined to one side of the body. Replacement of bone with fibrous tissue may lead to fractures, uneven growth, and deformity. When lesions occur in the bones of the skull and jaw it can result in uneven (asymmetric) growth of the face. Asymmetry may also occur in the long bones; uneven growth of leg bones may cause limping. Abnormal curvature of the spine (scoliosis) may also occur. Bone lesions may become cancerous, but this happens in fewer than 1 percent of people with McCune-Albright syndrome.</p><p>In addition to bone abnormalities, affected individuals usually have light brown patches of skin called café-au-lait spots, which may be present from birth. The irregular borders of the café-au-lait spots in McCune-Albright syndrome are often compared to a map of the coast of Maine. By contrast, café-au-lait spots in other disorders have smooth borders, which are compared to the coast of California. Like the bone lesions, the café-au-lait spots in McCune-Albright syndrome may appear on only one side of the body.</p><p>Girls with McCune-Albright syndrome may reach puberty early. These girls often have menstrual bleeding by age 2. This early onset of menstruation is believed to be caused by excess estrogen, a female sex hormone, produced by cysts that develop in one of the ovaries. Less commonly, boys with McCune-Albright syndrome may also experience early puberty.</p><p>Other endocrine problems may also occur in people with McCune-Albright syndrome. The thyroid gland, a butterfly-shaped organ at the base of the neck, may become enlarged (a condition called a goiter) or develop masses called nodules. About 50 percent of affected individuals produce excessive amounts of thyroid hormone (hyperthyroidism), resulting in a fast heart rate, high blood pressure, weight loss, tremors, sweating, and other symptoms. The pituitary gland (a structure at the base of the brain that makes several hormones) may produce too much growth hormone. Excess growth hormone can result in acromegaly, a condition characterized by large hands and feet, arthritis, and distinctive facial features that are often described as "coarse." Excess growth hormone secretion may also lead to increased expansion of the fibrous dysplasia in the bones, most visibly in the skull. Rarely, affected individuals develop Cushing syndrome, an excess of the hormone cortisol produced by the adrenal glands, which are small glands located on top of each kidney. Cushing syndrome causes weight gain in the face and upper body, slowed growth in children, fragile skin, fatigue, and other health problems. In people with McCune-Albright syndrome, Cushing syndrome occurs only before age 2.</p><p>Problems in other organs and systems, such as noncancerous (benign) gastrointestinal growths called polyps and other abnormalities, can also occur in McCune-Albright syndrome.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene/gene-symbol: GNAS
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GNAS
+synonym(1): Albright-McCune-Sternberg syndrome
+synonym(2): Albright-Sternberg syndrome
+synonym(3): Albright syndrome
+synonym(4): Albright's disease
+synonym(5): Albright's disease of bone
+synonym(6): Albright's syndrome
+synonym(7): Albright's syndrome with precocious puberty
+synonym(8): fibrous dysplasia with pigmentary skin changes and precocious puberty
+synonym(9): MAS
+synonym(10): osteitis fibrosa disseminata
+synonym(11): PFD
+synonym(12): POFD
+synonym(13): polyostotic fibrous dysplasia
+db-key(1)/db: GTR
+db-key(1)/key: C0242292
+db-key(2)/db: GeneReviews
+db-key(2)/key: mccune-albright
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q78.1
+db-key(4)/db: MeSH
+db-key(4)/key: D005359
+db-key(5)/db: OMIM
+db-key(5)/key: 174800
+db-key(6)/db: Orphanet
+db-key(6)/key: 562
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 36517007
+reviewed: 2018-01
+published: 2018-04-17

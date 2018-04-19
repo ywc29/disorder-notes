@@ -1,0 +1,23 @@
+gene-symbol: BMPR1A
+name: bone morphogenetic protein receptor type 1A
+ghr-page: https://ghr.nlm.nih.gov/gene/BMPR1A
+text/text-role: function
+text/html: <p>The <i>BMPR1A</i> gene provides instructions for making a protein called bone morphogenetic protein receptor 1A.  This receptor protein has a specific site into which certain other proteins, called ligands, fit like keys into locks.  Specifically, the BMPR1A protein attaches (binds) to ligands in the transforming growth factor beta (TGF-β) pathway.  This signaling pathway allows the environment outside the cell to affect how the cell produces other proteins.  The BMPR1A receptor protein and its ligands are involved in transmitting chemical signals from the cell membrane to the nucleus.</p><p>When the BMPR1A protein is bound to a ligand, it turns on (activates) a group of related proteins (a protein complex) called SMAD proteins.  The activated SMAD protein complex is then transported into the cell's nucleus, where it regulates cell growth and division (proliferation) and the activity of particular genes.</p>
+related-health-condition/name: juvenile polyposis syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-polyposis-syndrome
+synonym(1): activin A receptor, type II-like kinase 3
+synonym(2): ACVRLK3
+synonym(3): ALK3
+synonym(4): BMR1A_HUMAN
+synonym(5): bone morphogenetic protein receptor type IA
+synonym(6): bone morphogenetic protein receptor, type IA
+synonym(7): bone morphogenetic protein receptor, type IA precursor
+synonym(8): CD292
+synonym(9): serine/threonine-protein kinase receptor R5
+synonym(10): SKR5
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 657
+db-key(2)/db: OMIM
+db-key(2)/key: 601299
+reviewed: 2009-05
+published: 2018-04-17

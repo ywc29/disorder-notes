@@ -1,0 +1,24 @@
+name: Isodicentric chromosome 15 syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/isodicentric-chromosome-15-syndrome
+text/text-role: description
+text/html: <p>Isodicentric chromosome 15 syndrome is a developmental disorder with a broad spectrum of features. The signs and symptoms vary among affected individuals.</p><p>Poor muscle tone is commonly seen in individuals with isodicentric chromosome 15 syndrome and contributes to delayed development and impairment of motor skills, including sitting and walking.</p><p>Babies with isodicentric chromosome 15 syndrome often have trouble feeding due to weak facial muscles that impair sucking and swallowing; many also have backflow of acidic stomach contents into the esophagus (gastroesophageal reflux). These feeding problems may make it difficult for them to gain weight.</p><p>Intellectual disability in isodicentric chromosome 15 syndrome can range from mild to profound. Speech is usually delayed and often remains absent or impaired. Behavioral difficulties often associated with isodicentric chromosome 15 syndrome include hyperactivity, anxiety, and frustration leading to tantrums. Other behaviors resemble features of autistic spectrum disorders, such as repeating the words of others (echolalia), difficulty with changes in routine, and problems with social interaction.</p><p>About two-thirds of people with isodicentric chromosome 15 syndrome have seizures. In more than half of affected individuals, the seizures begin in the first year of life.</p><p>About 40 percent of individuals with isodicentric chromosome 15 syndrome are born with eyes that do not look in the same direction (strabismus). Hearing loss in childhood is common and is usually caused by fluid buildup in the middle ear. This hearing loss is often temporary. However, if left untreated during early childhood, the hearing loss can interfere with language development and worsen the speech problems associated with this disorder.</p><p>Other problems associated with isodicentric chromosome 15 syndrome in some affected individuals include minor genital abnormalities in males such as undescended testes (cryptorchidism) and a spine that curves to the side (scoliosis).</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-chromosome/name: 15
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/15
+synonym(1): duplication/inversion 15q11
+synonym(2): idic(15)
+synonym(3): inv dup(15)
+synonym(4): inverted duplication 15
+synonym(5): isodicentric chromosome 15
+synonym(6): non-distal tetrasomy 15q
+db-key(1)/db: GeneReviews
+db-key(1)/key: dup15q
+db-key(2)/db: MeSH
+db-key(2)/key: D025063
+db-key(3)/db: Orphanet
+db-key(3)/key: 3306
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 16569009
+reviewed: 2012-09
+published: 2018-04-17

@@ -1,0 +1,10 @@
+gene-symbol: PNPT1
+name: polyribonucleotide nucleotidyltransferase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/PNPT1
+related-health-condition(1)/name: Leigh syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+related-health-condition(2)/name: nonsyndromic hearing loss
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-hearing-loss
+db-key/db: NCBI Gene
+db-key/key: 87178
+published: 2018-04-17

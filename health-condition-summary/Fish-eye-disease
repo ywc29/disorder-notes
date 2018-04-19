@@ -1,0 +1,26 @@
+name: Fish-eye disease
+ghr-page: https://ghr.nlm.nih.gov/condition/fish-eye-disease
+text/text-role: description
+text/html: <p>Fish-eye disease, also called partial LCAT deficiency, is a disorder that causes the clear front surface of the eyes (the corneas) to gradually become cloudy. The cloudiness, which generally first appears in adolescence or early adulthood, consists of small grayish dots of cholesterol (opacities) distributed across the corneas. Cholesterol is a waxy, fat-like substance that is produced in the body and obtained from foods that come from animals; it aids in many functions of the body but can become harmful in excessive amounts. As fish-eye disease progresses, the corneal cloudiness worsens and can lead to severely impaired vision.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: LCAT
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LCAT
+synonym(1): alpha-LCAT deficiency
+synonym(2): alpha-lecithin:cholesterol acyltransferase deficiency
+synonym(3): dyslipoproteinemic corneal dystrophy
+synonym(4): FED
+synonym(5): LCATA deficiency
+synonym(6): partial LCAT deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0342895
+db-key(2)/db: MeSH
+db-key(2)/key: D007863
+db-key(3)/db: OMIM
+db-key(3)/key: 136120
+db-key(4)/db: Orphanet
+db-key(4)/key: 79292
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 238092004
+reviewed: 2013-08
+published: 2018-04-17

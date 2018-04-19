@@ -1,0 +1,26 @@
+name: Chanarin-Dorfman syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/chanarin-dorfman-syndrome
+text/text-role: description
+text/html: <p>Chanarin-Dorfman syndrome is a condition in which fats (lipids) are stored abnormally in the body.  Affected individuals cannot break down certain fats called triglycerides, and these fats accumulate in organs and tissues, including skin, liver, muscles, intestine, eyes, and ears.  People with this condition also have dry, scaly skin (ichthyosis), which is usually present at birth.  Additional features of this condition include an enlarged liver (hepatomegaly), clouding of the lens of the eyes (cataracts), difficulty with coordinating movements (ataxia), hearing loss, short stature, muscle weakness (myopathy), involuntary movement of the eyes (nystagmus), and mild intellectual disability.</p><p>The signs and symptoms vary greatly among individuals with Chanarin-Dorfman syndrome.  Some people may have ichthyosis only, while others may have problems affecting many areas of the body.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ABHD5
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ABHD5
+synonym(1): CDS
+synonym(2): Chanarin-Dorfman disease
+synonym(3): Ichthyotic neutral lipid storage disease
+synonym(4): neutral lipid storage disease with ichthyosis
+synonym(5): Triglyceride storage disease with ichthyosis
+synonym(6): triglyceride storage disease with impaired long-chain fatty acid oxidation
+db-key(1)/db: GTR
+db-key(1)/key: C0268238
+db-key(2)/db: MeSH
+db-key(2)/key: D008052
+db-key(3)/db: OMIM
+db-key(3)/key: 275630
+db-key(4)/db: Orphanet
+db-key(4)/key: 165
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 19604005
+reviewed: 2008-11
+published: 2018-04-17

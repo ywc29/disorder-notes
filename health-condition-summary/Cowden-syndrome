@@ -1,0 +1,45 @@
+name: Cowden syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/cowden-syndrome
+text/text-role: description
+text/html: <p>Cowden syndrome is a disorder characterized by multiple noncancerous, tumor-like growths called hamartomas and an increased risk of developing certain cancers.</p><p>Almost everyone with Cowden syndrome develops hamartomas. These growths are most commonly found on the skin and mucous membranes (such as the lining of the mouth and nose), but they can also occur in the intestine and other parts of the body. The growth of hamartomas on the skin and mucous membranes typically becomes apparent by a person's late twenties.</p><p>Cowden syndrome is associated with an increased risk of developing several types of cancer, particularly cancers of the breast, a gland in the lower neck called the thyroid, and the lining of the uterus (the endometrium). Other cancers that have been identified in people with Cowden syndrome include colorectal cancer, kidney cancer, and a form of skin cancer called melanoma. Compared with the general population, people with Cowden syndrome develop these cancers at younger ages, often beginning in their thirties or forties. Other diseases of the breast, thyroid, and endometrium are also common in Cowden syndrome. Additional signs and symptoms can include an enlarged head (macrocephaly) and a rare, noncancerous brain tumor called Lhermitte-Duclos disease. A small percentage of affected individuals have delayed development or intellectual disability.</p><p>The features of Cowden syndrome overlap with those of another disorder called Bannayan-Riley-Ruvalcaba syndrome. People with Bannayan-Riley-Ruvalcaba syndrome also develop hamartomas and other noncancerous tumors. Both conditions can be caused by mutations in the <i>PTEN</i> gene. Some people with Cowden syndrome have had relatives diagnosed with Bannayan-Riley-Ruvalcaba syndrome, and other individuals have had the characteristic features of both conditions. Based on these similarities, researchers have proposed that Cowden syndrome and Bannayan-Riley-Ruvalcaba syndrome represent a spectrum of overlapping features known as <i>PTEN</i> hamartoma tumor syndrome instead of two distinct conditions.</p><p>Some people have some of the characteristic features of Cowden syndrome, particularly the cancers associated with this condition, but do not meet the strict criteria for a diagnosis of Cowden syndrome. These individuals are often described as having Cowden-like syndrome.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: KLLN
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/KLLN
+related-gene(2)/gene-symbol: PTEN
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PTEN
+related-gene(3)/gene-symbol: SDHB
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/SDHB
+related-gene(4)/gene-symbol: SDHD
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SDHD
+synonym(1): CD
+synonym(2): Cowden disease
+synonym(3): Cowden's disease
+synonym(4): Cowden's syndrome
+synonym(5): CS
+synonym(6): MHAM
+synonym(7): multiple hamartoma syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0018553
+db-key(2)/db: GTR
+db-key(2)/key: C3552552
+db-key(3)/db: GTR
+db-key(3)/key: CN072330
+db-key(4)/db: GeneReviews
+db-key(4)/key: phts
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: Q85.8
+db-key(6)/db: MeSH
+db-key(6)/key: D006223
+db-key(7)/db: OMIM
+db-key(7)/key: 158350
+db-key(8)/db: OMIM
+db-key(8)/key: 612359
+db-key(9)/db: Orphanet
+db-key(9)/key: 201
+db-key(10)/db: Orphanet
+db-key(10)/key: 65285
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 58037000
+reviewed: 2012-10
+published: 2018-04-17

@@ -1,0 +1,24 @@
+gene-symbol: OPRM1
+name: opioid receptor mu 1
+ghr-page: https://ghr.nlm.nih.gov/gene/OPRM1
+text/text-role: function
+text/html: <p>The <i>OPRM1</i> gene provides instructions for making a protein called the mu (μ) opioid receptor. Opioid receptors are part of the endogenous opioid system, which is the body's internal system for regulating pain, reward, and addictive behaviors. It consists of opioid substances produced naturally within the body (called endogenous opioids) and their receptors, into which opioids fit like keys into locks. Opioid receptors are found in the nervous system, where they are embedded in the outer membrane of nerve cells (neurons). When opioids attach (bind) to the receptors, the interaction triggers a series of chemical changes within and between neurons that lead to feelings of pleasure and pain relief.</p><p>The μ opioid receptor was the first opioid receptor to be discovered. It is the primary receptor for endogenous opioids called beta-endorphin and enkephalins, which help regulate the body's response to pain, among other functions. The μ opioid receptor is also the binding site for many opioids introduced from outside the body (called exogenous opioids). These include commonly prescribed pain medications such as oxycodone, fentanyl, buprenorphine, methadone, oxymorphone, hydrocodone, codeine, and morphine, as well as illegal opioid drugs such as heroin.</p><p>When endogenous or exogenous opioids bind to the μ opioid receptor, the interaction triggers a cascade of chemical signals in the nervous system. These signals reduce the activity (excitability) of neurons in certain areas of the brain, which leads to pain relief and feelings of pleasure and intense happiness (euphoria). In addition, the chemical signaling ultimately increases the production of a chemical called dopamine. Dopamine is a chemical messenger (neurotransmitter) that helps regulate areas of the brain involved in reward-seeking behavior, attention, and mood.</p>
+related-health-condition(1)/name: alcohol use disorder
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/alcohol-use-disorder
+related-health-condition(2)/name: opioid addiction
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/opioid-addiction
+synonym(1): LMOR
+synonym(2): M-OR-1
+synonym(3): MOP
+synonym(4): MOR
+synonym(5): MOR-1
+synonym(6): MOR1
+synonym(7): mu opiate receptor
+synonym(8): mu opioid receptor hMOR-1a
+synonym(9): OPRM
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4988
+db-key(2)/db: OMIM
+db-key(2)/key: 600018
+reviewed: 2017-11
+published: 2018-04-17

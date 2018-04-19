@@ -1,0 +1,19 @@
+gene-symbol: SLC25A20
+name: solute carrier family 25 member 20
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC25A20
+text/text-role: function
+text/html: <p>The <i>SLC25A20</i> gene provides instructions for making a protein called carnitine-acylcarnitine translocase (CACT). This protein is essential for fatty acid oxidation, a multistep process that breaks down (metabolizes) fats and converts them into energy. Fatty acid oxidation takes place within mitochondria, which are the energy-producing centers in cells. A group of fats called long-chain fatty acids must be attached to a substance known as carnitine to enter mitochondria. Once these fatty acids are joined with carnitine, the CACT protein transports them into mitochondria. Carnitine is then removed from the long-chain fatty acid and transported back out of mitochondria by the CACT protein. Fatty acids are a major source of energy for the heart and muscles. During periods of fasting, fatty acids are also an important energy source for the liver and other tissues.</p>
+related-health-condition/name: carnitine-acylcarnitine translocase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/carnitine-acylcarnitine-translocase-deficiency
+synonym(1): CAC
+synonym(2): CACT
+synonym(3): carnitine-acylcarnitine carrier
+synonym(4): carnitine/acylcarnitine translocase
+synonym(5): MCAT_HUMAN
+synonym(6): solute carrier family 25 (carnitine/acylcarnitine translocase), member 20
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 788
+db-key(2)/db: OMIM
+db-key(2)/key: 613698
+reviewed: 2010-11
+published: 2018-04-17

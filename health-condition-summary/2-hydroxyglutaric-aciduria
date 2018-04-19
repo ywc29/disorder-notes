@@ -1,0 +1,49 @@
+name: 2-hydroxyglutaric aciduria
+ghr-page: https://ghr.nlm.nih.gov/condition/2-hydroxyglutaric-aciduria
+text/text-role: description
+text/html: <p>2-hydroxyglutaric aciduria is a condition that causes progressive damage to the brain. The major types of this disorder are called D-2-hydroxyglutaric aciduria (D-2-HGA), L-2-hydroxyglutaric aciduria (L-2-HGA), and combined D,L-2-hydroxyglutaric aciduria (D,L-2-HGA).</p><p>The main features of D-2-HGA are delayed development, seizures, weak muscle tone (hypotonia), and abnormalities in the largest part of the brain (the cerebrum), which controls many important functions such as muscle movement, speech, vision, thinking, emotion, and memory. Researchers have described two subtypes of D-2-HGA, type I and type II. The two subtypes are distinguished by their genetic cause and pattern of inheritance, although they also have some differences in signs and symptoms. Type II tends to begin earlier and often causes more severe health problems than type I. Type II may also be associated with a weakened and enlarged heart (cardiomyopathy), a feature that is typically not found with type I.</p><p>L-2-HGA particularly affects a region of the brain called the cerebellum, which is involved in coordinating movements. As a result, many affected individuals have problems with balance and muscle coordination (ataxia). Additional features of L-2-HGA can include delayed development, seizures, speech difficulties, and an unusually large head (macrocephaly). Typically, signs and symptoms of this disorder begin during infancy or early childhood. The disorder worsens over time, usually leading to severe disability by early adulthood.</p><p>Combined D,L-2-HGA causes severe brain abnormalities that become apparent in early infancy. Affected infants have severe seizures, weak muscle tone (hypotonia), and breathing and feeding problems. They usually survive only into infancy or early childhood.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: D2HGDH
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/D2HGDH
+related-gene(2)/gene-symbol: IDH2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/IDH2
+related-gene(3)/gene-symbol: L2HGDH
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/L2HGDH
+related-gene(4)/gene-symbol: SLC25A1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC25A1
+synonym: 2-HGA
+db-key(1)/db: GTR
+db-key(1)/key: C1855995
+db-key(2)/db: GTR
+db-key(2)/key: C2746066
+db-key(3)/db: GTR
+db-key(3)/key: C3150909
+db-key(4)/db: GTR
+db-key(4)/key: C3152055
+db-key(5)/db: MeSH
+db-key(5)/key: D020739
+db-key(6)/db: OMIM
+db-key(6)/key: 236792
+db-key(7)/db: OMIM
+db-key(7)/key: 600721
+db-key(8)/db: OMIM
+db-key(8)/key: 613657
+db-key(9)/db: OMIM
+db-key(9)/key: 615182
+db-key(10)/db: Orphanet
+db-key(10)/key: 356978
+db-key(11)/db: Orphanet
+db-key(11)/key: 79314
+db-key(12)/db: Orphanet
+db-key(12)/key: 79315
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 237960000
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 237961001
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 698870008
+reviewed: 2013-08
+published: 2018-04-17

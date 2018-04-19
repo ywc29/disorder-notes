@@ -1,0 +1,26 @@
+name: Fragile XE syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/fragile-xe-syndrome
+text/text-role: description
+text/html: <p>Fragile XE syndrome is a genetic disorder that impairs thinking ability and cognitive functioning. Most affected individuals have mild intellectual disability. In some people with this condition, cognitive function is described as borderline, which means that it is below average but not low enough to be classified as an intellectual disability. Females are rarely diagnosed with fragile XE syndrome, likely because the signs and symptoms are so mild that the individuals function normally.</p><p>Learning disabilities are the most common sign of impaired cognitive function in people with fragile XE syndrome. The learning disabilities are likely a result of communication and behavioral problems, including delayed speech, poor writing skills, hyperactivity, and a short attention span. Some affected individuals display autistic behaviors, such as hand flapping, repetitive behaviors, and intense interest in a particular subject. Unlike some other forms of intellectual disability, cognitive functioning remains steady and does not decline with age in fragile XE syndrome.</p>
+inheritance-pattern/code: x
+inheritance-pattern/memo: X-linked
+related-gene/gene-symbol: AFF2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/AFF2
+synonym(1): FRAXE intellectual deficit
+synonym(2): FRAXE intellectual disability
+synonym(3): FRAXE mental retardation syndrome
+synonym(4): FRAXE syndrome
+synonym(5): mental retardation, X-linked, associated with fragile site FRAXE
+synonym(6): mental retardation, X-linked, FRAXE type
+db-key(1)/db: GTR
+db-key(1)/key: C0751157
+db-key(2)/db: MeSH
+db-key(2)/key: D038901
+db-key(3)/db: OMIM
+db-key(3)/key: 309548
+db-key(4)/db: Orphanet
+db-key(4)/key: 100973
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 254288000
+reviewed: 2014-01
+published: 2018-04-17

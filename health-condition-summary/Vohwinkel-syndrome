@@ -1,0 +1,31 @@
+name: Vohwinkel syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/vohwinkel-syndrome
+text/text-role: description
+text/html: <p>Vohwinkel syndrome is a disorder with classic and variant forms, both of which affect the skin.</p><p>In the classic form of Vohwinkel syndrome, affected individuals have thick, honeycomb-like calluses on the palms of the hands and soles of the feet (palmoplantar keratoses) beginning in infancy or early childhood. Affected children also typically have distinctive starfish-shaped patches of thickened skin on the tops of the fingers and toes or on the knees. Within a few years they develop tight bands of abnormal fibrous tissue around their fingers and toes (pseudoainhum); the bands may cut off the circulation to the digits and result in spontaneous amputation. People with the classic form of the disorder also have hearing loss.</p><p>The variant form of Vohwinkel syndrome does not involve hearing loss, and the skin features also include widespread dry, scaly skin (ichthyosis), especially on the limbs. The ichthyosis is usually mild, and there may also be mild reddening of the skin (erythroderma). Some affected infants are born with a tight, clear sheath covering their skin called a collodion membrane. This membrane is usually shed during the first few weeks of life.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: GJB2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GJB2
+related-gene(2)/gene-symbol: LOR
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/LOR
+synonym(1): congenital deafness with keratopachydermia and constrictions of fingers and toes
+synonym(2): keratoderma hereditarium mutilans
+synonym(3): KHM
+synonym(4): mutilating keratoderma
+synonym(5): palmoplantar keratoderma mutilans
+synonym(6): palmoplantar keratoderma mutilans Vohwinkel
+synonym(7): PPK mutilans Vohwinkel
+db-key(1)/db: GTR
+db-key(1)/key: C0265964
+db-key(2)/db: GTR
+db-key(2)/key: C1858805
+db-key(3)/db: MeSH
+db-key(3)/key: D007645
+db-key(4)/db: OMIM
+db-key(4)/key: 124500
+db-key(5)/db: OMIM
+db-key(5)/key: 604117
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 24559001
+reviewed: 2012-11
+published: 2018-04-17

@@ -1,0 +1,32 @@
+name: Complete plasminogen activator inhibitor 1 deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/complete-plasminogen-activator-inhibitor-1-deficiency
+text/text-role: description
+text/html: <p>Complete plasminogen activator inhibitor 1 deficiency (complete PAI-1 deficiency) is a disorder that causes abnormal bleeding. In people with this disorder, bleeding associated with injury can be excessive and last longer than usual.</p><p>Individuals with complete PAI-1 deficiency may experience prolonged nosebleeds, excessive bleeding after medical or dental procedures, easy bruising, and significant bleeding into the joints or soft tissues after even a minor injury. Internal bleeding after an injury, especially bleeding around the brain (intracranial hemorrhage), can be life-threatening. Affected females may have excessive bleeding associated with menstruation (menorrhagia) and abnormal bleeding in pregnancy and childbirth.</p><p>In addition to bleeding problems, some people with complete PAI-1 deficiency develop scar tissue in the heart (cardiac fibrosis), which can lead to heart failure.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SERPINE1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SERPINE1
+synonym(1): complete PAI-1 deficiency
+synonym(2): congenital plasminogen activator inhibitor type 1 deficiency
+synonym(3): homozygous PAI-1 deficiency
+synonym(4): hyperfibrinolysis due to PAI1 deficiency
+synonym(5): PAI-1 deficiency
+synonym(6): PAI-1D
+synonym(7): PAI1 deficiency
+synonym(8): plasminogen activator inhibitor type 1 deficiency
+synonym(9): plasminogen inhibitor-1 deficiency
+synonym(10): quantitative PAI-1 deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C2750067
+db-key(2)/db: GeneReviews
+db-key(2)/key: pai-1-def
+db-key(3)/db: MeSH
+db-key(3)/key: D025861
+db-key(4)/db: OMIM
+db-key(4)/key: 613329
+db-key(5)/db: Orphanet
+db-key(5)/key: 465
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 717407006
+reviewed: 2017-10
+published: 2018-04-17

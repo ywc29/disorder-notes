@@ -1,0 +1,29 @@
+gene-symbol: TNFRSF1A
+name: TNF receptor superfamily member 1A
+ghr-page: https://ghr.nlm.nih.gov/gene/TNFRSF1A
+text/text-role: function
+text/html: <p>The <i>TNFRSF1A</i> gene provides instructions for making a protein called tumor necrosis factor receptor 1 (TNFR1). This protein is found spanning the membrane of cells, with part of the TNFR1 protein outside the cell and part of the protein inside the cell. Outside the cell, the TNFR1 protein attaches (binds) to another protein called tumor necrosis factor (TNF). The interaction of the TNF protein with the TNFR1 protein causes the TNFR1 protein to bind to two other TNFR1 proteins, forming a three-protein complex called a trimer. This trimer formation is necessary for the TNFR1 protein to be functional.</p><p>The binding of the TNF and TNFR1 proteins causes the TNFR1 protein to send signals inside the cell. Signaling from the TNFR1 protein can trigger either  inflammation or self-destruction of the cell (apoptosis). Signaling within the cell initiates a pathway that turns on a protein called nuclear factor kappa B, which triggers inflammation and leads to the production of immune system proteins called cytokines. Apoptosis is initiated when the TNFR1 protein, bound to the TNF protein, is brought into the cell and starts a process known as the caspase cascade.</p>
+related-health-condition(1)/name: multiple sclerosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-sclerosis
+related-health-condition(2)/name: tumor necrosis factor receptor-associated periodic syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/tumor-necrosis-factor-receptor-associated-periodic-syndrome
+synonym(1): p55
+synonym(2): p55-R
+synonym(3): TNF-R
+synonym(4): TNF-R1
+synonym(5): TNF-R55
+synonym(6): TNFR-I
+synonym(7): TNFR1
+synonym(8): TNFR55
+synonym(9): TNR1A_HUMAN
+synonym(10): tumor necrosis factor-alpha receptor
+synonym(11): tumor necrosis factor binding protein 1
+synonym(12): tumor necrosis factor receptor superfamily member 1A
+synonym(13): tumor necrosis factor receptor superfamily, member 1A
+synonym(14): tumor necrosis factor receptor type 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7132
+db-key(2)/db: OMIM
+db-key(2)/key: 191190
+reviewed: 2011-08
+published: 2018-04-17

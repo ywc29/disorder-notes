@@ -1,0 +1,24 @@
+gene-symbol: ASPM
+name: abnormal spindle microtubule assembly
+ghr-page: https://ghr.nlm.nih.gov/gene/ASPM
+text/text-role: function
+text/html: <p>The <i>ASPM</i> gene provides instructions for making a protein that is involved in cell division. This protein is found in cells and tissues throughout the body; however, it appears to be particularly important for the division of cells in the developing brain. Studies suggest that the ASPM protein helps maintain the orderly division of early brain cells called neural progenitor cells, which ultimately give rise to mature nerve cells (neurons). By promoting the division of neural progenitor cells during early brain development, the ASPM protein helps determine the total number of neurons and the overall size of the brain.</p>
+related-health-condition(1)/name: age-related macular degeneration
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
+related-health-condition(2)/name: autosomal recessive primary microcephaly
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-primary-microcephaly
+synonym(1): abnormal spindle-like microcephaly-associated protein
+synonym(2): ASP
+synonym(3): asp (abnormal spindle) homolog, microcephaly associated (Drosophila)
+synonym(4): ASPM_HUMAN
+synonym(5): Calmbp1
+synonym(6): FLJ10517
+synonym(7): FLJ10549
+synonym(8): FLJ43117
+synonym(9): MCPH5
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 259266
+db-key(2)/db: OMIM
+db-key(2)/key: 605481
+reviewed: 2011-04
+published: 2018-04-17

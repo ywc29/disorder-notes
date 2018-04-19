@@ -1,0 +1,22 @@
+gene-symbol: DPYD
+name: dihydropyrimidine dehydrogenase
+ghr-page: https://ghr.nlm.nih.gov/gene/DPYD
+text/text-role: function
+text/html: <p>The <i>DPYD</i> gene provides instructions for making an enzyme called dihydropyrimidine dehydrogenase, which is involved in the breakdown of molecules called uracil and thymine when they are not needed. Uracil and thymine are pyrimidines, which are one type of nucleotide. Nucleotides are building blocks of DNA, its chemical cousin RNA, and molecules such as ATP and GTP that serve as energy sources in the cell.</p><p>Dihydropyrimidine dehydrogenase is involved in the first step of the breakdown of pyrimidines. This enzyme converts uracil to another molecule called 5,6-dihydrouracil and converts thymine to 5,6-dihydrothymine. The molecules created when pyrimidines are broken down are excreted by the body or used in other cellular processes.</p>
+related-health-condition/name: dihydropyrimidine dehydrogenase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/dihydropyrimidine-dehydrogenase-deficiency
+synonym(1): DHP
+synonym(2): DHPDHASE
+synonym(3): dihydropyrimidine dehydrogenase [NADP+]
+synonym(4): dihydrothymine dehydrogenase
+synonym(5): dihydrouracil dehydrogenase
+synonym(6): DPD
+synonym(7): DPYD_HUMAN
+synonym(8): MGC132008
+synonym(9): MGC70799
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1806
+db-key(2)/db: OMIM
+db-key(2)/key: 612779
+reviewed: 2011-11
+published: 2018-04-17

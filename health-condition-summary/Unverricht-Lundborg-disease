@@ -1,0 +1,34 @@
+name: Unverricht-Lundborg disease
+ghr-page: https://ghr.nlm.nih.gov/condition/unverricht-lundborg-disease
+text/text-role: description
+text/html: <p>Unverricht-Lundborg disease is a rare inherited form of epilepsy. Affected individuals usually begin showing signs and symptoms of the disorder between the ages of 6 and 15.</p><p>Unverricht-Lundborg disease is classified as a type of progressive myoclonus epilepsy. People with this disorder experience episodes of involuntary muscle jerking or twitching (myoclonus) that increase in frequency and severity over time. Episodes of myoclonus may be brought on by physical exertion, stress, light, or other stimuli. Within 5 to 10 years, the myoclonic episodes may become severe enough to interfere with walking and other everyday activities.</p><p>Affected individuals also usually have seizures involving loss of consciousness, muscle rigidity, and convulsions (tonic-clonic or grand mal seizures). Like the myoclonic episodes, these may increase in frequency over several years but may be controlled with treatment. After several years of progression, the frequency of seizures may stabilize or decrease.</p><p>Eventually people with Unverricht-Lundborg disease may develop problems with balance and coordination (ataxia), involuntary rhythmic shaking called intention tremor because it worsens during movement, difficulty speaking (dysarthria), depression, and a slow, mild decline in intellectual functioning.</p><p>People with Unverricht-Lundborg disease typically live into adulthood. Depending on the severity of the condition and a person's response to treatment, life expectancy may be normal.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CSTB
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CSTB
+synonym(1): Baltic myoclonic epilepsy
+synonym(2): Baltic myoclonus
+synonym(3): Baltic myoclonus epilepsy
+synonym(4): EPM1
+synonym(5): Lundborg-Unverricht syndrome
+synonym(6): Mediterranean myoclonic epilepsy
+synonym(7): myoclonic epilepsy of Unverricht and Lundborg
+synonym(8): PME
+synonym(9): progressive myoclonic epilepsy
+synonym(10): progressive myoclonus epilepsy 1
+synonym(11): ULD
+synonym(12): Unverricht-Lundborg syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0751785
+db-key(2)/db: GeneReviews
+db-key(2)/key: epm1
+db-key(3)/db: MeSH
+db-key(3)/key: D020194
+db-key(4)/db: OMIM
+db-key(4)/key: 254800
+db-key(5)/db: Orphanet
+db-key(5)/key: 308
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 230423006
+reviewed: 2008-06
+published: 2018-04-17

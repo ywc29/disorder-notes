@@ -1,0 +1,25 @@
+gene-symbol: PITX1
+name: paired like homeodomain 1
+ghr-page: https://ghr.nlm.nih.gov/gene/PITX1
+text/text-role: function
+text/html: <p>The <i>PITX1</i> gene provides instructions for making a protein that plays a critical role in development of the lower limbs. The PITX1 protein is found primarily in the developing legs and feet. The protein acts as a transcription factor, which is a protein that attaches (binds) to specific regions of DNA and helps control the activity of particular genes. Specifically, PITX1 regulates the activity of genes to direct the shape and structure of tissues in the lower limbs, including the bones, muscles, and tendons (the bands of tissue that connect muscles to bones).</p><p>The PITX1 protein is also found in the developing pituitary gland, which is a hormone-producing gland located at the base of the brain, and in an embryonic structure called the branchial arch. The PITX1 protein may play a role in formation of the pituitary gland and tissues derived from the branchial arch, such as the roof of the mouth, the jaw, and parts of the inner ear.</p>
+related-health-condition/name: Liebenberg syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/liebenberg-syndrome
+synonym(1): BFT
+synonym(2): hindlimb-expressed homeobox protein backfoot
+synonym(3): hindlimb expressed homeobox protein backfoot
+synonym(4): homeobox protein PITX1
+synonym(5): paired-like homeodomain 1
+synonym(6): paired-like homeodomain transcription factor 1
+synonym(7): pituitary homeo box 1
+synonym(8): pituitary homeobox 1
+synonym(9): pituitary otx-related factor
+synonym(10): POTX
+synonym(11): Ptlx
+synonym(12): PTX1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5307
+db-key(2)/db: OMIM
+db-key(2)/key: 602149
+reviewed: 2016-09
+published: 2018-04-17

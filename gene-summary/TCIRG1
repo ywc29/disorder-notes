@@ -1,0 +1,43 @@
+gene-symbol: TCIRG1
+name: T cell immune regulator 1, ATPase H+ transporting V0 subunit a3
+ghr-page: https://ghr.nlm.nih.gov/gene/TCIRG1
+text/text-role: function
+text/html: <p>The <i>TCIRG1</i> gene provides instructions for making one part, the a3 subunit, of a large protein complex known as a vacuolar H+-ATPase (V-ATPase). V-ATPases are a group of similar complexes that act as pumps to move positively charged hydrogen atoms (protons) across membranes. This movement of protons helps regulate the relative acidity (pH) of cells and their surrounding environment. Tight control of pH is necessary for most biological reactions to proceed properly.</p><p>The V-ATPases containing the a3 subunit play an essential role in specialized cells called osteoclasts. These cells break down bone tissue as part of the normal process of bone remodeling, in which old bone is removed and new bone is created to replace it. Bones are constantly being remodeled, and the process is carefully controlled to ensure that bones stay strong and healthy.</p><p>On the surface of osteoclasts, V-ATPases are embedded in a specialized, highly folded membrane called the ruffled border. The ruffled border faces the surface of bone, where it helps form a tightly sealed compartment between the osteoclast and the bone surface. V-ATPases pump protons into the compartment, making it very acidic. This acidic environment is necessary to break down bone.</p>
+related-health-condition(1)/name: osteopetrosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/osteopetrosis
+related-health-condition(2)/name: severe congenital neutropenia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/severe-congenital-neutropenia
+synonym(1): Atp6i
+synonym(2): ATP6N1C
+synonym(3): ATP6V0A3
+synonym(4): ATPase, H+ transporting, 116kD
+synonym(5): OC-116
+synonym(6): OC-116 kDa
+synonym(7): OC-116kDa
+synonym(8): OC116
+synonym(9): OPTB1
+synonym(10): osteoclastic proton pump 116 kDa subunit
+synonym(11): specific 116-kDa vacuolar proton pump subunit
+synonym(12): Stv1
+synonym(13): T-cell immune regulator 1
+synonym(14): T-cell immune regulator 1, ATPase H+ transporting V0 subunit a3
+synonym(15): T-cell immune response cDNA 7
+synonym(16): T cell immune response cDNA7 protein
+synonym(17): T-cell immune response cDNA7 protein
+synonym(18): T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 protein a
+synonym(19): T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 protein A3
+synonym(20): T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3
+synonym(21): TIRC7
+synonym(22): V-ATPase 116-kDa
+synonym(23): V-ATPase 116 kDa
+synonym(24): V-type proton ATPase 116 kDa subunit a
+synonym(25): V-type proton ATPase 116 kDa subunit a isoform 3
+synonym(26): vacuolar proton translocating ATPase 116 kDa subunit A
+synonym(27): Vph1
+synonym(28): VPP3_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10312
+db-key(2)/db: OMIM
+db-key(2)/key: 604592
+reviewed: 2010-09
+published: 2018-04-17

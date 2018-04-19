@@ -1,0 +1,21 @@
+gene-symbol: RELN
+name: reelin
+ghr-page: https://ghr.nlm.nih.gov/gene/RELN
+text/text-role: function
+text/html: <p>The <i>RELN</i> gene provides instructions for making a protein called reelin. This protein is produced in the brain both before and after birth. Reelin is released by certain brain cells; then it attaches (binds) to specific receptor proteins. In the developing brain, this binding turns on (activates) a signaling pathway that triggers nerve cells (neurons) to migrate to their proper locations.</p><p>After birth, reelin likely plays a role in many brain processes, including the extension of axons and dendrites, which are specialized outgrowths from nerve cells that are essential for the transmission of nerve impulses. Reelin may also regulate synaptic plasticity, which is the ability of connections between neurons (synapses) to change and adapt over time in response to experience. Additionally, reelin controls the release of chemicals that relay signals in the nervous system (neurotransmitters).</p>
+related-health-condition(1)/name: autism spectrum disorder
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autism-spectrum-disorder
+related-health-condition(2)/name: lissencephaly with cerebellar hypoplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/lissencephaly-with-cerebellar-hypoplasia
+related-health-condition(3)/name: myoclonus-dystonia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/myoclonus-dystonia
+synonym(1): LIS2
+synonym(2): PRO1598
+synonym(3): RELN_HUMAN
+synonym(4): RL
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5649
+db-key(2)/db: OMIM
+db-key(2)/key: 600514
+reviewed: 2013-08
+published: 2018-04-17

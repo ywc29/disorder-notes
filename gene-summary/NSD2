@@ -1,0 +1,30 @@
+gene-symbol: NSD2
+name: nuclear receptor binding SET domain protein 2
+ghr-page: https://ghr.nlm.nih.gov/gene/NSD2
+text/text-role: function
+text/html: <p>The <i>NSD2</i> gene (also known as <i>WHSC1</i> and <i>MMSET</i>) provides instructions for making at least three very similar proteins known as MMSET I, MMSET II,  and RE-IIBP.  These proteins are active both before and after birth in many of the body's cells and tissues.  They appear to play an important role in normal development.</p><p>At least two of the proteins produced from the <i>NSD2</i> gene, MMSET II and RE-IIBP, likely help regulate the activity of other genes.  Studies suggest that these proteins function as histone methyltransferases, which are enzymes that modify DNA-associated proteins called histones. By adding a molecule called a methyl group to histones, histone methyltransferases can turn off (suppress) the activity of certain genes.  Scientists are working to identify the genes targeted by the MMSET II and RE-IIBP proteins.</p>
+related-health-condition/name: Wolf-Hirschhorn syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/wolf-hirschhorn-syndrome
+synonym(1): FLJ23286
+synonym(2): IL5 promoter REII region-binding protein
+synonym(3): KIAA1090
+synonym(4): MGC176638
+synonym(5): MMSET
+synonym(6): multiple myeloma SET domain protein
+synonym(7): NSD2_HUMAN
+synonym(8): Nuclear SET domain-containing protein 2
+synonym(9): Probable histone-lysine N-methyltransferase NSD2
+synonym(10): Protein trithorax-5
+synonym(11): REIIBP
+synonym(12): trithorax/ash1-related protein 5
+synonym(13): TRX5
+synonym(14): WHSC1
+synonym(15): Wolf-Hirschhorn syndrome candidate 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7468
+db-key(2)/db: OMIM
+db-key(2)/key: 254500
+db-key(3)/db: OMIM
+db-key(3)/key: 602952
+reviewed: 2009-01
+published: 2018-04-17

@@ -1,0 +1,44 @@
+name: Dystrophic epidermolysis bullosa
+ghr-page: https://ghr.nlm.nih.gov/condition/dystrophic-epidermolysis-bullosa
+text/text-role: description
+text/html: <p>Epidermolysis bullosa is a group of genetic conditions that cause the skin to be very fragile and to blister easily. Blisters and skin erosions form in response to minor injury or friction, such as rubbing or scratching. Dystrophic epidermolysis bullosa (DEB) is one of the major forms of epidermolysis bullosa. The signs and symptoms of this condition vary widely among affected individuals. In mild cases, blistering may primarily affect the hands, feet, knees, and elbows. Severe cases of this condition involve widespread blistering that can lead to vision loss, disfigurement, and other serious medical problems.</p><p>Researchers classify dystrophic epidermolysis bullosa into three major types. Although the types differ in severity, their features overlap significantly and they are caused by mutations in the same gene.</p><p>Autosomal recessive dystrophic epidermolysis bullosa, Hallopeau-Siemens type (RDEB-HS) is the most severe, classic form of the condition.  Affected infants are typically born with widespread blistering and areas of missing skin, often caused by trauma during birth.  Most often, blisters are present over the whole body and affect mucous membranes such as the moist lining of the mouth and digestive tract. As the blisters heal, they result in severe scarring.  Scarring in the mouth and esophagus can make it difficult to chew and swallow food, leading to chronic malnutrition and slow growth.  Additional complications of progressive scarring can include fusion of the fingers and toes, loss of fingernails and toenails, joint deformities (contractures) that restrict movement, and eye inflammation leading to vision loss. Additionally, young adults with the classic form of dystrophic epidermolysis bullosa have a very high risk of developing a form of skin cancer called squamous cell carcinoma, which tends to be unusually aggressive and is often life-threatening.</p><p>A second type of autosomal recessive dystrophic epidermolysis bullosa is known as the non-Hallopeau-Siemens type (non-HS RDEB).  This form of the condition is somewhat less severe than the classic type and includes a range of subtypes.  Blistering is limited to the hands, feet, knees, and elbows in mild cases, but may be widespread in more severe cases. Affected people often have malformed fingernails and toenails.  Non-HS RDEB involves scarring in the areas where blisters occur, but this form of the condition does not cause the severe scarring characteristic of the classic type.</p><p>The third major type of dystrophic epidermolysis bullosa is known as the autosomal dominant type (DDEB).  The signs and symptoms of this condition tend to be milder than those of the autosomal recessive forms, with blistering often limited to the hands, feet, knees, and elbows.  The blisters heal with scarring, but it is less severe.  Most affected people have malformed fingernails and toenails, and the nails may be lost over time.  In the mildest cases, abnormal nails are the only sign of the condition.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: COL7A1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/COL7A1
+synonym(1): Epidermolysis Bullosa Dystrophica
+synonym(2): Epidermolysis Bullosa, Dystrophic
+db-key(1)/db: GTR
+db-key(1)/key: C0079294
+db-key(2)/db: GTR
+db-key(2)/key: C0079474
+db-key(3)/db: GTR
+db-key(3)/key: C0432322
+db-key(4)/db: GeneReviews
+db-key(4)/key: ebd
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: Q81.2
+db-key(6)/db: MeSH
+db-key(6)/key: D016108
+db-key(7)/db: OMIM
+db-key(7)/key: 131750
+db-key(8)/db: OMIM
+db-key(8)/key: 226600
+db-key(9)/db: Orphanet
+db-key(9)/key: 303
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 111389006
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 254185007
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 254186008
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 254188009
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 48528004
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 75875004
+reviewed: 2008-01
+published: 2018-04-17

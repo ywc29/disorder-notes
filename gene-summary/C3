@@ -1,0 +1,29 @@
+gene-symbol: C3
+name: complement C3
+ghr-page: https://ghr.nlm.nih.gov/gene/C3
+text/text-role: function
+text/html: <p>The <i>C3</i> gene provides instructions for making a protein called complement component 3 (or C3). This protein plays a key role in a part of the body's immune response known as the complement system. The complement system is a group of proteins that work together to destroy foreign invaders (such as bacteria and viruses), trigger inflammation, and remove debris from cells and tissues.</p><p>The C3 protein is essential for turning on (activating) the complement system. The presence of foreign invaders triggers the C3 protein to be cut (cleaved) into two smaller pieces. One of these pieces, called C3b, interacts with several other proteins on the surface of cells to trigger the complement system's response. This process must be carefully regulated so the complement system targets only unwanted materials and does not damage the body's healthy cells.</p><p>Researchers have identified two major forms (allotypes) of the C3 protein, which are known as C3S and C3F. In the general population, C3S is more common than C3F. The two allotypes differ by a single protein building block (amino acid), although it is unclear whether they function differently.</p>
+related-health-condition(1)/name: age-related macular degeneration
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
+related-health-condition(2)/name: atypical hemolytic-uremic syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/atypical-hemolytic-uremic-syndrome
+related-health-condition(3)/name: C3 glomerulopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/c3-glomerulopathy
+synonym(1): acylation-stimulating protein cleavage product
+synonym(2): AHUS5
+synonym(3): ARMD9
+synonym(4): ASP
+synonym(5): C3 and PZP-like alpha-2-macroglobulin domain-containing protein 1
+synonym(6): C3a
+synonym(7): C3b
+synonym(8): CO3_HUMAN
+synonym(9): complement component 3
+synonym(10): CPAMD1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 718
+db-key(2)/db: OMIM
+db-key(2)/key: 120700
+db-key(3)/db: OMIM
+db-key(3)/key: 613779
+reviewed: 2015-12
+published: 2018-04-17

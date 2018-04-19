@@ -1,0 +1,23 @@
+name: Congenital deafness with labyrinthine aplasia, microtia, and microdontia
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-deafness-with-labyrinthine-aplasia-microtia-and-microdontia
+text/text-role: description
+text/html: <p>Congenital deafness with labyrinthine aplasia, microtia, and microdontia (also called LAMM syndrome) is a condition that affects development of the ears and teeth. In people with this condition, the structures that form the inner ear are usually completely absent (labyrinthine aplasia). Rarely, affected individuals have some underdeveloped inner ear structures in one or both ears. The abnormalities of the inner ear cause a form of hearing loss called sensorineural deafness that is present from birth (congenital). Because the inner ear is important for balance as well as hearing, development of motor skills, such as sitting and crawling, may be delayed in affected infants. In addition, people with LAMM syndrome often have abnormally small outer ears (microtia) with narrow ear canals. They can also have unusually small, widely spaced teeth (microdontia).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: FGF3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FGF3
+synonym(1): congenital deafness with inner ear agenesis, microtia, and microdontia
+synonym(2): deafness with LAMM
+synonym(3): LAMM syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1853144
+db-key(2)/db: GeneReviews
+db-key(2)/key: df-lamm
+db-key(3)/db: MeSH
+db-key(3)/key: D006311
+db-key(4)/db: Orphanet
+db-key(4)/key: 90024
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 702360007
+reviewed: 2012-11
+published: 2018-04-17

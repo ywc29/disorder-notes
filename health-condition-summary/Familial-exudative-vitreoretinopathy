@@ -1,0 +1,45 @@
+name: Familial exudative vitreoretinopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-exudative-vitreoretinopathy
+text/text-role: description
+text/html: <p>Familial exudative vitreoretinopathy is a hereditary disorder that can cause progressive vision loss. This condition affects the retina, the specialized light-sensitive tissue that lines the back of the eye.   The disorder prevents blood vessels from forming at the edges of the retina, which reduces the blood supply to this tissue.</p><p>The signs and symptoms of familial exudative vitreoretinopathy vary widely, even within the same family.  In many affected individuals, the retinal abnormalities never cause any vision problems.  In others, a reduction in the retina's blood supply causes the retina to fold, tear, or separate from the back of the eye (retinal detachment).  This retinal damage can lead to vision loss and blindness.  Other eye abnormalities are also possible, including eyes that do not look in the same direction (strabismus) and a visible whiteness (leukocoria) in the normally black pupil.</p><p>Some people with familial exudative vitreoretinopathy also have reduced bone mineral density, which weakens bones and increases the risk of fractures.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xr
+inheritance-pattern(3)/memo: X-linked recessive
+related-gene(1)/gene-symbol: FZD4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/FZD4
+related-gene(2)/gene-symbol: LRP5
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/LRP5
+related-gene(3)/gene-symbol: NDP
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/NDP
+synonym: FEVR
+db-key(1)/db: GTR
+db-key(1)/key: C1844579
+db-key(2)/db: GTR
+db-key(2)/key: C1851402
+db-key(3)/db: GTR
+db-key(3)/key: C1854002
+db-key(4)/db: GTR
+db-key(4)/key: C1866176
+db-key(5)/db: GeneReviews
+db-key(5)/key: fevr
+db-key(6)/db: GeneReviews
+db-key(6)/key: norrie
+db-key(7)/db: MeSH
+db-key(7)/key: D012164
+db-key(8)/db: OMIM
+db-key(8)/key: 133780
+db-key(9)/db: OMIM
+db-key(9)/key: 305390
+db-key(10)/db: OMIM
+db-key(10)/key: 601813
+db-key(11)/db: OMIM
+db-key(11)/key: 605750
+db-key(12)/db: Orphanet
+db-key(12)/key: 891
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 232063007
+reviewed: 2009-02
+published: 2018-04-17

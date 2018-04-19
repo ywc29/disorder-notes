@@ -1,0 +1,23 @@
+gene-symbol: FGF23
+name: fibroblast growth factor 23
+ghr-page: https://ghr.nlm.nih.gov/gene/FGF23
+text/text-role: function
+text/html: <p>The <i>FGF23</i> gene provides instructions for making a protein called fibroblast growth factor 23, which is produced in bone cells. This protein is necessary in regulating the phosphate levels within the body (phosphate homeostasis). Among its many functions, phosphate plays a critical role in the formation and growth of bones in childhood and helps maintain bone strength in adults. Phosphate levels are controlled in large part by the kidneys. The kidneys normally rid the body of excess phosphate by excreting it in urine, and they reabsorb this mineral into the bloodstream when more is needed. Fibroblast growth factor 23 signals the kidneys to stop reabsorbing phosphate into the bloodstream.</p><p>In order to function, fibroblast growth factor 23 must be released (secreted) from the cell and it must attach (bind) to a receptor protein. To be secreted from the cell, sugar molecules are attached to fibroblast growth factor 23 by another protein called ppGalNacT3 in a process called glycosylation. Glycosylation allows fibroblast growth factor 23 to move out of the cell and protects the protein from being broken down. Once outside the bone cell, the protein must bind to a receptor protein called FGF receptor 1 that spans the membrane of kidney cells. Binding of fibroblast growth factor 23 to its receptor stimulates signaling that stops phosphate reabsorption into the bloodstream.</p><p>Studies suggest that fibroblast growth factor 23 has additional functions. It helps determine how much phosphate from the diet is absorbed by the intestines and plays a role in regulating vitamin D.</p><p>Fibroblast growth factor 23 is normally cut (cleaved) at a certain site, which turns off (inactivates) the protein. The cleavage site is located at positions 179 to 180 in the string of building blocks (amino acids) that make up the protein. This cleavage helps regulate the amount of active fibroblast growth factor 23 circulating in the bloodstream.</p>
+related-health-condition(1)/name: hereditary hypophosphatemic rickets
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hypophosphatemic-rickets
+related-health-condition(2)/name: hyperphosphatemic familial tumoral calcinosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/hyperphosphatemic-familial-tumoral-calcinosis
+synonym(1): ADHR
+synonym(2): FGF-23
+synonym(3): FGF23_HUMAN
+synonym(4): HPDR2
+synonym(5): HYPF
+synonym(6): phosphatonin
+synonym(7): PHPTC
+synonym(8): tumor-derived hypophosphatemia-inducing factor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8074
+db-key(2)/db: OMIM
+db-key(2)/key: 605380
+reviewed: 2012-08
+published: 2018-04-17

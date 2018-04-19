@@ -1,0 +1,24 @@
+name: Familial encephalopathy with neuroserpin inclusion bodies
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-encephalopathy-with-neuroserpin-inclusion-bodies
+text/text-role: description
+text/html: <p>Familial encephalopathy with neuroserpin inclusion bodies (FENIB) is a disorder that causes progressive dysfunction of the brain (encephalopathy).  It is characterized by a loss of intellectual functioning (dementia) and seizures. At first, affected individuals may have difficulty sustaining attention and concentrating. They may experience repetitive thoughts, speech, or movements. As the condition progresses, their personality changes and judgment, insight, and memory become impaired. Affected people lose the ability to perform the activities of daily living, and most eventually require comprehensive care.</p><p>The signs and symptoms of FENIB vary in their severity and age of onset. In severe cases, the condition causes seizures and episodes of sudden, involuntary muscle jerking or twitching (myoclonus) in addition to dementia. These signs can appear as early as a person's teens. Less severe cases are characterized by a progressive decline in intellectual functioning beginning in a person's forties or fifties.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SERPINI1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SERPINI1
+synonym(1): familial dementia with neuroserpin inclusion bodies
+synonym(2): FENIB
+db-key(1)/db: GTR
+db-key(1)/key: C1858680
+db-key(2)/db: MeSH
+db-key(2)/key: D004831
+db-key(3)/db: MeSH
+db-key(3)/key: D020271
+db-key(4)/db: OMIM
+db-key(4)/key: 604218
+db-key(5)/db: Orphanet
+db-key(5)/key: 85110
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702421006
+reviewed: 2009-04
+published: 2018-04-17

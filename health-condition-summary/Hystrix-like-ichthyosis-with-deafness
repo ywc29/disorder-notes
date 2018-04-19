@@ -1,0 +1,22 @@
+name: Hystrix-like ichthyosis with deafness
+ghr-page: https://ghr.nlm.nih.gov/condition/hystrix-like-ichthyosis-with-deafness
+text/text-role: description
+text/html: <p>Hystrix-like ichthyosis with deafness (HID) is a disorder characterized by dry, scaly skin (ichthyosis) and hearing loss that is usually profound. Hystrix-like means resembling a porcupine; in this type of ichthyosis, the scales may be thick and spiky, giving the appearance of porcupine quills.</p><p>Newborns with HID typically develop reddened skin. The skin abnormalities worsen over time, and the ichthyosis eventually covers most of the body, although the palms of the hands and soles of the feet are usually only mildly affected. Breaks in the skin may occur and in severe cases can lead to life-threatening infections. Affected individuals have an increased risk of developing a type of skin cancer called squamous cell carcinoma, which can also affect mucous membranes such as the inner lining of the mouth. People with HID may also have patchy hair loss caused by scarring on particular areas of skin.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: GJB2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GJB2
+synonym(1): HID syndrome
+synonym(2): ichthyosis, hystrix-like, with deafness
+db-key(1)/db: GTR
+db-key(1)/key: C1865234
+db-key(2)/db: MeSH
+db-key(2)/key: D007057
+db-key(3)/db: OMIM
+db-key(3)/key: 602540
+db-key(4)/db: Orphanet
+db-key(4)/key: 477
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 254173004
+reviewed: 2012-11
+published: 2018-04-17

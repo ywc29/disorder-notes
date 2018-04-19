@@ -1,0 +1,35 @@
+name: Generalized arterial calcification of infancy
+ghr-page: https://ghr.nlm.nih.gov/condition/generalized-arterial-calcification-of-infancy
+text/text-role: description
+text/html: <p>Generalized arterial calcification of infancy (GACI) is a disorder affecting the circulatory system that becomes apparent before birth or within the first few months of life. It is characterized by abnormal accumulation of the mineral calcium (calcification) in the walls of the blood vessels that carry blood from the heart to the rest of the body (the arteries). This calcification often occurs along with thickening of the lining of the arterial walls (the intima). These changes lead to narrowing (stenosis) and stiffness of the arteries, which forces the heart to work harder to pump blood. As a result, heart failure may develop in affected individuals, with signs and symptoms including difficulty breathing, accumulation of fluid (edema) in the extremities, a bluish appearance of the skin or lips (cyanosis), severe high blood pressure (hypertension), and an enlarged heart (cardiomegaly).</p><p>People with GACI may also have calcification in other organs and tissues, particularly around the joints. In addition, they may have hearing loss or softening and weakening of the bones (rickets).</p><p>Some individuals with GACI also develop features similar to those of another disorder called pseudoxanthoma elasticum (PXE). PXE is characterized by the accumulation of calcium and other minerals (mineralization) in elastic fibers, which are a component of connective tissue. Connective tissue provides strength and flexibility to structures throughout the body. Features characteristic of PXE that also occur in GACI include yellowish bumps called papules on the underarms and other areas of skin that touch when a joint bends (flexor areas); and abnormalities called angioid streaks affecting tissue at the back of the eye, which can be detected during an eye examination.</p><p>As a result of the cardiovascular problems associated with GACI, individuals with this condition often do not survive past infancy, with death typically caused by a heart attack or stroke. However, affected individuals who survive their first six months, known as the critical period, can live into adolescence or early adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: ABCC6
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ABCC6
+related-gene(2)/gene-symbol: ENPP1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ENPP1
+synonym(1): arteriopathia calcificans infantum
+synonym(2): diffuse arterial calcifying elastopathy of infancy
+synonym(3): GACI
+synonym(4): idiopathic infantile arterial calcification
+synonym(5): idiopathic obliterative arteriopathy
+synonym(6): IIAC
+synonym(7): infantile calcifying arteriopathy
+synonym(8): medial coronary sclerosis of infancy
+synonym(9): occlusive infantile arteriopathy
+db-key(1)/db: GTR
+db-key(1)/key: C3276161
+db-key(2)/db: GeneReviews
+db-key(2)/key: gaci
+db-key(3)/db: MeSH
+db-key(3)/key: D061205
+db-key(4)/db: OMIM
+db-key(4)/key: 208000
+db-key(5)/db: OMIM
+db-key(5)/key: 614473
+db-key(6)/db: Orphanet
+db-key(6)/key: 51608
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 68926002
+reviewed: 2015-01
+published: 2018-04-17

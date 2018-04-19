@@ -1,0 +1,8 @@
+gene-symbol: MEIS1
+name: Meis homeobox 1
+ghr-page: https://ghr.nlm.nih.gov/gene/MEIS1
+related-health-condition/name: restless legs syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/restless-legs-syndrome
+db-key/db: NCBI Gene
+db-key/key: 4211
+published: 2018-04-17

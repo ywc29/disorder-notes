@@ -1,0 +1,45 @@
+gene-symbol: MUC1
+name: mucin 1, cell surface associated
+ghr-page: https://ghr.nlm.nih.gov/gene/MUC1
+text/text-role: function
+text/html: <p>The <i>MUC1</i> gene provides instructions for making a protein called mucin 1. This protein is one of several mucin proteins that make up mucus, a slippery substance that lubricates and protects the lining of the airways, digestive system, reproductive system, and other organs and tissues. In addition to its role in mucus, mucin 1 is involved in cell signaling and kidney development.</p><p>Although most mucin proteins are released from the cell, mucin 1 spans the cell membrane. It is found in epithelial cells, which are the cells that line the surfaces and cavities of the body. In particular, mucin 1 is found in the respiratory tract, female reproductive organs, and gastrointestinal tract. Like other mucins, mucin 1 has a region called the mucin domain that contains repeated stretches of protein building blocks (amino acids); the number of repeats can vary from 20 to 100. This protein is modified by the addition of numerous chains of sugar molecules, which are attached to certain amino acids in the mucin domain. The sugars spread out from the protein like branches on a tree and prevent access to the cell surface below, protecting the body from foreign invaders. The sugars also attract water molecules, helping lubricate and hydrate the tissues.</p><p>The portion of mucin 1 that reaches inside the cell, called the cytoplasmic tail (or MUC1-CT), relays signals from outside the cell to the cell's nucleus; these signals instruct the cell to undergo certain changes. Through this process, mucin 1 is thought to be involved in cell growth and division (proliferation), helping cells stick to one another (cell adhesion), cell movement (motility), and cell survival. The cytoplasmic tail can also detach from the cell membrane and move to the nucleus, although the mechanism is unclear. Some researchers suggest that, in the nucleus, MUC1-CT helps control the activity of other genes. In addition, mucin 1 is present in cells that form the kidneys and is thought to play a role in development of these organs.</p>
+related-health-condition/name: medullary cystic kidney disease type 1
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/medullary-cystic-kidney-disease-type-1
+synonym(1): ADMCKD
+synonym(2): ADMCKD1
+synonym(3): breast carcinoma-associated antigen DF3
+synonym(4): CA 15-3
+synonym(5): cancer antigen 15-3
+synonym(6): carcinoma-associated mucin
+synonym(7): CD227
+synonym(8): DF3 antigen
+synonym(9): EMA
+synonym(10): episialin
+synonym(11): H23 antigen
+synonym(12): H23AG
+synonym(13): KL-6
+synonym(14): krebs von den Lungen-6
+synonym(15): MAM6
+synonym(16): MCD
+synonym(17): MCKD
+synonym(18): MUC-1
+synonym(19): MUC-1/SEC
+synonym(20): MUC-1/X
+synonym(21): MUC1/ZD
+synonym(22): MUC1_HUMAN
+synonym(23): mucin-1
+synonym(24): mucin 1, transmembrane
+synonym(25): peanut-reactive urinary mucin
+synonym(26): PEM
+synonym(27): PEMT
+synonym(28): polymorphic epithelial mucin
+synonym(29): PUM
+synonym(30): tumor-associated epithelial membrane antigen
+synonym(31): tumor associated epithelial mucin
+synonym(32): tumor-associated mucin
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4582
+db-key(2)/db: OMIM
+db-key(2)/key: 158340
+reviewed: 2013-06
+published: 2018-04-17

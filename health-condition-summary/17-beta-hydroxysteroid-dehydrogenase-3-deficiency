@@ -1,0 +1,26 @@
+name: 17-beta hydroxysteroid dehydrogenase 3 deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiency
+text/text-role: description
+text/html: <p>17-beta hydroxysteroid dehydrogenase 3 deficiency is a condition that affects male sexual development. People with this condition are genetically male, with one X and one Y chromosome in each cell, and they have male gonads (testes). Their bodies, however, do not produce enough of the male sex hormone testosterone. Testosterone has a critical role in male sexual development, and a shortage of this hormone disrupts the formation of the external sex organs before birth.</p><p>Most people with 17-beta hydroxysteroid dehydrogenase 3 deficiency are born with external genitalia that appear female. In some cases, the external genitalia do not look clearly male or clearly female (sometimes called ambiguous genitalia). Still other affected infants have genitalia that appear predominantly male, often with an unusually small penis (micropenis) or the urethra opening on the underside of the penis (hypospadias).</p><p>During puberty, people with this condition develop some secondary sex characteristics, such as increased muscle mass, deepening of the voice, and development of male pattern body hair. The penis and scrotum (the sac of skin that holds the testes) grow larger during this period. In addition to these changes typical of adolescent boys, some affected males may also experience breast enlargement (gynecomastia). Men with this disorder are generally unable to father children (infertile).</p><p>Children with 17-beta hydroxysteroid dehydrogenase 3 deficiency are often raised as girls. About half of these individuals adopt a male gender role in adolescence or early adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: HSD17B3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HSD17B3
+synonym(1): 17-beta hydroxysteroid dehydrogenase III deficiency
+synonym(2): 17-ketosteroid reductase deficiency of testis
+synonym(3): 17-KSR deficiency
+synonym(4): neutral 17-beta-hydroxysteroid oxidoreductase deficiency
+synonym(5): pseudohermaphroditism, male, with gynecomastia
+synonym(6): testosterone 17-beta-dehydrogenase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: CN239160
+db-key(2)/db: MeSH
+db-key(2)/key: D058490
+db-key(3)/db: OMIM
+db-key(3)/key: 264300
+db-key(4)/db: Orphanet
+db-key(4)/key: 752
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 50658006
+reviewed: 2008-11
+published: 2018-04-17

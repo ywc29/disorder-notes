@@ -1,0 +1,26 @@
+name: Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/cerebral-autosomal-recessive-arteriopathy-with-subcortical-infarcts-and-leukoencephalopathy
+text/text-role: description
+text/html: <p>Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy, commonly known as CARASIL, is an inherited condition that causes stroke and other impairments.</p><p>Abnormalities affecting the brain and other parts of the nervous system become apparent in an affected person's twenties or thirties. Often, muscle stiffness (spasticity) in the legs and problems with walking are the first signs of the disorder. About half of affected individuals have a stroke or similar episode before age 40. As the disease progresses, most people with CARASIL also develop mood and personality changes, a decline in thinking ability (dementia), memory loss, and worsening problems with movement.</p><p>Other characteristic features of CARASIL include premature hair loss (alopecia) and attacks of low back pain. The hair loss often begins during adolescence and is limited to the scalp. Back pain, which develops in early to mid-adulthood, results from the breakdown (degeneration) of the discs that separate the  bones of the spine (vertebrae) from one another.</p><p>The signs and symptoms of CARASIL worsen slowly with time. Over the course of several years, affected individuals become less able to control their emotions and communicate with others. They increasingly require help with personal care and other activities of daily living; after a few years, they become unable to care for themselves. Most affected individuals die within a decade after signs and symptoms first appear, although few people with the disease have survived for 20 to 30 years.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: HTRA1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HTRA1
+synonym(1): CARASIL
+synonym(2): familial young-adult-onset arteriosclerotic leukoencephalopathy with alopecia and lumbago without arterial hypertension
+synonym(3): Maeda syndrome
+synonym(4): Nemoto disease
+db-key(1)/db: GTR
+db-key(1)/key: C1838577
+db-key(2)/db: GeneReviews
+db-key(2)/key: carasil
+db-key(3)/db: MeSH
+db-key(3)/key: D002539
+db-key(4)/db: OMIM
+db-key(4)/key: 600142
+db-key(5)/db: Orphanet
+db-key(5)/key: 199354
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 703219008
+reviewed: 2011-04
+published: 2018-04-17

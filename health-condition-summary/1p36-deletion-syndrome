@@ -1,0 +1,25 @@
+name: 1p36 deletion syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/1p36-deletion-syndrome
+text/text-role: description
+text/html: <p>1p36 deletion syndrome is a disorder that typically causes severe intellectual disability. Most affected individuals do not speak, or speak only a few words. They may have temper tantrums, bite themselves, or exhibit other behavior problems. Most have structural abnormalities of the brain, and seizures occur in more than half of individuals with this disorder. Affected individuals usually have weak muscle tone (hypotonia) and swallowing difficulties (dysphagia).</p><p>People with 1p36 deletion syndrome have a small head that is also unusually short and wide in proportion to its size (microbrachycephaly). Affected individuals also have distinctive facial features including deep-set eyes with straight eyebrows; a sunken appearance of the middle of the face (midface hypoplasia); a broad, flat nose; a long area between the nose and mouth (philtrum); a pointed chin; and ears that are low-set, rotated backwards, and abnormally shaped.</p><p>People with 1p36 deletion syndrome may have vision or hearing problems. Some have abnormalities of the skeleton, heart, gastrointestinal system, kidneys, or genitalia.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-chromosome/name: 1
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/1
+synonym(1): chromosome 1p36 deletion syndrome
+synonym(2): distal monosomy 1p36
+synonym(3): monosomy 1p36 syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1842870
+db-key(2)/db: GeneReviews
+db-key(2)/key: del1p36
+db-key(3)/db: MeSH
+db-key(3)/key: D025063
+db-key(4)/db: OMIM
+db-key(4)/key: 607872
+db-key(5)/db: Orphanet
+db-key(5)/key: 1606
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 699306003
+reviewed: 2014-01
+published: 2018-04-17

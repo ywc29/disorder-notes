@@ -1,0 +1,26 @@
+name: Nijmegen breakage syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/nijmegen-breakage-syndrome
+text/text-role: description
+text/html: <p>Nijmegen breakage syndrome is a condition characterized by short stature, an unusually small head size (microcephaly), distinctive facial features, recurrent respiratory tract infections, an increased risk of cancer, intellectual disability, and other health problems.</p><p>People with this condition typically grow slowly during infancy and early childhood. After this period of slow growth, affected individuals grow at a normal rate but remain shorter than their peers. Microcephaly is apparent from birth in the majority of affected individuals. The head does not grow at the same rate as the rest of the body, so it appears that the head is getting smaller as the body grows (progressive microcephaly). Individuals with Nijmegen breakage syndrome have distinctive facial features that include a sloping forehead, a prominent nose, large ears, a small jaw, and outside corners of the eyes that point upward (upslanting palpebral fissures). These facial features typically become apparent by age 3.</p><p>People with Nijmegen breakage syndrome have a malfunctioning immune system (immunodeficiency) with abnormally low levels of immune system proteins called immunoglobulin G (IgG) and immunoglobulin A (IgA). Affected individuals also have a shortage of immune system cells called T cells. The immune system abnormalities increase susceptibility to recurrent infections, such as bronchitis, pneumonia, sinusitis, and other infections affecting the upper respiratory tract and lungs.</p><p>Individuals with Nijmegen breakage syndrome have an increased risk of developing cancer, most commonly a cancer of immune system cells called non-Hodgkin lymphoma. About half of individuals with Nijmegen breakage syndrome develop non-Hodgkin lymphoma, usually before age 15. Other cancers seen in people with Nijmegen breakage syndrome include brain tumors such as medulloblastoma and glioma, and a cancer of muscle tissue called rhabdomyosarcoma. People with Nijmegen breakage syndrome are 50 times more likely to develop cancer than people without this condition.</p><p>Intellectual development is normal in most people with this condition for the first year or two of life, but then development becomes delayed. Skills decline over time, and most affected children and adults have mild to moderate intellectual disability.</p><p>Most affected woman have premature ovarian failure and do not begin menstruation by age 16 (primary amenorrhea) or have infrequent menstrual periods. Most women with Nijmegen breakage syndrome are unable to have biological children (infertile).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: NBN
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NBN
+synonym(1): ataxia-telangiectasia variant 1
+synonym(2): Berlin breakage syndrome
+synonym(3): microcephaly, normal intelligence and immunodeficiency
+synonym(4): Seemanova syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0398791
+db-key(2)/db: GeneReviews
+db-key(2)/key: nijmegen
+db-key(3)/db: MeSH
+db-key(3)/key: D049932
+db-key(4)/db: OMIM
+db-key(4)/key: 251260
+db-key(5)/db: Orphanet
+db-key(5)/key: 647
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 234638009
+reviewed: 2017-05
+published: 2018-04-17

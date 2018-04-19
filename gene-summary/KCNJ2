@@ -1,0 +1,29 @@
+gene-symbol: KCNJ2
+name: potassium voltage-gated channel subfamily J member 2
+ghr-page: https://ghr.nlm.nih.gov/gene/KCNJ2
+text/text-role: function
+text/html: <p>The <i>KCNJ2</i> gene belongs to a large family of genes that provide instructions for making potassium channels. These channels, which transport positively charged potassium ions out of cells, play key roles in a cell's ability to generate and transmit electrical signals.</p><p>The specific function of a potassium channel depends on its protein components and its location in the body. Channels made with the KCNJ2 protein are active in muscles used for movement (skeletal muscles) and in heart (cardiac) muscle. In skeletal muscle, these channels play an important role in the pattern of muscle tensing (contraction) and relaxation that allows the body to move. In the heart, the channels are involved in recharging the cardiac muscle after each heartbeat to maintain a regular rhythm. Channels formed with the KCNJ2 protein may also be involved in bone development, but their role in this process is unclear.</p><p>Researchers have determined that a molecule called PIP2 must attach (bind) to channels made with the KCNJ2 protein for the channels to function normally. PIP2 activates the ion channel and helps it stay open, which allows ions to flow across the cell membrane.</p>
+related-health-condition(1)/name: Andersen-Tawil syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/andersen-tawil-syndrome
+related-health-condition(2)/name: familial atrial fibrillation
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-atrial-fibrillation
+related-health-condition(3)/name: short QT syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/short-qt-syndrome
+synonym(1): cardiac inward rectifier potassium channel
+synonym(2): HHBIRK1
+synonym(3): HHIRK1
+synonym(4): HIRK1
+synonym(5): inward rectifier K+ channel KIR2.1
+synonym(6): IRK1
+synonym(7): IRK2_HUMAN
+synonym(8): KIR2.1
+synonym(9): LQT7
+synonym(10): potassium channel, inwardly rectifying subfamily J, member 2
+synonym(11): potassium inwardly-rectifying channel J2
+synonym(12): potassium inwardly-rectifying channel, subfamily J, member 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3759
+db-key(2)/db: OMIM
+db-key(2)/key: 600681
+reviewed: 2018-04
+published: 2018-04-17

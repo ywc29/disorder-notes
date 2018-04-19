@@ -1,0 +1,25 @@
+gene-symbol: DLL4
+name: delta like canonical Notch ligand 4
+ghr-page: https://ghr.nlm.nih.gov/gene/DLL4
+text/text-role: function
+text/html: <p>The <i>DLL4</i> gene provides instructions for making a protein that is part of a signaling pathway known as the Notch pathway, which is important for normal development of many tissues throughout the body. The DLL4 protein attaches to a receptor protein called Notch1, fitting together like a key into its lock. When a connection is made between DLL4 and Notch1, a series of signaling reactions is launched (the Notch pathway), affecting cell functions. In particular, signaling stimulated by DLL4 plays a role in development of blood vessels before birth and growth of new blood vessels (angiogenesis) throughout life.</p>
+related-health-condition/name: Adams-Oliver syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/adams-oliver-syndrome
+synonym(1): AOS6
+synonym(2): delta 4
+synonym(3): delta ligand 4
+synonym(4): delta-like 4 (Drosophila)
+synonym(5): delta-like 4 homolog
+synonym(6): delta-like 4 protein
+synonym(7): delta-like protein 4 precursor
+synonym(8): delta4
+synonym(9): drosophila Delta homolog 4
+synonym(10): hdelta2
+synonym(11): notch ligand delta-2
+synonym(12): notch ligand DLL4
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 54567
+db-key(2)/db: OMIM
+db-key(2)/key: 605185
+reviewed: 2015-11
+published: 2018-04-17

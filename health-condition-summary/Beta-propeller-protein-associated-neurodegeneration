@@ -1,0 +1,25 @@
+name: Beta-propeller protein-associated neurodegeneration
+ghr-page: https://ghr.nlm.nih.gov/condition/beta-propeller-protein-associated-neurodegeneration
+text/text-role: description
+text/html: <p>Beta-propeller protein-associated neurodegeneration (BPAN) is a disorder that damages the nervous system and is progressive, which means that it gradually gets worse. Affected individuals develop a buildup of iron in the brain that can be seen with medical imaging. For this reason, BPAN is classified as a type of disorder called neurodegeneration with brain iron accumulation (NBIA), although the iron accumulation may not occur until late in the disease.</p><p>Many people with BPAN have recurrent seizures (epilepsy) beginning in infancy or early childhood. Several different types of seizures can occur in this disorder, even in the same individual. Often the first type to occur are febrile seizures, which are triggered by a high fever. Affected individuals can also experience generalized tonic-clonic seizures (also known as grand mal seizures).  This type of seizure affects the entire body, causing muscle rigidity, convulsions, and loss of consciousness. Other seizure types that can occur in this disorder include short lapses in awareness that can have the appearance of staring spells or daydreaming (absence seizures, also called petit mal seizures), sudden episodes of weak muscle tone (atonic seizures), involuntary muscle twitches (myoclonic seizures), or more pronounced movements called epileptic spasms. Some individuals have seizure patterns that resemble those in epileptic syndromes, such as West syndrome or Lennox-Gastaut syndrome.</p><p>Children with BPAN also have intellectual disability, delayed development including significant problems with vocabulary and producing speech (expressive language), and difficulty coordinating movements (ataxia). Ataxia can affect the ability to walk and perform fine motor skills such as using utensils. Affected individuals can have behavioral changes that are often compared to features of a disorder called Rett syndrome. These features include repeated hand wringing or clasping (stereotypic hand movements); teeth grinding (bruxism); sleep disturbances; and problems with communication and social interaction characteristic of autism spectrum disorder.</p><p>In late adolescence or early adulthood, individuals with BPAN may begin to experience a gradual loss of intellectual functioning (cognitive decline) that can lead to a severe loss of thinking and reasoning abilities (dementia). Worsening problems with movement also occur, including dystonia and parkinsonism. Dystonia is a condition characterized by involuntary, sustained muscle contractions. In BPAN, the dystonia often starts in the arms. Parkinsonism can include unusually slow movement (bradykinesia), rigidity, tremors, an inability to hold the body upright and balanced (postural instability), and a shuffling walk that can cause recurrent falls.</p><p>The lifespan of people with BPAN varies. With proper management of their signs and symptoms, affected individuals can live into middle age. Death may result from complications of dementia or movement problems, such as injuries from falls or swallowing difficulties (dysphagia) that can lead to a bacterial lung infection called aspiration pneumonia.</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+related-gene/gene-symbol: WDR45
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/WDR45
+synonym(1): BPAN
+synonym(2): NBIA5
+synonym(3): neurodegeneration with brain iron accumulation 5
+synonym(4): SENDA
+synonym(5): static encephalopathy of childhood with neurodegeneration in adulthood
+db-key(1)/db: GTR
+db-key(1)/key: CN168656
+db-key(2)/db: GeneReviews
+db-key(2)/key: bpan
+db-key(3)/db: MeSH
+db-key(3)/key: D020271
+db-key(4)/db: OMIM
+db-key(4)/key: 300894
+db-key(5)/db: Orphanet
+db-key(5)/key: 329284
+reviewed: 2017-05
+published: 2018-04-17

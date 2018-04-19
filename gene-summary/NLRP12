@@ -1,0 +1,28 @@
+gene-symbol: NLRP12
+name: NLR family pyrin domain containing 12
+ghr-page: https://ghr.nlm.nih.gov/gene/NLRP12
+text/text-role: function
+text/html: <p>The <i>NLRP12</i> gene provides instructions for making a protein called monarch-1. Monarch-1 is a member of a family of proteins called nucleotide-binding domain and leucine-rich repeat containing (NLR) proteins, which are found in the fluid inside cells (cytoplasm). Monarch-1 is found mainly in certain types of white blood cells.</p><p>NLR proteins are involved in the immune system, helping to regulate the immune system's response to injury, toxins, or invasion by microorganisms. Unlike most NLR proteins that promote increased activity by the immune system, monarch-1 stops (inhibits) the release of certain molecules that are involved in the process of inflammation.</p><p>Inflammation occurs when the immune system sends signaling molecules as well as white blood cells to a site of injury or disease to fight microbial invaders and facilitate tissue repair. When this has been accomplished, stopping the inflammatory response helps to prevent damage to the body's own cells and tissues.</p>
+related-health-condition/name: familial cold autoinflammatory syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-cold-autoinflammatory-syndrome
+synonym(1): CLR19.3
+synonym(2): FCAS2
+synonym(3): monarch 1
+synonym(4): Monarch1
+synonym(5): NACHT, leucine rich repeat and PYD containing 12
+synonym(6): NACHT, LRR and PYD containing protein 12
+synonym(7): NALP12
+synonym(8): NLR family, pyrin domain containing 12
+synonym(9): nucleotide-binding oligomerization domain, leucine rich repeat and pyrin domain containing 12
+synonym(10): PAN6
+synonym(11): PYPAF7
+synonym(12): PYRIN-containing APAF1-like protein 7
+synonym(13): regulated by nitric oxide
+synonym(14): RNO
+synonym(15): RNO2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 91662
+db-key(2)/db: OMIM
+db-key(2)/key: 609648
+reviewed: 2008-09
+published: 2018-04-17

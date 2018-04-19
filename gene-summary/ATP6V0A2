@@ -1,0 +1,24 @@
+gene-symbol: ATP6V0A2
+name: ATPase H+ transporting V0 subunit a2
+ghr-page: https://ghr.nlm.nih.gov/gene/ATP6V0A2
+text/text-role: function
+text/html: <p>The <i>ATP6V0A2</i> gene provides instructions for making one part, the a2 subunit, of a large protein complex (a group of proteins that work together). This protein complex is known as a vacuolar H+-ATPase (V-ATPase). A V-ATPase acts as a pump to move positively charged hydrogen atoms (protons) across cell membranes.</p><p>V-ATPases are embedded in the membranes surrounding cells, where they transport protons into and out of cells. This movement of protons helps regulate the relative acidity (pH) of cells and their surrounding environment. Tight control of pH is necessary for most biological reactions to proceed properly.</p><p>Within cells, V-ATPases help regulate the pH of particular cell compartments. These compartments include endosomes and lysosomes, which digest and recycle materials that the cell no longer needs. Studies suggest that V-ATPases are also involved in the movement (trafficking) of small sac-like structures called vesicles. Vesicles transport many types of molecules within cells.</p><p>V-ATPases also play a key role in a complex process called glycosylation, in which proteins are modified by adding sugar molecules. Glycosylation is necessary for the normal function of many different kinds of proteins. V-ATPases regulate the pH of a cellular structure called the Golgi apparatus, where glycosylation occurs.</p>
+related-health-condition/name: cutis laxa
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cutis-laxa
+synonym(1): A2V-ATPase
+synonym(2): ATP6a2
+synonym(3): ATP6N1D
+synonym(4): ATPase, H+ transporting, lysosomal V0 subunit a2
+synonym(5): J6B7
+synonym(6): Stv1
+synonym(7): TJ6
+synonym(8): TJ6M
+synonym(9): TJ6s
+synonym(10): Vph1
+synonym(11): VPP2_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23545
+db-key(2)/db: OMIM
+db-key(2)/key: 611716
+reviewed: 2009-06
+published: 2018-04-17

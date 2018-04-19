@@ -1,0 +1,43 @@
+name: Non-alcoholic fatty liver disease
+ghr-page: https://ghr.nlm.nih.gov/condition/non-alcoholic-fatty-liver-disease
+text/text-role: description
+text/html: <p>Non-alcoholic fatty liver disease (NAFLD) is a buildup of excessive fat in the liver that can lead to liver damage resembling the damage caused by alcohol abuse, but that occurs in people who do not drink heavily. The liver is a part of the digestive system that helps break down food, store energy, and remove waste products, including toxins. The liver normally contains some fat; an individual is considered to have a fatty liver (hepatic steatosis) if the liver contains more than 5 to 10 percent fat.</p><p>The fat deposits in the liver associated with NAFLD usually cause no symptoms, although they may cause increased levels of liver enzymes that are detected in routine blood tests. Some affected individuals have abdominal pain or fatigue. During a physical examination, the liver may be found to be slightly enlarged.</p><p>Between 7 and 30 percent of people with NAFLD develop inflammation of the liver (non-alcoholic steatohepatitis, also known as NASH), leading to liver damage. Minor damage to the liver can be repaired by the body. However, severe or long-term damage can lead to the replacement of normal liver tissue with scar tissue (fibrosis), resulting in irreversible liver disease (cirrhosis) that causes the liver to stop working properly. Signs and symptoms of cirrhosis, which get worse as fibrosis affects more of the liver, include fatigue, weakness, loss of appetite, weight loss, nausea, swelling (edema), and yellowing of the skin and whites of the eyes (jaundice). Scarring in the vein that carries blood into the liver from the other digestive organs (the portal vein) can lead to increased pressure in that blood vessel (portal hypertension), resulting in swollen blood vessels (varices) within the digestive system. Rupture of these varices can cause life-threatening bleeding.</p><p>NAFLD and NASH are thought to account for many cases of cirrhosis that have no obvious underlying cause (cryptogenic cirrhosis); at least one-third of people with NASH eventually develop cirrhosis. People with NAFLD, NASH, and cirrhosis are also at increased risk of developing liver cancer (hepatocellular cancer).</p><p>NAFLD is most common in middle-aged or older people, although younger people, including children, are also affected. It is often considered as part of a group of conditions known collectively as the metabolic syndrome; in addition to NAFLD, the metabolic syndrome includes obesity, type 2 diabetes or pre-diabetes (insulin resistance), high levels of fats (lipids) such as cholesterol and triglycerides in the blood, and high blood pressure (hypertension). However, a person with NAFLD may not have all or any of the other conditions that make up the metabolic syndrome, and individuals with some or all of those conditions may not have NAFLD.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: APOC3
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/APOC3
+related-gene(2)/gene-symbol: GCKR
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GCKR
+related-gene(3)/gene-symbol: MBOAT7
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/MBOAT7
+related-gene(4)/gene-symbol: PNPLA3
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/PNPLA3
+related-gene(5)/gene-symbol: TM6SF2
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/TM6SF2
+related-gene(6)/gene-symbol: TRIB1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/TRIB1
+synonym(1): fatty liver
+synonym(2): NAFLD
+synonym(3): NASH
+synonym(4): non-alcoholic steatohepatitis
+synonym(5): nonalcoholic fatty liver disease
+synonym(6): nonalcoholic steatohepatitis
+synonym(7): steatosis
+db-key(1)/db: GTR
+db-key(1)/key: C2750440
+db-key(2)/db: GTR
+db-key(2)/key: C3150651
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: K75.81
+db-key(4)/db: MeSH
+db-key(4)/key: D065626
+db-key(5)/db: OMIM
+db-key(5)/key: 613282
+db-key(6)/db: OMIM
+db-key(6)/key: 613387
+db-key(7)/db: Orphanet
+db-key(7)/key: 33271
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 197315008
+reviewed: 2016-11
+published: 2018-04-17

@@ -1,0 +1,25 @@
+gene-symbol: OCA2
+name: OCA2 melanosomal transmembrane protein
+ghr-page: https://ghr.nlm.nih.gov/gene/OCA2
+text/text-role: function
+text/html: <p>The <i>OCA2</i> gene (formerly called the <i>P</i> gene) provides instructions for making a protein called the P protein. This protein is located in melanocytes, which are specialized cells that produce a pigment called melanin. Melanin is the substance that gives skin, hair, and eyes their color. Melanin is also found in the light-sensitive tissue at the back of the eye (the retina), where it plays a role in normal vision.</p><p>Although the exact function of the P protein is unknown, it is essential for normal pigmentation and is likely involved in the production of melanin. Within melanocytes, the P protein may transport molecules into and out of structures called melanosomes (where melanin is produced).  Researchers believe that this protein may also help regulate the relative acidity (pH) of melanosomes.  Tight control of pH is necessary for most biological processes.</p>
+related-health-condition(1)/name: Angelman syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/angelman-syndrome
+related-health-condition(2)/name: oculocutaneous albinism
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/oculocutaneous-albinism
+related-health-condition(3)/name: Prader-Willi syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/prader-willi-syndrome
+synonym(1): BOCA
+synonym(2): Melanocyte-specific transporter protein
+synonym(3): oculocutaneous albinism II
+synonym(4): oculocutaneous albinism II (pink-eye dilution homolog, mouse)
+synonym(5): P gene
+synonym(6): P_HUMAN
+synonym(7): PED
+synonym(8): Pink-eyed dilution protein homolog
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4948
+db-key(2)/db: OMIM
+db-key(2)/key: 611409
+reviewed: 2011-10
+published: 2018-04-17

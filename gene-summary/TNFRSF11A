@@ -1,0 +1,37 @@
+gene-symbol: TNFRSF11A
+name: TNF receptor superfamily member 11a
+ghr-page: https://ghr.nlm.nih.gov/gene/TNFRSF11A
+text/text-role: function
+text/html: <p>The <i>TNFRSF11A</i> gene provides instructions for making a protein called receptor activator of NF-κB (RANK). This protein plays an important role in bone remodeling, a normal process in which old bone is broken down and new bone is created to replace it. During bone remodeling, RANK helps direct the formation and function of specialized cells called osteoclasts, which break down bone tissue.  RANK is located on the surface of immature osteoclasts, where it receives signals that trigger these cells to mature and become fully functional.</p>
+related-health-condition(1)/name: osteopetrosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/osteopetrosis
+related-health-condition(2)/name: Paget disease of bone
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/paget-disease-of-bone
+synonym(1): CD265
+synonym(2): FEO
+synonym(3): ODFR
+synonym(4): OFE
+synonym(5): OPTB7
+synonym(6): osteoclast differentiation factor receptor
+synonym(7): OSTS
+synonym(8): PDB2
+synonym(9): RANK
+synonym(10): receptor activator of NF-kappa-B
+synonym(11): receptor activator of nuclear factor-kappa B
+synonym(12): TNR11_HUMAN
+synonym(13): TRANCER
+synonym(14): tumor necrosis factor receptor superfamily member 11a
+synonym(15): tumor necrosis factor receptor superfamily member 11a, NFKB activator
+synonym(16): tumor necrosis factor receptor superfamily, member 11a
+synonym(17): tumor necrosis factor receptor superfamily, member 11a, activator of NFKB
+synonym(18): tumor necrosis factor receptor superfamily, member 11a, NFKB activator
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8792
+db-key(2)/db: OMIM
+db-key(2)/key: 174810
+db-key(3)/db: OMIM
+db-key(3)/key: 603499
+db-key(4)/db: OMIM
+db-key(4)/key: 612301
+reviewed: 2010-02
+published: 2018-04-17

@@ -1,0 +1,26 @@
+name: Marinesco-Sjögren syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/marinesco-sjogren-syndrome
+text/text-role: description
+text/html: <p>Marinesco-Sjögren syndrome is a condition that has a variety of signs and symptoms affecting many tissues.  People with Marinesco-Sjögren syndrome have clouding of the lens of the eyes (cataracts) that usually develops soon after birth or in early childhood.  Affected individuals also have muscle weakness (myopathy) and difficulty coordinating movements (ataxia), which may impair their ability to walk.  People with Marinesco-Sjögren syndrome may experience further decline in muscle function later in life.</p><p>Most people with Marinesco-Sjögren syndrome have mild to moderate intellectual disability.  They also have skeletal abnormalities including short stature and a spine that curves to the side (scoliosis).  Other features of Marinesco-Sjögren syndrome include eyes that do not look in the same direction (strabismus), involuntary eye movements (nystagmus), and impaired speech (dysarthria).</p><p>Affected individuals may have hypergonadotropic hypogonadism, which affects the production of hormones that direct sexual development.  As a result, puberty is either delayed or absent.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SIL1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SIL1
+synonym(1): Garland-Moorhouse syndrome
+synonym(2): hereditary oligophrenic cerebello-lental degeneration
+synonym(3): Marinesco-Garland syndrome
+synonym(4): MSS
+db-key(1)/db: GTR
+db-key(1)/key: C0024814
+db-key(2)/db: GeneReviews
+db-key(2)/key: mss
+db-key(3)/db: MeSH
+db-key(3)/key: D013132
+db-key(4)/db: OMIM
+db-key(4)/key: 248800
+db-key(5)/db: Orphanet
+db-key(5)/key: 559
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 80734006
+reviewed: 2015-02
+published: 2018-04-17

@@ -1,0 +1,24 @@
+gene-symbol: SAMHD1
+name: SAM and HD domain containing deoxynucleoside triphosphate triphosphohydrolase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SAMHD1
+text/text-role: function
+text/html: <p>The <i>SAMHD1</i> gene provides instructions for making an enzyme that helps cut (cleave) molecules called deoxynucleoside triphosphates (dNTPs) into their deoxynucleoside and triphosphate components. The dNTP molecules are needed for the replication and maintenance of the genetic material (DNA) in the body's cells, and the amount of available dNTPs must be tightly controlled for these functions to proceed normally. Invading viruses such as the human immunodeficiency virus (HIV) also need dNTPs in order to replicate themselves. The SAMHD1 enzyme helps regulate the amount of available dNTPs to both meet the needs of the body's cells and control viral infections.</p>
+related-health-condition/name: Aicardi-Goutières syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/aicardi-goutieres-syndrome
+synonym(1): AGS5
+synonym(2): DCIP
+synonym(3): dendritic cell-derived IFNG-induced protein
+synonym(4): HDDC1
+synonym(5): Mg11
+synonym(6): monocyte protein 5
+synonym(7): MOP-5
+synonym(8): SAM domain and HD domain 1
+synonym(9): SAM domain and HD domain-containing protein 1
+synonym(10): SAMH1_HUMAN
+synonym(11): SBBI88
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 25939
+db-key(2)/db: OMIM
+db-key(2)/key: 606754
+reviewed: 2017-11
+published: 2018-04-17

@@ -1,0 +1,53 @@
+name: Maple syrup urine disease
+ghr-page: https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+text/text-role: description
+text/html: <p>Maple syrup urine disease is an inherited disorder in which the body is unable to process certain protein building blocks (amino acids) properly. The condition gets its name from the distinctive sweet odor of affected infants' urine. It is also characterized by poor feeding, vomiting, lack of energy (lethargy), abnormal movements, and delayed development. If untreated, maple syrup urine disease can lead to seizures, coma, and death.</p><p>Maple syrup urine disease is often classified by its pattern of signs and symptoms. The most common and severe form of the disease is the classic type, which becomes apparent soon after birth. Variant forms of the disorder become apparent later in infancy or childhood and are typically milder, but they still lead to delayed development and other health problems if not treated.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: BCKDHA
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BCKDHA
+related-gene(2)/gene-symbol: BCKDHB
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/BCKDHB
+related-gene(3)/gene-symbol: DBT
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/DBT
+related-gene(4)/gene-symbol: PPM1K
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/PPM1K
+synonym(1): BCKD deficiency
+synonym(2): branched-chain alpha-keto acid dehydrogenase deficiency
+synonym(3): branched-chain ketoaciduria
+synonym(4): ketoacidemia
+synonym(5): MSUD
+db-key(1)/db: GTR
+db-key(1)/key: C0024776
+db-key(2)/db: GTR
+db-key(2)/key: C0268568
+db-key(3)/db: GTR
+db-key(3)/key: C1621920
+db-key(4)/db: GeneReviews
+db-key(4)/key: msud
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: E71.0
+db-key(6)/db: MeSH
+db-key(6)/key: D008375
+db-key(7)/db: OMIM
+db-key(7)/key: 248600
+db-key(8)/db: OMIM
+db-key(8)/key: 615135
+db-key(9)/db: Orphanet
+db-key(9)/key: 511
+db-key(10)/db: Orphanet
+db-key(10)/key: 268145
+db-key(11)/db: Orphanet
+db-key(11)/key: 268162
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 27718001
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 31368008
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 405287008
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 405288003
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 54064006
+reviewed: 2017-07
+published: 2018-04-17

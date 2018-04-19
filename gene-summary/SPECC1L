@@ -1,0 +1,20 @@
+gene-symbol: SPECC1L
+name: sperm antigen with calponin homology and coiled-coil domains 1 like
+ghr-page: https://ghr.nlm.nih.gov/gene/SPECC1L
+text/text-role: function
+text/html: <p>The <i>SPECC1L</i> gene provides instructions for making a protein called cytospin-A. This protein stabilizes components of the cell's structural framework (cytoskeleton) called microtubules, which are rigid, hollow fibers that help maintain the cell's shape. Stabilization of microtubules is necessary for these fibers to regulate various cell processes including the movement of cells to their proper location (cell migration). In order for cells to move, microtubules elongate in a specific direction, changing the shape of the cytoskeleton and allowing the cell to move in that direction. Migration of cells to their proper location during development ensures normal tissue formation.</p><p>During development of the embryo, cytospin-A plays a role in the migration of cells called neural crest cells, which originate in the developing spinal cord and migrate to specific regions in the embryo to form different structures. Cytospin-A is specifically involved in the migration of neural crest cells that come together to form the forehead, nasal bridge, and lower jaw.</p>
+related-health-condition/name: Opitz G/BBB syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/opitz-g-bbb-syndrome
+synonym(1): cytokinesis and spindle organization A
+synonym(2): cytospin A
+synonym(3): CYTSA
+synonym(4): KIAA0376
+synonym(5): sperm antigen with calponin homology and coiled-coil domains 1-like
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23384
+db-key(2)/db: OMIM
+db-key(2)/key: 600251
+db-key(3)/db: OMIM
+db-key(3)/key: 614140
+reviewed: 2015-01
+published: 2018-04-17

@@ -1,0 +1,20 @@
+gene-symbol: DMD
+name: dystrophin
+ghr-page: https://ghr.nlm.nih.gov/gene/DMD
+text/text-role: function
+text/html: <p><i>DMD</i>, the largest known human gene, provides instructions for making a protein called dystrophin. This protein is located primarily in muscles used for movement (skeletal muscles) and in heart (cardiac) muscle. Small amounts of dystrophin are present in nerve cells in the brain.</p><p>In skeletal and cardiac muscles, dystrophin is part of a group of proteins (a protein complex) that work together to strengthen muscle fibers and protect them from injury as muscles contract and relax. The dystrophin complex acts as an anchor, connecting each muscle cell's structural framework (cytoskeleton) with the lattice of proteins and other molecules outside the cell (extracellular matrix). The dystrophin complex may also play a role in cell signaling by interacting with proteins that send and receive chemical signals.</p><p>Little is known about the function of dystrophin in nerve cells. Research suggests that the protein is important for the normal structure and function of synapses, which are specialized connections between nerve cells where cell-to-cell communication occurs.</p>
+related-health-condition(1)/name: Duchenne and Becker muscular dystrophy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/duchenne-and-becker-muscular-dystrophy
+related-health-condition(2)/name: familial dilated cardiomyopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+related-health-condition(3)/name: X-linked dilated cardiomyopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-dilated-cardiomyopathy
+synonym(1): BMD
+synonym(2): DMD_HUMAN
+synonym(3): dystrophin (muscular dystrophy, Duchenne and Becker types)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1756
+db-key(2)/db: OMIM
+db-key(2)/key: 300377
+reviewed: 2017-02
+published: 2018-04-17

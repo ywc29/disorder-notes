@@ -1,0 +1,26 @@
+name: Tubular aggregate myopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/tubular-aggregate-myopathy
+text/text-role: description
+text/html: <p>Tubular aggregate myopathy is a disorder that primarily affects the skeletal muscles, which are muscles the body uses for movement. This disorder causes muscle pain, cramping, or weakness that begins in childhood and worsens over time. The muscles of the lower limbs are most often affected, although the upper limbs can also be involved. Affected individuals can have difficulty running, climbing stairs, or getting up from a squatting position. The weakness may also lead to an unusual walking style (gait). Some people with this condition develop joint deformities (contractures) in the arms and legs.</p><p>Skeletal muscles are normally made up of two types of fibers, called type I and type II fibers, in approximately equal quantities. Type I fibers, also called slow twitch fibers, are used for long, sustained activity, such as walking long distances. Type II fibers, also known as fast twitch fibers, are used for short bursts of strength, which are needed for activities such as running up stairs or sprinting. In people with tubular aggregate myopathy, type II fibers waste away (atrophy), so affected individuals have mostly type I fibers. In addition, proteins build up abnormally in both type I and type II fibers, forming clumps of tube-like structures called tubular aggregates. Tubular aggregates can occur in other muscle disorders, but they are the primary muscle cell abnormality in tubular aggregate myopathy.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: ORAI1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ORAI1
+related-gene(2)/gene-symbol: STIM1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/STIM1
+synonym(1): myopathy with tubular aggregates
+synonym(2): TAM
+db-key(1)/db: GTR
+db-key(1)/key: C0410207
+db-key(2)/db: MeSH
+db-key(2)/key: D020914
+db-key(3)/db: OMIM
+db-key(3)/key: 160565
+db-key(4)/db: Orphanet
+db-key(4)/key: 2593
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 240087000
+reviewed: 2017-03
+published: 2018-04-17

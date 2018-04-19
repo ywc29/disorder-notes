@@ -1,0 +1,82 @@
+name: Von Willebrand disease
+ghr-page: https://ghr.nlm.nih.gov/condition/von-willebrand-disease
+text/text-role: description
+text/html: <p>Von Willebrand disease is a bleeding disorder that slows the blood clotting process, causing prolonged bleeding after an injury. People with this condition often experience easy bruising, long-lasting nosebleeds, and excessive bleeding or oozing following an injury, surgery, or dental work. Mild forms of von Willebrand disease may become apparent only when abnormal bleeding occurs following surgery or a serious injury. Women with this condition typically have heavy or prolonged bleeding during menstruation (menorrhagia), and some may also experience reproductive tract bleeding during pregnancy and childbirth. In severe cases of von Willebrand disease, heavy bleeding occurs after minor trauma or even in the absence of injury (spontaneous bleeding). Symptoms of von Willebrand disease may change over time. Increased age, pregnancy, exercise, and stress may cause bleeding symptoms to become less frequent.</p><p>Von Willebrand disease is divided into three types, with type 2 being further divided into four subtypes. Type 1 is the mildest and most common of the three types, accounting for 75 percent of affected individuals. Type 3 is the most severe and rarest form of the condition. The four subtypes of type 2 von Willebrand disease are intermediate in severity.  Another form of the disorder, acquired von Willebrand syndrome, is not caused by inherited gene mutations.  Acquired von Willebrand syndrome is typically seen along with other disorders, such as diseases that affect bone marrow or immune cell function. This rare form of the condition is characterized by abnormal bleeding into the skin and other soft tissues, usually beginning in adulthood.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: VWF
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/VWF
+synonym(1): angiohemophilia
+synonym(2): vascular pseudohemophilia
+synonym(3): von Willebrand disorder
+synonym(4): von Willebrand's factor deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0042974
+db-key(2)/db: GeneReviews
+db-key(2)/key: von-willebrand
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: D68.0
+db-key(4)/db: MeSH
+db-key(4)/key: D014842
+db-key(5)/db: Orphanet
+db-key(5)/key: 903
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 12501008
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 128105004
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 128106003
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 128107007
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 128108002
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 128113003
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 128114009
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 1908008
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 19520006
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 234446004
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 234447008
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 234448003
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 234450006
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 24663001
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 35066007
+db-key(21)/db: SNOMED CT
+db-key(21)/key: 359700009
+db-key(22)/db: SNOMED CT
+db-key(22)/key: 359704000
+db-key(23)/db: SNOMED CT
+db-key(23)/key: 359709005
+db-key(24)/db: SNOMED CT
+db-key(24)/key: 359711001
+db-key(25)/db: SNOMED CT
+db-key(25)/key: 359714009
+db-key(26)/db: SNOMED CT
+db-key(26)/key: 359717002
+db-key(27)/db: SNOMED CT
+db-key(27)/key: 359721009
+db-key(28)/db: SNOMED CT
+db-key(28)/key: 359725000
+db-key(29)/db: SNOMED CT
+db-key(29)/key: 359729006
+db-key(30)/db: SNOMED CT
+db-key(30)/key: 359732009
+db-key(31)/db: SNOMED CT
+db-key(31)/key: 52137009
+db-key(32)/db: SNOMED CT
+db-key(32)/key: 71723006
+db-key(33)/db: SNOMED CT
+db-key(33)/key: 87397002
+reviewed: 2012-12
+published: 2018-04-17

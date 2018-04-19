@@ -1,0 +1,19 @@
+gene-symbol: HGD
+name: homogentisate 1,2-dioxygenase
+ghr-page: https://ghr.nlm.nih.gov/gene/HGD
+text/text-role: function
+text/html: <p>The <i>HGD</i> gene provides instructions for making an enzyme called homogentisate oxidase, which is active chiefly in the liver and kidneys.  This enzyme participates in a step-wise process that breaks down two protein building blocks (amino acids), phenylalanine and tyrosine, when they are no longer needed or are present in excess. These two amino acids also play a role in making certain hormones, pigments, and brain chemicals called neurotransmitters.</p><p>Homogentisate oxidase is responsible for a specific step in the breakdown of phenylalanine and tyrosine. Previous steps convert the two amino acids into a molecule called homogentisic acid. Homogentisate oxidase adds two oxygen atoms to homogentisic acid, converting it to another molecule called maleylacetoacetate. Other enzymes break down maleylacetoacetate into smaller molecules that are later used for energy or to make other products that can be used by the body.</p>
+related-health-condition/name: alkaptonuria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/alkaptonuria
+synonym(1): AKU
+synonym(2): HGD_HUMAN
+synonym(3): HGO
+synonym(4): homogentisate 1,2-dioxygenase (homogentisate oxidase)
+synonym(5): Homogentisic acid oxidase
+synonym(6): homogentisicase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3081
+db-key(2)/db: OMIM
+db-key(2)/key: 607474
+reviewed: 2007-03
+published: 2018-04-17

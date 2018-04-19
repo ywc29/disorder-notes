@@ -1,0 +1,23 @@
+name: KBG syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/kbg-syndrome
+text/text-role: description
+text/html: <p>KBG syndrome is a rare disorder that affects several body systems. "KBG" represents the surname initials of the first families diagnosed with the disorder. Common signs and symptoms in individuals with this condition include unusual facial features, skeletal abnormalities, and intellectual disability.</p><p>A characteristic feature of KBG syndrome is unusually large upper front teeth (macrodontia). Other distinctive facial features include a wide, short skull (brachycephaly), a triangular face shape, widely spaced eyes (hypertelorism), wide eyebrows that may grow together in the middle (synophrys), a prominent nasal bridge, a long space between the nose and upper lip (long philtrum), and a thin upper lip.</p><p>A common skeletal abnormality in people with KBG syndrome is slowed mineralization of bones (delayed bone age); for example, an affected 3-year-old child may have bones more typical of a child of 2. In addition, affected individuals can have abnormalities of the bones of the spine (vertebrae) and ribs. They can also have abnormalities of the bones of the hands or feet, including unusually short or curved fifth (pinky) fingers (brachydactyly or clinodactyly, respectively) and flat feet (pes planus). Most affected individuals are shorter than average from birth.</p><p>Development of mental and movement abilities is also delayed in KBG syndrome. Most affected individuals learn to speak and walk later than normal and have mild to moderate intellectual disability. Most people with this condition have behavioral or emotional problems, such as hyperactivity; anxiety; or autism spectrum disorder, which is characterized by impaired communication and social interactions.</p><p>Less common features of KBG syndrome include hearing loss, seizures, and heart defects.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: ANKRD11
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ANKRD11
+synonym(1): macrodontia, mental retardation, characteristic facies, short stature, and skeletal anomalies
+synonym(2): short stature-characteristic facies-mental retardation-macrodontia-skeletal anomalies syndrome
+synonym(3): short stature, characteristic facies, macrodontia, mental retardation, and skeletal anomalies
+db-key(1)/db: GTR
+db-key(1)/key: C0220687
+db-key(2)/db: MeSH
+db-key(2)/key: D000015
+db-key(3)/db: OMIM
+db-key(3)/key: 148050
+db-key(4)/db: Orphanet
+db-key(4)/key: 2332
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 711156009
+reviewed: 2018-01
+published: 2018-04-17

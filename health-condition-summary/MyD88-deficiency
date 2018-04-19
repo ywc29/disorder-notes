@@ -1,0 +1,22 @@
+name: MyD88 deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/myd88-deficiency
+text/text-role: description
+text/html: <p>MyD88 deficiency is an inherited disorder of the immune system (primary immunodeficiency). This primary immunodeficiency affects the innate immune response, which is the body's early, nonspecific response to foreign invaders (pathogens). MyD88 deficiency leads to abnormally frequent and severe infections by a subset of bacteria known as pyogenic bacteria. (Infection with pyogenic bacteria causes the production of pus.) However, affected individuals have normal resistance to other common bacteria, viruses, fungi, and parasites. The most common infections in MyD88 deficiency are caused by the <i>Streptococcus pneumoniae</i>, <i>Staphylococcus aureus</i>, and <i>Pseudomonas aeruginosa</i> bacteria. Most people with this condition have their first bacterial infection before age 2, and the infections can be life-threatening in infancy and childhood. Infections become less frequent by about age 10.</p><p>Children with MyD88 deficiency develop invasive bacterial infections, which can involve the blood (septicemia), the membrane covering the brain and spinal cord (meningitis), or the joints (leading to inflammation and arthritis). Invasive infections can also cause areas of tissue breakdown and pus production (abscesses) on internal organs. In addition, affected individuals can have localized infections of the ears, nose, or throat. Although fever is a common reaction to bacterial infections, many people with MyD88 deficiency do not at first develop a high fever in response to these infections, even if the infection is severe.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: MYD88
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MYD88
+synonym(1): MYD88 deficiency
+synonym(2): pyogenic bacterial infections due to MyD88 deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C2677092
+db-key(2)/db: MeSH
+db-key(2)/key: D007153
+db-key(3)/db: OMIM
+db-key(3)/key: 612260
+db-key(4)/db: Orphanet
+db-key(4)/key: 183713
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 718232007
+reviewed: 2015-06
+published: 2018-04-17

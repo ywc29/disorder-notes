@@ -1,0 +1,19 @@
+gene-symbol: HEXB
+name: hexosaminidase subunit beta
+ghr-page: https://ghr.nlm.nih.gov/gene/HEXB
+text/text-role: function
+text/html: <p>The <i>HEXB</i> gene provides instructions for making a protein that is a part (subunit) of two related enzymes, beta-hexosaminidase A and beta-hexosaminidase B. Each of these enzymes is made up of two subunits. Beta-hexosaminidase A includes one alpha subunit (produced from the <i>HEXA</i> gene) and one beta subunit (produced from the <i>HEXB</i> gene). Beta-hexosaminidase B is composed of two beta subunits, which are produced from the <i>HEXB</i> gene.</p><p>Beta-hexosaminidase A and beta-hexosaminidase B play a critical role in the brain and spinal cord (central nervous system). These enzymes are found in lysosomes, which are structures in cells that break down toxic substances and act as recycling centers. Within lysosomes, the enzymes break down fatty compounds called sphingolipids, complex sugars called oligosaccharides, and molecules that are linked to sugars (such as glycoproteins). In particular, beta-hexosaminidase A forms part of a complex that breaks down a fatty substance called GM2 ganglioside.</p>
+related-health-condition/name: Sandhoff disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/sandhoff-disease
+synonym(1): beta-N-acetylhexosaminidase B
+synonym(2): ENC-1AS
+synonym(3): Hex B
+synonym(4): HEXB_HUMAN
+synonym(5): hexosaminidase B
+synonym(6): hexosaminidase B (beta polypeptide)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3074
+db-key(2)/db: OMIM
+db-key(2)/key: 606873
+reviewed: 2008-09
+published: 2018-04-17

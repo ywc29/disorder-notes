@@ -1,0 +1,22 @@
+gene-symbol: SERPINE1
+name: serpin family E member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SERPINE1
+text/text-role: function
+text/html: <p>The <i>SERPINE1</i> gene provides instructions for making a protein called plasminogen activator inhibitor 1 (PAI-1). PAI-1 is involved in normal blood clotting (hemostasis). After an injury, clots protect the body by sealing off damaged blood vessels and preventing further blood loss.</p><p>The PAI-1 protein blocks (inhibits) the action of other proteins called plasminogen activators. These proteins, including urokinase plasminogen activator (u-PA) and tissue type plasminogen activator (t-PA), convert an inactive enzyme called plasminogen to its active form, plasmin. Plasmin is involved in fibrinolysis, which is the process of dissolving blood clots. By inhibiting the conversion of plasminogen to plasmin, and thereby preventing fibrinolysis, the PAI-1 protein helps ensure that clots are only dissolved when they are no longer needed to stop bleeding.</p><p>In addition to its role in hemostasis, PAI-1 is also thought to be involved in cell movement (migration) and the breakdown and replacement (remodeling) of body tissues.</p>
+related-health-condition/name: complete plasminogen activator inhibitor 1 deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/complete-plasminogen-activator-inhibitor-1-deficiency
+synonym(1): endothelial plasminogen activator inhibitor
+synonym(2): PAI
+synonym(3): PAI-1
+synonym(4): PAI1
+synonym(5): PLANH1
+synonym(6): plasminogen activator inhibitor 1 precursor
+synonym(7): serine (or cysteine) proteinase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1
+synonym(8): serpin E1
+synonym(9): serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5054
+db-key(2)/db: OMIM
+db-key(2)/key: 173360
+reviewed: 2017-10
+published: 2018-04-17

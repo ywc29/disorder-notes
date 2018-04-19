@@ -1,0 +1,24 @@
+gene-symbol: PDP1
+name: pyruvate dehydrogenase phosphatase catalytic subunit 1
+ghr-page: https://ghr.nlm.nih.gov/gene/PDP1
+text/text-role: function
+text/html: <p>The <i>PDP1</i> gene provides instructions for making a protein called pyruvate dehydrogenase phosphatase 1, which is part of a large group of proteins called the pyruvate dehydrogenase complex. The pyruvate dehydrogenase phosphatase 1 protein turns on (activates) the complex by removing a phosphate group (a cluster of oxygen and phosphorus atoms) from the complex.</p><p>The pyruvate dehydrogenase complex plays an important role in the pathways that convert the energy from food into a form that cells can use. This enzyme converts a molecule called pyruvate, which is formed from the breakdown of carbohydrates, into another molecule called acetyl-CoA. This conversion is essential to begin the series of chemical reactions that produces adenosine triphosphate (ATP), the cell's main energy source.</p>
+related-health-condition/name: pyruvate dehydrogenase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pyruvate-dehydrogenase-deficiency
+synonym(1): PDH
+synonym(2): PDP
+synonym(3): PDP 1
+synonym(4): PDP1_HUMAN
+synonym(5): PDPC
+synonym(6): PDPC 1
+synonym(7): PPM2C
+synonym(8): protein phosphatase 2C, magnesium-dependent, catalytic subunit
+synonym(9): pyruvate dehydrogenase (Lipoamide) phosphatase-phosphatase
+synonym(10): pyruvate dehydrogenase [acetyl-transferring]]-phosphatase 1, mitochondrial
+synonym(11): pyruvate dehyrogenase phosphatase catalytic subunit 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 54704
+db-key(2)/db: OMIM
+db-key(2)/key: 605993
+reviewed: 2012-07
+published: 2018-04-17

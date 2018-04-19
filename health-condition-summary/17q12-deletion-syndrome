@@ -1,0 +1,35 @@
+name: 17q12 deletion syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/17q12-deletion-syndrome
+text/text-role: description
+text/html: <p>17q12 deletion syndrome is a condition that results from the deletion of a small piece of chromosome 17 in each cell. The deletion occurs on the long (q) arm of the chromosome at a position designated q12.</p><p>The signs and symptoms of 17q12 deletion syndrome vary widely, even among affected members of the same family. Among the more common features associated with this chromosomal change are problems with development or function of the kidneys and urinary system. These abnormalities range from very severe malformations, leading to kidney failure before birth, to mild or no problems with kidney and urinary tract function. Fluid-filled sacs (cysts) in the kidneys are particularly common. Many affected individuals also develop a form of diabetes called maturity-onset diabetes of the young type 5 (MODY5), which is caused by a malfunction of certain cells in the pancreas. MODY5 usually appears in adolescence or early adulthood, most often before age 25. The combination of kidney cysts and MODY5 is sometimes referred to as renal cysts and diabetes (RCAD) syndrome.</p><p>About half of people with 17q12 deletion syndrome have delayed development (particularly speech and language delays), intellectual disability, or behavioral or psychiatric disorders. Behavioral and psychiatric conditions that have been reported in people with 17q12 deletion syndrome include autism spectrum disorder (which affects social interaction and communication), schizophrenia, anxiety, and bipolar disorder.</p><p>Less commonly, 17q12 deletion syndrome also causes abnormalities of the eyes, liver, brain, genitalia, and other body systems. Some females with this chromosomal change have Mayer-Rokitansky-Küster-Hauser syndrome, which is characterized by underdevelopment or absence of the vagina and uterus. 17q12 deletion syndrome is also sometimes associated with subtle differences in facial features.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: HNF1B
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/HNF1B
+related-gene(2)/gene-symbol: LHX1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/LHX1
+related-chromosome/name: 17
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/17
+synonym(1): 17q12 chromosomal microdeletion
+synonym(2): 17q12 microdeletion
+synonym(3): 17q12 recurrent deletion syndrome
+synonym(4): deletion 17q12
+synonym(5): recurrent genomic rearrangement in chromosome 17q12
+db-key(1)/db: GTR
+db-key(1)/key: C3281138
+db-key(2)/db: GeneReviews
+db-key(2)/key: mdel17q12
+db-key(3)/db: MeSH
+db-key(3)/key: D001523
+db-key(4)/db: MeSH
+db-key(4)/key: D002872
+db-key(5)/db: MeSH
+db-key(5)/key: D003920
+db-key(6)/db: MeSH
+db-key(6)/key: D007674
+db-key(7)/db: OMIM
+db-key(7)/key: 614527
+db-key(8)/db: Orphanet
+db-key(8)/key: 261265
+reviewed: 2017-04
+published: 2018-04-17

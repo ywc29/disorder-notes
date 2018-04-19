@@ -1,0 +1,31 @@
+name: Dementia with Lewy bodies
+ghr-page: https://ghr.nlm.nih.gov/condition/dementia-with-lewy-bodies
+text/text-role: description
+text/html: <p>Dementia with Lewy bodies is a nervous system disorder characterized by a decline in intellectual function (dementia), a group of movement problems known as parkinsonism, visual hallucinations, sudden changes (fluctuations) in behavior and intellectual ability, and acting out dreams while asleep (REM sleep behavior disorder). This condition typically affects older adults, most often developing between ages 50 and 85. The life expectancy of individuals with dementia with Lewy bodies varies; people typically survive about 5 to 7 years after they are diagnosed.</p><p>REM sleep behavior disorder is usually the first sign of dementia with Lewy bodies. It can occur years before other symptoms appear. Individuals with REM sleep behavior disorder act out their dreams, talking and moving in their sleep. This behavior becomes less pronounced as dementia with Lewy bodies worsens and additional features develop.</p><p>Dementia is often the second major feature to develop in dementia with Lewy bodies. This intellectual decline often leads to impaired ability to perform visual-spatial tasks such as puzzles. Affected individuals may also have poor problem-solving skills (executive functioning), speech difficulties, and reduced inhibitions. Problems with memory typically do not occur until later.</p><p>In people with dementia with Lewy bodies, visual hallucinations typically involve people or animals. Fluctuations in behavior and intellectual ability include sudden changes in attention, thought processes, and mood. Affected individuals might have inconsistent behaviors, unintelligible speech, and brief episodes of altered consciousness that may appear as staring spells.</p><p>Parkinsonism is usually the last major feature to develop in people with dementia with Lewy bodies. In affected individuals, the movement problems typically include tremors, rigidity, unusually slow movement (bradykinesia), and impaired balance and coordination (postural instability). Affected individuals often require walking aids or wheelchair assistance.</p><p>Individuals with dementia with Lewy bodies may also experience a sharp drop in blood pressure upon standing (orthostatic hypotension), fainting episodes (syncope), difficulty controlling the flow of urine (incontinence), or constipation.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: GBA
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GBA
+related-gene(2)/gene-symbol: SNCA
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SNCA
+related-gene(3)/gene-symbol: SNCB
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/SNCB
+synonym(1): dementia of the Lewy body type
+synonym(2): dementia, Lewy body
+synonym(3): diffuse Lewy body disease
+synonym(4): DLB
+synonym(5): LBD
+synonym(6): Lewy body dementia
+synonym(7): Lewy body disease
+db-key(1)/db: GTR
+db-key(1)/key: C0752347
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: G31.83
+db-key(3)/db: MeSH
+db-key(3)/key: D020961
+db-key(4)/db: OMIM
+db-key(4)/key: 127750
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 80098002
+reviewed: 2017-10
+published: 2018-04-17

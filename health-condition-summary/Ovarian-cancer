@@ -1,0 +1,92 @@
+name: Ovarian cancer
+ghr-page: https://ghr.nlm.nih.gov/condition/ovarian-cancer
+text/text-role: description
+text/html: <p>Ovarian cancer is a disease that affects women. In this form of cancer, certain cells in the ovary become abnormal and multiply uncontrollably to form a tumor. The ovaries are the female reproductive organs in which egg cells are produced. In about 90 percent of cases, ovarian cancer occurs after age 40, and most cases occur after age 60.</p><p>The most common form of ovarian cancer begins in epithelial cells, which are the cells that line the surfaces and cavities of the body. These cancers can arise in the epithelial cells on the surface of the ovary. However, researchers suggest that many or even most ovarian cancers begin in epithelial cells on the fringes (fimbriae) at the end of one of the fallopian tubes, and the cancerous cells migrate to the ovary.</p><p>Cancer can also begin in epithelial cells that form the lining of the abdomen (the peritoneum). This form of cancer, called primary peritoneal cancer, resembles epithelial ovarian cancer in its origin, symptoms, progression, and treatment. Primary peritoneal cancer often spreads to the ovaries. It can also occur even if the ovaries have been removed. Because cancers that begin in the ovaries, fallopian tubes, and peritoneum are so similar and spread easily from one of these structures to the others, they are often difficult to distinguish. These cancers are so closely related that they are generally considered collectively by experts.</p><p>In about 10 percent of cases, ovarian cancer develops not in epithelial cells but in germ cells, which are precursors to egg cells, or in hormone-producing ovarian cells called granulosa cells.</p><p>In its early stages, ovarian cancer usually does not cause noticeable symptoms. As the cancer progresses, signs and symptoms can include pain or a feeling of heaviness in the pelvis or lower abdomen, bloating, feeling full quickly when eating, back pain, vaginal bleeding between menstrual periods or after menopause, or changes in urinary or bowel habits. However, these changes can occur as part of many different conditions. Having one or more of these symptoms does not mean that a woman has ovarian cancer.</p><p>In some cases, cancerous tumors can invade surrounding tissue and spread to other parts of the body. If ovarian cancer spreads, cancerous tumors most often appear in the abdominal cavity or on the surfaces of nearby organs such as the bladder or colon. Tumors that begin at one site and then spread to other areas of the body are called metastatic cancers.</p><p>Some ovarian cancers cluster in families. These cancers are described as hereditary and are associated with inherited gene mutations. Hereditary ovarian cancers tend to develop earlier in life than non-inherited (sporadic) cases.</p><p>Because it is often diagnosed at a late stage, ovarian cancer can be difficult to treat; it leads to the deaths of about 14,000 women annually in the United States, more than any other gynecological cancer. However, when it is diagnosed and treated early, the 5-year survival rate is high.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: n
+inheritance-pattern(2)/memo: not inherited
+inheritance-pattern(3)/code: u
+inheritance-pattern(3)/memo: pattern unknown
+related-gene(1)/gene-symbol: AKT1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AKT1
+related-gene(2)/gene-symbol: BARD1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/BARD1
+related-gene(3)/gene-symbol: BRCA1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/BRCA1
+related-gene(4)/gene-symbol: BRCA2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/BRCA2
+related-gene(5)/gene-symbol: BRIP1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/BRIP1
+related-gene(6)/gene-symbol: CDH1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/CDH1
+related-gene(7)/gene-symbol: CHEK2
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/CHEK2
+related-gene(8)/gene-symbol: CTNNB1
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/CTNNB1
+related-gene(9)/gene-symbol: MLH1
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/MLH1
+related-gene(10)/gene-symbol: MRE11
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/MRE11
+related-gene(11)/gene-symbol: MSH2
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/MSH2
+related-gene(12)/gene-symbol: MSH6
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/MSH6
+related-gene(13)/gene-symbol: NBN
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/NBN
+related-gene(14)/gene-symbol: OPCML
+related-gene(14)/ghr-page: https://ghr.nlm.nih.gov/gene/OPCML
+related-gene(15)/gene-symbol: PALB2
+related-gene(15)/ghr-page: https://ghr.nlm.nih.gov/gene/PALB2
+related-gene(16)/gene-symbol: PIK3CA
+related-gene(16)/ghr-page: https://ghr.nlm.nih.gov/gene/PIK3CA
+related-gene(17)/gene-symbol: PMS2
+related-gene(17)/ghr-page: https://ghr.nlm.nih.gov/gene/PMS2
+related-gene(18)/gene-symbol: PRKN
+related-gene(18)/ghr-page: https://ghr.nlm.nih.gov/gene/PRKN
+related-gene(19)/gene-symbol: RAD50
+related-gene(19)/ghr-page: https://ghr.nlm.nih.gov/gene/RAD50
+related-gene(20)/gene-symbol: RAD51C
+related-gene(20)/ghr-page: https://ghr.nlm.nih.gov/gene/RAD51C
+related-gene(21)/gene-symbol: RAD51D
+related-gene(21)/ghr-page: https://ghr.nlm.nih.gov/gene/RAD51D
+related-gene(22)/gene-symbol: STK11
+related-gene(22)/ghr-page: https://ghr.nlm.nih.gov/gene/STK11
+related-gene(23)/gene-symbol: TP53
+related-gene(23)/ghr-page: https://ghr.nlm.nih.gov/gene/TP53
+synonym(1): cancer of the ovary
+synonym(2): malignant neoplasm of the ovary
+synonym(3): malignant tumor of the ovary
+synonym(4): ovarian carcinoma
+db-key(1)/db: GTR
+db-key(1)/key: C1140680
+db-key(2)/db: GeneReviews
+db-key(2)/key: brca1
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: C56
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: C56.1
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: C56.2
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: C56.9
+db-key(7)/db: MeSH
+db-key(7)/key: D010051
+db-key(8)/db: OMIM
+db-key(8)/key: 167000
+db-key(9)/db: OMIM
+db-key(9)/key: 604370
+db-key(10)/db: OMIM
+db-key(10)/key: 607893
+db-key(11)/db: OMIM
+db-key(11)/key: 612555
+db-key(12)/db: OMIM
+db-key(12)/key: 613399
+db-key(13)/db: OMIM
+db-key(13)/key: 614291
+db-key(14)/db: Orphanet
+db-key(14)/key: 213500
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 363443007
+reviewed: 2015-10
+published: 2018-04-17

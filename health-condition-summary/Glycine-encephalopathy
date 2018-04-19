@@ -1,0 +1,38 @@
+name: Glycine encephalopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/glycine-encephalopathy
+text/text-role: description
+text/html: <p>Glycine encephalopathy, which is also known as nonketotic hyperglycinemia or NKH, is a genetic disorder characterized by abnormally high levels of a molecule called glycine.  This molecule is an amino acid, which is a building block of proteins.  Glycine also acts as a neurotransmitter, which is a chemical messenger that transmits signals in the brain.  Glycine encephalopathy is caused by the shortage of an enzyme that normally breaks down glycine in the body. A lack of this enzyme allows excess glycine to build up in tissues and organs, particularly the brain, leading to serious medical problems.</p><p>The most common form of glycine encephalopathy, called the classical type, appears shortly after birth. Affected infants experience a progressive lack of energy (lethargy), feeding difficulties, weak muscle tone (hypotonia), abnormal jerking movements, and life-threatening problems with breathing. Most children who survive these early signs and symptoms develop profound intellectual disability and seizures that are difficult to treat.  For unknown reasons, affected males are more likely to survive and have less severe developmental problems than affected females.</p><p>Researchers have identified several other types of glycine encephalopathy with variable signs and symptoms.  The most common of these atypical types is called the infantile form. Children with this condition develop normally until they are about 6 months old, when they experience delayed development and may begin having seizures. As they get older, many develop intellectual disability, abnormal movements, and behavioral problems. Other atypical types of glycine encephalopathy appear later in childhood or adulthood and cause a variety of medical problems that primarily affect the nervous system.</p><p>Rarely, the characteristic features of classical glycine encephalopathy improve with time. These cases are classified as transient glycine encephalopathy. In this form of the condition, glycine levels decrease to normal or near-normal after being very high at birth. Many children with temporarily high glycine levels go on to develop normally and experience few long-term medical problems. Intellectual disability and seizures occur in some affected individuals, however, even after glycine levels decrease.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: AMT
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AMT
+related-gene(2)/gene-symbol: GLDC
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GLDC
+synonym(1): Hyperglycinemia, Nonketotic
+synonym(2): NKH
+synonym(3): non-ketotic hyperglycinemia
+synonym(4): Nonketotic Hyperglycinemia
+db-key(1)/db: GTR
+db-key(1)/key: C0751748
+db-key(2)/db: GeneReviews
+db-key(2)/key: nkh
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E72.51
+db-key(4)/db: MeSH
+db-key(4)/key: D020158
+db-key(5)/db: OMIM
+db-key(5)/key: 605899
+db-key(6)/db: Orphanet
+db-key(6)/key: 407
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 237939006
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 303092001
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 51097006
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 63329001
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 67845009
+reviewed: 2007-04
+published: 2018-04-17

@@ -1,0 +1,26 @@
+name: Transcobalamin deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/transcobalamin-deficiency
+text/text-role: description
+text/html: <p>Transcobalamin deficiency is a disorder that impairs the transport of cobalamin (also known as vitamin B12) within the body. Cobalamin is obtained from the diet; this vitamin is found in animal products such as meat, eggs, and shellfish. An inability to transport cobalamin within the body results in cells that lack cobalamin, which they need for many functions including cell growth and division (proliferation) and DNA production. The absence of cobalamin leads to impaired growth, a shortage of blood cells, and many other signs and symptoms that usually become apparent within the first weeks or months of life.</p><p>The first signs of transcobalamin deficiency are typically a failure to gain weight and grow at the expected rate (failure to thrive), vomiting, diarrhea,  and open sores (ulcers) on the mucous membranes such as the lining inside the mouth. Neurological function is impaired in affected individuals, and they can experience progressive stiffness and weakness in their legs (paraparesis), muscle twitches (myoclonus), or intellectual disability.</p><p>People with transcobalamin deficiency often develop a blood disorder called megaloblastic anemia. Megaloblastic anemia results in a shortage of red blood cells, and the remaining red blood cells are abnormally large. Individuals with transcobalamin deficiency may also have a shortage of white blood cells (neutropenia), which can lead to reduced immune system function. Decreased cellular cobalamin can lead to a buildup of certain compounds in the body, resulting in metabolic conditions known as methylmalonic aciduria or homocystinuria.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: TCN2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TCN2
+synonym(1): TC deficiency
+synonym(2): TC II deficiency
+synonym(3): TCN2 deficiency
+synonym(4): transcobalamin II deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0342701
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D51.2
+db-key(3)/db: MeSH
+db-key(3)/key: D008661
+db-key(4)/db: OMIM
+db-key(4)/key: 275350
+db-key(5)/db: Orphanet
+db-key(5)/key: 859
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 237934001
+reviewed: 2014-10
+published: 2018-04-17

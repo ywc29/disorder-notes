@@ -1,0 +1,35 @@
+name: HSD10 disease
+ghr-page: https://ghr.nlm.nih.gov/condition/hsd10-disease
+text/text-role: description
+text/html: <p>HSD10 disease is a disorder that affects the nervous system, vision, and heart. It is typically more severe in males than in females. Most affected males have a form of HSD10 disease in which early development seems normal, followed by a stage in which affected individuals rapidly lose skills they have acquired. This developmental regression often occurs between the ages of 1 and 2 and results in severe intellectual disability and loss of communication skills and motor skills such as sitting, standing, and walking. This form of the disorder is referred to as the infantile type. Less commonly, affected males have severe neurological problems from birth and never develop motor skills. This form is called the neonatal type. Males with the infantile or neonatal type frequently have weak muscle tone (hypotonia), recurrent seizures (epilepsy), and vision loss that gradually gets worse. Weakening of the heart muscle (cardiomyopathy) also occurs  and is a common cause of death in males with severe HSD10 disease. Many affected males do not survive beyond early childhood.</p><p>Females with HSD10 disease may have developmental delay, learning problems, or intellectual disability, but they do not experience developmental regression. Some affected females have additional features of this condition, such as epilepsy, movement problems, and hearing loss. Affected females appear to have a normal life expectancy.</p>
+inheritance-pattern/code: x
+inheritance-pattern/memo: X-linked
+related-gene/gene-symbol: HSD17B10
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HSD17B10
+synonym(1): 2-methyl-3-hydroxybutyric aciduria
+synonym(2): 2-methyl-3-hydroxybutyryl-CoA dehydrogenase deficiency
+synonym(3): 2M3HBA
+synonym(4): 3-hydroxy-2-methylbutyryl-CoA dehydrogenase deficiency
+synonym(5): 3H2MBD deficiency
+synonym(6): 17β-hydroxysteroid dehydrogenase type 10 deficiency
+synonym(7): HSD10 deficiency
+synonym(8): hydroxyacyl-CoA dehydrogenase II deficiency
+synonym(9): MHBD deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1845517
+db-key(2)/db: MeSH
+db-key(2)/key: D028361
+db-key(3)/db: OMIM
+db-key(3)/key: 300438
+db-key(4)/db: Orphanet
+db-key(4)/key: 391417
+db-key(5)/db: Orphanet
+db-key(5)/key: 391428
+db-key(6)/db: Orphanet
+db-key(6)/key: 391457
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 791000124107
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 801000124108
+reviewed: 2018-01
+published: 2018-04-17

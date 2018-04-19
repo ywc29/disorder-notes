@@ -1,0 +1,8 @@
+gene-symbol: RASSF1
+name: Ras association domain family member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/RASSF1
+related-health-condition/name: lung cancer
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/lung-cancer
+db-key/db: NCBI Gene
+db-key/key: 11186
+published: 2018-04-17

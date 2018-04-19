@@ -1,0 +1,25 @@
+gene-symbol: CNBP
+name: CCHC-type zinc finger nucleic acid binding protein
+ghr-page: https://ghr.nlm.nih.gov/gene/CNBP
+text/text-role: function
+text/html: <p>The <i>CNBP</i> gene (also known as <i>ZNF9</i>) provides instructions for making a protein called CCHC-type zinc finger nucleic acid binding protein. This protein has seven regions, called zinc finger domains, which are thought to attach (bind) to specific sites on DNA and its chemical cousin, RNA.</p><p>The CNBP protein is found in many of the body's tissues, but it is most abundant in the heart and in muscles used for movement (skeletal muscles). Although the exact function of this protein is unclear, it appears to regulate the activity of other genes. The CNBP protein is necessary for normal embryonic development.</p><p>One region of the <i>CNBP</i> gene contains a segment of four DNA building blocks (nucleotides) that is repeated multiple times. This sequence, which is written as CCTG, is called a tetranucleotide repeat. In most people, the CCTG sequence is repeated fewer than 26 times.</p>
+related-health-condition/name: myotonic dystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/myotonic-dystrophy
+synonym(1): CCHC-type zinc finger, nucleic acid binding protein
+synonym(2): cellular nucleic acid binding protein
+synonym(3): cellular retroviral nucleic acid-binding protein 1
+synonym(4): CNBP1
+synonym(5): CNBP_HUMAN
+synonym(6): DM2
+synonym(7): ZCCHC22
+synonym(8): zinc finger 9 protein
+synonym(9): zinc finger protein 9
+synonym(10): zinc finger protein 9 (a cellular retroviral nucleic acid binding protein)
+synonym(11): zinc finger protein 273
+synonym(12): ZNF9
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7555
+db-key(2)/db: OMIM
+db-key(2)/key: 116955
+reviewed: 2010-10
+published: 2018-04-17

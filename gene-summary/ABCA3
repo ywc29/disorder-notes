@@ -1,0 +1,22 @@
+gene-symbol: ABCA3
+name: ATP binding cassette subfamily A member 3
+ghr-page: https://ghr.nlm.nih.gov/gene/ABCA3
+text/text-role: function
+text/html: <p>The <i>ABCA3</i> gene provides instructions for making a protein involved in surfactant production. Surfactant is a mixture of certain fats (called phospholipids) and proteins that lines the lung tissue and makes breathing easy. Without normal surfactant, the tissue surrounding the air sacs in the lungs (the alveoli) sticks together after exhalation (because of a force called surface tension), causing the alveoli to collapse. As a result, filling the lungs with air on each breath becomes very difficult, and delivery of oxygen to the body is impaired.</p><p>The ABCA3 protein is found in the membrane that surrounds lamellar bodies, which are the cellular structures in which the phospholipids and proteins that make up surfactant are packaged. The ABCA3 protein transports phospholipids into the lamellar bodies where they interact with surfactant proteins to form surfactant. The ABCA3 protein also appears to be involved in the formation of normal lamellar bodies. In addition to packaging, lamellar bodies are important for the correct processing of surfactant proteins, which is necessary for the proteins to mature and become functional.</p>
+related-health-condition/name: surfactant dysfunction
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/surfactant-dysfunction
+synonym(1): ABC-C
+synonym(2): ABC-C transporter
+synonym(3): ABC transporter 3
+synonym(4): ABC3
+synonym(5): ABCA3_HUMAN
+synonym(6): ATP-binding cassette sub-family A member 3
+synonym(7): ATP-binding cassette transporter 3
+synonym(8): ATP-binding cassette, sub-family A (ABC1), member 3
+synonym(9): SMDP3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 21
+db-key(2)/db: OMIM
+db-key(2)/key: 601615
+reviewed: 2012-07
+published: 2018-04-17

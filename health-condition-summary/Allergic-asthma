@@ -1,0 +1,21 @@
+name: Allergic asthma
+ghr-page: https://ghr.nlm.nih.gov/condition/allergic-asthma
+text/text-role: description
+text/html: <p>Asthma is a breathing disorder characterized by inflammation of the airways and recurrent episodes of breathing difficulty. These episodes, sometimes referred to as asthma attacks, are triggered by irritation of the inflamed airways. In allergic asthma, the attacks occur when substances known as allergens are inhaled, causing an allergic reaction. Allergens are harmless substances that the body's immune system mistakenly reacts to as though they are harmful. Common allergens include pollen, dust, animal dander, and mold. The immune response leads to the symptoms of asthma. Allergic asthma is the most common form of the disorder.</p><p>A hallmark of asthma is bronchial hyperresponsiveness, which means the airways are especially sensitive to irritants and respond excessively. Because of this hyperresponsiveness, attacks can be triggered by irritants other than allergens, such as physical activity, respiratory infections, or exposure to tobacco smoke, in people with allergic asthma.</p><p>An asthma attack is characterized by tightening of the muscles around the airways (bronchoconstriction), which narrows the airway and makes breathing difficult. Additionally, the immune reaction can lead to swelling of the airways and overproduction of mucus. During an attack, an affected individual can experience chest tightness, wheezing, shortness of breath, and coughing. Over time, the muscles around the airways can become enlarged (hypertrophied), further narrowing the airways.</p><p>Some people with allergic asthma have another allergic disorder, such as hay fever (allergic rhinitis) or food allergies. Asthma is sometimes part of a series of allergic disorders, referred to as the atopic march. Development of these conditions typically follows a pattern, beginning with eczema (atopic dermatitis), followed by food allergies, then hay fever, and finally asthma. However, not all individuals with asthma have progressed through the atopic march, and not all individuals with one allergic disease will develop others.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+synonym: extrinsic asthma
+db-key(1)/db: GTR
+db-key(1)/key: C0155877
+db-key(2)/db: GTR
+db-key(2)/key: C1869116
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: J45
+db-key(4)/db: MeSH
+db-key(4)/key: D001249
+db-key(5)/db: OMIM
+db-key(5)/key: 600807
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 389145006
+reviewed: 2015-12
+published: 2018-04-17

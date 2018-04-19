@@ -1,0 +1,61 @@
+name: Bladder cancer
+ghr-page: https://ghr.nlm.nih.gov/condition/bladder-cancer
+text/text-role: description
+text/html: <p>Bladder cancer is a disease in which certain cells in the bladder become abnormal and multiply without control or order.  The bladder is a hollow, muscular organ in the lower abdomen that stores urine until it is ready to be excreted from the body. The most common type of bladder cancer begins in cells lining the inside of the bladder and is called transitional cell carcinoma (TCC).</p><p>Bladder cancer may cause blood in the urine, pain during urination, frequent urination, or the feeling that one needs to urinate without results. These signs and symptoms are not specific to bladder cancer, however. They also can be caused by noncancerous conditions such as infections.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: FGFR3
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR3
+related-gene(2)/gene-symbol: HRAS
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/HRAS
+related-gene(3)/gene-symbol: RB1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/RB1
+related-gene(4)/gene-symbol: TP53
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/TP53
+related-gene(5)/gene-symbol: TSC1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/TSC1
+related-chromosome/name: 9
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/9
+synonym(1): Cancer of the bladder
+synonym(2): Malignant tumor of urinary bladder
+synonym(3): Urinary bladder cancer
+db-key(1)/db: GTR
+db-key(1)/key: C0005684
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: C67
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: C67.0
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: C67.1
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: C67.2
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: C67.3
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: C67.4
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: C67.5
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: C67.6
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: C67.7
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: C67.8
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: C67.9
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: D09.0
+db-key(14)/db: MeSH
+db-key(14)/key: D001749
+db-key(15)/db: OMIM
+db-key(15)/key: 109800
+db-key(16)/db: Orphanet
+db-key(16)/key: 157980
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 126885006
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 255108000
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 399326009
+reviewed: 2007-01
+published: 2018-04-17

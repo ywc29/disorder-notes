@@ -1,0 +1,20 @@
+gene-symbol: SAR1B
+name: secretion associated Ras related GTPase 1B
+ghr-page: https://ghr.nlm.nih.gov/gene/SAR1B
+text/text-role: function
+text/html: <p>The <i>SAR1B</i> gene provides instructions for making a protein found in enterocytes, which are cells that line the intestine and absorb nutrients.  Within enterocytes, the SAR1B protein aids in the transport of molecules called chylomicrons.  As food is digested after a meal, chylomicrons are formed to carry fat and cholesterol from the intestine into the bloodstream.  Chylomicrons are also necessary for the absorption of certain fat-soluble vitamins, such as vitamin E and vitamin D.</p><p>Chylomicrons are made up mostly of various types of fats (lipids); they also contain some proteins, mainly a protein called apolipoprotein B-48 that is produced only in the intestine.  Because chylomicrons are made up of lipids and proteins, they are known as lipoproteins.  Chylomicrons are released from enterocytes into the bloodstream so the body can use the lipids and fat-soluble vitamins they carry.  Sufficient levels of fats, cholesterol, and vitamins are necessary for normal growth and development.</p>
+related-health-condition/name: chylomicron retention disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/chylomicron-retention-disease
+synonym(1): GTP-binding protein Sara
+synonym(2): SAR1 gene homolog B (S. cerevisiae)
+synonym(3): SAR1 homolog B (S. cerevisiae)
+synonym(4): SAR1a gene homolog 2
+synonym(5): SAR1B_HUMAN
+synonym(6): SARA2
+synonym(7): secretion associated, Ras related GTPase 1B
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51128
+db-key(2)/db: OMIM
+db-key(2)/key: 607690
+reviewed: 2008-10
+published: 2018-04-17

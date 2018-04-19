@@ -1,0 +1,23 @@
+gene-symbol: CNGA3
+name: cyclic nucleotide gated channel alpha 3
+ghr-page: https://ghr.nlm.nih.gov/gene/CNGA3
+text/text-role: function
+text/html: <p>The <i>CNGA3</i> gene provides instructions for making one part (the alpha subunit) of the cone photoreceptor cyclic nucleotide-gated (CNG) channel. These channels are found exclusively in light-detecting (photoreceptor) cells called cones, which are located in a specialized tissue at the back of the eye known as the retina. Cones provide vision in bright light (daylight vision), including color vision. Other photoreceptor cells, called rods, provide vision in low light (night vision).</p><p>CNG channels are openings in the cell membrane that transport positively charged atoms (cations) into cells. In cones, CNG channels remain open under dark conditions, allowing cations to flow in. When light enters the eye, it triggers the closure of these channels, stopping the inward flow of cations. This change in cation transport alters the cone's electrical charge, which ultimately generates a signal that is interpreted by the brain as vision. This process of translating light into an electrical signal is called phototransduction.</p>
+related-health-condition(1)/name: achromatopsia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/achromatopsia
+related-health-condition(2)/name: cone-rod dystrophy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cone-rod-dystrophy
+synonym(1): ACHM2
+synonym(2): CCNC1
+synonym(3): CCNCa
+synonym(4): CCNCalpha
+synonym(5): CNCG3
+synonym(6): CNG3
+synonym(7): CNGA3_HUMAN
+synonym(8): cone photoreceptor cGMP-gated channel alpha subunit
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1261
+db-key(2)/db: OMIM
+db-key(2)/key: 600053
+reviewed: 2015-01
+published: 2018-04-17

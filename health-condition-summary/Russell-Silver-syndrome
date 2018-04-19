@@ -1,0 +1,36 @@
+name: Russell-Silver syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/russell-silver-syndrome
+text/text-role: description
+text/html: <p>Russell-Silver syndrome is a growth disorder characterized by slow growth before and after birth. Babies with this condition have a low birth weight and often fail to grow and gain weight at the expected rate (failure to thrive).  Head growth is normal, however, so the head may appear unusually large compared to the rest of the body. Affected children are thin and have poor appetites, and some develop recurrent episodes of low blood sugar (hypoglycemia) as a result of feeding difficulties. Adults with Russell-Silver syndrome are short; the average height for affected men is about 151 centimeters (4 feet, 11 inches) and the average height for affected women is about 140 centimeters (4 feet, 7 inches).</p><p>Many children with Russell-Silver syndrome have a small, triangular face with distinctive facial features including a prominent forehead, a narrow chin, a small jaw, and downturned corners of the mouth. Other features of this disorder can include an unusual curving of the fifth finger (clinodactyly), asymmetric or uneven growth of some parts of the body, and digestive system abnormalities. Russell-Silver syndrome is also associated with an increased risk of delayed development, speech and language problems, and learning disabilities.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xd
+inheritance-pattern(3)/memo: X-linked dominant
+related-gene(1)/gene-symbol: H19
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/H19
+related-gene(2)/gene-symbol: IGF2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/IGF2
+related-chromosome(1)/name: 7
+related-chromosome(1)/ghr-page: https://ghr.nlm.nih.gov/chromosome/7
+related-chromosome(2)/name: 11
+related-chromosome(2)/ghr-page: https://ghr.nlm.nih.gov/chromosome/11
+synonym(1): RSS
+synonym(2): Silver-Russell dwarfism
+synonym(3): Silver-Russell syndrome
+synonym(4): SRS
+db-key(1)/db: GTR
+db-key(1)/key: C0175693
+db-key(2)/db: GeneReviews
+db-key(2)/key: rss
+db-key(3)/db: MeSH
+db-key(3)/key: D056730
+db-key(4)/db: OMIM
+db-key(4)/key: 180860
+db-key(5)/db: Orphanet
+db-key(5)/key: 813
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 15069006
+reviewed: 2016-09
+published: 2018-04-17

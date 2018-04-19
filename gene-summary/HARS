@@ -1,0 +1,8 @@
+gene-symbol: HARS
+name: histidyl-tRNA synthetase
+ghr-page: https://ghr.nlm.nih.gov/gene/HARS
+related-health-condition/name: Usher syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/usher-syndrome
+db-key/db: NCBI Gene
+db-key/key: 3035
+published: 2018-04-17

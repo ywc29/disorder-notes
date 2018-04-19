@@ -1,0 +1,31 @@
+gene-symbol: HRAS
+name: HRas proto-oncogene, GTPase
+ghr-page: https://ghr.nlm.nih.gov/gene/HRAS
+text/text-role: function
+text/html: <p>The <i>HRAS</i> gene provides instructions for making a protein called H-Ras that is involved primarily in regulating cell division. Through a process known as signal transduction, the H-Ras protein relays signals from outside the cell to the cell's nucleus. These signals instruct the cell to grow or divide. The H-Ras protein is a GTPase, which means it converts a molecule called GTP into another molecule called GDP. The H-Ras protein acts like a switch, and it is turned on and off by GTP and GDP molecules. To transmit signals, the protein must be turned on by attaching (binding) to a molecule of GTP. The H-Ras protein is turned off (inactivated) when it converts GTP to GDP. When the protein is bound to GDP, it does not relay signals to the cell's nucleus.</p><p>The <i>HRAS</i> gene belongs to a class of genes known as oncogenes. When mutated, oncogenes have the potential to cause normal cells to become cancerous. The <i>HRAS</i> gene is in the Ras family of oncogenes, which also includes two other genes: <i>KRAS</i> and <i>NRAS</i>. The proteins produced from these three genes are GTPases. These proteins play important roles in cell division, the process by which cells mature to carry out specific functions (cell differentiation), and the self-destruction of cells (apoptosis).</p>
+related-health-condition(1)/name: bladder cancer
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/bladder-cancer
+related-health-condition(2)/name: Costello syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/costello-syndrome
+related-health-condition(3)/name: epidermal nevus
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/epidermal-nevus
+related-health-condition(4)/name: head and neck squamous cell carcinoma
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/head-and-neck-squamous-cell-carcinoma
+synonym(1): C-H-RAS
+synonym(2): Harvey murine sarcoma virus oncogene
+synonym(3): Harvey rat sarcoma viral oncogene homolog
+synonym(4): HRAS1
+synonym(5): Oncogene, G-RAS
+synonym(6): RASH1
+synonym(7): RASH_HUMAN
+synonym(8): Transformation gene: Oncogene HaMSV
+synonym(9): Transforming protein P21/H-RAS-1 (C-H-RAS)
+synonym(10): v-Ha-ras Harvey rat sarcoma viral oncogene homolog
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3265
+db-key(2)/db: OMIM
+db-key(2)/key: 188470
+db-key(3)/db: OMIM
+db-key(3)/key: 190020
+reviewed: 2016-08
+published: 2018-04-17

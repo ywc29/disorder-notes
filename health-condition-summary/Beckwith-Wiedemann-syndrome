@@ -1,0 +1,32 @@
+name: Beckwith-Wiedemann syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/beckwith-wiedemann-syndrome
+text/text-role: description
+text/html: <p>Beckwith-Wiedemann syndrome is a condition that affects many parts of the body. It is classified as an overgrowth syndrome, which means that affected infants are considerably larger than normal (macrosomia) and tend to be taller than their peers during childhood. Growth begins to slow by about age 8, and adults with this condition are not unusually tall. In some children with Beckwith-Wiedemann syndrome, specific parts of the body on one side or the other may grow abnormally large, leading to an asymmetric or uneven appearance. This unusual growth pattern, which is known as hemihyperplasia, usually becomes less apparent over time.</p><p>The signs and symptoms of Beckwith-Wiedemann syndrome vary among affected individuals. Some children with this condition are born with an opening in the wall of the abdomen (an omphalocele) that allows the abdominal organs to protrude through the belly-button. Other abdominal wall defects, such as a soft out-pouching around the belly-button (an umbilical hernia), are also common. Some infants with Beckwith-Wiedemann syndrome have an abnormally large tongue (macroglossia), which may interfere with breathing, swallowing, and speaking. Other major features of this condition include abnormally large abdominal organs (visceromegaly), creases or pits in the skin near the ears, low blood sugar (hypoglycemia) in infancy, and kidney abnormalities.</p><p>Children with Beckwith-Wiedemann syndrome are at an increased risk of developing several types of cancerous and noncancerous tumors, particularly a form of kidney cancer called Wilms tumor and a form of liver cancer called hepatoblastoma.  Tumors develop in about 10 percent of people with this condition and almost always appear in childhood.</p><p>Most children and adults with Beckwith-Wiedemann syndrome do not have serious medical problems associated with the condition. Their life expectancy is usually normal.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CDKN1C
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CDKN1C
+related-gene(2)/gene-symbol: H19
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/H19
+related-gene(3)/gene-symbol: IGF2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/IGF2
+related-gene(4)/gene-symbol: KCNQ1OT1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNQ1OT1
+related-chromosome/name: 11
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/11
+synonym(1): BWS
+synonym(2): Wiedemann-Beckwith syndrome (WBS)
+db-key(1)/db: GTR
+db-key(1)/key: C0004903
+db-key(2)/db: GeneReviews
+db-key(2)/key: bws
+db-key(3)/db: MeSH
+db-key(3)/key: D001506
+db-key(4)/db: OMIM
+db-key(4)/key: 130650
+db-key(5)/db: Orphanet
+db-key(5)/key: 116
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 81780002
+reviewed: 2015-06
+published: 2018-04-17

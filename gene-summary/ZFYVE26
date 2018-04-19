@@ -1,0 +1,20 @@
+gene-symbol: ZFYVE26
+name: zinc finger FYVE-type containing 26
+ghr-page: https://ghr.nlm.nih.gov/gene/ZFYVE26
+text/text-role: function
+text/html: <p>The <i>ZFYVE26</i> gene provides instructions for making a protein called spastizin, which is found in most tissues. Spastizin is important in a process called autophagy, in which worn-out cell parts and unneeded proteins are recycled within cells. Specifically, spastizin is involved in the formation and maturation of sacs called autophagosomes (or autophagic vacuoles). Autophagosomes surround materials that need to be recycled. The autophagosome then attaches (fuses) to a cell structure called a lysosome, which breaks down and recycles the materials.</p><p>In addition to being involved in clearing cells of unneeded materials, spastizin also plays a role in ensuring the proper division of cells. During the final stages of cell division, spastizin participates in the process by which the dividing cells separate from one another (cytokinesis).</p>
+related-health-condition/name: spastic paraplegia type 15
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/spastic-paraplegia-type-15
+synonym(1): FYVE-CENT
+synonym(2): FYVE domain-containing centrosomal protein
+synonym(3): KIAA0321
+synonym(4): spastizin
+synonym(5): SPG15
+synonym(6): zinc finger FYVE domain-containing protein 26
+synonym(7): zinc finger, FYVE domain containing 26
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23503
+db-key(2)/db: OMIM
+db-key(2)/key: 612012
+reviewed: 2014-04
+published: 2018-04-17

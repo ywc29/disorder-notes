@@ -1,0 +1,18 @@
+gene-symbol: AMPD1
+name: adenosine monophosphate deaminase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/AMPD1
+text/text-role: function
+text/html: <p>The <i>AMPD1</i> gene provides instructions for producing an enzyme called adenosine monophosphate (AMP) deaminase. This enzyme is found in the muscles used for movement (skeletal muscles), where it plays a role in producing energy. Specifically, during physical activity, this enzyme converts a molecule called adenosine monophosphate (AMP) to a molecule called inosine monophosphate (IMP) as part of a process called the purine nucleotide cycle. This cycle reuses molecules called purines, which are a group of building blocks of DNA (nucleotides), its chemical cousin RNA, and molecules such as AMP that serve as energy sources in the cell. As part of the purine nucleotide cycle, AMP deaminase converts AMP to IMP, and as the cycle continues, molecules are produced that the muscle cells can use for energy. Skeletal muscle cells need energy to function and move the body.</p>
+related-health-condition/name: adenosine monophosphate deaminase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/adenosine-monophosphate-deaminase-deficiency
+synonym(1): Adenosine monophosphate deaminase-1 (muscle)
+synonym(2): AMP deaminase
+synonym(3): AMPD1_HUMAN
+synonym(4): MAD
+synonym(5): MADA
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 270
+db-key(2)/db: OMIM
+db-key(2)/key: 102770
+reviewed: 2016-07
+published: 2018-04-17

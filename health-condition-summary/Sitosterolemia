@@ -1,0 +1,31 @@
+name: Sitosterolemia
+ghr-page: https://ghr.nlm.nih.gov/condition/sitosterolemia
+text/text-role: description
+text/html: <p>Sitosterolemia is a condition in which fatty substances (lipids) from vegetable oils, nuts, and other plant-based foods accumulate in the blood and tissues. These lipids are called plant sterols (or phytosterols). Sitosterol is one of several plant sterols that accumulate in this disorder, with a blood level 30 to 100 times greater than normal. Cholesterol, a similar fatty substance found in animal products, is mildly to moderately elevated in many people with sitosterolemia. Cholesterol levels are particularly high in some affected children. However, some people with sitosterolemia have normal cholesterol levels.</p><p>Plant sterols are not produced by the body; they are taken in as components of foods. Signs and symptoms of sitosterolemia may begin to appear early in life after foods containing plant sterols are introduced into the diet, although some affected individuals have no obvious symptoms.</p><p>In people with sitosterolemia, accumulation of fatty deposits in arteries (atherosclerosis) can occur as early as childhood. These deposits narrow the arteries and can eventually block blood flow, increasing the chance of a heart attack, stroke, or sudden death.</p><p>Some people with sitosterolemia develop small yellowish growths called xanthomas beginning in childhood. Xanthomas consist of accumulated lipids and may be located anywhere on or just under the skin, typically on the heels, knees, elbows, and buttocks. They may also occur in the bands that connect muscles to bones (tendons), including tendons of the hand and the tendon that connects the heel of the foot to the calf muscles (the Achilles tendon). Large xanthomas can cause pain, difficulty with movement, and cosmetic problems.</p><p>Joint stiffness and pain resulting from plant sterol deposits may also occur in individuals with sitosterolemia.  Less often, affected individuals have blood abnormalities. Occasionally the blood abnormalities are the only signs of the disorder. The red blood cells may be broken down (undergo hemolysis) prematurely, resulting in a shortage of red blood cells (anemia). This type of anemia is called hemolytic anemia. Affected individuals sometimes have abnormally shaped red blood cells called stomatocytes. In addition, the blood cell fragments involved in clotting, called platelets or thrombocytes, may be abnormally large (macrothrombocytopenia).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: ABCG5
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ABCG5
+related-gene(2)/gene-symbol: ABCG8
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ABCG8
+synonym(1): beta-sitosterolemia
+synonym(2): phytosterolaemia
+synonym(3): phytosterolemia
+synonym(4): plant sterol storage disease
+synonym(5): sitosterolaemia
+db-key(1)/db: GTR
+db-key(1)/key: C0342907
+db-key(2)/db: GeneReviews
+db-key(2)/key: stsl
+db-key(3)/db: MeSH
+db-key(3)/key: D008052
+db-key(4)/db: OMIM
+db-key(4)/key: 210250
+db-key(5)/db: Orphanet
+db-key(5)/key: 2882
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 238104009
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 65419005
+reviewed: 2016-11
+published: 2018-04-17

@@ -1,0 +1,25 @@
+gene-symbol: ACTA1
+name: actin, alpha 1, skeletal muscle
+ghr-page: https://ghr.nlm.nih.gov/gene/ACTA1
+text/text-role: function
+text/html: <p>The <i>ACTA1</i> gene provides instructions for making a protein called skeletal alpha (α)-actin, which is part of the actin protein family. Actin proteins are important for cell movement and the tensing of muscle fibers (muscle contraction). These proteins also help maintain the cytoskeleton, which is the structural framework that determines cell shape and organizes cell contents.</p><p>Skeletal α-actin plays an important role in skeletal muscles, which are muscles that the body uses for movement. Within skeletal muscle cells, skeletal α-actin is an essential component of structures called sarcomeres. Sarcomeres are composed of thin filaments made up of actin and thick filaments made up of another protein called myosin. Attachment (binding) and release of the overlapping thick and thin filaments allows them to move relative to each other so that the muscles can contract.</p>
+related-health-condition(1)/name: actin-accumulation myopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/actin-accumulation-myopathy
+related-health-condition(2)/name: cap myopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cap-myopathy
+related-health-condition(3)/name: congenital fiber-type disproportion
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-fiber-type-disproportion
+related-health-condition(4)/name: intranuclear rod myopathy
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/intranuclear-rod-myopathy
+related-health-condition(5)/name: nemaline myopathy
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/nemaline-myopathy
+synonym(1): ACTA
+synonym(2): ACTS_HUMAN
+synonym(3): alpha skeletal muscle actin
+synonym(4): ASMA
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 58
+db-key(2)/db: OMIM
+db-key(2)/key: 102610
+reviewed: 2016-05
+published: 2018-04-17

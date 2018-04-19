@@ -1,0 +1,27 @@
+name: Lujan syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/lujan-syndrome
+text/text-role: description
+text/html: <p>Lujan syndrome is a condition characterized by intellectual disability, behavioral problems, and certain physical features. It occurs almost exclusively in males.</p><p>The intellectual disability associated with Lujan syndrome is usually mild to moderate. Behavioral problems can include hyperactivity, aggressiveness, extreme shyness, and excessive attention-seeking. Some affected individuals have features of autism or related developmental disorders affecting communication and social interaction. A few have been diagnosed with psychiatric problems such as delusions and hallucinations.</p><p>Characteristic physical features of Lujan syndrome include a tall, thin body and an unusually large head (macrocephaly). Affected individuals also have a long, thin face with distinctive facial features such as a prominent top of the nose (high nasal root); a short space between the nose and the upper lip (philtrum); a narrow roof of the mouth (palate); crowded teeth; and a small chin (micrognathia). Almost all people with this condition have weak muscle tone (hypotonia).</p><p>Additional signs and symptoms of Lujan syndrome can include abnormal speech, heart defects, and abnormalities of the genitourinary system. Many affected individuals have long fingers and toes with an unusually large range of joint movement (hyperextensibility). Seizures and abnormalities of the tissue that connects the left and right halves of the brain (corpus callosum) have also been reported in people with this condition.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: MED12
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MED12
+synonym(1): LFS
+synonym(2): Lujan-Fryns syndrome
+synonym(3): X-linked intellectual deficit with marfanoid habitus
+synonym(4): X-linked mental retardation with marfanoid habitus
+synonym(5): XLMR with marfanoid features
+db-key(1)/db: GTR
+db-key(1)/key: C0796022
+db-key(2)/db: GeneReviews
+db-key(2)/key: fg
+db-key(3)/db: MeSH
+db-key(3)/key: D038901
+db-key(4)/db: OMIM
+db-key(4)/key: 309520
+db-key(5)/db: Orphanet
+db-key(5)/key: 776
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 422437002
+reviewed: 2012-12
+published: 2018-04-17

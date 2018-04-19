@@ -1,0 +1,24 @@
+gene-symbol: PSENEN
+name: presenilin enhancer gamma-secretase subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/PSENEN
+text/text-role: function
+text/html: <p>The <i>PSENEN</i> gene provides instructions for making a protein called presenilin enhancer 2 or PEN-2. This protein is one part (subunit) of a complex called gamma- (γ-) secretase. PEN-2 processes another subunit of the complex, presenilin 1, which is produced from the <i>PSEN1</i> gene. This step is necessary for the γ-secretase complex to be functional.</p><p>The γ-secretase complex is located in the membrane that surrounds cells, where it cuts apart (cleaves) many different proteins that span the cell membrane (transmembrane proteins). This cleavage is an important step in several chemical signaling pathways that transmit signals from outside the cell into the nucleus. One of these pathways, known as Notch signaling, is essential for the normal maturation and division of hair follicle cells and other types of skin cells. Notch signaling is also involved in normal immune system function.</p>
+related-health-condition(1)/name: Dowling-Degos disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/dowling-degos-disease
+related-health-condition(2)/name: hidradenitis suppurativa
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/hidradenitis-suppurativa
+synonym(1): gamma-secretase subunit PEN-2
+synonym(2): hematopoietic stem/progenitor cells protein MDS033
+synonym(3): MDS033
+synonym(4): MSTP064
+synonym(5): PEN-2
+synonym(6): PEN2
+synonym(7): PEN2_HUMAN
+synonym(8): presenilin enhancer 2 homolog
+synonym(9): presenilin enhancer gamma secretase subunit
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 55851
+db-key(2)/db: OMIM
+db-key(2)/key: 607632
+reviewed: 2013-12
+published: 2018-04-17

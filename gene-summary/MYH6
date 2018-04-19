@@ -1,0 +1,34 @@
+gene-symbol: MYH6
+name: myosin heavy chain 6
+ghr-page: https://ghr.nlm.nih.gov/gene/MYH6
+text/text-role: function
+text/html: <p>The <i>MYH6</i> gene provides instructions for making a protein known as the cardiac alpha (α)-myosin heavy chain. This protein is found in heart (cardiac) muscle cells, where it forms part of a larger protein called type II myosin. Type II myosin helps generate the mechanical force that is needed for cardiac muscle to contract, allowing the heart to pump blood to the rest of the body.</p><p>Type II myosin is one of the major components of cell structures called sarcomeres. These structures are the basic units of muscle contraction. Sarcomeres are composed of thick filaments made up of type II myosin and thin filaments made up of another protein called actin. The overlapping thick and thin filaments attach to each other and release, which allows the filaments to move relative to one another so that muscles can contract. Sarcomeres also appear to have an important role in the early development of structures in the heart.</p>
+related-health-condition(1)/name: familial dilated cardiomyopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+related-health-condition(2)/name: sick sinus syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/sick-sinus-syndrome
+synonym(1): alpha-MHC
+synonym(2): ASD3
+synonym(3): CMD1EE
+synonym(4): CMH14
+synonym(5): MYH6_HUMAN
+synonym(6): MYHC
+synonym(7): myHC-alpha
+synonym(8): MYHCA
+synonym(9): myosin-6
+synonym(10): myosin heavy chain, cardiac muscle alpha isoform
+synonym(11): myosin, heavy chain 6, cardiac muscle, alpha
+synonym(12): myosin, heavy polypeptide 6, cardiac muscle, alpha (cardiomyopathy, hypertrophic 1)
+synonym(13): SSS3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4624
+db-key(2)/db: OMIM
+db-key(2)/key: 160710
+db-key(3)/db: OMIM
+db-key(3)/key: 613251
+db-key(4)/db: OMIM
+db-key(4)/key: 613252
+db-key(5)/db: OMIM
+db-key(5)/key: 614089
+reviewed: 2013-08
+published: 2018-04-17

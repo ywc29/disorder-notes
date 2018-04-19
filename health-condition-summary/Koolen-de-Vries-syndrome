@@ -1,0 +1,32 @@
+name: Koolen-de Vries syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/koolen-de-vries-syndrome
+text/text-role: description
+text/html: <p>Koolen-de Vries syndrome is a disorder characterized by developmental delay and mild to moderate intellectual disability. People with this disorder typically have a disposition that is described as cheerful, sociable, and cooperative. They usually have weak muscle tone (hypotonia) in childhood. About half have recurrent seizures (epilepsy).</p><p>Affected individuals often have distinctive facial features including a high, broad forehead; droopy eyelids (ptosis); a narrowing of the eye openings (blepharophimosis); outer corners of the eyes that point upward (upward-slanting  palpebral  fissures); skin folds covering the inner corner of the eyes (epicanthal folds); a bulbous nose; and prominent ears. Males with Koolen-de Vries syndrome often have undescended testes (cryptorchidism). Defects in the walls between the chambers of the heart (septal defects) or other cardiac abnormalities, kidney problems, and skeletal anomalies such as foot deformities occur in some affected individuals.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: KANSL1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/KANSL1
+related-chromosome/name: 17
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/17
+synonym(1): 17q21.31 deletion syndrome
+synonym(2): 17q21.31 microdeletion syndrome
+synonym(3): chromosome 17q21.31 microdeletion syndrome
+synonym(4): KANSL1-related intellectual disability syndrome
+synonym(5): KDVS
+synonym(6): Koolen syndrome
+synonym(7): microdeletion 17q21.31 syndrome
+synonym(8): monosomy 17q21.31
+db-key(1)/db: GTR
+db-key(1)/key: C1864871
+db-key(2)/db: GeneReviews
+db-key(2)/key: mdel17q21_31
+db-key(3)/db: MeSH
+db-key(3)/key: D025063
+db-key(4)/db: OMIM
+db-key(4)/key: 610443
+db-key(5)/db: Orphanet
+db-key(5)/key: 96169
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 717338006
+reviewed: 2013-03
+published: 2018-04-17

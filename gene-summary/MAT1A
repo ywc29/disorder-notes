@@ -1,0 +1,21 @@
+gene-symbol: MAT1A
+name: methionine adenosyltransferase 1A
+ghr-page: https://ghr.nlm.nih.gov/gene/MAT1A
+text/text-role: function
+text/html: <p>The <i>MAT1A</i> gene provides instructions for producing the enzyme methionine adenosyltransferase. The enzyme is produced from the <i>MAT1A</i> gene in two forms, designated alpha and beta. The alpha form, called a homotetramer, is made up of four identical protein subunits. The beta form, called a homodimer, is made up of two of the same protein subunits. Both forms of the enzyme are found in the liver.</p><p>Both the alpha and beta forms of methionine adenosyltransferase help break down a protein building block (amino acid) called methionine. The enzyme starts the reaction that converts methionine to S-adenosylmethionine, also called AdoMet or SAMe. AdoMet is involved in transferring methyl groups, consisting of a carbon atom and three hydrogen atoms, to other compounds, a process called transmethylation. Transmethylation is important in many cellular processes. These include determining whether the instructions in a particular segment of DNA are carried out, regulating reactions involving proteins and lipids, and controlling the processing of chemicals that relay signals in the nervous system (neurotransmitters).</p>
+related-health-condition/name: hypermethioninemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hypermethioninemia
+synonym(1): MAT
+synonym(2): MATA1
+synonym(3): methionine adenosyltransferase I, alpha
+synonym(4): METK1_HUMAN
+synonym(5): S-adenosylmethionine synthetase 1
+synonym(6): SAMS
+synonym(7): SAMS, liver-specific
+synonym(8): SAMS1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4143
+db-key(2)/db: OMIM
+db-key(2)/key: 610550
+reviewed: 2007-04
+published: 2018-04-17

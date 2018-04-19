@@ -1,0 +1,33 @@
+name: GLUT1 deficiency syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/glut1-deficiency-syndrome
+text/text-role: description
+text/html: <p>GLUT1 deficiency syndrome is a disorder affecting the nervous system that can have a variety of neurological signs and symptoms. Approximately 90 percent of affected individuals have a form of the disorder often referred to as common GLUT1 deficiency syndrome. These individuals generally have frequent seizures (epilepsy) beginning in the first months of life. In newborns, the first sign of the disorder may be involuntary eye movements that are rapid and irregular. Babies with common GLUT1 deficiency syndrome have a normal head size at birth, but growth of the brain and skull is often slow, which can result in an abnormally small head size (microcephaly). People with this form of GLUT1 deficiency syndrome may have developmental delay or intellectual disability. Most affected individuals also have other neurological problems, such as stiffness caused by abnormal tensing of the muscles (spasticity), difficulty in coordinating movements (ataxia), and speech difficulties (dysarthria). Some experience episodes of confusion, lack of energy (lethargy), headaches, or muscle twitches (myoclonus), particularly during periods without food (fasting).</p><p>About 10 percent of individuals with GLUT1 deficiency syndrome have a form of the disorder often known as non-epileptic GLUT1 deficiency syndrome, which is usually less severe than the common form. People with the non-epileptic form do not have seizures, but they may still have developmental delay and intellectual disability. Most have movement problems such as ataxia or involuntary tensing of various muscles (dystonia); the movement problems may be more pronounced than in the common form.</p><p>Several conditions that were originally given other names have since been recognized to be variants of GLUT1 deficiency syndrome. These include paroxysmal choreoathetosis with spasticity (dystonia 9); paroxysmal exercise-induced dyskinesia and epilepsy (dystonia 18); and certain types of epilepsy. In rare cases, people with variants of GLUT1 deficiency syndrome produce abnormal red blood cells and have uncommon forms of a blood condition known as anemia, which is characterized by a shortage of red blood cells.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: SLC2A1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SLC2A1
+synonym(1): De Vivo disease
+synonym(2): encephalopathy due to GLUT1 deficiency
+synonym(3): G1D
+synonym(4): glucose transport defect, blood-brain barrier
+synonym(5): glucose transporter protein syndrome
+synonym(6): glucose transporter type 1 deficiency syndrome
+synonym(7): Glut1 deficiency
+synonym(8): GLUT1 DS
+synonym(9): GTPS
+db-key(1)/db: GTR
+db-key(1)/key: C1847501
+db-key(2)/db: GeneReviews
+db-key(2)/key: glut1
+db-key(3)/db: MeSH
+db-key(3)/key: D020739
+db-key(4)/db: OMIM
+db-key(4)/key: 606777
+db-key(5)/db: Orphanet
+db-key(5)/key: 71277
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 445252005
+reviewed: 2014-03
+published: 2018-04-17

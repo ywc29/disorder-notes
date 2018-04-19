@@ -1,0 +1,69 @@
+name: Leprosy
+ghr-page: https://ghr.nlm.nih.gov/condition/leprosy
+text/text-role: description
+text/html: <p>Leprosy, also called Hansen disease, is a disorder known since ancient times. It is caused by bacteria called <i>Mycobacterium leprae</i> and is contagious, which means that it can be passed from person to person. It is usually contracted by breathing airborne droplets from affected individuals' coughs and sneezes, or by coming into contact with their nasal fluids. However, it is not highly transmissible, and approximately 95 percent of individuals who are exposed to <i>Mycobacterium leprae</i> never develop leprosy. The infection can be contracted at any age, and signs and symptoms can take anywhere from several months to 20 years to appear.</p><p>Leprosy affects the skin and the peripheral nerves, which connect the brain and spinal cord to muscles and to sensory cells that detect sensations such as touch, pain, and heat. Most affected individuals have areas of skin damage (cutaneous lesions) and problems with nerve function (peripheral neuropathy); however, the severity and extent of the problems vary widely. Leprosy occurs on a spectrum, in which the most severe form is called multibacillary or lepromatous, and the least severe form is called paucibacillary or tuberculoid. Patterns of signs and symptoms intermediate between these forms are sometimes called borderline forms.</p><p>Multibacillary leprosy usually involves a large number of cutaneous lesions, including both surface damage and lumps under the skin (nodules). The moist tissues that line body openings such as the eyelids and the inside of the nose and mouth (mucous membranes) can also be affected, which can lead to vision loss, destruction of nasal tissue, or impaired speech. Some affected individuals have damage to internal organs and tissues. The nerve damage that occurs in multibacillary leprosy often results in a lack of sensation in the hands and feet. Repeated injuries that go unnoticed and untreated because of this lack of sensation can lead to reabsorption of affected fingers or toes by the body, resulting in the shortening or loss of these digits.</p><p>Paucibacillary leprosy typically involves a small number of surface lesions on the skin. There is generally loss of sensation in these areas, but the other signs and symptoms that occur in multibacillary leprosy are less likely to develop in this form of the disorder.</p><p>In any form of leprosy, episodes called reactions can occur, and can lead to further nerve damage. These episodes can include reversal reactions, which involve pain and swelling of the skin lesions and the nerves in the hands and feet. People with the more severe forms of leprosy can develop a type of reaction called erythema nodosum leprosum (ENL). These episodes involve fever and painful skin nodules. In addition, painful, swollen nerves can occur. ENL can also lead to inflammation of the joints, eyes, and the testicles in men.</p><p>Leprosy has long been stigmatized because of its infectious nature and the disfigurement it can cause. This stigma can cause social and emotional problems for affected individuals. However, modern treatments can prevent leprosy from getting worse and spreading to other people. While the infection is curable, nerve and tissue damage that occurred before treatment is generally permanent.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: LTA
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/LTA
+related-gene(2)/gene-symbol: PACRG
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PACRG
+related-gene(3)/gene-symbol: PRKN
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PRKN
+related-gene(4)/gene-symbol: TLR1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/TLR1
+related-gene(5)/gene-symbol: TLR2
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/TLR2
+related-gene(6)/gene-symbol: VDR
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/VDR
+synonym(1): Hansen disease
+synonym(2): Hansen's disease
+synonym(3): infection due to Mycobacterium leprae
+db-key(1)/db: GTR
+db-key(1)/key: C1562585
+db-key(2)/db: GTR
+db-key(2)/key: C1835932
+db-key(3)/db: GTR
+db-key(3)/key: C1843632
+db-key(4)/db: GTR
+db-key(4)/key: C1968668
+db-key(5)/db: GTR
+db-key(5)/key: C1970254
+db-key(6)/db: GTR
+db-key(6)/key: C2750103
+db-key(7)/db: GTR
+db-key(7)/key: C2750733
+db-key(8)/db: GTR
+db-key(8)/key: C2750734
+db-key(9)/db: GTR
+db-key(9)/key: C3150676
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: A30.0
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: A30.1
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: A30.3
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: A30.5
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: A30.9
+db-key(15)/db: MeSH
+db-key(15)/key: D007918
+db-key(16)/db: OMIM
+db-key(16)/key: 246300
+db-key(17)/db: OMIM
+db-key(17)/key: 607572
+db-key(18)/db: OMIM
+db-key(18)/key: 609888
+db-key(19)/db: OMIM
+db-key(19)/key: 610988
+db-key(20)/db: OMIM
+db-key(20)/key: 613223
+db-key(21)/db: OMIM
+db-key(21)/key: 613407
+db-key(22)/db: Orphanet
+db-key(22)/key: 548
+db-key(23)/db: SNOMED CT
+db-key(23)/key: 81004002
+reviewed: 2018-02
+published: 2018-04-17

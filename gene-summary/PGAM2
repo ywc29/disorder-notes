@@ -1,0 +1,22 @@
+gene-symbol: PGAM2
+name: phosphoglycerate mutase 2
+ghr-page: https://ghr.nlm.nih.gov/gene/PGAM2
+text/text-role: function
+text/html: <p>The <i>PGAM2</i> gene provides instructions for making an enzyme called phosphoglycerate mutase. The version of phosphoglycerate mutase produced from this gene is found predominantly in skeletal muscle cells. (Skeletal muscles are the muscles used for movement.) Another version of this enzyme, which is produced from a different gene, is found in many other cells and tissues.</p><p>Phosphoglycerate mutase is involved in a critical energy-producing process known as glycolysis. During glycolysis, the simple sugar glucose is broken down to produce energy. Phosphoglycerate mutase helps carry out a chemical reaction that converts a molecule called 3-phosphoglycerate, which is produced during the breakdown of glucose, to another molecule called 2-phosphoglycerate.</p>
+related-health-condition/name: phosphoglycerate mutase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/phosphoglycerate-mutase-deficiency
+synonym(1): BPG-dependent PGAM 2
+synonym(2): GSD10
+synonym(3): MGC88743
+synonym(4): muscle-specific phosphoglycerate mutase
+synonym(5): PGAM-M
+synonym(6): PGAM2_HUMAN
+synonym(7): PGAMM
+synonym(8): phosphoglycerate mutase 2 (muscle)
+synonym(9): phosphoglycerate mutase isozyme M
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5224
+db-key(2)/db: OMIM
+db-key(2)/key: 612931
+reviewed: 2011-12
+published: 2018-04-17

@@ -1,0 +1,25 @@
+gene-symbol: GJC2
+name: gap junction protein gamma 2
+ghr-page: https://ghr.nlm.nih.gov/gene/GJC2
+text/text-role: function
+text/html: <p>The <i>GJC2</i> gene provides instructions for making a protein called connexin-47. This protein is a member of the gap junction connexin family, a group of proteins that form channels called gap junctions between cells. Gap junctions allow for the transport of nutrients, charged particles (ions), and small molecules between cells.</p><p>Connexin-47 is produced in the brain and spinal cord (central nervous system), specifically in cells called oligodendrocytes, which help coat nerve cells with a protective layer called myelin. Myelin is a fatty substance that insulates nerve fibers and promotes the rapid transmission of nerve impulses.</p><p>Connexin-47 forms gap junctions that facilitate communication between oligodendrocytes or between oligodendrocytes and another type of nervous system cell called astrocytes. Communication between these cells is necessary for the formation and maintenance of myelin.</p>
+related-health-condition/name: Pelizaeus-Merzbacher-like disease type 1
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pelizaeus-merzbacher-like-disease-type-1
+synonym(1): connexin-46.6
+synonym(2): connexin-47
+synonym(3): CX46.6
+synonym(4): Cx47
+synonym(5): gap junction alpha-12 protein
+synonym(6): gap junction gamma-2 protein
+synonym(7): gap junction protein, gamma 2, 47kDa
+synonym(8): GJA12
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57165
+db-key(2)/db: OMIM
+db-key(2)/key: 608803
+db-key(3)/db: OMIM
+db-key(3)/key: 613206
+db-key(4)/db: OMIM
+db-key(4)/key: 613480
+reviewed: 2018-04
+published: 2018-04-17

@@ -1,0 +1,49 @@
+gene-symbol: FGFR2
+name: fibroblast growth factor receptor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/FGFR2
+text/text-role: function
+text/html: <p>The <i>FGFR2</i> gene provides instructions for making a protein called fibroblast growth factor receptor 2.  This protein is one of four fibroblast growth factor receptors, which are related proteins that are involved in important processes such as cell division, regulation of cell growth and maturation, formation of blood vessels, wound healing, and embryonic development.</p><p>The FGFR2 protein spans the cell membrane, so that one end of the protein remains inside the cell and the other end projects from the outer surface of the cell.  This positioning allows the FGFR2 protein to interact with specific growth factors outside the cell and to receive signals that help the cell respond to its environment.  When growth factors attach to the FGFR2 protein, the receptor triggers a cascade of chemical reactions inside the cell that instruct the cell to undergo certain changes, such as maturing to take on specialized functions.  The FGFR2 protein plays an important role in bone growth, particularly during embryonic development.  For example, this protein signals certain immature cells in the developing embryo to become bone cells in the head, hands, feet, and other tissues.</p><p>There are several slightly different versions (isoforms) of the FGFR2 protein. Specific patterns of these isoforms are found in the body's tissues, and these patterns may change throughout growth and development.</p>
+related-health-condition(1)/name: Apert syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/apert-syndrome
+related-health-condition(2)/name: Beare-Stevenson cutis gyrata syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/beare-stevenson-cutis-gyrata-syndrome
+related-health-condition(3)/name: breast cancer
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
+related-health-condition(4)/name: cholangiocarcinoma
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/cholangiocarcinoma
+related-health-condition(5)/name: Crouzon syndrome
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/crouzon-syndrome
+related-health-condition(6)/name: epidermal nevus
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/epidermal-nevus
+related-health-condition(7)/name: Jackson-Weiss syndrome
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/jackson-weiss-syndrome
+related-health-condition(8)/name: lacrimo-auriculo-dento-digital syndrome
+related-health-condition(8)/ghr-page: https://ghr.nlm.nih.gov/condition/lacrimo-auriculo-dento-digital-syndrome
+related-health-condition(9)/name: Pfeiffer syndrome
+related-health-condition(9)/ghr-page: https://ghr.nlm.nih.gov/condition/pfeiffer-syndrome
+related-health-condition(10)/name: prostate cancer
+related-health-condition(10)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+synonym(1): bacteria-expressed kinase
+synonym(2): BEK
+synonym(3): BEK fibroblast growth factor receptor
+synonym(4): BEK protein tyrosine kinase
+synonym(5): BFR-1
+synonym(6): CD332
+synonym(7): CEK3
+synonym(8): CFD1
+synonym(9): ECT1
+synonym(10): FGF receptor
+synonym(11): FGFR2_HUMAN
+synonym(12): K-SAM
+synonym(13): keratinocyte growth factor receptor
+synonym(14): KGFR
+synonym(15): protein tyrosine kinase, receptor like 14
+synonym(16): TK14
+synonym(17): TK25
+synonym(18): tyrosylprotein kinase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2263
+db-key(2)/db: OMIM
+db-key(2)/key: 176943
+reviewed: 2013-06
+published: 2018-04-17

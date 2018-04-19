@@ -1,0 +1,30 @@
+name: Duane-radial ray syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/duane-radial-ray-syndrome
+text/text-role: description
+text/html: <p>Duane-radial ray syndrome is a disorder that affects the eyes and causes abnormalities of bones in the arms and hands. This condition is characterized by a particular problem with eye movement called Duane anomaly (also known as Duane syndrome). This abnormality results from the improper development of certain nerves that control eye movement. Duane anomaly limits outward eye movement (toward the ear), and in some cases may limit inward eye movement (toward the nose). Also, as the eye moves inward, the eye opening becomes narrower and the eyeball may pull back (retract) into its socket.</p><p>Bone abnormalities in the hands include malformed or absent thumbs, an extra thumb, or a long thumb that looks like a finger. Partial or complete absence of bones in the forearm is also common. Together, these hand and arm abnormalities are known as radial ray malformations.</p><p>People with the combination of Duane anomaly and radial ray malformations may have a variety of other signs and symptoms. These features include unusually shaped ears, hearing loss, heart and kidney defects, a distinctive facial appearance, an inward- and upward-turning foot (clubfoot), and fused spinal bones (vertebrae).</p><p>The varied signs and symptoms of Duane-radial ray syndrome often overlap with features of other disorders. For example, acro-renal-ocular syndrome is characterized by Duane anomaly and other eye abnormalities, radial ray malformations, and kidney defects. Both conditions are caused by mutations in the same gene. Based on these similarities, researchers suspect that Duane-radial ray syndrome and acro-renal-ocular syndrome are part of an overlapping set of syndromes with many possible signs and symptoms. The features of Duane-radial ray syndrome are also similar to those of a condition called Holt-Oram syndrome; however, these two disorders are caused by mutations in different genes.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SALL4
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SALL4
+synonym(1): DRRS
+synonym(2): Okihiro syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1623209
+db-key(2)/db: GeneReviews
+db-key(2)/key: drrs
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: H50.81
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: H50.811
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: H50.812
+db-key(6)/db: MeSH
+db-key(6)/key: D004370
+db-key(7)/db: OMIM
+db-key(7)/key: 607323
+db-key(8)/db: Orphanet
+db-key(8)/key: 233
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 699867001
+reviewed: 2009-12
+published: 2018-04-17

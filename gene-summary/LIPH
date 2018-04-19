@@ -1,0 +1,24 @@
+gene-symbol: LIPH
+name: lipase H
+ghr-page: https://ghr.nlm.nih.gov/gene/LIPH
+text/text-role: function
+text/html: <p>The <i>LIPH</i> gene provides instructions for making an enzyme called lipase H. This enzyme is found in many cells and tissues, where it breaks down the molecule phosphatidic acid into lysophosphatidic acid (LPA) and free fatty acid. LPA is a ligand, which means that it attaches (binds) to certain proteins called receptors. A ligand and its receptor fit together like a key in a lock. LPA has multiple receptors and is involved in many cellular functions, such as cell growth and division (proliferation), cell movement (migration), and the self-destruction of cells (apoptosis).</p><p>One of LPA's receptors, the LPA<sub>6</sub> protein, regulates the proliferation and maturation (differentiation) of cells within hair follicles, which are specialized structures in the skin where hair growth occurs. These cell processes are important for the normal development of hair follicles and for hair growth; as the cells in the hair follicle divide, the hair strand (shaft) is pushed upward and extends beyond the skin, causing the hair to grow. Lipase H is also found in the outermost layer of skin (the epidermis) and glands in the skin that produce a substance that protects the skin and hair (sebaceous glands).</p>
+related-health-condition/name: autosomal recessive hypotrichosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-hypotrichosis
+synonym(1): lipase member H
+synonym(2): lipase, member H
+synonym(3): LIPH_HUMAN
+synonym(4): LPD lipase-related protein
+synonym(5): LPDLR
+synonym(6): membrane-associated phosphatidic acid-selective phospholipase A1-alpha
+synonym(7): membrane-bound phosphatidic acid-selective phospholipase A1
+synonym(8): mPA-PLA1
+synonym(9): mPA-PLA1 alpha
+synonym(10): phospholipase A1 member B
+synonym(11): PLA1B
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 200879
+db-key(2)/db: OMIM
+db-key(2)/key: 607365
+reviewed: 2013-04
+published: 2018-04-17

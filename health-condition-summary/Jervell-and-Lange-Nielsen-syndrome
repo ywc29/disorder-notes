@@ -1,0 +1,42 @@
+name: Jervell and Lange-Nielsen syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/jervell-and-lange-nielsen-syndrome
+text/text-role: description
+text/html: <p>Jervell and Lange-Nielsen syndrome is a condition that causes profound hearing loss from birth and a disruption of the heart's normal rhythm (arrhythmia).  This disorder is a form of long QT syndrome, which is a heart condition that causes the heart (cardiac) muscle to take longer than usual to recharge between beats.  Beginning in early childhood, the irregular heartbeats increase the risk of fainting (syncope) and sudden death.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: KCNE1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNE1
+related-gene(2)/gene-symbol: KCNQ1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNQ1
+synonym(1): autosomal recessive long QT syndrome (LQTS)
+synonym(2): cardio-auditory-syncope syndrome
+synonym(3): cardioauditory syndrome of Jervell and Lange-Nielsen
+synonym(4): deafness, congenital, and functional heart disease
+synonym(5): Jervell-Lange Nielsen syndrome
+synonym(6): JLNS
+synonym(7): prolonged QT interval in EKG and sudden death
+synonym(8): surdo-cardiac syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0022387
+db-key(2)/db: GTR
+db-key(2)/key: C2676723
+db-key(3)/db: GTR
+db-key(3)/key: CN034131
+db-key(4)/db: GeneReviews
+db-key(4)/key: jln
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: I45.81
+db-key(6)/db: MeSH
+db-key(6)/key: D029593
+db-key(7)/db: OMIM
+db-key(7)/key: 220400
+db-key(8)/db: OMIM
+db-key(8)/key: 612347
+db-key(9)/db: Orphanet
+db-key(9)/key: 768
+db-key(10)/db: Orphanet
+db-key(10)/key: 90647
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 373905003
+reviewed: 2017-09
+published: 2018-04-17

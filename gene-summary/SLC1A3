@@ -1,0 +1,26 @@
+gene-symbol: SLC1A3
+name: solute carrier family 1 member 3
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC1A3
+text/text-role: function
+text/html: <p>The <i>SLC1A3</i> gene provides instructions for making a protein called excitatory amino acid transporter 1 (EAAT1).   EAAT1 transports a molecule called glutamate in the brain.  Glutamate is one of several brain chemicals called neurotransmitters, which allow nerve cells (neurons) to communicate with one another.  EAAT1 is found throughout the brain, but it is most abundant in the part of the brain that is connected to the spinal cord (the brainstem) and the region of the brain involved in coordinating movements (the cerebellum).</p><p>Neurotransmitters (such as glutamate) are released from neurons and relay signals to other cells by attaching to receptor proteins on neighboring neurons. After the neurotransmitters have had their effect, they detach from their receptors and must be cleared from the spaces between neurons.  Researchers have determined that EAAT1 is one of several glutamate transporters that clear excess glutamate from these spaces.  This process is carefully regulated to ensure that signals are transmitted accurately throughout the nervous system.  The timely removal of glutamate is also necessary to prevent a buildup of this neurotransmitter between cells, which would be toxic to neurons.</p>
+related-health-condition/name: episodic ataxia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/episodic-ataxia
+synonym(1): EA6
+synonym(2): EAA1_HUMAN
+synonym(3): EAAT-1
+synonym(4): EAAT1
+synonym(5): Excitatory amino acid transporter 1
+synonym(6): FLJ25094
+synonym(7): GLAST
+synonym(8): GLAST1
+synonym(9): Glial high affinity glutamate transporter
+synonym(10): Glutamate/aspartate transporter, high affinity, sodium-dependent
+synonym(11): Sodium-dependent glutamate/aspartate transporter 1
+synonym(12): solute carrier family 1 (glial high affinity glutamate transporter), member 3
+synonym(13): Solute carrier family 1 member 3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6507
+db-key(2)/db: OMIM
+db-key(2)/key: 600111
+reviewed: 2008-08
+published: 2018-04-17

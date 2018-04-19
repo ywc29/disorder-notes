@@ -1,0 +1,22 @@
+name: Activated PI3K-delta syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/activated-pi3k-delta-syndrome
+text/text-role: description
+text/html: <p>Activated PI3K-delta syndrome is a disorder that impairs the immune system. Individuals with this condition often have low numbers of white blood cells (lymphopenia), particularly B cells and T cells. Normally, these cells recognize and attack foreign invaders, such as viruses and bacteria, to prevent infection. Beginning in childhood, people with activated PI3K-delta syndrome develop recurrent infections, particularly in the lungs, sinuses, and ears. Over time, recurrent respiratory tract infections can lead to a condition called bronchiectasis, which damages the passages leading from the windpipe to the lungs (bronchi) and can cause breathing problems. People with activated PI3K-delta syndrome may also have chronic active viral infections, commonly Epstein-Barr virus or cytomegalovirus infections.</p><p>Another possible feature of activated PI3K-delta syndrome is abnormal clumping of white blood cells. These clumps can lead to enlarged lymph nodes (lymphadenopathy), or the white blood cells can build up to form solid masses (nodular lymphoid hyperplasia), usually in the moist lining of the airways or intestines. While lymphadenopathy and nodular lymphoid hyperplasia are noncancerous (benign), activated PI3K-delta syndrome also increases the risk of developing a form of cancer called B-cell lymphoma.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: PIK3CD
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PIK3CD
+synonym(1): APDS
+synonym(2): immunodeficiency 14
+synonym(3): p110δ-activating mutation causing senescent T cells, lymphadenopathy, and immunodeficiency
+synonym(4): PASLI
+db-key(1)/db: GTR
+db-key(1)/key: C3714976
+db-key(2)/db: MeSH
+db-key(2)/key: D007153
+db-key(3)/db: OMIM
+db-key(3)/key: 615513
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 711480000
+reviewed: 2014-07
+published: 2018-04-17

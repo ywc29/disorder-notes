@@ -1,0 +1,19 @@
+gene-symbol: MAN2B1
+name: mannosidase alpha class 2B member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/MAN2B1
+text/text-role: function
+text/html: <p>The <i>MAN2B1</i> gene provides instructions for making the enzyme alpha-mannosidase. This enzyme works in the lysosomes, which are compartments that digest and recycle materials in the cell. Within lysosomes, the enzyme helps break down complexes of sugar molecules (oligosaccharides) attached to certain proteins (glycoproteins). In particular, alpha-mannosidase helps break down oligosaccharides containing a sugar molecule called mannose.</p>
+related-health-condition/name: alpha-mannosidosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/alpha-mannosidosis
+synonym(1): LAMAN
+synonym(2): lysosomal acid alpha-mannosidase
+synonym(3): MA2B1_HUMAN
+synonym(4): MANB
+synonym(5): mannosidase, alpha B, lysosomal
+synonym(6): mannosidase, alpha, class 2B, member 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4125
+db-key(2)/db: OMIM
+db-key(2)/key: 609458
+reviewed: 2014-05
+published: 2018-04-17

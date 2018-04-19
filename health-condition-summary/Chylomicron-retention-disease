@@ -1,0 +1,27 @@
+name: Chylomicron retention disease
+ghr-page: https://ghr.nlm.nih.gov/condition/chylomicron-retention-disease
+text/text-role: description
+text/html: <p>Chylomicron retention disease is an inherited disorder that affects the absorption of dietary fats, cholesterol, and certain fat-soluble vitamins. As food is digested after a meal, molecules called chylomicrons are formed to carry fat and cholesterol from the intestine into the bloodstream. Chylomicrons are also necessary for the absorption of certain fat-soluble vitamins, such as vitamin E and vitamin D.  A lack of chylomicron transport causes severely decreased absorption (malabsorption) of dietary fats and fat-soluble vitamins.  Sufficient levels of fats, cholesterol, and vitamins are necessary for normal growth and development.</p><p>The signs and symptoms of chylomicron retention disease appear in the first few months of life. They can include failure to gain weight and grow at the expected rate (failure to thrive); diarrhea; and fatty, foul-smelling stools (steatorrhea).  Other features of this disorder may develop later in childhood and often impair the function of the nervous system.  Affected people may eventually develop decreased reflexes (hyporeflexia) and a decreased ability to feel vibrations.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SAR1B
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SAR1B
+synonym(1): Anderson disease
+synonym(2): Anderson syndrome
+synonym(3): CMRD
+synonym(4): hypobetalipoproteinemia with accumulation of apolipoprotein B-like protein in intestinal cells
+synonym(5): lipid transport defect of intestine
+db-key(1)/db: GTR
+db-key(1)/key: C0795956
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E78.3
+db-key(3)/db: MeSH
+db-key(3)/key: D006995
+db-key(4)/db: OMIM
+db-key(4)/key: 246700
+db-key(5)/db: Orphanet
+db-key(5)/key: 71
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702364003
+reviewed: 2008-10
+published: 2018-04-17

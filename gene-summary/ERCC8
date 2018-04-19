@@ -1,0 +1,23 @@
+gene-symbol: ERCC8
+name: ERCC excision repair 8, CSA ubiquitin ligase complex subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/ERCC8
+text/text-role: function
+text/html: <p>The <i>ERCC8</i> gene provides instructions for making a protein called Cockayne syndrome A (CSA), which is involved in repairing damaged DNA. DNA can be damaged by ultraviolet (UV) rays from the sun and by toxic chemicals, radiation, and unstable molecules called free radicals. The damage caused by these agents can block vital cell activities such as gene transcription, which is the first step in protein production. If left uncorrected, DNA damage accumulates, which causes cells to malfunction and can lead to cell death.</p><p>Although DNA damage occurs frequently, cells are usually able to fix it before it can cause problems. Cells have several mechanisms to correct DNA damage; one such mechanism involves the CSA protein. This protein specializes in repairing damaged DNA within active genes (those genes undergoing gene transcription). However, its specific role in this process is unclear. The CSA protein interacts with other proteins, probably to identify areas of damaged DNA.</p>
+related-health-condition(1)/name: Cockayne syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cockayne-syndrome
+related-health-condition(2)/name: UV-sensitive syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/uv-sensitive-syndrome
+synonym(1): CKN1
+synonym(2): Cockayne syndrome 1 (classical)
+synonym(3): Cockayne syndrome 1 protein
+synonym(4): Cockayne syndrome, type A
+synonym(5): CSA
+synonym(6): ERCC8_HUMAN
+synonym(7): excision repair cross-complementation group 8
+synonym(8): excision repair cross-complementing rodent repair deficiency, complementation group 8
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1161
+db-key(2)/db: OMIM
+db-key(2)/key: 609412
+reviewed: 2016-06
+published: 2018-04-17

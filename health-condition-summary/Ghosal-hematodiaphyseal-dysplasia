@@ -1,0 +1,25 @@
+name: Ghosal hematodiaphyseal dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/ghosal-hematodiaphyseal-dysplasia
+text/text-role: description
+text/html: <p>Ghosal hematodiaphyseal dysplasia is a rare inherited condition characterized by abnormally thick bones and a shortage of red blood cells (anemia). Signs and symptoms of the condition become apparent in early childhood.</p><p>In affected individuals, the long bones in the arms and legs are unusually dense and wide. The bone changes specifically affect the shafts of the long bones, called diaphyses, and areas near the ends of the bones called metaphyses. The bone abnormalities can lead to bowing of the legs and difficulty walking.</p><p>Ghosal hematodiaphyseal dysplasia also causes scarring (fibrosis) of the bone marrow, which is the spongy tissue inside long bones where blood cells are formed. The abnormal bone marrow cannot produce enough red blood cells, which leads to anemia.Signs and symptoms of anemia that have been reported in people with Ghosal hematodiaphyseal dysplasia include extremely pale skin (pallor) and excessive tiredness (fatigue).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: TBXAS1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TBXAS1
+synonym(1): diaphyseal dysplasia associated with anemia
+synonym(2): GHDD
+synonym(3): Ghosal hemato-diaphyseal dysplasia
+synonym(4): Ghosal syndrome
+synonym(5): Ghosal-type hemato-diaphyseal dysplasia
+db-key(1)/db: GTR
+db-key(1)/key: C1856465
+db-key(2)/db: MeSH
+db-key(2)/key: D010009
+db-key(3)/db: OMIM
+db-key(3)/key: 231095
+db-key(4)/db: Orphanet
+db-key(4)/key: 1802
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 389214003
+reviewed: 2014-03
+published: 2018-04-17

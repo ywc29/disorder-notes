@@ -1,0 +1,20 @@
+gene-symbol: TRPM1
+name: transient receptor potential cation channel subfamily M member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TRPM1
+text/text-role: function
+text/html: <p>The <i>TRPM1</i> gene provides instructions for making a protein called transient receptor potential cation channel subfamily M member 1 (TRPM1). This protein acts as a channel, transporting positively charged atoms (cations) into cells. The TRPM1 channel is found on the surface of two types of cells: pigment-producing cells called melanocytes and specialized bipolar cells in the light-sensitive tissue at the back of the eye (the retina).</p><p>In melanocytes, the TRPM1 channel is thought to play a role in the production of a pigment called melanin, which is the substance that gives skin, hair, and eyes their color (pigmentation). It is unclear what role the channel plays, but increased channel activity is associated with greater melanin production and darker pigmentation.</p><p>In bipolar cells, TRPM1 channels are involved in the pathway that receives visual signals from cells called rods, which are used to see in low light. This signaling is an essential step in the transmission of visual information from the eyes to the brain. In low-light conditions, visual signals from rod cells trigger the TRPM1 channels to close, which causes visual signals to be transmitted. In bright-light conditions, the TRPM1 channel is open, allowing cations to flow in and out of bipolar cells and preventing visual signals from being sent.</p>
+related-health-condition/name: autosomal recessive congenital stationary night blindness
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-congenital-stationary-night-blindness
+synonym(1): long transient receptor potential channel 1
+synonym(2): LTRPC1
+synonym(3): melastatin-1
+synonym(4): MLSN1
+synonym(5): transient receptor potential cation channel, subfamily M, member 1
+synonym(6): transient receptor potential melastatin family
+synonym(7): TRPM1_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4308
+db-key(2)/db: OMIM
+db-key(2)/key: 603576
+reviewed: 2014-01
+published: 2018-04-17

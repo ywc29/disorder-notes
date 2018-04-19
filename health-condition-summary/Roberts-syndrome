@@ -1,0 +1,33 @@
+name: Roberts syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/roberts-syndrome
+text/text-role: description
+text/html: <p>Roberts syndrome is a genetic disorder characterized by limb and facial abnormalities. Affected individuals also grow slowly before and after birth.  Mild to severe intellectual impairment occurs in half of all people with Roberts syndrome.</p><p>Children with Roberts syndrome are born with abnormalities of all four limbs. They have shortened arm and leg bones (hypomelia), particularly the bones in their forearms and lower legs. In severe cases, the limbs may be so short that the hands and feet are located very close to the body (phocomelia). People with Roberts syndrome may also have abnormal or missing fingers and toes, and joint deformities (contractures) commonly occur at the elbows and knees. The limb abnormalities are very similar on the right and left sides of the body, but arms are usually more severely affected than legs.</p><p>Individuals with Roberts syndrome typically have numerous facial abnormalities, including an opening in the lip (a cleft lip) with or without an opening in the roof of the mouth (cleft palate), a small chin (micrognathia), ear abnormalities, wide-set eyes (hypertelorism), outer corners of the eyes that point downward (down-slanting palpebral fissures), small nostrils, and a beaked nose. They may have a small head size (microcephaly), and in severe cases affected individuals have a sac-like protrusion of the brain (encephalocele) at the front of their head. In addition, people with Roberts syndrome may have heart, kidney, and genital abnormalities.</p><p>Infants with a severe form of Roberts syndrome are often stillborn or die shortly after birth. Mildly affected individuals may live into adulthood. A condition called SC phocomelia syndrome was originally thought to be distinct from Roberts syndrome; however, it is now considered to be a mild variant.  "SC" represents the first letters of the surnames of the two families first diagnosed with this disorder.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ESCO2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ESCO2
+synonym(1): Appelt-Gerken-Lenz syndrome
+synonym(2): Hypomelia hypotrichosis facial hemangioma syndrome
+synonym(3): Pseudothalidomide syndrome
+synonym(4): RBS
+synonym(5): Roberts-SC phocomelia syndrome
+synonym(6): SC phocomelia syndrome
+synonym(7): SC pseudothalidomide syndrome
+synonym(8): SC syndrome
+synonym(9): tetraphocomelia-cleft palate syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0392475
+db-key(2)/db: GeneReviews
+db-key(2)/key: rbs
+db-key(3)/db: MeSH
+db-key(3)/key: D000015
+db-key(4)/db: OMIM
+db-key(4)/key: 268300
+db-key(5)/db: OMIM
+db-key(5)/key: 269000
+db-key(6)/db: Orphanet
+db-key(6)/key: 3103
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 48718006
+reviewed: 2009-01
+published: 2018-04-17

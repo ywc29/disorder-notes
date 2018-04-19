@@ -1,0 +1,23 @@
+gene-symbol: CYP27A1
+name: cytochrome P450 family 27 subfamily A member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/CYP27A1
+text/text-role: function
+text/html: <p>The <i>CYP27A1</i> gene is a member of the cytochrome P450 gene family.  Enzymes produced from the cytochrome P450 genes are involved in the formation and breakdown of various molecules and chemicals within cells.  The <i>CYP27A1</i> gene provides instructions for producing an enzyme called sterol 27-hydroxylase.  This enzyme is located in the energy-producing centers of cells (mitochondria), where it is involved in the pathway that breaks down cholesterol to form acids used to digest fats (bile acids).  Specifically, sterol 27-hydroxylase breaks down cholesterol to form a bile acid called chenodeoxycholic acid.  The formation of bile acids from cholesterol is the body's main pathway for cholesterol removal.  Sterol 27-hydroxylase plays a key role in maintaining normal cholesterol levels in the body.</p>
+related-health-condition/name: cerebrotendinous xanthomatosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cerebrotendinous-xanthomatosis
+synonym(1): 5-beta-cholestane-3-alpha, 7-alpha, 12-alpha-triol 27-hydroxylase
+synonym(2): CP27
+synonym(3): CP27A_HUMAN
+synonym(4): CTX
+synonym(5): CYP27
+synonym(6): cytochrome P-450C27/25
+synonym(7): cytochrome P450, family 27, subfamily A, polypeptide 1
+synonym(8): cytochrome P450, subfamily XXVIIA (steroid 27-hydroxylase, cerebrotendinous xanthomatosis), polypeptide 1
+synonym(9): sterol 27-hydroxylase
+synonym(10): vitamin D(3) 25-hydroxylase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1593
+db-key(2)/db: OMIM
+db-key(2)/key: 606530
+reviewed: 2016-09
+published: 2018-04-17

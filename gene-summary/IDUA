@@ -1,0 +1,15 @@
+gene-symbol: IDUA
+name: iduronidase, alpha-L-
+ghr-page: https://ghr.nlm.nih.gov/gene/IDUA
+text/text-role: function
+text/html: <p>The <i>IDUA</i> gene provides instructions for producing an enzyme called alpha-L-iduronidase, which is essential for the breakdown of large sugar molecules called glycosaminoglycans (GAGs). Through a process called hydrolysis, alpha-L-iduronidase uses water molecules to break down a molecule known as unsulfated alpha-L-iduronic acid, which is present in two GAGs called heparan sulfate and dermatan sulfate. Alpha-L-iduronidase is located in lysosomes, compartments within cells that digest and recycle different types of molecules.</p>
+related-health-condition/name: mucopolysaccharidosis type I
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-i
+synonym(1): alpha-L-iduronidase
+synonym(2): IDUA_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3425
+db-key(2)/db: OMIM
+db-key(2)/key: 252800
+reviewed: 2008-12
+published: 2018-04-17

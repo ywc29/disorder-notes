@@ -1,0 +1,22 @@
+gene-symbol: STXBP1
+name: syntaxin binding protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/STXBP1
+text/text-role: function
+text/html: <p>The <i>STXBP1</i> gene provides instructions for making syntaxin-binding protein 1. In nerve cells (neurons), this protein helps regulate the release of chemical messengers called neurotransmitters from compartments known as synaptic vesicles. The release of neurotransmitters relays signals between neurons and is critical for normal brain function.</p><p>To release its neurotransmitters, a synaptic vesicle must join (fuse) with the outer membrane of the neuron. The syntaxin-binding protein 1 regulates the formation of a group (complex) of proteins that allows vesicle fusion.</p>
+related-health-condition/name: STXBP1 encephalopathy with epilepsy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/stxbp1-encephalopathy-with-epilepsy
+synonym(1): hUNC18
+synonym(2): MUNC18-1
+synonym(3): N-Sec1
+synonym(4): neuronal SEC1
+synonym(5): NSEC1
+synonym(6): RBSEC1
+synonym(7): unc-18A
+synonym(8): UNC18
+synonym(9): unc18-1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6812
+db-key(2)/db: OMIM
+db-key(2)/key: 602926
+reviewed: 2017-08
+published: 2018-04-17

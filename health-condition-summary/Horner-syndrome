@@ -1,0 +1,26 @@
+name: Horner syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/horner-syndrome
+text/text-role: description
+text/html: <p>Horner syndrome is a disorder that affects the eye and surrounding tissues on one side of the face and results from paralysis of certain nerves. Horner syndrome can appear at any time of life; in about 5 percent of affected individuals, the disorder is present from birth (congenital).</p><p>Horner syndrome is characterized by drooping of the upper eyelid (ptosis) on the affected side, a constricted pupil in the affected eye (miosis) resulting in unequal pupil size (anisocoria), and absent sweating (anhidrosis) on the affected side of the face. Sinking of the eye into its cavity (enophthalmos) and a bloodshot eye often occur in this disorder. In people with Horner syndrome that occurs before the age of 2,  the colored part (iris) of the eyes may differ in color (iris heterochromia), with the iris of the affected eye being lighter in color than that of the unaffected eye. Individuals who develop Horner syndrome after age 2 do not generally have iris heterochromia.</p><p>The abnormalities in the eye area related to Horner syndrome do not generally affect vision or health. However, the nerve damage that causes Horner syndrome may result from other health problems, some of which can be life-threatening.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+synonym(1): Bernard-Horner syndrome
+synonym(2): Horner's syndrome
+synonym(3): oculosympathetic palsy
+synonym(4): von Passow syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1840475
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: G90.2
+db-key(3)/db: MeSH
+db-key(3)/key: D006732
+db-key(4)/db: OMIM
+db-key(4)/key: 143000
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 164018003
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 192915005
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 271730003
+reviewed: 2013-04
+published: 2018-04-17

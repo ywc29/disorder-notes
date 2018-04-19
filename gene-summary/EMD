@@ -1,0 +1,16 @@
+gene-symbol: EMD
+name: emerin
+ghr-page: https://ghr.nlm.nih.gov/gene/EMD
+text/text-role: function
+text/html: <p>The <i>EMD</i> gene provides instructions for making a protein called emerin. Although this protein is produced in many tissues, it appears to be particularly important for the normal function of muscles used for movement (skeletal muscles) and the heart (cardiac muscle).</p><p>Within cells, emerin is a component of the nuclear envelope. The nuclear envelope is a structure that surrounds the nucleus, acting as a barrier between the nucleus and the surrounding fluid (cytoplasm) inside the cell. The nuclear envelope has several functions, including regulating the movement of molecules into and out of the nucleus.</p><p>Emerin interacts with several other proteins on the inner surface of the nuclear envelope. Together, these proteins are involved in regulating the activity of certain genes, controlling cell division and chemical signaling, and maintaining the structure and stability of the nucleus. Emerin and related proteins also play a role in assembling the nucleus during the process of cell division.</p>
+related-health-condition/name: Emery-Dreifuss muscular dystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/emery-dreifuss-muscular-dystrophy
+synonym(1): EMD_HUMAN
+synonym(2): emerin (Emery-Dreifuss muscular dystrophy)
+synonym(3): STA
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2010
+db-key(2)/db: OMIM
+db-key(2)/key: 300384
+reviewed: 2017-06
+published: 2018-04-17

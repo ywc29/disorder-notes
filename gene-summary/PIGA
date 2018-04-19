@@ -1,0 +1,25 @@
+gene-symbol: PIGA
+name: phosphatidylinositol glycan anchor biosynthesis class A
+ghr-page: https://ghr.nlm.nih.gov/gene/PIGA
+text/text-role: function
+text/html: <p>The <i>PIGA</i> gene provides instructions for making a protein called phosphatidylinositol glycan class A. This protein takes part in a series of steps that produce a molecule called GPI anchor. Specifically, phosphatidylinositol glycan class A is involved in the first step of the sequence, which produces an intermediate molecule called N-acetylglucosaminyl phosphatidylinositol, or GlcNAc-PI. This step takes place in the endoplasmic reticulum of the cell, a structure involved in protein processing and transport. The PIGA protein forms a complex with several other proteins, and this complex helps to start the reaction that produces GlcNAc-PI.</p><p>The GPI anchor, the ultimate product of the sequence, attaches many different proteins to the cell membrane, thereby ensuring that these proteins are available when needed at the surface of the cell.</p>
+related-health-condition(1)/name: paroxysmal nocturnal hemoglobinuria
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/paroxysmal-nocturnal-hemoglobinuria
+related-health-condition(2)/name: Simpson-Golabi-Behmel syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/simpson-golabi-behmel-syndrome
+synonym(1): GLCNAC-PI synthesis protein
+synonym(2): GPI anchor biosynthesis
+synonym(3): GPI3
+synonym(4): phosphatidylinositol glycan anchor biosynthesis, class A
+synonym(5): phosphatidylinositol glycan anchor biosynthesis, class A (paroxysmal nocturnal hemoglobinuria)
+synonym(6): phosphatidylinositol-glycan biosynthesis, class A protein
+synonym(7): phosphatidylinositol glycan, class A (paroxysmal nocturnal hemoglobinuria)
+synonym(8): phosphatidylinositol N-acetylglucosaminyltransferase subunit A
+synonym(9): PIG-A
+synonym(10): PIGA_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5277
+db-key(2)/db: OMIM
+db-key(2)/key: 311770
+reviewed: 2007-05
+published: 2018-04-17

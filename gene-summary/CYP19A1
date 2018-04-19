@@ -1,0 +1,34 @@
+gene-symbol: CYP19A1
+name: cytochrome P450 family 19 subfamily A member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/CYP19A1
+text/text-role: function
+text/html: <p>The <i>CYP19A1</i> gene provides instructions for making an enzyme called aromatase. This enzyme converts a class of hormones called androgens, which are involved in male sexual development, to different forms of the female sex hormone estrogen.</p><p>In cells, aromatase is found in a structure called the endoplasmic reticulum, which is involved in protein production, processing, and transport. The activity (expression) of aromatase varies among different cell types depending on the cells' need for estrogen. In females, aromatase is most active in the ovaries, where it guides sexual development. In males, aromatase is most active in fat (adipose) tissue. In both males and females, estrogen plays a role in regulating bone growth and blood sugar levels. During fetal development, aromatase converts androgens to estrogens in the placenta, which is the link between the mother's blood supply and the fetus. This conversion in the placenta prevents androgens from directing sexual development in female fetuses. After birth, the conversion of androgens to estrogens takes place in multiple tissues.</p>
+related-health-condition(1)/name: aromatase deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/aromatase-deficiency
+related-health-condition(2)/name: aromatase excess syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/aromatase-excess-syndrome
+related-health-condition(3)/name: breast cancer
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
+synonym(1): ARO
+synonym(2): ARO1
+synonym(3): aromatase
+synonym(4): CP19A_HUMAN
+synonym(5): CPV1
+synonym(6): CYAR
+synonym(7): CYP19
+synonym(8): CYPXIX
+synonym(9): cytochrome P-450AROM
+synonym(10): cytochrome P450 19A1
+synonym(11): cytochrome P450, family 19, subfamily A, polypeptide 1
+synonym(12): cytochrome P450, subfamily XIX (aromatization of androgens)
+synonym(13): estrogen synthase
+synonym(14): estrogen synthetase
+synonym(15): flavoprotein-linked monooxygenase
+synonym(16): microsomal monooxygenase
+synonym(17): P-450AROM
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1588
+db-key(2)/db: OMIM
+db-key(2)/key: 107910
+reviewed: 2014-04
+published: 2018-04-17

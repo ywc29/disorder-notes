@@ -1,0 +1,118 @@
+name: Porphyria
+ghr-page: https://ghr.nlm.nih.gov/condition/porphyria
+text/text-role: description
+text/html: <p>Porphyria is a group of disorders caused by abnormalities in the chemical steps that lead to heme production. Heme is a vital molecule for all of the body's organs, although it is most abundant in the blood, bone marrow, and liver. Heme is a component of several iron-containing proteins called hemoproteins, including hemoglobin (the protein that carries oxygen in the blood).</p><p>Researchers have identified several types of porphyria, which are distinguished by their genetic cause and their signs and symptoms. Some types of porphyria, called cutaneous porphyrias, primarily affect the skin. Areas of skin exposed to the sun become fragile and blistered, which can lead to infection, scarring, changes in skin coloring (pigmentation), and increased hair growth. Cutaneous porphyrias include congenital erythropoietic porphyria, erythropoietic protoporphyria, hepatoerythropoietic porphyria, and porphyria cutanea tarda.</p><p>Other types of porphyria, called acute porphyrias, primarily affect the nervous system. These disorders are described as "acute" because their signs and symptoms appear quickly and usually last a short time.  Episodes of acute porphyria can cause abdominal pain, vomiting, constipation, and diarrhea.  During an episode, a person may also experience muscle weakness, seizures, fever, and mental changes such as anxiety and hallucinations. These signs and symptoms can be life-threatening, especially if the muscles that control breathing become paralyzed. Acute porphyrias include acute intermittent porphyria and ALAD deficiency porphyria. Two other forms of porphyria, hereditary coproporphyria and variegate porphyria, can have both acute and cutaneous symptoms.</p><p>The porphyrias can also be split into erythropoietic and hepatic types, depending on where damaging compounds called porphyrins and porphyrin precursors first build up in the body. In erythropoietic porphyrias, these compounds originate in the bone marrow. Erythropoietic porphyrias include erythropoietic protoporphyria and congenital erythropoietic porphyria. Health problems associated with erythropoietic porphyrias include a low number of red blood cells (anemia) and enlargement of the spleen (splenomegaly). The other types of porphyrias are considered hepatic porphyrias. In these disorders, porphyrins and porphyrin precursors originate primarily in the liver, leading to abnormal liver function and an increased risk of developing liver cancer.</p><p>Environmental factors can strongly influence the occurrence and severity of signs and symptoms of porphyria. Alcohol, smoking, certain drugs, hormones, other illnesses, stress, and dieting or periods without food (fasting) can all trigger the signs and symptoms of some forms of the disorder. Additionally, exposure to sunlight worsens the skin damage in people with cutaneous porphyrias.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xd
+inheritance-pattern(3)/memo: X-linked dominant
+related-gene(1)/gene-symbol: ALAD
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ALAD
+related-gene(2)/gene-symbol: ALAS2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ALAS2
+related-gene(3)/gene-symbol: CPOX
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CPOX
+related-gene(4)/gene-symbol: FECH
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/FECH
+related-gene(5)/gene-symbol: HFE
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/HFE
+related-gene(6)/gene-symbol: HMBS
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/HMBS
+related-gene(7)/gene-symbol: PPOX
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/PPOX
+related-gene(8)/gene-symbol: UROD
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/UROD
+related-gene(9)/gene-symbol: UROS
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/UROS
+synonym(1): Hematoporphyria
+synonym(2): porphyrin disorder
+db-key(1)/db: GTR
+db-key(1)/key: C0032708
+db-key(2)/db: GTR
+db-key(2)/key: C0162530
+db-key(3)/db: GTR
+db-key(3)/key: C0162531
+db-key(4)/db: GTR
+db-key(4)/key: C0162532
+db-key(5)/db: GTR
+db-key(5)/key: C0162565
+db-key(6)/db: GTR
+db-key(6)/key: C0162568
+db-key(7)/db: GTR
+db-key(7)/key: C0268323
+db-key(8)/db: GTR
+db-key(8)/key: C2677889
+db-key(9)/db: GeneReviews
+db-key(9)/key: aip
+db-key(10)/db: GeneReviews
+db-key(10)/key: cep
+db-key(11)/db: GeneReviews
+db-key(11)/key: epp-ar
+db-key(12)/db: GeneReviews
+db-key(12)/key: epp-xl
+db-key(13)/db: GeneReviews
+db-key(13)/key: hcp
+db-key(14)/db: GeneReviews
+db-key(14)/key: porphyria-ct
+db-key(15)/db: GeneReviews
+db-key(15)/key: porphyria-var
+db-key(16)/db: ICD-10-CM
+db-key(16)/key: E80.0
+db-key(17)/db: ICD-10-CM
+db-key(17)/key: E80.1
+db-key(18)/db: ICD-10-CM
+db-key(18)/key: E80.2
+db-key(19)/db: ICD-10-CM
+db-key(19)/key: E80.20
+db-key(20)/db: ICD-10-CM
+db-key(20)/key: E80.21
+db-key(21)/db: ICD-10-CM
+db-key(21)/key: E80.29
+db-key(22)/db: MeSH
+db-key(22)/key: D011164
+db-key(23)/db: OMIM
+db-key(23)/key: 121300
+db-key(24)/db: OMIM
+db-key(24)/key: 125270
+db-key(25)/db: OMIM
+db-key(25)/key: 176000
+db-key(26)/db: OMIM
+db-key(26)/key: 176100
+db-key(27)/db: OMIM
+db-key(27)/key: 176200
+db-key(28)/db: OMIM
+db-key(28)/key: 177000
+db-key(29)/db: OMIM
+db-key(29)/key: 263700
+db-key(30)/db: OMIM
+db-key(30)/key: 300752
+db-key(31)/db: Orphanet
+db-key(31)/key: 738
+db-key(32)/db: SNOMED CT
+db-key(32)/key: 22935002
+db-key(33)/db: SNOMED CT
+db-key(33)/key: 234422006
+db-key(34)/db: SNOMED CT
+db-key(34)/key: 238056003
+db-key(35)/db: SNOMED CT
+db-key(35)/key: 276262000
+db-key(36)/db: SNOMED CT
+db-key(36)/key: 276263005
+db-key(37)/db: SNOMED CT
+db-key(37)/key: 276265003
+db-key(38)/db: SNOMED CT
+db-key(38)/key: 418470004
+db-key(39)/db: SNOMED CT
+db-key(39)/key: 44574006
+db-key(40)/db: SNOMED CT
+db-key(40)/key: 51022005
+db-key(41)/db: SNOMED CT
+db-key(41)/key: 58275005
+db-key(42)/db: SNOMED CT
+db-key(42)/key: 7425008
+db-key(43)/db: SNOMED CT
+db-key(43)/key: 84816006
+reviewed: 2009-07
+published: 2018-04-17

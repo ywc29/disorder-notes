@@ -1,0 +1,24 @@
+name: X-linked cardiac valvular dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-cardiac-valvular-dysplasia
+text/text-role: description
+text/html: <p>X-linked cardiac valvular dysplasia is a condition characterized by the abnormal development (dysplasia) of heart (cardiac) valves. The normal heart has four valves, two on the left side of the heart and two on the right side, that allow blood to move through the heart and prevent blood from flowing backward. In X-linked cardiac valvular dysplasia, one or more of the four heart valves is thickened and cannot open and close completely when the heart beats and pumps blood. These malformed valves can cause abnormal blood flow and an irregular heart sound during a heartbeat (heart murmur).</p><p>The signs and symptoms of X-linked cardiac valvular dysplasia vary greatly among affected individuals. Some people have no health problems, while in others blood can leak through the thickened and partially closed valves. This valve leakage (regurgitation) typically affects the mitral valve, which connects the two left chambers of the heart, or the aortic valve, which regulates blood flow from the heart into the large artery called the aorta. Valve regurgitation forces the heart to pump harder to move blood through the heart. As a result, affected individuals may develop chest pains, shortness of breath, or lightheadedness.</p><p>In X-linked cardiac valvular dysplasia, the mitral or aortic valve can also be prolapsed, which means that the valve is weak or floppy. Valve prolapse further prevents the thickened valve from closing properly and can lead to valve regurgitation. Other rare complications of X-linked cardiac valvular dysplasia include inflammation of the inner lining of the heart (endocarditis), abnormal blood clots, or sudden death.</p><p>X-linked cardiac valvular dysplasia can be diagnosed anytime from birth (in some cases prenatally) to late adulthood but is typically diagnosed in early to mid-adulthood because valve malformation is often a slow process. This condition affects males more often and more severely than females.</p>
+inheritance-pattern/code: x
+inheritance-pattern/memo: X-linked
+related-gene/gene-symbol: FLNA
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FLNA
+synonym(1): congenital valvular heart disease
+synonym(2): CVD1
+synonym(3): filamin-A-associated myxomatous mitral valve disease
+synonym(4): filamin-A-related myxomatous mitral valve dystrophy
+synonym(5): X-linked myxomatous valvular dystrophy
+synonym(6): XMVD
+db-key(1)/db: GTR
+db-key(1)/key: C0262436
+db-key(2)/db: MeSH
+db-key(2)/key: D016127
+db-key(3)/db: OMIM
+db-key(3)/key: 314400
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 5203004
+reviewed: 2018-03
+published: 2018-04-17

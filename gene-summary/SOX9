@@ -1,0 +1,25 @@
+gene-symbol: SOX9
+name: SRY-box 9
+ghr-page: https://ghr.nlm.nih.gov/gene/SOX9
+text/text-role: function
+text/html: <p>The <i>SOX9</i> gene provides instructions for making a protein that plays a critical role during embryonic development. The SOX9 protein is especially important for development of the skeleton and plays a key role in the determination of sex before birth. The SOX9 protein attaches (binds) to specific regions of DNA and regulates the activity of other genes, particularly those that control skeletal development and sex determination. On the basis of this action, the SOX9 protein is called a transcription factor.</p>
+related-health-condition(1)/name: 46,XX testicular disorder of sex development
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/46xx-testicular-disorder-of-sex-development
+related-health-condition(2)/name: campomelic dysplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/campomelic-dysplasia
+related-health-condition(3)/name: isolated Pierre Robin sequence
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/isolated-pierre-robin-sequence
+related-health-condition(4)/name: Swyer syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/swyer-syndrome
+synonym(1): SOX9_HUMAN
+synonym(2): SRA1
+synonym(3): SRY (sex determining region Y)-box 9
+synonym(4): SRY (sex-determining region Y)-box 9 protein
+synonym(5): SRY box 9
+synonym(6): transcription factor SOX9
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6662
+db-key(2)/db: OMIM
+db-key(2)/key: 608160
+reviewed: 2016-12
+published: 2018-04-17

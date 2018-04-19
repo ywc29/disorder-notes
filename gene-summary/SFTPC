@@ -1,0 +1,27 @@
+gene-symbol: SFTPC
+name: surfactant protein C
+ghr-page: https://ghr.nlm.nih.gov/gene/SFTPC
+text/text-role: function
+text/html: <p>The <i>SFTPC</i> gene provides instructions for making a protein called surfactant protein-C (SP-C). This protein is one of four proteins (each produced from a different gene) in surfactant, a mixture of certain fats (called phospholipids) and proteins that lines the lung tissue and makes breathing easy. Without normal surfactant, the tissue surrounding the air sacs in the lungs (the alveoli) sticks together after exhalation (because of a force called surface tension), causing the alveoli to collapse. As a result, filling the lungs with air on each breath becomes very difficult, and the delivery of oxygen to the body is impaired. Surfactant lowers surface tension, easing breathing and avoiding lung collapse. The SP-C protein helps spread the surfactant across the surface of the lung tissue, aiding in the surface tension-lowering property of surfactant.</p><p>The phospholipids and proteins that make up surfactant are packaged in cellular structures known as lamellar bodies, which are found in specialized lung cells. The surfactant proteins must go through several processing steps to mature and become functional; some of these steps occur in lamellar bodies.</p>
+related-health-condition(1)/name: idiopathic pulmonary fibrosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/idiopathic-pulmonary-fibrosis
+related-health-condition(2)/name: surfactant dysfunction
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/surfactant-dysfunction
+synonym(1): BRICD6
+synonym(2): PSP-C
+synonym(3): PSPC_HUMAN
+synonym(4): pulmonary surfactant apoprotein-2 SP-C
+synonym(5): pulmonary surfactant-associated protein C
+synonym(6): pulmonary surfactant-associated proteolipid SPL(Val)
+synonym(7): SFTP2
+synonym(8): SMDP2
+synonym(9): SP-C
+synonym(10): SP5
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6440
+db-key(2)/db: OMIM
+db-key(2)/key: 178500
+db-key(3)/db: OMIM
+db-key(3)/key: 178620
+reviewed: 2012-07
+published: 2018-04-17

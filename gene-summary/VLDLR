@@ -1,0 +1,19 @@
+gene-symbol: VLDLR
+name: very low density lipoprotein receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/VLDLR
+text/text-role: function
+text/html: <p>The <i>VLDLR</i> gene provides instructions for making a protein called a very low density lipoprotein (VLDL) receptor. This protein is active in many different organs and tissues, including the heart, muscles used for movement (skeletal muscles), fatty (adipose) tissue, and the kidneys. The VLDL receptor appears to play a particularly important role in the developing brain.</p><p>The VLDL receptor works together with a protein called reelin. Reelin fits into the VLDL receptor like a key in a lock, which triggers a series of chemical reactions within the cell. During early brain development, the reelin signaling pathway helps to guide the movement of immature nerve cells (neuroblasts) to their appropriate locations in the brain.</p>
+related-health-condition/name: VLDLR-associated cerebellar hypoplasia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/vldlr-associated-cerebellar-hypoplasia
+synonym(1): CARMQ1
+synonym(2): CHRMQ1
+synonym(3): FLJ35024
+synonym(4): VLDL receptor
+synonym(5): VLDLR_HUMAN
+synonym(6): VLDLRCH
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7436
+db-key(2)/db: OMIM
+db-key(2)/key: 192977
+reviewed: 2009-10
+published: 2018-04-17

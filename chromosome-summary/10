@@ -1,0 +1,12 @@
+name: 10
+ghr-page: https://ghr.nlm.nih.gov/chromosome/10
+text/text-role: description
+text/html: <p>Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 10, one copy inherited from each parent, form one of the pairs. Chromosome 10 spans more than 135 million DNA building blocks (base pairs) and represents between 4 and 4.5 percent of the total DNA in cells.</p><p>Identifying genes on each chromosome is an active area of genetic research.  Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 10 likely contains 700 to 800 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.</p>
+db-key(1)/db: OMIM
+db-key(1)/key: 137800
+db-key(2)/db: OMIM
+db-key(2)/key: 602409
+db-key(3)/db: OMIM
+db-key(3)/key: 609625
+reviewed: 2007-08
+published: 2018-04-17

@@ -1,0 +1,29 @@
+name: Congenital contractural arachnodactyly
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-contractural-arachnodactyly
+text/text-role: description
+text/html: <p>Congenital contractural arachnodactyly is a disorder that affects many parts of the body.  People with this condition typically are tall with long limbs (dolichostenomelia) and long, slender fingers and toes (arachnodactyly). They often have permanently bent joints (contractures) that can restrict movement in their hips, knees, ankles, or elbows. Additional features of congenital contractural arachnodactyly include underdeveloped muscles, a rounded upper back that also curves to the side (kyphoscoliosis), permanently bent fingers and toes (camptodactyly), ears that look "crumpled," and a protruding chest (pectus carinatum). Rarely, people with congenital contractural arachnodactyly have heart defects such as an enlargement of the blood vessel that distributes blood from the heart to the rest of the body (aortic root dilatation) or a leak in one of the valves that control blood flow through the heart (mitral valve prolapse). The life expectancy of individuals with congenital contractural arachnodactyly varies depending on the severity of symptoms but is typically not shortened.</p><p>A rare, severe form of congenital contractural arachnodactyly involves both heart and digestive system abnormalities in addition to the skeletal features described above; individuals with this severe form of the condition usually do not live past infancy.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FBN2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FBN2
+synonym(1): arthrogyroposis, distal, type 9
+synonym(2): Beals-Hecht syndrome
+synonym(3): Beals syndrome
+synonym(4): CCA
+synonym(5): contractural arachnodactyly, congenital
+synonym(6): DA9
+synonym(7): distal arthrogyropsis type 9
+db-key(1)/db: GTR
+db-key(1)/key: C0220668
+db-key(2)/db: GeneReviews
+db-key(2)/key: cca
+db-key(3)/db: MeSH
+db-key(3)/key: D001176
+db-key(4)/db: OMIM
+db-key(4)/key: 121050
+db-key(5)/db: Orphanet
+db-key(5)/key: 115
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 205821003
+reviewed: 2013-07
+published: 2018-04-17

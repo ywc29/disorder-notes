@@ -1,0 +1,23 @@
+gene-symbol: OCRL
+name: OCRL, inositol polyphosphate-5-phosphatase
+ghr-page: https://ghr.nlm.nih.gov/gene/OCRL
+text/text-role: function
+text/html: <p>The <i>OCRL</i> gene provides instructions for making an enzyme that is present in cells throughout the body. This enzyme is part of a larger group of enzymes that modify fat (lipid) molecules known as membrane phospholipids. These molecules form the basic structure of cell membranes. Specifically, the OCRL enzyme regulates the levels of a membrane phospholipid called phosphatidylinositol 4,5-bisphosphate.</p><p>The OCRL enzyme is found in several areas within cells. It is concentrated in a complex network of membranes known as the trans-Golgi network, which sorts proteins and other molecules and sends them to their intended destinations inside or outside the cell. The OCRL enzyme is also found on endosomes, specialized compartments that are formed at the cell surface to carry proteins and other molecules to their destinations within the cell.</p><p>By controlling the level of phosphatidylinositol 4,5-bisphosphate, the OCRL enzyme helps regulate the transport of certain substances to and from the cell membrane and chemical signaling between cells. The enzyme may also be involved in the regulation of the actin cytoskeleton, which is a network of fibers that make up the cell's structural framework. The actin cytoskeleton has several critical functions, including determining cell shape and allowing cells to move.</p><p>Recent research suggests that the OCRL enzyme is found in cell structures called primary cilia, which are microscopic, finger-like projections that stick out from the surface of cells and are involved in signaling pathways that transmit information between cells. Cilia are important for the structure and function of many types of cells, including cells in the brain, kidneys, and liver. Cilia are also necessary for the perception of sensory input (such as sight, hearing, and smell). Studies suggest that the OCRL enzyme may play a role in the formation, function, and maintenance of cilia.</p>
+related-health-condition(1)/name: Dent disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/dent-disease
+related-health-condition(2)/name: Lowe syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/lowe-syndrome
+synonym(1): INPP5F
+synonym(2): LOCR
+synonym(3): Lowe oculocerebrorenal syndrome protein
+synonym(4): NPHL2
+synonym(5): OCRL1
+synonym(6): OCRL_HUMAN
+synonym(7): oculocerebrorenal syndrome of Lowe
+synonym(8): phosphatidylinositol polyphosphate 5-phosphatase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4952
+db-key(2)/db: OMIM
+db-key(2)/key: 300535
+reviewed: 2013-11
+published: 2018-04-17

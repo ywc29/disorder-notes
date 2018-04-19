@@ -1,0 +1,17 @@
+gene-symbol: MOCOS
+name: molybdenum cofactor sulfurase
+ghr-page: https://ghr.nlm.nih.gov/gene/MOCOS
+text/text-role: function
+text/html: <p>The <i>MOCOS</i> gene provides instructions for making an enzyme called molybdenum cofactor sulfurase. This enzyme is necessary for the function of two other enzymes, xanthine dehydrogenase and aldehyde oxidase. Xanthine dehydrogenase is involved in the normal breakdown of purines, which are building blocks of DNA and its chemical cousin, RNA. Specifically, it carries out the final two steps in the process: the conversion of a molecule called hypoxanthine to another molecule called xanthine, and the conversion of xanthine to uric acid, a waste product that is normally excreted in urine and feces. Less is known about the function of aldehyde oxidase, although it appears to play a role in the breakdown (metabolism) of many different compounds.</p><p>Molybdenum cofactor sulfurase carries out a chemical reaction that adds sulfur to a molecule called the molybdenum cofactor. This molecule is required for xanthine dehydrogenase and aldehyde oxidase to be turned on (activated) and carry out their functions.</p>
+related-health-condition/name: hereditary xanthinuria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-xanthinuria
+synonym(1): FLJ20733
+synonym(2): HMCS
+synonym(3): MCS
+synonym(4): MOS
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 55034
+db-key(2)/db: OMIM
+db-key(2)/key: 613274
+reviewed: 2015-12
+published: 2018-04-17

@@ -1,0 +1,8 @@
+gene-symbol: FRK
+name: fyn related Src family tyrosine kinase
+ghr-page: https://ghr.nlm.nih.gov/gene/FRK
+related-health-condition/name: age-related macular degeneration
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
+db-key/db: NCBI Gene
+db-key/key: 2444
+published: 2018-04-17

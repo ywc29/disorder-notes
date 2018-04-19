@@ -1,0 +1,22 @@
+gene-symbol: KIF7
+name: kinesin family member 7
+ghr-page: https://ghr.nlm.nih.gov/gene/KIF7
+text/text-role: function
+text/html: <p>The <i>KIF7</i> gene provides instructions for making a protein that is associated with structures called primary cilia. These microscopic, finger-like projections stick out from the surface of cells and are involved in signaling pathways that transmit information into cells. Studies suggest that the KIF7 protein helps to maintain the proper length and stability of cilia.</p><p>Through its association with primary cilia, the KIF7 protein helps regulate a signaling pathway known as Sonic Hedgehog. This pathway is essential for early development. It plays roles in cell growth, cell specialization, and the normal shaping (patterning) of many parts of the body, including the brain and limbs.</p>
+related-health-condition(1)/name: acrocallosal syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/acrocallosal-syndrome
+related-health-condition(2)/name: Joubert syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/joubert-syndrome
+synonym(1): ACLS
+synonym(2): AGBK
+synonym(3): EQYK340
+synonym(4): HLS2
+synonym(5): JBTS12
+synonym(6): kinesin-like protein KIF7
+synonym(7): UNQ340
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 374654
+db-key(2)/db: OMIM
+db-key(2)/key: 611254
+reviewed: 2017-01
+published: 2018-04-17

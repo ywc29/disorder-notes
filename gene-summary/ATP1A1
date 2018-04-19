@@ -1,0 +1,22 @@
+gene-symbol: ATP1A1
+name: ATPase Na+/K+ transporting subunit alpha 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ATP1A1
+text/text-role: function
+text/html: <p>The <i>ATP1A1</i> gene provides instructions for making one part (the alpha-1 subunit) of a protein pump known as a Na<sup>+</sup>/K<sup>+</sup> ATPase. This protein uses energy from a molecule called adenosine triphosphate (ATP) to transport charged atoms (ions) into and out of cells. Specifically, the protein pumps sodium ions (Na<sup>+</sup>) out of cells and potassium ions (K<sup>+</sup>) into cells.</p><p>Na<sup>+</sup>/K<sup>+</sup> ATPases that include the alpha-1 subunit are found in many types of cells, although the pumps appear to play a particularly important role in the adrenal glands, which are small hormone-producing glands located on top of each kidney. In the adrenal glands, the flow of sodium and potassium ions helps regulate the production of the hormone aldosterone, which controls blood pressure by maintaining proper salt and fluid levels in the body.</p>
+related-health-condition/name: aldosterone-producing adenoma
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/aldosterone-producing-adenoma
+synonym(1): ATPase, Na+/K+ transporting, alpha 1 polypeptide
+synonym(2): Na(+)/K(+) ATPase alpha-1 subunit
+synonym(3): Na+/K+ ATPase 1
+synonym(4): Na, K-ATPase, alpha-A catalytic polypeptide
+synonym(5): Na,K-ATPase alpha-1 subunit
+synonym(6): Na,K-ATPase catalytic subunit alpha-A protein
+synonym(7): sodium-potassium ATPase catalytic subunit alpha-1
+synonym(8): sodium-potassium-ATPase, alpha 1 polypeptide
+synonym(9): sodium pump subunit alpha-1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 476
+db-key(2)/db: OMIM
+db-key(2)/key: 182310
+reviewed: 2017-08
+published: 2018-04-17

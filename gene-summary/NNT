@@ -1,0 +1,22 @@
+gene-symbol: NNT
+name: nicotinamide nucleotide transhydrogenase
+ghr-page: https://ghr.nlm.nih.gov/gene/NNT
+text/text-role: function
+text/html: <p>The <i>NNT</i> gene provides instructions for making an enzyme called nicotinamide nucleotide transhydrogenase. This enzyme is found embedded in the inner membrane of structures called mitochondria, which are the energy-producing centers of cells. This enzyme helps produce a substance called NADPH, which is involved in removing potentially toxic molecules called reactive oxygen species that can damage DNA, proteins, and cell membranes. Nicotinamide nucleotide transhydrogenase is found throughout the body, but it is particularly abundant in the hormone-producing adrenal and thyroid glands, heart, kidneys, and fatty tissue.</p>
+related-health-condition/name: familial glucocorticoid deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-glucocorticoid-deficiency
+synonym(1): energy-linked transhydrogenase
+synonym(2): GCCD4
+synonym(3): NAD(P) transhydrogenase
+synonym(4): NAD(P) transhydrogenase, mitochondrial
+synonym(5): NADP transhydrogenase
+synonym(6): NADPH transferase
+synonym(7): nicotinamide adenine dinucleotide phosphate + transhydrogenase
+synonym(8): NNTM_HUMAN
+synonym(9): pyridine nucleotide transhydrogenase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23530
+db-key(2)/db: OMIM
+db-key(2)/key: 607878
+reviewed: 2015-02
+published: 2018-04-17

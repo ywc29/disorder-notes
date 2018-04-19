@@ -1,0 +1,17 @@
+gene-symbol: ALMS1
+name: ALMS1, centrosome and basal body associated protein
+ghr-page: https://ghr.nlm.nih.gov/gene/ALMS1
+text/text-role: function
+text/html: <p>The <i>ALMS1</i> gene provides instructions for making a protein whose function is unknown. Researchers believe that the protein may play a role in hearing, vision, regulation of body weight, and functions of the heart, kidney, lungs, and liver. It may also affect how the pancreas regulates insulin, a hormone that helps control blood sugar levels.</p><p>The ALMS1 protein is present in most of the body's tissues, usually at low levels. Within cells, this protein is located in structures called centrosomes. Centrosomes play a role in cell division and the assembly of microtubules, which are proteins that transport materials in cells and help the cell maintain its shape. The ALMS1 protein is also found at the base of cilia, which are finger-like projections that stick out from the surface of cells.  Almost all cells have cilia at some stage of their life cycle.  Cilia are involved in cell movement and many different chemical signaling pathways. Based on its location within cells, researchers suggest that the ALMS1 protein might be involved in the organization of microtubules, the transport of various materials, and the normal function of cilia.</p>
+related-health-condition/name: Alström syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/alstrom-syndrome
+synonym(1): ALMS1_HUMAN
+synonym(2): Alstrom syndrome 1
+synonym(3): Alstrom syndrome protein 1
+synonym(4): KIAA0328
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7840
+db-key(2)/db: OMIM
+db-key(2)/key: 606844
+reviewed: 2008-08
+published: 2018-04-17

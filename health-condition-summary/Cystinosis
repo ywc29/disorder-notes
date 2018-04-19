@@ -1,0 +1,33 @@
+name: Cystinosis
+ghr-page: https://ghr.nlm.nih.gov/condition/cystinosis
+text/text-role: description
+text/html: <p>Cystinosis is a condition characterized by accumulation of the amino acid cystine (a building block of proteins) within cells. Excess cystine damages cells and often forms crystals that can build up and cause problems in many organs and tissues. The kidneys and eyes are especially vulnerable to damage; the muscles, thyroid, pancreas, and testes may also be affected.</p><p>There are three distinct types of cystinosis. In order of decreasing severity, they are nephropathic cystinosis, intermediate cystinosis, and non-nephropathic or ocular cystinosis.</p><p>Nephropathic cystinosis begins in infancy, causing poor growth and a particular type of kidney damage (renal Fanconi syndrome) in which certain molecules that should be reabsorbed into the bloodstream are instead eliminated in the urine. The kidney problems lead to the loss of important minerals, salts, fluids, and many other nutrients. The loss of nutrients impairs growth and may result in soft, bowed bones (hypophosphatemic rickets), especially in the legs. The nutrient imbalances in the body lead to increased urination, thirst, dehydration, and abnormally acidic blood (acidosis). By about the age of 2, cystine crystals may be present in the clear covering of the eye (cornea). The buildup of these crystals in the eye causes pain and an increased sensitivity to light (photophobia).  Untreated children will experience complete kidney failure by about the age of 10. Other signs and symptoms that may occur in untreated people, especially after adolescence, include muscle deterioration, blindness, inability to swallow, diabetes, thyroid and nervous system problems, and an inability to father children (infertility) in affected men.</p><p>The signs and symptoms of intermediate cystinosis are the same as nephropathic cystinosis, but they occur at a later age.  Intermediate cystinosis typically becomes apparent in affected individuals in adolescence.  Malfunctioning kidneys and corneal crystals are the main initial features of this disorder. If intermediate cystinosis is left untreated, complete kidney failure will occur, but usually not until the late teens to mid-twenties.</p><p>People with non-nephropathic or ocular cystinosis typically experience photophobia due to cystine crystals in the cornea, but usually do not develop kidney malfunction or most of the other signs and symptoms of cystinosis. Due to the absence of severe symptoms, the age at which this form of cystinosis is diagnosed varies widely.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CTNS
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CTNS
+synonym: cystine storage disease
+db-key(1)/db: GTR
+db-key(1)/key: CN035091
+db-key(2)/db: GeneReviews
+db-key(2)/key: ctns
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E72.04
+db-key(4)/db: MeSH
+db-key(4)/key: D003554
+db-key(5)/db: OMIM
+db-key(5)/key: 219750
+db-key(6)/db: OMIM
+db-key(6)/key: 219800
+db-key(7)/db: OMIM
+db-key(7)/key: 219900
+db-key(8)/db: Orphanet
+db-key(8)/key: 213
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 190681003
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 22830006
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 236466005
+reviewed: 2013-05
+published: 2018-04-17

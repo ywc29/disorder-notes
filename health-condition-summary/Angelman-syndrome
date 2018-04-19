@@ -1,0 +1,27 @@
+name: Angelman syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/angelman-syndrome
+text/text-role: description
+text/html: <p>Angelman syndrome is a complex genetic disorder that primarily affects the nervous system. Characteristic features of this condition include delayed development, intellectual disability, severe speech impairment, and problems with movement and balance (ataxia). Most affected children also have recurrent seizures (epilepsy) and a small head size (microcephaly). Delayed development becomes noticeable by the age of 6 to 12 months, and other common signs and symptoms usually appear in early childhood.</p><p>Children with Angelman syndrome typically have a happy, excitable demeanor with frequent smiling, laughter, and hand-flapping movements. Hyperactivity, a short attention span, and a fascination with water are common. Most affected children also have difficulty sleeping and need less sleep than usual.</p><p>With age, people with Angelman syndrome become less excitable, and the sleeping problems tend to improve. However, affected individuals continue to have intellectual disability, severe speech impairment, and seizures throughout their lives. Adults with Angelman syndrome have distinctive facial features that may be described as "coarse." Other common features include unusually fair skin with light-colored hair and an abnormal side-to-side curvature of the spine (scoliosis). The life expectancy of people with this condition appears to be nearly normal.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: OCA2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/OCA2
+related-gene(2)/gene-symbol: UBE3A
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/UBE3A
+related-chromosome/name: 15
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/15
+synonym: AS
+db-key(1)/db: GTR
+db-key(1)/key: C0162635
+db-key(2)/db: GeneReviews
+db-key(2)/key: angelman
+db-key(3)/db: MeSH
+db-key(3)/key: D017204
+db-key(4)/db: OMIM
+db-key(4)/key: 105830
+db-key(5)/db: Orphanet
+db-key(5)/key: 72
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 76880004
+reviewed: 2015-05
+published: 2018-04-17

@@ -1,0 +1,37 @@
+gene-symbol: CHEK2
+name: checkpoint kinase 2
+ghr-page: https://ghr.nlm.nih.gov/gene/CHEK2
+text/text-role: function
+text/html: <p>The <i>CHEK2</i> gene provides instructions for making a protein called checkpoint kinase 2 (CHK2).  This protein acts as a tumor suppressor, which means that it regulates cell division by keeping cells from growing and dividing too rapidly or in an uncontrolled way.</p><p>The CHK2 protein is activated when DNA becomes damaged or when DNA strands break. DNA can be damaged by agents such as toxic chemicals, radiation, or ultraviolet (UV) rays from sunlight, and breaks in DNA strands also occur naturally when chromosomes exchange genetic material.</p><p>In response to DNA damage, the CHK2 protein interacts with several other proteins, including tumor protein 53 (which is produced from the <i>TP53</i> gene).  These proteins halt cell division and determine whether a cell will repair the damage or self-destruct in a controlled manner (undergo apoptosis). This process keeps cells with mutated or damaged DNA from dividing, which helps prevent the development of tumors.</p>
+related-health-condition(1)/name: breast cancer
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
+related-health-condition(2)/name: Li-Fraumeni syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/li-fraumeni-syndrome
+related-health-condition(3)/name: ovarian cancer
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/ovarian-cancer
+related-health-condition(4)/name: prostate cancer
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+synonym(1): CDS1
+synonym(2): Cds1 kinase
+synonym(3): checkpoint-like protein CHK2
+synonym(4): CHK2
+synonym(5): CHK2 checkpoint homolog (S. pombe)
+synonym(6): Chk2 protein kinase
+synonym(7): CHK2_HUMAN
+synonym(8): hCds1 protein
+synonym(9): hCHK2
+synonym(10): HuCds1
+synonym(11): RAD53
+synonym(12): serine/threonine-protein kinase CHK2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 11200
+db-key(2)/db: OMIM
+db-key(2)/key: 114500
+db-key(3)/db: OMIM
+db-key(3)/key: 176807
+db-key(4)/db: OMIM
+db-key(4)/key: 259500
+db-key(5)/db: OMIM
+db-key(5)/key: 604373
+reviewed: 2007-08
+published: 2018-04-17

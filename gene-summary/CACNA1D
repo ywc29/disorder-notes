@@ -1,0 +1,22 @@
+gene-symbol: CACNA1D
+name: calcium voltage-gated channel subunit alpha1 D
+ghr-page: https://ghr.nlm.nih.gov/gene/CACNA1D
+text/text-role: function
+text/html: <p>The <i>CACNA1D</i> gene belongs to a family of genes that provide instructions for making calcium channels. These channels transport positively charged calcium atoms (calcium ions) across cell membranes. The <i>CACNA1D</i> gene provides instructions for making one part (the alpha-1 subunit) of a calcium channel called CaV1.3. This subunit forms the hole (pore) through which calcium ions can flow. CaV1.3 channels are found in many types of cells, although they play a particularly important role in the adrenal glands, which are small hormone-producing glands located on top of each kidney. In the adrenal glands, the flow of calcium through CaV1.3 channels appears to help regulate the production of the hormone aldosterone, which helps control blood pressure by maintaining proper salt and fluid levels in the body. CaV1.3 channels are also found in the brain, heart, and inner ear, although their roles in these tissues are not well understood.</p>
+related-health-condition/name: aldosterone-producing adenoma
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/aldosterone-producing-adenoma
+synonym(1): CACH3
+synonym(2): CACN4
+synonym(3): CACNL1A2
+synonym(4): calcium channel, neuroendocrine/brain-type, alpha 1 subunit
+synonym(5): calcium channel, voltage-dependent, L type, alpha 1D subunit
+synonym(6): Cav1.3
+synonym(7): CCHL1A2
+synonym(8): voltage-gated calcium channel alpha 1 subunit
+synonym(9): voltage-gated calcium channel alpha subunit Cav1.3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 776
+db-key(2)/db: OMIM
+db-key(2)/key: 114206
+reviewed: 2017-08
+published: 2018-04-17

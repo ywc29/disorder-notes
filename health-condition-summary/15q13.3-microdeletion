@@ -1,0 +1,24 @@
+name: 15q13.3 microdeletion
+ghr-page: https://ghr.nlm.nih.gov/condition/15q133-microdeletion
+text/text-role: description
+text/html: <p>15q13.3 microdeletion is a chromosomal change in which a small piece of chromosome 15 is deleted in each cell. The deletion occurs on the long (q) arm of the chromosome at a position designated q13.3. This chromosomal change increases the risk of intellectual disability, seizures, behavioral problems, and psychiatric disorders. However, some people with a 15q13.3 microdeletion do not appear to have any associated features.</p><p>About half of all people with a 15q13.3 microdeletion have learning difficulties or intellectual disability, which is usually mild or moderate. Many of these individuals have delayed speech and language skills. 15q13.3 microdeletion also appears to be a major risk factor for recurrent seizures (epilepsy); about one-third of people with this chromosomal change have epilepsy.</p><p>15q13.3 microdeletion has also been associated with behavioral problems, including a short attention span, aggression, impulsive behavior, and hyperactivity. Some people with a 15q13.3 microdeletion have been diagnosed with developmental disorders that affect communication and social interaction (autism spectrum disorders). This chromosomal change may also be associated with an increased risk of psychiatric disorders, particularly schizophrenia. Other signs and symptoms of 15q13.3 microdeletion can include heart defects, minor abnormalities involving the hands and arms, and subtle differences in facial features.</p><p>Some people with a 15q13.3 microdeletion do not have any of the intellectual, behavioral, or physical features described above. In these individuals, the microdeletion is often detected when they undergo genetic testing because they have an affected relative. It is unknown why a 15q13.3 microdeletion causes cognitive and behavioral problems in some individuals but few or no health problems in others.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-chromosome/name: 15
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/15
+synonym(1): 15q13.3 microdeletion syndrome
+synonym(2): chromosome 15q13.3 deletion syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C2677613
+db-key(2)/db: GeneReviews
+db-key(2)/key: mdel15q13_3
+db-key(3)/db: MeSH
+db-key(3)/key: D025063
+db-key(4)/db: OMIM
+db-key(4)/key: 612001
+db-key(5)/db: Orphanet
+db-key(5)/key: 199318
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 699254009
+reviewed: 2016-08
+published: 2018-04-17

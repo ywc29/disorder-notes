@@ -1,0 +1,26 @@
+name: Aldosterone-producing adenoma
+ghr-page: https://ghr.nlm.nih.gov/condition/aldosterone-producing-adenoma
+text/text-role: description
+text/html: <p>An aldosterone-producing adenoma is a noncancerous (benign) tumor that develops in an adrenal gland, which is a small hormone-producing gland located on top of each kidney. In most cases, individuals develop a single tumor in one of the adrenal glands. The adrenal tumor produces too much of the hormone aldosterone, which is a condition known as primary hyperaldosteronism. Aldosterone helps regulate the body's fluid levels and blood pressure by controlling the amount of salt retained by the kidneys. Excess aldosterone causes the kidneys to retain more salt than normal, which increases the body's fluid levels and blood pressure. People with an aldosterone-producing adenoma may develop severe high blood pressure (hypertension), and they have an increased risk of heart attack, stroke, or an irregular heart beat (atrial fibrillation).</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: ATP1A1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ATP1A1
+related-gene(2)/gene-symbol: ATP2B3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ATP2B3
+related-gene(3)/gene-symbol: CACNA1D
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CACNA1D
+related-gene(4)/gene-symbol: CTNNB1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/CTNNB1
+related-gene(5)/gene-symbol: KCNJ5
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNJ5
+synonym(1): aldosterone-secreting adenoma
+synonym(2): aldosteronoma
+synonym(3): Conn adenoma
+synonym(4): primary aldosteronism due to Conn adenoma
+db-key(1)/db: MeSH
+db-key(1)/key: D000236
+db-key(2)/db: Orphanet
+db-key(2)/key: 85142
+reviewed: 2017-08
+published: 2018-04-17

@@ -1,0 +1,39 @@
+name: Isolated Duane retraction syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/isolated-duane-retraction-syndrome
+text/text-role: description
+text/html: <p>Isolated Duane retraction syndrome is a disorder of eye movement.  This condition prevents outward movement of the eye (toward the ear), and in some cases may also limit inward eye movement (toward the nose). As the eye moves inward, the eyelids partially close and the eyeball pulls back (retracts) into its socket. Most commonly, only one eye is affected. About 10 percent of people with isolated Duane retraction syndrome develop amblyopia ("lazy eye"), a condition that causes vision loss in the affected eye.</p><p>About 70 percent of all cases of Duane retraction syndrome are isolated, which means they occur without other signs and symptoms. Duane retraction syndrome can also occur as part of syndromes that affect other areas of the body. For example, Duane-radial ray syndrome is characterized by this eye disorder in conjunction with abnormalities of bones in the arms and hands.</p><p>Researchers have identified three forms of isolated Duane retraction syndrome, designated types I, II, and III. The types vary in which eye movements are most severely restricted (inward, outward, or both). All three types are characterized by retraction of the eyeball as the eye moves inward.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: CHN1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CHN1
+synonym(1): co-contractive retraction syndrome
+synonym(2): Duane anomaly, isolated
+synonym(3): Duane retraction syndrome
+synonym(4): Duane syndrome
+synonym(5): Duane's syndrome
+synonym(6): ocular retraction syndrome
+synonym(7): Stilling-Turk-Duane syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0013261
+db-key(2)/db: GTR
+db-key(2)/key: C0751083
+db-key(3)/db: GTR
+db-key(3)/key: C0994516
+db-key(4)/db: GeneReviews
+db-key(4)/key: duane
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: H50.81
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: H50.811
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: H50.812
+db-key(8)/db: MeSH
+db-key(8)/key: D004370
+db-key(9)/db: Orphanet
+db-key(9)/key: 233
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 60318001
+reviewed: 2009-03
+published: 2018-04-17

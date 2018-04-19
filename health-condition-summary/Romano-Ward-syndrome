@@ -1,0 +1,55 @@
+name: Romano-Ward syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/romano-ward-syndrome
+text/text-role: description
+text/html: <p>Romano-Ward syndrome is a condition that causes a disruption of the heart's normal rhythm (arrhythmia). This disorder is a form of long QT syndrome, which is a heart condition that causes the heart (cardiac) muscle to take longer than usual to recharge between beats. The term "long QT" refers to a specific pattern of heart activity that is detected with an electrocardiogram (ECG or EKG), which is a test used to measure the electrical activity of the heart. In people with long QT syndrome, the part of the heartbeat known as the QT interval is abnormally long. Abnormalities in the time it takes to recharge the heart lead to abnormal heart rhythms.</p><p>The arrhythmia associated with Romano-Ward syndrome can lead to fainting (syncope) or cardiac arrest and sudden death. However, some people with Romano-Ward syndrome never experience any health problems associated with the condition.</p><p>Fifteen types of long QT syndrome have been defined based on their genetic cause. Some types of long QT syndrome involve other cardiac abnormalities or problems with additional body systems. Romano-Ward syndrome encompasses those types that involve only a long QT interval without other abnormalities.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: AKAP9
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AKAP9
+related-gene(2)/gene-symbol: CALM1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CALM1
+related-gene(3)/gene-symbol: CALM2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CALM2
+related-gene(4)/gene-symbol: CAV3
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/CAV3
+related-gene(5)/gene-symbol: KCNH2
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNH2
+related-gene(6)/gene-symbol: KCNJ5
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNJ5
+related-gene(7)/gene-symbol: KCNQ1
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNQ1
+related-gene(8)/gene-symbol: SCN4B
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN4B
+related-gene(9)/gene-symbol: SCN5A
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN5A
+related-gene(10)/gene-symbol: SNTA1
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/SNTA1
+synonym(1): RWS
+synonym(2): Ward-Romano Syndrome
+synonym(3): WRS
+db-key(1)/db: GTR
+db-key(1)/key: C0035828
+db-key(2)/db: GTR
+db-key(2)/key: C1859062
+db-key(3)/db: GTR
+db-key(3)/key: C3150943
+db-key(4)/db: GTR
+db-key(4)/key: CN119492
+db-key(5)/db: GeneReviews
+db-key(5)/key: rws
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: I45.81
+db-key(7)/db: MeSH
+db-key(7)/key: D029597
+db-key(8)/db: OMIM
+db-key(8)/key: 192500
+db-key(9)/db: OMIM
+db-key(9)/key: 603830
+db-key(10)/db: OMIM
+db-key(10)/key: 613688
+db-key(11)/db: Orphanet
+db-key(11)/key: 768
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 20852007
+reviewed: 2017-05
+published: 2018-04-17

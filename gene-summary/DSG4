@@ -1,0 +1,22 @@
+gene-symbol: DSG4
+name: desmoglein 4
+ghr-page: https://ghr.nlm.nih.gov/gene/DSG4
+text/text-role: function
+text/html: <p>The <i>DSG4</i> gene provides instructions for making a protein called desmoglein 4 (DSG4). This protein is found in specialized structures called desmosomes that are located in the membrane surrounding certain cells. Desmosomes help attach cells to one another and play a role in communication between cells. The DSG4 protein is found in cells in certain regions of hair follicles, including the inner compartment of the hair strand (shaft) known as the cortex. Hair growth occurs at the hair follicle when cells divide and the hair shaft is pushed upward and extends beyond the skin.</p><p>Desmosomes provide strength to the hair and are involved in signaling between neighboring cells within the hair shaft. The DSG4 protein may play a role in communicating the signals for cells to mature (differentiate) and form the hair shaft. In addition, the DSG4 protein is found in the upper layers of the skin where it provides strength and communicates signals for the skin cells to mature.</p>
+related-health-condition(1)/name: autosomal recessive hypotrichosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-hypotrichosis
+related-health-condition(2)/name: monilethrix
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/monilethrix
+synonym(1): cadherin family member 13
+synonym(2): CDGF13
+synonym(3): CDH family member 13
+synonym(4): CDHF13
+synonym(5): desmoglein-4
+synonym(6): DSG4_HUMAN
+synonym(7): LAH
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 147409
+db-key(2)/db: OMIM
+db-key(2)/key: 607892
+reviewed: 2013-04
+published: 2018-04-17

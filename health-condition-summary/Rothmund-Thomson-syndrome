@@ -1,0 +1,27 @@
+name: Rothmund-Thomson syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/rothmund-thomson-syndrome
+text/text-role: description
+text/html: <p>Rothmund-Thomson syndrome is a rare condition that affects many parts of the body, especially the skin. People with this condition typically develop redness on the cheeks between ages 3 months and 6 months. Over time the rash spreads to the arms and legs, causing patchy changes in skin coloring, areas of thinning skin (atrophy), and small clusters of blood vessels just under the skin (telangiectases). These skin problems persist for life and are collectively known as poikiloderma.</p><p>Rothmund-Thomson syndrome is also characterized by sparse hair, eyebrows, and eyelashes; slow growth and small stature; abnormalities of the teeth and nails; and gastrointestinal problems in infancy, such as chronic diarrhea and vomiting. Some affected children develop a clouding of the lens of the eye (cataract), which affects vision. Many people with this disorder have skeletal abnormalities including absent or malformed bones, fused bones, and low bone mineral density (osteopenia or osteoporosis). Some of these abnormalities affect the development of bones in the forearms and the thumbs, and are known as radial ray malformations.</p><p>People with Rothmund-Thomson syndrome have an increased risk of developing cancer, particularly a form of bone cancer called osteosarcoma. These bone tumors most often develop during childhood or adolescence. Several types of skin cancer, including basal cell carcinoma and squamous cell carcinoma, are also more common in people with this disorder.</p><p>The varied signs and symptoms of Rothmund-Thomson syndrome overlap with features of other disorders, namely Baller-Gerold syndrome and RAPADILINO syndrome. These syndromes are also characterized by radial ray defects, skeletal abnormalities, and slow growth. All of these conditions can be caused by mutations in the same gene. Based on these similarities, researchers are investigating whether Rothmund-Thomson syndrome, Baller-Gerold syndrome, and RAPADILINO syndrome are separate disorders or part of a single syndrome with overlapping signs and symptoms.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: RECQL4
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/RECQL4
+synonym(1): congenital poikiloderma
+synonym(2): poikiloderma atrophicans and cataract
+synonym(3): poikiloderma congenitale
+synonym(4): poikiloderma congenitale of Rothmund-Thomson
+synonym(5): RTS
+db-key(1)/db: GTR
+db-key(1)/key: C0032339
+db-key(2)/db: GeneReviews
+db-key(2)/key: rts
+db-key(3)/db: MeSH
+db-key(3)/key: D011038
+db-key(4)/db: OMIM
+db-key(4)/key: 268400
+db-key(5)/db: Orphanet
+db-key(5)/key: 2909
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 69093006
+reviewed: 2013-08
+published: 2018-04-17

@@ -1,0 +1,27 @@
+gene-symbol: PIK3R1
+name: phosphoinositide-3-kinase regulatory subunit 1
+ghr-page: https://ghr.nlm.nih.gov/gene/PIK3R1
+text/text-role: function
+text/html: <p>The <i>PIK3R1</i> gene provides instructions for making a part (subunit) of an enzyme called phosphatidylinositol 3-kinase (PI3K). The primary function of the subunit is to regulate the enzyme's activity. Several slightly different versions of this regulatory subunit are produced from the <i>PIK3R1</i> gene; the most abundant of these is called p85α.</p><p>PI3K is a kinase, which means that it adds a cluster of oxygen and phosphorus atoms (a phosphate group) to other proteins through a process called phosphorylation. PI3K phosphorylates certain signaling molecules, which triggers a series of additional reactions that transmit chemical signals within cells. PI3K signaling is important for many cell activities, including cell growth and division, movement (migration) of cells, production of new proteins, transport of materials within cells, and cell survival. Studies suggest that PI3K signaling may be involved in the regulation of several hormones, including insulin, which helps control blood sugar levels. PI3K signaling may also play a role in the maturation of fat cells (adipocytes).</p>
+related-health-condition/name: short stature, hyperextensibility, hernia, ocular depression, Rieger anomaly, and teething delay
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/short-stature-hyperextensibility-hernia-ocular-depression-rieger-anomaly-and-teething-delay
+synonym(1): AGM7
+synonym(2): GRB1
+synonym(3): p85
+synonym(4): p85-ALPHA
+synonym(5): P85A_HUMAN
+synonym(6): phosphatidylinositol 3-kinase 85 kDa regulatory subunit alpha
+synonym(7): phosphatidylinositol 3-kinase-associated p-85 alpha
+synonym(8): phosphatidylinositol 3-kinase regulatory subunit alpha
+synonym(9): phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+synonym(10): phosphoinositide-3-kinase regulatory subunit
+synonym(11): phosphoinositide-3-kinase, regulatory subunit 1 (alpha)
+synonym(12): PI3-kinase subunit p85-alpha
+synonym(13): PI3K regulatory subunit alpha
+synonym(14): ptdIns-3-kinase regulatory subunit alpha
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5295
+db-key(2)/db: OMIM
+db-key(2)/key: 171833
+reviewed: 2013-12
+published: 2018-04-17

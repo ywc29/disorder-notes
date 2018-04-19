@@ -1,0 +1,44 @@
+name: Hypophosphatasia
+ghr-page: https://ghr.nlm.nih.gov/condition/hypophosphatasia
+text/text-role: description
+text/html: <p>Hypophosphatasia is an inherited disorder that affects the development of bones and teeth.  This condition disrupts a process called mineralization, in which minerals such as calcium and phosphorus are deposited in developing bones and teeth.  Mineralization is critical for the formation of bones that are strong and rigid and teeth that can withstand chewing and grinding.</p><p>The signs and symptoms of hypophosphatasia vary widely and can appear anywhere from before birth to adulthood.  The most severe forms of the disorder tend to occur before birth and in early infancy.  Hypophosphatasia weakens and softens the bones, causing skeletal abnormalities similar to another childhood bone disorder called rickets.  Affected infants are born with short limbs, an abnormally shaped chest, and soft skull bones.  Additional complications in infancy include poor feeding and a failure to gain weight, respiratory problems, and high levels of calcium in the blood (hypercalcemia), which can lead to recurrent vomiting and kidney problems.  These complications are life-threatening in some cases.</p><p>The forms of hypophosphatasia that appear in childhood or adulthood are typically less severe than those that appear in infancy.  Early loss of primary (baby) teeth is one of the first signs of the condition in children.  Affected children may have short stature with bowed legs or knock knees, enlarged wrist and ankle joints, and an abnormal skull shape.  Adult forms of hypophosphatasia are characterized by a softening of the bones known as osteomalacia.  In adults, recurrent fractures in the foot and thigh bones can lead to chronic pain.  Affected adults may lose their secondary (adult) teeth prematurely and are at increased risk for joint pain and inflammation.</p><p>The mildest form of this condition, called odontohypophosphatasia, only affects the teeth.  People with this disorder typically experience abnormal tooth development and premature tooth loss, but do not have the skeletal abnormalities seen in other forms of hypophosphatasia.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: ALPL
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ALPL
+synonym(1): Deficiency of alkaline phosphatase
+synonym(2): Phosphoethanolaminuria
+db-key(1)/db: GTR
+db-key(1)/key: C0020630
+db-key(2)/db: GTR
+db-key(2)/key: C0220743
+db-key(3)/db: GTR
+db-key(3)/key: C0268412
+db-key(4)/db: GTR
+db-key(4)/key: C0268413
+db-key(5)/db: GeneReviews
+db-key(5)/key: hops
+db-key(6)/db: MeSH
+db-key(6)/key: D007014
+db-key(7)/db: OMIM
+db-key(7)/key: 146300
+db-key(8)/db: OMIM
+db-key(8)/key: 241500
+db-key(9)/db: OMIM
+db-key(9)/key: 241510
+db-key(10)/db: Orphanet
+db-key(10)/key: 436
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 190859005
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 20756002
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 30174008
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 360792001
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 55236002
+reviewed: 2018-03
+published: 2018-04-17

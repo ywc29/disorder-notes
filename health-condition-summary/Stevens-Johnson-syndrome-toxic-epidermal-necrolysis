@@ -1,0 +1,36 @@
+name: Stevens-Johnson syndrome/toxic epidermal necrolysis
+ghr-page: https://ghr.nlm.nih.gov/condition/stevens-johnson-syndrome-toxic-epidermal-necrolysis
+text/text-role: description
+text/html: <p>Stevens-Johnson syndrome/toxic epidermal necrolysis (SJS/TEN) is a severe skin reaction most often triggered by particular medications. Although Stevens-Johnson syndrome and toxic epidermal necrolysis were once thought to be separate conditions, they are now considered part of a continuum. Stevens-Johnson syndrome represents the less severe end of the disease spectrum, and toxic epidermal necrolysis represents the more severe end.</p><p>SJS/TEN often begins with a fever and flu-like symptoms. Within a few days, the skin begins to blister and peel, forming very painful raw areas called erosions that resemble a severe hot-water burn. The skin erosions usually start on the face and chest before spreading to other parts of the body. In most affected individuals, the condition also damages the mucous membranes, including the lining of the mouth and the airways, which can cause trouble with swallowing and breathing. The painful blistering can also affect the urinary tract and genitals. SJS/TEN often affects the eyes as well, causing irritation and redness of the conjunctiva, which are the mucous membranes that protect the white part of the eye and line the eyelids, and damage to the clear front covering of the eye (the cornea).</p><p>Severe damage to the skin and mucous membranes makes SJS/TEN a life-threatening disease. Because the skin normally acts as a protective barrier, extensive skin damage can lead to a dangerous loss of fluids and allow infections to develop. Serious complications can include pneumonia, overwhelming bacterial infections (sepsis), shock, multiple organ failure, and death. About 10 percent of people with Stevens-Johnson syndrome die from the disease, while the condition is fatal in up to 50 percent of those with toxic epidermal necrolysis.</p><p>Among people who survive, long-term effects of SJS/TEN can include changes in skin coloring (pigmentation), dryness of the skin and mucous membranes (xerosis), excess sweating (hyperhidrosis), hair loss (alopecia), and abnormal growth or loss of the fingernails and toenails. Other long-term problems can include impaired taste, difficulty urinating, and genital abnormalities. A small percentage of affected individuals develop chronic dryness or inflammation of the eyes, which can lead to increased sensitivity to light (photophobia) and vision impairment.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene/gene-symbol: HLA-B
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-B
+synonym(1): drug-induced Stevens Johnson syndrome
+synonym(2): Lyell's syndrome
+synonym(3): mycoplasma-induced Stevens Johnson syndrome
+synonym(4): Stevens-Johnson syndrome
+synonym(5): Stevens-Johnson syndrome toxic epidermal necrolysis spectrum
+synonym(6): toxic epidermal necrolysis
+db-key(1)/db: GTR
+db-key(1)/key: C0014518
+db-key(2)/db: GTR
+db-key(2)/key: C0038325
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: L51.1
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: L51.3
+db-key(5)/db: MeSH
+db-key(5)/key: D013262
+db-key(6)/db: OMIM
+db-key(6)/key: 608579
+db-key(7)/db: Orphanet
+db-key(7)/key: 36426
+db-key(8)/db: Orphanet
+db-key(8)/key: 95455
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 124911000119100
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 73442001
+reviewed: 2015-07
+published: 2018-04-17

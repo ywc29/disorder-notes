@@ -1,0 +1,17 @@
+gene-symbol: CCBE1
+name: collagen and calcium binding EGF domains 1
+ghr-page: https://ghr.nlm.nih.gov/gene/CCBE1
+text/text-role: function
+text/html: <p>The <i>CCBE1</i> gene provides instructions for making a protein that is found in the lattice of proteins and other molecules outside the cell (extracellular matrix). The CCBE1 protein is involved in the formation of the lymphatic system, which consists of a network of vessels that transport lymph fluid and immune cells throughout the body. Specifically, the CCBE1 protein helps guide maturation (differentiation) and movement (migration) of immature cells called lymphangioblasts that will eventually form the lining (epithelium) of lymphatic vessels.</p>
+related-health-condition/name: Hennekam syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hennekam-syndrome
+synonym(1): collagen and calcium-binding EGF domain-containing protein 1
+synonym(2): FLJ30681
+synonym(3): full of fluid protein homolog
+synonym(4): KIAA1983
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 147372
+db-key(2)/db: OMIM
+db-key(2)/key: 612753
+reviewed: 2014-07
+published: 2018-04-17

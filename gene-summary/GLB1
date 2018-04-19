@@ -1,0 +1,26 @@
+gene-symbol: GLB1
+name: galactosidase beta 1
+ghr-page: https://ghr.nlm.nih.gov/gene/GLB1
+text/text-role: function
+text/html: <p>The <i>GLB1</i> gene provides instructions for producing an enzyme called beta-galactosidase (β-galactosidase). This enzyme is located in lysosomes, which are compartments within cells that break down and recycle different types of molecules. Within lysosomes, β-galactosidase helps break down certain molecules, including substances called GM1 ganglioside and keratan sulfate. GM1 ganglioside is important for normal functioning of nerve cells in the brain, and keratan sulfate is particularly abundant in cartilage and the clear covering of the eye (cornea). Keratan sulfate belongs to a group of large sugar molecules called glycosaminoglycans (GAGs) or mucopolysaccharides.</p><p>The <i>GLB1</i> gene also provides instructions for making the elastin-binding protein. On the cell surface, elastin-binding protein interacts with proteins called cathepsin A and neuraminidase 1 to form the elastin receptor complex. This receptor complex plays a role in the formation of elastic fibers, which are a component of the connective tissue that forms the body's supportive framework.</p>
+related-health-condition(1)/name: GM1 gangliosidosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/gm1-gangliosidosis
+related-health-condition(2)/name: mucopolysaccharidosis type IV
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-iv
+synonym(1): acid beta-galactosidase
+synonym(2): beta-galactosidase
+synonym(3): beta-galactosidase isoform a preproprotein
+synonym(4): beta-galactosidase isoform b
+synonym(5): beta-galactosidase isoform c preproprotein
+synonym(6): BGAL_HUMAN
+synonym(7): EBP
+synonym(8): elastin receptor 1, 67kDa
+synonym(9): ELNR1
+synonym(10): galactosidase, beta 1
+synonym(11): lactase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2720
+db-key(2)/db: OMIM
+db-key(2)/key: 611458
+reviewed: 2010-07
+published: 2018-04-17

@@ -1,0 +1,24 @@
+gene-symbol: KRT6B
+name: keratin 6B
+ghr-page: https://ghr.nlm.nih.gov/gene/KRT6B
+text/text-role: function
+text/html: <p>The <i>KRT6B</i> gene provides instructions for making a protein called keratin 6b or K6b. Keratins are a group of tough, fibrous proteins that form the structural framework of certain cells, particularly cells that make up the skin, hair, and nails. Keratin 6b is produced in the nails, the hair follicles, and the skin on the palms of the hands and soles of the feet. It is also found in the skin's sebaceous glands, which produce an oily substance called sebum.</p><p>Keratin 6b partners with a similar protein, keratin 17, to form molecules called keratin intermediate filaments. These filaments assemble into dense networks that provide strength and resilience to the skin, nails, and other tissues. Networks of keratin intermediate filaments protect these tissues from being damaged by friction and other everyday physical stresses. Keratin 6b is also among several keratins involved in wound healing.</p>
+related-health-condition/name: pachyonychia congenita
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pachyonychia-congenita
+synonym(1): CK 6B
+synonym(2): CK6B
+synonym(3): cytokeratin-6B
+synonym(4): cytokeratin 6B
+synonym(5): K2C6B_HUMAN
+synonym(6): K6B
+synonym(7): K6b keratin
+synonym(8): keratin 6B, type II
+synonym(9): keratin, epidermal, type II, K6B
+synonym(10): keratin, type II cytoskeletal 6B
+synonym(11): KRTL1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3854
+db-key(2)/db: OMIM
+db-key(2)/key: 148042
+reviewed: 2015-12
+published: 2018-04-17

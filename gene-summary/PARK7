@@ -1,0 +1,18 @@
+gene-symbol: PARK7
+name: Parkinsonism associated deglycase
+ghr-page: https://ghr.nlm.nih.gov/gene/PARK7
+text/text-role: function
+text/html: <p>The <i>PARK7</i> gene provides instructions for making the DJ-1 protein. This protein is found in many tissues and organs, including the brain. Studies indicate that the DJ-1 protein has several functions, although none are fully understood. One of the protein's functions may be to help protect cells, particularly brain cells, from oxidative stress. Oxidative stress occurs when unstable molecules called free radicals accumulate to levels that can damage or kill cells. Additionally, the DJ-1 protein may serve as a chaperone molecule that helps fold newly produced proteins into the proper 3-dimensional shape and helps refold damaged proteins. Like other chaperone molecules, the DJ-1 protein may assist in delivering selected proteins to proteasomes, which are structures within cells that break down unneeded molecules. Researchers suggest that the DJ-1 protein may also play a role in activities that produce and process RNA, a chemical cousin of DNA.</p>
+related-health-condition/name: Parkinson disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/parkinson-disease
+synonym(1): DJ-1
+synonym(2): DJ1
+synonym(3): PARK7_HUMAN
+synonym(4): Parkinson disease (autosomal recessive, early onset) 7
+synonym(5): parkinson protein 7
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 11315
+db-key(2)/db: OMIM
+db-key(2)/key: 602533
+reviewed: 2012-05
+published: 2018-04-17

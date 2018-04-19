@@ -1,0 +1,58 @@
+name: Spinal muscular atrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/spinal-muscular-atrophy
+text/text-role: description
+text/html: <p>Spinal muscular atrophy is a genetic disorder that affects the control of muscle movement.  It is caused by a loss of specialized nerve cells, called motor neurons, in the spinal cord and the part of the brain that is connected to the spinal cord (the brainstem). The loss of motor neurons leads to weakness and wasting (atrophy) of muscles used for activities such as crawling, walking, sitting up, and controlling head movement. In severe cases of spinal muscular atrophy, the muscles used for breathing and swallowing are affected. There are many types of spinal muscular atrophy distinguished by the pattern of features, severity of muscle weakness, and age when the muscle problems begin.</p><p>Type I spinal muscular atrophy (also called Werdnig-Hoffman disease) is a severe form of the disorder that is evident at birth or within the first few months of life. Affected infants are developmentally delayed; most are unable to support their head or sit unassisted. Children with this type have breathing and swallowing problems that may lead to choking or gagging.</p><p>Type II spinal muscular atrophy is characterized by muscle weakness that develops in children between ages 6 and 12 months. Children with type II can sit without support, although they may need help getting to a seated position. Individuals with this type of spinal muscular atrophy cannot stand or walk unaided.</p><p>Type III spinal muscular atrophy (also called Kugelberg-Welander disease or juvenile type) has milder features that typically develop between early childhood and adolescence. Individuals with type III spinal muscular atrophy can stand and walk unaided, but walking and climbing stairs may become increasingly difficult. Many affected individuals will require wheelchair assistance later in life.</p><p>The signs and symptoms of type IV spinal muscular atrophy often occur after age 30. Affected individuals usually experience mild to moderate muscle weakness, tremor, twitching, or mild breathing problems. Typically, only muscles close to the center of the body (proximal muscles), such as the upper arms and legs, are affected in type IV spinal muscular atrophy.</p><p>The features of X-linked spinal muscular atrophy appear in infancy and include severe muscle weakness and difficulty breathing. Children with this type often have joint deformities (contractures) that impair movement. In severe cases, affected infants are born with broken bones.  Poor muscle tone before birth may contribute to the contractures and broken bones seen in these children.</p><p>Spinal muscular atrophy, lower extremity, dominant (SMA-LED) is characterized by leg muscle weakness that is most severe in the thigh muscles (quadriceps). This weakness begins in infancy or early childhood and progresses slowly. Affected individuals often have a waddling or unsteady walk and have difficulty rising from a seated position and climbing stairs.</p><p>An adult-onset form of spinal muscular atrophy that begins in early to mid-adulthood affects the proximal muscles and is characterized by muscle cramping of the limbs and abdomen, weakness in the leg muscles, involuntary muscle contractions, tremors, and a protrusion of the abdomen thought to be related to muscle weakness. Some affected individuals experience difficulty swallowing and problems with bladder and bowel function.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: DYNC1H1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/DYNC1H1
+related-gene(2)/gene-symbol: SMN1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SMN1
+related-gene(3)/gene-symbol: SMN2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/SMN2
+related-gene(4)/gene-symbol: UBA1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/UBA1
+related-gene(5)/gene-symbol: VAPB
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/VAPB
+synonym(1): hereditary motor neuronopathy
+synonym(2): progressive muscular atrophy
+synonym(3): SMA
+synonym(4): spinal amyotrophy
+db-key(1)/db: GTR
+db-key(1)/key: C0043116
+db-key(2)/db: GTR
+db-key(2)/key: C0152109
+db-key(3)/db: GTR
+db-key(3)/key: C0393538
+db-key(4)/db: GTR
+db-key(4)/key: C1838230
+db-key(5)/db: GeneReviews
+db-key(5)/key: sma
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: G12.0
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: G12.1
+db-key(8)/db: MeSH
+db-key(8)/key: D009134
+db-key(9)/db: OMIM
+db-key(9)/key: 253300
+db-key(10)/db: OMIM
+db-key(10)/key: 253400
+db-key(11)/db: OMIM
+db-key(11)/key: 253550
+db-key(12)/db: OMIM
+db-key(12)/key: 271150
+db-key(13)/db: Orphanet
+db-key(13)/key: 70
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 128212001
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 5262007
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 54280009
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 64383006
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 85505000
+reviewed: 2013-01
+published: 2018-04-17

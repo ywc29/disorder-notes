@@ -1,0 +1,8 @@
+gene-symbol: NUBPL
+name: nucleotide binding protein like
+ghr-page: https://ghr.nlm.nih.gov/gene/NUBPL
+related-health-condition/name: mitochondrial complex I deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mitochondrial-complex-i-deficiency
+db-key/db: NCBI Gene
+db-key/key: 80224
+published: 2018-04-17

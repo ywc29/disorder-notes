@@ -1,0 +1,25 @@
+gene-symbol: KRT10
+name: keratin 10
+ghr-page: https://ghr.nlm.nih.gov/gene/KRT10
+text/text-role: function
+text/html: <p>The <i>KRT10</i> gene provides instructions for making a protein called keratin 10. Keratins are a group of tough, fibrous proteins that form the structural framework of cells called keratinocytes that make up the skin, hair, and nails. Keratin 10 is produced in keratinocytes in the outer layer of the skin (the epidermis).</p><p>In the fluid-filled space inside these cells (the cytoplasm), the keratin 10 protein partners with a similar protein, keratin 1 (produced from the <i>KRT1</i> gene), to form molecules called keratin intermediate filaments. These filaments assemble into strong networks that provide strength and resiliency to the skin and protect it from being damaged by friction and other everyday physical stresses.</p>
+related-health-condition(1)/name: epidermolytic hyperkeratosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/epidermolytic-hyperkeratosis
+related-health-condition(2)/name: ichthyosis with confetti
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/ichthyosis-with-confetti
+synonym(1): CK-10
+synonym(2): CK10
+synonym(3): cytokeratin 10
+synonym(4): K1C10_HUMAN
+synonym(5): K10
+synonym(6): keratin-10
+synonym(7): keratin 10, type I
+synonym(8): keratin, type I cytoskeletal 10
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3858
+db-key(2)/db: OMIM
+db-key(2)/key: 148080
+db-key(3)/db: OMIM
+db-key(3)/key: 607602
+reviewed: 2014-02
+published: 2018-04-17

@@ -1,0 +1,20 @@
+gene-symbol: ADAMTS10
+name: ADAM metallopeptidase with thrombospondin type 1 motif 10
+ghr-page: https://ghr.nlm.nih.gov/gene/ADAMTS10
+text/text-role: function
+text/html: <p>The <i>ADAMTS10</i> gene provides instructions for making an enzyme that is found in many of the body's cells and tissues. This enzyme is part of a family of metalloproteases, which are zinc-containing enzymes that cut apart other proteins. Although the function of the ADAMTS10 enzyme is unknown, it is critical for growth before and after birth.  Researchers believe that it may be involved in the development of structures including the skin, eyes, heart, and skeleton.</p>
+related-health-condition/name: Weill-Marchesani syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/weill-marchesani-syndrome
+synonym(1): a disintegrin and metalloproteinase with thrombospondin motifs 10
+synonym(2): a disintegrin-like and metalloprotease (reprolysin type) with thrombospondin type 1 motif, 10
+synonym(3): a disintegrin-like and metalloprotease domain with thrombospondin type I repeats 10
+synonym(4): ADAM metallopeptidase with thrombospondin type 1 motif, 10
+synonym(5): ADAM-TS10
+synonym(6): ADAMTS-10
+synonym(7): ATS10_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 81794
+db-key(2)/db: OMIM
+db-key(2)/key: 608990
+reviewed: 2008-10
+published: 2018-04-17

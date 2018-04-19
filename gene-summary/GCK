@@ -1,0 +1,12 @@
+gene-symbol: GCK
+name: glucokinase
+ghr-page: https://ghr.nlm.nih.gov/gene/GCK
+related-health-condition(1)/name: congenital hyperinsulinism
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+related-health-condition(2)/name: gestational diabetes
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/gestational-diabetes
+related-health-condition(3)/name: permanent neonatal diabetes mellitus
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/permanent-neonatal-diabetes-mellitus
+db-key/db: NCBI Gene
+db-key/key: 2645
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: OPN1SW
+name: opsin 1, short wave sensitive
+ghr-page: https://ghr.nlm.nih.gov/gene/OPN1SW
+text/text-role: function
+text/html: <p>The <i>OPN1SW</i> gene provides instructions for making a protein that is essential for normal color vision. This protein is found in the retina, which is the light-sensitive tissue at the back of the eye. The retina contains two types of light receptor cells, called rods and cones, that transmit visual signals from the eye to the brain. Rods provide vision in low light. Cones provide vision in bright light, including color vision. There are three types of cones. each containing a specific pigment (a photopigment called an opsin) that is most sensitive to particular wavelengths of light.</p><p>The <i>OPN1SW</i> gene provides instructions for making an opsin pigment that is more sensitive to light in the blue/violet part of the visible spectrum (short-wavelength light). Cones with this pigment are called short-wavelength-sensitive or S cones. In response to light, the photopigment triggers a series of chemical reactions within an S cone. These reactions ultimately alter the cell's electrical charge, generating a signal that is transmitted to the brain. The brain combines input from all three types of cones to produce normal color vision.</p>
+related-health-condition/name: color vision deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/color-vision-deficiency
+synonym(1): BCP
+synonym(2): blue cone photoreceptor pigment
+synonym(3): blue cone pigment
+synonym(4): blue-sensitive opsin
+synonym(5): BOP
+synonym(6): OPSB_HUMAN
+synonym(7): opsin 1 (cone pigments), short-wave-sensitive
+synonym(8): S-pigment
+synonym(9): short-wave-sensitive pigment
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 611
+db-key(2)/db: OMIM
+db-key(2)/key: 613522
+reviewed: 2015-01
+published: 2018-04-17

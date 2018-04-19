@@ -1,0 +1,35 @@
+gene-symbol: RYR1
+name: ryanodine receptor 1
+ghr-page: https://ghr.nlm.nih.gov/gene/RYR1
+text/text-role: function
+text/html: <p>The <i>RYR1</i> gene provides instructions for making a protein called ryanodine receptor 1. This protein is part of a family of ryanodine receptors, which form channels that transport positively charged calcium atoms (ions) within cells. Channels made with the ryanodine receptor 1 protein play a critical role in muscles used for movement (skeletal muscles).</p><p>For the body to move normally, skeletal muscles must tense (contract) and relax in a coordinated way. Muscle contractions are triggered by the flow of positively charged ions, including calcium, into muscle cells.</p><p>When muscles are at rest, calcium ions are stored in a cellular structure called the sarcoplasmic reticulum inside each muscle cell.  In response to certain signals, the RYR1 channel releases calcium ions from the sarcoplasmic reticulum into the surrounding cell fluid (cytoplasm).  The resulting increase in calcium ion concentration stimulates muscle fibers to contract, allowing the body to move. The process by which certain chemical signals trigger muscle contraction is called excitation-contraction (E-C) coupling.</p>
+related-health-condition(1)/name: central core disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/central-core-disease
+related-health-condition(2)/name: centronuclear myopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/centronuclear-myopathy
+related-health-condition(3)/name: congenital fiber-type disproportion
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-fiber-type-disproportion
+related-health-condition(4)/name: malignant hyperthermia
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/malignant-hyperthermia
+related-health-condition(5)/name: multiminicore disease
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/multiminicore-disease
+synonym(1): CCD
+synonym(2): MHS
+synonym(3): MHS1
+synonym(4): PPP1R137
+synonym(5): ryanodine receptor 1 (skeletal)
+synonym(6): ryanodine receptor type1
+synonym(7): RYDR
+synonym(8): RYR
+synonym(9): RYR-1
+synonym(10): RYR1_HUMAN
+synonym(11): sarcoplasmic reticulum calcium release channel
+synonym(12): skeletal muscle ryanodine receptor
+synonym(13): Skeletal muscle-type ryanodine receptor
+synonym(14): SKRR
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6261
+db-key(2)/db: OMIM
+db-key(2)/key: 180901
+reviewed: 2016-05
+published: 2018-04-17

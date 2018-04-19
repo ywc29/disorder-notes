@@ -1,0 +1,19 @@
+gene-symbol: AMN
+name: amnion associated transmembrane protein
+ghr-page: https://ghr.nlm.nih.gov/gene/AMN
+text/text-role: function
+text/html: <p>The <i>AMN</i> gene provides instructions for making a protein called amnionless. This protein is involved in the uptake of vitamin B12 (also called cobalamin) from food. Vitamin B12, which cannot be made in the body and can only be obtained from food, is essential for the formation of DNA and proteins, the production of cellular energy, and the breakdown of fats. This vitamin is involved in the formation of red blood cells and maintenance of the brain and spinal cord (central nervous system).</p><p>The amnionless protein is primarily found embedded in the outer membrane of kidney cells and cells that line the small intestine. Amnionless attaches (binds) to another protein called cubilin, anchoring cubilin to the cell membrane. Cubilin can interact with molecules and proteins passing through the intestine or kidneys. During digestion, vitamin B12 is released from food. As the vitamin passes through the small intestine, cubilin binds to it. Amnionless helps  transfer the cubilin-vitamin B12 complex into the intestinal cell. From there, the vitamin is released into the blood and transported throughout the body. In the kidneys, amnionless and cubilin are involved in the reabsorption of certain proteins that would otherwise be released in urine.</p>
+related-health-condition/name: Imerslund-Gräsbeck syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/imerslund-grasbeck-syndrome
+synonym(1): amnionless
+synonym(2): amnionless homolog
+synonym(3): PRO1028
+synonym(4): protein amnionless
+synonym(5): protein amnionless precursor
+synonym(6): visceral endoderm-specific type 1 transmembrane protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 81693
+db-key(2)/db: OMIM
+db-key(2)/key: 605799
+reviewed: 2014-04
+published: 2018-04-17

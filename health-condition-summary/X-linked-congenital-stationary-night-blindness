@@ -1,0 +1,34 @@
+name: X-linked congenital stationary night blindness
+ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-congenital-stationary-night-blindness
+text/text-role: description
+text/html: <p>X-linked congenital stationary night blindness is a disorder of the retina, which is the specialized tissue at the back of the eye that detects light and color. People with this condition typically have difficulty seeing in low light (night blindness). They also have other vision problems, including loss of sharpness (reduced acuity), severe nearsightedness (high myopia), involuntary movements of the eyes (nystagmus), and eyes that do not look in the same direction (strabismus). Color vision is typically not affected by this disorder.</p><p>The vision problems associated with this condition are congenital, which means they are present from birth. They tend to remain stable (stationary) over time.</p><p>Researchers have identified two major types of X-linked congenital stationary night blindness: the complete form and the incomplete form. The types have very similar signs and symptoms. However, everyone with the complete form has night blindness, while not all people with the incomplete form have night blindness. The types are distinguished by their genetic cause and by the results of a test called an electroretinogram, which measures the function of the retina.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene(1)/gene-symbol: CACNA1F
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CACNA1F
+related-gene(2)/gene-symbol: NYX
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/NYX
+synonym(1): X-linked CSNB
+synonym(2): XLCSNB
+db-key(1)/db: GTR
+db-key(1)/key: C0339535
+db-key(2)/db: GTR
+db-key(2)/key: C1848172
+db-key(3)/db: GTR
+db-key(3)/key: C3495587
+db-key(4)/db: GeneReviews
+db-key(4)/key: csnb
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: H53.63
+db-key(6)/db: MeSH
+db-key(6)/key: D009755
+db-key(7)/db: OMIM
+db-key(7)/key: 300071
+db-key(8)/db: OMIM
+db-key(8)/key: 310500
+db-key(9)/db: Orphanet
+db-key(9)/key: 215
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 232061009
+reviewed: 2009-05
+published: 2018-04-17

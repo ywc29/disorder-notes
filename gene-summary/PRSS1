@@ -1,0 +1,26 @@
+gene-symbol: PRSS1
+name: serine protease 1
+ghr-page: https://ghr.nlm.nih.gov/gene/PRSS1
+text/text-role: function
+text/html: <p>The <i>PRSS1</i> gene provides instructions for making an enzyme called cationic trypsinogen. This enzyme is a serine peptidase, which is a type of enzyme that cuts (cleaves) other proteins into smaller pieces. Cationic trypsinogen is produced in the pancreas and helps with the digestion of food. Cationic trypsinogen is secreted by the pancreas and transported to the small intestine, where it is cleaved to form trypsinogen. When the enzyme is needed, trypsinogen is cleaved again into its working (active) form called trypsin. Trypsin aids in digestion by cutting protein chains at the protein building blocks (amino acids) arginine or lysine, which breaks down the protein. Trypsin also turns on (activates) other digestive enzymes that are produced in the pancreas to further facilitate digestion.</p><p>A particular region of trypsin is attached (bound) to a calcium molecule. As long as trypsin is bound to calcium, the enzyme is protected from being broken down. When digestion is complete and trypsin is no longer needed, the calcium molecule is removed from the enzyme, which allows trypsin to be broken down.</p>
+related-health-condition/name: hereditary pancreatitis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-pancreatitis
+synonym(1): beta-trypsin
+synonym(2): cationic trypsinogen
+synonym(3): protease, serine 1
+synonym(4): protease, serine, 1 (trypsin 1)
+synonym(5): TRP1
+synonym(6): TRY1
+synonym(7): TRY1_HUMAN
+synonym(8): TRY4
+synonym(9): TRYP1
+synonym(10): trypsin-1
+synonym(11): trypsin-1 preproprotein
+synonym(12): trypsinogen 1
+synonym(13): trypsinogen A
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5644
+db-key(2)/db: OMIM
+db-key(2)/key: 276000
+reviewed: 2012-10
+published: 2018-04-17

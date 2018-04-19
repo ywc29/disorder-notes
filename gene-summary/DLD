@@ -1,0 +1,31 @@
+gene-symbol: DLD
+name: dihydrolipoamide dehydrogenase
+ghr-page: https://ghr.nlm.nih.gov/gene/DLD
+text/text-role: function
+text/html: <p>The <i>DLD</i> gene provides instructions for making an enzyme called dihydrolipoamide dehydrogenase. This enzyme forms one part (subunit), called the E3 component, of several groups of enzymes that work together (enzyme complexes). These complexes are essential for the breakdown of certain molecules to produce energy in cells.</p><p>Branched-chain alpha-keto acid dehydrogenase, or BCKD, is one of the enzyme complexes that include dihydrolipoamide dehydrogenase. The BCKD enzyme complex performs one step in the breakdown of three protein building blocks (amino acids). These amino acids—leucine, isoleucine, and valine—are obtained from the diet. They are present in many kinds of food, particularly protein-rich foods such as milk, meat, and eggs. The breakdown of these amino acids produces molecules that can be used for energy.</p><p>Dihydrolipoamide dehydrogenase is also part of the pyruvate dehydrogenase (PDH) complex. This enzyme complex plays an important role in the production of energy for cells. It converts a molecule called pyruvate, which is formed from the breakdown of carbohydrates, into another molecule called acetyl-CoA. Dihydrolipoamide dehydrogenase performs one step of this chemical reaction. The conversion of pyruvate is essential to begin the series of chemical reactions that ultimately produces adenosine triphosphate (ATP), the cell's main energy source.</p><p>Dihydrolipoamide dehydrogenase is part of a third enzyme complex involved in cellular energy production. This complex, called alpha-ketoglutarate dehydrogenase (αKGDH), converts a molecule called α-ketoglutarate to another molecule called succinyl-CoA. Further steps in this process generate ATP for cells to use as energy.</p>
+related-health-condition(1)/name: dihydrolipoamide dehydrogenase deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/dihydrolipoamide-dehydrogenase-deficiency
+related-health-condition(2)/name: Leigh syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+synonym(1): DIA1
+synonym(2): diaphorase
+synonym(3): dihydrolipoamide dehydrogenase (E3 component of pyruvate dehydrogenase complex, 2-oxo-glutarate complex, branched chain keto acid dehydrogenase complex)
+synonym(4): dihydrolipoyl dehydrogenase
+synonym(5): DLDH
+synonym(6): DLDH_HUMAN
+synonym(7): E3 component of pyruvate dehydrogenase
+synonym(8): GCSL
+synonym(9): glycine cleavage system L protein
+synonym(10): LAD
+synonym(11): lipoamide dehydrogenase
+synonym(12): lipoamide reductase
+synonym(13): lipoamide reductase (NADH)
+synonym(14): lipoyl dehydrogenase
+synonym(15): PHE3
+synonym(16): pyruvate dehydrogenase component E3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1738
+db-key(2)/db: OMIM
+db-key(2)/key: 238331
+reviewed: 2014-09
+published: 2018-04-17

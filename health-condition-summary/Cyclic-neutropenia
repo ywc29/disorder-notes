@@ -1,0 +1,27 @@
+name: Cyclic neutropenia
+ghr-page: https://ghr.nlm.nih.gov/condition/cyclic-neutropenia
+text/text-role: description
+text/html: <p>Cyclic neutropenia is a disorder that causes frequent infections and other health problems in affected individuals. People with this condition have recurrent episodes of neutropenia during which there is a shortage (deficiency) of neutrophils. Neutrophils are a type of white blood cell that plays a role in inflammation and in fighting infection. The episodes of neutropenia are apparent at birth or soon afterward. For most affected individuals, neutropenia recurs every 21 days and lasts about 3 to 5 days.</p><p>Neutropenia makes it more difficult for the body to fight off pathogens such as bacteria and viruses, so people with cyclic neutropenia typically develop recurrent infections of the sinuses, respiratory tract, and skin. Additionally, people with this condition often develop open sores (ulcers) in the mouth and colon, inflammation of the throat (pharyngitis) and gums (gingivitis), recurrent fever, or abdominal pain. People with cyclic neutropenia have these health problems only during episodes of neutropenia. At times when their neutrophil levels are normal, they are not at an increased risk of infection and inflammation.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: ELANE
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ELANE
+synonym(1): cyclic hematopoesis
+synonym(2): cyclic leucopenia
+synonym(3): periodic neutropenia
+db-key(1)/db: GTR
+db-key(1)/key: C0221023
+db-key(2)/db: GeneReviews
+db-key(2)/key: cyclic-n
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: D70.4
+db-key(4)/db: MeSH
+db-key(4)/key: D009503
+db-key(5)/db: OMIM
+db-key(5)/key: 162800
+db-key(6)/db: Orphanet
+db-key(6)/key: 2686
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 191347008
+reviewed: 2017-09
+published: 2018-04-17

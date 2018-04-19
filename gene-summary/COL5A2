@@ -1,0 +1,19 @@
+gene-symbol: COL5A2
+name: collagen type V alpha 2 chain
+ghr-page: https://ghr.nlm.nih.gov/gene/COL5A2
+text/text-role: function
+text/html: <p>The <i>COL5A2</i> gene provides instructions for making a component of type V collagen. Collagens are a family of proteins that strengthen and support many tissues in the body, including skin, ligaments, bones, tendons, and muscles.</p><p>A component of type V collagen called the pro-α2(V) chain is produced from the <i>COL5A2</i> gene. Collagens begin as rope-like procollagen molecules that are each made up of three chains. Two combinations of chains can produce type V collagen: three pro-α1(V) chains (produced from the <i>COL5A1</i> gene) or two pro-α1(V) chains and one pro-α2(V) chain.</p><p>The triple-stranded procollagen molecules are processed by enzymes outside the cell to create mature collagen. The collagen molecules then arrange themselves into long, thin fibrils with another form of collagen, type I. Type V collagen regulates the width (diameter) of those fibrils. Studies suggest that type V collagen also controls the assembly of other types of collagen into fibrils in several tissues.</p>
+related-health-condition/name: Ehlers-Danlos syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ehlers-danlos-syndrome
+synonym(1): AB collagen
+synonym(2): CO5A2_HUMAN
+synonym(3): collagen type V alpha 2
+synonym(4): collagen V, alpha-2 polypeptide
+synonym(5): collagen, fetal membrane, A polypeptide
+synonym(6): collagen, type V, alpha 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1290
+db-key(2)/db: OMIM
+db-key(2)/key: 120190
+reviewed: 2017-11
+published: 2018-04-17

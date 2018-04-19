@@ -1,0 +1,18 @@
+gene-symbol: HCCS
+name: holocytochrome c synthase
+ghr-page: https://ghr.nlm.nih.gov/gene/HCCS
+text/text-role: function
+text/html: <p>The <i>HCCS</i> gene carries instructions for producing an enzyme called holocytochrome c-type synthase. This enzyme is active in many tissues of the body and is found in the mitochondria, the energy-producing centers within cells.</p><p>Within the mitochondria, the holocytochrome c-type synthase enzyme helps produce a molecule called cytochrome c. Specifically, holocytochrome c-type synthase is involved in a reaction that adds an iron-containing molecule called heme to make mature cytochrome c, also called holocytochrome c, from a precursor form called apocytochrome c.</p><p>Cytochrome c is involved in a process called oxidative phosphorylation, by which mitochondria generate adenosine triphosphate (ATP), the cell's main energy source. It also plays a role in the self-destruction of cells (apoptosis).</p>
+related-health-condition/name: microphthalmia with linear skin defects syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/microphthalmia-with-linear-skin-defects-syndrome
+synonym(1): CCHL
+synonym(2): CCHL_HUMAN
+synonym(3): DKFZp779I1858
+synonym(4): holocytochrome c synthase (cytochrome c heme-lyase)
+synonym(5): MCOPS7
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3052
+db-key(2)/db: OMIM
+db-key(2)/key: 300056
+reviewed: 2009-10
+published: 2018-04-17

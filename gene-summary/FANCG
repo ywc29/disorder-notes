@@ -1,0 +1,17 @@
+gene-symbol: FANCG
+name: Fanconi anemia complementation group G
+ghr-page: https://ghr.nlm.nih.gov/gene/FANCG
+text/text-role: function
+text/html: <p>The <i>FANCG</i> gene provides instructions for making a protein that is involved in a cell process known as the Fanconi anemia (FA) pathway. The FA pathway is turned on (activated) when the process of making new copies of DNA, called DNA replication, is blocked due to DNA damage. The FA pathway is particularly responsive to a certain type of DNA damage known as interstrand cross-links (ICLs). ICLs occur when two DNA building blocks (nucleotides) on opposite strands of DNA are abnormally attached or linked together, which stops the process of DNA replication. ICLs can be caused by a buildup of toxic substances produced in the body or by treatment with certain cancer therapy drugs.</p><p>The FANCG protein is one of a group of proteins known as the FA core complex. The FA core complex is composed of eight FA proteins (including FANCG) and two proteins called Fanconi anemia-associated proteins (FAAPs).  This complex activates two proteins, called FANCD2 and FANCI, by attaching a single molecule called ubiquitin to each of them (a process called monoubiquitination). The activation of these two proteins, which attach (bind) together to form the ID protein complex, attracts DNA repair proteins to the area of DNA damage so the error can be corrected and DNA replication can continue.</p>
+related-health-condition/name: Fanconi anemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/fanconi-anemia
+synonym(1): FAG
+synonym(2): FANCG_HUMAN
+synonym(3): Fanconi anemia, complementation group G
+synonym(4): XRCC9
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2189
+db-key(2)/db: OMIM
+db-key(2)/key: 602956
+reviewed: 2012-01
+published: 2018-04-17

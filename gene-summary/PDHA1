@@ -1,0 +1,26 @@
+gene-symbol: PDHA1
+name: pyruvate dehydrogenase E1 alpha 1 subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/PDHA1
+text/text-role: function
+text/html: <p>The <i>PDHA1</i> gene provides instructions for making a protein called E1 alpha. The E1 alpha protein is a piece (a subunit) of a larger protein: two E1 alpha proteins combine with two copies of another protein called E1 beta (produced from the <i>PDHB</i> gene) to form the E1 enzyme. This enzyme, also known as pyruvate dehydrogenase, is a component of a group of proteins called the pyruvate dehydrogenase complex.</p><p>The pyruvate dehydrogenase complex plays an important role in the pathways that convert the energy from food into a form that cells can use. This complex converts a molecule called pyruvate, which is formed from the breakdown of carbohydrates, into another molecule called acetyl-CoA. The E1 enzyme performs one part of this chemical reaction. The conversion of pyruvate is essential to begin the series of chemical reactions that produces adenosine triphosphate (ATP), the cell's main energy source.</p>
+related-health-condition(1)/name: Leigh syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+related-health-condition(2)/name: pyruvate dehydrogenase deficiency
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pyruvate-dehydrogenase-deficiency
+synonym(1): ODPA_HUMAN
+synonym(2): PDHA
+synonym(3): PDHCE1A
+synonym(4): PDHE1-A type I
+synonym(5): PHE1A
+synonym(6): pyruvate dehydrogenase (lipoamide) alpha 1
+synonym(7): pyruvate dehydrogenase alpha 1
+synonym(8): pyruvate dehydrogenase complex, E1-alpha polypeptide 1
+synonym(9): pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5160
+db-key(2)/db: OMIM
+db-key(2)/key: 300502
+db-key(3)/db: OMIM
+db-key(3)/key: 312170
+reviewed: 2012-07
+published: 2018-04-17

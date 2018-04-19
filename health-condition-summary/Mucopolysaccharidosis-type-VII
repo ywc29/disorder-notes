@@ -1,0 +1,29 @@
+name: Mucopolysaccharidosis type VII
+ghr-page: https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-vii
+text/text-role: description
+text/html: <p>Mucopolysaccharidosis type VII (MPS VII), also known as Sly syndrome, is a progressive condition that affects most tissues and organs. The severity of MPS VII varies widely among affected individuals.</p><p>The most severe cases of MPS VII are characterized by hydrops fetalis, a condition in which excess fluid builds up in the body before birth. Most babies with hydrops fetalis are stillborn or die soon after birth. Other people with MPS VII typically begin to show signs and symptoms of the condition during early childhood. The features of MPS VII include a large head (macrocephaly), a buildup of fluid in the brain (hydrocephalus), distinctive-looking facial features that are described as "coarse," and a large tongue (macroglossia). Affected individuals also frequently develop an enlarged liver and spleen (hepatosplenomegaly), heart valve abnormalities, and a soft out-pouching around the belly-button (umbilical hernia) or lower abdomen (inguinal hernia). The airway may become narrow in some people with MPS VII, leading to frequent upper respiratory infections and short pauses in breathing during sleep (sleep apnea). The clear covering of the eye (cornea) becomes cloudy, which can cause significant vision loss. People with MPS VII may also have recurrent ear infections and hearing loss. Affected individuals may have developmental delay and progressive intellectual disability, although intelligence is unaffected in some people with this condition.</p><p>MPS VII causes various skeletal abnormalities that become more pronounced with age, including short stature and joint deformities (contractures) that affect mobility. Individuals with this condition may also have dysostosis multiplex, which refers to multiple skeletal abnormalities seen on x-ray. Carpal tunnel syndrome develops in many children with MPS VII and is characterized by numbness, tingling, and weakness in the hands and fingers. People with MPS VII may develop a narrowing of the spinal canal (spinal stenosis) in the neck, which can compress and damage the spinal cord.</p><p>The life expectancy of individuals with MPS VII depends on the severity of symptoms. Some affected individuals do not survive infancy, while others may live into adolescence or adulthood. Heart disease and airway obstruction are major causes of death in people with MPS VII.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: GUSB
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GUSB
+synonym(1): beta-glucuronidase deficiency
+synonym(2): GUSB deficiency
+synonym(3): MPS VII
+synonym(4): MPS7
+synonym(5): Mucopolysaccharidosis 7
+synonym(6): Mucopolysaccharidosis VII
+synonym(7): Sly Syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0085132
+db-key(2)/db: MeSH
+db-key(2)/key: D016538
+db-key(3)/db: OMIM
+db-key(3)/key: 253220
+db-key(4)/db: Orphanet
+db-key(4)/key: 584
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 124470009
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 43916004
+reviewed: 2010-08
+published: 2018-04-17

@@ -1,0 +1,16 @@
+gene-symbol: SMOC1
+name: SPARC related modular calcium binding 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SMOC1
+text/text-role: function
+text/html: <p>The <i>SMOC1</i> gene provides instructions for making a protein called secreted modular calcium-binding protein 1 (SMOC-1). This protein is found in basement membranes, which are thin, sheet-like structures that support cells in many tissues and help anchor cells to one another during embryonic development. The SMOC-1 protein attaches (binds) to many different proteins and is thought to regulate molecules called growth factors that stimulate the growth and development of tissues throughout the body. These growth factors play important roles in skeletal formation, normal shaping (patterning) of the limbs, as well as eye formation and development. The SMOC-1 protein also likely promotes the maturation (differentiation) of cells that build bones, called osteoblasts.</p>
+related-health-condition/name: ophthalmo-acromelic syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ophthalmo-acromelic-syndrome
+synonym(1): secreted modular calcium-binding protein 1
+synonym(2): SMOC1_HUMAN
+synonym(3): SPARC-related modular calcium-binding protein 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 64093
+db-key(2)/db: OMIM
+db-key(2)/key: 608488
+reviewed: 2014-03
+published: 2018-04-17

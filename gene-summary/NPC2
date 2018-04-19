@@ -1,0 +1,19 @@
+gene-symbol: NPC2
+name: NPC intracellular cholesterol transporter 2
+ghr-page: https://ghr.nlm.nih.gov/gene/NPC2
+text/text-role: function
+text/html: <p>The <i>NPC2</i> gene provides instructions for making a protein that is located inside lysosomes, which are compartments in the cell that digest and recycle materials. The NPC2 protein attaches (binds) to cholesterol. Cholesterol is a waxy, fat-like substance that is produced in the body and obtained from foods. Research suggests that the NPC2 protein plays an important role in moving cholesterol and certain other fats (lipids) out of the lysosomes to other parts of the cell.</p>
+related-health-condition/name: Niemann-Pick disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/niemann-pick-disease
+synonym(1): epididymal secretory protein
+synonym(2): HE1
+synonym(3): MGC1333
+synonym(4): Niemann-Pick disease, type C2
+synonym(5): NP-C2
+synonym(6): NPC2_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10577
+db-key(2)/db: OMIM
+db-key(2)/key: 601015
+reviewed: 2015-01
+published: 2018-04-17

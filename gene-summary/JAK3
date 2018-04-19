@@ -1,0 +1,21 @@
+gene-symbol: JAK3
+name: Janus kinase 3
+ghr-page: https://ghr.nlm.nih.gov/gene/JAK3
+text/text-role: function
+text/html: <p>The <i>JAK3</i> gene provides instructions for making a protein that is critical for the normal development and function of the immune system. The JAK3 protein is part of a signaling pathway called the JAK/STAT pathway, which transmits chemical signals from outside the cell to the cell's nucleus. Signals relayed by the JAK3 protein regulate the growth and maturation of certain types of white blood cells (lymphocytes) called T cells and natural killer cells. In addition, JAK3 is important for the normal maturation of another type of lymphocyte called B cells. T cells, B cells, and natural killer cells attack bacteria, viruses, and fungi and help regulate the entire immune system.</p>
+related-health-condition/name: JAK3-deficient severe combined immunodeficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/jak3-deficient-severe-combined-immunodeficiency
+synonym(1): JAK-3
+synonym(2): JAK3_HUMAN
+synonym(3): JAKL
+synonym(4): Janus kinase 3 (a protein tyrosine kinase, leukocyte)
+synonym(5): L-JAK
+synonym(6): leukocyte Janus kinase
+synonym(7): LJAK
+synonym(8): tyrosine-protein kinase JAK3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3718
+db-key(2)/db: OMIM
+db-key(2)/key: 600173
+reviewed: 2017-08
+published: 2018-04-17

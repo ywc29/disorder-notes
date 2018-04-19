@@ -1,0 +1,25 @@
+name: Medullary cystic kidney disease type 1
+ghr-page: https://ghr.nlm.nih.gov/condition/medullary-cystic-kidney-disease-type-1
+text/text-role: description
+text/html: <p>Medullary cystic kidney disease type 1 (MCKD1) is an inherited condition that affects the kidneys. It leads to scarring (fibrosis) and impaired function of the kidneys, usually beginning in adulthood. The kidneys filter fluid and waste products from the body. They also reabsorb needed nutrients and release them back into the blood. As MCKD1 progresses, the kidneys are less able to function, resulting in kidney failure.</p><p>Declining kidney function in people with MCKD1 leads to the signs and symptoms of the condition. The features are variable, even among members of the same family. Many individuals with MCKD1 develop high blood pressure (hypertension), especially as kidney function worsens. Some develop high levels of a waste product called uric acid in the blood (hyperuricemia) because the damaged kidneys are unable to remove uric acid effectively. In a small number of affected individuals, the buildup of this waste product can cause gout, which is a form of arthritis resulting from uric acid crystals in the joints.</p><p>Although the condition is named medullary cystic kidney disease, only about 40 percent of affected individuals have medullary cysts, which are fluid filled pockets found in a particular region of the kidney. When present, the cysts are usually found in the inner part of the kidney (the medullary region) or the border between the inner and outer parts (corticomedullary region). These cysts are visible by tests such as ultrasound or CT scan.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: MUC1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MUC1
+synonym(1): autosomal dominant interstitial kidney disease
+synonym(2): autosomal dominant medullary cystic kidney disease
+synonym(3): polycystic kidneys, medullary type
+db-key(1)/db: GTR
+db-key(1)/key: C1868139
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: Q61.5
+db-key(3)/db: MeSH
+db-key(3)/key: D007674
+db-key(4)/db: OMIM
+db-key(4)/key: 174000
+db-key(5)/db: Orphanet
+db-key(5)/key: 34149
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 444699000
+reviewed: 2013-06
+published: 2018-04-17

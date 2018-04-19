@@ -1,0 +1,19 @@
+gene-symbol: SPAST
+name: spastin
+ghr-page: https://ghr.nlm.nih.gov/gene/SPAST
+text/text-role: function
+text/html: <p>The <i>SPAST</i> gene provides instructions for producing a protein called spastin, which is a member of the AAA protein family.  This protein family plays a role in many cellular activities, including regulation of cell components and proteins.  Spastin is found throughout the body, particularly in certain nerve cells (neurons). The spastin protein plays a role in the function of microtubules, which are rigid, hollow fibers that make up the cell's structural framework (the cytoskeleton).  Microtubules are also involved in transporting cell components and facilitating cell division.  Spastin likely helps restrict microtubule length and disassemble microtubule structures when they are no longer needed.</p>
+related-health-condition/name: spastic paraplegia type 4
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/spastic-paraplegia-type-4
+synonym(1): ADPSP
+synonym(2): FSP2
+synonym(3): KIAA1083
+synonym(4): SPAST_HUMAN
+synonym(5): spastic paraplegia 4 (autosomal dominant; spastin)
+synonym(6): SPG4
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6683
+db-key(2)/db: OMIM
+db-key(2)/key: 604277
+reviewed: 2008-01
+published: 2018-04-17

@@ -1,0 +1,25 @@
+gene-symbol: FAT4
+name: FAT atypical cadherin 4
+ghr-page: https://ghr.nlm.nih.gov/gene/FAT4
+text/text-role: function
+text/html: <p>The <i>FAT4</i> gene provides instructions for making a protein that is found in most tissues. The protein spans the membrane surrounding cells so that part of the protein is outside the cell and part of the protein is inside the cell. The precise function of the FAT4 protein is largely unknown; however, research shows that the FAT4 protein is likely involved in determining the position of various components within cells (cell polarity). The FAT4 protein is also thought to function as a tumor suppressor, which means that it keeps cells from growing and dividing too rapidly or in an uncontrolled way.</p>
+related-health-condition/name: Hennekam syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hennekam-syndrome
+synonym(1): cadherin family member 14
+synonym(2): cadherin-related family member 11
+synonym(3): CDHF14
+synonym(4): CDHR11
+synonym(5): FAT-J
+synonym(6): fat-like cadherin protein FAT-J
+synonym(7): FAT tumor suppressor homolog 4
+synonym(8): FAT4_HUMAN
+synonym(9): FATJ
+synonym(10): NBLA00548
+synonym(11): protocadherin Fat 4
+synonym(12): VMLDS2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 79633
+db-key(2)/db: OMIM
+db-key(2)/key: 612411
+reviewed: 2014-07
+published: 2018-04-17

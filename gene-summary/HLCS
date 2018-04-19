@@ -1,0 +1,19 @@
+gene-symbol: HLCS
+name: holocarboxylase synthetase
+ghr-page: https://ghr.nlm.nih.gov/gene/HLCS
+text/text-role: function
+text/html: <p>The <i>HLCS</i> gene provides instructions for making an enzyme called holocarboxylase synthetase.  This enzyme is important for the effective use of biotin, a B vitamin found in foods such as liver, egg yolks, and milk.  In many of the body's tissues, holocarboxylase synthetase activates enzymes called biotin-dependent carboxylases by attaching biotin to them.  These carboxylases are involved in many critical cellular functions, including the production and breakdown of proteins, fats, and carbohydrates.</p><p>Holocarboxylase synthetase may also play a role in regulating the activity of genes.  In the nucleus, the enzyme likely attaches biotin molecules to histones, which are structural proteins that bind to DNA and give chromosomes their shape.  Changing the shape of histones may help determine whether certain genes are turned on or off; however, it is not known how adding biotin affects gene regulation.</p>
+related-health-condition/name: holocarboxylase synthetase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/holocarboxylase-synthetase-deficiency
+synonym(1): biotin apo-protein ligase
+synonym(2): biotin-protein ligase
+synonym(3): BPL1_HUMAN
+synonym(4): HCS
+synonym(5): holocarboxylase synthetase (biotin-(proprionyl-CoA-carboxylase (ATP-hydrolysing)) ligase)
+synonym(6): holocarboxylase synthetase (biotin-(proprionyl-Coenzyme A-carboxylase (ATP-hydrolysing)) ligase)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3141
+db-key(2)/db: OMIM
+db-key(2)/key: 609018
+reviewed: 2007-06
+published: 2018-04-17

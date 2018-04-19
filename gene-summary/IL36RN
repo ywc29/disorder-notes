@@ -1,0 +1,32 @@
+gene-symbol: IL36RN
+name: interleukin 36 receptor antagonist
+ghr-page: https://ghr.nlm.nih.gov/gene/IL36RN
+text/text-role: function
+text/html: <p>The <i>IL36RN</i> gene provides instructions for making a protein called interleukin 36 receptor antagonist (IL-36Ra). This protein is primarily found in the skin where it helps regulate inflammation, part of the body's early immune response. Inflammation in the skin is stimulated when other proteins called IL-36 alpha (α), IL-36 beta (β), or IL-36 gamma (γ) attach to (bind) a specific receptor protein. This binding turns on (activates) signaling pathways that promote inflammation, namely the NF-κB and MAPK pathways. To control inflammatory reactions, the IL-36Ra protein binds to the receptor protein so that IL-36α, IL-36β, and IL-36γ cannot. In this way, the IL-36Ra protein blocks (antagonizes) the receptor's activity.</p>
+related-health-condition/name: generalized pustular psoriasis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/generalized-pustular-psoriasis
+synonym(1): FIL1
+synonym(2): FIL1(DELTA)
+synonym(3): FIL1D
+synonym(4): IL-1 related protein 3
+synonym(5): IL-1F5
+synonym(6): IL-36Ra
+synonym(7): IL1F5
+synonym(8): IL1HY1
+synonym(9): IL1L1
+synonym(10): IL1RP3
+synonym(11): IL36RA
+synonym(12): interleukin 1 family, member 5 (delta)
+synonym(13): interleukin-1 HY1
+synonym(14): interleukin-1-like protein 1
+synonym(15): interleukin-1 receptor antagonist homolog 1
+synonym(16): interleukin-36 receptor antagonist protein
+synonym(17): MGC29840
+synonym(18): PSORP
+synonym(19): PSORS14
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 26525
+db-key(2)/db: OMIM
+db-key(2)/key: 605507
+reviewed: 2017-05
+published: 2018-04-17

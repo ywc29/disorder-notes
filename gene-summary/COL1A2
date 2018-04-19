@@ -1,0 +1,21 @@
+gene-symbol: COL1A2
+name: collagen type I alpha 2 chain
+ghr-page: https://ghr.nlm.nih.gov/gene/COL1A2
+text/text-role: function
+text/html: <p>The <i>COL1A2</i> gene provides instructions for making part of a large molecule called type I collagen. Collagens are a family of proteins that strengthen and support many tissues in the body, including cartilage, bone, tendon, skin, and the white part of the eye (the sclera). Type I collagen is the most abundant form of collagen in the human body.</p><p>A component of type I collagen called the pro-α2(I) chain is produced from the <i>COL1A2</i> gene. Collagens begin as rope-like procollagen molecules that are each made up of three chains. Type I collagen is composed of two pro-α1(I) chains (which are produced from the <i>COL1A1</i> gene) and one pro-α2(I) chain.</p><p>The triple-stranded procollagen molecules are processed by enzymes outside the cell to create mature collagen. The collagen molecules then arrange themselves into long, thin fibrils that form stable interactions (cross-links) with one another in the spaces between cells. The cross-links result in the formation of very strong type I collagen fibers.</p>
+related-health-condition(1)/name: Ehlers-Danlos syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/ehlers-danlos-syndrome
+related-health-condition(2)/name: osteogenesis imperfecta
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/osteogenesis-imperfecta
+synonym(1): alpha 2 collagen type I
+synonym(2): CO1A2_HUMAN
+synonym(3): collagen I, alpha-2 polypeptide
+synonym(4): collagen of skin, tendon and bone, alpha-2 chain
+synonym(5): collagen type I alpha 2
+synonym(6): collagen, type I, alpha 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1278
+db-key(2)/db: OMIM
+db-key(2)/key: 120160
+reviewed: 2017-11
+published: 2018-04-17

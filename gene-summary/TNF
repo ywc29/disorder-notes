@@ -1,0 +1,14 @@
+gene-symbol: TNF
+name: tumor necrosis factor
+ghr-page: https://ghr.nlm.nih.gov/gene/TNF
+related-health-condition(1)/name: Guillain-Barré syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/guillain-barre-syndrome
+related-health-condition(2)/name: idiopathic inflammatory myopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/idiopathic-inflammatory-myopathy
+related-health-condition(3)/name: juvenile idiopathic arthritis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-idiopathic-arthritis
+related-health-condition(4)/name: narcolepsy
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/narcolepsy
+db-key/db: NCBI Gene
+db-key/key: 7124
+published: 2018-04-17

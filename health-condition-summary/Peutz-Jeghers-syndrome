@@ -1,0 +1,32 @@
+name: Peutz-Jeghers syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/peutz-jeghers-syndrome
+text/text-role: description
+text/html: <p>Peutz-Jeghers syndrome is characterized by the development of noncancerous growths called hamartomatous polyps in the gastrointestinal tract (particularly the stomach and intestines) and a greatly increased risk of developing certain types of cancer.</p><p>Children with Peutz-Jeghers syndrome often develop small, dark-colored spots on the lips, around and inside the mouth, near the eyes and nostrils, and around the anus. These spots may also occur on the hands and feet. They appear during childhood and often fade as the person gets older. In addition, most people with Peutz-Jeghers syndrome develop multiple polyps in the stomach and intestines during childhood or adolescence. Polyps can cause health problems such as recurrent bowel obstructions, chronic bleeding, and abdominal pain.</p><p>People with Peutz-Jeghers syndrome have a high risk of developing cancer during their lifetimes. Cancers of the gastrointestinal tract, pancreas, cervix, ovary, and breast are among the most commonly reported tumors.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: STK11
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/STK11
+synonym(1): intestinal polyposis-cutaneous pigmentation syndrome
+synonym(2): lentiginosis, perioral
+synonym(3): periorificial lentiginosis syndrome
+synonym(4): Peutz-Jeghers polyposis
+synonym(5): PJS
+synonym(6): polyposis, hamartomatous intestinal
+synonym(7): polyposis, intestinal, II
+synonym(8): polyps-and-spots syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0031269
+db-key(2)/db: GeneReviews
+db-key(2)/key: pjs
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q85.8
+db-key(4)/db: MeSH
+db-key(4)/key: D010580
+db-key(5)/db: OMIM
+db-key(5)/key: 175200
+db-key(6)/db: Orphanet
+db-key(6)/key: 2869
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 54411001
+reviewed: 2013-02
+published: 2018-04-17

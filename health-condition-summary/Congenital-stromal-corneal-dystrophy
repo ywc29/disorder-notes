@@ -1,0 +1,29 @@
+name: Congenital stromal corneal dystrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-stromal-corneal-dystrophy
+text/text-role: description
+text/html: <p>Congenital stromal corneal dystrophy is an inherited eye disorder. This condition primarily affects the cornea, which is the clear outer covering of the eye. In people with this condition, the cornea appears cloudy and may have an irregular surface. These corneal changes lead to visual impairment, including blurring, glare, and a loss of sharp vision (reduced visual acuity). Visual impairment is often associated with additional eye abnormalities, including "lazy eye" (amblyopia), eyes that do not look in the same direction (strabismus), involuntary eye movements (nystagmus), and increased sensitivity to light (photophobia).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: DCN
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DCN
+synonym(1): congenital hereditary stromal dystrophy of the cornea
+synonym(2): congenital stromal dystrophy of the cornea
+synonym(3): corneal dystrophy, congenital stromal
+synonym(4): CSCD
+synonym(5): DACS
+synonym(6): decorin-associated congenital stromal corneal dystrophy
+synonym(7): dystrophia corneae parenchymatosa congenita
+db-key(1)/db: GTR
+db-key(1)/key: C1864738
+db-key(2)/db: GeneReviews
+db-key(2)/key: csc-dys
+db-key(3)/db: MeSH
+db-key(3)/key: D003317
+db-key(4)/db: OMIM
+db-key(4)/key: 610048
+db-key(5)/db: Orphanet
+db-key(5)/key: 101068
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702359002
+reviewed: 2009-08
+published: 2018-04-17

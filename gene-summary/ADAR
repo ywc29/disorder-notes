@@ -1,0 +1,31 @@
+gene-symbol: ADAR
+name: adenosine deaminase, RNA specific
+ghr-page: https://ghr.nlm.nih.gov/gene/ADAR
+text/text-role: function
+text/html: <p>The <i>ADAR</i> gene provides instructions for making a protein called RNA-specific adenosine deaminase 1 (ADAR1). This protein is involved in making changes to (editing) ribonucleic acid (RNA), a chemical cousin of DNA. Specifically, it attaches (binds) to RNA and changes an RNA building block (nucleotide) called adenosine to another nucleotide called inosine.</p><p>The ADAR1 protein is involved in the control of the innate immune response, which is the immune system's early response to foreign invaders (pathogens). The adenosine-to-inosine editing performed by ADAR1 is thought to change certain areas of the body's own RNA that the immune system might interpret as belonging to a virus that should be attacked. In this way, the protein helps the immune system avoid inappropriate targeting of the body's own tissues.</p><p>The ADAR1 protein is also thought to inhibit the replication and spread of certain viruses, such as human immunodeficiency virus (HIV) and hepatitis C, by modifying their RNA. In addition, the ADAR1 protein controls the function of certain chemical messengers called neurotransmitters at particular sites in the body by modifying the RNA blueprint for receptor proteins that interact with the neurotransmitters. Studies suggest that the ADAR1 protein may have other functions that are not well understood.</p>
+related-health-condition/name: Aicardi-Goutières syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/aicardi-goutieres-syndrome
+synonym(1): 136 kDa double-stranded RNA-binding protein
+synonym(2): ADAR1
+synonym(3): adenosine deaminase acting on RNA 1-A
+synonym(4): AGS6
+synonym(5): DRADA
+synonym(6): DSH
+synonym(7): DSRAD
+synonym(8): dsRNA adenosine deaminase
+synonym(9): dsRNA adeonosine deaminase
+synonym(10): G1P1
+synonym(11): IFI-4
+synonym(12): IFI4
+synonym(13): interferon-induced protein 4
+synonym(14): interferon-inducible protein 4
+synonym(15): K88DSRBP
+synonym(16): P136
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 103
+db-key(2)/db: OMIM
+db-key(2)/key: 127400
+db-key(3)/db: OMIM
+db-key(3)/key: 146920
+reviewed: 2017-11
+published: 2018-04-17

@@ -1,0 +1,20 @@
+gene-symbol: RAG2
+name: recombination activating 2
+ghr-page: https://ghr.nlm.nih.gov/gene/RAG2
+text/text-role: function
+text/html: <p>The <i>RAG2</i> gene provides instructions for making a member of a group of proteins called the RAG complex. This complex is active in immune system cells (lymphocytes) called B cells and T cells. These cells have special proteins on their surface that recognize foreign invaders and help protect the body from infection. These proteins need to be diverse to be able to recognize a wide variety of substances. The genes from which these proteins are made contain segments known as variable (V), diversity (D), and joining (J) segments. During protein production within lymphocytes, these gene segments are rearranged in different combinations to increase variability of the resulting proteins. The RAG complex is involved in this process, which is known as V(D)J recombination.</p><p>During V(D)J recombination, the RAG complex attaches (binds) to a section of DNA called a recombination signal sequence (RSS), which is next to a V, D, or J segment. The RAG complex makes small cuts in the DNA between the segment and the RSS so the segment can be separated and moved to a different area in the gene. This process of DNA rearrangement within B cells and T cells is repeated multiple times in different areas so that the V, D, and J segments are arranged in various combinations. The variety of proteins produced throughout life following V(D)J recombination provides greater recognition of foreign invaders and allows the body to fight infection efficiently.</p>
+related-health-condition/name: Omenn syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/omenn-syndrome
+synonym(1): RAG-2
+synonym(2): recombination activating gene 2
+synonym(3): V(D)J recombination-activating protein 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5897
+db-key(2)/db: OMIM
+db-key(2)/key: 179616
+db-key(3)/db: OMIM
+db-key(3)/key: 233650
+db-key(4)/db: OMIM
+db-key(4)/key: 601457
+reviewed: 2017-02
+published: 2018-04-17

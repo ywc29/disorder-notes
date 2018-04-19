@@ -1,0 +1,22 @@
+gene-symbol: SGO1
+name: shugoshin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SGO1
+text/text-role: function
+text/html: <p>The <i>SGO1</i> gene provides instructions for making part of a protein complex called cohesin. This protein complex helps control the placement of chromosomes during cell division. Before cells divide, they must copy all of their chromosomes. The copied DNA from each chromosome is arranged into two identical structures, called sister chromatids, which are attached to one another during the early stages of cell division. Cohesin holds the sister chromatids together, and in doing so helps maintain the stability of chromosomal structure during cell division.</p>
+related-health-condition/name: chronic atrial and intestinal dysrhythmia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/chronic-atrial-and-intestinal-dysrhythmia
+synonym(1): hSgo1
+synonym(2): NY-BR-85
+synonym(3): serologically defined breast cancer antigen NY-BR-85
+synonym(4): SGO
+synonym(5): Sgo1
+synonym(6): SGOL1
+synonym(7): SGOL1_HUMAN
+synonym(8): shugoshin-like 1
+synonym(9): shugoshin-like 1 (S. pombe)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 151648
+db-key(2)/db: OMIM
+db-key(2)/key: 609168
+reviewed: 2015-05
+published: 2018-04-17

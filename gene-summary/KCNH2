@@ -1,0 +1,28 @@
+gene-symbol: KCNH2
+name: potassium voltage-gated channel subfamily H member 2
+ghr-page: https://ghr.nlm.nih.gov/gene/KCNH2
+text/text-role: function
+text/html: <p>The <i>KCNH2</i> gene belongs to a large family of genes that provide instructions for making potassium channels. These channels, which transport positively charged atoms (ions) of potassium out of cells, play key roles in a cell's ability to generate and transmit electrical signals.</p><p>The specific function of a potassium channel depends on its protein components and its location in the body. Channels made with KCNH2 proteins (also known as hERG1) are active in heart (cardiac) muscle. They are involved in recharging the cardiac muscle after each heartbeat to maintain a regular rhythm. The KCNH2 protein is also produced in nerve cells and certain immune cells (microglia) in the brain and spinal cord (central nervous system).</p><p>The proteins produced from the <i>KCNH2</i> gene and another gene, <i>KCNE2</i>, interact to form a functional potassium channel. Four alpha subunits, each produced from the <i>KCNH2</i> gene, form the structure of each channel. One beta subunit, produced from the <i>KCNE2</i> gene, attaches (binds) to the channel and regulates its activity.</p>
+related-health-condition(1)/name: familial atrial fibrillation
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-atrial-fibrillation
+related-health-condition(2)/name: Romano-Ward syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/romano-ward-syndrome
+related-health-condition(3)/name: short QT syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/short-qt-syndrome
+synonym(1): ERG1
+synonym(2): ether-a-go-go related gene potassium channel 1
+synonym(3): H-ERG
+synonym(4): HERG
+synonym(5): HERG1
+synonym(6): human ether a-go-go-related gene
+synonym(7): KCNH2_HUMAN
+synonym(8): Kv11.1
+synonym(9): LQT2
+synonym(10): potassium channel, voltage gated eag related subfamily H, member 2
+synonym(11): potassium voltage-gated channel, subfamily H (eag-related), member 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3757
+db-key(2)/db: OMIM
+db-key(2)/key: 152427
+reviewed: 2017-05
+published: 2018-04-17

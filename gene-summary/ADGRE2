@@ -1,0 +1,16 @@
+gene-symbol: ADGRE2
+name: adhesion G protein-coupled receptor E2
+ghr-page: https://ghr.nlm.nih.gov/gene/ADGRE2
+text/text-role: function
+text/html: <p>The <i>ADGRE2</i> gene provides instructions for making a protein found in several types of immune system cells, including mast cells. Mast cells, which are found in many body tissues including the skin, are important for the normal protective functions of the immune system. They also play a role in allergic reactions, which occur when the immune system overreacts to stimuli that are not harmful. The specific role of the ADGRE2 protein in mast cells is not well understood.</p><p>The ADGRE2 protein consists of two parts (subunits) that interact with each other: an alpha subunit that lies on the outside surface of the cell and a beta subunit that crosses the cell membrane and extends into the cell.</p>
+related-health-condition/name: vibratory urticaria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/vibratory-urticaria
+synonym(1): CD312
+synonym(2): EGF-like module-containing mucin-like hormone receptor-like 2
+synonym(3): EMR2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 30817
+db-key(2)/db: OMIM
+db-key(2)/key: 606100
+reviewed: 2016-07
+published: 2018-04-17

@@ -1,0 +1,23 @@
+gene-symbol: AFF2
+name: AF4/FMR2 family member 2
+ghr-page: https://ghr.nlm.nih.gov/gene/AFF2
+text/text-role: function
+text/html: <p>The <i>AFF2</i> gene provides instructions for making a protein that is found in the nucleus of cells but whose function is not well understood. Some studies suggest that it acts as a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of other genes, although the identity of these genes is unknown. Other studies show that the protein can attach to specific regions of messenger RNA (mRNA), which is a chemical cousin of DNA that serves as the genetic blueprint for protein production. It is thought that the AFF2 protein helps control the process by which the mRNA blueprint is cut and rearranged to produce different versions of proteins (alternative splicing).</p><p>One region of the <i>AFF2</i> gene contains a particular DNA segment known as a CCG trinucleotide repeat, so called because this segment of three DNA building blocks (nucleotides) is repeated multiple times within the gene. In most people, the number of CCG repeats ranges from 4 to about 40.</p>
+related-health-condition/name: fragile XE syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/fragile-xe-syndrome
+synonym(1): AF4/FMR2 family, member 2
+synonym(2): AFF2_HUMAN
+synonym(3): FMR2
+synonym(4): FMR2P
+synonym(5): fragile X E mental retardation syndrome protein
+synonym(6): fragile X mental retardation 2 protein
+synonym(7): FRAXE
+synonym(8): MRX2
+synonym(9): OX19
+synonym(10): protein FMR-2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2334
+db-key(2)/db: OMIM
+db-key(2)/key: 300806
+reviewed: 2014-01
+published: 2018-04-17

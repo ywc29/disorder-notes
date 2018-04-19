@@ -1,0 +1,20 @@
+gene-symbol: WNT3
+name: Wnt family member 3
+ghr-page: https://ghr.nlm.nih.gov/gene/WNT3
+text/text-role: function
+text/html: <p>The <i>WNT3</i> gene is part of a large family of WNT genes, which play critical roles in development before birth.  WNT genes provide instructions for making proteins that participate in chemical signaling pathways in the body.  These pathways control the activity of certain genes and regulate the interactions between cells during embryonic development.</p><p>Research in animals indicates that the protein produced from the <i>WNT3</i> gene is critical for the outgrowth of the limbs in the developing embryo.  The WNT3 protein also appears to play an important role in determining the anterior-posterior axis (the imaginary line that runs from head to tail in animals) during the earliest stages of embryonic development.  Additionally, the effects of mutations in the human <i>WNT3</i> gene suggest that the protein may be involved in the normal formation of the facial features, head, heart, lungs, nervous system, skeleton, and genitalia.</p>
+related-health-condition/name: tetra-amelia syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/tetra-amelia-syndrome
+synonym(1): INT4
+synonym(2): Oncogene INT4
+synonym(3): Proto-oncogene protein Wnt-3
+synonym(4): wingless-type MMTV integration site family member 3
+synonym(5): wingless-type MMTV integration site family, member 3
+synonym(6): WNT-3 proto-oncogene protein
+synonym(7): WNT3_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7473
+db-key(2)/db: OMIM
+db-key(2)/key: 165330
+reviewed: 2008-02
+published: 2018-04-17

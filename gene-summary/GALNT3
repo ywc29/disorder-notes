@@ -1,0 +1,22 @@
+gene-symbol: GALNT3
+name: polypeptide N-acetylgalactosaminyltransferase 3
+ghr-page: https://ghr.nlm.nih.gov/gene/GALNT3
+text/text-role: function
+text/html: <p>The <i>GALNT3</i> gene provides instructions for making a protein called ppGalNacT3, which is found in many types of cells. This protein plays a major role in regulating phosphate levels within the body (phosphate homeostasis). Among its many functions, phosphate plays a critical role in the formation and growth of bones in childhood and helps maintain bone strength in adults. Phosphate levels are controlled in large part by the kidneys. The kidneys normally rid the body of excess phosphate by excreting it in urine, and they reabsorb this mineral into the bloodstream when more is needed.</p><p>The ppGalNacT3 protein regulates the activity of a protein called fibroblast growth factor 23, which is produced in bone cells and whose function is to signal the body to decrease phosphate reabsorption by the kidneys. The ppGalNacT3 protein attaches sugar molecules to particular regions of fibroblast growth factor 23 through a process called glycosylation. These sugar molecules are required for the protein's transport out of cells and to protect the protein from being broken down. When phosphate levels are increased, ppGalNacT3 glycosylates fibroblast growth factor 23 so it will not be broken down. Signaling from fibroblast growth factor 23 leads to a decrease in phosphate reabsorption, which helps to maintain normal phosphate levels in the body.</p>
+related-health-condition/name: hyperphosphatemic familial tumoral calcinosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hyperphosphatemic-familial-tumoral-calcinosis
+synonym(1): GalNAc-T3
+synonym(2): GalNAc transferase 3
+synonym(3): GALT3_HUMAN
+synonym(4): polypeptide GalNAc transferase 3
+synonym(5): polypeptide GalNAc-transferase T3
+synonym(6): pp-GaNTase 3
+synonym(7): protein-UDP acetylgalactosaminyltransferase 3
+synonym(8): UDP-GalNAc:polypeptide N-acetylgalactosaminyltransferase 3
+synonym(9): UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 3 (GalNAc-T3)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2591
+db-key(2)/db: OMIM
+db-key(2)/key: 601756
+reviewed: 2012-08
+published: 2018-04-17

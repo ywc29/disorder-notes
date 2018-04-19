@@ -1,0 +1,26 @@
+gene-symbol: SERPINC1
+name: serpin family C member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SERPINC1
+text/text-role: function
+text/html: <p>The <i>SERPINC1</i> gene provides instructions for making a protein called antithrombin (previously known as antithrombin III), which is a type of serine protease inhibitor (serpin).  Serpins help control several types of chemical reactions by blocking the activity of certain proteins. Antithrombin is found in the bloodstream and is important for controlling blood clotting.</p><p>Antithrombin blocks the activity of proteins that promote blood clotting, especially a protein called thrombin. Antithrombin attaches (binds) to thrombin and certain other clotting proteins, which are then cleared from the bloodstream by the liver.</p><p>While one part of antithrombin binds to thrombin and other clotting proteins, another part of the protein binds to a substance called heparin. Antithrombin changes its shape when it binds to heparin. This change in shape allows antithrombin to inactivate clotting proteins at a much faster rate.</p>
+related-health-condition/name: hereditary antithrombin deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-antithrombin-deficiency
+synonym(1): ANT3_HUMAN
+synonym(2): antithrombin (aa 375-432)
+synonym(3): antithrombin III
+synonym(4): AT3
+synonym(5): ATIII
+synonym(6): coding sequence signal peptide antithrombin part 1
+synonym(7): heparin cofactor I
+synonym(8): MGC22579
+synonym(9): serine (or cysteine) proteinase inhibitor, clade C (antithrombin), member 1
+synonym(10): serine-cysteine proteinase inhibitor clade C member 1
+synonym(11): serpin peptidase inhibitor, clade C (antithrombin), member 1
+synonym(12): serpin peptidase inhibitor, clade C, member 1
+synonym(13): signal peptide antithrombin part 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 462
+db-key(2)/db: OMIM
+db-key(2)/key: 107300
+reviewed: 2009-08
+published: 2018-04-17

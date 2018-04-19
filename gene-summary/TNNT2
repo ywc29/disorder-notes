@@ -1,0 +1,30 @@
+gene-symbol: TNNT2
+name: troponin T2, cardiac type
+ghr-page: https://ghr.nlm.nih.gov/gene/TNNT2
+text/text-role: function
+text/html: <p>The <i>TNNT2</i> gene provides instructions for making a protein called cardiac troponin T, which is found solely in the heart (cardiac) muscle. Cardiac troponin T is one of three proteins that make up the troponin protein complex in cardiac muscle cells. The troponin complex is part of a structure called the sarcomere, which is the basic unit of muscle contraction. Sarcomeres are made up of thick and thin filaments. The overlapping thick and thin filaments attach (bind) to each other and release, which allows the filaments to move relative to one another so that muscles can contract. The troponin complex, along with calcium, helps regulate contraction of cardiac muscle.</p><p>For the heart to beat normally, cardiac muscle must contract and relax in a coordinated way. Cardiac troponin T helps coordinate contraction of the heart muscle. When calcium levels are low, the troponin complex binds to the thin filament in sarcomeres, which blocks the interaction between the thick and thin filaments that is needed for muscle contraction. An increase in calcium levels causes structural changes in the troponin complex, which allows the thick and thin filaments to interact, leading to contraction of the heart muscle.</p>
+related-health-condition(1)/name: familial dilated cardiomyopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+related-health-condition(2)/name: familial hypertrophic cardiomyopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hypertrophic-cardiomyopathy
+related-health-condition(3)/name: familial restrictive cardiomyopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-restrictive-cardiomyopathy
+related-health-condition(4)/name: left ventricular noncompaction
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/left-ventricular-noncompaction
+synonym(1): cardiac muscle troponin T
+synonym(2): cTnT
+synonym(3): LVNC6
+synonym(4): RCM3
+synonym(5): TNNT2_HUMAN
+synonym(6): TnTC
+synonym(7): troponin T type 2 (cardiac)
+synonym(8): troponin T, cardiac muscle
+synonym(9): troponin T2, cardiac
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7139
+db-key(2)/db: OMIM
+db-key(2)/key: 191045
+db-key(3)/db: OMIM
+db-key(3)/key: 601494
+reviewed: 2013-02
+published: 2018-04-17

@@ -1,0 +1,31 @@
+name: Malignant migrating partial seizures of infancy
+ghr-page: https://ghr.nlm.nih.gov/condition/malignant-migrating-partial-seizures-of-infancy
+text/text-role: description
+text/html: <p>Malignant migrating partial seizures of infancy (MMPSI) is a severe form of epilepsy that begins very early in life. Recurrent seizures begin before the age of 6 months but commonly start within a few weeks of birth. The seizures do not respond well to treatment. Although affected individuals may develop normally at first, progression stalls and skills decline when seizures begin; as a result, affected individuals have profound developmental delay.</p><p>The seizures in MMPSI are described as partial (or focal) because the seizure activity occurs in regions of the brain rather than affecting the entire brain. Seizure activity can appear in multiple locations in the brain or move (migrate) from one region to another during an episode. Depending on the region affected, seizures can involve sudden redness and warmth (flushing) of the face; drooling; short pauses in breathing (apnea); movement of the head or eyes to one side; twitches in the eyelids or tongue; chewing motions; or jerking of an arm, leg, or both on one side of the body. If seizure activity spreads to affect the entire brain, it causes a loss of consciousness, muscle stiffening, and rhythmic jerking (tonic-clonic seizure). Episodes that begin as partial seizures and spread throughout the brain are known as secondarily generalized seizures.</p><p>Initially, the seizures associated with MMPSI are relatively infrequent, occurring every few weeks. Within a few months of the seizures starting, though, the frequency increases. Affected individuals can have clusters of five to 30 seizures several times a day. Each seizure typically lasts seconds to a couple of minutes, but they can be prolonged (classified as status epilepticus). In some cases, the seizure activity may be almost continuous for several days. After a year or more of persistent seizures, the episodes become less frequent.</p><p>Seizures can affect growth of the brain and lead to a small head size (microcephaly). The problems with brain development can also cause profound developmental delay and intellectual impairment. Affected babies often lose the mental and motor skills they developed after birth, such as the ability to make eye contact and control their head movement. Many have weak muscle tone (hypotonia) and become "floppy." If seizures can be controlled for a short period, development may improve. Some affected children learn to reach for objects or walk. However, most children with this condition do not develop language skills.</p><p>Because of the serious health problems caused by MMPSI, many affected individuals do not survive past infancy or early childhood.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: KCNT1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNT1
+related-gene(2)/gene-symbol: SCN1A
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN1A
+related-gene(3)/gene-symbol: TBC1D24
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/TBC1D24
+synonym(1): early infantile epileptic encephalopathy 14
+synonym(2): EIEE14
+synonym(3): malignant migrating partial epilepsy of infancy
+synonym(4): migrating partial epilepsy of infancy
+synonym(5): migrating partial seizures in infancy
+synonym(6): migrating partial seizures of infancy
+synonym(7): MMPSI
+db-key(1)/db: GTR
+db-key(1)/key: C3554195
+db-key(2)/db: MeSH
+db-key(2)/key: D013036
+db-key(3)/db: OMIM
+db-key(3)/key: 614959
+db-key(4)/db: Orphanet
+db-key(4)/key: 293181
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 432001000124109
+reviewed: 2014-03
+published: 2018-04-17

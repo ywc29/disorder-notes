@@ -1,0 +1,26 @@
+name: Factor V Leiden thrombophilia
+ghr-page: https://ghr.nlm.nih.gov/condition/factor-v-leiden-thrombophilia
+text/text-role: description
+text/html: <p>Factor V Leiden thrombophilia is an inherited disorder of blood clotting. Factor V Leiden is the name of a specific gene mutation that results in thrombophilia, which is an increased tendency to form abnormal blood clots that can block blood vessels.</p><p>People with factor V Leiden thrombophilia have a higher than average risk of developing a type of blood clot called a deep venous thrombosis (DVT). DVTs occur most often in the legs, although they can also occur in other parts of the body, including the brain, eyes, liver, and kidneys. Factor V Leiden thrombophilia also increases the risk that clots will break away from their original site and travel through the bloodstream. These clots can lodge in the lungs, where they are known as pulmonary emboli. Although factor V Leiden thrombophilia increases the risk of blood clots, only about 10 percent of individuals with the factor V Leiden mutation ever develop abnormal clots.</p><p>The factor V Leiden mutation is associated with a slightly increased risk of pregnancy loss (miscarriage). Women with this mutation are two to three times more likely to have multiple (recurrent) miscarriages or a pregnancy loss during the second or third trimester. Some research suggests that the factor V Leiden mutation may also increase the risk of other complications during pregnancy, including pregnancy-induced high blood pressure (preeclampsia), slow fetal growth, and early separation of the placenta from the uterine wall (placental abruption). However, the association between the factor V Leiden mutation and these complications has not been confirmed. Most women with factor V Leiden thrombophilia have normal pregnancies.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene/gene-symbol: F5
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/F5
+synonym(1): APC resistance, Leiden type
+synonym(2): Hereditary resistance to activated protein C
+db-key(1)/db: GTR
+db-key(1)/key: C1861171
+db-key(2)/db: GTR
+db-key(2)/key: C2674152
+db-key(3)/db: GeneReviews
+db-key(3)/key: factor-v-leiden
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: D68.51
+db-key(5)/db: MeSH
+db-key(5)/key: D020016
+db-key(6)/db: OMIM
+db-key(6)/key: 188055
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 421527008
+reviewed: 2010-08
+published: 2018-04-17

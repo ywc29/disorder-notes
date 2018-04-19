@@ -1,0 +1,29 @@
+name: Cryptogenic cirrhosis
+ghr-page: https://ghr.nlm.nih.gov/condition/cryptogenic-cirrhosis
+text/text-role: description
+text/html: <p>Cryptogenic cirrhosis is a condition that impairs liver function. People with this condition develop irreversible liver disease caused by scarring of the liver (cirrhosis), typically in mid- to late adulthood.</p><p>The liver is a part of the digestive system that helps break down food, store energy, and remove waste products, including toxins. Minor damage to the liver can be repaired by the body. However, severe or long-term damage can lead to the replacement of normal liver tissue with scar tissue.</p><p>In the early stages of cryptogenic cirrhosis, people often have no symptoms because the liver has enough normal tissue to function. Signs and symptoms become apparent as more of the liver is replaced by scar tissue. Affected individuals can experience fatigue, weakness, loss of appetite, weight loss, nausea, swelling (edema), enlarged blood vessels, and yellowing of the skin and whites of the eyes (jaundice).</p><p>People with cryptogenic cirrhosis may develop high blood pressure in the vein that supplies blood to the liver (portal hypertension). Cryptogenic cirrhosis can lead to type 2 diabetes, although the mechanism is unclear. Some people with cryptogenic cirrhosis develop cancer of the liver (hepatocellular cancer).</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: n
+inheritance-pattern(2)/memo: not inherited
+inheritance-pattern(3)/code: u
+inheritance-pattern(3)/memo: pattern unknown
+related-gene(1)/gene-symbol: KRT8
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT8
+related-gene(2)/gene-symbol: KRT18
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT18
+synonym: cirrhosis, cryptogenic
+db-key(1)/db: GTR
+db-key(1)/key: C0267809
+db-key(2)/db: GTR
+db-key(2)/key: C1861556
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: K74.69
+db-key(4)/db: MeSH
+db-key(4)/key: D008103
+db-key(5)/db: OMIM
+db-key(5)/key: 215600
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 89580002
+reviewed: 2016-03
+published: 2018-04-17

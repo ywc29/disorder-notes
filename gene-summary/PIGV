@@ -1,0 +1,22 @@
+gene-symbol: PIGV
+name: phosphatidylinositol glycan anchor biosynthesis class V
+ghr-page: https://ghr.nlm.nih.gov/gene/PIGV
+text/text-role: function
+text/html: <p>The <i>PIGV</i> gene provides instructions for making an enzyme called GPI mannosyltransferase 2. This enzyme takes part in a series of steps that produce a molecule called a glycosylphosphosphatidylinositol (GPI) anchor. Specifically, GPI mannosyltransferase 2 adds the second of three molecules of a complex sugar called mannose to the GPI anchor. This step takes place in the endoplasmic reticulum, which is a structure involved in protein processing and transport within cells. The complete GPI anchor attaches (binds) to various proteins in the endoplasmic reticulum. After the anchor and protein are bound, the anchor attaches itself to the outer surface of the cell membrane, ensuring that the protein will be available when it is needed.</p>
+related-health-condition/name: Mabry syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mabry-syndrome
+synonym(1): dol-P-Man dependent GPI mannosyltransferase
+synonym(2): FLJ20477
+synonym(3): GPI mannosyltransferase 2
+synonym(4): GPI mannosyltransferase II
+synonym(5): GPI-MT-II
+synonym(6): HPMRS1
+synonym(7): phosphatidylinositol glycan anchor biosynthesis, class V
+synonym(8): PIG-V
+synonym(9): PIGV_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 55650
+db-key(2)/db: OMIM
+db-key(2)/key: 610274
+reviewed: 2013-08
+published: 2018-04-17

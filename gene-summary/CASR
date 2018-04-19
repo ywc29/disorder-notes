@@ -1,0 +1,26 @@
+gene-symbol: CASR
+name: calcium sensing receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/CASR
+text/text-role: function
+text/html: <p>The <i>CASR</i> gene provides instructions for making a protein called the calcium-sensing receptor (CaSR). Calcium molecules attach (bind) to CaSR, which allows this protein to monitor and regulate the amount of calcium in the blood. The receptor is turned on (activated) when a certain concentration of calcium is reached, and the activated receptor sends signals to block processes that increase the amount of calcium in the blood.</p><p>The CaSR protein is found in abundance in cells of the parathyroid glands. The parathyroid glands produce and release a hormone called parathyroid hormone that works to increase the levels of calcium in the blood. When large amounts of calcium bind to CaSR in the parathyroid glands, the production of parathyroid hormone is blocked, which prevents the release of more calcium into the blood. CaSR signaling also blocks the growth and division (proliferation) of cells that make up the parathyroid glands.</p><p>The CaSR protein is also found in kidney cells. Kidneys filter fluid and waste products in the body and can reabsorb needed nutrients and release them back into the blood. Increased calcium binding to CaSR in kidney cells blocks the reabsorption of calcium from the filtered fluids.</p>
+related-health-condition(1)/name: autosomal dominant hypocalcemia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-hypocalcemia
+related-health-condition(2)/name: familial isolated hyperparathyroidism
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-isolated-hyperparathyroidism
+synonym(1): calcium-sensing receptor
+synonym(2): CAR
+synonym(3): extracellular calcium-sensing receptor
+synonym(4): GPRC2A
+synonym(5): parathyroid Ca(2+)-sensing receptor 1
+synonym(6): parathyroid cell calcium-sensing receptor
+synonym(7): PCAR1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 846
+db-key(2)/db: OMIM
+db-key(2)/key: 145980
+db-key(3)/db: OMIM
+db-key(3)/key: 239200
+db-key(4)/db: OMIM
+db-key(4)/key: 601199
+reviewed: 2015-02
+published: 2018-04-17

@@ -1,0 +1,8 @@
+gene-symbol: GABRG2
+name: gamma-aminobutyric acid type A receptor gamma2 subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/GABRG2
+related-health-condition/name: genetic epilepsy with febrile seizures plus
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/genetic-epilepsy-with-febrile-seizures-plus
+db-key/db: NCBI Gene
+db-key/key: 2566
+published: 2018-04-17

@@ -1,0 +1,42 @@
+name: Marfan syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/marfan-syndrome
+text/text-role: description
+text/html: <p>Marfan syndrome is a disorder that affects the connective tissue in many parts of the body. Connective tissue provides strength and flexibility to structures such as bones, ligaments, muscles, blood vessels, and heart valves. The signs and symptoms of Marfan syndrome vary widely in severity, timing of onset, and rate of progression.</p><p>The two primary features of Marfan syndrome are vision problems caused by a dislocated lens (ectopia lentis) in one or both eyes and defects in the large blood vessel that distributes blood from the heart to the rest of the body (the aorta). The aorta can weaken and stretch, which may lead to a bulge in the blood vessel wall (an aneurysm). Stretching of the aorta may cause the aortic valve to leak, which can lead to a sudden tearing of the layers in the aorta wall (aortic dissection). Aortic aneurysm and dissection can be life threatening.</p><p>Many people with Marfan syndrome have additional heart problems including a leak in the valve that connects two of the four chambers of the heart (mitral valve prolapse) or the valve that regulates blood flow from the heart into the aorta (aortic valve regurgitation). Leaks in these valves can cause shortness of breath, fatigue, and an irregular heartbeat felt as skipped or extra beats (palpitations).</p><p>Individuals with Marfan syndrome are usually tall and slender, have elongated fingers and toes (arachnodactyly), and have an arm span that exceeds their body height. Other common features include a long and narrow face, crowded teeth, an abnormal curvature of the spine (scoliosis or kyphosis), and either a sunken chest (pectus excavatum) or a protruding chest (pectus carinatum). Some individuals develop an abnormal accumulation of air in the chest cavity that can result in the collapse of a lung (spontaneous pneumothorax). A membrane called the dura, which surrounds the brain and spinal cord, can be abnormally enlarged (dural ectasia) in people with Marfan syndrome. Dural ectasia can cause pain in the back, abdomen, legs, or head. Most individuals with Marfan syndrome have some degree of nearsightedness (myopia). Clouding of the lens (cataract) may occur in mid-adulthood, and increased pressure within the eye (glaucoma) occurs more frequently in people with Marfan syndrome than in those without the condition.</p><p>The features of Marfan syndrome can become apparent anytime between infancy and adulthood. Depending on the onset and severity of signs and symptoms, Marfan can be fatal early in life; however, the majority of affected individuals survive into mid- to late adulthood.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FBN1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FBN1
+synonym(1): Marfan's syndrome
+synonym(2): MFS
+db-key(1)/db: GTR
+db-key(1)/key: C0024796
+db-key(2)/db: GeneReviews
+db-key(2)/key: marfan
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q87.4
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: Q87.40
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: Q87.41
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: Q87.42
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: Q87.43
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: Q87.410
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: Q87.418
+db-key(10)/db: MeSH
+db-key(10)/key: D008382
+db-key(11)/db: OMIM
+db-key(11)/key: 154700
+db-key(12)/db: Orphanet
+db-key(12)/key: 558
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 19346006
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 234035006
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 57201002
+reviewed: 2012-03
+published: 2018-04-17

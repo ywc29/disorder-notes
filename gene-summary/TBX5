@@ -1,0 +1,16 @@
+gene-symbol: TBX5
+name: T-box 5
+ghr-page: https://ghr.nlm.nih.gov/gene/TBX5
+text/text-role: function
+text/html: <p>The <i>TBX5</i> gene provides instructions for making a protein called T-box 5 that plays an important role in the formation of tissues and organs during embryonic development.  This protein regulates the activity of other genes by attaching (binding) to specific regions of DNA. On the basis of this action, the T-box 5 protein is called a transcription factor.</p><p>During embryonic development, the T-box 5 protein turns on (activates) genes involved in the normal development of the hands and arms (upper limbs). The T-box 5 protein also activates genes that play an important role in the growth and development of the heart. This protein appears to be particularly important for the formation of the wall (septum) that separates the right and left sides of the heart. The T-box 5 protein is also critical to the formation of the electrical system that coordinates contractions of the heart chambers.</p>
+related-health-condition/name: Holt-Oram syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/holt-oram-syndrome
+synonym(1): HOS
+synonym(2): T-box transcription factor TBX5
+synonym(3): TBX5_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6910
+db-key(2)/db: OMIM
+db-key(2)/key: 601620
+reviewed: 2009-12
+published: 2018-04-17

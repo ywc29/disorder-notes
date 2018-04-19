@@ -1,0 +1,29 @@
+name: Schwartz-Jampel syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/schwartz-jampel-syndrome
+text/text-role: description
+text/html: <p>Schwartz-Jampel syndrome is a rare condition characterized by permanent muscle stiffness (myotonia) and bone abnormalities known as chondrodysplasia. The signs and symptoms of this condition become apparent sometime after birth, usually in early childhood. Either muscle stiffness or chondrodysplasia can appear first. The muscle and bone abnormalities worsen in childhood, although most affected individuals have a normal lifespan. The specific features of Schwartz-Jampel syndrome vary widely.</p><p>Myotonia involves continuous tensing (contraction) of muscles used for movement (skeletal muscles) throughout the body. This sustained muscle contraction causes stiffness that interferes with eating, sitting, walking, and other movements. Sustained contraction of muscles in the face leads to a fixed, "mask-like" facial expression with narrow eye openings (blepharophimosis) and pursed lips. This facial appearance is very specific to Schwartz-Jampel syndrome. Affected individuals may also be nearsighted and experience abnormal blinking or spasms of the eyelids (blepharospasm).</p><p>Chondrodysplasia affects the development of the skeleton, particularly the long bones in the arms and legs and the bones of the hips. These bones are shortened and unusually wide at the ends, so affected individuals have short stature. The long bones may also be abnormally curved (bowed). Other bone abnormalities associated with Schwartz-Jampel syndrome include a protruding chest (pectus carinatum), abnormal curvature of the spine, flattened bones of the spine (platyspondyly), and joint abnormalities called contractures that further restrict movement.</p><p>Researchers originally described two types of Schwartz-Jampel syndrome. Type 1 has the signs and symptoms described above, while type 2 has more severe bone abnormalities and other health problems and is usually life-threatening in early infancy. Researchers have since discovered that the condition they thought was Schwartz-Jampel syndrome type 2 is actually part of another disorder, Stüve-Wiedemann syndrome, which is caused by mutations in a different gene. They have recommended that the designation Schwartz-Jampel syndrome type 2 no longer be used.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: HSPG2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HSPG2
+synonym(1): chondrodystrophic myotonia
+synonym(2): myotonic myopathy, dwarfism, chondrodystrophy, and ocular and facial abnormalities
+synonym(3): Schwartz-Jampel-Aberfeld syndrome
+synonym(4): Schwartz-Jampel syndrome, type 1
+synonym(5): SJA syndrome
+synonym(6): SJS
+synonym(7): SJS1
+db-key(1)/db: GTR
+db-key(1)/key: C0036391
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: G71.13
+db-key(3)/db: MeSH
+db-key(3)/key: D010009
+db-key(4)/db: OMIM
+db-key(4)/key: 255800
+db-key(5)/db: Orphanet
+db-key(5)/key: 800
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 29145002
+reviewed: 2016-04
+published: 2018-04-17

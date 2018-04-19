@@ -1,0 +1,16 @@
+gene-symbol: DDC
+name: dopa decarboxylase
+ghr-page: https://ghr.nlm.nih.gov/gene/DDC
+text/text-role: function
+text/html: <p>The <i>DDC</i> gene provides instructions for making the aromatic l-amino acid decarboxylase (AADC) enzyme, which is important in the brain and nervous system. This enzyme takes part in the pathway that produces dopamine and serotonin, which are chemical messengers that transmit signals between nerve cells (neurotransmitters).</p><p>Dopamine is produced from the protein building block (amino acid) tyrosine, and serotonin is produced from the amino acid tryptophan. Both neurotransmitters are produced in two-step processes. First, other enzymes control the reactions that convert tyrosine to L-dopa, and tryptophan to 5-hydroxytryptophan. The AADC enzyme then converts L-dopa and 5-hydroxytryptophan to dopamine and serotonin, respectively. To do this, it removes a molecular structure called a carboxyl group, consisting of a carbon atom, two oxygen atoms, and a hydrogen atom.</p>
+related-health-condition/name: aromatic l-amino acid decarboxylase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/aromatic-l-amino-acid-decarboxylase-deficiency
+synonym(1): AADC
+synonym(2): aromatic L-amino acid decarboxylase
+synonym(3): dopa decarboxylase (aromatic L-amino acid decarboxylase)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1644
+db-key(2)/db: OMIM
+db-key(2)/key: 107930
+reviewed: 2008-05
+published: 2018-04-17

@@ -1,0 +1,66 @@
+name: Gaucher disease
+ghr-page: https://ghr.nlm.nih.gov/condition/gaucher-disease
+text/text-role: description
+text/html: <p>Gaucher disease is an inherited disorder that affects many of the body's organs and tissues.  The signs and symptoms of this condition vary widely among affected individuals.  Researchers have described several types of Gaucher disease based on their characteristic features.</p><p>Type 1 Gaucher disease is the most common form of this condition.  Type 1 is also called non-neuronopathic Gaucher disease because the brain and spinal cord (the central nervous system) are usually not affected. The features of this condition range from mild to severe and may appear anytime from childhood to adulthood.  Major signs and symptoms include enlargement of the liver and spleen (hepatosplenomegaly), a low number of red blood cells (anemia), easy bruising caused by a decrease in blood platelets (thrombocytopenia), lung disease, and bone abnormalities such as bone pain, fractures, and arthritis.</p><p>Types 2 and 3 Gaucher disease are known as neuronopathic forms of the disorder because they are characterized by problems that affect the central nervous system. In addition to the signs and symptoms described above, these conditions can cause abnormal eye movements, seizures, and brain damage. Type 2 Gaucher disease usually causes life-threatening medical problems beginning in infancy. Type 3 Gaucher disease also affects the nervous system, but it tends to worsen more slowly than type 2.</p><p>The most severe type of Gaucher disease is called the perinatal lethal form.  This condition causes severe or life-threatening complications starting before birth or in infancy.  Features of the perinatal lethal form can include extensive swelling caused by fluid accumulation before birth (hydrops fetalis); dry, scaly skin (ichthyosis) or other skin abnormalities; hepatosplenomegaly; distinctive facial features; and serious neurological problems.  As its name indicates, most infants with the perinatal lethal form of Gaucher disease survive for only a few days after birth.</p><p>Another form of Gaucher disease is known as the cardiovascular type because it primarily affects the heart, causing the heart valves to harden (calcify).  People with the cardiovascular form of Gaucher disease may also have eye abnormalities, bone disease, and mild enlargement of the spleen (splenomegaly).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: GBA
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GBA
+synonym(1): cerebroside lipidosis syndrome
+synonym(2): Gaucher splenomegaly
+synonym(3): Gaucher syndrome
+synonym(4): Gaucher's disease
+synonym(5): Gauchers disease
+synonym(6): GD
+synonym(7): glucocerebrosidase deficiency
+synonym(8): glucocerebrosidosis
+synonym(9): glucosyl cerebroside lipidosis
+synonym(10): glucosylceramidase deficiency
+synonym(11): glucosylceramide beta-glucosidase deficiency
+synonym(12): glucosylceramide lipidosis
+synonym(13): kerasin histiocytosis
+synonym(14): kerasin lipoidosis
+synonym(15): kerasin thesaurismosis
+synonym(16): lipoid histiocytosis (kerasin type)
+db-key(1)/db: GTR
+db-key(1)/key: C0017205
+db-key(2)/db: GTR
+db-key(2)/key: C0268250
+db-key(3)/db: GTR
+db-key(3)/key: C0268251
+db-key(4)/db: GTR
+db-key(4)/key: C1856476
+db-key(5)/db: GTR
+db-key(5)/key: C1856491
+db-key(6)/db: GTR
+db-key(6)/key: C1856492
+db-key(7)/db: GTR
+db-key(7)/key: C1961835
+db-key(8)/db: GeneReviews
+db-key(8)/key: gaucher
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: E75.22
+db-key(10)/db: MeSH
+db-key(10)/key: D005776
+db-key(11)/db: OMIM
+db-key(11)/key: 230800
+db-key(12)/db: OMIM
+db-key(12)/key: 230900
+db-key(13)/db: OMIM
+db-key(13)/key: 231000
+db-key(14)/db: OMIM
+db-key(14)/key: 231005
+db-key(15)/db: Orphanet
+db-key(15)/key: 355
+db-key(16)/db: Orphanet
+db-key(16)/key: 2072
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 12246008
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 190794006
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 5963005
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 62201009
+reviewed: 2014-09
+published: 2018-04-17

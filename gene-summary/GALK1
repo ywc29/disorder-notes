@@ -1,0 +1,18 @@
+gene-symbol: GALK1
+name: galactokinase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/GALK1
+text/text-role: function
+text/html: <p>The <i>GALK1</i> gene provides instructions for making an enzyme called galactokinase 1.  This enzyme enables the body to process a simple sugar called galactose, which is present in small amounts in many foods. Galactose is primarily part of a larger sugar called lactose, which is found in all dairy products and many baby formulas.</p><p>Galactokinase 1 is responsible for one step in a chemical process that converts galactose into other molecules that can be used by the body.  Specifically, this enzyme modifies galactose to create a similar molecule called galactose-1-phosphate.  A series of additional steps converts galactose-1-phosphate to another simple sugar called glucose, which is the main energy source for most cells.  Galactose-1-phosphate can also be converted to a form that is used to build galactose-containing proteins and fats.  These modified proteins and fats play critical roles in chemical signaling, building cellular structures, transporting molecules, and producing energy.</p>
+related-health-condition/name: galactosemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/galactosemia
+synonym(1): ATP:D-galactose 1-phosphotransferase
+synonym(2): galactokinase
+synonym(3): GALK
+synonym(4): GALK1_HUMAN
+synonym(5): GK1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2584
+db-key(2)/db: OMIM
+db-key(2)/key: 604313
+reviewed: 2015-08
+published: 2018-04-17

@@ -1,0 +1,36 @@
+name: Li-Fraumeni syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/li-fraumeni-syndrome
+text/text-role: description
+text/html: <p>Li-Fraumeni syndrome is a rare disorder that greatly increases the risk of developing several types of cancer, particularly in children and young adults.</p><p>The cancers most often associated with Li-Fraumeni syndrome include breast cancer, a form of bone cancer called osteosarcoma, and cancers of soft tissues (such as muscle) called soft tissue sarcomas.  Other cancers commonly seen in this syndrome include brain tumors, cancers of blood-forming tissues (leukemias), and a cancer called adrenocortical carcinoma that affects the outer layer of the adrenal glands (small hormone-producing glands on top of each kidney).  Several other types of cancer also occur more frequently in people with Li-Fraumeni syndrome.</p><p>A very similar condition called Li-Fraumeni-like syndrome shares many of the features of classic Li-Fraumeni syndrome.  Both conditions significantly increase the chances of developing multiple cancers beginning in childhood; however, the pattern of specific cancers seen in affected family members is different.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CHEK2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CHEK2
+related-gene(2)/gene-symbol: TP53
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/TP53
+synonym(1): LFS
+synonym(2): Sarcoma family syndrome of Li and Fraumeni
+synonym(3): Sarcoma, breast, leukemia, and adrenal gland (SBLA) syndrome
+synonym(4): SBLA syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0085390
+db-key(2)/db: GTR
+db-key(2)/key: C1835398
+db-key(3)/db: GTR
+db-key(3)/key: C1836482
+db-key(4)/db: GeneReviews
+db-key(4)/key: li-fraumeni
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: Z15.01
+db-key(6)/db: MeSH
+db-key(6)/key: D016864
+db-key(7)/db: OMIM
+db-key(7)/key: 151623
+db-key(8)/db: OMIM
+db-key(8)/key: 609265
+db-key(9)/db: Orphanet
+db-key(9)/key: 524
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 428850001
+reviewed: 2007-01
+published: 2018-04-17

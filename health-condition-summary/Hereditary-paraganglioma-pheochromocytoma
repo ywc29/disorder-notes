@@ -1,0 +1,56 @@
+name: Hereditary paraganglioma-pheochromocytoma
+ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-paraganglioma-pheochromocytoma
+text/text-role: description
+text/html: <p>Hereditary paraganglioma-pheochromocytoma is an inherited condition characterized by the growth of noncancerous (benign) tumors in structures called paraganglia. Paraganglia are groups of cells that are found near nerve cell bunches called ganglia. A tumor involving the paraganglia is known as a paraganglioma. A type of paraganglioma known as a pheochromocytoma develops in the adrenal glands, which are located on top of each kidney and produce hormones in response to stress. Other types of paraganglioma are usually found in the head, neck, or trunk. People with hereditary paraganglioma-pheochromocytoma develop one or more paragangliomas, which may include pheochromocytomas.</p><p>Pheochromocytomas and some other paragangliomas are associated with ganglia of the sympathetic nervous system. The sympathetic nervous system controls the "fight-or-flight" response, a series of changes in the body due to hormones released in response to stress. Sympathetic paragangliomas found outside the adrenal glands, usually in the abdomen, are called extra-adrenal paragangliomas. Most sympathetic paragangliomas, including pheochromocytomas, produce hormones called catecholamines, such as epinephrine (adrenaline) or norepinephrine. These excess catecholamines can cause signs and symptoms such as high blood pressure (hypertension), episodes of rapid heartbeat (palpitations), headaches, or sweating.</p><p>Most paragangliomas are associated with ganglia of the parasympathetic nervous system, which controls involuntary body functions such as digestion and saliva formation. Parasympathetic paragangliomas, typically found in the head and neck, usually do not produce hormones. However, large tumors may cause signs and symptoms such as coughing, hearing loss in one ear, or difficulty swallowing.</p><p>Although most paragangliomas and pheochromocytomas are noncancerous, some can become cancerous (malignant) and spread to other parts of the body (metastasize). Extra-adrenal paragangliomas become malignant more often than other types of paraganglioma or pheochromocytoma.</p><p>Researchers have identified several types of hereditary paraganglioma-pheochromocytoma. Each type is distinguished by its genetic cause. People with types 1, 2, and 3 typically develop paragangliomas in the head or neck region. People with type 4 usually develop extra-adrenal paragangliomas in the abdomen and are at higher risk for malignant tumors that metastasize. The other types are very rare. Hereditary paraganglioma-pheochromocytoma is typically diagnosed in a person's 30s.</p><p>Paragangliomas and pheochromocytomas can occur in individuals with other inherited disorders, such as von-Hippel Lindau syndrome, Carney-Stratakis syndrome, and certain types of multiple endocrine neoplasia. These other disorders feature additional tumor types and have different genetic causes. Some paragangliomas and pheochromocytomas occur in people with no history of the tumors in their families and appear not to be inherited. These cases are designated as sporadic.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: SDHA
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/SDHA
+related-gene(2)/gene-symbol: SDHAF2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SDHAF2
+related-gene(3)/gene-symbol: SDHB
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/SDHB
+related-gene(4)/gene-symbol: SDHC
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SDHC
+related-gene(5)/gene-symbol: SDHD
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/SDHD
+synonym(1): familial paraganglioma-pheochromocytoma syndromes
+synonym(2): familial paraganglioma syndrome
+synonym(3): FPGL
+synonym(4): FPGL/PHEO
+synonym(5): hereditary paraganglioma-pheochromocytoma syndromes
+synonym(6): hereditary pheochromocytoma-paraganglioma
+synonym(7): paragangliomas 1
+synonym(8): paragangliomas 2
+synonym(9): paragangliomas 3
+synonym(10): paragangliomas 4
+db-key(1)/db: GTR
+db-key(1)/key: C1854336
+db-key(2)/db: GTR
+db-key(2)/key: C1861848
+db-key(3)/db: GTR
+db-key(3)/key: C1866552
+db-key(4)/db: GTR
+db-key(4)/key: C1868633
+db-key(5)/db: GTR
+db-key(5)/key: C3279992
+db-key(6)/db: GeneReviews
+db-key(6)/key: paragangliomas
+db-key(7)/db: MeSH
+db-key(7)/key: D010235
+db-key(8)/db: OMIM
+db-key(8)/key: 115310
+db-key(9)/db: OMIM
+db-key(9)/key: 168000
+db-key(10)/db: OMIM
+db-key(10)/key: 601650
+db-key(11)/db: OMIM
+db-key(11)/key: 605373
+db-key(12)/db: OMIM
+db-key(12)/key: 614165
+db-key(13)/db: Orphanet
+db-key(13)/key: 29072
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 716857003
+reviewed: 2016-11
+published: 2018-04-17

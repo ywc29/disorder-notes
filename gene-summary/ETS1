@@ -1,0 +1,8 @@
+gene-symbol: ETS1
+name: ETS proto-oncogene 1, transcription factor
+ghr-page: https://ghr.nlm.nih.gov/gene/ETS1
+related-health-condition/name: Jacobsen syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/jacobsen-syndrome
+db-key/db: NCBI Gene
+db-key/key: 2113
+published: 2018-04-17

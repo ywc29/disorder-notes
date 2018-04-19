@@ -1,0 +1,44 @@
+gene-symbol: TGFBI
+name: transforming growth factor beta induced
+ghr-page: https://ghr.nlm.nih.gov/gene/TGFBI
+text/text-role: function
+text/html: <p>The <i>TGFBI</i> gene provides instructions for making a protein called transforming growth factor beta induced (TGFBI). This protein is released (secreted) from cells and becomes part of the extracellular matrix, which is an intricate network that forms in the spaces between cells and provides structural support to tissues. The TGFBI protein is thought to play a role in the attachment of cells to one another (cell adhesion) and cell movement (migration). This protein is found in many tissues in the body, including the the clear, outer covering of the eye (the cornea).</p>
+related-health-condition(1)/name: keratoconus
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/keratoconus
+related-health-condition(2)/name: lattice corneal dystrophy type I
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/lattice-corneal-dystrophy-type-i
+synonym(1): beta ig-h3
+synonym(2): BGH3_HUMAN
+synonym(3): BIGH3
+synonym(4): CDB1
+synonym(5): CDG2
+synonym(6): CDGG1
+synonym(7): CSD
+synonym(8): CSD1
+synonym(9): CSD2
+synonym(10): CSD3
+synonym(11): EBMD
+synonym(12): kerato-epithelin
+synonym(13): LCD1
+synonym(14): RGD-CAP
+synonym(15): RGD-containing collagen-associated protein
+synonym(16): transforming growth factor-beta-induced protein ig-h3
+synonym(17): transforming growth factor, beta-induced, 68kDa
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7045
+db-key(2)/db: OMIM
+db-key(2)/key: 121820
+db-key(3)/db: OMIM
+db-key(3)/key: 121900
+db-key(4)/db: OMIM
+db-key(4)/key: 601692
+db-key(5)/db: OMIM
+db-key(5)/key: 602082
+db-key(6)/db: OMIM
+db-key(6)/key: 607541
+db-key(7)/db: OMIM
+db-key(7)/key: 608470
+db-key(8)/db: OMIM
+db-key(8)/key: 608471
+reviewed: 2012-04
+published: 2018-04-17

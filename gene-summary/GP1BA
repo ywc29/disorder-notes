@@ -1,0 +1,30 @@
+gene-symbol: GP1BA
+name: glycoprotein Ib platelet alpha subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/GP1BA
+text/text-role: function
+text/html: <p>The <i>GP1BA</i> gene provides instructions for making a protein called glycoprotein Ib-alpha (GPIbα). This protein is one piece (subunit) of a protein complex called GPIb-IX-V, which plays a role in blood clotting. GPIb-IX-V is found on the surface of small cell fragments called platelets, which circulate in blood and are an essential component of blood clots. The complex can attach (bind) to a protein called von Willebrand factor, fitting together like a lock and its key. Von Willebrand factor is found on the inside surface of blood vessels, particularly when there is an injury. Binding of the GPIb-IX-V complex to von Willebrand factor allows platelets to stick to the blood vessel wall at the site of the injury. These platelets form clots, plugging holes in the blood vessels to help stop bleeding.</p><p>To form the GPIb-IX-V complex, GPIbα interacts with other protein subunits called GPIb-beta, GPIX, and GPV, each of which is produced from a different gene. GPIbα is essential for assembly of the complex at the platelet surface. It is the piece of the complex that interacts with von Willebrand factor to trigger blood clotting. GPIbα also interacts with other blood clotting proteins to aid in other steps of the clotting process.</p>
+related-health-condition/name: Bernard-Soulier syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/bernard-soulier-syndrome
+synonym(1): antigen CD42b-alpha
+synonym(2): BDPLT1
+synonym(3): BDPLT3
+synonym(4): BSS
+synonym(5): CD42B
+synonym(6): CD42b-alpha
+synonym(7): DBPLT3
+synonym(8): glycoprotein Ib (platelet), alpha polypeptide
+synonym(9): GP-Ib alpha
+synonym(10): GP1B
+synonym(11): GPIbA
+synonym(12): GPIbalpha
+synonym(13): platelet glycoprotein Ib alpha chain precursor
+synonym(14): platelet membrane glycoprotein 1b-alpha subunit
+synonym(15): VWDP
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2811
+db-key(2)/db: OMIM
+db-key(2)/key: 177820
+db-key(3)/db: OMIM
+db-key(3)/key: 606672
+reviewed: 2016-06
+published: 2018-04-17

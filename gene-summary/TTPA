@@ -1,0 +1,21 @@
+gene-symbol: TTPA
+name: alpha tocopherol transfer protein
+ghr-page: https://ghr.nlm.nih.gov/gene/TTPA
+text/text-role: function
+text/html: <p>The <i>TTPA</i> gene provides instructions for making the α-tocopherol transfer protein (αTTP), which is found in the liver and brain.  This protein controls the distribution of vitamin E obtained from the diet (also called α-tocopherol) to cells and tissues throughout the body.  Vitamin E is an antioxidant that protects cells in the body from the damaging effects of unstable molecules called free radicals.  Normally, vitamin E derived from food is absorbed in the intestine and then transported into the liver on molecules called chylomicrons. After a meal, chylomicrons are formed to transport fat-soluble vitamins (such as vitamin E), dietary fats, and cholesterol from the intestine to the liver.  Once in the liver, αTTP transfers vitamin E from chylomicrons to very low-density lipoproteins (VLDLs), which carry fat, fat-soluble vitamins, and cholesterol from the liver to other tissues throughout the body.   The VLDLs are then released into the bloodstream so the accompanying vitamin E can be used in the body.  The αTTP protein is also thought to transport vitamin E to nerve cells (neurons) in the brain.</p>
+related-health-condition/name: ataxia with vitamin E deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ataxia-with-vitamin-e-deficiency
+synonym(1): alpha-tocopherol transfer protein
+synonym(2): alphaTTP
+synonym(3): ataxia (Friedreich-like) with vitamin E deficiency
+synonym(4): ATTP
+synonym(5): AVED
+synonym(6): tocopherol (alpha) transfer protein
+synonym(7): TTP1
+synonym(8): TTPA_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7274
+db-key(2)/db: OMIM
+db-key(2)/key: 600415
+reviewed: 2008-04
+published: 2018-04-17

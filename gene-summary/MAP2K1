@@ -1,0 +1,35 @@
+gene-symbol: MAP2K1
+name: mitogen-activated protein kinase kinase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/MAP2K1
+text/text-role: function
+text/html: <p>The <i>MAP2K1</i> gene provides instructions for making a protein known as MEK1 protein kinase. This protein is part of a signaling pathway called the RAS/MAPK pathway, which transmits chemical signals from outside the cell to the cell's nucleus. RAS/MAPK signaling helps control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (migration), and the self-destruction of cells (apoptosis). MEK1 protein kinase appears to be essential for normal development before birth and for survival after birth.</p>
+related-health-condition(1)/name: cardiofaciocutaneous syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cardiofaciocutaneous-syndrome
+related-health-condition(2)/name: Langerhans cell histiocytosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/langerhans-cell-histiocytosis
+related-health-condition(3)/name: lung cancer
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/lung-cancer
+related-health-condition(4)/name: Noonan syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/noonan-syndrome
+related-health-condition(5)/name: Noonan syndrome with multiple lentigines
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/noonan-syndrome-with-multiple-lentigines
+synonym(1): Dual Specificity Mitogen-Activated Protein Kinase Kinase 1
+synonym(2): ERK Activator Kinase 1
+synonym(3): MAP Kinase Kinase 1
+synonym(4): MAPK/ERK kinase 1
+synonym(5): MAPKK1
+synonym(6): MEK-1
+synonym(7): MEK-1 Protein Kinase
+synonym(8): MEK1
+synonym(9): MKK-1 Protein Kinase
+synonym(10): MKK1
+synonym(11): MKK1 Protein Kinase
+synonym(12): MP2K1_HUMAN
+synonym(13): PRKMK1
+synonym(14): protein kinase, mitogen-activated, kinase 1 (MAP kinase kinase 1)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5604
+db-key(2)/db: OMIM
+db-key(2)/key: 176872
+reviewed: 2016-06
+published: 2018-04-17

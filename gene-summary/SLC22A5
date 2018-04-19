@@ -1,0 +1,25 @@
+gene-symbol: SLC22A5
+name: solute carrier family 22 member 5
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC22A5
+text/text-role: function
+text/html: <p>The <i>SLC22A5</i> gene provides instructions for making a protein called OCTN2 that is found in the heart, liver, muscles, kidneys, and other tissues. This protein is positioned within the cell membrane, where it transports a substance known as carnitine into the cell. Carnitine is mainly obtained from the diet and is needed to bring certain types of fats (fatty acids) into mitochondria, the energy-producing centers within cells. Fatty acids are a major source of energy for the heart and muscles. During periods without food (fasting), fatty acids are also an important energy source for the liver and other tissues.</p>
+related-health-condition(1)/name: Crohn disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/crohn-disease
+related-health-condition(2)/name: primary carnitine deficiency
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/primary-carnitine-deficiency
+synonym(1): CDSP
+synonym(2): high-affinity sodium dependent carnitine cotransporter
+synonym(3): novel organic cation transporter 2
+synonym(4): OCTN2
+synonym(5): organic cation transporter 5
+synonym(6): organic cation/carnitine transporter 2
+synonym(7): S22A5_HUMAN
+synonym(8): SCD
+synonym(9): solute carrier family 22 (organic cation transporter), member 5
+synonym(10): solute carrier family 22 (organic cation/carnitine transporter), member 5
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6584
+db-key(2)/db: OMIM
+db-key(2)/key: 603377
+reviewed: 2006-07
+published: 2018-04-17

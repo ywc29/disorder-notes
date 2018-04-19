@@ -1,0 +1,25 @@
+gene-symbol: DDX11
+name: DEAD/H-box helicase 11
+ghr-page: https://ghr.nlm.nih.gov/gene/DDX11
+text/text-role: function
+text/html: <p>The <i>DDX11</i> gene provides instructions for making an enzyme called ChlR1, which functions as a helicase. Helicases are enzymes that attach (bind) to DNA and temporarily unwind the two spiral strands (double helix) of the DNA molecule so it can be copied (replicated) in preparation for cell division. ChlR1 is also involved in repairing any errors that are made when DNA is copied. In addition, ChlR1 is involved in other processes leading up to cell division. After replication, the DNA from each chromosome is arranged into two identical structures, called sister chromatids, which the ChlR1 enzyme helps to keep together until they are ready to separate into individual cells. This enzyme also ensures proper separation of chromatids during cell division. By helping repair errors in DNA and ensuring proper DNA replication, the ChlR1 enzyme plays a role in maintaining the stability of a cell's genetic information.</p>
+related-health-condition/name: Warsaw breakage syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/warsaw-breakage-syndrome
+synonym(1): CHL1-related helicase gene-1
+synonym(2): CHL1-related protein 1
+synonym(3): CHLR1
+synonym(4): DDX11_HUMAN
+synonym(5): DEAD/H (Asp-Glu-Ala-Asp/His) box helicase 11
+synonym(6): DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 11 (CHL1-like helicase homolog, S. cerevisiae)
+synonym(7): DEAD/H box protein 11
+synonym(8): hCHLR1
+synonym(9): keratinocyte growth factor-regulated gene 2 protein
+synonym(10): KRG-2
+synonym(11): KRG2
+synonym(12): probable ATP-dependent RNA helicase DDX11
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1663
+db-key(2)/db: OMIM
+db-key(2)/key: 601150
+reviewed: 2014-02
+published: 2018-04-17

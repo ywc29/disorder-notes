@@ -1,0 +1,8 @@
+gene-symbol: RDX
+name: radixin
+ghr-page: https://ghr.nlm.nih.gov/gene/RDX
+related-health-condition/name: nonsyndromic hearing loss
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-hearing-loss
+db-key/db: NCBI Gene
+db-key/key: 5962
+published: 2018-04-17

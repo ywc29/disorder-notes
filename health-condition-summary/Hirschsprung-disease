@@ -1,0 +1,51 @@
+name: Hirschsprung disease
+ghr-page: https://ghr.nlm.nih.gov/condition/hirschsprung-disease
+text/text-role: description
+text/html: <p>Hirschsprung disease is an intestinal disorder characterized by the absence of nerves in parts of the intestine. This condition occurs when the nerves in the intestine (enteric nerves) do not form properly during development before birth (embryonic development). This condition is usually identified in the first two months of life, although less severe cases may be diagnosed later in childhood.</p><p>Enteric nerves trigger the muscle contractions that move stool through the intestine. Without these nerves in parts of the intestine, the material cannot be pushed through, causing severe constipation or complete blockage of the intestine in people with Hirschsprung disease. Other signs and symptoms of this condition include vomiting, abdominal pain or swelling, diarrhea, poor feeding, malnutrition, and slow growth. People with this disorder are at risk of developing more serious conditions such as inflammation of the intestine (enterocolitis) or a hole in the wall of the intestine (intestinal perforation), which can cause serious infection and may be fatal.</p><p>There are two main types of Hirschsprung disease, known as short-segment disease and long-segment disease, which are defined by the region of the intestine lacking nerve cells. In short-segment disease, nerve cells are missing from only the last segment of the large intestine. This type is most common, occurring in approximately 80 percent of people with Hirschsprung disease. For unknown reasons, short-segment disease is four times more common in men than in women. Long-segment disease occurs when nerve cells are missing from most of the large intestine and is the more severe type. Long-segment disease is found in approximately 20 percent of people with Hirschsprung disease and affects men and women equally. Very rarely, nerve cells are missing from the entire large intestine and sometimes part of the small intestine (total colonic aganglionosis) or from all of the large and small intestine (total intestinal aganglionosis).</p><p>Hirschsprung disease can occur in combination with other conditions, such as Waardenburg syndrome, type IV; Mowat-Wilson syndrome; or congenital central hypoventilation syndrome. These cases are described as syndromic. Hirschsprung disease can also occur without other conditions, and these cases are referred to as isolated or nonsyndromic.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: EDN3
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/EDN3
+related-gene(2)/gene-symbol: EDNRB
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/EDNRB
+related-gene(3)/gene-symbol: GDNF
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/GDNF
+related-gene(4)/gene-symbol: NRG1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/NRG1
+related-gene(5)/gene-symbol: NRTN
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/NRTN
+related-gene(6)/gene-symbol: RET
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/RET
+synonym(1): aganglionic megacolon
+synonym(2): congenital intestinal aganglionosis
+synonym(3): congenital megacolon
+synonym(4): Hirschsprung's disease
+synonym(5): HSCR
+db-key(1)/db: GTR
+db-key(1)/key: C1838564
+db-key(2)/db: GTR
+db-key(2)/key: C2931739
+db-key(3)/db: GTR
+db-key(3)/key: C2931876
+db-key(4)/db: GTR
+db-key(4)/key: C3150975
+db-key(5)/db: GeneReviews
+db-key(5)/key: hirschsprung-ov
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: Q43.1
+db-key(7)/db: MeSH
+db-key(7)/key: D006627
+db-key(8)/db: OMIM
+db-key(8)/key: 142623
+db-key(9)/db: OMIM
+db-key(9)/key: 600155
+db-key(10)/db: OMIM
+db-key(10)/key: 613711
+db-key(11)/db: OMIM
+db-key(11)/key: 613712
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 204739008
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 253780003
+reviewed: 2012-08
+published: 2018-04-17

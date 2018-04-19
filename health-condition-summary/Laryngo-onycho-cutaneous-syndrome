@@ -1,0 +1,26 @@
+name: Laryngo-onycho-cutaneous syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/laryngo-onycho-cutaneous-syndrome
+text/text-role: description
+text/html: <p>Laryngo-onycho-cutaneous (LOC) syndrome is a disorder that leads to abnormalities of the voicebox (laryngo-), finger- and toenails (onycho-), and skin (cutaneous). Many of the condition's signs and symptoms are related to the abnormal growth of granulation tissue in different parts of the body. This red, bumpy tissue is normally produced during wound healing and is usually replaced by skin cells as healing continues. However, in people with LOC syndrome, this tissue grows even when there is no major injury.</p><p>One of the first symptoms in infants with LOC syndrome is a hoarse cry due to ulcers or overgrowth of granulation tissue in the voicebox (the larynx). Excess granulation tissue can also block the airways, leading to life-threatening breathing problems; as a result many affected individuals do not survive past childhood.</p><p>In LOC syndrome, granulation tissue also grows in the eyes, specifically the conjunctiva, which are the moist tissues that line the eyelids and the white part of the eyes. Affected individuals often have impairment or complete loss of vision due to the tissue overgrowth.</p><p>Another common feature of LOC syndrome is missing patches of skin (cutaneous erosions). The erosions heal slowly and may become infected. People with LOC syndrome can also have malformed nails and small, abnormal teeth. The hard, white material that forms the protective outer layer of each tooth (enamel) is thin, which contributes to frequent cavities.</p><p>LOC syndrome is typically considered a subtype of another skin condition called junctional epidermolysis bullosa, which is characterized by fragile skin that blisters easily. While individuals with junctional epidermolysis bullosa can have some of the features of LOC syndrome, they do not usually have overgrowth of granulation tissue in the conjunctiva.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: LAMA3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LAMA3
+synonym(1): JEB-LOC
+synonym(2): laryngoonychocutaneous syndrome
+synonym(3): LOC syndrome
+synonym(4): LOCS
+synonym(5): LOGIC syndrome
+synonym(6): Shabbir syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1328355
+db-key(2)/db: MeSH
+db-key(2)/key: D016109
+db-key(3)/db: OMIM
+db-key(3)/key: 245660
+db-key(4)/db: Orphanet
+db-key(4)/key: 2407
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 722675000
+reviewed: 2014-09
+published: 2018-04-17

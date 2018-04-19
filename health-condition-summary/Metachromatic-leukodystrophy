@@ -1,0 +1,49 @@
+name: Metachromatic leukodystrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/metachromatic-leukodystrophy
+text/text-role: description
+text/html: <p>Metachromatic leukodystrophy is an inherited disorder characterized by the accumulation of fats called sulfatides in cells. This accumulation especially affects cells in the nervous system that produce myelin, the substance that insulates and protects nerves. Nerve cells covered by myelin make up a tissue called white matter. Sulfatide accumulation in myelin-producing cells causes progressive destruction of white matter (leukodystrophy) throughout the nervous system, including in the brain and spinal cord (the central nervous system) and the nerves connecting the brain and spinal cord to muscles and sensory cells that detect sensations such as touch, pain, heat, and sound (the peripheral nervous system).</p><p>In people with metachromatic leukodystrophy, white matter damage causes progressive deterioration of intellectual functions and motor skills, such as the ability to walk. Affected individuals also develop loss of sensation in the extremities (peripheral neuropathy), incontinence, seizures, paralysis, an inability to speak, blindness, and hearing loss. Eventually they lose awareness of their surroundings and become unresponsive. While neurological problems are the primary feature of metachromatic leukodystrophy, effects of sulfatide accumulation on other organs and tissues have been reported, most often involving the gallbladder.</p><p>The most common form of metachromatic leukodystrophy, affecting about 50 to 60 percent of all individuals with this disorder, is called the late infantile form. This form of the disorder usually appears in the second year of life. Affected children lose any speech they have developed, become weak, and develop problems with walking (gait disturbance). As the disorder worsens, muscle tone generally first decreases, and then increases to the point of rigidity. Individuals with the late infantile form of metachromatic leukodystrophy typically do not survive past childhood.</p><p>In 20 to 30 percent of individuals with metachromatic leukodystrophy, onset occurs between the age of 4 and adolescence. In this juvenile form, the first signs of the disorder may be behavioral problems and increasing difficulty with schoolwork. Progression of the disorder is slower than in the late infantile form, and affected individuals may survive for about 20 years after diagnosis.</p><p>The adult form of metachromatic leukodystrophy affects approximately 15 to 20 percent of individuals with the disorder. In this form, the first symptoms appear during the teenage years or later. Often behavioral problems such as alcoholism, drug abuse, or difficulties at school or work are the first symptoms to appear. The affected individual may experience psychiatric symptoms such as delusions or hallucinations. People with the adult form of metachromatic leukodystrophy may survive for 20 to 30 years after diagnosis. During this time there may be some periods of relative stability and other periods of more rapid decline.</p><p>Metachromatic leukodystrophy gets its name from the way cells with an accumulation of sulfatides appear when viewed under a microscope. The sulfatides form granules that are described as metachromatic, which means they pick up color differently than surrounding cellular material when stained for examination.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: ARSA
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ARSA
+related-gene(2)/gene-symbol: PSAP
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PSAP
+synonym(1): ARSA deficiency
+synonym(2): arylsulfatase A deficiency disease
+synonym(3): cerebral sclerosis, diffuse, metachromatic form
+synonym(4): cerebroside sulphatase deficiency disease
+synonym(5): Greenfield disease
+synonym(6): metachromatic leukoencephalopathy
+synonym(7): MLD
+synonym(8): sulfatide lipidosis
+synonym(9): sulfatidosis
+db-key(1)/db: GTR
+db-key(1)/key: C0023522
+db-key(2)/db: GTR
+db-key(2)/key: C0268262
+db-key(3)/db: GeneReviews
+db-key(3)/key: mld
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: E75.25
+db-key(5)/db: MeSH
+db-key(5)/key: D007966
+db-key(6)/db: OMIM
+db-key(6)/key: 249900
+db-key(7)/db: OMIM
+db-key(7)/key: 250100
+db-key(8)/db: Orphanet
+db-key(8)/key: 512
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 238031009
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 24326000
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 396338004
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 40802007
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 44359008
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 68390005
+reviewed: 2013-02
+published: 2018-04-17

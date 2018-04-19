@@ -1,0 +1,8 @@
+gene-symbol: KLK4
+name: kallikrein related peptidase 4
+ghr-page: https://ghr.nlm.nih.gov/gene/KLK4
+related-health-condition/name: amelogenesis imperfecta
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/amelogenesis-imperfecta
+db-key/db: NCBI Gene
+db-key/key: 9622
+published: 2018-04-17

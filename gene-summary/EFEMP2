@@ -1,0 +1,22 @@
+gene-symbol: EFEMP2
+name: EGF containing fibulin extracellular matrix protein 2
+ghr-page: https://ghr.nlm.nih.gov/gene/EFEMP2
+text/text-role: function
+text/html: <p>The <i>EFEMP2</i> gene provides instructions for making a protein called EGF-containing fibulin extracellular matrix protein 2, which is also known as fibulin-4. This protein is part of a group of proteins called fibulins. Fibulins have a variety of functions in the extracellular matrix, which is the intricate lattice of proteins and other molecules that forms in the spaces between cells.</p><p>Little is known about the function of fibulin-4 in the extracellular matrix. It appears to play a critical role in the assembly of elastic fibers, which are slender bundles of protein that provide strength and flexibility to connective tissue (tissue that supports the body's joints and organs). Fibulin-4 is found in tissues and organs that are rich in elastic fibers, including the blood vessels, heart valves, lungs, and skin.</p>
+related-health-condition/name: cutis laxa
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cutis-laxa
+synonym(1): EGF-containing fibulin-like extracellular matrix protein 2
+synonym(2): EGF containing fibulin like extracellular matrix protein 2
+synonym(3): EGF containing fibulin-like extracellular matrix protein 2
+synonym(4): FBLN4
+synonym(5): fibulin 4
+synonym(6): fibulin-like extracellular matrix protein
+synonym(7): MBP1
+synonym(8): mutant p53 binding protein 1
+synonym(9): UPH1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 30008
+db-key(2)/db: OMIM
+db-key(2)/key: 604633
+reviewed: 2009-06
+published: 2018-04-17

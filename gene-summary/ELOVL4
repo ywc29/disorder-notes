@@ -1,0 +1,18 @@
+gene-symbol: ELOVL4
+name: ELOVL fatty acid elongase 4
+ghr-page: https://ghr.nlm.nih.gov/gene/ELOVL4
+text/text-role: function
+text/html: <p>The <i>ELOVL4</i> gene provides instructions for making a protein that is found primarily in the retina, the specialized light-sensitive tissue that lines the back of the eye. Within the retina, the ELOVL4 protein is produced in specialized light receptor cells (photoreceptors). The ELOVL4 protein is also found in the brain and skin, but less is known about its activity (expression) in these structures.</p><p>Inside photoreceptor cells, this protein is located in a cell structure called the endoplasmic reticulum that is involved in protein production, processing, and transport. The ELOVL4 protein plays a role in making a group of fats called very long-chain fatty acids. The protein helps add carbon molecules to long-chain fatty acids, making them very long-chain fatty acids. The function of the very long-chain fatty acids produced by the ELOVL4 protein is unknown.</p>
+related-health-condition(1)/name: age-related macular degeneration
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
+related-health-condition(2)/name: Stargardt macular degeneration
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/stargardt-macular-degeneration
+synonym(1): elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 4
+synonym(2): elongation of very long chain fatty acids protein 4
+synonym(3): ELOV4_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6785
+db-key(2)/db: OMIM
+db-key(2)/key: 605512
+reviewed: 2010-11
+published: 2018-04-17

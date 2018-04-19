@@ -1,0 +1,42 @@
+name: Familial hemiplegic migraine
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-hemiplegic-migraine
+text/text-role: description
+text/html: <p>Familial hemiplegic migraine is a form of migraine headache that runs in families. Migraines usually cause intense, throbbing pain in one area of the head, often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. These recurrent headaches typically begin in childhood or adolescence and can be triggered by certain foods, emotional stress, and minor head trauma. Each headache may last from a few hours to a few days.</p><p>In some types of migraine, including familial hemiplegic migraine, a pattern of neurological symptoms called an aura precedes the headache. The most common symptoms associated with an aura are temporary visual changes such as blind spots (scotomas), flashing lights, zig-zagging lines, and double vision. In people with familial hemiplegic migraine, auras are also characterized by temporary numbness or weakness, often affecting one side of the body (hemiparesis). Additional features of an aura can include difficulty with speech, confusion, and drowsiness. An aura typically develops gradually over a few minutes and lasts about an hour.</p><p>Unusually severe migraine episodes have been reported in some people with familial hemiplegic migraine. These episodes have included fever, seizures, prolonged weakness, coma, and, rarely, death. Although most people with familial hemiplegic migraine recover completely between episodes, neurological symptoms such as memory loss and problems with attention can last for weeks or months. About 20 percent of people with this condition develop mild but permanent difficulty coordinating movements (ataxia), which may worsen with time, and rapid, involuntary eye movements called nystagmus.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: ATP1A2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ATP1A2
+related-gene(2)/gene-symbol: CACNA1A
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CACNA1A
+related-gene(3)/gene-symbol: PRRT2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PRRT2
+related-gene(4)/gene-symbol: SCN1A
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN1A
+synonym(1): hemiplegic migraine, familial
+synonym(2): hemiplegic-ophthalmoplegic migraine
+db-key(1)/db: GTR
+db-key(1)/key: C0338484
+db-key(2)/db: GTR
+db-key(2)/key: C1864987
+db-key(3)/db: GTR
+db-key(3)/key: C1865322
+db-key(4)/db: GeneReviews
+db-key(4)/key: fhm
+db-key(5)/db: GeneReviews
+db-key(5)/key: prrt2-parox
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: G43.409
+db-key(7)/db: MeSH
+db-key(7)/key: D020325
+db-key(8)/db: OMIM
+db-key(8)/key: 141500
+db-key(9)/db: OMIM
+db-key(9)/key: 602481
+db-key(10)/db: OMIM
+db-key(10)/key: 609634
+db-key(11)/db: Orphanet
+db-key(11)/key: 569
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 95656000
+reviewed: 2014-01
+published: 2018-04-17

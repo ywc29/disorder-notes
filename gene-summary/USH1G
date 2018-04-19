@@ -1,0 +1,8 @@
+gene-symbol: USH1G
+name: USH1 protein network component sans
+ghr-page: https://ghr.nlm.nih.gov/gene/USH1G
+related-health-condition/name: Usher syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/usher-syndrome
+db-key/db: NCBI Gene
+db-key/key: 124590
+published: 2018-04-17

@@ -1,0 +1,8 @@
+gene-symbol: DSE
+name: dermatan sulfate epimerase
+ghr-page: https://ghr.nlm.nih.gov/gene/DSE
+related-health-condition/name: Ehlers-Danlos syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ehlers-danlos-syndrome
+db-key/db: NCBI Gene
+db-key/key: 29940
+published: 2018-04-17

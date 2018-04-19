@@ -1,0 +1,27 @@
+name: Distal myopathy 2
+ghr-page: https://ghr.nlm.nih.gov/condition/distal-myopathy-2
+text/text-role: description
+text/html: <p>Distal myopathy 2 is a condition characterized by weakness of specific muscles that begins in adulthood. It is a form of muscular dystrophy that specifically involves muscles in the throat, lower legs, and forearms. Muscles farther from the center of the body, like the muscles of the lower legs and forearms, are known as distal muscles.</p><p>Muscle weakness in the ankles is usually the first symptom of distal myopathy 2. The weakness can also affect muscles in the hands, wrists, and shoulders. At first, the muscle weakness may be on only one side of the body, but both sides are eventually involved. This muscle weakness can slowly worsen and make actions like walking and lifting the fingers difficult.</p><p>Another characteristic feature of distal myopathy 2 is weakness of the vocal cords and throat. This weakness initially causes the voice to sound weak or breathy (hypophonic). Eventually, the voice becomes gurgling, hoarse, and nasal. The weakness can also cause difficulty swallowing (dysphagia).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: MATR3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MATR3
+synonym(1): distal myopathy with vocal cord and pharyngeal signs
+synonym(2): distal myopathy with vocal cord weakness
+synonym(3): matrin 3 distal myopathy
+synonym(4): MPD2
+synonym(5): myopathia distalis type 2
+synonym(6): VCPDM
+synonym(7): vocal cord and pharyngeal weakness with distal myopathy
+db-key(1)/db: GTR
+db-key(1)/key: C3807521
+db-key(2)/db: MeSH
+db-key(2)/key: D049310
+db-key(3)/db: OMIM
+db-key(3)/key: 606070
+db-key(4)/db: Orphanet
+db-key(4)/key: 600
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 702383005
+reviewed: 2011-11
+published: 2018-04-17

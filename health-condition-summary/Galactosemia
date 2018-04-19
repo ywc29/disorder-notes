@@ -1,0 +1,58 @@
+name: Galactosemia
+ghr-page: https://ghr.nlm.nih.gov/condition/galactosemia
+text/text-role: description
+text/html: <p>Galactosemia is a disorder that affects how the body processes a simple sugar called galactose. A small amount of galactose is present in many foods. It is primarily part of a larger sugar called lactose, which is found in all dairy products and many baby formulas. The signs and symptoms of galactosemia result from an inability to use galactose to produce energy.</p><p>Researchers have identified several types of galactosemia. These conditions are each caused by mutations in a particular gene and affect different enzymes involved in breaking down galactose.</p><p>Classic galactosemia, also known as type I, is the most common and most severe form of the condition. If infants with classic galactosemia are not treated promptly with a low-galactose diet, life-threatening complications appear within a few days after birth. Affected infants typically develop feeding difficulties, a lack of energy (lethargy), a failure to gain weight and grow as expected (failure to thrive), yellowing of the skin and whites of the eyes (jaundice), liver damage, and abnormal bleeding. Other serious complications of this condition can include overwhelming bacterial infections (sepsis) and shock. Affected children are also at increased risk of delayed development, clouding of the lens of the eye (cataract), speech difficulties, and intellectual disability. Females with classic galactosemia may develop reproductive problems caused by an early loss of function of the ovaries (premature ovarian insufficiency).</p><p>Galactosemia type II (also called galactokinase deficiency) and type III (also called galactose epimerase deficiency) cause different patterns of signs and symptoms. Galactosemia type II causes fewer medical problems than the classic type. Affected infants develop cataracts but otherwise experience few long-term complications. The signs and symptoms of galactosemia type III vary from mild to severe and can include cataracts, delayed growth and development, intellectual disability, liver disease, and kidney problems.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: GALE
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GALE
+related-gene(2)/gene-symbol: GALK1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GALK1
+related-gene(3)/gene-symbol: GALT
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/GALT
+synonym(1): classic galactosemia
+synonym(2): epimerase deficiency galactosemia
+synonym(3): galactokinase deficiency disease
+synonym(4): galactose-1-phosphate uridyl-transferase deficiency disease
+synonym(5): galactose epimerase deficiency
+synonym(6): GALE deficiency
+synonym(7): GALK deficiency
+synonym(8): GALT deficiency
+synonym(9): UDP-galactose-4-epimerase deficiency disease
+synonym(10): UTP hexose-1-phosphate uridylyltransferase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0016952
+db-key(2)/db: GTR
+db-key(2)/key: C0268151
+db-key(3)/db: GTR
+db-key(3)/key: C0268155
+db-key(4)/db: GTR
+db-key(4)/key: C0751161
+db-key(5)/db: GeneReviews
+db-key(5)/key: duarte-gal
+db-key(6)/db: GeneReviews
+db-key(6)/key: galactosemia
+db-key(7)/db: GeneReviews
+db-key(7)/key: gale-def
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: E74.21
+db-key(9)/db: MeSH
+db-key(9)/key: D005693
+db-key(10)/db: OMIM
+db-key(10)/key: 230200
+db-key(11)/db: OMIM
+db-key(11)/key: 230350
+db-key(12)/db: OMIM
+db-key(12)/key: 230400
+db-key(13)/db: Orphanet
+db-key(13)/key: 352
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 124302001
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 124354006
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 190745006
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 8849004
+reviewed: 2015-08
+published: 2018-04-17

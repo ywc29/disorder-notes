@@ -1,0 +1,33 @@
+name: SLC4A1-associated distal renal tubular acidosis
+ghr-page: https://ghr.nlm.nih.gov/condition/slc4a1-associated-distal-renal-tubular-acidosis
+text/text-role: description
+text/html: <p><i>SLC4A1</i>-associated distal renal tubular acidosis is a kidney (renal) disorder that sometimes includes blood cell abnormalities. The kidneys normally filter fluid and waste products from the body and remove them in urine; however, in people with distal renal tubular acidosis, the kidneys are unable to remove enough acid from the body, and the blood becomes too acidic. This chemical imbalance is called metabolic acidosis. The inability to remove acids from the body often results in slowed growth and may also lead to softening and weakening of the bones, called rickets in children and osteomalacia in adults. This bone disorder is characterized by bone pain, bowed legs, and difficulty walking. In addition, most children and adults with <i>SLC4A1</i>-associated distal renal tubular acidosis have excess calcium in the urine (hypercalciuria), calcium deposits in the kidneys (nephrocalcinosis), and kidney stones (nephrolithiasis). In rare cases, these kidney abnormalities lead to life-threatening kidney failure. Affected individuals may also have low levels of potassium in the blood (hypokalemia).</p><p>Individuals with the features described above have complete distal renal tubular acidosis, which usually becomes apparent in childhood. Some people do not develop metabolic acidosis even though their kidneys have trouble removing acids; these individuals are said to have incomplete distal renal tubular acidosis. Additionally, these individuals may have other features of distal renal tubular acidosis, such as bone problems and kidney stones. Often, people who initially have incomplete distal renal tubular acidosis develop metabolic acidosis later in life.</p><p>Some people with <i>SLC4A1</i>-associated distal renal tubular acidosis also have blood cell abnormalities. These can vary in severity from no symptoms to a condition called hemolytic anemia, in which red blood cells prematurely break down (undergo hemolysis), causing a shortage of red blood cells (anemia). Hemolytic anemia can lead to unusually pale skin (pallor), extreme tiredness (fatigue), shortness of breath (dyspnea), and an enlarged spleen (splenomegaly).</p><p>There are two forms of <i>SLC4A1</i>-associated distal renal tubular acidosis; they are distinguished by their inheritance pattern. The autosomal dominant form is more common and is usually less severe than the autosomal recessive form. The autosomal dominant form can be associated with incomplete or complete distal renal tubular acidosis and is rarely associated with blood cell abnormalities. The autosomal recessive form is always associated with complete distal renal tubular acidosis and is more commonly associated with blood cell abnormalities, although not everyone with this form has abnormal blood cells.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: SLC4A1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SLC4A1
+synonym(1): classic distal renal tubular acidosis
+synonym(2): renal tubular acidosis type I
+synonym(3): RTA, classic type
+db-key(1)/db: GTR
+db-key(1)/key: C0259810
+db-key(2)/db: GTR
+db-key(2)/key: C1969038
+db-key(3)/db: MeSH
+db-key(3)/key: D000141
+db-key(4)/db: OMIM
+db-key(4)/key: 179800
+db-key(5)/db: OMIM
+db-key(5)/key: 611590
+db-key(6)/db: Orphanet
+db-key(6)/key: 18
+db-key(7)/db: Orphanet
+db-key(7)/key: 93608
+db-key(8)/db: Orphanet
+db-key(8)/key: 93610
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 236461000
+reviewed: 2014-08
+published: 2018-04-17

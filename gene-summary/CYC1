@@ -1,0 +1,8 @@
+gene-symbol: CYC1
+name: cytochrome c1
+ghr-page: https://ghr.nlm.nih.gov/gene/CYC1
+related-health-condition/name: mitochondrial complex III deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mitochondrial-complex-iii-deficiency
+db-key/db: NCBI Gene
+db-key/key: 1537
+published: 2018-04-17

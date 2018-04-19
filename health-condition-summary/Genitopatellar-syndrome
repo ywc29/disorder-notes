@@ -1,0 +1,28 @@
+name: Genitopatellar syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/genitopatellar-syndrome
+text/text-role: description
+text/html: <p>Genitopatellar syndrome is a rare condition characterized by genital abnormalities, missing or underdeveloped kneecaps (patellae), intellectual disability, and abnormalities affecting other parts of the body.</p><p>The genital abnormalities in affected males typically include undescended testes (cryptorchidism) and underdevelopment of the scrotum. Affected females can have an enlarged clitoris (clitoromegaly) and small labia.</p><p>Missing or underdeveloped patellae is the most common skeletal abnormality associated with genitopatellar syndrome. Affected individuals may have additional skeletal problems, including joint deformities (contractures) involving the hips and knees or an inward- and upward-turning foot called a clubfoot. Bone abnormalities of the spine, ribs, collarbone (clavicle), and pelvis have also been reported.</p><p>Genitopatellar syndrome is also associated with delayed development and intellectual disability, which are often severe. Affected individuals may have an usually small head (microcephaly) and structural brain abnormalities, including underdeveloped or absent tissue connecting the left and right halves of the brain (agenesis of the corpus callosum).</p><p>People with genitopatellar syndrome may have distinctive facial features such as prominent cheeks and eyes, a nose with a rounded tip or a broad bridge, an unusually small chin (micrognathia) or a chin that protrudes (prognathism), and a narrowing of the head at the temples. Many affected infants have weak muscle tone (hypotonia) that leads to breathing and feeding difficulties. The condition can also be associated with abnormalities of the heart, kidneys, and teeth.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: KAT6B
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/KAT6B
+synonym(1): absent patellae, scrotal hypoplasia, renal anomalies, facial dysmorphism, and mental retardation
+synonym(2): GPS
+db-key(1)/db: GTR
+db-key(1)/key: C1853566
+db-key(2)/db: GeneReviews
+db-key(2)/key: kat6b-dis
+db-key(3)/db: MeSH
+db-key(3)/key: D000015
+db-key(4)/db: MeSH
+db-key(4)/key: D008607
+db-key(5)/db: MeSH
+db-key(5)/key: D014564
+db-key(6)/db: OMIM
+db-key(6)/key: 606170
+db-key(7)/db: Orphanet
+db-key(7)/key: 85201
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 702367005
+reviewed: 2013-02
+published: 2018-04-17

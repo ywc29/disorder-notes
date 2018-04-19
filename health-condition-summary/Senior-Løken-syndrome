@@ -1,0 +1,56 @@
+name: Senior-Løken syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/senior-loken-syndrome
+text/text-role: description
+text/html: <p>Senior-Løken syndrome is a rare disorder characterized by the combination of two specific features: a kidney condition called nephronophthisis and an eye condition known as Leber congenital amaurosis.</p><p>Nephronophthisis causes fluid-filled cysts to develop in the kidneys beginning in childhood. These cysts impair kidney function, initially causing increased urine production (polyuria), excessive thirst (polydipsia), general weakness, and extreme tiredness (fatigue). Nephronophthisis leads to end-stage renal disease (ESRD) later in childhood or in adolescence. ESRD is a life-threatening failure of kidney function that occurs when the kidneys are no longer able to filter fluids and waste products from the body effectively.</p><p>Leber congenital amaurosis primarily affects the retina, which is the specialized tissue at the back of the eye that detects light and color. This condition causes vision problems, including an increased sensitivity to light (photophobia), involuntary movements of the eyes (nystagmus), and extreme farsightedness (hyperopia). Some people with Senior-Løken syndrome  develop the signs of Leber congenital amaurosis within the first few years of life, while others do not develop vision problems until later in childhood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: CEP290
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CEP290
+related-gene(2)/gene-symbol: IQCB1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/IQCB1
+related-gene(3)/gene-symbol: NPHP1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/NPHP1
+related-gene(4)/gene-symbol: NPHP4
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/NPHP4
+related-gene(5)/gene-symbol: SDCCAG8
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/SDCCAG8
+related-gene(6)/gene-symbol: WDR19
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/WDR19
+synonym(1): Loken-Senior syndrome
+synonym(2): renal dysplasia and retinal aplasia
+synonym(3): renal-retinal syndrome
+synonym(4): Senior-Loken syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0403553
+db-key(2)/db: GTR
+db-key(2)/key: C1836517
+db-key(3)/db: GTR
+db-key(3)/key: C1846979
+db-key(4)/db: GTR
+db-key(4)/key: C1846980
+db-key(5)/db: GTR
+db-key(5)/key: C1857779
+db-key(6)/db: GTR
+db-key(6)/key: C3150877
+db-key(7)/db: MeSH
+db-key(7)/key: D052177
+db-key(8)/db: MeSH
+db-key(8)/key: D057130
+db-key(9)/db: OMIM
+db-key(9)/key: 266900
+db-key(10)/db: OMIM
+db-key(10)/key: 606995
+db-key(11)/db: OMIM
+db-key(11)/key: 606996
+db-key(12)/db: OMIM
+db-key(12)/key: 609254
+db-key(13)/db: OMIM
+db-key(13)/key: 610189
+db-key(14)/db: OMIM
+db-key(14)/key: 613615
+db-key(15)/db: Orphanet
+db-key(15)/key: 3156
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 236531005
+reviewed: 2012-06
+published: 2018-04-17

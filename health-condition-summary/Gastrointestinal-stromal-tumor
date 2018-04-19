@@ -1,0 +1,37 @@
+name: Gastrointestinal stromal tumor
+ghr-page: https://ghr.nlm.nih.gov/condition/gastrointestinal-stromal-tumor
+text/text-role: description
+text/html: <p>A gastrointestinal stromal tumor (GIST) is a type of tumor that occurs in the gastrointestinal tract, most commonly in the stomach or small intestine. The tumors are thought to grow from specialized cells found in the gastrointestinal tract called interstitial cells of Cajal (ICCs) or precursors to these cells. GISTs are usually found in adults between ages 40 and 70; rarely, children and young adults develop these tumors. The tumors can be cancerous (malignant) or noncancerous (benign).</p><p>Small tumors may cause no signs or symptoms. However, some people with GISTs may experience pain or swelling in the abdomen, nausea, vomiting, loss of appetite, or weight loss. Sometimes, tumors cause bleeding, which may lead to low red blood cell counts (anemia) and, consequently, weakness and tiredness. Bleeding into the intestinal tract may cause black and tarry stools, and bleeding into the throat or stomach may cause vomiting of blood.</p><p>Affected individuals with no family history of GIST typically have only one tumor (called a sporadic GIST). People with a family history of GISTs (called familial GISTs) often have multiple tumors and additional signs or symptoms, including noncancerous overgrowth (hyperplasia) of other cells in the gastrointestinal tract and patches of dark skin on various areas of the body. Some affected individuals have a skin condition called urticaria pigmentosa (also known as cutaneous mastocytosis), which is characterized by raised patches of brownish skin that sting or itch when touched.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: BRAF
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BRAF
+related-gene(2)/gene-symbol: KIT
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/KIT
+related-gene(3)/gene-symbol: PDGFRA
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PDGFRA
+related-gene(4)/gene-symbol: SDHA
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SDHA
+related-gene(5)/gene-symbol: SDHB
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/SDHB
+related-gene(6)/gene-symbol: SDHC
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/SDHC
+related-gene(7)/gene-symbol: SDHD
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/SDHD
+synonym(1): gastrointestinal stromal neoplasm
+synonym(2): gastrointestinal stromal sarcoma
+synonym(3): GIST
+db-key(1)/db: GTR
+db-key(1)/key: C0238198
+db-key(2)/db: MeSH
+db-key(2)/key: D046152
+db-key(3)/db: OMIM
+db-key(3)/key: 606764
+db-key(4)/db: Orphanet
+db-key(4)/key: 44890
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 420120006
+reviewed: 2014-09
+published: 2018-04-17

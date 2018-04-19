@@ -1,0 +1,39 @@
+name: Crigler-Najjar syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/crigler-najjar-syndrome
+text/text-role: description
+text/html: <p>Crigler-Najjar syndrome is a severe condition characterized by high levels of a toxic substance called bilirubin in the blood (hyperbilirubinemia). Bilirubin is produced when red blood cells are broken down. This substance is removed from the body only after it undergoes a chemical reaction in the liver, which converts the toxic form of bilirubin (called unconjugated bilirubin) to a nontoxic form called conjugated bilirubin. People with Crigler-Najjar syndrome have a buildup of unconjugated bilirubin in their blood (unconjugated hyperbilirubinemia).</p><p>Bilirubin has an orange-yellow tint, and hyperbilirubinemia causes yellowing of the skin and whites of the eyes (jaundice). In Crigler-Najjar syndrome, jaundice is apparent at birth or in infancy. Severe unconjugated hyperbilirubinemia can lead to a condition called kernicterus, which is a form of brain damage caused by the accumulation of unconjugated bilirubin in the brain and nerve tissues. Babies with kernicterus are often extremely tired (lethargic) and may have weak muscle tone (hypotonia). These babies may experience episodes of increased muscle tone (hypertonia) and arching of their backs. Kernicterus can lead to other neurological problems, including involuntary writhing movements of the body (choreoathetosis), hearing problems, or intellectual disability.</p><p>Crigler-Najjar syndrome is divided into two types. Type 1 (CN1) is very severe, and affected individuals can die in childhood due to kernicterus, although with proper treatment, they may survive longer. Type 2 (CN2) is less severe. People with CN2 are less likely to develop kernicterus, and most affected individuals survive into adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: UGT1A1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/UGT1A1
+synonym(1): Crigler Najjar syndrome
+synonym(2): familial nonhemolytic unconjugated hyperbilirubinemia
+synonym(3): hereditary unconjugated hyperbilirubinemia
+db-key(1)/db: GTR
+db-key(1)/key: C0010324
+db-key(2)/db: GTR
+db-key(2)/key: C2931132
+db-key(3)/db: GTR
+db-key(3)/key: CN119421
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: E80.5
+db-key(5)/db: MeSH
+db-key(5)/key: D003414
+db-key(6)/db: OMIM
+db-key(6)/key: 218800
+db-key(7)/db: OMIM
+db-key(7)/key: 606785
+db-key(8)/db: Orphanet
+db-key(8)/key: 205
+db-key(9)/db: Orphanet
+db-key(9)/key: 79234
+db-key(10)/db: Orphanet
+db-key(10)/key: 79235
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 28259009
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 68067009
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 8933000
+reviewed: 2012-02
+published: 2018-04-17

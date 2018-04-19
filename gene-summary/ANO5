@@ -1,0 +1,25 @@
+gene-symbol: ANO5
+name: anoctamin 5
+ghr-page: https://ghr.nlm.nih.gov/gene/ANO5
+text/text-role: function
+text/html: <p>The <i>ANO5</i> gene provides instructions for making a protein called anoctamin-5. While the specific function of this protein is not well understood, it belongs to a family of proteins, called anoctamins, that act as chloride channels. Chloride channels, which transport negatively charged chlorine atoms (chloride ions) in and out of cells, play a key role in a cell's ability to generate and transmit electrical signals. Studies suggest that most anoctamin proteins function as chloride channels that are turned on (activated) in the presence of positively charged calcium atoms (calcium ions); these channels are known as calcium-activated chloride channels. The mechanism for this calcium activation is unclear. Anoctamin proteins are also involved in maintaining the membrane that surrounds cells and repairing the membrane if it gets damaged.</p><p>The anoctamin-5 protein is most abundant in muscles used for movement (skeletal muscles). For the body to move normally, skeletal muscles must tense (contract) and relax in a coordinated way. The regulation of chloride flow within muscle cells plays a role in controlling muscle contraction and relaxation.</p><p>The anoctamin-5 protein is also found in other cells including heart (cardiac) muscle cells and bone cells. Studies have suggested that the anoctamin-5 protein may be important for the development of muscle and bone before birth.</p>
+related-health-condition(1)/name: gnathodiaphyseal dysplasia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/gnathodiaphyseal-dysplasia
+related-health-condition(2)/name: limb-girdle muscular dystrophy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/limb-girdle-muscular-dystrophy
+related-health-condition(3)/name: Miyoshi myopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/miyoshi-myopathy
+synonym(1): ANO5_HUMAN
+synonym(2): anoctamin-5
+synonym(3): GDD1
+synonym(4): gnathodiaphyseal dysplasia 1 protein
+synonym(5): integral membrane protein GDD1
+synonym(6): LGMD2L
+synonym(7): TMEM16E
+synonym(8): transmembrane protein 16E
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 203859
+db-key(2)/db: OMIM
+db-key(2)/key: 608662
+reviewed: 2014-12
+published: 2018-04-17

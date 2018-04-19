@@ -1,0 +1,70 @@
+name: Nonbullous congenital ichthyosiform erythroderma
+ghr-page: https://ghr.nlm.nih.gov/condition/nonbullous-congenital-ichthyosiform-erythroderma
+text/text-role: description
+text/html: <p>Nonbullous congenital ichthyosiform erythroderma (NBCIE) is a condition that mainly affects the skin. Many infants with this condition are born with a tight, clear sheath covering their skin called a collodion membrane. Constriction by the membrane may cause the lips and eyelids to be turned out so the inner surface is exposed. The collodion membrane is usually shed during the first few weeks of life. Following shedding of the collodion membrane, the skin is red (erythroderma) and covered with fine, white scales (ichthyosis). Infants with NBCIE may develop infections, an excessive loss of fluids (dehydration), and respiratory problems early in life.</p><p>Some people with NBCIE have thickening of the skin on the palms of the hands and soles of the feet (palmoplantar keratoderma), decreased or absent sweating (anhidrosis), and abnormal nails (nail dystrophy). In severe cases, there is an absence of hair growth (alopecia) in certain areas, often affecting the scalp and eyebrows.</p><p>In individuals with NBCIE, some of the skin problems may improve by adulthood. Life expectancy is normal in people with NBCIE.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: ABCA12
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ABCA12
+related-gene(2)/gene-symbol: ALOX12B
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ALOX12B
+related-gene(3)/gene-symbol: ALOXE3
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/ALOXE3
+related-gene(4)/gene-symbol: CASP14
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/CASP14
+related-gene(5)/gene-symbol: CERS3
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/CERS3
+related-gene(6)/gene-symbol: CYP4F22
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/CYP4F22
+related-gene(7)/gene-symbol: NIPAL4
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/NIPAL4
+related-gene(8)/gene-symbol: PNPLA1
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/PNPLA1
+synonym(1): congenital ichthyosiform erythroderma
+synonym(2): congenital nonbullous ichthyosiform erythroderma
+synonym(3): NBCIE
+synonym(4): NBIE
+synonym(5): NCIE
+synonym(6): nonbullous ichthyosiform erythroderma
+db-key(1)/db: GTR
+db-key(1)/key: C1832550
+db-key(2)/db: GTR
+db-key(2)/key: C1847849
+db-key(3)/db: GTR
+db-key(3)/key: C1855792
+db-key(4)/db: GTR
+db-key(4)/key: C1858142
+db-key(5)/db: GTR
+db-key(5)/key: C2677065
+db-key(6)/db: GTR
+db-key(6)/key: C3554349
+db-key(7)/db: GTR
+db-key(7)/key: C3554355
+db-key(8)/db: GTR
+db-key(8)/key: C4310621
+db-key(9)/db: GeneReviews
+db-key(9)/key: li-ar
+db-key(10)/db: MeSH
+db-key(10)/key: D016113
+db-key(11)/db: OMIM
+db-key(11)/key: 242100
+db-key(12)/db: OMIM
+db-key(12)/key: 601277
+db-key(13)/db: OMIM
+db-key(13)/key: 604777
+db-key(14)/db: OMIM
+db-key(14)/key: 606545
+db-key(15)/db: OMIM
+db-key(15)/key: 612281
+db-key(16)/db: OMIM
+db-key(16)/key: 615023
+db-key(17)/db: OMIM
+db-key(17)/key: 615024
+db-key(18)/db: OMIM
+db-key(18)/key: 617320
+db-key(19)/db: Orphanet
+db-key(19)/key: 281097
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 267372009
+reviewed: 2017-07
+published: 2018-04-17

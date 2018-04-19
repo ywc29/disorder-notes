@@ -1,0 +1,30 @@
+gene-symbol: STAT3
+name: signal transducer and activator of transcription 3
+ghr-page: https://ghr.nlm.nih.gov/gene/STAT3
+text/text-role: function
+text/html: <p>The <i>STAT3</i> gene is part of a family known as the STAT genes. These genes provide instructions for making proteins that are part of essential chemical signaling pathways within cells. When STAT proteins are activated by certain chemical signals, they move into the nucleus and attach (bind) to specific areas of DNA. By binding to regulatory regions near genes, STAT proteins can regulate whether these genes are turned on or off. STAT proteins are called transcription factors on the basis of this action.</p><p>The STAT3 protein is involved in many cellular functions. It regulates genes that are involved in cell growth and division, cell movement, and the self-destruction of cells (apoptosis). The STAT3 protein is active in tissues throughout the body. It plays an important role in the development and function of several body systems and is essential for life. In the immune system, the STAT3 protein transmits signals for the maturation of immune system cells, especially T cells and B cells. These cells help control the body's response to foreign invaders such as bacteria and fungi. In addition, the protein is involved in the regulation of inflammation, which is one way the immune system responds to infection or injury. In the skeletal system, the STAT3 protein is involved in the formation of specialized cells that build and break down bone tissue. These cells are necessary for the normal development and maintenance of bones.</p>
+related-health-condition(1)/name: autosomal dominant hyper-IgE syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-hyper-ige-syndrome
+related-health-condition(2)/name: Crohn disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/crohn-disease
+related-health-condition(3)/name: prostate cancer
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+related-health-condition(4)/name: shingles
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/shingles
+synonym(1): acute-phase response factor
+synonym(2): APRF
+synonym(3): APRF Transcription Factor
+synonym(4): DNA-binding protein APRF
+synonym(5): FLJ20882
+synonym(6): hypothetical protein MGC16063
+synonym(7): IL6-Response Factor
+synonym(8): LIF-Response Factor
+synonym(9): LIF(leukemia inhibitory factor)-Response Factor
+synonym(10): signal transducer and activator of transcription 3 (acute-phase response factor)
+synonym(11): STAT3_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6774
+db-key(2)/db: OMIM
+db-key(2)/key: 102582
+reviewed: 2015-10
+published: 2018-04-17

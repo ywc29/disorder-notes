@@ -1,0 +1,10 @@
+gene-symbol: TRAF1
+name: TNF receptor associated factor 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TRAF1
+related-health-condition(1)/name: juvenile idiopathic arthritis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-idiopathic-arthritis
+related-health-condition(2)/name: rheumatoid arthritis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/rheumatoid-arthritis
+db-key/db: NCBI Gene
+db-key/key: 7185
+published: 2018-04-17

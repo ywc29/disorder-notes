@@ -1,0 +1,22 @@
+gene-symbol: SLC16A2
+name: solute carrier family 16 member 2
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC16A2
+text/text-role: function
+text/html: <p>The <i>SLC16A2</i> gene (also known as <i>MCT8</i>) provides instructions for making a protein that plays a critical role in nervous system development. This protein transports a particular hormone into nerve cells in the developing brain. This hormone, called triiodothyronine or T3, is produced by the thyroid (a butterfly-shaped gland in the lower neck).  Once inside a nerve cell, T3 interacts with receptors in the nucleus that turn specific genes on or off.  The activity of this hormone appears to be critical for the maturation of nerve cells, the movement of these cells to their proper locations (cell migration), and the formation of specialized cell outgrowths called dendrites.  T3 may also play a role in the development of synapses, which are junctions between nerve cells where cell-to-cell communication occurs.</p><p>In addition to the nervous system, T3 is produced in the liver, kidney, heart, and several other tissues.  T3 and other forms of thyroid hormone help regulate the development of many organs and control the rate of chemical reactions in the body (metabolism).</p>
+related-health-condition/name: Allan-Herndon-Dudley syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/allan-herndon-dudley-syndrome
+synonym(1): DXS128E
+synonym(2): MCT8
+synonym(3): monocarboxylate transporter 8
+synonym(4): MOT8_HUMAN
+synonym(5): solute carrier family 16 (monocarboxylic acid transporters), member 2
+synonym(6): solute carrier family 16, member 2 (monocarboxylic acid transporter 8)
+synonym(7): solute carrier family 16, member 2 (thyroid hormone transporter)
+synonym(8): X-linked PEST-containing transporter
+synonym(9): XPCT
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6567
+db-key(2)/db: OMIM
+db-key(2)/key: 300095
+reviewed: 2007-05
+published: 2018-04-17

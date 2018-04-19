@@ -1,0 +1,19 @@
+gene-symbol: SETBP1
+name: SET binding protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SETBP1
+text/text-role: function
+text/html: <p>The <i>SETBP1</i> gene provides instructions for making a protein called SET binding protein 1 (SETBP1), which is found in cells throughout the body. The SETBP1 protein is known to attach (bind) to another protein called SET. However, the function of the SETBP1 protein and the effect of its binding to the SET protein are unknown.</p>
+related-health-condition/name: Schinzel-Giedion syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/schinzel-giedion-syndrome
+synonym(1): KIAA0437
+synonym(2): SEB
+synonym(3): SET-binding protein
+synonym(4): SET-binding protein isoform a
+synonym(5): SET-binding protein isoform b
+synonym(6): SETBP_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 26040
+db-key(2)/db: OMIM
+db-key(2)/key: 611060
+reviewed: 2012-01
+published: 2018-04-17

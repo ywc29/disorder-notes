@@ -1,0 +1,28 @@
+name: Phosphoribosylpyrophosphate synthetase superactivity
+ghr-page: https://ghr.nlm.nih.gov/condition/phosphoribosylpyrophosphate-synthetase-superactivity
+text/text-role: description
+text/html: <p>Phosphoribosylpyrophosphate synthetase superactivity (PRS superactivity) is characterized by the overproduction and accumulation of uric acid (a waste product of normal chemical processes) in the blood and urine. The overproduction of uric acid can lead to gout, which is arthritis caused by an accumulation of uric acid crystals in the joints. Individuals with PRS superactivity also develop kidney or bladder stones that may result in episodes of acute kidney failure.</p><p>There are two forms of PRS superactivity, a severe form that begins in infancy or early childhood, and a milder form that typically appears in late adolescence or early adulthood. In both forms, a kidney or bladder stone is often the first symptom. Gout and impairment of kidney function may develop if the condition is not adequately controlled with medication and dietary restrictions. People with the severe form may also have neurological problems, including hearing loss caused by changes in the inner ear (sensorineural hearing loss), weak muscle tone (hypotonia), impaired muscle coordination (ataxia), and developmental delay.</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+related-gene/gene-symbol: PRPS1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PRPS1
+synonym(1): gout, PRPS-related
+synonym(2): PRPP synthetase overactivity
+synonym(3): PRPP synthetase superactivity
+synonym(4): PRPS1 superactivity
+synonym(5): PRS overactivity
+synonym(6): PRS superactivity
+db-key(1)/db: GTR
+db-key(1)/key: C1970827
+db-key(2)/db: GeneReviews
+db-key(2)/key: prs
+db-key(3)/db: MeSH
+db-key(3)/key: D033461
+db-key(4)/db: OMIM
+db-key(4)/key: 300661
+db-key(5)/db: Orphanet
+db-key(5)/key: 3222
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 239847002
+reviewed: 2009-09
+published: 2018-04-17

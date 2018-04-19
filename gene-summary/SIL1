@@ -1,0 +1,20 @@
+gene-symbol: SIL1
+name: SIL1 nucleotide exchange factor
+ghr-page: https://ghr.nlm.nih.gov/gene/SIL1
+text/text-role: function
+text/html: <p>The <i>SIL1</i> gene provides instructions for producing a protein located in a cell structure called the endoplasmic reticulum. Among its many functions, the endoplasmic reticulum folds and modifies newly formed proteins so they have the correct 3-dimensional shape.  The SIL1 protein works with BiP, a protein that helps fold newly produced proteins into the proper shape and refold damaged proteins.  To start this process, BiP attaches (binds) to a molecule called adenosine triphosphate (ATP).  When BiP folds a protein, the ATP is converted to a similar molecule called adenosine diphosphate (ADP).  Then the SIL1 protein releases ADP from BiP so that it can bind to another molecule of ATP and start the protein folding process again.  Because of its role in helping BiP exchange ADP for ATP, the SIL1 protein is called a nucleotide exchange factor.</p>
+related-health-condition/name: Marinesco-Sjögren syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/marinesco-sjogren-syndrome
+synonym(1): BAP
+synonym(2): BiP-associated protein
+synonym(3): MSS
+synonym(4): SIL1 homolog, endoplasmic reticulum chaperone (S. cerevisiae)
+synonym(5): SIL1 protein
+synonym(6): SIL1_HUMAN
+synonym(7): ULG5
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 64374
+db-key(2)/db: OMIM
+db-key(2)/key: 608005
+reviewed: 2008-09
+published: 2018-04-17

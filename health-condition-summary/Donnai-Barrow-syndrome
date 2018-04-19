@@ -1,0 +1,28 @@
+name: Donnai-Barrow syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/donnai-barrow-syndrome
+text/text-role: description
+text/html: <p>Donnai-Barrow syndrome is an inherited disorder that affects many parts of the body. This disorder is characterized by unusual facial features, including prominent, wide-set eyes with outer corners that point downward; a short bulbous nose with a flat nasal bridge; ears that are rotated backward; and a widow's peak hairline.</p><p>Individuals with Donnai-Barrow syndrome have severe hearing loss caused by abnormalities of the inner ear (sensorineural hearing loss). In addition, they often experience vision problems, including extreme nearsightedness (high myopia), detachment or deterioration of the light-sensitive tissue in the back of the eye (the retina), and progressive vision loss. Some have a gap or split in the colored part of the eye (iris coloboma).</p><p>In almost all people with Donnai-Barrow syndrome, the tissue connecting the left and right halves of the brain (corpus callosum) is underdeveloped or absent. Affected individuals may also have other structural abnormalities of the brain. They generally have mild to moderate intellectual disability and developmental delay.</p><p>People with Donnai-Barrow syndrome may also have a hole in the muscle that separates the abdomen from the chest cavity (the diaphragm), which is called a congenital diaphragmatic hernia. This potentially serious birth defect allows the stomach and intestines to move into the chest and possibly crowd the developing heart and lungs. An opening in the wall of the abdomen (an omphalocele) that allows the abdominal organs to protrude through the navel may also occur in affected individuals. Occasionally people with Donnai-Barrow syndrome have abnormalities of the intestine, heart, or other organs.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: LRP2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LRP2
+synonym(1): DBS
+synonym(2): DBS/FOAR syndrome
+synonym(3): diaphragmatic hernia-exomphalos-corpus callosum agenesis
+synonym(4): Diaphragmatic hernia-exomphalos-hypertelorism syndrome
+synonym(5): faciooculoacousticorenal syndrome
+synonym(6): FOAR syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1857277
+db-key(2)/db: GeneReviews
+db-key(2)/key: donnai
+db-key(3)/db: MeSH
+db-key(3)/key: D015499
+db-key(4)/db: OMIM
+db-key(4)/key: 222448
+db-key(5)/db: Orphanet
+db-key(5)/key: 2143
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702418009
+reviewed: 2013-04
+published: 2018-04-17

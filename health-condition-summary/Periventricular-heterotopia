@@ -1,0 +1,38 @@
+name: Periventricular heterotopia
+ghr-page: https://ghr.nlm.nih.gov/condition/periventricular-heterotopia
+text/text-role: description
+text/html: <p>Periventricular heterotopia is a condition in which nerve cells (neurons) do not migrate properly during the early development of the fetal brain, from about the 6th week to the 24th week of pregnancy. Heterotopia means "out of place." In normal brain development, neurons form in the periventricular region, located around fluid-filled cavities (ventricles) near the center of the brain. The neurons then migrate outward to form the exterior of the brain (cerebral cortex) in six onion-like layers. In periventricular heterotopia, some neurons fail to migrate to their proper position and form clumps around the ventricles.</p><p>Periventricular heterotopia usually becomes evident when seizures first appear, often during the teenage years. The nodules around the ventricles are then typically discovered when magnetic resonance imaging (MRI) studies are done. Affected individuals usually have normal intelligence, although some have mild intellectual disability. Difficulty with reading and spelling (dyslexia) and movement problems have been reported in some people with periventricular heterotopia.</p><p>Less commonly, individuals with periventricular heterotopia may have other features including more severe brain malformations, small head size (microcephaly), developmental delays, recurrent infections, blood vessel abnormalities, stomach problems, or lung disease. Periventricular heterotopia may also occur in association with other conditions such as Ehlers-Danlos syndrome, which results in extremely flexible joints, skin that stretches easily, and fragile blood vessels.</p>
+inheritance-pattern(1)/code: ar
+inheritance-pattern(1)/memo: autosomal recessive
+inheritance-pattern(2)/code: xd
+inheritance-pattern(2)/memo: X-linked dominant
+related-gene(1)/gene-symbol: ARFGEF2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ARFGEF2
+related-gene(2)/gene-symbol: FLNA
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FLNA
+related-gene(3)/gene-symbol: NEDD4L
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/NEDD4L
+related-chromosome/name: 5
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/5
+synonym(1): familial nodular heterotopia
+synonym(2): periventricular nodular heterotopia
+db-key(1)/db: GTR
+db-key(1)/key: C2678104
+db-key(2)/db: GeneReviews
+db-key(2)/key: x-pvh
+db-key(3)/db: MeSH
+db-key(3)/key: D054091
+db-key(4)/db: OMIM
+db-key(4)/key: 300049
+db-key(5)/db: OMIM
+db-key(5)/key: 608097
+db-key(6)/db: OMIM
+db-key(6)/key: 608098
+db-key(7)/db: OMIM
+db-key(7)/key: 617201
+db-key(8)/db: Orphanet
+db-key(8)/key: 98892
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 253150002
+reviewed: 2018-02
+published: 2018-04-17

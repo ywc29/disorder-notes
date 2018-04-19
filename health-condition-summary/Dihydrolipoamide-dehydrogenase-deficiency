@@ -1,0 +1,29 @@
+name: Dihydrolipoamide dehydrogenase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/dihydrolipoamide-dehydrogenase-deficiency
+text/text-role: description
+text/html: <p>Dihydrolipoamide dehydrogenase deficiency is a severe condition that can affect several body systems. Signs and symptoms of this condition usually appear shortly after birth, and they can vary widely among affected individuals.</p><p>A common feature of dihydrolipoamide dehydrogenase deficiency is a potentially life-threatening buildup of lactic acid in tissues (lactic acidosis), which can cause nausea, vomiting, severe breathing problems, and an abnormal heartbeat. Neurological problems are also common in this condition; the first symptoms in affected infants are often decreased muscle tone (hypotonia) and extreme tiredness (lethargy). As the problems worsen, affected infants can have difficulty feeding, decreased alertness, and seizures. Liver problems can also occur in dihydrolipoamide dehydrogenase deficiency, ranging from an enlarged liver (hepatomegaly) to life-threatening liver failure. In some affected people, liver disease, which can begin anytime from infancy to adulthood, is the primary symptom. The liver problems are usually associated with recurrent vomiting and abdominal pain. Rarely, people with dihydrolipoamide dehydrogenase deficiency experience weakness of the muscles used for movement (skeletal muscles), particularly during exercise; droopy eyelids; or a weakened heart muscle (cardiomyopathy). Other features of this condition include excess ammonia in the blood (hyperammonemia), a buildup of molecules called ketones in the body (ketoacidosis), or low blood sugar levels (hypoglycemia).</p><p>Typically, the signs and symptoms of dihydrolipoamide dehydrogenase deficiency occur in episodes that may be triggered by fever, injury, or other stresses on the body. Affected individuals are usually symptom-free between episodes. Many infants with this condition do not survive the first few years of life because of the severity of these episodes. Affected individuals who survive past early childhood often have delayed growth and neurological problems, including intellectual disability, muscle stiffness (spasticity), difficulty coordinating movements (ataxia), and seizures.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: DLD
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DLD
+synonym(1): dihydrolipoyl dehydrogenase deficiency
+synonym(2): DLD deficiency
+synonym(3): E3 deficiency
+synonym(4): lactic acidosis due to LAD deficiency
+synonym(5): lactic acidosis due to lipoamide dehydrogenase deficiency
+synonym(6): lipoamide dehydrogenase deficiency
+synonym(7): maple syrup urine disease, type III
+db-key(1)/db: GTR
+db-key(1)/key: CN043137
+db-key(2)/db: GeneReviews
+db-key(2)/key: dld-def
+db-key(3)/db: MeSH
+db-key(3)/key: D028361
+db-key(4)/db: OMIM
+db-key(4)/key: 246900
+db-key(5)/db: Orphanet
+db-key(5)/key: 2394
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 29914000
+reviewed: 2014-09
+published: 2018-04-17

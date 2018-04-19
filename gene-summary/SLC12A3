@@ -1,0 +1,22 @@
+gene-symbol: SLC12A3
+name: solute carrier family 12 member 3
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC12A3
+text/text-role: function
+text/html: <p>The <i>SLC12A3</i> gene provides instructions for making a protein known as NCC. This protein is a sodium chloride co-transporter, which means that it moves charged atoms (ions) of sodium (Na<sup>+</sup>) and chlorine (Cl<sup>-</sup>) across cell membranes.</p><p>The NCC protein is essential for normal kidney function. It is part of the mechanism by which kidneys reabsorb salt (sodium chloride or NaCl) from the urine back into the bloodstream. The retention of salt affects the body's fluid levels and helps maintain blood pressure.</p>
+related-health-condition/name: Gitelman syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/gitelman-syndrome
+synonym(1): Na-Cl symporter
+synonym(2): NaCl electroneutral thiazide-sensitive cotransporter
+synonym(3): NCCT
+synonym(4): S12A3_HUMAN
+synonym(5): solute carrier family 12 (sodium/chloride transporter), member 3
+synonym(6): solute carrier family 12 (sodium/chloride transporters), member 3
+synonym(7): thiazide-sensitive Na-Cl cotransporter
+synonym(8): thiazide-sensitive sodium-chloride cotransporter
+synonym(9): TSC
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6559
+db-key(2)/db: OMIM
+db-key(2)/key: 600968
+reviewed: 2011-02
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: SCN8A
+name: sodium voltage-gated channel alpha subunit 8
+ghr-page: https://ghr.nlm.nih.gov/gene/SCN8A
+text/text-role: function
+text/html: <p>The <i>SCN8A</i> gene belongs to a family of genes that provide instructions for making sodium channels. These channels allow positively charged sodium (Na) atoms (sodium ions) to pass into cells; they play a key role in a cell's ability to generate and transmit electrical signals.</p><p>The <i>SCN8A</i> gene provides instructions for making one part (the alpha subunit) of a sodium channel called Na<sub>v</sub>1.6. The alpha subunit forms the hole (pore) in the cell membrane through which sodium ions flow. Na<sub>v</sub>1.6 channels are primarily found in the nerve cells (neurons) of the brain and spinal cord (central nervous system) and neurons that connect the central nervous system to muscles and sensory cells that detect sensations such as touch, pain, heat, and sound (the peripheral nervous system). Na<sub>v</sub>1.6 channels control the flow of sodium ions into cells, which makes it possible for neurons to communicate by generating and transmitting electrical signals.</p>
+related-health-condition/name: SCN8A-related epilepsy with encephalopathy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/scn8a-related-epilepsy-with-encephalopathy
+synonym(1): BFIS5
+synonym(2): CERIII
+synonym(3): CIAT
+synonym(4): hNa6/Scn8a voltage-gated sodium channel
+synonym(5): NaCh6
+synonym(6): Nav1.6
+synonym(7): sodium channel, voltage gated, type VIII, alpha subunit
+synonym(8): voltage-gated sodium channel subunit alpha Nav1.6
+synonym(9): voltage-gated sodium channel type VIII alpha protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6334
+db-key(2)/db: OMIM
+db-key(2)/key: 600702
+reviewed: 2017-08
+published: 2018-04-17

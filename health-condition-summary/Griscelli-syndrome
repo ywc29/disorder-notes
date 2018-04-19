@@ -1,0 +1,37 @@
+name: Griscelli syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/griscelli-syndrome
+text/text-role: description
+text/html: <p>Griscelli syndrome is an inherited condition characterized by unusually light (hypopigmented) skin and light silvery-gray hair starting in infancy. Researchers have identified three types of this disorder, which are distinguished by their genetic cause and pattern of signs and symptoms.</p><p>Griscelli syndrome type 1 involves severe problems with brain function in addition to the distinctive skin and hair coloring.  Affected individuals typically have delayed development, intellectual disability, seizures, weak muscle tone (hypotonia), and eye and vision abnormalities. Another condition called Elejalde disease has many of the same signs and symptoms, and some researchers have proposed that Griscelli syndrome type 1 and Elejalde disease are actually the same disorder.</p><p>People with Griscelli syndrome type 2 have immune system abnormalities in addition to having hypopigmented skin and hair. Affected individuals are prone to recurrent infections. They also develop an immune condition called hemophagocytic lymphohistiocytosis (HLH), in which the immune system produces too many activated immune cells called T-lymphocytes and macrophages (histiocytes). Overactivity of these cells can damage organs and tissues throughout the body, causing life-threatening complications if the condition is untreated. People with Griscelli syndrome type 2 do not have the neurological abnormalities of type 1.</p><p>Unusually light skin and hair coloring are the only features of Griscelli syndrome type 3. People with this form of the disorder do not have neurological abnormalities or immune system problems.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: MLPH
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/MLPH
+related-gene(2)/gene-symbol: MYO5A
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MYO5A
+related-gene(3)/gene-symbol: RAB27A
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/RAB27A
+synonym(1): GS
+synonym(2): hypopigmentation immunodeficiency disease
+synonym(3): partial albinism with immunodeficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1836573
+db-key(2)/db: GTR
+db-key(2)/key: C1859194
+db-key(3)/db: GTR
+db-key(3)/key: C1868679
+db-key(4)/db: MeSH
+db-key(4)/key: D017496
+db-key(5)/db: OMIM
+db-key(5)/key: 214450
+db-key(6)/db: OMIM
+db-key(6)/key: 256710
+db-key(7)/db: OMIM
+db-key(7)/key: 607624
+db-key(8)/db: OMIM
+db-key(8)/key: 609227
+db-key(9)/db: Orphanet
+db-key(9)/key: 381
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 37548006
+reviewed: 2013-09
+published: 2018-04-17

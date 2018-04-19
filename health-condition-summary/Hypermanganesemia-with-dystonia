@@ -1,0 +1,32 @@
+name: Hypermanganesemia with dystonia
+ghr-page: https://ghr.nlm.nih.gov/condition/hypermanganesemia-with-dystonia
+text/text-role: description
+text/html: <p>Hypermanganesemia with dystonia is an inherited disorder in which excessive amounts of the element manganese accumulate in the body (hypermanganesemia). One place manganese builds up in particular is in a region of the brain responsible for the coordination of movement, causing neurological problems that make controlling movement difficult. Consequently, the condition is characterized by involuntary, sustained muscle contractions (dystonia) and other uncontrolled movements. Two types of hypermanganesemia with dystonia, called hypermanganesemia with dystonia, polycythemia, and cirrhosis (HMDPC) and hypermanganesemia with dystonia 2, have been identified. They are distinguished by their genetic causes and certain specific features.</p><p>In HMDPC (also known as hypermanganesemia with dystonia 1), manganese accumulates in the blood, brain, and liver. Signs and symptoms of the condition can begin in childhood (early-onset), typically between ages 2 and 15, or in adulthood (adult-onset). Most children with the early-onset form of HMDPC experience dystonia in the arms and legs, which often leads to a characteristic high-stepping walk described as a "cock-walk gait." Other neurological symptoms in affected children include involuntary trembling (tremor), unusually slow movement (bradykinesia), and slurred speech (dysarthria). The adult-onset form of HMDPC is characterized by a pattern of movement abnormalities known as parkinsonism, which includes bradykinesia, tremor, muscle rigidity, and an inability to hold the body upright and balanced (postural instability).</p><p>Individuals with HMDPC have an increased number of red blood cells (polycythemia) and low levels of iron stored in the body. Additional features of HMDPC can include an enlarged liver (hepatomegaly) due to manganese accumulation in the organ, scarring (fibrosis) in the liver, and irreversible liver disease (cirrhosis).</p><p>In hypermanganesemia with dystonia 2, manganese accumulates in the blood and brain. Signs and symptoms of this type of the disorder usually begin between ages 6 months and 3 years. Development of motor skills, such as sitting and walking, may be delayed, or if already learned, they may be lost. Dystonia can affect any part of the body and worsens over time. By late childhood, the sustained muscle contractions often result in joints that are permanently bent (contractures) and an inability to walk unassisted. Some affected individuals have an abnormal curvature of the spine (scoliosis). People with hypermanganesemia with dystonia 2 can have other neurological problems similar to those in HMDPC, such as tremor, bradykinesia, parkinsonism, and dysarthria. Unlike in HMDPC, individuals with hypermanganesemia with dystonia 2 do not develop polycythemia or liver problems.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: SLC30A10
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC30A10
+related-gene(2)/gene-symbol: SLC39A14
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC39A14
+synonym(1): familial manganese-induced neurotoxicity
+synonym(2): HMNDYT
+db-key(1)/db: GTR
+db-key(1)/key: C2750442
+db-key(2)/db: GTR
+db-key(2)/key: C4310765
+db-key(3)/db: GeneReviews
+db-key(3)/key: hmdpc
+db-key(4)/db: GeneReviews
+db-key(4)/key: slc39a14-def
+db-key(5)/db: MeSH
+db-key(5)/key: D008664
+db-key(6)/db: OMIM
+db-key(6)/key: 613280
+db-key(7)/db: OMIM
+db-key(7)/key: 617013
+db-key(8)/db: Orphanet
+db-key(8)/key: 309854
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 702377007
+reviewed: 2017-10
+published: 2018-04-17

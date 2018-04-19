@@ -1,0 +1,30 @@
+name: Phosphoglycerate mutase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/phosphoglycerate-mutase-deficiency
+text/text-role: description
+text/html: <p>Phosphoglycerate mutase deficiency is a disorder that primarily affects muscles used for movement (skeletal muscles). Beginning in childhood or adolescence, affected individuals experience muscle aches or cramping following strenuous physical activity. Some people with this condition also have recurrent episodes of myoglobinuria. Myoglobinuria occurs when muscle tissue breaks down abnormally and releases a protein called myoglobin, which is processed by the kidneys and released in the urine. If untreated, myoglobinuria can lead to kidney failure.</p><p>In some cases of phosphoglycerate mutase deficiency, microscopic tube-shaped structures called tubular aggregates are seen in muscle fibers. It is unclear how tubular aggregates are associated with the signs and symptoms of the disorder.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: PGAM2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PGAM2
+synonym(1): deficiency mutase phosphoglycerate
+synonym(2): glycogen storage disease X
+synonym(3): GSD X
+synonym(4): GSD10
+synonym(5): GSDX
+synonym(6): myopathy due to phosphoglycerate mutase deficiency
+synonym(7): PGAM deficiency
+synonym(8): PGAMM deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0268149
+db-key(2)/db: MeSH
+db-key(2)/key: D008661
+db-key(3)/db: OMIM
+db-key(3)/key: 261670
+db-key(4)/db: Orphanet
+db-key(4)/key: 97234
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 124675005
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 37666005
+reviewed: 2011-12
+published: 2018-04-17

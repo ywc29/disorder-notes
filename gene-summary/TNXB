@@ -1,0 +1,25 @@
+gene-symbol: TNXB
+name: tenascin XB
+ghr-page: https://ghr.nlm.nih.gov/gene/TNXB
+text/text-role: function
+text/html: <p>The <i>TNXB</i> gene provides instructions for making a protein called tenascin-X. This protein plays an important role in organizing and maintaining the structure of tissues that support the body's muscles, joints, organs, and skin (connective tissues). In particular, studies suggest that it helps to regulate the production and assembly of certain types of collagen. Collagens are a family of proteins that strengthen and support connective tissues throughout the body. Tenascin-X is also involved in regulating the structure and stability of elastic fibers, which provide flexibility and stretchiness (elasticity) to connective tissues.</p>
+related-health-condition/name: Ehlers-Danlos syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ehlers-danlos-syndrome
+synonym(1): hexabrachion-like
+synonym(2): HXBL
+synonym(3): tenascin XB1
+synonym(4): tenascin XB2
+synonym(5): TENX
+synonym(6): TENX_HUMAN
+synonym(7): TNX
+synonym(8): TNXB1
+synonym(9): TNXB2
+synonym(10): TNXBS
+synonym(11): XB
+synonym(12): XBS
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7148
+db-key(2)/db: OMIM
+db-key(2)/key: 600985
+reviewed: 2017-11
+published: 2018-04-17

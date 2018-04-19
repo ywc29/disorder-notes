@@ -1,0 +1,20 @@
+gene-symbol: KRT12
+name: keratin 12
+ghr-page: https://ghr.nlm.nih.gov/gene/KRT12
+text/text-role: function
+text/html: <p>The <i>KRT12</i> gene provides instructions for making a protein called keratin 12. Keratins are a group of tough, fibrous proteins that form the structural framework of epithelial cells, which are cells that line the surfaces and cavities of the body. Keratin 12 is produced in a tissue on the surface of the eye called the corneal epithelium. This tissue forms the outermost layer of the cornea, which is the clear front covering of the eye. The corneal epithelium acts as a barrier to help prevent foreign materials, such as dust and bacteria, from entering the eye.</p><p>The keratin 12 protein partners with another keratin protein, keratin 3, to form molecules known as intermediate filaments. These filaments assemble into strong networks that provide strength and resilience to the corneal epithelium.</p>
+related-health-condition/name: Meesmann corneal dystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/meesmann-corneal-dystrophy
+synonym(1): CK-12
+synonym(2): cytokeratin-12
+synonym(3): K1C12_HUMAN
+synonym(4): K12
+synonym(5): keratin-12
+synonym(6): keratin 12, type I
+synonym(7): keratin, type I cytoskeletal 12
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3859
+db-key(2)/db: OMIM
+db-key(2)/key: 601687
+reviewed: 2012-08
+published: 2018-04-17

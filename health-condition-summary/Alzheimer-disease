@@ -1,0 +1,75 @@
+name: Alzheimer disease
+ghr-page: https://ghr.nlm.nih.gov/condition/alzheimer-disease
+text/text-role: description
+text/html: <p>Alzheimer disease is a degenerative disease of the brain that causes dementia, which is a gradual loss of memory, judgment, and ability to function. This disorder usually appears in people older than age 65, but less common forms of the disease appear earlier in adulthood.</p><p>Memory loss is the most common sign of Alzheimer disease.  Forgetfulness may be subtle at first, but the loss of memory worsens over time until it interferes with most aspects of daily living.  Even in familiar settings, a person with Alzheimer disease may get lost or become confused.  Routine tasks such as preparing meals, doing laundry, and performing other household chores can be challenging.  Additionally, it may become difficult to recognize people and name objects.  Affected people increasingly require help with dressing, eating, and personal care.</p><p>As the disorder progresses, some people with Alzheimer disease experience personality and behavioral changes and have trouble interacting in a socially appropriate manner.  Other common symptoms include agitation, restlessness, withdrawal, and loss of language skills.  People with this disease usually require total care during the advanced stages of the disease.  Affected individuals usually survive 8 to 10 years after the appearance of symptoms, but the course of the disease can range from 1 to 25 years.  Death usually results from pneumonia, malnutrition, or general body wasting (inanition).</p><p>Alzheimer disease can be classified as early-onset or late-onset.  The signs and symptoms of the early-onset form appear before age 65, while the late-onset form appears after age 65.  The early-onset form is much less common than the late-onset form, accounting for less than 5 percent of all cases of Alzheimer disease.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: u
+inheritance-pattern(2)/memo: pattern unknown
+related-gene(1)/gene-symbol: APOE
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/APOE
+related-gene(2)/gene-symbol: APP
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/APP
+related-gene(3)/gene-symbol: PSEN1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PSEN1
+related-gene(4)/gene-symbol: PSEN2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/PSEN2
+synonym(1): AD
+synonym(2): Alzheimer dementia (AD)
+synonym(3): Alzheimer sclerosis
+synonym(4): Alzheimer syndrome
+synonym(5): Alzheimer-type dementia (ATD)
+synonym(6): Alzheimer's Disease
+synonym(7): DAT
+synonym(8): familial Alzheimer disease (FAD)
+synonym(9): Presenile and senile dementia
+synonym(10): Primary Senile Degenerative Dementia
+synonym(11): SDAT
+db-key(1)/db: GTR
+db-key(1)/key: C0002395
+db-key(2)/db: GTR
+db-key(2)/key: C1843013
+db-key(3)/db: GTR
+db-key(3)/key: C1847200
+db-key(4)/db: GTR
+db-key(4)/key: C1863051
+db-key(5)/db: GeneReviews
+db-key(5)/key: alzheimer
+db-key(6)/db: GeneReviews
+db-key(6)/key: alzheimer-early
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: G30
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: G30.0
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: G30.1
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: G30.8
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: G30.9
+db-key(12)/db: MeSH
+db-key(12)/key: D000544
+db-key(13)/db: OMIM
+db-key(13)/key: 104300
+db-key(14)/db: OMIM
+db-key(14)/key: 104310
+db-key(15)/db: OMIM
+db-key(15)/key: 606889
+db-key(16)/db: OMIM
+db-key(16)/key: 607822
+db-key(17)/db: Orphanet
+db-key(17)/key: 1020
+db-key(18)/db: Orphanet
+db-key(18)/key: 238616
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 10532003
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 26929004
+db-key(21)/db: SNOMED CT
+db-key(21)/key: 416780008
+db-key(22)/db: SNOMED CT
+db-key(22)/key: 416975007
+db-key(23)/db: SNOMED CT
+db-key(23)/key: 65096006
+reviewed: 2013-05
+published: 2018-04-17

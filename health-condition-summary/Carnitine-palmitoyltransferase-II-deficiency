@@ -1,0 +1,35 @@
+name: Carnitine palmitoyltransferase II deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/carnitine-palmitoyltransferase-ii-deficiency
+text/text-role: description
+text/html: <p>Carnitine palmitoyltransferase II (CPT II) deficiency is a condition that prevents the body from using certain fats for energy, particularly during periods without food (fasting). There are three main types of CPT II deficiency: a lethal neonatal form, a severe infantile hepatocardiomuscular form, and a myopathic form.</p><p>The lethal neonatal form of CPT II deficiency becomes apparent soon after birth. Infants with this form of the disorder develop respiratory failure, seizures, liver failure, a weakened heart muscle (cardiomyopathy), and an irregular heart beat (arrhythmia). Affected individuals also have low blood sugar (hypoglycemia) and a low level of ketones, which are produced during the breakdown of fats and used for energy. Together these signs are called hypoketotic hypoglycemia. In many cases, the brain and kidneys are also structurally abnormal. Infants with the lethal neonatal form of CPT II deficiency usually live for a few days to a few months.</p><p>The severe infantile hepatocardiomuscular form of CPT II deficiency affects the liver, heart, and muscles. Signs and symptoms usually appear within the first year of life. This form involves recurring episodes of hypoketotic hypoglycemia, seizures, an enlarged liver (hepatomegaly), cardiomyopathy, and arrhythmia. Problems related to this form of CPT II deficiency can be triggered by periods of fasting or by illnesses such as viral infections. Individuals with the severe infantile hepatocardiomuscular form of CPT II deficiency are at risk for liver failure, nervous system damage, coma, and sudden death.</p><p>The myopathic form is the least severe type of CPT II deficiency. This form is characterized by recurrent episodes of muscle pain (myalgia) and weakness and is associated with the breakdown of muscle tissue (rhabdomyolysis). The destruction of muscle tissue releases a protein called myoglobin, which is processed by the kidneys and released in the urine (myoglobinuria). Myoglobin causes the urine to be red or brown. This protein can also damage the kidneys, in some cases leading to life-threatening kidney failure. Episodes of myalgia and rhabdomyolysis may be triggered by exercise, stress, exposure to extreme temperatures, infections, or fasting. The first episode usually occurs during childhood or adolescence. Most people with the myopathic form of CPT II deficiency have no signs or symptoms of the disorder between episodes.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CPT2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CPT2
+synonym(1): carnitine palmitoyltransferase 2 deficiency
+synonym(2): CPT II deficiency
+synonym(3): CPT2 deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0342790
+db-key(2)/db: GTR
+db-key(2)/key: C1833508
+db-key(3)/db: GTR
+db-key(3)/key: C1833511
+db-key(4)/db: GeneReviews
+db-key(4)/key: cpt2
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: E71.314
+db-key(6)/db: MeSH
+db-key(6)/key: D008052
+db-key(7)/db: OMIM
+db-key(7)/key: 255110
+db-key(8)/db: OMIM
+db-key(8)/key: 600649
+db-key(9)/db: OMIM
+db-key(9)/key: 608836
+db-key(10)/db: Orphanet
+db-key(10)/key: 157
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 238002005
+reviewed: 2014-06
+published: 2018-04-17

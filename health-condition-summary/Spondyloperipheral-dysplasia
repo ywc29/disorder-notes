@@ -1,0 +1,24 @@
+name: Spondyloperipheral dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/spondyloperipheral-dysplasia
+text/text-role: description
+text/html: <p>Spondyloperipheral dysplasia is a disorder that impairs bone growth.  This condition is characterized by flattened bones of the spine (platyspondyly) and unusually short fingers and toes (brachydactyly), with the exception of the first (big) toes. Other skeletal abnormalities associated with spondyloperipheral dysplasia include short stature, shortened long bones of the arms and legs, exaggerated curvature of the lower back (lordosis), and an inward- and upward-turning foot (clubfoot).  Additionally, some affected individuals have nearsightedness (myopia), hearing loss, and intellectual disability.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: COL2A1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/COL2A1
+synonym(1): SPD
+synonym(2): spondyloperipheral dysplasia with short ulna
+db-key(1)/db: GTR
+db-key(1)/key: C0796173
+db-key(2)/db: MeSH
+db-key(2)/key: D003095
+db-key(3)/db: MeSH
+db-key(3)/key: D010009
+db-key(4)/db: OMIM
+db-key(4)/key: 271700
+db-key(5)/db: Orphanet
+db-key(5)/key: 1856
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702339001
+reviewed: 2008-07
+published: 2018-04-17

@@ -1,0 +1,23 @@
+name: Familial isolated pituitary adenoma
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-isolated-pituitary-adenoma
+text/text-role: description
+text/html: <p>Familial isolated pituitary adenoma (FIPA) is an inherited condition characterized by development of a noncancerous tumor in the pituitary gland (called a pituitary adenoma). The pituitary gland, which is found at the base of the brain, produces hormones that control many important body functions.</p><p>Tumors that form in the pituitary gland can release excess levels of one or more hormones, although some tumors do not produce hormones (nonfunctioning pituitary adenomas). Those that do are typically distinguished by the particular hormones they produce. Prolactinomas are the most common tumors in FIPA. These tumors release prolactin, a hormone that stimulates breast milk production in females. Both women and men can develop prolactinomas, although they are more common in women. In women, these tumors may lead to changes in the menstrual cycle or difficulty becoming pregnant. Some affected women may produce breast milk, even though they are not pregnant or nursing. In men, prolactinomas may cause erectile dysfunction or decreased interest in sex. Rarely, affected men produce breast milk. Large prolactinomas can press on nearby tissues such as the nerves that carry information from the eyes to the brain (the optic nerves), causing problems with vision.</p><p>Another type of tumor called somatotropinoma is also common in FIPA. These tumors release growth hormone (also called somatotropin), which promotes growth of the body. Somatotropinomas in children or adolescents can lead to increased height (gigantism), because the long bones of their arms and legs are still growing. In adults, growth of the long bones has stopped, but the tumors can cause overgrowth of the hands, feet, and face (acromegaly) as well as other tissues.</p><p>Less common tumor types in FIPA include somatolactotropinomas, nonfunctioning pituitary adenomas, adrenocorticotropic hormone-secreting tumors (which cause a condition known as Cushing disease), thyrotropinomas, and gonadotropinomas. In a family with the condition, affected members can develop the same type of tumor (homogenous FIPA) or different types (heterogenous FIPA).</p><p>In FIPA, pituitary tumors usually occur at a younger age than sporadic pituitary adenomas, which are not inherited. In general, FIPA tumors are also larger than sporadic pituitary tumors. Often, people with FIPA have macroadenomas, which are tumors larger than 10 millimeters.</p><p>Familial pituitary adenomas can occur as one of many features in other inherited conditions such as multiple endocrine neoplasia type 1 and Carney complex; however, in FIPA, the pituitary adenomas are described as isolated because only the pituitary gland is affected.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: AIP
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/AIP
+synonym: FIPA
+db-key(1)/db: GTR
+db-key(1)/key: CN169290
+db-key(2)/db: GeneReviews
+db-key(2)/key: ipa
+db-key(3)/db: MeSH
+db-key(3)/key: D010911
+db-key(4)/db: OMIM
+db-key(4)/key: 102200
+db-key(5)/db: Orphanet
+db-key(5)/key: 314777
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702375004
+reviewed: 2013-08
+published: 2018-04-17

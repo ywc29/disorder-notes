@@ -1,0 +1,60 @@
+name: Adams-Oliver syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/adams-oliver-syndrome
+text/text-role: description
+text/html: <p>Adams-Oliver syndrome is a rare condition that is present at birth. The primary features are an abnormality in skin development (called aplasia cutis congenita) and malformations of the limbs. A variety of other features can occur in people with Adams-Oliver syndrome.</p><p>Most people  with Adams-Oliver syndrome have aplasia cutis congenita, a condition characterized by localized areas of missing skin typically occurring on the top of the head (the skull vertex). In some cases, the bone under the skin is also underdeveloped. Individuals with this condition commonly have scarring and an absence of hair growth in the affected area.</p><p>Abnormalities of the hands and feet are also common in people with Adams-Oliver syndrome. These most often involve the fingers and toes and can include abnormal nails, fingers or toes that are fused together (syndactyly), and abnormally short or missing fingers or toes (brachydactyly or oligodactyly). In some cases, other bones in the hands, feet, or lower limbs are malformed or missing.</p><p>Some affected infants have a condition called cutis marmorata telangiectatica congenita. This disorder of the blood vessels causes a reddish or purplish net-like pattern on the skin. In addition, people with Adams-Oliver syndrome can develop high blood pressure in the blood vessels between the heart and the lungs (pulmonary hypertension), which can be life-threatening. Other blood vessel problems and heart defects can occur in affected individuals.</p><p>In some cases, people with Adams-Oliver syndrome have neurological problems, such as developmental delay, learning disabilities, or abnormalities in the structure of the brain.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: ARHGAP31
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ARHGAP31
+related-gene(2)/gene-symbol: DLL4
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/DLL4
+related-gene(3)/gene-symbol: DOCK6
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/DOCK6
+related-gene(4)/gene-symbol: EOGT
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/EOGT
+related-gene(5)/gene-symbol: NOTCH1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/NOTCH1
+related-gene(6)/gene-symbol: RBPJ
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/RBPJ
+synonym(1): absence defect of limbs, scalp, and skull
+synonym(2): AOS
+synonym(3): aplasia cutis congenita with terminal transverse limb defects
+synonym(4): congenital scalp defects with distal limb reduction anomalies
+db-key(1)/db: GTR
+db-key(1)/key: C0265268
+db-key(2)/db: GTR
+db-key(2)/key: C3280182
+db-key(3)/db: GTR
+db-key(3)/key: C3553748
+db-key(4)/db: GTR
+db-key(4)/key: C3809092
+db-key(5)/db: GTR
+db-key(5)/key: C4014970
+db-key(6)/db: GTR
+db-key(6)/key: C4225271
+db-key(7)/db: GTR
+db-key(7)/key: CN028867
+db-key(8)/db: GeneReviews
+db-key(8)/key: adams-oliver
+db-key(9)/db: MeSH
+db-key(9)/key: D004476
+db-key(10)/db: OMIM
+db-key(10)/key: 100300
+db-key(11)/db: OMIM
+db-key(11)/key: 614219
+db-key(12)/db: OMIM
+db-key(12)/key: 614814
+db-key(13)/db: OMIM
+db-key(13)/key: 615297
+db-key(14)/db: OMIM
+db-key(14)/key: 616028
+db-key(15)/db: OMIM
+db-key(15)/key: 616589
+db-key(16)/db: Orphanet
+db-key(16)/key: 974
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 34748004
+reviewed: 2015-11
+published: 2018-04-17

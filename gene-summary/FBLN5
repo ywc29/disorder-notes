@@ -1,0 +1,26 @@
+gene-symbol: FBLN5
+name: fibulin 5
+ghr-page: https://ghr.nlm.nih.gov/gene/FBLN5
+text/text-role: function
+text/html: <p>The <i>FBLN5</i> gene provides instructions for making a protein called fibulin-5. This protein is part of a group of proteins called fibulins. Fibulins have a variety of functions in the extracellular matrix, which is the intricate lattice of proteins and other molecules that forms in the spaces between cells.</p><p>In the extracellular matrix, fibulin-5 appears to play a critical role in the assembly of elastic fibers. These slender bundles of proteins provide strength and flexibility to connective tissue (tissue that supports the body's joints and organs). Fibulin-5 is found in tissues and organs that are rich in elastic fibers, including developing arteries and the heart valves, lungs, and skin.</p>
+related-health-condition(1)/name: age-related macular degeneration
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
+related-health-condition(2)/name: cutis laxa
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cutis-laxa
+synonym(1): ARMD3
+synonym(2): DANCE
+synonym(3): developmental arteries and neural crest epidermal growth factor-like
+synonym(4): EVEC
+synonym(5): FBLN5_HUMAN
+synonym(6): FIBL-5
+synonym(7): FLJ90059
+synonym(8): UP50
+synonym(9): urine p50 protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10516
+db-key(2)/db: OMIM
+db-key(2)/key: 604580
+db-key(3)/db: OMIM
+db-key(3)/key: 608895
+reviewed: 2009-06
+published: 2018-04-17

@@ -1,0 +1,27 @@
+gene-symbol: STAT1
+name: signal transducer and activator of transcription 1
+ghr-page: https://ghr.nlm.nih.gov/gene/STAT1
+text/text-role: function
+text/html: <p>The <i>STAT1</i> gene provides instructions for making a protein that is involved in multiple immune system functions, including the body's defense against a fungus called <i>Candida</i>. When the immune system recognizes <i>Candida</i>, it generates cells called Th17 cells. These cells produce signaling molecules (cytokines) called the interleukin-17 (IL-17) family as part of an immune process called the IL-17 pathway. The IL-17 pathway creates inflammation, sending other cytokines and white blood cells that fight foreign invaders and promote tissue repair. In addition, the IL-17 pathway promotes the production of certain antimicrobial protein segments (peptides) that control growth of <i>Candida</i> on the surface of mucous membranes.</p><p>The STAT1 protein helps keep the immune system in balance by controlling the IL-17 pathway. When the STAT1 protein is turned on (activated), it blocks (inhibits) this pathway.</p><p>In contrast to its inhibitory role in the IL-17 pathway, the STAT1 protein helps promote other immune processes called the interferon-alpha/beta (IFNA/B) and interferon-gamma (IFNG) signaling pathways. The IFNA/B pathway is important in defense against viruses, and the IFNG pathway helps fight a type of bacteria called mycobacteria, which includes the bacterium that causes tuberculosis.</p>
+related-health-condition(1)/name: familial candidiasis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-candidiasis
+related-health-condition(2)/name: shingles
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/shingles
+synonym(1): IMD31A
+synonym(2): IMD31B
+synonym(3): IMD31C
+synonym(4): ISGF-3
+synonym(5): signal transducer and activator of transcription-1
+synonym(6): signal transducer and activator of transcription 1, 91kDa
+synonym(7): STAT91
+synonym(8): transcription factor ISGF-3 components p91/p84
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6772
+db-key(2)/db: OMIM
+db-key(2)/key: 600555
+db-key(3)/db: OMIM
+db-key(3)/key: 613796
+db-key(4)/db: OMIM
+db-key(4)/key: 614892
+reviewed: 2016-09
+published: 2018-04-17

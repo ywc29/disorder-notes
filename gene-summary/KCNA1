@@ -1,0 +1,27 @@
+gene-symbol: KCNA1
+name: potassium voltage-gated channel subfamily A member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/KCNA1
+text/text-role: function
+text/html: <p>The <i>KCNA1</i> gene belongs to a large family of genes that provide instructions for making potassium channels. These channels, which transport positively charged atoms (ions) of potassium into and out of cells, play a key role in a cell's ability to generate and transmit electrical signals.</p><p>The <i>KCNA1</i> gene provides instructions for making one part (the alpha subunit) of a potassium channel called Kv1.1.  These channels are found in the brain, where they transport potassium ions into nerve cells (neurons).  The flow of certain ions, including potassium, into and out of neurons regulates communication between these cells.</p>
+related-health-condition/name: episodic ataxia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/episodic-ataxia
+synonym(1): AEMK
+synonym(2): EA1
+synonym(3): HBK1
+synonym(4): HUK1
+synonym(5): KCNA1_HUMAN
+synonym(6): KV1.1
+synonym(7): MBK1
+synonym(8): MGC126782
+synonym(9): MGC138385
+synonym(10): MK1
+synonym(11): potassium channel, voltage gated shaker related subfamily A, member 1
+synonym(12): potassium voltage-gated channel, shaker-related subfamily, member 1 (episodic ataxia with myokymia)
+synonym(13): RBK1
+synonym(14): voltage-gated potassium channel subunit Kv1.1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3736
+db-key(2)/db: OMIM
+db-key(2)/key: 176260
+reviewed: 2008-08
+published: 2018-04-17

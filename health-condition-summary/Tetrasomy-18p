@@ -1,0 +1,20 @@
+name: Tetrasomy 18p
+ghr-page: https://ghr.nlm.nih.gov/condition/tetrasomy-18p
+text/text-role: description
+text/html: <p>Tetrasomy 18p is a chromosomal condition that affects many parts of the body. This condition usually causes feeding difficulties in infancy, delayed development, intellectual disability that is often mild to moderate but can be severe, changes in muscle tone, distinctive facial features, and other birth defects. However, the signs and symptoms vary among affected individuals.</p><p>Babies with tetrasomy 18p often have trouble feeding and may vomit frequently, which makes it difficult for them to gain weight. Some affected infants also have breathing problems and jaundice, which is a yellowing of the skin and the whites of the eyes.</p><p>Changes in muscle tone are commonly seen with tetrasomy 18p. Some affected children have weak muscle tone (hypotonia), while others have increased muscle tone (hypertonia) and stiffness (spasticity). These changes contribute to delayed development of motor skills, including sitting, crawling, and walking.</p><p>Tetrasomy 18p is associated with a distinctive facial appearance that can include unusually shaped and low-set ears, a small mouth, a flat area between the upper lip and the nose (philtrum), and a thin upper lip. Many affected individuals also have a high, arched roof of the mouth (palate), and a few have had a split in the roof of the mouth (cleft palate).</p><p>Additional features of tetrasomy 18p can include seizures, vision problems, recurrent ear infections, mild to moderate hearing loss, constipation and other gastrointestinal problems, abnormal curvature of the spine (scoliosis or kyphosis), a shortage of growth hormone, and birth defects affecting the heart and other organs. Males with tetrasomy 18p may be born with undescended testes (cryptorchidism) or the opening of the urethra on the underside of the penis (hypospadias). Psychiatric conditions, such as attention deficit hyperactivity disorder (ADHD) and anxiety, as well as social and behavioral challenges have also been reported in some people with tetrasomy 18p.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-chromosome/name: 18
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/18
+synonym(1): 18p isochromosome
+synonym(2): 18p tetrasomy
+db-key(1)/db: GTR
+db-key(1)/key: C0795868
+db-key(2)/db: MeSH
+db-key(2)/key: D025063
+db-key(3)/db: Orphanet
+db-key(3)/key: 3307
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 698849002
+reviewed: 2016-04
+published: 2018-04-17

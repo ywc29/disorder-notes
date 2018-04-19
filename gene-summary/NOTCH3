@@ -1,0 +1,21 @@
+gene-symbol: NOTCH3
+name: notch 3
+ghr-page: https://ghr.nlm.nih.gov/gene/NOTCH3
+text/text-role: function
+text/html: <p>The <i>NOTCH3</i> gene provides instructions for making a protein with one end (the intracellular end) that remains inside the cell, a middle (transmembrane) section that spans the cell membrane, and another end (the extracellular end) that projects from the outer surface of the cell. The NOTCH3 protein is called a receptor protein because certain other proteins, called ligands, attach (bind) to the extracellular end of NOTCH3, fitting like a key into a lock. This binding causes detachment of the intracellular end of the NOTCH3 protein, called the NOTCH3 intracellular domain, or NICD. The NICD enters the cell nucleus and helps control the activity (transcription) of other genes.</p><p>The NOTCH3 protein plays a key role in the function and survival of vascular smooth muscle cells, which are muscle cells that surround blood vessels.  This protein is thought to be essential for the maintenance of blood vessels, including those that supply blood to the brain.</p>
+related-health-condition(1)/name: cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cerebral-autosomal-dominant-arteriopathy-with-subcortical-infarcts-and-leukoencephalopathy
+related-health-condition(2)/name: lateral meningocele syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/lateral-meningocele-syndrome
+synonym(1): CADASIL
+synonym(2): CASIL
+synonym(3): Neurogenic locus notch homolog protein 3
+synonym(4): NOTC3_HUMAN
+synonym(5): Notch homolog 3
+synonym(6): Notch homolog 3 (Drosophila)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4854
+db-key(2)/db: OMIM
+db-key(2)/key: 600276
+reviewed: 2016-08
+published: 2018-04-17

@@ -1,0 +1,57 @@
+name: Ankylosing spondylitis
+ghr-page: https://ghr.nlm.nih.gov/condition/ankylosing-spondylitis
+text/text-role: description
+text/html: <p>Ankylosing spondylitis is a form of ongoing joint inflammation (chronic inflammatory arthritis) that primarily affects the spine.  This condition is characterized by back pain and stiffness that typically appear in adolescence or early adulthood.  Over time, back movement gradually becomes limited as the bones of the spine (vertebrae) fuse together.  This progressive bony fusion is called ankylosis.</p><p>The earliest symptoms of ankylosing spondylitis result from inflammation of the joints between the pelvic bones (the ilia) and the base of the spine (the sacrum). These joints are called sacroiliac joints, and inflammation of these joints is known as sacroiliitis. The inflammation gradually spreads to the joints between the vertebrae, causing a condition called spondylitis. Ankylosing spondylitis can involve other joints as well, including the shoulders, hips, and, less often, the knees. As the disease progresses, it can affect the joints between the spine and ribs, restricting movement of the chest and making it difficult to breathe deeply.  People with advanced disease are also more prone to fractures of the vertebrae.</p><p>Ankylosing spondylitis affects the eyes in up to 40 percent of cases, leading to episodes of eye inflammation called acute iritis. Acute iritis causes eye pain and increased sensitivity to light (photophobia). Rarely, ankylosing spondylitis can also cause serious complications involving the heart, lungs, and nervous system.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: ERAP1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ERAP1
+related-gene(2)/gene-symbol: HLA-B
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-B
+related-gene(3)/gene-symbol: IL1A
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/IL1A
+related-gene(4)/gene-symbol: IL23R
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/IL23R
+synonym(1): AS
+synonym(2): Bechterew disease
+synonym(3): Marie-Struempell disease
+synonym(4): spondylarthritis ankylopoietica
+synonym(5): spondylitis ankylopoietica
+synonym(6): spondylitis, ankylosing
+synonym(7): spondyloarthritis ankylopoietica
+db-key(1)/db: GTR
+db-key(1)/key: C0038013
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: M08.1
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: M45
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: M45.0
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: M45.1
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: M45.2
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: M45.3
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: M45.4
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: M45.5
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: M45.6
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: M45.7
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: M45.8
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: M45.9
+db-key(14)/db: MeSH
+db-key(14)/key: D013167
+db-key(15)/db: OMIM
+db-key(15)/key: 106300
+db-key(16)/db: Orphanet
+db-key(16)/key: 825
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 9631008
+reviewed: 2014-09
+published: 2018-04-17

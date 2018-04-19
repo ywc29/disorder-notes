@@ -1,0 +1,33 @@
+name: GRN-related frontotemporal dementia
+ghr-page: https://ghr.nlm.nih.gov/condition/grn-related-frontotemporal-dementia
+text/text-role: description
+text/html: <p><i>GRN</i>-related frontotemporal dementia is a progressive brain disorder that can affect behavior, language, and movement. The symptoms of this disorder usually become noticeable in a person's fifties or sixties, and affected people typically survive 6 to 7 years after the appearance of symptoms. However, the features of this condition vary significantly, even among affected members of the same family.</p><p>Behavioral changes are the most common early signs of <i>GRN</i>-related frontotemporal dementia. These include marked changes in personality, judgment, and insight. It may become difficult for affected individuals to interact with others in a socially appropriate manner. Affected people may also become easily distracted and unable to complete tasks. They increasingly require help with personal care and other activities of daily living.</p><p>Many people with <i>GRN</i>-related frontotemporal dementia develop progressive problems with speech and language (aphasia). Affected individuals may have trouble speaking, remembering words and names (dysnomia), and understanding speech. Over time, they may completely lose the ability to communicate.</p><p>Some people with <i>GRN</i>-related frontotemporal dementia also develop movement disorders, such as parkinsonism and corticobasal syndrome. The signs and symptoms of these disorders include tremors, rigidity, unusually slow movement (bradykinesia), involuntary muscle spasms (myoclonus), uncontrolled muscle tensing (dystonia), and an inability to carry out purposeful movements (apraxia).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: GRN
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GRN
+synonym(1): frontotemporal lobar degeneration
+synonym(2): FTD-GRN
+synonym(3): FTD-PGRN
+synonym(4): FTDP-17 GRN
+synonym(5): FTDU-17
+synonym(6): FTLD
+synonym(7): FTLD-TDP
+synonym(8): FTLD with TDP-43 pathology
+synonym(9): HDDD1
+synonym(10): HDDD2
+synonym(11): hereditary dysphasic disinhibition dementia
+db-key(1)/db: GTR
+db-key(1)/key: C1843792
+db-key(2)/db: GeneReviews
+db-key(2)/key: ftd-grn
+db-key(3)/db: MeSH
+db-key(3)/key: D057180
+db-key(4)/db: OMIM
+db-key(4)/key: 607485
+db-key(5)/db: Orphanet
+db-key(5)/key: 282
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702426001
+reviewed: 2010-09
+published: 2018-04-17

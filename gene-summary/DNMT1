@@ -1,0 +1,28 @@
+gene-symbol: DNMT1
+name: DNA methyltransferase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/DNMT1
+text/text-role: function
+text/html: <p>The <i>DNMT1</i> gene provides instructions for making an enzyme called DNA methyltransferase 1. This enzyme is involved in DNA methylation, which is the addition of methyl groups, consisting of one carbon atom and three hydrogen atoms, to DNA molecules. In particular, the enzyme helps add methyl groups to DNA building blocks (nucleotides) called cytosines.</p><p>DNA methylation is important in many cellular functions. These include determining whether the instructions in a particular segment of DNA are carried out or suppressed (gene silencing), regulating reactions involving proteins and fats (lipids), and controlling the processing of chemicals that relay signals in the nervous system (neurotransmitters). DNA methyltransferase 1 is active in the adult nervous system. Although its specific function is not well understood, the enzyme may help regulate nerve cell (neuron) maturation and specialization (differentiation), the ability of neurons to move (migrate) and connect with each other, and neuron survival.</p>
+related-health-condition(1)/name: autosomal dominant cerebellar ataxia, deafness, and narcolepsy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-cerebellar-ataxia-deafness-and-narcolepsy
+related-health-condition(2)/name: hereditary sensory and autonomic neuropathy type IE
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-sensory-and-autonomic-neuropathy-type-ie
+synonym(1): AIM
+synonym(2): CXXC finger protein 9
+synonym(3): CXXC-type zinc finger protein 9
+synonym(4): CXXC9
+synonym(5): DNA (cytosine-5-)-methyltransferase 1
+synonym(6): DNA (cytosine-5)-methyltransferase 1
+synonym(7): DNA methyltransferase HsaI
+synonym(8): DNA MTase HsaI
+synonym(9): DNMT
+synonym(10): DNMT1_HUMAN
+synonym(11): HSN1E
+synonym(12): m.HsaI
+synonym(13): MCMT
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1786
+db-key(2)/db: OMIM
+db-key(2)/key: 126375
+reviewed: 2017-07
+published: 2018-04-17

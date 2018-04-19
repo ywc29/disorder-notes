@@ -1,0 +1,51 @@
+name: Neuroblastoma
+ghr-page: https://ghr.nlm.nih.gov/condition/neuroblastoma
+text/text-role: description
+text/html: <p>Neuroblastoma is a type of cancer that most often affects children. Neuroblastoma occurs when immature nerve cells called neuroblasts become abnormal and multiply uncontrollably to form a tumor. Most commonly, the tumor originates in the nerve tissue of the adrenal gland located above each kidney. Other common sites for tumors to form include the nerve tissue in the abdomen, chest, neck, or pelvis. Neuroblastoma can spread (metastasize) to other parts of the body such as the bones, liver, or skin.</p><p>Individuals with neuroblastoma may develop general signs and symptoms such as irritability, fever, tiredness (fatigue), pain, loss of appetite, weight loss, or diarrhea. More specific signs and symptoms depend on the location of the tumor and where it has spread. A tumor in the abdomen can cause abdominal swelling. A tumor in the chest may lead to difficulty breathing. A tumor in the neck can cause nerve damage known as Horner syndrome, which leads to drooping eyelids, small pupils, decreased sweating, and red skin. Tumor metastasis to the bone can cause bone pain, bruises, pale skin, or dark circles around the eyes. Tumors in the backbone can press on the spinal cord and cause weakness, numbness, or paralysis in the arms or legs. A rash of bluish or purplish bumps that look like blueberries indicates that the neuroblastoma has spread to the skin.</p><p>In addition, neuroblastoma tumors can release hormones that may cause other signs and symptoms such as high blood pressure, rapid heartbeat, flushing of the skin, and sweating. In rare instances, individuals with neuroblastoma may develop opsoclonus myoclonus syndrome, which causes rapid eye movements and jerky muscle motions. This condition occurs when the immune system malfunctions and attacks nerve tissue.</p><p>Neuroblastoma occurs most often in children before age 5 and rarely occurs in adults.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: n
+inheritance-pattern(2)/memo: not inherited
+related-gene(1)/gene-symbol: ALK
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ALK
+related-gene(2)/gene-symbol: BARD1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/BARD1
+related-gene(3)/gene-symbol: ERBB2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/ERBB2
+related-gene(4)/gene-symbol: KIF1B
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/KIF1B
+related-gene(5)/gene-symbol: LMO1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/LMO1
+related-gene(6)/gene-symbol: MYCN
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/MYCN
+related-gene(7)/gene-symbol: PHOX2B
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/PHOX2B
+related-chromosome(1)/name: 1
+related-chromosome(1)/ghr-page: https://ghr.nlm.nih.gov/chromosome/1
+related-chromosome(2)/name: 11
+related-chromosome(2)/ghr-page: https://ghr.nlm.nih.gov/chromosome/11
+synonym: NB
+db-key(1)/db: GTR
+db-key(1)/key: C0027819
+db-key(2)/db: GTR
+db-key(2)/key: C2751681
+db-key(3)/db: GTR
+db-key(3)/key: C2751682
+db-key(4)/db: GeneReviews
+db-key(4)/key: alk-nbs
+db-key(5)/db: MeSH
+db-key(5)/key: D009447
+db-key(6)/db: OMIM
+db-key(6)/key: 256700
+db-key(7)/db: OMIM
+db-key(7)/key: 613013
+db-key(8)/db: OMIM
+db-key(8)/key: 613014
+db-key(9)/db: Orphanet
+db-key(9)/key: 635
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 432328008
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 87364003
+reviewed: 2011-03
+published: 2018-04-17

@@ -1,0 +1,21 @@
+gene-symbol: GALE
+name: UDP-galactose-4-epimerase
+ghr-page: https://ghr.nlm.nih.gov/gene/GALE
+text/text-role: function
+text/html: <p>The <i>GALE</i> gene provides instructions for making an enzyme called UDP-galactose-4-epimerase.  This enzyme enables the body to process a simple sugar called galactose, which is present in small amounts in many foods. Galactose is primarily part of a larger sugar called lactose, which is found in all dairy products and many baby formulas.</p><p>UDP-galactose-4-epimerase converts a modified form of galactose (UDP-galactose) to another modified sugar (UDP-glucose).  Glucose is a simple sugar that is the main energy source for most cells.  This enzyme also promotes the reverse chemical reaction, the conversion of UDP-glucose to UDP-galactose.  UDP-galactose is used to build galactose-containing proteins and fats, which play critical roles in chemical signaling, building cellular structures, transporting molecules, and producing energy.</p>
+related-health-condition/name: galactosemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/galactosemia
+synonym(1): galactowaldenase
+synonym(2): GALE_HUMAN
+synonym(3): SDR1E1
+synonym(4): UDP Galactose Epimerase
+synonym(5): UDP-Glucose 4-Epimerase
+synonym(6): UDP - Uridyl diphosphate galactose-4-epimerase
+synonym(7): Uridine diphosphate galactose-4-epimerase
+synonym(8): Uridine Diphosphate Glucose Epimerase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2582
+db-key(2)/db: OMIM
+db-key(2)/key: 606953
+reviewed: 2015-08
+published: 2018-04-17

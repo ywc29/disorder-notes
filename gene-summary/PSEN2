@@ -1,0 +1,27 @@
+gene-symbol: PSEN2
+name: presenilin 2
+ghr-page: https://ghr.nlm.nih.gov/gene/PSEN2
+text/text-role: function
+text/html: <p>The <i>PSEN2</i> gene provides instructions for making a protein called presenilin 2. Presenilin 2 helps process proteins that transmit chemical signals from the cell membrane into the nucleus. Once in the nucleus, these signals turn on (activate) genes that are important for cell growth and maturation.</p><p>Presenilin 2 is best known for its role in processing amyloid precursor protein, which is found in the brain and other tissues. Research suggests that presenilin 2 works together with other enzymes to cut amyloid precursor protein into smaller segments (peptides). One of these peptides is called soluble amyloid precursor protein (sAPP), and another is called amyloid beta peptide. Recent evidence suggests that sAPP has growth-promoting properties and may play a role in the formation of neurons in the brain both before and after birth.  Other functions of sAPP and amyloid beta peptide are under investigation.</p>
+related-health-condition(1)/name: Alzheimer disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/alzheimer-disease
+related-health-condition(2)/name: familial dilated cardiomyopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+synonym(1): AD3-like protein
+synonym(2): AD3L
+synonym(3): AD3LP
+synonym(4): AD4
+synonym(5): AD5
+synonym(6): Alzheimer's disease 3-like
+synonym(7): E5-1
+synonym(8): presenilin 2 (Alzheimer disease 4)
+synonym(9): PS2 protein (alzheimer-associated)
+synonym(10): PSN2_HUMAN
+synonym(11): PSNL2
+synonym(12): STM2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5664
+db-key(2)/db: OMIM
+db-key(2)/key: 600759
+reviewed: 2008-12
+published: 2018-04-17

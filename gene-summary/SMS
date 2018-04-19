@@ -1,0 +1,20 @@
+gene-symbol: SMS
+name: spermine synthase
+ghr-page: https://ghr.nlm.nih.gov/gene/SMS
+text/text-role: function
+text/html: <p>The <i>SMS</i> gene provides instructions for making an enzyme called spermine synthase. This enzyme is involved in the production of spermine, which is a type of small molecule called a polyamine. Specifically, the enzyme carries out the reaction that creates spermine from a related polyamine, spermidine.</p><p>Polyamines have many critical functions within cells. Studies suggest that these molecules play roles in cell growth and division, the production of new proteins, the repair of damaged tissues, and the controlled self-destruction of cells (apoptosis). Polyamines also appear to be necessary for normal development of the brain and other parts of the body.</p>
+related-health-condition/name: Snyder-Robinson syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/snyder-robinson-syndrome
+synonym(1): spermidine aminopropyltransferase
+synonym(2): spermine synthase isoform 1
+synonym(3): spermine synthase isoform 2
+synonym(4): SPMSY
+synonym(5): SpS
+synonym(6): SPSY_HUMAN
+synonym(7): SRS
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6611
+db-key(2)/db: OMIM
+db-key(2)/key: 300105
+reviewed: 2013-08
+published: 2018-04-17

@@ -1,0 +1,22 @@
+name: Hypochromic microcytic anemia with iron overload
+ghr-page: https://ghr.nlm.nih.gov/condition/hypochromic-microcytic-anemia-with-iron-overload
+text/text-role: description
+text/html: <p>Hypochromic microcytic anemia with iron overload is a condition that impairs the normal transport of iron in cells. Iron is an essential component of hemoglobin, which is the substance that red blood cells use to carry oxygen to cells and tissues throughout the body. In this condition, red blood cells cannot access iron in the blood, so there is a decrease of red blood cell production (anemia) that is apparent at birth. The red blood cells that are produced are abnormally small (microcytic) and pale (hypochromic). Hypochromic microcytic anemia with iron overload can lead to pale skin (pallor), tiredness (fatigue), and slow growth.</p><p>In hypochromic microcytic anemia with iron overload, the iron that is not used by red blood cells accumulates in the liver, which can impair its function over time. The liver problems typically become apparent in adolescence or early adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SLC11A2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SLC11A2
+synonym(1): microcytic anemia and hepatic iron overload
+synonym(2): microcytic anemia with liver iron overload
+db-key(1)/db: GTR
+db-key(1)/key: C2673913
+db-key(2)/db: MeSH
+db-key(2)/key: D000747
+db-key(3)/db: OMIM
+db-key(3)/key: 206100
+db-key(4)/db: Orphanet
+db-key(4)/key: 83642
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 711161006
+reviewed: 2014-11
+published: 2018-04-17

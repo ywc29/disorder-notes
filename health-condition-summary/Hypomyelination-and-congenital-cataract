@@ -1,0 +1,23 @@
+name: Hypomyelination and congenital cataract
+ghr-page: https://ghr.nlm.nih.gov/condition/hypomyelination-and-congenital-cataract
+text/text-role: description
+text/html: <p>Hypomyelination and congenital cataract is an inherited condition that affects the nervous system and the eyes. This disease is one of a group of genetic disorders called leukoencephalopathies.  Leukoencephalopathies involve abnormalities of the brain's white matter. White matter consists of nerve fibers covered by a fatty substance called myelin. Myelin insulates nerve fibers and promotes the rapid transmission of nerve impulses.  Hypomyelination and congenital cataract is caused by a reduced ability to form myelin (hypomyelination). Additionally, people with this disorder are typically born with a clouding of the lens (cataract) in both eyes.</p><p>People with this condition usually have normal development throughout the first year of life.  Development slows around the age of 1.  Most affected children learn to walk between the ages of 1 and 2, although they usually need some type of support.  Over time they experience muscle weakness and wasting (atrophy) in their legs, and many affected people eventually require wheelchair assistance.  Weakness in the muscles of the trunk and a progressive abnormal curvature of the spine (scoliosis) further impair walking in some individuals.  Most people with hypomyelination and congenital cataract have reduced sensation in their arms and legs (peripheral neuropathy).  In addition, affected individuals typically have speech difficulties (dysarthria) and mild to moderate intellectual disability.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: FAM126A
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FAM126A
+synonym: HCC
+db-key(1)/db: GTR
+db-key(1)/key: C1864663
+db-key(2)/db: GeneReviews
+db-key(2)/key: hypo-mcc
+db-key(3)/db: MeSH
+db-key(3)/key: D020279
+db-key(4)/db: OMIM
+db-key(4)/key: 610532
+db-key(5)/db: Orphanet
+db-key(5)/key: 85163
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702379005
+reviewed: 2009-07
+published: 2018-04-17

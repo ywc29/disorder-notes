@@ -1,0 +1,23 @@
+gene-symbol: PHKA2
+name: phosphorylase kinase regulatory subunit alpha 2
+ghr-page: https://ghr.nlm.nih.gov/gene/PHKA2
+text/text-role: function
+text/html: <p>The <i>PHKA2</i> gene provides instructions for making one piece, the alpha subunit, of the phosphorylase b kinase enzyme. This enzyme is made up of 16 subunits, four each of the alpha, beta, gamma, and delta subunits. (Each subunit is produced from a different gene.) The alpha subunit helps regulate the activity of phosphorylase b kinase. This enzyme is found in various tissues, although it is most abundant in the liver and muscles. One version of the enzyme is found in liver cells and another in muscle cells. The alpha-2 subunit produced from the <i>PHKA2</i> gene is part of the enzyme found in the liver.</p><p>Phosphorylase b kinase plays an important role in providing energy for cells. The main source of cellular energy is a simple sugar called glucose. Glucose is stored in muscle and liver cells in a form called glycogen. Glycogen can be broken down rapidly when glucose is needed, for instance to maintain normal levels of glucose in the blood between meals. Phosphorylase b kinase turns on (activates) another enzyme called glycogen phosphorylase b by converting it to the more active form, glycogen phosphorylase a. When active, this enzyme breaks down glycogen.</p>
+related-health-condition/name: glycogen storage disease type IX
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-ix
+synonym(1): GSD9A
+synonym(2): KPB2_HUMAN
+synonym(3): PHK
+synonym(4): phosphorylase b kinase regulatory subunit alpha, liver isoform
+synonym(5): phosphorylase kinase alpha L subunit
+synonym(6): phosphorylase kinase alpha-subunit
+synonym(7): phosphorylase kinase, alpha 2 (liver)
+synonym(8): PYK
+synonym(9): PYKL
+synonym(10): XLG
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5256
+db-key(2)/db: OMIM
+db-key(2)/key: 300798
+reviewed: 2015-08
+published: 2018-04-17

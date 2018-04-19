@@ -1,0 +1,42 @@
+name: Frontonasal dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/frontonasal-dysplasia
+text/text-role: description
+text/html: <p>Frontonasal dysplasia is a condition that results from abnormal development of the head and face before birth. People with frontonasal dysplasia have at least two of the following features: widely spaced eyes (ocular hypertelorism); a broad nose; a slit (cleft) in one or both sides of the nose; no nasal tip; a central cleft involving the nose, upper lip, or roof of the mouth (palate); incomplete formation of the front of the skull with skin covering the head where bone should be (anterior cranium bifidum occultum); or a widow's peak hairline.</p><p>Other features of frontonasal dysplasia can include additional facial malformations, absence or malformation of the tissue that connects the left and right halves of the brain (the corpus callosum), and intellectual disability.</p><p>There are at least three types of frontonasal dysplasia that are distinguished by their genetic causes and their signs and symptoms. In addition to the features previously described, each type of frontonasal dysplasia is associated with other distinctive features. Individuals with frontonasal dysplasia type 1 typically have abnormalities of the nose, a long area between the nose and upper lip (philtrum), and droopy upper eyelids (ptosis). Individuals with frontonasal dysplasia type 2 can have hair loss (alopecia) and an enlarged opening in the two bones that make up much of the top and sides of the skull (enlarged parietal foramina). Males with this form of the condition often have genital abnormalities. Features of frontonasal dysplasia type 3 include eyes that are missing (anophthalmia) or very small (microphthalmia) and low-set ears that are rotated backward. Frontonasal dysplasia type 3 is typically associated with the most severe facial abnormalities, but the severity of the condition varies widely, even among individuals with the same type.</p><p>Life expectancy of affected individuals depends on the severity of the malformations and whether or not surgical intervention can improve associated health problems, such as breathing and feeding problems caused by the facial clefts.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: ALX1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ALX1
+related-gene(2)/gene-symbol: ALX3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ALX3
+related-gene(3)/gene-symbol: ALX4
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/ALX4
+synonym(1): FND
+synonym(2): FNM
+synonym(3): frontonasal dysplasia sequence
+synonym(4): frontonasal malformation
+synonym(5): frontorhiny
+synonym(6): median facial cleft syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1876203
+db-key(2)/db: GTR
+db-key(2)/key: C3150703
+db-key(3)/db: GTR
+db-key(3)/key: C3150706
+db-key(4)/db: MeSH
+db-key(4)/key: D019465
+db-key(5)/db: OMIM
+db-key(5)/key: 136760
+db-key(6)/db: OMIM
+db-key(6)/key: 613451
+db-key(7)/db: OMIM
+db-key(7)/key: 613456
+db-key(8)/db: Orphanet
+db-key(8)/key: 250
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 254005007
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 86610004
+reviewed: 2014-04
+published: 2018-04-17

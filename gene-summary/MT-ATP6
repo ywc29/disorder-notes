@@ -1,0 +1,29 @@
+gene-symbol: MT-ATP6
+name: mitochondrially encoded ATP synthase membrane subunit 6
+ghr-page: https://ghr.nlm.nih.gov/gene/MT-ATP6
+text/text-role: function
+text/html: <p>The <i>MT-ATP6</i> gene provides information for making a protein that is essential for normal mitochondrial function.  Mitochondria are structures within cells that convert the energy from food into a form that cells can use. These cellular structures produce energy through a process called oxidative phosphorylation, which uses oxygen and simple sugars to create adenosine triphosphate (ATP), the cell's main energy source.</p><p>The MT-ATP6 protein forms one part (subunit) of a large enzyme called ATP synthase.  This enzyme, which is also known as complex V, is responsible for the final step of oxidative phosphorylation.  Specifically, one segment of ATP synthase allows positively charged particles, called protons, to flow across a specialized membrane inside mitochondria.  Another segment of the enzyme uses the energy created by this proton flow to convert a molecule called adenosine diphosphate (ADP) to ATP.</p>
+related-health-condition(1)/name: Leigh syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+related-health-condition(2)/name: mitochondrial complex V deficiency
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/mitochondrial-complex-v-deficiency
+related-health-condition(3)/name: neuropathy, ataxia, and retinitis pigmentosa
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/neuropathy-ataxia-and-retinitis-pigmentosa
+synonym(1): ATP synthase 6
+synonym(2): ATP synthase F0 subunit 6
+synonym(3): ATP6
+synonym(4): ATP6_HUMAN
+synonym(5): ATPase-6
+synonym(6): ATPase protein 6
+synonym(7): ATPASE6
+synonym(8): mitochondrially encoded ATP synthase 6
+synonym(9): MTATP6
+synonym(10): Su6m
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4508
+db-key(2)/db: OMIM
+db-key(2)/key: 500003
+db-key(3)/db: OMIM
+db-key(3)/key: 516060
+reviewed: 2016-06
+published: 2018-04-17

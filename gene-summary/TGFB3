@@ -1,0 +1,18 @@
+gene-symbol: TGFB3
+name: transforming growth factor beta 3
+ghr-page: https://ghr.nlm.nih.gov/gene/TGFB3
+text/text-role: function
+text/html: <p>The <i>TGFB3</i> gene provides instructions for producing a protein called transforming growth factor beta-3 (TGFβ-3). This protein is found throughout the body and is required for development before birth and throughout life. To carry out its functions, TGFβ-3 attaches (binds) to receptor proteins on the surface of cells. This binding triggers the transmission of signals within the cell, controlling various cellular activities. As part of a signaling pathway, called the TGF-β pathway, the TGFβ-3 protein helps control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (motility), and controlled cell death (apoptosis). Because the TGFβ-3 protein keeps cells from growing and dividing too rapidly or in an uncontrolled way, it can suppress the formation of tumors.</p><p>The TGFβ-3 protein is especially abundant in tissues that develop into the muscles used for movement (skeletal muscles), and plays a key role in their development. The protein is also involved in the formation of blood vessels, regulation of bone growth, wound healing, and immune system function.</p>
+related-health-condition(1)/name: arrhythmogenic right ventricular cardiomyopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/arrhythmogenic-right-ventricular-cardiomyopathy
+related-health-condition(2)/name: Loeys-Dietz syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/loeys-dietz-syndrome
+synonym(1): RNHF
+synonym(2): TGF beta 3
+synonym(3): TGF-beta3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7043
+db-key(2)/db: OMIM
+db-key(2)/key: 190230
+reviewed: 2017-03
+published: 2018-04-17

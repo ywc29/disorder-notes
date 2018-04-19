@@ -1,0 +1,21 @@
+gene-symbol: PEPD
+name: peptidase D
+ghr-page: https://ghr.nlm.nih.gov/gene/PEPD
+text/text-role: function
+text/html: <p>The <i>PEPD</i> gene provides instructions for making the enzyme prolidase, also called peptidase D. Prolidase helps divide certain dipeptides, which are molecules composed of two protein building blocks (amino acids). Specifically, prolidase divides dipeptides containing the amino acids proline or hydroxyproline. By freeing these amino acids, prolidase helps make them available for use in producing proteins that the body needs.</p><p>Prolidase is also involved in the final step of the breakdown of some proteins obtained though the diet and proteins that are no longer needed in the body. Prolidase is particularly important in the breakdown of collagens, a family of proteins that are rich in proline and hydroxyproline. Collagens are an important part of the extracellular matrix, which is the lattice of proteins and other molecules outside the cell. The extracellular matrix strengthens and supports connective tissues, such as skin, bone, cartilage, tendons, and ligaments. Collagen breakdown occurs during the maintenance (remodeling) of the extracellular matrix.</p>
+related-health-condition/name: prolidase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/prolidase-deficiency
+synonym(1): aminoacyl-L-proline hydrolase
+synonym(2): imidodipeptidase
+synonym(3): MGC10905
+synonym(4): PEPD_HUMAN
+synonym(5): PROLIDASE
+synonym(6): proline dipeptidase
+synonym(7): X-Pro dipeptidase
+synonym(8): xaa-Pro dipeptidase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5184
+db-key(2)/db: OMIM
+db-key(2)/key: 613230
+reviewed: 2012-02
+published: 2018-04-17

@@ -1,0 +1,33 @@
+gene-symbol: SEPT9
+name: septin 9
+ghr-page: https://ghr.nlm.nih.gov/gene/SEPT9
+text/text-role: function
+text/html: <p>The <i>SEPT9</i> gene provides instructions for making a protein called septin-9, which is part of a group of proteins called septins. Septins are involved in a process called cytokinesis, which is the step in cell division when the fluid inside the cell (cytoplasm) divides to form two separate cells. The septin-9 protein also seems to act as a tumor suppressor, which means that it regulates cell growth and keeps cells from dividing too fast or in an uncontrolled way.</p><p>The <i>SEPT9</i> gene seems to be turned on (active) in cells throughout the body. Approximately 15 slightly different versions (isoforms) of the septin-9 protein may be produced from this gene. Some types of cells make certain isoforms, while other cell types produce other isoforms. However, the specific distribution of these isoforms in the body's tissues is not well understood. Septin-9 isoforms interact with other septin proteins to perform some of their functions.</p>
+related-health-condition/name: hereditary neuralgic amyotrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-neuralgic-amyotrophy
+synonym(1): AF17q25
+synonym(2): FLJ75490
+synonym(3): KIAA0991
+synonym(4): MLL septin-like fusion
+synonym(5): MSF
+synonym(6): MSF1
+synonym(7): NAPB
+synonym(8): Ov/Br septin
+synonym(9): ovarian/breast septin
+synonym(10): PNUTL4
+synonym(11): SEPT9_HUMAN
+synonym(12): SeptD1
+synonym(13): septin 9 isoform a
+synonym(14): septin 9 isoform b
+synonym(15): septin 9 isoform c
+synonym(16): septin 9 isoform d
+synonym(17): septin 9 isoform e
+synonym(18): septin 9 isoform f
+synonym(19): septin D1
+synonym(20): SINT1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10801
+db-key(2)/db: OMIM
+db-key(2)/key: 604061
+reviewed: 2009-09
+published: 2018-04-17

@@ -1,0 +1,21 @@
+gene-symbol: VPS13B
+name: vacuolar protein sorting 13 homolog B
+ghr-page: https://ghr.nlm.nih.gov/gene/VPS13B
+text/text-role: function
+text/html: <p>Researchers are still working to determine the exact role of the <i>VPS13B</i> gene (also called the <i>COH1</i> gene) in the human body. Studies show that the protein produced from this gene is a part of the Golgi apparatus, which is a cell structure in which newly produced proteins are modified so they can carry out their functions. In particular, the VPS13B protein is involved in a modification called glycosylation, which is the attachment of sugar molecules to proteins. The VPS13B protein also appears to be involved in the sorting and transporting of proteins inside the cell.</p><p>Studies suggest several functions for the VPS13B protein in the body. The protein appears to play an important role in the normal growth and development of nerve cells (neurons). It may also be involved in the growth and development of adipocytes, which are cells that store fats for energy, and may play a role in the storage and distribution of fats in the body.</p>
+related-health-condition/name: Cohen syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cohen-syndrome
+synonym(1): CHS1
+synonym(2): COH1
+synonym(3): Cohen syndrome 1
+synonym(4): DKFZp313I0811
+synonym(5): KIAA0532
+synonym(6): vacuolar protein sorting 13 homolog B (yeast)
+synonym(7): vacuolar protein sorting 13B
+synonym(8): VP13B_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 157680
+db-key(2)/db: OMIM
+db-key(2)/key: 607817
+reviewed: 2017-06
+published: 2018-04-17

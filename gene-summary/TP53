@@ -1,0 +1,35 @@
+gene-symbol: TP53
+name: tumor protein p53
+ghr-page: https://ghr.nlm.nih.gov/gene/TP53
+text/text-role: function
+text/html: <p>The <i>TP53</i> gene provides instructions for making a protein called tumor protein p53 (or p53). This protein acts as a tumor suppressor, which means that it regulates cell division by keeping cells from growing and dividing (proliferating) too fast or in an uncontrolled way.</p><p>The p53 protein is located in the nucleus of cells throughout the body, where it attaches (binds) directly to DNA. When the DNA in a cell becomes damaged by agents such as toxic chemicals, radiation, or ultraviolet (UV) rays from sunlight, this protein plays a critical role in determining whether the DNA will be repaired or the damaged cell will self-destruct (undergo apoptosis). If the DNA can be repaired, p53 activates other genes to fix the damage. If the DNA cannot be repaired, this protein prevents the cell from dividing and signals it to undergo apoptosis. By stopping cells with mutated or damaged DNA from dividing, p53 helps prevent the development of tumors.</p><p>Because p53 is essential for regulating cell division and preventing tumor formation, it has been nicknamed the "guardian of the genome."</p>
+related-health-condition(1)/name: bladder cancer
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/bladder-cancer
+related-health-condition(2)/name: breast cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
+related-health-condition(3)/name: cholangiocarcinoma
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/cholangiocarcinoma
+related-health-condition(4)/name: head and neck squamous cell carcinoma
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/head-and-neck-squamous-cell-carcinoma
+related-health-condition(5)/name: Li-Fraumeni syndrome
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/li-fraumeni-syndrome
+related-health-condition(6)/name: lung cancer
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/lung-cancer
+related-health-condition(7)/name: ovarian cancer
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/ovarian-cancer
+synonym(1): antigen NY-CO-13
+synonym(2): cellular tumor antigen p53
+synonym(3): P53
+synonym(4): P53 tumor suppressor
+synonym(5): P53_HUMAN
+synonym(6): phosphoprotein p53
+synonym(7): transformation-related protein 53
+synonym(8): TRP53
+synonym(9): tumor protein p53 (Li-Fraumeni syndrome)
+synonym(10): tumor suppressor p53
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7157
+db-key(2)/db: OMIM
+db-key(2)/key: 191170
+reviewed: 2017-12
+published: 2018-04-17

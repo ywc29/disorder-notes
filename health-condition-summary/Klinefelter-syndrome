@@ -1,0 +1,33 @@
+name: Klinefelter syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/klinefelter-syndrome
+text/text-role: description
+text/html: <p>Klinefelter syndrome is a chromosomal condition that affects male physical and cognitive development. Its signs and symptoms vary among affected individuals.</p><p>Affected individuals typically have small testes that do not produce as much testosterone as usual. Testosterone is the hormone that directs male sexual development before birth and during puberty. A shortage of testosterone can lead to delayed or incomplete puberty, breast enlargement (gynecomastia), reduced facial and body hair, and an inability to have biological children (infertility). Some affected individuals also have genital differences including undescended testes (cryptorchidism), the opening of the urethra on the underside of the penis (hypospadias), or an unusually small penis (micropenis).</p><p>Older children and adults with Klinefelter syndrome tend to be taller than their peers. Compared with unaffected men, adults with Klinefelter syndrome have an increased risk of developing breast cancer and a chronic inflammatory disease called systemic lupus erythematosus. Their chance of developing these disorders is similar to that of women in the general population.</p><p>Children with Klinefelter syndrome may have learning disabilities and delayed speech and language development. They tend to be quiet, sensitive, and unassertive, but personality characteristics vary among affected individuals.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-chromosome/name: X
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/X
+synonym(1): Klinefelter's syndrome
+synonym(2): XXY syndrome
+synonym(3): XXY trisomy
+db-key(1)/db: GTR
+db-key(1)/key: C0022735
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: Q98.0
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q98.1
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: Q98.4
+db-key(5)/db: MeSH
+db-key(5)/key: D007713
+db-key(6)/db: Orphanet
+db-key(6)/key: 484
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 205700008
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 22053006
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 38847009
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 405769009
+reviewed: 2013-01
+published: 2018-04-17

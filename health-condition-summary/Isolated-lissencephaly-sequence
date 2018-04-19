@@ -1,0 +1,50 @@
+name: Isolated lissencephaly sequence
+ghr-page: https://ghr.nlm.nih.gov/condition/isolated-lissencephaly-sequence
+text/text-role: description
+text/html: <p>Isolated lissencephaly sequence (ILS) is a condition that affects brain development before birth. Normally, the cells that make up the exterior of the brain (cerebral cortex) are well-organized, multi-layered, and arranged into many folds and grooves (gyri). In people with ILS, the cells of the cerebral cortex are disorganized, and the brain surface is abnormally smooth with an absence (agyria) or reduction (pachygyria) of folds and grooves. In most cases, these abnormalities impair brain growth, causing the brain to be smaller than normal (microcephaly). This underdevelopment of the brain causes severe intellectual disability, delayed development, and recurrent seizures (epilepsy) in individuals with ILS.</p><p>More than 90 percent of individuals with ILS develop epilepsy, often within the first year of life. Up to 80 percent of infants with ILS have a type of seizure called infantile spasms, these seizures can be severe enough to cause brain dysfunction (epileptic encephalopathy). After the first months of life, most children with ILS develop a variety of seizure types, including persisting infantile spasms, short periods of loss of consciousness (absence seizures); sudden episodes of weak muscle tone (drop attacks); rapid, uncontrolled muscle jerks (myoclonic seizures); and episodes of muscle rigidity, convulsions, and loss of consciousness (tonic-clonic seizures).</p><p>Infants with ILS may have poor muscle tone (hypotonia) and difficulty feeding, which leads to poor growth overall. Hypotonia also affects the muscles used for breathing, which often causes breathing problems that can lead to a life-threatening bacterial lung infection known as aspiration pneumonia. Children with ILS often develop muscle stiffness (spasticity) in their arms and legs and an abnormal side-to-side curvature of the spine (scoliosis). Rarely, the muscle stiffness will progress to paralysis (spastic paraplegia). Individuals with ILS cannot walk and rarely crawl. Most children with ILS do not develop communication skills.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: xd
+inheritance-pattern(2)/memo: X-linked dominant
+related-gene(1)/gene-symbol: DCX
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/DCX
+related-gene(2)/gene-symbol: PAFAH1B1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PAFAH1B1
+related-gene(3)/gene-symbol: TUBA1A
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/TUBA1A
+synonym(1): classical lissencephaly
+synonym(2): ILS
+synonym(3): LIS1
+synonym(4): lissencephaly type 1
+synonym(5): lissencephaly, classic
+synonym(6): type 1 lissencephaly
+db-key(1)/db: GTR
+db-key(1)/key: C0431375
+db-key(2)/db: GTR
+db-key(2)/key: C1848199
+db-key(3)/db: GTR
+db-key(3)/key: C1969029
+db-key(4)/db: GeneReviews
+db-key(4)/key: chrom17-lis
+db-key(5)/db: GeneReviews
+db-key(5)/key: dcx
+db-key(6)/db: GeneReviews
+db-key(6)/key: tubulin-ov
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: Q04.3
+db-key(8)/db: MeSH
+db-key(8)/key: D054221
+db-key(9)/db: OMIM
+db-key(9)/key: 300067
+db-key(10)/db: OMIM
+db-key(10)/key: 607432
+db-key(11)/db: OMIM
+db-key(11)/key: 611603
+db-key(12)/db: Orphanet
+db-key(12)/key: 48471
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 253147000
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 715780008
+reviewed: 2013-07
+published: 2018-04-17

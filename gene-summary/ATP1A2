@@ -1,0 +1,30 @@
+gene-symbol: ATP1A2
+name: ATPase Na+/K+ transporting subunit alpha 2
+ghr-page: https://ghr.nlm.nih.gov/gene/ATP1A2
+text/text-role: function
+text/html: <p>The <i>ATP1A2</i> gene provides instructions for making one part (the alpha-2 subunit) of a protein known as a Na+/K+ ATPase. This protein uses energy from a molecule called adenosine triphosphate (ATP) to transport charged atoms (ions) into and out of cells. Specifically, it pumps sodium ions (Na+) out of cells and potassium ions (K+) into cells.</p><p>Na+/K+ ATPases that include the alpha-2 subunit are primarily found in nervous system cells called glia, which protect and maintain nerve cells (neurons). Through its action in glia, the protein plays a critical role in the normal function of neurons. Communication between neurons depends on chemicals called neurotransmitters. To relay signals, a neuron releases neurotransmitters, which attach to receptor proteins on neighboring neurons. After the neurotransmitters have had their effect, they detach from their receptors and are removed from the spaces between neurons by glia. This process is carefully regulated to ensure that signals are transmitted accurately throughout the nervous system. The Na+/K+ ATPase helps regulate this process by stimulating glia to clear neurotransmitters from the spaces between neurons. This protein also removes excess potassium ions from these spaces.</p>
+related-health-condition(1)/name: alternating hemiplegia of childhood
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/alternating-hemiplegia-of-childhood
+related-health-condition(2)/name: familial hemiplegic migraine
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hemiplegic-migraine
+related-health-condition(3)/name: sporadic hemiplegic migraine
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/sporadic-hemiplegic-migraine
+synonym(1): AT1A2_HUMAN
+synonym(2): ATPase, Na+/K+ transporting, alpha 2 (+) polypeptide
+synonym(3): ATPase, Na+/K+ transporting, alpha 2 polypeptide
+synonym(4): FHM2
+synonym(5): MHP2
+synonym(6): Na+/K+ ATPase 2
+synonym(7): Na+/K+ -ATPase alpha 2 subunit proprotein
+synonym(8): Na+/K+ ATPase, alpha-A(+) catalytic polypeptide
+synonym(9): Na+/K+ ATPase, alpha-B polypeptide
+synonym(10): sodium-potassium ATPase
+synonym(11): sodium pump 2
+synonym(12): sodium pump subunit alpha-2
+synonym(13): sodium/potassium-transporting ATPase alpha-2 chain
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 477
+db-key(2)/db: OMIM
+db-key(2)/key: 182340
+reviewed: 2014-02
+published: 2018-04-17

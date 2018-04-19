@@ -1,0 +1,24 @@
+name: Lymphedema-distichiasis syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/lymphedema-distichiasis-syndrome
+text/text-role: description
+text/html: <p>Lymphedema-distichiasis syndrome is a condition that affects the normal function of the lymphatic system, which is a part of the circulatory and immune systems. The lymphatic system produces and transports fluids and immune cells throughout the body. People with lymphedema-distichiasis syndrome develop puffiness or swelling (lymphedema) of the limbs, typically the legs and feet. Another characteristic of this syndrome is the growth of extra eyelashes (distichiasis), ranging from a few extra eyelashes to a full extra set on both the upper and lower lids. These eyelashes do not grow along the edge of the eyelid,  but out of its inner lining. When the abnormal eyelashes touch the eyeball, they can cause damage to the clear covering of the eye (cornea). Related eye problems can include an irregular curvature of the cornea causing blurred vision (astigmatism) or scarring of the cornea. Other health problems associated with this disorder include swollen and knotted (varicose) veins, droopy eyelids (ptosis), heart abnormalities, and an opening in the roof of the mouth (a cleft palate).</p><p>All people with lymphedema-distichiasis syndrome have extra eyelashes present at birth. The age of onset of lymphedema varies, but it most often begins during puberty. Males usually develop lymphedema earlier than females, but all affected individuals will develop lymphedema by the time they are in their forties.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FOXC2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FOXC2
+synonym(1): distichiasis-lymphedema syndrome
+synonym(2): lymphedema with distichiasis
+db-key(1)/db: GTR
+db-key(1)/key: C0265345
+db-key(2)/db: GeneReviews
+db-key(2)/key: lds
+db-key(3)/db: MeSH
+db-key(3)/key: D008209
+db-key(4)/db: OMIM
+db-key(4)/key: 153400
+db-key(5)/db: Orphanet
+db-key(5)/key: 33001
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 8634009
+reviewed: 2014-02
+published: 2018-04-17

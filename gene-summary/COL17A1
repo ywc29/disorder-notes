@@ -1,0 +1,25 @@
+gene-symbol: COL17A1
+name: collagen type XVII alpha 1 chain
+ghr-page: https://ghr.nlm.nih.gov/gene/COL17A1
+text/text-role: function
+text/html: <p>The <i>COL17A1</i> gene provides instructions for making a protein that is used to assemble type XVII collagen. Collagens are a family of proteins that strengthen and support connective tissues, such as skin, bone, tendons, and ligaments, throughout the body. In particular, type XVII collagen plays an essential role in strengthening and stabilizing the skin.</p><p>The protein produced from the <i>COL17A1</i> gene is known as a pro-α1(XVII) chain. Three identical pro-α1(XVII) chains twist together to form a triple-stranded, ropelike molecule known as a procollagen. Procollagen molecules are secreted by the cell and processed by enzymes to remove extra protein segments from the ends. Once these molecules are processed, they arrange themselves into long, thin bundles of mature type XVII collagen.</p><p>Type XVII collagen is a major component of hemidesmosomes, which are microscopic structures on the inner surface of the top layer of skin (the epidermis). These structures help to anchor the epidermis to underlying layers of skin. Type XVII collagen is critical for the stability of hemidesmosomes, and therefore it plays an important role in holding the layers of skin together.</p>
+related-health-condition/name: junctional epidermolysis bullosa
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/junctional-epidermolysis-bullosa
+synonym(1): alpha 1 type XVII collagen
+synonym(2): BA16H23.2
+synonym(3): BP180
+synonym(4): BPAG2
+synonym(5): bullous pemphigoid antigen 2 (180kD)
+synonym(6): COHA1_HUMAN
+synonym(7): collagen type XVII alpha 1
+synonym(8): collagen XVII, alpha-1 polypeptide
+synonym(9): collagen, type XVII, alpha 1
+synonym(10): FLJ60881
+synonym(11): KIAA0204
+synonym(12): LAD-1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1308
+db-key(2)/db: OMIM
+db-key(2)/key: 113811
+reviewed: 2009-09
+published: 2018-04-17

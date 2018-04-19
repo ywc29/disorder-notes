@@ -1,0 +1,21 @@
+gene-symbol: TIMM8A
+name: translocase of inner mitochondrial membrane 8A
+ghr-page: https://ghr.nlm.nih.gov/gene/TIMM8A
+text/text-role: function
+text/html: <p>The <i>TIMM8A</i> gene provides instructions for making a protein that is found inside mitochondria, which are structures within cells that convert the energy from food into a form that cells can use. Mitochondria have two membranes, an outer membrane and an inner membrane, which are separated by a fluid-filled area called the intermembrane space. The TIMM8A protein is found in the intermembrane space, where it forms a complex (a group of proteins that work together) with a very similar protein called TIMM13. This complex transports other proteins across the intermembrane space to the mitochondrial inner membrane.</p>
+related-health-condition/name: deafness-dystonia-optic neuronopathy syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/deafness-dystonia-optic-neuronopathy-syndrome
+synonym(1): DDP
+synonym(2): DDP1
+synonym(3): deafness/dystonia peptide
+synonym(4): DFN1
+synonym(5): MGC12262
+synonym(6): TIM8A_HUMAN
+synonym(7): translocase of inner mitochondrial membrane 8 homolog A
+synonym(8): translocase of inner mitochondrial membrane 8 homolog A (yeast)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1678
+db-key(2)/db: OMIM
+db-key(2)/key: 300356
+reviewed: 2008-09
+published: 2018-04-17

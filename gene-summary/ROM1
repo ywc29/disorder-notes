@@ -1,0 +1,8 @@
+gene-symbol: ROM1
+name: retinal outer segment membrane protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ROM1
+related-health-condition/name: retinitis pigmentosa
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/retinitis-pigmentosa
+db-key/db: NCBI Gene
+db-key/key: 6094
+published: 2018-04-17

@@ -1,0 +1,8 @@
+gene-symbol: AHI1
+name: Abelson helper integration site 1
+ghr-page: https://ghr.nlm.nih.gov/gene/AHI1
+related-health-condition/name: Joubert syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/joubert-syndrome
+db-key/db: NCBI Gene
+db-key/key: 54806
+published: 2018-04-17

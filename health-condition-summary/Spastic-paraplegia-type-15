@@ -1,0 +1,28 @@
+name: Spastic paraplegia type 15
+ghr-page: https://ghr.nlm.nih.gov/condition/spastic-paraplegia-type-15
+text/text-role: description
+text/html: <p>Spastic paraplegia type 15 is part of a group of genetic disorders known as hereditary spastic paraplegias. These disorders are characterized by progressive muscle stiffness (spasticity) and the development of paralysis of the lower limbs (paraplegia). Spastic paraplegia type 15 is classified as a complex hereditary spastic paraplegia because it involves all four limbs as well as additional features, including abnormalities of the brain. In addition to the muscles and brain, spastic paraplegia type 15 affects the peripheral nervous system, which consists of nerves connecting the brain and spinal cord to muscles and sensory cells that detect sensations such as touch, pain, heat, and sound.</p><p>Spastic paraplegia type 15 usually becomes apparent in childhood or adolescence with the development of weak muscle tone (hypotonia), difficulty walking, or intellectual disability. In almost all affected individuals, the tissue connecting the left and right halves of the brain (corpus callosum) is abnormally thin and becomes thinner over time. Additionally, there is often a loss (atrophy) of nerve cells in several parts of the brain, including the cerebral cortex, which controls thinking and emotions, and the cerebellum, which coordinates movement.</p><p>People with this form of spastic paraplegia can have numbness, tingling, or pain in the arms and legs (sensory neuropathy); impairment of the nerves used for muscle movement (motor neuropathy); exaggerated reflexes (hyperreflexia) of the lower limbs; muscle wasting (amyotrophy); or reduced bladder control. Rarely, spastic paraplegia type 15 is associated with a group of movement abnormalities called parkinsonism, which includes tremors, rigidity, and unusually slow movement (bradykinesia). People with spastic paraplegia type 15 may have an eye condition called pigmentary maculopathy that often impairs vision. This condition results from the breakdown (degeneration) of tissue at the back of the eye called the macula, which is responsible for sharp central vision.</p><p>Most people with spastic paraplegia type 15 experience a decline in intellectual ability and an increase in muscle weakness and nerve abnormalities over time. As the condition progresses, many people require walking aids or wheelchair assistance in adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ZFYVE26
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ZFYVE26
+synonym(1): autosomal recessive spastic paraplegia 15
+synonym(2): Kjellin syndrome
+synonym(3): spastic paraplegia and retinal degeneration
+synonym(4): SPG15
+db-key(1)/db: GTR
+db-key(1)/key: C1849128
+db-key(2)/db: GeneReviews
+db-key(2)/key: hsp
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: G11.4
+db-key(4)/db: MeSH
+db-key(4)/key: D015419
+db-key(5)/db: OMIM
+db-key(5)/key: 270700
+db-key(6)/db: Orphanet
+db-key(6)/key: 685
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 709417000
+reviewed: 2014-04
+published: 2018-04-17

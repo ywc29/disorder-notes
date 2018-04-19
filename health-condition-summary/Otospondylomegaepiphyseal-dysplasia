@@ -1,0 +1,27 @@
+name: Otospondylomegaepiphyseal dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/otospondylomegaepiphyseal-dysplasia
+text/text-role: description
+text/html: <p>Otospondylomegaepiphyseal dysplasia (OSMED) is a condition characterized by skeletal abnormalities, distinctive facial features, and severe hearing loss.  The term "otospondylomegaepiphyseal" refers to the parts of the body that this condition affects: the ears (oto-), the bones of the spine (spondylo-), and the ends (epiphyses) of long bones in the arms and legs. The features of this condition significantly overlap those of two similar conditions, Weissenbacher-Zweymüller syndrome and Stickler syndrome type III. All of these conditions are caused by mutations in the same gene, and in some cases, it can be difficult to tell the conditions apart. Some researchers believe they represent a single disorder with a range of signs and symptoms.</p><p>People with OSMED are often shorter than average because the long bones in their legs are unusually short. Other skeletal features include enlarged joints; short arms, hands, and fingers; and flattened bones of the spine (platyspondyly). People with the disorder often experience back and joint pain, limited joint movement, and arthritis that begins early in life.</p><p>Severe high-frequency hearing loss is common in people with OSMED. Typical facial features include protruding eyes; a flattened bridge of the nose; an upturned nose with a large, rounded tip; and a small lower jaw. Almost all affected infants are born with an opening in the roof of the mouth (a cleft palate).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: COL11A2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/COL11A2
+synonym(1): chondrodystrophy with sensorineural deafness
+synonym(2): Insley-Astley syndrome
+synonym(3): mega-epiphyseal dwarfism
+synonym(4): Nance-Insley syndrome
+synonym(5): Nance-Sweeney chondrodysplasia
+synonym(6): OSMED
+synonym(7): oto-spondylo-megaepiphyseal dysplasia
+db-key(1)/db: GTR
+db-key(1)/key: C0432210
+db-key(2)/db: MeSH
+db-key(2)/key: D003095
+db-key(3)/db: OMIM
+db-key(3)/key: 215150
+db-key(4)/db: Orphanet
+db-key(4)/key: 1427
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 254060000
+reviewed: 2016-05
+published: 2018-04-17

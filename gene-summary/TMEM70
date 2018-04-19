@@ -1,0 +1,17 @@
+gene-symbol: TMEM70
+name: transmembrane protein 70
+ghr-page: https://ghr.nlm.nih.gov/gene/TMEM70
+text/text-role: function
+text/html: <p>The <i>TMEM70</i> gene provides instructions for making a protein called transmembrane protein 70. This protein is found in cell structures called mitochondria, which convert the energy from food into a form that cells can use. Transmembrane protein 70 is thought to play an important role in assembling and stabilizing a group of proteins called complex V. Complex V is the last of five complexes that carry out a multistep process called oxidative phosphorylation, through which cells derive much of their energy. Complex V is involved in the final step of oxidative phosphorylation. Specifically, one segment of complex V allows positively charged particles, called protons, to flow across a specialized membrane inside mitochondria. Another segment of complex V uses the energy created by this proton flow to convert a molecule called adenosine diphosphate (ADP) to adenosine triphosphate (ATP), which is used by the cell as energy.</p><p>Transmembrane protein 70 is also thought to be involved in the assembly of complex I, which is the first mitochondrial complex involved in oxidative phosphorylation.</p>
+related-health-condition/name: mitochondrial complex V deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mitochondrial-complex-v-deficiency
+synonym(1): FLJ20533
+synonym(2): MC5DN2
+synonym(3): transmembrane protein 70, mitochondrial isoform a
+synonym(4): transmembrane protein 70, mitochondrial isoform b
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 54968
+db-key(2)/db: OMIM
+db-key(2)/key: 612418
+reviewed: 2017-11
+published: 2018-04-17

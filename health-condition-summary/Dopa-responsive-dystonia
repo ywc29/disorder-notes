@@ -1,0 +1,47 @@
+name: Dopa-responsive dystonia
+ghr-page: https://ghr.nlm.nih.gov/condition/dopa-responsive-dystonia
+text/text-role: description
+text/html: <p>Dopa-responsive dystonia is a disorder that involves involuntary muscle contractions, tremors, and other uncontrolled movements (dystonia). The features of this condition range from mild to severe. This form of dystonia is called dopa-responsive dystonia because the signs and symptoms typically improve with sustained use of a medication known as L-Dopa.</p><p>Signs and symptoms of dopa-responsive dystonia usually appear during childhood, most commonly around age 6. The first signs of the condition are typically the development of inward- and upward-turning feet (clubfeet) and  dystonia in the lower limbs. The dystonia spreads to the upper limbs over time; beginning in adolescence, the whole body is typically involved. Affected individuals may have unusual limb positioning and a lack of coordination when walking or running. Some people with this condition have sleep problems or episodes of depression more frequently than would normally be expected.</p><p>Over time, affected individuals often develop a group of movement abnormalities called parkinsonism. These abnormalities include unusually slow movement (bradykinesia), muscle rigidity, tremors, and an inability to hold the body upright and balanced (postural instability).</p><p>The movement difficulties associated with dopa-responsive dystonia usually worsen with age but stabilize around age 30. A characteristic feature of dopa-responsive dystonia is worsening of movement problems later in the day and an improvement of symptoms in the morning, after sleep (diurnal fluctuation).</p><p>Rarely, the movement problems associated with dopa-responsive dystonia do not appear until adulthood. In these adult-onset cases, parkinsonism usually develops before dystonia, and movement problems are slow to worsen and do not show diurnal fluctuations.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: GCH1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GCH1
+related-gene(2)/gene-symbol: SPR
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SPR
+related-gene(3)/gene-symbol: TH
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/TH
+synonym(1): DRD
+synonym(2): dystonia 5, dopa-responsive type
+synonym(3): hereditary progressive dystonia with marked diurnal fluctuation
+db-key(1)/db: GTR
+db-key(1)/key: C0268468
+db-key(2)/db: GTR
+db-key(2)/key: C1851920
+db-key(3)/db: GTR
+db-key(3)/key: C1854299
+db-key(4)/db: GeneReviews
+db-key(4)/key: drd
+db-key(5)/db: GeneReviews
+db-key(5)/key: dystonia-ov
+db-key(6)/db: MeSH
+db-key(6)/key: D004421
+db-key(7)/db: OMIM
+db-key(7)/key: 128230
+db-key(8)/db: OMIM
+db-key(8)/key: 605407
+db-key(9)/db: OMIM
+db-key(9)/key: 612716
+db-key(10)/db: Orphanet
+db-key(10)/key: 255
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 230332007
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 45116002
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 715768000
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 715827001
+reviewed: 2012-05
+published: 2018-04-17

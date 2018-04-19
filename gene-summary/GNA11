@@ -1,0 +1,17 @@
+gene-symbol: GNA11
+name: G protein subunit alpha 11
+ghr-page: https://ghr.nlm.nih.gov/gene/GNA11
+text/text-role: function
+text/html: <p>The <i>GNA11</i> gene provides instructions for making one component, the alpha (α) subunit, of a protein complex called a guanine nucleotide-binding protein (G protein). Each G protein is composed of three proteins called the alpha, beta, and gamma subunits. Specifically, the protein produced from the <i>GNA11</i> gene, called Gα<sub>11</sub>, is the alpha subunit for a G protein called G<sub>11</sub>.</p><p>In a process called signal transduction, G proteins trigger a complex network of signaling pathways that ultimately influence many cell functions. The G<sub>11</sub> protein plays many roles in cells. It works with another protein called the calcium-sensing receptor (CaSR) to affect processes that regulate calcium levels in the blood. CaSR proteins in kidney cells and cells of the parathyroid gland sense when a certain concentration of calcium in the blood is reached; the CaSR protein then stimulates the G<sub>11</sub> subunits, including Gα<sub>11</sub>, to send signals that block processes that increase the amount of calcium in the blood. In particular, this signaling blocks the production and release of a hormone called parathyroid hormone. Parathyroid hormone enhances the release of calcium into the blood, so blocking this hormone prevents calcium release. In the kidneys, which filter fluid and waste products in the body and can reabsorb needed nutrients and release them back into the blood, G<sub>11</sub> signaling blocks the reabsorption of calcium from the filtered fluids.</p><p>G<sub>11</sub> signaling is also involved in the growth and division (proliferation) and self-destruction (apoptosis) of cells in tissues throughout the body, including those in the eyes, skin, heart, and brain.</p>
+related-health-condition/name: autosomal dominant hypocalcemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-hypocalcemia
+synonym(1): FBH
+synonym(2): FBH2
+synonym(3): FHH2
+synonym(4): guanine nucleotide binding protein (G protein), alpha 11 (Gq class)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2767
+db-key(2)/db: OMIM
+db-key(2)/key: 139313
+reviewed: 2015-02
+published: 2018-04-17

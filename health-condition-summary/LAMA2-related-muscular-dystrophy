@@ -1,0 +1,30 @@
+name: LAMA2-related muscular dystrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/lama2-related-muscular-dystrophy
+text/text-role: description
+text/html: <p><i>LAMA2</i>-related muscular dystrophy is a disorder that causes weakness and wasting (atrophy) of muscles used for movement (skeletal muscles). This condition generally appears in one of two ways: as a severe, early-onset type or a milder, late-onset form.</p><p>Early-onset <i>LAMA2</i>-related muscular dystrophy is apparent at birth or within the first few months of life. It is considered part of a class of muscle disorders called congenital muscular dystrophies and is sometimes called congenital muscular dystrophy type 1A. Affected infants have severe muscle weakness, lack of muscle tone (hypotonia), little spontaneous movement, and joint deformities (contractures). Weakness of the muscles in the face and throat can result in feeding difficulties and an inability to grow and gain weight at the expected rate (failure to thrive). Hypotonia also affects the muscles used for breathing, which causes a weak cry and breathing problems that can lead to frequent, potentially life-threatening lung infections.</p><p>As affected children grow, they often develop an abnormal, gradually worsening side-to-side curvature of the spine (scoliosis) and inward curvature of the back (lordosis). Children with early-onset <i>LAMA2</i>-related muscular dystrophy usually do not learn to walk unassisted. Speech problems may result from weakness of the facial muscles and tongue, but intelligence is usually normal. Heart problems and seizures occasionally occur in early-onset <i>LAMA2</i>-related muscular dystrophy. Because of the serious health problems that occur in this form of the disorder, many affected individuals do not survive past adolescence.</p><p>Late-onset <i>LAMA2</i>-related muscular dystrophy occurs later in childhood or in adulthood. Signs and symptoms of this form of the disorder are milder than in the early-onset type and are similar to those of a group of muscle disorders classified as limb-girdle muscular dystrophies. In late-onset <i>LAMA2</i>-related muscular dystrophy, the muscles most affected are those closest to the body (proximal muscles), specifically the muscles of the shoulders, upper arms, pelvic area, and thighs. Children with late-onset <i>LAMA2</i>-related muscular dystrophy sometimes have delayed development of motor skills such as walking, but generally achieve the ability to walk without assistance. Over time, they may develop rigidity of the back, joint contractures, scoliosis, and breathing problems. However, most affected individuals retain the ability to walk and climb stairs, and life expectancy and intelligence are usually not affected in late-onset <i>LAMA2</i>-related muscular dystrophy.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: LAMA2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LAMA2
+synonym(1): LAMA2 MD
+synonym(2): laminin alpha 2 deficiency
+synonym(3): laminin alpha-2 deficient muscular dystrophy
+synonym(4): MDC1A
+synonym(5): merosin-deficient muscular dystrophy
+synonym(6): muscular dystrophy due to LAMA2 deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1263858
+db-key(2)/db: GTR
+db-key(2)/key: C1842898
+db-key(3)/db: GeneReviews
+db-key(3)/key: mdef-cmd
+db-key(4)/db: MeSH
+db-key(4)/key: D009136
+db-key(5)/db: OMIM
+db-key(5)/key: 607855
+db-key(6)/db: Orphanet
+db-key(6)/key: 258
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 111503008
+reviewed: 2013-09
+published: 2018-04-17

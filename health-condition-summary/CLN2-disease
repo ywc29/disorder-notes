@@ -1,0 +1,33 @@
+name: CLN2 disease
+ghr-page: https://ghr.nlm.nih.gov/condition/cln2-disease
+text/text-role: description
+text/html: <p>CLN2 disease is an inherited disorder that primarily affects the nervous system. The signs and symptoms of this condition typically begin between ages 2 and 4. The initial features usually include recurrent seizures (epilepsy) and difficulty coordinating movements (ataxia). Affected children also develop muscle twitches (myoclonus) and vision loss. CLN2 disease affects motor skills, such as sitting and walking, and speech development. This condition also causes the loss of previously acquired skills (developmental regression), intellectual disability that gradually gets worse, and behavioral problems. Individuals with this condition often require the use of a wheelchair by late childhood and typically do not survive past their teens.</p><p>Some children with CLN2 disease do not develop symptoms until later in childhood, typically after age 4. These individuals tend to have milder features overall compared to those diagnosed earlier, but with more severe ataxia. They have a shortened life expectancy, although they tend to survive into adulthood.</p><p>CLN2 disease is one of a group of disorders known as neuronal ceroid lipofuscinoses (NCLs), which may also be collectively referred to as Batten disease. All these disorders affect the nervous system and typically cause worsening problems with vision, movement, and thinking ability. The different NCLs are distinguished by their genetic cause. Each disease type is given the designation "CLN," meaning ceroid lipofuscinosis, neuronal, and then a number to indicate its subtype.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: TPP1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TPP1
+synonym(1): Jansky-Bielschowsky disease
+synonym(2): late-infantile Batten disease
+synonym(3): late-infantile neuronal ceroid lipofuscinosis
+synonym(4): LINCL
+synonym(5): neuronal ceroid lipofuscinosis, late-infantile
+db-key(1)/db: GTR
+db-key(1)/key: C0022340
+db-key(2)/db: GTR
+db-key(2)/key: C0027877
+db-key(3)/db: GTR
+db-key(3)/key: C1876161
+db-key(4)/db: GeneReviews
+db-key(4)/key: ncl
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: E75.4
+db-key(6)/db: MeSH
+db-key(6)/key: D009472
+db-key(7)/db: OMIM
+db-key(7)/key: 204500
+db-key(8)/db: Orphanet
+db-key(8)/key: 168491
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 14637005
+reviewed: 2016-11
+published: 2018-04-17

@@ -1,0 +1,27 @@
+gene-symbol: PRF1
+name: perforin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/PRF1
+text/text-role: function
+text/html: <p>The <i>PRF1</i> gene provides instructions for making a protein called perforin. This protein is found in immune cells (lymphocytes) called T cells and natural killer (NK) cells, which destroy other cells. Perforin is involved in the process of cell destruction (cytolysis) and the regulation of the immune system.</p><p>Perforin is a major component of structures called cytolytic granules within T cells and NK cells. One of the main ways in which T cells and NK cells destroy other cells is to transport and secrete these cytolytic granules, which contain cell-killing proteins, onto the membranes of the target cells. Perforin helps create a channel through the membrane, allowing cytolytic proteins to enter the cell and trigger it to self-destruct.</p><p>This cytolytic mechanism also helps regulate the immune system by destroying unneeded T cells. Controlling the number of T cells prevents the overproduction of immune proteins called cytokines that lead to inflammation and which, in excess, cause tissue damage.</p>
+related-health-condition/name: familial hemophagocytic lymphohistiocytosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hemophagocytic-lymphohistiocytosis
+synonym(1): cytolysin
+synonym(2): FLH2
+synonym(3): HPLH2
+synonym(4): lymphocyte pore-forming protein
+synonym(5): lymphocyte pore forming protein
+synonym(6): MGC65093
+synonym(7): OTTHUMP00000019759
+synonym(8): P1
+synonym(9): PERF_HUMAN
+synonym(10): perforin-1
+synonym(11): perforin 1 (pore forming protein)
+synonym(12): perforin-1 precursor
+synonym(13): PFN1
+synonym(14): PFP
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5551
+db-key(2)/db: OMIM
+db-key(2)/key: 170280
+reviewed: 2011-01
+published: 2018-04-17

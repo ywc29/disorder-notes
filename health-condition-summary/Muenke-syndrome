@@ -1,0 +1,26 @@
+name: Muenke syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/muenke-syndrome
+text/text-role: description
+text/html: <p>Muenke syndrome is a condition characterized by the premature closure of certain bones of the skull (craniosynostosis) during development, which affects the shape of the head and face.</p><p>Many people with this disorder have a premature fusion of skull bones along the coronal suture, the growth line that goes over the head from ear to ear. Other parts of the skull may also be malformed. These changes can result in an abnormally shaped head, wide-set eyes, and flattened cheekbones. About 5 percent of affected individuals have an enlarged head (macrocephaly). People with Muenke syndrome may also have mild abnormalities of the hands or feet, and hearing loss has been observed in some cases. Most people with this condition have normal intellect, but developmental delay and learning problems are possible.</p><p>The signs and symptoms of Muenke syndrome vary among affected people, and some features overlap with those seen in other craniosynostosis syndromes. A small percentage of people with the gene mutation associated with Muenke syndrome do not have any of the characteristic features of the disorder.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FGFR3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR3
+synonym(1): FGFR3-associated coronal synostosis
+synonym(2): Muenke nonsyndromic coronal craniosynostosis
+db-key(1)/db: GTR
+db-key(1)/key: C1864436
+db-key(2)/db: GeneReviews
+db-key(2)/key: craniosynostosis
+db-key(3)/db: GeneReviews
+db-key(3)/key: muenke
+db-key(4)/db: MeSH
+db-key(4)/key: D003398
+db-key(5)/db: OMIM
+db-key(5)/key: 602849
+db-key(6)/db: Orphanet
+db-key(6)/key: 53271
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 440350001
+reviewed: 2018-03
+published: 2018-04-17

@@ -1,0 +1,30 @@
+name: Primary carnitine deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/primary-carnitine-deficiency
+text/text-role: description
+text/html: <p>Primary carnitine deficiency is a condition that prevents the body from using certain fats for energy, particularly during periods without food (fasting). Carnitine, a natural substance acquired mostly through the diet, is used by cells to process fats and produce energy.</p><p>Signs and symptoms of primary carnitine deficiency typically appear during infancy or early childhood and can include severe brain dysfunction (encephalopathy), a weakened and enlarged heart (cardiomyopathy), confusion, vomiting, muscle weakness, and low blood sugar (hypoglycemia). The severity of this condition varies among affected individuals. Some people with primary carnitine deficiency are asymptomatic, which means they do not have any signs or symptoms of the condition. All individuals with this disorder are at risk for heart failure, liver problems, coma, and sudden death.</p><p>Problems related to primary carnitine deficiency can be triggered by periods of fasting or by illnesses such as viral infections. This disorder is sometimes mistaken for Reye syndrome, a severe disorder that may develop in children while they appear to be recovering from viral infections such as chicken pox or flu. Most cases of Reye syndrome are associated with the use of aspirin during these viral infections.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SLC22A5
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SLC22A5
+synonym(1): carnitine transporter deficiency
+synonym(2): carnitine uptake defect
+synonym(3): carnitine uptake deficiency
+synonym(4): CUD
+synonym(5): renal carnitine transport defect
+synonym(6): systemic carnitine deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0342788
+db-key(2)/db: GeneReviews
+db-key(2)/key: cdsp
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E71.41
+db-key(4)/db: MeSH
+db-key(4)/key: D008052
+db-key(5)/db: OMIM
+db-key(5)/key: 212140
+db-key(6)/db: Orphanet
+db-key(6)/key: 158
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 21764004
+reviewed: 2014-09
+published: 2018-04-17

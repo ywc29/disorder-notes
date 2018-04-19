@@ -1,0 +1,56 @@
+name: Centronuclear myopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/centronuclear-myopathy
+text/text-role: description
+text/html: <p>Centronuclear myopathy is a condition characterized by muscle weakness (myopathy) and wasting (atrophy) in the skeletal muscles, which are the muscles used for movement. The severity of centronuclear myopathy varies among affected individuals, even among members of the same family.</p><p>People with centronuclear myopathy begin experiencing muscle weakness at any time from birth to early adulthood. The muscle weakness slowly worsens over time and can lead to delayed development of motor skills, such as crawling or walking; muscle pain during exercise; and difficulty walking. Some affected individuals may need wheelchair assistance as the muscles atrophy and weakness becomes more severe. In rare instances, the muscle weakness improves over time.</p><p>Some people with centronuclear myopathy experience mild to severe breathing problems related to the weakness of muscles needed for breathing. People with centronuclear myopathy may have droopy eyelids (ptosis) and weakness in other facial muscles, including the muscles that control eye movement. People with this condition may also have foot abnormalities, a high arch in the roof of the mouth (high-arched palate), and abnormal side-to-side curvature of the spine (scoliosis).  Rarely, individuals with centronuclear myopathy have a weakened heart muscle (cardiomyopathy), disturbances in nerve function (neuropathy), or intellectual disability.</p><p>A key feature of centronuclear myopathy is the displacement of the nucleus in muscle cells, which can be viewed under a microscope. Normally the nucleus is found at the edges of the rod-shaped muscle cells, but in people with centronuclear myopathy the nucleus is located in the center of these cells. How the change in location of the nucleus affects muscle cell function is unknown.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: BIN1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BIN1
+related-gene(2)/gene-symbol: CCDC78
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CCDC78
+related-gene(3)/gene-symbol: DNM2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/DNM2
+related-gene(4)/gene-symbol: RYR1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/RYR1
+related-gene(5)/gene-symbol: SPEG
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/SPEG
+related-gene(6)/gene-symbol: TTN
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/TTN
+synonym(1): CNM
+synonym(2): myopathy, centronuclear
+db-key(1)/db: GTR
+db-key(1)/key: C0410204
+db-key(2)/db: GTR
+db-key(2)/key: C1834558
+db-key(3)/db: GTR
+db-key(3)/key: C3553709
+db-key(4)/db: GTR
+db-key(4)/key: C4014814
+db-key(5)/db: GTR
+db-key(5)/key: CN221282
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: G71.2
+db-key(7)/db: MeSH
+db-key(7)/key: D020914
+db-key(8)/db: OMIM
+db-key(8)/key: 160150
+db-key(9)/db: OMIM
+db-key(9)/key: 255200
+db-key(10)/db: OMIM
+db-key(10)/key: 614807
+db-key(11)/db: OMIM
+db-key(11)/key: 615959
+db-key(12)/db: Orphanet
+db-key(12)/key: 595
+db-key(13)/db: Orphanet
+db-key(13)/key: 169186
+db-key(14)/db: Orphanet
+db-key(14)/key: 169189
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 240081004
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 716696006
+reviewed: 2015-11
+published: 2018-04-17

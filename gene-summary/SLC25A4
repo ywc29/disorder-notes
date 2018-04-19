@@ -1,0 +1,27 @@
+gene-symbol: SLC25A4
+name: solute carrier family 25 member 4
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC25A4
+text/text-role: function
+text/html: <p>The <i>SLC25A4</i> gene provides the instructions for making a protein called adenine nucleotide translocase type 1 (ANT1). ANT1 functions in mitochondria, which are structures within cells that convert the energy from food into a form that cells can use. This process, called oxidative phosphorylation, converts adenosine diphosphate (ADP) into adenosine triphosphate (ATP), the cell's main energy source. ANT1 forms a channel in the inner membrane of mitochondria. This channel allows ADP into mitochondria and ATP out of mitochondria to be used as energy for the cell. ANT1 may also be a part of another structure in the inner membrane called the mitochondrial permeability transition pore. This structure allows various molecules to pass into mitochondria and is thought to play a role in the self-destruction (apoptosis) of the cell.</p>
+related-health-condition/name: progressive external ophthalmoplegia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/progressive-external-ophthalmoplegia
+synonym(1): AAC1
+synonym(2): adenine nucleotide translocator 1 (skeletal muscle)
+synonym(3): ADP,ATP carrier protein 1
+synonym(4): ADP,ATP carrier protein, heart/skeletal muscle
+synonym(5): ADP/ATP translocase 1
+synonym(6): ADT1_HUMAN
+synonym(7): ANT
+synonym(8): ANT 1
+synonym(9): ANT1
+synonym(10): heart/skeletal muscle ATP/ADP translocator
+synonym(11): PEO2
+synonym(12): PEO3
+synonym(13): solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4
+synonym(14): T1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 291
+db-key(2)/db: OMIM
+db-key(2)/key: 103220
+reviewed: 2016-05
+published: 2018-04-17

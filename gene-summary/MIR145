@@ -1,0 +1,17 @@
+gene-symbol: MIR145
+name: microRNA 145
+ghr-page: https://ghr.nlm.nih.gov/gene/MIR145
+text/text-role: function
+text/html: <p>The <i>MIR145</i> gene provides instructions for making microRNA-145 (miR-145). MicroRNAs (miRNAs) are short lengths of RNA, a chemical cousin of DNA. These molecules control gene expression by blocking the process of protein production. MiR-145 is abundant in immature blood cells and controls the expression of hundreds of genes. This microRNA is thought to be involved in normal blood cell development. In particular, miR-145 appears to play a role in the growth and division of blood cells called megakaryocytes, which produce platelets, the cell fragments involved in blood clotting.</p>
+related-health-condition/name: 5q minus syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/5q-minus-syndrome
+synonym(1): hsa-mir-145
+synonym(2): miR-145
+synonym(3): MIRN145
+synonym(4): miRNA145
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 406937
+db-key(2)/db: OMIM
+db-key(2)/key: 611795
+reviewed: 2015-11
+published: 2018-04-17

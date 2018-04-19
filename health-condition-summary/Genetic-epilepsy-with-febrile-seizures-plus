@@ -1,0 +1,64 @@
+name: Genetic epilepsy with febrile seizures plus
+ghr-page: https://ghr.nlm.nih.gov/condition/genetic-epilepsy-with-febrile-seizures-plus
+text/text-role: description
+text/html: <p>Genetic epilepsy with febrile seizures plus (GEFS+) is a spectrum of seizure disorders of varying severity. GEFS+ is usually diagnosed in families whose members have a combination of febrile seizures, which are triggered by a high fever, and recurrent seizures (epilepsy) of other types, including seizures that are not related to fevers (afebrile seizures). The additional seizure types usually involve both sides of the brain (generalized seizures); however, seizures that involve only one side of the brain (partial seizures) occur in some affected individuals. The most common types of seizure in people with GEFS+ include myoclonic seizures, which cause involuntary muscle twitches; atonic seizures, which involve sudden episodes of weak muscle tone; and absence seizures, which cause loss of consciousness for short periods that appear as staring spells.</p><p>The most common and mildest feature of the GEFS+ spectrum is simple febrile seizures, which begin in infancy and usually stop by age 5. When the febrile seizures continue after age 5 or other types of seizure develop, the condition is called febrile seizures plus (FS+). Seizures in FS+ usually end in early adolescence.</p><p>A condition called Dravet syndrome (also known as severe myoclonic epilepsy of infancy or SMEI) is often considered part of the GEFS+ spectrum and is the most severe disorder in this group. Affected infants typically have prolonged seizures lasting several minutes (status epilepticus), which are triggered by fever. Other seizure types, including afebrile seizures, begin in early childhood. These types can include myoclonic or absence seizures. In Dravet syndrome, these seizures are difficult to control with medication, and they can worsen over time. A decline in brain function is also common in Dravet syndrome. Affected individuals usually develop normally in the first year of life, but then development stalls, and some affected children lose already-acquired skills (developmental regression). Many people with Dravet syndrome have difficulty coordinating movements (ataxia) and intellectual disability.</p><p>Some people with GEFS+ have seizure disorders of intermediate severity that may not fit into the classical diagnosis of simple febrile seizures, FS+, or Dravet syndrome.</p><p>Family members with GEFS+ may have different combinations of febrile seizures and epilepsy. For example, one affected family member may have only febrile seizures, while another also has myoclonic epilepsy. While GEFS+ is usually diagnosed in families, it can occur in individuals with no history of the condition in their family.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: GABRD
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GABRD
+related-gene(2)/gene-symbol: GABRG2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GABRG2
+related-gene(3)/gene-symbol: SCN1A
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN1A
+related-gene(4)/gene-symbol: SCN1B
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN1B
+related-gene(5)/gene-symbol: SCN2A
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN2A
+related-gene(6)/gene-symbol: SCN9A
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN9A
+related-gene(7)/gene-symbol: STX1B
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/STX1B
+synonym(1): GEFS+
+synonym(2): generalized epilepsy with febrile seizures plus
+db-key(1)/db: GTR
+db-key(1)/key: C1858672
+db-key(2)/db: GTR
+db-key(2)/key: C1858673
+db-key(3)/db: GTR
+db-key(3)/key: C1858674
+db-key(4)/db: GTR
+db-key(4)/key: C2751777
+db-key(5)/db: GTR
+db-key(5)/key: C3150401
+db-key(6)/db: GTR
+db-key(6)/key: C3502809
+db-key(7)/db: GTR
+db-key(7)/key: C4015395
+db-key(8)/db: GTR
+db-key(8)/key: CN120574
+db-key(9)/db: GeneReviews
+db-key(9)/key: gefs
+db-key(10)/db: MeSH
+db-key(10)/key: D003294
+db-key(11)/db: MeSH
+db-key(11)/key: D004827
+db-key(12)/db: OMIM
+db-key(12)/key: 604233
+db-key(13)/db: OMIM
+db-key(13)/key: 604403
+db-key(14)/db: OMIM
+db-key(14)/key: 611277
+db-key(15)/db: OMIM
+db-key(15)/key: 613060
+db-key(16)/db: OMIM
+db-key(16)/key: 613863
+db-key(17)/db: OMIM
+db-key(17)/key: 616172
+db-key(18)/db: Orphanet
+db-key(18)/key: 33069
+db-key(19)/db: Orphanet
+db-key(19)/key: 36387
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 699688008
+reviewed: 2017-07
+published: 2018-04-17

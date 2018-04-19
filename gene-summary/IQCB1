@@ -1,0 +1,10 @@
+gene-symbol: IQCB1
+name: IQ motif containing B1
+ghr-page: https://ghr.nlm.nih.gov/gene/IQCB1
+related-health-condition(1)/name: Leber congenital amaurosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/leber-congenital-amaurosis
+related-health-condition(2)/name: Senior-Løken syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/senior-loken-syndrome
+db-key/db: NCBI Gene
+db-key/key: 9657
+published: 2018-04-17

@@ -1,0 +1,26 @@
+gene-symbol: FZD4
+name: frizzled class receptor 4
+ghr-page: https://ghr.nlm.nih.gov/gene/FZD4
+text/text-role: function
+text/html: <p>The <i>FZD4</i> gene provides instructions for making a protein called frizzled-4. This protein is embedded in the outer membrane of many types of cells, where it is involved in transmitting chemical signals from outside the cell to the cell's nucleus. Specifically, frizzled-4 participates in the Wnt signaling pathway, a series of steps that affect the way cells and tissues develop.  Wnt signaling is important for cell division (proliferation), attachment of cells to one another (adhesion), cell movement (migration), and many other cellular activities.</p><p>Studies suggest that, at the cell surface, the frizzled-4 protein interacts with a protein called norrin (produced from the <i>NDP</i> gene).  The two proteins fit together like a key in a lock. Researchers suspect that when norrin attaches (binds) to frizzled-4, it initiates a multi-step process that regulates the activity of certain genes.  During early development, signaling by norrin and frizzled-4 plays a critical role in the specialization of cells in the retina, which is the light-sensing tissue at the back of the eye.  This signaling pathway is also involved in the establishment of a blood supply to the retina and the inner ear.</p>
+related-health-condition/name: familial exudative vitreoretinopathy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-exudative-vitreoretinopathy
+synonym(1): CD344
+synonym(2): EVR1
+synonym(3): FEVR
+synonym(4): frizzled 4
+synonym(5): frizzled family receptor 4
+synonym(6): frizzled homolog 4 (Drosophila)
+synonym(7): Fz-4
+synonym(8): FZD4_HUMAN
+synonym(9): FZD4S
+synonym(10): FzE4
+synonym(11): GPCR
+synonym(12): MGC34390
+synonym(13): WNT receptor frizzled-4
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8322
+db-key(2)/db: OMIM
+db-key(2)/key: 604579
+reviewed: 2009-02
+published: 2018-04-17

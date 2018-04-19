@@ -1,0 +1,20 @@
+gene-symbol: ELP1
+name: elongator complex protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ELP1
+text/text-role: function
+text/html: <p>The <i>ELP1</i> gene provides instructions for making a protein called elongator complex protein 1 (ELP1). This protein is found in a variety of cells throughout the body, including brain cells. It is part of a six-protein complex called the elongator complex. The elongator complex plays a key role in transcription, the process that transfers information in genes to the cell machinery that makes proteins. Researchers believe that the elongator complex is important for the transcription of proteins that affect the cell's structural framework (the cytoskeleton) and cell movement (motility). The cytoskeleton and cell motility are essential for the growth and development of cells. For example, the cytoskeleton plays a critical role in the growth of nerve cells, particularly the specialized extensions called axons and dendrites that are required for the transmission of nerve impulses. Cell motility is crucial for the movement of nerve cells to their proper locations in the brain.</p>
+related-health-condition/name: familial dysautonomia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dysautonomia
+synonym(1): DYS
+synonym(2): ELP1_HUMAN
+synonym(3): IKAP
+synonym(4): IKBKAP
+synonym(5): IKI3
+synonym(6): inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase complex-associated protein
+synonym(7): TOT1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8518
+db-key(2)/db: OMIM
+db-key(2)/key: 603722
+reviewed: 2007-05
+published: 2018-04-17

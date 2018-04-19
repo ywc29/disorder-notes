@@ -1,0 +1,30 @@
+name: Nail-patella syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/nail-patella-syndrome
+text/text-role: description
+text/html: <p>Nail-patella syndrome is characterized by abnormalities of the nails, knees, elbows, and pelvis. The features of nail-patella syndrome vary in severity between affected individuals, even among members of the same family.</p><p>Nail abnormalities are seen in almost all individuals with nail-patella syndrome. The nails may be absent or underdeveloped and discolored, split, ridged, or pitted. The fingernails are more likely to be affected than the toenails, and the thumbnails are usually the most severely affected. In many people with this condition, the areas at the base of the nails (lunulae) are triangular instead of the usual crescent shape.</p><p>Individuals with nail-patella syndrome also commonly have skeletal abnormalities  involving the knees, elbows, and hips. The kneecaps (patellae) are small, irregularly shaped, or absent, and dislocation of the patella is common. Some people with this condition may not be able to fully extend their arms or turn their palms up while keeping their elbows straight. The elbows may also be angled outward (cubitus valgus) or have abnormal webbing. Many individuals with nail-patella syndrome have horn-like outgrowths of the iliac bones of the pelvis (iliac horns). These abnormal projections may be felt through the skin, but they do not cause any symptoms and are usually detected on a pelvic x-ray. Iliac horns are very common in people with nail-patella syndrome and are rarely, if ever, seen in people without this condition.</p><p>Other areas of the body may also be affected in nail-patella syndrome, particularly the eyes and kidneys. Individuals with this condition are at risk of developing increased pressure within the eyes (glaucoma) at an early age. Some people develop kidney disease, which can progress to kidney failure.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: LMX1B
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LMX1B
+synonym(1): Fong disease
+synonym(2): hereditary onycho-osteodysplasia
+synonym(3): hereditary osteo-onychodysplasia
+synonym(4): Osterreicher syndrome
+synonym(5): pelvic horn syndrome
+synonym(6): Turner-Kieser syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0027341
+db-key(2)/db: GeneReviews
+db-key(2)/key: nail-ps
+db-key(3)/db: MeSH
+db-key(3)/key: D009261
+db-key(4)/db: OMIM
+db-key(4)/key: 137750
+db-key(5)/db: OMIM
+db-key(5)/key: 161200
+db-key(6)/db: Orphanet
+db-key(6)/key: 2614
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 22199006
+reviewed: 2013-04
+published: 2018-04-17

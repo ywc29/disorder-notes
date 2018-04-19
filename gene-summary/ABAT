@@ -1,0 +1,23 @@
+gene-symbol: ABAT
+name: 4-aminobutyrate aminotransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/ABAT
+text/text-role: function
+text/html: <p>The <i>ABAT</i> gene provides instructions for making the GABA-transaminase enzyme. This enzyme helps break down a brain chemical (neurotransmitter) called GABA when it is not needed. GABA normally helps slow down (inhibit) brain cell activity when necessary, to prevent the brain from being overloaded with too many signals. For this reason GABA is called an inhibitory neurotransmitter.</p>
+related-health-condition/name: GABA-transaminase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/gaba-transaminase-deficiency
+synonym(1): (S)-3-amino-2-methylpropionate transaminase
+synonym(2): 4-aminobutyrate aminotransferase, mitochondrial precursor
+synonym(3): 4-aminobutyrate transaminase
+synonym(4): GABA aminotransferase
+synonym(5): GABA-AT
+synonym(6): GABA transaminase
+synonym(7): GABA transferase
+synonym(8): GABAT
+synonym(9): gamma-amino-N-butyrate transaminase
+synonym(10): NPD009
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 18
+db-key(2)/db: OMIM
+db-key(2)/key: 137150
+reviewed: 2018-04
+published: 2018-04-17

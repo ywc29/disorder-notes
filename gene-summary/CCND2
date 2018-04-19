@@ -1,0 +1,16 @@
+gene-symbol: CCND2
+name: cyclin D2
+ghr-page: https://ghr.nlm.nih.gov/gene/CCND2
+text/text-role: function
+text/html: <p>The <i>CCND2</i> gene provides instructions for making a protein called cyclin D2. Cyclins are a family of proteins that control how cells proceed through the multi-step cycle of cell division. Cyclin D2 helps to regulate a step in the cycle called the G1-S transition, in which the cell moves from the G1 phase, when cell growth occurs, to the S phase, when the cell's DNA is copied (replicated) in preparation for cell division. Cyclin D2's role in the cell division cycle makes it a key controller of the rate of cell growth and division (proliferation) in the body.</p><p>The cyclin D2 protein is regulated by a chemical signaling pathway called the PI3K-AKT-mTOR pathway. This signaling influences many critical cell functions, including the creation (synthesis) of new proteins, cell proliferation, and the survival of cells. The PI3K-AKT-mTOR pathway is essential for the normal development of many parts of the body, including the brain.</p>
+related-health-condition/name: megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/megalencephaly-polymicrogyria-polydactyly-hydrocephalus-syndrome
+synonym(1): G1/S-specific cyclin-D2
+synonym(2): KIAK0002
+synonym(3): MPPH3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 894
+db-key(2)/db: OMIM
+db-key(2)/key: 123833
+reviewed: 2017-01
+published: 2018-04-17

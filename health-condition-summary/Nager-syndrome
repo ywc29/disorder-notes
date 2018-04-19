@@ -1,0 +1,29 @@
+name: Nager syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/nager-syndrome
+text/text-role: description
+text/html: <p>Nager syndrome is a rare condition that mainly affects the development of the face, hands, and arms. The severity of this disorder varies among affected individuals.</p><p>Children with Nager syndrome are born with underdeveloped cheek bones (malar hypoplasia) and a very small lower jaw (micrognathia). They often have an opening in the roof of the mouth called a cleft palate. These abnormalities frequently cause feeding problems in infants with Nager syndrome. The airway is usually partially blocked due to the micrognathia, which can lead to life-threatening breathing problems.</p><p>People with Nager syndrome often have eyes that slant downward (downslanting palpebral fissures), no eyelashes, and a notch in the lower eyelids called an eyelid coloboma. Many affected individuals have small or unusually formed ears, and about 60 percent have hearing loss caused by defects in the middle ear (conductive hearing loss). Nager syndrome does not affect a person's intelligence, although speech development may be delayed due to hearing impairment.</p><p>Individuals with Nager syndrome have bone abnormalities in their hands and arms. The most common abnormality is malformed or absent thumbs. Affected individuals may also have fingers that are unusually curved (clinodactyly) or fused together (syndactyly). Their forearms may be shortened due to the partial or complete absence of a bone called the radius. People with Nager syndrome sometimes have difficulty fully extending their elbows. This condition can also cause bone abnormalities in the legs and feet.</p><p>Less commonly, affected individuals have abnormalities of the heart, kidneys, genitalia, and urinary tract.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: SF3B4
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SF3B4
+synonym(1): acrofacial dysostosis 1, Nager type
+synonym(2): AFD1
+synonym(3): NAFD
+synonym(4): Nager acrofacial dysostosis
+synonym(5): Nager acrofacial dysostosis syndrome
+synonym(6): preaxial acrofacial dysostosis
+synonym(7): preaxial mandibulofacial dysostosis
+db-key(1)/db: GTR
+db-key(1)/key: C0265245
+db-key(2)/db: MeSH
+db-key(2)/key: D003394
+db-key(3)/db: OMIM
+db-key(3)/key: 154400
+db-key(4)/db: Orphanet
+db-key(4)/key: 245
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 35520007
+reviewed: 2017-08
+published: 2018-04-17

@@ -1,0 +1,29 @@
+name: Ophthalmo-acromelic syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/ophthalmo-acromelic-syndrome
+text/text-role: description
+text/html: <p>Ophthalmo-acromelic syndrome is a condition that results in malformations of the eyes, hands, and feet. The features of this condition are present from birth. The eyes are often absent or severely underdeveloped (anophthalmia), or they may be abnormally small (microphthalmia). Usually both eyes are similarly affected in this condition, but if only one eye is small or missing, the other eye may have a defect such as a gap or split in its structures (coloboma).</p><p>The most common hand and foot malformation seen in ophthalmo-acromelic syndrome is missing fingers or toes (oligodactyly). Other frequent malformations include fingers or toes that are fused together (syndactyly) or extra fingers or toes (polydactyly). These skeletal malformations are often described as acromelic, meaning that they occur in the bones that are away from the center of the body. Additional skeletal abnormalities involving the long bones of the arms and legs or the spinal bones (vertebrae) can also occur. Affected individuals may have distinctive facial features, an opening in the lip (cleft lip) with or without an opening in the roof of the mouth (cleft palate), or intellectual disability.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SMOC1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SMOC1
+synonym(1): anophthalmia-syndactyly
+synonym(2): anophthalmia-Waardenburg syndrome
+synonym(3): anophthalmos-limb anomalies syndrome
+synonym(4): anophthalmos with limb anomalies
+synonym(5): microphthalmia with limb anomalies
+synonym(6): OAS
+synonym(7): ophthalmoacromelic syndrome
+synonym(8): syndactyly-anophthalmos syndrome
+synonym(9): Waardenburg anophthalmia syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0599973
+db-key(2)/db: MeSH
+db-key(2)/key: D000853
+db-key(3)/db: OMIM
+db-key(3)/key: 206920
+db-key(4)/db: Orphanet
+db-key(4)/key: 1106
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 703403003
+reviewed: 2014-03
+published: 2018-04-17

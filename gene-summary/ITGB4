@@ -1,0 +1,24 @@
+gene-symbol: ITGB4
+name: integrin subunit beta 4
+ghr-page: https://ghr.nlm.nih.gov/gene/ITGB4
+text/text-role: function
+text/html: <p>The <i>ITGB4</i> gene provides instructions for making one part (the β4 subunit) of a protein known as an integrin. Integrins are a group of proteins that regulate the attachment of cells to one another (cell-cell adhesion) and to the surrounding network of proteins and other molecules (cell-matrix adhesion). Integrins also transmit chemical signals that regulate cell growth and the activity of certain genes.</p><p>The integrin protein made with the β4 subunit is known as α6β4 integrin. This protein is found primarily in epithelial cells, which are cells that line the surfaces and cavities of the body. The α6β4 integrin protein plays a particularly important role in strengthening and stabilizing the skin. It is a component of hemidesmosomes, which are microscopic structures that anchor the outer layer of the skin (the epidermis) to underlying layers. As part of a complex network of proteins in hemidesmosomes, α6β4 integrin helps to hold the layers of skin together.</p>
+related-health-condition/name: epidermolysis bullosa with pyloric atresia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/epidermolysis-bullosa-with-pyloric-atresia
+synonym(1): CD104
+synonym(2): CD104 antigen
+synonym(3): GP150
+synonym(4): integrin beta 4
+synonym(5): integrin beta-4 subunit
+synonym(6): Integrin beta(4)
+synonym(7): Integrin beta4
+synonym(8): integrin, beta-4
+synonym(9): integrin, beta 4
+synonym(10): ITB4_HUMAN
+synonym(11): Lymphocyte antigen CD104
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3691
+db-key(2)/db: OMIM
+db-key(2)/key: 147557
+reviewed: 2009-09
+published: 2018-04-17

@@ -1,0 +1,18 @@
+gene-symbol: CYP7B1
+name: cytochrome P450 family 7 subfamily B member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/CYP7B1
+text/text-role: function
+text/html: <p>The <i>CYP7B1</i> gene is a member of the cytochrome P450 gene family. Enzymes produced from cytochrome P450 genes are involved in the formation and breakdown of various molecules and chemicals within cells. The <i>CYP7B1</i> gene provides instructions for making an enzyme called oxysterol 7-alpha-hydroxylase. This enzyme is produced primarily in the liver and the brain. In the liver, oxysterol 7-alpha-hydroxylase is involved in the pathway that breaks down a waxy, fat-like substance called cholesterol to form a bile acid called chenodeoxycholic acid. Bile acids are a component of a digestive fluid called bile that digests fats.</p><p>In the brain, oxysterol 7-alpha-hydroxylase is also involved in a pathway that converts cholesterol to hormones called neurosteroids. Neurosteroids increase nerve cell activity (excitability) and promote cell survival and communication between nerve cells. The enzyme primarily converts the neurosteroid dehydroepiandrosterone (DHEA) into 7-hydroxy-DHEA. Oxysterol 7-alpha-hydroxylase helps maintain normal cholesterol levels in the brain and, by producing neurosteroids through altering existing hormones within the pathway, regulates the effects of neurosteroids on the brain.</p>
+related-health-condition/name: spastic paraplegia type 5A
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/spastic-paraplegia-type-5a
+synonym(1): CBAS3
+synonym(2): CP7B
+synonym(3): cytochrome P450 7B1
+synonym(4): cytochrome P450, subfamily VIIB (oxysterol 7 alpha-hydroxylase), polypeptide 1
+synonym(5): oxysterol 7-alpha-hydroxylase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9420
+db-key(2)/db: OMIM
+db-key(2)/key: 603711
+reviewed: 2017-09
+published: 2018-04-17

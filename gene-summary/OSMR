@@ -1,0 +1,21 @@
+gene-symbol: OSMR
+name: oncostatin M receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/OSMR
+text/text-role: function
+text/html: <p>The <i>OSMR</i> gene provides instructions for making a protein called oncostatin M receptor beta subunit (OSMRβ). This protein is one piece (subunit) of both the oncostatin M (OSM) receptor type II and the interleukin-31 (IL-31) receptor. These receptors are embedded in the cell membrane of many types of cells throughout the body. Each attaches to a particular protein, fitting together like a lock and its key. This attachment triggers a series of chemical signals inside the cell that directs certain cell functions.</p><p>OSM receptor type II interacts with a protein called oncostatin M (OSM). Signaling triggered by OSM was first recognized to block the growth of cancerous cells and appears to play a role in many other body processes, including the development of blood cells, the maturation of cells to become certain cell types, and an immune system response called inflammation. The signaling may also block the self-destruction (apoptosis) of cells.</p><p>The IL-31 receptor interacts with a protein called IL-31. Signaling triggered by IL-31 is involved in inflammation and stimulating itching (pruritus), although its role is not completely understood.</p>
+related-health-condition/name: primary localized cutaneous amyloidosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/primary-localized-cutaneous-amyloidosis
+synonym(1): IL-31 receptor subunit beta
+synonym(2): IL-31R-beta
+synonym(3): IL-31R subunit beta
+synonym(4): IL-31RB
+synonym(5): interleukin-31 receptor subunit beta
+synonym(6): oncostatin-M specific receptor beta subunit
+synonym(7): OSMRB
+synonym(8): PLCA1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9180
+db-key(2)/db: OMIM
+db-key(2)/key: 601743
+reviewed: 2017-03
+published: 2018-04-17

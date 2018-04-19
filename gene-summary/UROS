@@ -1,0 +1,24 @@
+gene-symbol: UROS
+name: uroporphyrinogen III synthase
+ghr-page: https://ghr.nlm.nih.gov/gene/UROS
+text/text-role: function
+text/html: <p>The <i>UROS</i> gene provides instructions for making an enzyme known as uroporphyrinogen III synthase. This enzyme is involved in the production of a molecule called heme. Heme is vital for all of the body's organs, although it is most abundant in the blood, bone marrow, and liver. Heme is an essential component of iron-containing proteins called hemoproteins, including hemoglobin (the protein that carries oxygen in the blood).</p><p>The production of heme is a multi-step process that requires eight different enzymes. Uroporphyrinogen III synthase is responsible for the fourth step in this process, in which hydroxymethylbilane (the product of the third step) is rearranged to form uroporphyrinogen III. In subsequent steps, four other enzymes produce and modify compounds that ultimately lead to heme.</p>
+related-health-condition/name: porphyria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/porphyria
+synonym(1): Cosynthase
+synonym(2): HEM4_HUMAN
+synonym(3): Hydroxymethylbilane hydro-lyase (cyclizing)
+synonym(4): UROIIIS
+synonym(5): Uroporphyrinogen co-synthetase
+synonym(6): Uroporphyrinogen-III cosynthase
+synonym(7): Uroporphyrinogen III Cosynthetase
+synonym(8): Uroporphyrinogen-III Synthase
+synonym(9): uroporphyrinogen III synthase (congenital erythropoietic porphyria)
+synonym(10): Uroporphyrinogen III Synthetase
+synonym(11): Uroporphyrinogen Isomerase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7390
+db-key(2)/db: OMIM
+db-key(2)/key: 606938
+reviewed: 2009-07
+published: 2018-04-17

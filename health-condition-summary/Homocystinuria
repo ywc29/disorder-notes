@@ -1,0 +1,62 @@
+name: Homocystinuria
+ghr-page: https://ghr.nlm.nih.gov/condition/homocystinuria
+text/text-role: description
+text/html: <p>Homocystinuria is an inherited disorder in which the body is unable to process certain building blocks of proteins (amino acids) properly. There are multiple forms of homocystinuria, which are distinguished by their signs and symptoms and genetic cause. The most common form of homocystinuria is characterized by nearsightedness (myopia), dislocation of the lens at the front of the eye, an increased risk of abnormal blood clotting, and brittle bones that are prone to fracture (osteoporosis) or other skeletal abnormalities. Some affected individuals also have developmental delay and learning problems.</p><p>Less common forms of homocystinuria can cause intellectual disability, failure to grow and gain weight at the expected rate (failure to thrive), seizures, problems with movement, and a blood disorder called megaloblastic anemia. Megaloblastic anemia occurs when a person has a low number of red blood cells (anemia), and the remaining red blood cells are larger than normal (megaloblastic).</p><p>The signs and symptoms of homocystinuria typically develop within the first year of life, although some mildly affected people may not develop features until later in childhood or adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: CBS
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CBS
+related-gene(2)/gene-symbol: MMADHC
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MMADHC
+related-gene(3)/gene-symbol: MTHFR
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/MTHFR
+related-gene(4)/gene-symbol: MTR
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/MTR
+related-gene(5)/gene-symbol: MTRR
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/MTRR
+synonym(1): cystathionine beta synthase deficiency
+synonym(2): homocysteinemia
+db-key(1)/db: GTR
+db-key(1)/key: C0019880
+db-key(2)/db: GTR
+db-key(2)/key: C1848553
+db-key(3)/db: GTR
+db-key(3)/key: C1856058
+db-key(4)/db: GTR
+db-key(4)/key: C3150344
+db-key(5)/db: GeneReviews
+db-key(5)/key: cbl
+db-key(6)/db: GeneReviews
+db-key(6)/key: homocystinuria
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: E72.11
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: E72.12
+db-key(9)/db: MeSH
+db-key(9)/key: D006712
+db-key(10)/db: OMIM
+db-key(10)/key: 236200
+db-key(11)/db: OMIM
+db-key(11)/key: 236250
+db-key(12)/db: OMIM
+db-key(12)/key: 236270
+db-key(13)/db: OMIM
+db-key(13)/key: 250940
+db-key(14)/db: OMIM
+db-key(14)/key: 277410
+db-key(15)/db: Orphanet
+db-key(15)/key: 394
+db-key(16)/db: Orphanet
+db-key(16)/key: 395
+db-key(17)/db: Orphanet
+db-key(17)/key: 622
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 11282001
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 24308003
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 28093001
+db-key(21)/db: SNOMED CT
+db-key(21)/key: 360373000
+reviewed: 2016-03
+published: 2018-04-17

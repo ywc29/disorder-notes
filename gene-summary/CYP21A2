@@ -1,0 +1,27 @@
+gene-symbol: CYP21A2
+name: cytochrome P450 family 21 subfamily A member 2
+ghr-page: https://ghr.nlm.nih.gov/gene/CYP21A2
+text/text-role: function
+text/html: <p>The <i>CYP21A2</i> gene provides instructions for making an enzyme called 21-hydroxylase, which is part of the cytochrome P450 family of enzymes. Cytochrome P450 enzymes are involved in many processes in the body, such as assisting with reactions that break down drugs and helping to produce cholesterol, certain hormones, and fats (lipids).</p><p>The 21-hydroxylase enzyme is found in the adrenal glands, which are located on top of the kidneys and produce a variety of hormones that regulate many essential functions in the body.  21-hydroxylase plays a role in producing hormones called cortisol and aldosterone.  Cortisol helps maintain blood sugar levels, protects the body from stress, and suppresses inflammation. Aldosterone is sometimes called the salt-retaining hormone because it regulates the amount of salt retained by the kidneys. The retention of salt affects fluid levels in the body and blood pressure.</p>
+related-health-condition/name: 21-hydroxylase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/21-hydroxylase-deficiency
+synonym(1): CA21H
+synonym(2): CAH1
+synonym(3): CP21A_HUMAN
+synonym(4): CPS1
+synonym(5): CYP21
+synonym(6): CYP21B
+synonym(7): Cytochrome P450 Family 21 Subfamily A Polypeptide 2
+synonym(8): Cytochrome P450 XXI
+synonym(9): cytochrome P450, family 21, subfamily A, polypeptide 2
+synonym(10): cytochrome P450, subfamily XXIA (steroid 21-hydroxylase, congenital adrenal hyperplasia), polypeptide 2
+synonym(11): Cytosteroid 21-Monooxygenase
+synonym(12): P450c21B
+synonym(13): steroid 21-hydroxylase
+synonym(14): steroid 21-monooxygenase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1589
+db-key(2)/db: OMIM
+db-key(2)/key: 201910
+reviewed: 2010-02
+published: 2018-04-17

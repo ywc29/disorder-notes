@@ -1,0 +1,19 @@
+name: Myosin storage myopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/myosin-storage-myopathy
+text/text-role: description
+text/html: <p>Myosin storage myopathy is a condition that causes muscle weakness (myopathy) that does not worsen or worsens very slowly over time. This condition is characterized by the formation of protein clumps, which contain a protein called myosin, within certain muscle fibers. The signs and symptoms of myosin storage myopathy usually become noticeable in childhood, although they can occur later. Because of muscle weakness, affected individuals may start walking later than usual and have a waddling gait, trouble climbing stairs, and difficulty lifting the arms above shoulder level. Muscle weakness also causes some affected individuals to have trouble breathing.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: MYH7
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MYH7
+synonym: autosomal dominant hyaline body myopathy
+db-key(1)/db: GTR
+db-key(1)/key: C1842160
+db-key(2)/db: MeSH
+db-key(2)/key: D009135
+db-key(3)/db: OMIM
+db-key(3)/key: 608358
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 699267007
+reviewed: 2013-02
+published: 2018-04-17

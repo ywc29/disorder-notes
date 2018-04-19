@@ -1,0 +1,66 @@
+name: Isolated growth hormone deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/isolated-growth-hormone-deficiency
+text/text-role: description
+text/html: <p>Isolated growth hormone deficiency is a condition caused by a severe shortage or absence of growth hormone. Growth hormone is a protein that is necessary for the normal growth of the body's bones and tissues. Because they do not have enough of this hormone, people with isolated growth hormone deficiency commonly experience a failure to grow at the expected rate and have unusually short stature. This condition is usually apparent by early childhood.</p><p>There are four types of isolated growth hormone deficiency differentiated by the severity of the condition, the gene involved, and the inheritance pattern.</p><p>Isolated growth hormone deficiency type IA is caused by an absence of growth hormone and is the most severe of all the types. In people with type IA, growth failure is evident in infancy as affected babies are shorter than normal at birth.</p><p>People with isolated growth hormone deficiency type IB produce very low levels of growth hormone. As a result, type IB is characterized by short stature, but this growth failure is typically not as severe as in type IA. Growth failure in people with type IB is usually apparent in early to mid-childhood.</p><p>Individuals with isolated growth hormone deficiency type II have very low levels of growth hormone and short stature that varies in severity. Growth failure in these individuals is usually evident in early to mid-childhood. It is estimated that nearly half of the individuals with type II have underdevelopment of the pituitary gland (pituitary hypoplasia). The pituitary gland is located at the base of the brain and produces many hormones, including growth hormone.</p><p>Isolated growth hormone deficiency type III is similar to type II in that affected individuals have very low levels of growth hormone and short stature that varies in severity. Growth failure in type III is usually evident in early to mid-childhood. People with type III may also have a weakened immune system and are prone to frequent infections. They produce very few B cells, which are specialized white blood cells that help protect the body against infection (agammaglobulinemia).</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xr
+inheritance-pattern(3)/memo: X-linked recessive
+related-gene(1)/gene-symbol: BTK
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BTK
+related-gene(2)/gene-symbol: GH1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GH1
+related-gene(3)/gene-symbol: GHRHR
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/GHRHR
+synonym(1): dwarfism, growth hormone deficiency
+synonym(2): dwarfism, pituitary
+synonym(3): growth hormone deficiency dwarfism
+synonym(4): isolated GH deficiency
+synonym(5): isolated HGH deficiency
+synonym(6): isolated human growth hormone deficiency
+synonym(7): isolated somatotropin deficiency
+synonym(8): isolated somatotropin deficiency disorder
+db-key(1)/db: GTR
+db-key(1)/key: C0271567
+db-key(2)/db: GTR
+db-key(2)/key: C0342573
+db-key(3)/db: GTR
+db-key(3)/key: C0472813
+db-key(4)/db: GTR
+db-key(4)/key: C2748571
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: D80.0
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: E23.0
+db-key(7)/db: MeSH
+db-key(7)/key: D004393
+db-key(8)/db: OMIM
+db-key(8)/key: 173100
+db-key(9)/db: OMIM
+db-key(9)/key: 262400
+db-key(10)/db: OMIM
+db-key(10)/key: 307200
+db-key(11)/db: OMIM
+db-key(11)/key: 612781
+db-key(12)/db: Orphanet
+db-key(12)/key: 231662
+db-key(13)/db: Orphanet
+db-key(13)/key: 231671
+db-key(14)/db: Orphanet
+db-key(14)/key: 231679
+db-key(15)/db: Orphanet
+db-key(15)/key: 231692
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 18200000
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 2109003
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 234533006
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 237687003
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 7990002
+reviewed: 2012-02
+published: 2018-04-17

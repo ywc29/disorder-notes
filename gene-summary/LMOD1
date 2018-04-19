@@ -1,0 +1,10 @@
+gene-symbol: LMOD1
+name: leiomodin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/LMOD1
+related-health-condition(1)/name: intestinal pseudo-obstruction
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/intestinal-pseudo-obstruction
+related-health-condition(2)/name: megacystis-microcolon-intestinal hypoperistalsis syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/megacystis-microcolon-intestinal-hypoperistalsis-syndrome
+db-key/db: NCBI Gene
+db-key/key: 25802
+published: 2018-04-17

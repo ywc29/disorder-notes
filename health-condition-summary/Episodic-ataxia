@@ -1,0 +1,57 @@
+name: Episodic ataxia
+ghr-page: https://ghr.nlm.nih.gov/condition/episodic-ataxia
+text/text-role: description
+text/html: <p>Episodic ataxia is a group of related conditions that affect the nervous system and cause problems with movement.  People with episodic ataxia have recurrent episodes of poor coordination and balance (ataxia).  During these episodes, many people also experience dizziness (vertigo), nausea and vomiting, migraine headaches, blurred or double vision, slurred speech, and ringing in the ears (tinnitus).  Seizures, muscle weakness, and paralysis affecting one side of the body (hemiplegia) may also occur during attacks.  Additionally, some affected individuals have a muscle abnormality called myokymia during or between episodes.  This abnormality can cause muscle cramping, stiffness, and continuous, fine muscle twitching that appears as rippling under the skin.</p><p>Episodes of ataxia and other symptoms can begin anytime from early childhood to adulthood.  They can be triggered by environmental factors such as emotional stress, caffeine, alcohol, certain medications, physical activity, and illness.  The frequency of attacks ranges from several per day to one or two per year.  Between episodes, some affected individuals continue to experience ataxia, which may worsen over time, as well as involuntary eye movements called nystagmus.</p><p>Researchers have identified at least seven types of episodic ataxia, designated type 1 through type 7.  The types are distinguished by their pattern of signs and symptoms, age of onset, length of attacks,  and, when known, genetic cause.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CACNA1A
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CACNA1A
+related-gene(2)/gene-symbol: CACNB4
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CACNB4
+related-gene(3)/gene-symbol: KCNA1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNA1
+related-gene(4)/gene-symbol: SLC1A3
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC1A3
+synonym: EA
+db-key(1)/db: GTR
+db-key(1)/key: C1719788
+db-key(2)/db: GTR
+db-key(2)/key: C1720416
+db-key(3)/db: GTR
+db-key(3)/key: C1847839
+db-key(4)/db: GTR
+db-key(4)/key: C1847843
+db-key(5)/db: GTR
+db-key(5)/key: C2677843
+db-key(6)/db: GeneReviews
+db-key(6)/key: ea1
+db-key(7)/db: GeneReviews
+db-key(7)/key: ea2
+db-key(8)/db: MeSH
+db-key(8)/key: D001259
+db-key(9)/db: OMIM
+db-key(9)/key: 108500
+db-key(10)/db: OMIM
+db-key(10)/key: 160120
+db-key(11)/db: OMIM
+db-key(11)/key: 600111
+db-key(12)/db: OMIM
+db-key(12)/key: 601949
+db-key(13)/db: OMIM
+db-key(13)/key: 606552
+db-key(14)/db: OMIM
+db-key(14)/key: 606554
+db-key(15)/db: OMIM
+db-key(15)/key: 611907
+db-key(16)/db: Orphanet
+db-key(16)/key: 79135
+db-key(17)/db: Orphanet
+db-key(17)/key: 79136
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 420932006
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 421182009
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 421455009
+reviewed: 2008-08
+published: 2018-04-17

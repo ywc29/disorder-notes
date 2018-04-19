@@ -1,0 +1,21 @@
+gene-symbol: FOXC2
+name: forkhead box C2
+ghr-page: https://ghr.nlm.nih.gov/gene/FOXC2
+text/text-role: function
+text/html: <p>The <i>FOXC2</i> gene provides instructions for making a protein that plays a critical role in the formation of many organs and tissues before birth. This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of many other genes. Researchers believe that the FOXC2 protein has a role in a variety of developmental processes, such as the formation of veins and the development of the lungs, eyes, kidneys and urinary tract, cardiovascular system, and the transport system for immune cells (lymphatic vessels).</p>
+related-health-condition/name: lymphedema-distichiasis syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/lymphedema-distichiasis-syndrome
+synonym(1): FKHL14
+synonym(2): forkhead (Drosophila)-like 14
+synonym(3): forkhead, Drosophila, homolog-like 14
+synonym(4): FOXC2_HUMAN
+synonym(5): LD
+synonym(6): MFH-1
+synonym(7): MFH-1,mesenchyme forkhead 1
+synonym(8): MFH1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2303
+db-key(2)/db: OMIM
+db-key(2)/key: 602402
+reviewed: 2008-02
+published: 2018-04-17

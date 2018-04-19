@@ -1,0 +1,28 @@
+name: Succinyl-CoA:3-ketoacid CoA transferase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/succinyl-coa3-ketoacid-coa-transferase-deficiency
+text/text-role: description
+text/html: <p>Succinyl-CoA:3-ketoacid CoA transferase (SCOT) deficiency is an inherited disorder that impairs the body's ability to break down ketones, which are molecules produced in the liver during the breakdown of fats.</p><p>The signs and symptoms of SCOT deficiency typically appear within the first few years of life. Affected individuals experience episodes of extreme tiredness (lethargy), appetite loss, vomiting, rapid breathing, and, occasionally, seizures. These episodes, which are called ketoacidotic attacks, sometimes lead to coma. About half of affected individuals have a ketoacidotic attack within the first 4 days of life. Affected individuals have no symptoms of the disorder between ketoacidotic attacks.</p><p>People with SCOT deficiency usually have a permanently elevated level of ketones in their blood (persistent ketosis). If the level of ketones gets too high, which can be brought on by infections, fevers, or periods without food (fasting), a ketoacidotic attack can occur. The frequency of ketoacidotic attacks varies among affected individuals.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: OXCT1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/OXCT1
+synonym(1): 3-oxoacid CoA transferase deficiency
+synonym(2): ketoacidosis due to SCOT deficiency
+synonym(3): SCOT deficiency
+synonym(4): succinyl-CoA 3-oxoacid transferase deficiency
+synonym(5): succinyl-CoA:3-oxoacid CoA transferase deficiency
+synonym(6): succinyl-CoA:acetoacetate transferase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0342792
+db-key(2)/db: MeSH
+db-key(2)/key: D007662
+db-key(3)/db: OMIM
+db-key(3)/key: 245050
+db-key(4)/db: Orphanet
+db-key(4)/key: 832
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 124366000
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 238004006
+reviewed: 2011-12
+published: 2018-04-17

@@ -1,0 +1,31 @@
+gene-symbol: COL1A1
+name: collagen type I alpha 1 chain
+ghr-page: https://ghr.nlm.nih.gov/gene/COL1A1
+text/text-role: function
+text/html: <p>The <i>COL1A1</i> gene provides instructions for making part of a large molecule called type I collagen. Collagens are a family of proteins that strengthen and support many tissues in the body, including cartilage, bone, tendon, skin, and the white part of the eye (the sclera). Type I collagen is the most abundant form of collagen in the human body.</p><p>A component of type I collagen called the pro-α1(I) chain is produced from the <i>COL1A1</i> gene. Collagens begin as rope-like procollagen molecules that are each made up of three chains. Type I collagen is composed of two pro-α1(I) chains and one pro-α2(I) chain (which is produced from the <i>COL1A2</i> gene).</p><p>The triple-stranded procollagen molecules are processed by enzymes outside the cell to create mature collagen. The collagen molecules then arrange themselves into long, thin fibrils that form stable interactions (cross-links) with one another in the spaces between cells. The cross-links result in the formation of very strong type I collagen fibers.</p>
+related-health-condition(1)/name: Caffey disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/caffey-disease
+related-health-condition(2)/name: dermatofibrosarcoma protuberans
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/dermatofibrosarcoma-protuberans
+related-health-condition(3)/name: Ehlers-Danlos syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/ehlers-danlos-syndrome
+related-health-condition(4)/name: intervertebral disc disease
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/intervertebral-disc-disease
+related-health-condition(5)/name: osteogenesis imperfecta
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/osteogenesis-imperfecta
+synonym(1): alpha 1 type I collagen preproprotein
+synonym(2): CO1A1_HUMAN
+synonym(3): COL1A1 protein
+synonym(4): collagen I, alpha-1 polypeptide
+synonym(5): collagen of skin, tendon and bone, alpha-1 chain
+synonym(6): collagen type I alpha 1
+synonym(7): collagen, type I, alpha 1
+synonym(8): type I collagen alpha 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1277
+db-key(2)/db: OMIM
+db-key(2)/key: 120150
+db-key(3)/db: OMIM
+db-key(3)/key: 166710
+reviewed: 2017-11
+published: 2018-04-17

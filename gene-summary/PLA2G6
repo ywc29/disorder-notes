@@ -1,0 +1,29 @@
+gene-symbol: PLA2G6
+name: phospholipase A2 group VI
+ghr-page: https://ghr.nlm.nih.gov/gene/PLA2G6
+text/text-role: function
+text/html: <p>The <i>PLA2G6</i> gene provides instructions for making a type of enzyme called an A2 phospholipase. This type of enzyme is involved in breaking down (metabolizing) fats called phospholipids. Phospholipid metabolism is important for many body processes, including helping to maintain the integrity of the cell membrane. Specifically, the A2 phospholipase produced from the <i>PLA2G6</i> gene, sometimes called PLA2 group VI, helps to regulate the levels of a compound called phosphatidylcholine, which is abundant in the cell membrane.</p>
+related-health-condition/name: infantile neuroaxonal dystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/infantile-neuroaxonal-dystrophy
+synonym(1): CaI-PLA2
+synonym(2): calcium-independent phospholipase A2
+synonym(3): cytosolic, calcium-independent phospholipase A2
+synonym(4): GVI
+synonym(5): INAD1
+synonym(6): iPLA2
+synonym(7): iPLA2beta
+synonym(8): NBIA2
+synonym(9): OTTHUMP00000028877
+synonym(10): PA2G6_HUMAN
+synonym(11): PARK14
+synonym(12): patatin-like phospholipase domain containing 9
+synonym(13): phospholipase A2, group VI
+synonym(14): phospholipase A2, group VI (cytosolic, calcium-independent)
+synonym(15): PLA2
+synonym(16): PNPLA9
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8398
+db-key(2)/db: OMIM
+db-key(2)/key: 603604
+reviewed: 2012-09
+published: 2018-04-17

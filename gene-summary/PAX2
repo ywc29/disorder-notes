@@ -1,0 +1,17 @@
+gene-symbol: PAX2
+name: paired box 2
+ghr-page: https://ghr.nlm.nih.gov/gene/PAX2
+text/text-role: function
+text/html: <p>The <i>PAX2</i> gene belongs to a family of genes that plays a critical role in the formation of tissues and organs during embryonic development. The members of the PAX gene family are also important for maintaining the normal function of certain cells after birth. To carry out these roles, the PAX genes provide instructions for making proteins that attach to specific areas of DNA and help control the activity (expression) of particular genes.  On the basis of this action, PAX proteins are called transcription factors.</p><p>During embryonic development, the <i>PAX2</i> gene provides instructions for producing a protein that is involved in the formation of the eye, ear, brain and spinal cord (central nervous system), kidney, and genital tract.  After birth, the PAX2 protein is thought to protect against cell death during periods of cellular stress.</p>
+related-health-condition/name: renal coloboma syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/renal-coloboma-syndrome
+synonym(1): paired box gene 2
+synonym(2): paired box homeotic gene 2
+synonym(3): paired box protein 2
+synonym(4): PAX2_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5076
+db-key(2)/db: OMIM
+db-key(2)/key: 167409
+reviewed: 2008-07
+published: 2018-04-17

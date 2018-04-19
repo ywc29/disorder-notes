@@ -1,0 +1,16 @@
+gene-symbol: BTD
+name: biotinidase
+ghr-page: https://ghr.nlm.nih.gov/gene/BTD
+text/text-role: function
+text/html: <p>The <i>BTD</i> gene provides instructions for making an enzyme called biotinidase.  This enzyme recycles biotin, a B vitamin found in foods such as liver, egg yolks, and milk.  Biotinidase removes biotin that is bound to proteins in food, leaving the vitamin in its free (unbound) state. The body needs free biotin to activate enzymes called biotin-dependent carboxylases.  These carboxylases are involved in many critical cellular functions, including the breakdown of proteins, fats, and carbohydrates.</p><p>In addition to processing biotin obtained from the diet, biotinidase recycles biotin within the body. As biotin-dependent carboxylases are broken down, they release a molecule called biocytin. Biocytin is a complex made of up biotin and a protein building block (amino acid) called lysine. Biotinidase splits this complex, making free biotin available for reuse by other carboxylase enzymes.</p><p>Researchers suspect that biotinidase may have several additional functions.  This enzyme may transport free biotin through the bloodstream. It might also have the ability to attach biotin to certain proteins through a process called biotinylation. Within the nucleus, biotinylation of DNA-associated proteins called histones may help determine whether certain genes are turned on or off.  It is unclear, however, whether biotinidase plays a role in regulating gene activity.</p>
+related-health-condition(1)/name: biotinidase deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/biotinidase-deficiency
+related-health-condition(2)/name: Leigh syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+synonym: Biocytin Hydrolase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 686
+db-key(2)/db: OMIM
+db-key(2)/key: 609019
+reviewed: 2014-12
+published: 2018-04-17

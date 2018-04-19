@@ -1,0 +1,33 @@
+gene-symbol: SCNN1G
+name: sodium channel epithelial 1 gamma subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/SCNN1G
+text/text-role: function
+text/html: <p>The <i>SCNN1G</i> gene provides instructions for making one piece, the gamma subunit, of a protein complex called the epithelial sodium channel (ENaC). The channel is composed of alpha, beta, and gamma subunits, each of which is produced from a different gene. These channels are found at the surface of certain cells called epithelial cells in many tissues of the body, including the kidneys, lungs, and sweat glands. The ENaC channel transports sodium into cells.</p><p>In the kidney, ENaC channels open in response to signals that sodium levels in the blood are too low, which allows sodium to flow into cells. From the kidney cells, this sodium is returned to the bloodstream (a process called reabsorption) rather than being removed from the body in urine. In addition to regulating the amount of sodium in the body, the flow of sodium ions helps control the movement of water in tissues. For example, ENaC channels in lung cells help regulate the amount of fluid in the lungs.</p>
+related-health-condition(1)/name: Liddle syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/liddle-syndrome
+related-health-condition(2)/name: pseudohypoaldosteronism type 1
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pseudohypoaldosteronism-type-1
+synonym(1): amiloride-sensitive epithelial sodium channel gamma subunit
+synonym(2): amiloride-sensitive sodium channel gamma-subunit
+synonym(3): amiloride-sensitive sodium channel subunit gamma
+synonym(4): BESC3
+synonym(5): ENaC gamma subunit
+synonym(6): ENaCg
+synonym(7): ENaCgamma
+synonym(8): epithelial Na(+) channel subunit gamma
+synonym(9): gamma-ENaC
+synonym(10): gamma-NaCH
+synonym(11): nonvoltage-gated sodium channel 1 subunit gamma
+synonym(12): SCNEG
+synonym(13): SCNNG_HUMAN
+synonym(14): sodium channel, non voltage gated 1 gamma subunit
+synonym(15): sodium channel, non-voltage-gated 1, gamma subunit
+synonym(16): sodium channel, nonvoltage-gated 1, gamma
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6340
+db-key(2)/db: OMIM
+db-key(2)/key: 600761
+db-key(3)/db: OMIM
+db-key(3)/key: 613071
+reviewed: 2013-03
+published: 2018-04-17

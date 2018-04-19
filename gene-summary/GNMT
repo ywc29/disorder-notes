@@ -1,0 +1,19 @@
+gene-symbol: GNMT
+name: glycine N-methyltransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/GNMT
+text/text-role: function
+text/html: <p>The <i>GNMT</i> gene provides instructions for producing the enzyme glycine N-methyltransferase. This enzyme is involved in a multistep process that breaks down the protein building block (amino acid) methionine. Specifically, glycine N-methyltransferase starts a reaction that converts the compounds glycine and S-adenosylmethionine (also called AdoMet) to N-methylglycine and S-adenosylhomocysteine (also called AdoHcy).</p><p>This reaction also helps to control the relative amounts of AdoMet and AdoHcy. The AdoMet to AdoHcy ratio is important in many body processes, including the regulation of other genes by the addition of methyl groups, consisting of one carbon atom and three hydrogen atoms (methylation). Methylation is important in many cellular functions. These include determining whether the instructions in a particular segment of DNA are carried out, regulating reactions involving proteins and lipids, and controlling the processing of chemicals that relay signals in the nervous system (neurotransmitters).</p><p>The glycine N-methyltransferase enzyme is also involved in processing toxic compounds in the liver.</p>
+related-health-condition(1)/name: hypermethioninemia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/hypermethioninemia
+related-health-condition(2)/name: prostate cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+synonym(1): Glycine Methyltransferase
+synonym(2): Glycine Sarcosine Methyltransferase
+synonym(3): Glycine Sarcosine N-Methyltransferase
+synonym(4): GNMT_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 27232
+db-key(2)/db: OMIM
+db-key(2)/key: 606628
+reviewed: 2007-04
+published: 2018-04-17

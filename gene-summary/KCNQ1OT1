@@ -1,0 +1,22 @@
+gene-symbol: KCNQ1OT1
+name: KCNQ1 opposite strand/antisense transcript 1 (non-protein coding)
+ghr-page: https://ghr.nlm.nih.gov/gene/KCNQ1OT1
+text/text-role: function
+text/html: <p>The <i>KCNQ1OT1</i> gene is located within another gene, <i>KCNQ1</i>. Because the two genes share a region of overlapping DNA, the <i>KCNQ1OT1</i> gene is also known as <i>KCNQ1</i> overlapping transcript 1 or <i>KCNQ1</i> opposite strand/antisense transcript 1. The DNA sequence of two genes is "read" in opposite directions, and the genes have very different functions. Unlike the <i>KCNQ1</i> gene, which provides instructions for making a protein that acts as a potassium channel, the <i>KCNQ1OT1</i> gene does not contain instructions for making a protein. Instead, a molecule called a noncoding RNA (a chemical cousin of DNA) is produced from the <i>KCNQ1OT1</i> gene. This RNA helps regulate genes that are essential for normal growth and development before birth.</p><p>People inherit one copy of most genes from their mother and one copy from their father. Both copies are typically active, or "turned on," in cells. However, the activity of the <i>KCNQ1OT1</i> gene depends on which parent it was inherited from. Only the copy inherited from a person's father (the paternally inherited copy) is active; the copy inherited from the mother (the maternally inherited copy) is not active. This sort of parent-specific difference in gene activation is caused by a phenomenon called genomic imprinting.</p><p>The <i>KCNQ1OT1</i> gene is part of a cluster of genes on the short (p) arm of chromosome 11 that undergo genomic imprinting. <i>KCNQ1OT1</i> and several other genes in this cluster that are thought to help regulate growth are controlled by a nearby region of DNA known as imprinting center 2 (IC2) or KvDMR. The IC2 region undergoes a process called methylation, which is a chemical reaction that attaches small molecules called methyl groups to certain segments of DNA. Methylation, which occurs during the formation of an egg or sperm cell, is a way of marking or "stamping" the parent of origin. The IC2 region is normally methylated only on the maternally inherited copy of chromosome 11.</p>
+related-health-condition/name: Beckwith-Wiedemann syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/beckwith-wiedemann-syndrome
+synonym(1): FLJ41078
+synonym(2): KCNQ1-AS2
+synonym(3): KCNQ1 overlapping transcript 1
+synonym(4): KCNQ1 overlapping transcript 1 (non-protein coding)
+synonym(5): KCNQ10T1
+synonym(6): KvDMR1
+synonym(7): KvLQT1-AS
+synonym(8): LIT1
+synonym(9): long QT intronic transcript 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10984
+db-key(2)/db: OMIM
+db-key(2)/key: 604115
+reviewed: 2015-06
+published: 2018-04-17

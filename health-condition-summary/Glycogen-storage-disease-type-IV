@@ -1,0 +1,41 @@
+name: Glycogen storage disease type IV
+ghr-page: https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-iv
+text/text-role: description
+text/html: <p>Glycogen storage disease type IV (GSD IV) is an inherited disorder caused by the buildup of a complex sugar called glycogen in the body's cells. The accumulated glycogen is structurally abnormal and impairs the function of certain organs and tissues, especially the liver and muscles. There are five types of GSD IV, which are distinguished by their severity, signs, and symptoms.</p><p>The fatal perinatal neuromuscular type is the most severe form of GSD IV, with signs developing before birth. Excess fluid may build up around the fetus (polyhydramnios) and in the fetus' body. Affected fetuses have a condition called fetal akinesia deformation sequence, which causes a decrease in fetal movement and can lead to joint stiffness (arthrogryposis) after birth. Infants with the fatal perinatal neuromuscular type of GSD IV have very low muscle tone (severe hypotonia) and muscle wasting (atrophy). These infants usually do not survive past the newborn period due to weakened heart and breathing muscles.</p><p>The congenital muscular type of GSD IV is usually not evident before birth but develops in early infancy. Affected infants have severe hypotonia, which affects the muscles needed for breathing. These babies often have dilated cardiomyopathy, which enlarges and weakens the heart (cardiac) muscle, preventing the heart from pumping blood efficiently. Infants with the congenital muscular type of GSD IV typically survive only a few months.</p><p>The progressive hepatic type is the most common form of GSD IV. Within the first months of life, affected infants have difficulty gaining weight and growing at the expected rate (failure to thrive) and develop an enlarged liver (hepatomegaly). Children with this type develop a form of liver disease called cirrhosis that often is irreversible. High blood pressure in the vein that supplies blood to the liver (portal hypertension) and an abnormal buildup of fluid in the abdominal cavity (ascites) can also occur. By age 1 or 2, affected children develop hypotonia. Children with the progressive hepatic type of GSD IV often die of liver failure in early childhood.</p><p>The non-progressive hepatic type of GSD IV has many of the same features as the progressive hepatic type, but the liver disease is not as severe. In the non-progressive hepatic type, hepatomegaly and liver disease are usually evident in early childhood, but affected individuals typically do not develop cirrhosis. People with this type of the disorder can also have hypotonia and muscle weakness (myopathy). Most individuals with this type survive into adulthood, although life expectancy varies depending on the severity of the signs and symptoms.</p><p>The childhood neuromuscular type of GSD IV develops in late childhood and is characterized by myopathy and dilated cardiomyopathy. The severity of this type of GSD IV varies greatly; some people have only mild muscle weakness while others have severe cardiomyopathy and die in early adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: GBE1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GBE1
+synonym(1): amylopectinosis
+synonym(2): Andersen disease
+synonym(3): Andersen glycogenosis
+synonym(4): Andersen's disease
+synonym(5): brancher deficiency
+synonym(6): branching enzyme deficiency
+synonym(7): glycogen branching enzyme deficiency
+synonym(8): glycogen storage disease IV
+synonym(9): glycogen storage disease type 4
+synonym(10): glycogenosis 4
+synonym(11): glycogenosis, type IV
+synonym(12): GSD IV
+synonym(13): GSD type IV
+synonym(14): GSD4
+synonym(15): type IV glycogenosis
+db-key(1)/db: GTR
+db-key(1)/key: C0017923
+db-key(2)/db: GeneReviews
+db-key(2)/key: gsd4
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E74.09
+db-key(4)/db: MeSH
+db-key(4)/key: D006011
+db-key(5)/db: OMIM
+db-key(5)/key: 232500
+db-key(6)/db: Orphanet
+db-key(6)/key: 367
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 11179002
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 124267007
+reviewed: 2013-02
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: DCX
+name: doublecortin
+ghr-page: https://ghr.nlm.nih.gov/gene/DCX
+text/text-role: function
+text/html: <p>The <i>DCX</i> gene provides instructions for producing a protein called doublecortin. This protein is involved in the movement of nerve cells (neurons) to their proper locations in the developing brain, a process called neuronal migration. Doublecortin attaches (binds) to microtubules, which are rigid, hollow fibers that make up the cell's structural framework (the cytoskeleton). The binding of doublecortin promotes the stability of microtubules. Microtubules help propel neurons by forming scaffolding within the cell that elongates in a specific direction, altering the cytoskeleton and moving the neuron.</p>
+related-health-condition/name: isolated lissencephaly sequence
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/isolated-lissencephaly-sequence
+synonym(1): DBCN
+synonym(2): DC
+synonym(3): DCX_HUMAN
+synonym(4): doublecortex
+synonym(5): doublecortex; lissencephaly, X-linked (doublecortin)
+synonym(6): lissencephalin-X
+synonym(7): LISX
+synonym(8): SCLH
+synonym(9): XLIS
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1641
+db-key(2)/db: OMIM
+db-key(2)/key: 300121
+reviewed: 2013-07
+published: 2018-04-17

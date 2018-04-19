@@ -1,0 +1,49 @@
+name: Myoclonic epilepsy with ragged-red fibers
+ghr-page: https://ghr.nlm.nih.gov/condition/myoclonic-epilepsy-with-ragged-red-fibers
+text/text-role: description
+text/html: <p>Myoclonic epilepsy with ragged-red fibers (MERRF) is a disorder that affects many parts of the body, particularly the muscles and nervous system. In most cases, the signs and symptoms of this disorder appear during childhood or adolescence. The features of MERRF vary widely among affected individuals, even among members of the same family.</p><p>MERRF is characterized by muscle twitches (myoclonus), weakness (myopathy), and progressive stiffness (spasticity). When the muscle cells of affected individuals are stained and viewed under a microscope, these cells usually appear abnormal. These abnormal muscle cells are called ragged-red fibers. Other features of MERRF include recurrent seizures (epilepsy), difficulty coordinating movements (ataxia), a loss of sensation in the extremities (peripheral neuropathy), and slow deterioration of intellectual function (dementia). People with this condition may also develop hearing loss or optic atrophy, which is the degeneration (atrophy) of nerve cells that carry visual information from the eyes to the brain. Affected individuals sometimes have short stature and a form of heart disease known as cardiomyopathy. Less commonly, people with MERRF develop fatty tumors, called lipomas, just under the surface of the skin.</p>
+inheritance-pattern/code: m
+inheritance-pattern/memo: mitochondrial
+related-gene(1)/gene-symbol: MT-TF
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/MT-TF
+related-gene(2)/gene-symbol: MT-TH
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MT-TH
+related-gene(3)/gene-symbol: MT-TK
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/MT-TK
+related-gene(4)/gene-symbol: MT-TL1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/MT-TL1
+related-gene(5)/gene-symbol: MT-TP
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/MT-TP
+related-gene(6)/gene-symbol: MT-TS1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/MT-TS1
+related-gene(7)/gene-symbol: MT-TS2
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/MT-TS2
+related-gene(8)/gene-symbol: MT-TT
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/MT-TT
+related-mitochondrial-dna/name: mitochondrial DNA
+related-mitochondrial-dna/ghr-page: https://ghr.nlm.nih.gov/mitochondrial-dna
+synonym(1): Fukuhara Disease
+synonym(2): MERRF
+synonym(3): MERRF syndrome
+synonym(4): myoclonic epilepsy associated with ragged-red fibers
+synonym(5): myoencephalopathy ragged-red fiber disease
+db-key(1)/db: GTR
+db-key(1)/key: C0162672
+db-key(2)/db: GeneReviews
+db-key(2)/key: merrf
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E88.42
+db-key(4)/db: MeSH
+db-key(4)/key: D017243
+db-key(5)/db: OMIM
+db-key(5)/key: 545000
+db-key(6)/db: Orphanet
+db-key(6)/key: 551
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 230426003
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 57254004
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 68448003
+reviewed: 2014-05
+published: 2018-04-17

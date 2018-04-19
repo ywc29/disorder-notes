@@ -1,0 +1,21 @@
+gene-symbol: SLC12A1
+name: solute carrier family 12 member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC12A1
+text/text-role: function
+text/html: <p>The <i>SLC12A1</i> gene provides instructions for making a protein known as NKCC2. This protein is a Na<sup>+</sup>/K<sup>+</sup>/2Cl<sup>-</sup> cotransporter, which means that it moves charged atoms (ions) of sodium (Na<sup>+</sup>), potassium (K<sup>+</sup>), and chlorine (Cl<sup>-</sup>) into cells.</p><p>The NKCC2 protein is essential for normal kidney function. The NKCC2 protein works with other transport proteins to regulate the movement of ions into and out of kidney cells. Together, these proteins provide the mechanism by which kidneys reabsorb salt (sodium chloride or NaCl) from the urine back into the bloodstream. The retention of salt affects the body's fluid levels and helps maintain blood pressure.</p>
+related-health-condition/name: Bartter syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/bartter-syndrome
+synonym(1): BSC1
+synonym(2): bumetanide-sensitive sodium-(potassium)-chloride cotransporter 2
+synonym(3): kidney-specific Na-K-Cl symporter
+synonym(4): Na-K-2Cl cotransporter
+synonym(5): NKCC2
+synonym(6): S12A1_HUMAN
+synonym(7): solute carrier family 12 (sodium/potassium/chloride transporter), member 1
+synonym(8): solute carrier family 12 (sodium/potassium/chloride transporters), member 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6557
+db-key(2)/db: OMIM
+db-key(2)/key: 600839
+reviewed: 2011-02
+published: 2018-04-17

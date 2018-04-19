@@ -1,0 +1,17 @@
+gene-symbol: DPYS
+name: dihydropyrimidinase
+ghr-page: https://ghr.nlm.nih.gov/gene/DPYS
+text/text-role: function
+text/html: <p>The <i>DPYS</i> gene provides instructions for making an enzyme called dihydropyrimidinase. This enzyme is involved in the breakdown of molecules called pyrimidines, which are building blocks of DNA and its chemical cousin RNA. The dihydropyrimidinase enzyme is involved in the second step of the three-step process that breaks down pyrimidines. This step opens the ring-like structures of molecules called 5,6-dihydrothymine and 5,6-dihydrouracil. Further breakdown of these molecules leads to the production of other molecules called beta-aminoisobutyric acid and beta-alanine, which are thought to play roles in the nervous system. Beta-aminoisobutyric acid increases the production and release (secretion) of a protein called leptin, which has been found to help protect brain cells from damage caused by toxins, inflammation, and other factors. Beta-alanine is thought to be involved in sending signals between nerve cells (synaptic transmission) and in controlling the level of a chemical messenger (neurotransmitter) called dopamine.</p><p>The dihydropyrimidinase enzyme also helps break down certain drugs called fluoropyrimidines that are used to treat cancer. Common examples of these drugs are 5-fluorouracil and capecitabine.</p>
+related-health-condition/name: dihydropyrimidinase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/dihydropyrimidinase-deficiency
+synonym(1): DHP
+synonym(2): DHPase
+synonym(3): dihydropyrimidine amidohydrolase
+synonym(4): hydantoinase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1807
+db-key(2)/db: OMIM
+db-key(2)/key: 613326
+reviewed: 2014-09
+published: 2018-04-17

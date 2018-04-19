@@ -1,0 +1,63 @@
+name: Robinow syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/robinow-syndrome
+text/text-role: description
+text/html: <p>Robinow syndrome is a rare disorder that affects the development of many parts of the body, particularly the skeleton. The types of Robinow syndrome can be distinguished by the severity of their signs and symptoms and by their pattern of inheritance: autosomal recessive or autosomal dominant.</p><p>Autosomal recessive Robinow syndrome is characterized by skeletal abnormalities including shortening of the long bones in the arms and legs, particularly the forearms; abnormally short fingers and toes (brachydactyly); wedge-shaped spinal bones (hemivertebrae) leading to an abnormal curvature of the spine (kyphoscoliosis); fused or missing ribs; and short stature. Affected individuals also have distinctive facial features, such as a broad forehead, prominent and widely spaced eyes, a short nose with an upturned tip, a wide nasal bridge, and a broad and triangle-shaped mouth. Together, these facial features are sometimes described as "fetal facies" because they resemble the facial structure of a developing fetus. Other common features of autosomal recessive Robinow syndrome include underdeveloped genitalia in both males and females, and dental problems such as crowded teeth and overgrowth of the gums. Kidney and heart defects are also possible. Development is delayed in 10 to 15 percent of people with this condition, although intelligence is usually normal.</p><p>Autosomal dominant Robinow syndrome has signs and symptoms that are similar to, but tend to be milder than, those of the autosomal recessive form. Abnormalities of the spine and ribs are rarely seen in the autosomal dominant form, and short stature is less pronounced. A variant form of autosomal dominant Robinow syndrome includes increased bone mineral density (osteosclerosis) affecting the bones of the skull in addition to the signs and symptoms listed above. This variant is called the osteosclerotic form of Robinow syndrome.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: DVL1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/DVL1
+related-gene(2)/gene-symbol: DVL3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/DVL3
+related-gene(3)/gene-symbol: FZD2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/FZD2
+related-gene(4)/gene-symbol: GPC4
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/GPC4
+related-gene(5)/gene-symbol: NXN
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/NXN
+related-gene(6)/gene-symbol: RAC3
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/RAC3
+related-gene(7)/gene-symbol: ROR2
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/ROR2
+related-gene(8)/gene-symbol: WNT5A
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/WNT5A
+synonym(1): acral dysostosis with facial and genital abnormalities
+synonym(2): fetal face syndrome
+synonym(3): mesomelic dwarfism-small genitalia syndrome
+synonym(4): Robinow dwarfism
+synonym(5): Robinow-Silverman-Smith syndrome
+synonym(6): Robinow-Silverman syndrome
+synonym(7): Robinow's syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0265205
+db-key(2)/db: GTR
+db-key(2)/key: C1849334
+db-key(3)/db: GTR
+db-key(3)/key: C4225164
+db-key(4)/db: GTR
+db-key(4)/key: C4225363
+db-key(5)/db: GeneReviews
+db-key(5)/key: rob
+db-key(6)/db: GeneReviews
+db-key(6)/key: rob-ad
+db-key(7)/db: MeSH
+db-key(7)/key: D000015
+db-key(8)/db: OMIM
+db-key(8)/key: 180700
+db-key(9)/db: OMIM
+db-key(9)/key: 268310
+db-key(10)/db: OMIM
+db-key(10)/key: 616331
+db-key(11)/db: OMIM
+db-key(11)/key: 616894
+db-key(12)/db: Orphanet
+db-key(12)/key: 1507
+db-key(13)/db: Orphanet
+db-key(13)/key: 3107
+db-key(14)/db: Orphanet
+db-key(14)/key: 97360
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 76520005
+reviewed: 2018-02
+published: 2018-04-17

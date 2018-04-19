@@ -1,0 +1,55 @@
+name: Multiple myeloma
+ghr-page: https://ghr.nlm.nih.gov/condition/multiple-myeloma
+text/text-role: description
+text/html: <p>Multiple myeloma is a cancer that develops in the bone marrow, the spongy tissue found in the center of most bones. The bone marrow produces red blood cells, which carry oxygen throughout the body; white blood cells, which form the body's defenses (immune system); and platelets, which are necessary for blood clotting.</p><p>Multiple myeloma is characterized by abnormalities in plasma cells, a type of white blood cell. These abnormal cells multiply out of control, increasing from about one percent of cells in the bone marrow to the majority of bone marrow cells. The abnormal cells form tumors within the bone, causing bone pain and an increased risk of fractures. If the tumors interfere with nerves near the bones, numbness or weakness in the arms or legs can occur. Affected individuals may also experience a loss of bone tissue, particularly in the skull, spine, ribs, and pelvis. The deterioration of bone can result in an excess of calcium in the blood (hypercalcemia), which can lead to nausea and loss of appetite, excessive thirst, fatigue, muscle weakness, and confusion.</p><p>The abnormal plasma cells in multiple myeloma produce proteins that impair the development of normal blood cells. As a result, affected individuals may have a reduced number of red blood cells (anemia), which can cause fatigue, weakness, and unusually pale skin (pallor); a low number of white blood cells (leukopenia), which can result in a weakened immune system and frequent infections such as pneumonia; and a reduced number of platelets (thrombocytopenia), which can lead to abnormal bleeding and bruising. Kidney problems can also occur in this disorder, caused by hypercalcemia or by toxic proteins produced by the abnormal plasma cells.</p><p>People with multiple myeloma typically develop the disorder around age 65. Over time, affected individuals can develop life-threatening complications, but the rate at which this happens varies widely. Some affected individuals are diagnosed incidentally when tests are done for other purposes and do not experience symptoms for years.</p>
+inheritance-pattern(1)/code: n
+inheritance-pattern(1)/memo: not inherited
+inheritance-pattern(2)/code: u
+inheritance-pattern(2)/memo: pattern unknown
+related-gene(1)/gene-symbol: BRAF
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BRAF
+related-gene(2)/gene-symbol: CCND1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CCND1
+related-gene(3)/gene-symbol: FCRL4
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/FCRL4
+related-gene(4)/gene-symbol: FGFR3
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR3
+related-gene(5)/gene-symbol: IRF4
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/IRF4
+related-gene(6)/gene-symbol: LIG4
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/LIG4
+related-gene(7)/gene-symbol: MAF
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/MAF
+related-gene(8)/gene-symbol: MUM1
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/MUM1
+related-chromosome/name: 14
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/14
+synonym(1): Kahler-Bozzolo disease
+synonym(2): Kahler disease
+synonym(3): Kahler's disease
+synonym(4): medullary plasmacytoma
+synonym(5): myelomatosis
+synonym(6): plasma cell dyscrasia
+synonym(7): plasma cell myelomas
+db-key(1)/db: GTR
+db-key(1)/key: C0026764
+db-key(2)/db: GTR
+db-key(2)/key: CN186214
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: C90.0
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: C90.00
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: C90.01
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: C90.02
+db-key(7)/db: MeSH
+db-key(7)/key: D009101
+db-key(8)/db: OMIM
+db-key(8)/key: 254500
+db-key(9)/db: Orphanet
+db-key(9)/key: 29073
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 109989006
+reviewed: 2016-05
+published: 2018-04-17

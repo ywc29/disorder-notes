@@ -1,0 +1,25 @@
+gene-symbol: SKIV2L
+name: Ski2 like RNA helicase
+ghr-page: https://ghr.nlm.nih.gov/gene/SKIV2L
+text/text-role: function
+text/html: <p>The <i>SKIV2L</i> gene provides instructions for making a protein whose function has not been confirmed. Based on its similarity to a protein in other organisms, researchers speculate that the SKIV2L protein acts as part of a group of proteins called the SKI complex. This complex is thought to be necessary for the function of another large protein complex known as the cytosolic exosome. Within cells, the cytosolic exosome helps to recognize and break down excess or abnormal messenger RNA (mRNA) molecules. mRNA is a chemical cousin of DNA that serves as the genetic blueprint for protein production. Studies suggest that the cytosolic exosome's role in getting rid of excess and abnormal mRNA is important for cell growth.</p>
+related-health-condition/name: trichohepatoenteric syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/trichohepatoenteric-syndrome
+synonym(1): 170A
+synonym(2): DDX13
+synonym(3): helicase-like protein
+synonym(4): helicase SKI2W
+synonym(5): HLP
+synonym(6): SKI2
+synonym(7): SKI2 homolog, superkiller viralicidic activity 2-like
+synonym(8): SKI2W
+synonym(9): SKIV2
+synonym(10): SKIV2L1
+synonym(11): superkiller viralicidic activity 2-like (S. cerevisiae)
+synonym(12): THES2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6499
+db-key(2)/db: OMIM
+db-key(2)/key: 600478
+reviewed: 2014-03
+published: 2018-04-17

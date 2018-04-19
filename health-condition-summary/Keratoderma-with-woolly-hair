@@ -1,0 +1,53 @@
+name: Keratoderma with woolly hair
+ghr-page: https://ghr.nlm.nih.gov/condition/keratoderma-with-woolly-hair
+text/text-role: description
+text/html: <p>Keratoderma with woolly hair is a group of related conditions that affect the skin and hair and in many cases increase the risk of potentially life-threatening heart problems. People with these conditions have hair that is unusually coarse, dry, fine, and tightly curled. In some cases, the hair is also sparse. The woolly hair texture typically affects only scalp hair and is present from birth. Starting early in life, affected individuals also develop palmoplantar keratoderma, a condition that causes skin on the palms of the hands and the soles of the feet to become thick, scaly, and calloused.</p><p>Cardiomyopathy, which is a disease of the heart muscle, is a life-threatening health problem that can develop in people with keratoderma with woolly hair. Unlike the other features of this condition, signs and symptoms of cardiomyopathy may not appear until adolescence or later. Complications of cardiomyopathy can include an abnormal heartbeat (arrhythmia), heart failure, and sudden death.</p><p>Keratoderma with woolly hair comprises several related conditions with overlapping signs and symptoms. Researchers have recently proposed classifying keratoderma with woolly hair into four types, based on the underlying genetic cause. Type I, also known as Naxos disease, is characterized by palmoplantar keratoderma, woolly hair, and a form of cardiomyopathy called arrhythmogenic right ventricular cardiomyopathy (ARVC). Type II, also known as Carvajal syndrome, has hair and skin abnormalities similar to type I but features a different form of cardiomyopathy, called dilated left ventricular cardiomyopathy. Type III also has signs and symptoms similar to those of type I, including ARVC, although the hair and skin abnormalities are often milder. Type IV is characterized by palmoplantar keratoderma and woolly and sparse hair, as well as abnormal fingernails and toenails. Type IV does not appear to cause cardiomyopathy.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: DSC2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/DSC2
+related-gene(2)/gene-symbol: DSP
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/DSP
+related-gene(3)/gene-symbol: JUP
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/JUP
+related-gene(4)/gene-symbol: KANK2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/KANK2
+synonym: KWWH
+db-key(1)/db: GTR
+db-key(1)/key: C1832600
+db-key(2)/db: GTR
+db-key(2)/key: C1864850
+db-key(3)/db: GTR
+db-key(3)/key: C4014393
+db-key(4)/db: GTR
+db-key(4)/key: C4015202
+db-key(5)/db: GeneReviews
+db-key(5)/key: arvd
+db-key(6)/db: GeneReviews
+db-key(6)/key: dcm-ov
+db-key(7)/db: MeSH
+db-key(7)/key: D006201
+db-key(8)/db: MeSH
+db-key(8)/key: D006331
+db-key(9)/db: MeSH
+db-key(9)/key: D007645
+db-key(10)/db: OMIM
+db-key(10)/key: 601214
+db-key(11)/db: OMIM
+db-key(11)/key: 605676
+db-key(12)/db: OMIM
+db-key(12)/key: 610476
+db-key(13)/db: OMIM
+db-key(13)/key: 615821
+db-key(14)/db: OMIM
+db-key(14)/key: 616099
+db-key(15)/db: Orphanet
+db-key(15)/key: 34217
+db-key(16)/db: Orphanet
+db-key(16)/key: 420686
+db-key(17)/db: Orphanet
+db-key(17)/key: 65282
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 52564001
+reviewed: 2015-11
+published: 2018-04-17

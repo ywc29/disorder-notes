@@ -1,0 +1,21 @@
+name: Desmosterolosis
+ghr-page: https://ghr.nlm.nih.gov/condition/desmosterolosis
+text/text-role: description
+text/html: <p>Desmosterolosis is a condition that is characterized by neurological problems, such as brain abnormalities and developmental delay, and can also include other signs and symptoms.</p><p>Children with desmosterolosis have delayed speech and motor skills (such as sitting and walking). Later in childhood, some affected individuals are able to walk with support; verbal communication is often limited to a few words or phrases. Common brain abnormalities in desmosterolosis include malformation of the tissue that connects the left and right halves of the brain (the corpus callosum) and loss of white matter, which consists of nerve fibers covered by a fatty substance called myelin.</p><p>People with desmosterolosis commonly have muscle stiffness (spasticity) and stiff, rigid joints (arthrogryposis) affecting their hands and feet. Other features seen in some affected individuals include short stature, abnormal head size (either larger or smaller than normal), a small lower jaw (micrognathia), an opening in the roof of the mouth (cleft palate), involuntary eye movements (nystagmus) or eyes that do not look in the same direction (strabismus), heart defects, and seizures.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: DHCR24
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DHCR24
+synonym: deficiency of 3beta-hydroxysterol delta24-reductase
+db-key(1)/db: GTR
+db-key(1)/key: C1865596
+db-key(2)/db: MeSH
+db-key(2)/key: D008052
+db-key(3)/db: OMIM
+db-key(3)/key: 602398
+db-key(4)/db: Orphanet
+db-key(4)/key: 35107
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 709490002
+reviewed: 2014-08
+published: 2018-04-17

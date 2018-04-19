@@ -1,0 +1,30 @@
+name: Adenosine deaminase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/adenosine-deaminase-deficiency
+text/text-role: description
+text/html: <p>Adenosine deaminase (ADA) deficiency is an inherited disorder that damages the immune system and causes severe combined immunodeficiency (SCID). People with SCID lack virtually all immune protection from bacteria, viruses, and fungi. They are prone to repeated and persistent infections that can be very serious or life-threatening. These infections are often caused by "opportunistic" organisms that ordinarily do not cause illness in people with a normal immune system.</p><p>The main symptoms of ADA deficiency are pneumonia, chronic diarrhea, and widespread skin rashes. Affected children also grow much more slowly than healthy children and some have developmental delay.</p><p>Most individuals with ADA deficiency are diagnosed with SCID in the first 6 months of life. Without treatment, these babies usually do not survive past age 2. In about 10 percent to 15 percent of cases, onset of immune deficiency is delayed to between 6 and 24 months of age (delayed onset) or even until adulthood (late onset). Immune deficiency in these later-onset cases tends to be less severe, causing primarily recurrent upper respiratory and ear infections. Over time, affected individuals may develop chronic lung damage, malnutrition, and other health problems.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ADA
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ADA
+synonym(1): ADA deficiency
+synonym(2): ADA-SCID
+synonym(3): adenosine deaminase deficient severe combined immunodeficiency
+synonym(4): SCID due to ADA deficiency
+synonym(5): severe combined immunodeficiency due to ADA deficiency
+synonym(6): severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1863236
+db-key(2)/db: GeneReviews
+db-key(2)/key: ada
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: D81.3
+db-key(4)/db: MeSH
+db-key(4)/key: D016511
+db-key(5)/db: OMIM
+db-key(5)/key: 102700
+db-key(6)/db: Orphanet
+db-key(6)/key: 277
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 44940001
+reviewed: 2013-07
+published: 2018-04-17

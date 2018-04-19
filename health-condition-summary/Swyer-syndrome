@@ -1,0 +1,85 @@
+name: Swyer syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/swyer-syndrome
+text/text-role: description
+text/html: <p>Swyer syndrome is a condition that affects sexual development. Sexual development is usually determined by an individual's chromosomes; however, in Swyer syndrome, sexual development does not match the affected individual's chromosomal makeup.</p><p>People usually have 46 chromosomes in each cell. Two of the 46 chromosomes, known as X and Y, are called sex chromosomes because they help determine whether a person will develop male or female sex characteristics. Girls and women typically have two X chromosomes (46,XX karyotype), while boys and men usually have one X chromosome and one Y chromosome (46,XY karyotype). In Swyer syndrome, individuals with one X chromosome and one Y chromosome in each cell, the pattern typically found in boys and men, have female reproductive structures.</p><p>People with Swyer syndrome have typical female external genitalia. The uterus and fallopian tubes are normally-formed, but the gonads (ovaries or testes) are not functional; affected individuals have undeveloped clumps of tissue called streak gonads. Because of the lack of development of the gonads, Swyer syndrome is also called 46,XY complete gonadal dysgenesis. The residual gonadal tissue often becomes cancerous, so it is usually removed surgically early in life.</p><p>People with Swyer syndrome are typically raised as girls and have a female gender identity. Because they do not have functional ovaries, affected individuals usually begin hormone replacement therapy during adolescence to induce menstruation and development of female secondary sex characteristics such as breast enlargement and uterine growth. Hormone replacement therapy also helps reduce the risk of reduced bone density (osteopenia and osteoporosis). Women with this disorder do not produce eggs (ova), but they may be able to become pregnant with a donated egg or embryo.</p><p>Swyer syndrome usually affects only sexual development; such cases are called isolated Swyer syndrome. However, depending on the genetic cause, Swyer syndrome may also occur along with health conditions such as nerve problems (neuropathy) or as part of a syndrome such as campomelic dysplasia, which causes severe skeletal abnormalities.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: n
+inheritance-pattern(3)/memo: not inherited
+inheritance-pattern(4)/code: y
+inheritance-pattern(4)/memo: Y-linked
+related-gene(1)/gene-symbol: CBX2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CBX2
+related-gene(2)/gene-symbol: DHH
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/DHH
+related-gene(3)/gene-symbol: DMRT1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/DMRT1
+related-gene(4)/gene-symbol: MAP3K1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/MAP3K1
+related-gene(5)/gene-symbol: NR0B1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/NR0B1
+related-gene(6)/gene-symbol: NR5A1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/NR5A1
+related-gene(7)/gene-symbol: SOX9
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/SOX9
+related-gene(8)/gene-symbol: SRY
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/SRY
+related-gene(9)/gene-symbol: ZFPM2
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/ZFPM2
+synonym(1): 46,XY CGD
+synonym(2): 46,XY complete gonadal dysgenesis
+synonym(3): 46,XY sex reversal
+synonym(4): gonadal dysgenesis, 46,XY
+synonym(5): gonadal dysgenesis, XY female type
+synonym(6): pure gonadal dysgenesis 46,XY
+synonym(7): XY pure gonadal dysgenesis
+db-key(1)/db: GTR
+db-key(1)/key: C1848296
+db-key(2)/db: GTR
+db-key(2)/key: C1856273
+db-key(3)/db: GTR
+db-key(3)/key: C2748896
+db-key(4)/db: GTR
+db-key(4)/key: C2751317
+db-key(5)/db: GTR
+db-key(5)/key: C2751824
+db-key(6)/db: GTR
+db-key(6)/key: C2752149
+db-key(7)/db: GTR
+db-key(7)/key: C2936694
+db-key(8)/db: GTR
+db-key(8)/key: C3151064
+db-key(9)/db: GTR
+db-key(9)/key: C4015129
+db-key(10)/db: GTR
+db-key(10)/key: CN043561
+db-key(11)/db: GeneReviews
+db-key(11)/key: gonad-dys-46xy
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: Q97.3
+db-key(13)/db: MeSH
+db-key(13)/key: D006061
+db-key(14)/db: OMIM
+db-key(14)/key: 154230
+db-key(15)/db: OMIM
+db-key(15)/key: 233420
+db-key(16)/db: OMIM
+db-key(16)/key: 300018
+db-key(17)/db: OMIM
+db-key(17)/key: 400044
+db-key(18)/db: OMIM
+db-key(18)/key: 612965
+db-key(19)/db: OMIM
+db-key(19)/key: 613080
+db-key(20)/db: OMIM
+db-key(20)/key: 613762
+db-key(21)/db: OMIM
+db-key(21)/key: 616067
+db-key(22)/db: Orphanet
+db-key(22)/key: 242
+db-key(23)/db: SNOMED CT
+db-key(23)/key: 95218005
+reviewed: 2015-03
+published: 2018-04-17

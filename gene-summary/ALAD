@@ -1,0 +1,25 @@
+gene-symbol: ALAD
+name: aminolevulinate dehydratase
+ghr-page: https://ghr.nlm.nih.gov/gene/ALAD
+text/text-role: function
+text/html: <p>The <i>ALAD</i> gene provides instructions for making an enzyme known as delta-aminolevulinate dehydratase. This enzyme is involved in the production of a molecule called heme. Heme is vital for all of the body's organs, although it is found mostly in the blood, bone marrow, and liver. Heme is an essential component of several iron-containing proteins called hemoproteins, including hemoglobin (the protein that carries oxygen in the blood).</p><p>The production of heme is a multi-step process that requires eight different enzymes. Delta-aminolevulinate dehydratase is responsible for the second step in this process, which combines two molecules of delta-aminolevulinic acid (the product of the first step) to form a compound called porphobilinogen. In subsequent steps, four molecules of porphobilinogen are combined and then modified to produce heme.</p>
+related-health-condition/name: porphyria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/porphyria
+synonym(1): 5-aminolevulinate dehydratase
+synonym(2): 5-Aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing)
+synonym(3): ALA-Dehydrase
+synonym(4): ALADH
+synonym(5): Aminolevulinate Hydro-Lyase
+synonym(6): aminolevulinate, delta-, dehydratase
+synonym(7): Aminolevulinic Acid Dehydratase
+synonym(8): delta-Aminolevulinate Dehydratase
+synonym(9): delta-Aminolevulinic Acid Dehydratase
+synonym(10): HEM2_HUMAN
+synonym(11): PBGS
+synonym(12): Porphobilinogen Synthase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 210
+db-key(2)/db: OMIM
+db-key(2)/key: 125270
+reviewed: 2009-07
+published: 2018-04-17

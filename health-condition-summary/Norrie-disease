@@ -1,0 +1,33 @@
+name: Norrie disease
+ghr-page: https://ghr.nlm.nih.gov/condition/norrie-disease
+text/text-role: description
+text/html: <p>Norrie disease is an inherited eye disorder that leads to blindness in male infants at birth or soon after birth. It causes abnormal development of the retina, the layer of sensory cells that detect light and color, with masses of immature retinal cells accumulating at the back of the eye. As a result, the pupils appear white when light is shone on them, a sign called leukocoria. The irises (colored portions of the eyes) or the entire eyeballs may shrink and deteriorate during the first months of life, and cataracts (cloudiness in the lens of the eye) may eventually develop.</p><p>About one third of individuals with Norrie disease develop progressive hearing loss, and more than half experience developmental delays in motor skills such as sitting up and walking. Other problems may include mild to moderate intellectual disability, often with psychosis, and abnormalities that can affect circulation, breathing, digestion, excretion, or reproduction.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: NDP
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NDP
+synonym(1): Anderson-Warburg syndrome
+synonym(2): Atrophia bulborum hereditaria
+synonym(3): congenital progressive oculo-acoustico-cerebral degeneration
+synonym(4): Episkopi blindness
+synonym(5): Fetal iritis syndrome
+synonym(6): Norrie syndrome
+synonym(7): Norrie-Warburg syndrome
+synonym(8): Norrie's disease
+synonym(9): Oligophrenia microphthalmus
+synonym(10): pseudoglioma congenita
+synonym(11): Whitnall-Norman syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0266526
+db-key(2)/db: GeneReviews
+db-key(2)/key: norrie
+db-key(3)/db: MeSH
+db-key(3)/key: D015785
+db-key(4)/db: OMIM
+db-key(4)/key: 310600
+db-key(5)/db: Orphanet
+db-key(5)/key: 649
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 15228007
+reviewed: 2007-03
+published: 2018-04-17

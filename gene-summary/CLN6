@@ -1,0 +1,20 @@
+gene-symbol: CLN6
+name: CLN6, transmembrane ER protein
+ghr-page: https://ghr.nlm.nih.gov/gene/CLN6
+text/text-role: function
+text/html: <p>The <i>CLN6</i> gene provides instructions for making a protein whose function is not well understood. Within cells, the CLN6 protein is found in a structure called the endoplasmic reticulum, which is involved in protein processing and transport. Research suggests that the CLN6 protein regulates the transportation of certain proteins and fats from the endoplasmic reticulum to lysosomes. Lysosomes are compartments in the cell that digest and recycle materials. Based on this function, the CLN6 protein appears to help cells get rid of materials they no longer need.</p>
+related-health-condition/name: CLN6 disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cln6-disease
+synonym(1): ceroid-lipofuscinosis neuronal protein 6
+synonym(2): ceroid-lipofuscinosis, neuronal 6, late infantile, variant
+synonym(3): CLN4A
+synonym(4): CLN6_HUMAN
+synonym(5): FLJ20561
+synonym(6): HsT18960
+synonym(7): nclf
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 54982
+db-key(2)/db: OMIM
+db-key(2)/key: 606725
+reviewed: 2017-01
+published: 2018-04-17

@@ -1,0 +1,27 @@
+gene-symbol: RB1
+name: RB transcriptional corepressor 1
+ghr-page: https://ghr.nlm.nih.gov/gene/RB1
+text/text-role: function
+text/html: <p>The <i>RB1</i> gene provides instructions for making a protein called pRB. This protein acts as a tumor suppressor, which means that it regulates cell growth and keeps cells from dividing too fast or in an uncontrolled way. Under certain conditions, pRB stops other proteins from triggering DNA replication, the process by which DNA makes a copy of itself. Because DNA replication must occur before a cell can divide, tight regulation of this process controls cell division and helps prevent the growth of tumors. Additionally, pRB interacts with other proteins to influence cell survival, the self-destruction of cells (apoptosis), and the process by which cells mature to carry out special functions (differentiation).</p>
+related-health-condition(1)/name: bladder cancer
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/bladder-cancer
+related-health-condition(2)/name: lung cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/lung-cancer
+related-health-condition(3)/name: retinoblastoma
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/retinoblastoma
+synonym(1): p105-Rb
+synonym(2): PP110
+synonym(3): PPP1R130
+synonym(4): RB
+synonym(5): RB1 gene
+synonym(6): RB_HUMAN
+synonym(7): retinoblastoma 1
+synonym(8): Retinoblastoma-1
+synonym(9): Retinoblastoma 1 (including osteosarcoma)
+synonym(10): Retinoblastoma-associated protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5925
+db-key(2)/db: OMIM
+db-key(2)/key: 614041
+reviewed: 2009-04
+published: 2018-04-17

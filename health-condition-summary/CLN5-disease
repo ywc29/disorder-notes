@@ -1,0 +1,31 @@
+name: CLN5 disease
+ghr-page: https://ghr.nlm.nih.gov/condition/cln5-disease
+text/text-role: description
+text/html: <p>CLN5 disease is an inherited disorder that primarily affects the nervous system. The signs and symptoms of this condition can begin anytime between childhood and early adulthood, but they typically appear around age 5. Children with CLN5 disease often have normal development until they experience the first signs of the condition, which are usually problems with movement and a loss of previously acquired motor skills (developmental regression). Other features of the condition include recurrent seizures that involve uncontrollable muscle jerks (myoclonic epilepsy), difficulty coordinating movements (ataxia), vision loss, and a decline in intellectual function. The life expectancy of people with CLN5 disease varies; affected individuals usually survive into adolescence or mid-adulthood.</p><p>CLN5 disease is one of a group of disorders known as neuronal ceroid lipofuscinoses (NCLs), which may also be collectively referred to as Batten disease. All these disorders affect the nervous system and typically cause worsening problems with vision, movement, and thinking ability. The different NCLs are distinguished by their genetic cause. Each disease type is given the designation "CLN," meaning ceroid lipofuscinosis, neuronal, and then a number to indicate its subtype.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CLN5
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CLN5
+synonym(1): Finnish variant late infantile neuronal ceroid lipofuscinosis
+synonym(2): Finnish vLINCL
+synonym(3): Jansky-Bielschowsky disease
+synonym(4): late-infantile neuronal ceroid lipofuscinosis
+synonym(5): neuronal ceroid lipofuscinosis 5
+synonym(6): neuronal ceroid lipofuscinosis, late-infantile
+synonym(7): vLINCL
+db-key(1)/db: GTR
+db-key(1)/key: C1850442
+db-key(2)/db: GeneReviews
+db-key(2)/key: ncl
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E75.4
+db-key(4)/db: MeSH
+db-key(4)/key: D009472
+db-key(5)/db: OMIM
+db-key(5)/key: 256731
+db-key(6)/db: Orphanet
+db-key(6)/key: 168491
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 14637005
+reviewed: 2016-11
+published: 2018-04-17

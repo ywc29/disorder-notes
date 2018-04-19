@@ -1,0 +1,17 @@
+gene-symbol: MLYCD
+name: malonyl-CoA decarboxylase
+ghr-page: https://ghr.nlm.nih.gov/gene/MLYCD
+text/text-role: function
+text/html: <p>The <i>MLYCD</i> gene provides instructions for making an enzyme called malonyl-CoA decarboxylase. This enzyme helps regulate the formation and breakdown of a group of fats called fatty acids. Many tissues, including heart (cardiac) muscle, use fatty acids as a major source of energy. The body also uses fatty acids to build cell membranes, produce hormones, and carry out many other important processes.</p><p>Malonyl-CoA decarboxylase is responsible for the chemical reaction that converts a molecule called malonyl-CoA to a molecule called acetyl-CoA. This reaction is an important step in the breakdown of fatty acids. Acetyl-CoA is then used to make new fatty acids and can also be used to produce energy.</p><p>Malonyl-CoA decarboxylase is most active in cardiac muscle and in muscles used for movement (skeletal muscles). It is also found in other organs and tissues, including the brain, small intestine, liver, kidney, and pancreas. This enzyme probably functions in several parts of the cell, including mitochondria, which are cells' energy-producing centers, and peroxisomes, which are small sacs that process fatty acids and other molecules. Malonyl-CoA decarboxylase also functions in the fluid that surrounds these cell structures (the cytoplasm).</p>
+related-health-condition/name: malonyl-CoA decarboxylase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/malonyl-coa-decarboxylase-deficiency
+synonym(1): DCMC_HUMAN
+synonym(2): hMCD
+synonym(3): malonyl coenzyme A decarboxylase
+synonym(4): MCD
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23417
+db-key(2)/db: OMIM
+db-key(2)/key: 606761
+reviewed: 2010-01
+published: 2018-04-17

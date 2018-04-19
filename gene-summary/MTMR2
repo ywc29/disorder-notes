@@ -1,0 +1,16 @@
+gene-symbol: MTMR2
+name: myotubularin related protein 2
+ghr-page: https://ghr.nlm.nih.gov/gene/MTMR2
+text/text-role: function
+text/html: <p>The <i>MTMR2</i> gene provides instructions for making an enzyme called myotubularin related protein 2. This enzyme is a phosphatase, which means it helps remove a phosphate group (a cluster of one phosphorus atom and three oxygen atoms) from other substances.  Removal of a phosphate group modifies the activity of these substances.</p><p>The MTMR2 protein modifies substances that act as chemical messengers. These messengers relay signals from receptors on the cell surface to specific compartments inside the cell, through a process called signal transduction.  Signal transduction helps cells respond to their environment, for example, by dividing or maturing to take on specialized functions.  The MTMR2 protein modifies chemical messengers that help regulate processes such as the transport of fats (lipids) and proteins within the cell.</p>
+related-health-condition/name: Charcot-Marie-Tooth disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+synonym(1): CMT4B
+synonym(2): KIAA1073
+synonym(3): MTMR2_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8898
+db-key(2)/db: OMIM
+db-key(2)/key: 603557
+reviewed: 2010-01
+published: 2018-04-17

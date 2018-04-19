@@ -1,0 +1,25 @@
+gene-symbol: DCTN1
+name: dynactin subunit 1
+ghr-page: https://ghr.nlm.nih.gov/gene/DCTN1
+text/text-role: function
+text/html: <p>The <i>DCTN1</i> gene provides instructions for making a protein called dynactin-1. At least two different versions of this protein are produced in cells. The two versions differ in size; the larger version is called p150-glued, and the smaller version is called p135.</p><p>Both versions of the dynactin-1 protein interact with several other proteins to form a group (a complex) of proteins called dynactin. The p150-glued version of dynactin-1 is the largest component (subunit) of the dynactin complex. This complex plays a critical role in cell division and the transport of materials within cells. To carry out these roles, the complex's p150-glued subunit attaches (binds) to a protein called dynein, which acts as a motor, and also binds to a track-like system of small tubes called microtubules. The dynactin complex, dynein, and microtubules work together like a conveyer belt to move materials within cells.</p><p>Researchers believe that the dynactin complex is particularly important for the proper function of axons, which are specialized extensions of nerve cells (neurons). Axons transmit impulses from nerve to nerve and from nerves to muscles. Axons can be quite long; some are more than 3 feet in length. The dynactin complex is a critical part of a rapid transport system that supplies axons with materials to keep them healthy and functioning efficiently.</p>
+related-health-condition(1)/name: amyotrophic lateral sclerosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
+related-health-condition(2)/name: Perry syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/perry-syndrome
+synonym(1): 150 kDa dynein-associated polypeptide
+synonym(2): DAP-150
+synonym(3): DP-150
+synonym(4): DYNA_HUMAN
+synonym(5): dynactin 1
+synonym(6): dynactin 1 (p150, glued homolog, Drosophila)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1639
+db-key(2)/db: OMIM
+db-key(2)/key: 600274
+db-key(3)/db: OMIM
+db-key(3)/key: 601143
+db-key(4)/db: OMIM
+db-key(4)/key: 607641
+reviewed: 2012-08
+published: 2018-04-17

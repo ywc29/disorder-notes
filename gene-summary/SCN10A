@@ -1,0 +1,24 @@
+gene-symbol: SCN10A
+name: sodium voltage-gated channel alpha subunit 10
+ghr-page: https://ghr.nlm.nih.gov/gene/SCN10A
+text/text-role: function
+text/html: <p>The <i>SCN10A</i> gene belongs to a family of genes that provide instructions for making sodium channels. These channels, which transport positively charged sodium atoms (sodium ions) into cells, play a key role in a cell's ability to generate and transmit electrical signals.</p><p>The <i>SCN10A</i> gene provides instructions for making one part (the alpha subunit) of a sodium channel called NaV1.8. NaV1.8 sodium channels are found in nerve cells called nociceptors that transmit pain signals. Nociceptors are part of the peripheral nervous system, which connects the brain and spinal cord to cells that detect sensations such as touch, smell, and pain. Nociceptors are primarily involved in transmitting pain signals. The centers of nociceptors, known as the cell bodies, are located in a part of the spinal cord called the dorsal root ganglion. Fibers called axons extend from the cell bodies, reaching throughout the body to receive sensory information. In addition to nociceptors, NaV1.8 sodium channels have also been found in heart muscle cells where, by controlling the flow of sodium ions, they likely play a role in maintaining a normal heart rhythm.</p>
+related-health-condition/name: small fiber neuropathy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/small-fiber-neuropathy
+synonym(1): hPN3
+synonym(2): Nav1.8
+synonym(3): peripheral nerve sodium channel 3
+synonym(4): PN3
+synonym(5): SCNAA_HUMAN
+synonym(6): sodium channel protein type 10 subunit alpha
+synonym(7): sodium channel protein type X subunit alpha
+synonym(8): sodium channel, voltage gated, type X alpha subunit
+synonym(9): sodium channel, voltage-gated, type X, alpha polypeptide
+synonym(10): sodium channel, voltage-gated, type X, alpha subunit
+synonym(11): voltage-gated sodium channel subunit alpha Nav1.8
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6336
+db-key(2)/db: OMIM
+db-key(2)/key: 604427
+reviewed: 2012-11
+published: 2018-04-17

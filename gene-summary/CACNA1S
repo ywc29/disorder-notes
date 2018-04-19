@@ -1,0 +1,31 @@
+gene-symbol: CACNA1S
+name: calcium voltage-gated channel subunit alpha1 S
+ghr-page: https://ghr.nlm.nih.gov/gene/CACNA1S
+text/text-role: function
+text/html: <p>The <i>CACNA1S</i> gene belongs to a family of genes that provide instructions for making calcium channels. These channels, which transport positively charged calcium atoms (ions) into cells, play a key role in a cell's ability to generate and transmit electrical signals.</p><p>The <i>CACNA1S</i> gene provides instructions for making calcium channels that are abundant in muscles used for movement (skeletal muscles). For the body to move normally, these muscles must tense (contract) and relax in a coordinated way. Muscle contractions are triggered by the flow of certain ions into muscle cells. Channels made with the CACNA1S protein control the transport of calcium ions into muscle cells and are part of the cellular machinery that initiates muscle contractions.</p><p>Channels made with the CACNA1S protein also activate a protein called ryanodine receptor 1 (produced by the <i>RYR1</i> gene). Ryanodine receptor 1 forms a channel that releases stored calcium ions within muscle cells in response to certain signals.  The resulting increase in calcium ion concentration stimulates muscle fibers to contract, allowing the body to move.</p>
+related-health-condition(1)/name: hypokalemic periodic paralysis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/hypokalemic-periodic-paralysis
+related-health-condition(2)/name: malignant hyperthermia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/malignant-hyperthermia
+synonym(1): CAC1S_HUMAN
+synonym(2): CACH1
+synonym(3): CACN1
+synonym(4): CACNL1A3
+synonym(5): calcium channel, voltage-dependent, L type, alpha 1S subunit
+synonym(6): Cav1.1
+synonym(7): CCHL1A3
+synonym(8): DHPR
+synonym(9): dihydropyridine receptor
+synonym(10): dihydropyridine-sensitive L-type calcium channel alpha-1 subunit
+synonym(11): HOKPP
+synonym(12): HypoKPP
+synonym(13): hypoPP
+synonym(14): MHS5
+synonym(15): Voltage-dependent L-type calcium channel subunit alpha-1S
+synonym(16): voltage-gated calcium channel subunit alpha Cav1.1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 779
+db-key(2)/db: OMIM
+db-key(2)/key: 114208
+reviewed: 2007-10
+published: 2018-04-17

@@ -1,0 +1,30 @@
+name: Townes-Brocks Syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/townes-brocks-syndrome
+text/text-role: description
+text/html: <p>Townes-Brocks syndrome is a genetic condition that affects several parts of the body.    The most common features of this condition are an obstruction of the anal opening (imperforate anus), abnormally shaped ears, and hand malformations that most often affect the thumb.  Most people with this condition have at least two of these three major features.</p><p>Other possible signs and symptoms of Townes-Brocks syndrome include kidney abnormalities, mild to profound hearing loss, heart defects, and genital malformations. These features vary among affected individuals, even within the same family. Intellectual disability or learning problems have also been reported in about 10 percent of people with Townes-Brocks syndrome.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SALL1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SALL1
+synonym(1): anal-ear-renal-radial malformation syndrome
+synonym(2): deafness-imperforate anus-hypoplastic thumbs syndrome
+synonym(3): imperforate anus-hand and foot anomalies syndrome
+synonym(4): renal-ear-anal-radial syndrome (REAR)
+synonym(5): sensorineural deafness-imperforate anus-hypoplastic thumbs syndrome
+synonym(6): Townes syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0265246
+db-key(2)/db: GeneReviews
+db-key(2)/key: tbs
+db-key(3)/db: MeSH
+db-key(3)/key: D000015
+db-key(4)/db: MeSH
+db-key(4)/key: D001006
+db-key(5)/db: OMIM
+db-key(5)/key: 107480
+db-key(6)/db: Orphanet
+db-key(6)/key: 857
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 24750000
+reviewed: 2007-10
+published: 2018-04-17

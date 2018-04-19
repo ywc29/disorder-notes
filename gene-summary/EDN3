@@ -1,0 +1,23 @@
+gene-symbol: EDN3
+name: endothelin 3
+ghr-page: https://ghr.nlm.nih.gov/gene/EDN3
+text/text-role: function
+text/html: <p>The <i>EDN3</i> gene provides instructions for making a protein called endothelin 3. Proteins in the endothelin family are produced in various cells and tissues, where they are involved in the development and function of blood vessels, the production of certain hormones, and the stimulation of cell growth and division.</p><p>Endothelin 3 functions by interacting with another protein, endothelin receptor type B (produced from the <i>EDNRB</i> gene), on the surface of cells. During early development before birth, endothelin 3 and endothelin receptor type B together play an important role in neural crest cells. These cells migrate from the developing spinal cord to specific regions in the embryo, where they give rise to many different types of cells. In particular, endothelin 3 and its receptor are essential for the formation of nerves in the intestine (enteric nerves) and for the production of specialized cells called melanocytes. Melanocytes produce melanin, a pigment that contributes to skin, hair, and eye color. Melanin is also involved in the normal function of the inner ear.</p>
+related-health-condition(1)/name: Hirschsprung disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/hirschsprung-disease
+related-health-condition(2)/name: Waardenburg syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/waardenburg-syndrome
+synonym(1): EDN3_HUMAN
+synonym(2): endothelin 3 precursor
+synonym(3): ET3
+synonym(4): HSCR4
+synonym(5): PPET3
+synonym(6): Preproendothelin-3
+synonym(7): RP4-614C15.1
+synonym(8): WS4B
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1908
+db-key(2)/db: OMIM
+db-key(2)/key: 131242
+reviewed: 2016-08
+published: 2018-04-17

@@ -1,0 +1,26 @@
+gene-symbol: CARD14
+name: caspase recruitment domain family member 14
+ghr-page: https://ghr.nlm.nih.gov/gene/CARD14
+text/text-role: function
+text/html: <p>The <i>CARD14</i> gene provides instructions for making a protein that turns on (activates) a group of interacting proteins known as nuclear factor-kappa-B (NF-κB). The NF-κB protein complex regulates the activity of multiple genes, including genes that control the body's immune responses and inflammatory reactions. Inflammation is a normal immune system response to injury and foreign invaders (such as bacteria). The  NF-κB protein complex also protects cells from certain signals that would otherwise cause them to self-destruct (undergo apoptosis).</p><p>The CARD14 protein is found in many of the body's tissues, but it is particularly abundant in the skin. NF-κB signaling appears to play important roles in regulating inflammatory reactions in the skin and in promoting the survival of skin cells.</p>
+related-health-condition(1)/name: familial pityriasis rubra pilaris
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-pityriasis-rubra-pilaris
+related-health-condition(2)/name: generalized pustular psoriasis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/generalized-pustular-psoriasis
+related-health-condition(3)/name: psoriatic arthritis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/psoriatic-arthritis
+synonym(1): bcl10-interacting maguk protein 2
+synonym(2): BIMP2
+synonym(3): CAR14_HUMAN
+synonym(4): CARD-containing MAGUK protein 2
+synonym(5): card-maguk protein 2
+synonym(6): carma 2
+synonym(7): CARMA2
+synonym(8): caspase recruitment domain-containing protein 14
+synonym(9): caspase recruitment domain family, member 14
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 79092
+db-key(2)/db: OMIM
+db-key(2)/key: 607211
+reviewed: 2017-05
+published: 2018-04-17

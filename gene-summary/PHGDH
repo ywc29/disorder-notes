@@ -1,0 +1,24 @@
+gene-symbol: PHGDH
+name: phosphoglycerate dehydrogenase
+ghr-page: https://ghr.nlm.nih.gov/gene/PHGDH
+text/text-role: function
+text/html: <p>The <i>PHGDH</i> gene provides instructions for making the parts (subunits) that make up the phosphoglycerate dehydrogenase enzyme. Four PHGDH subunits combine to form the enzyme. This enzyme is involved in the production (synthesis) of the protein building block (amino acid) serine. Specifically, the enzyme converts a substance called 3-phosphoglycerate to 3-phosphohydroxypyruvate in the first step in serine production. Serine is necessary for the development and function of the brain and spinal cord (central nervous system). Serine is a part of chemical messengers called neurotransmitters that transmit signals in the nervous system. Proteins that form cell membranes and the fatty layer of insulation (myelin) that surrounds many nerves also contain serine.</p><p>Serine can be obtained from the diet, but brain cells must produce their own serine because dietary serine cannot cross the protective barrier that allows only certain substances to pass between blood vessels and the brain (the blood-brain barrier).</p>
+related-health-condition/name: phosphoglycerate dehydrogenase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/phosphoglycerate-dehydrogenase-deficiency
+synonym(1): 3-PGDH
+synonym(2): 3-phosphoglycerate dehydrogenase
+synonym(3): 3PGDH
+synonym(4): D-3-phosphoglycerate dehydrogenase
+synonym(5): epididymis secretory protein Li 113
+synonym(6): HEL-S-113
+synonym(7): PDG
+synonym(8): PGAD
+synonym(9): PGD
+synonym(10): PGDH
+synonym(11): SERA
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 26227
+db-key(2)/db: OMIM
+db-key(2)/key: 606879
+reviewed: 2014-05
+published: 2018-04-17

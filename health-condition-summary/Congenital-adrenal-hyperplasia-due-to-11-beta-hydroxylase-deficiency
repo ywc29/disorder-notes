@@ -1,0 +1,30 @@
+name: Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-adrenal-hyperplasia-due-to-11-beta-hydroxylase-deficiency
+text/text-role: description
+text/html: <p>Congenital adrenal hyperplasia (CAH) due to 11-beta-hydroxylase deficiency is one of a group of disorders (collectively called congenital adrenal hyperplasia) that affect the adrenal glands. The adrenal glands are located on top of the kidneys and produce a variety of hormones that regulate many essential functions in the body. In people with CAH due to 11-beta-hydroxylase deficiency, the adrenal glands produce excess androgens, which are male sex hormones.</p><p>There are two types of CAH due to 11-beta-hydroxylase deficiency, the classic form and the non-classic form. The classic form is the more severe of the two types.</p><p>Females with the classic form of CAH due to 11-beta-hydroxylase deficiency have external genitalia that do not look clearly male or female (ambiguous genitalia). However, the internal reproductive organs develop normally. Males and females with the classic form of this condition have early development of their secondary sexual characteristics such as growth of facial and pubic hair, deepening of the voice, appearance of acne, and onset of a growth spurt. The early growth spurt can prevent growth later in adolescence and lead to short stature in adulthood. In addition, approximately two-thirds of individuals with the classic form of CAH due to 11-beta-hydroxylase deficiency have high blood pressure (hypertension). Hypertension typically develops within the first year of life.</p><p>Females with the non-classic form of CAH due to 11-beta-hydroxylase deficiency have normal female genitalia. As affected females get older, they may develop excessive body hair growth (hirsutism) and irregular menstruation. Males with the non-classic form of this condition do not typically have any signs or symptoms except for short stature. Hypertension is not a feature of the non-classic form of CAH due to 11-beta-hydroxylase deficiency.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CYP11B1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CYP11B1
+synonym(1): 11 beta hydroxylase deficiency
+synonym(2): 11b hydroxylase deficiency
+synonym(3): adrenal hyperplasia, hypertensive form
+synonym(4): deficiency of steroid 11-beta-monooxygenase
+synonym(5): P450C11B1 deficiency
+synonym(6): steroid 11 beta hydroxylase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0268292
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E25.0
+db-key(3)/db: MeSH
+db-key(3)/key: D000312
+db-key(4)/db: OMIM
+db-key(4)/key: 202010
+db-key(5)/db: Orphanet
+db-key(5)/key: 90795
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 124214007
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 237751000
+reviewed: 2011-03
+published: 2018-04-17

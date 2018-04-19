@@ -1,0 +1,20 @@
+gene-symbol: GJB4
+name: gap junction protein beta 4
+ghr-page: https://ghr.nlm.nih.gov/gene/GJB4
+text/text-role: function
+text/html: <p>The <i>GJB4</i> gene provides instructions for making a protein called gap junction beta 4, more commonly known as connexin 30.3. This protein is part of the connexin family, a group of proteins that form channels called gap junctions on the surface of cells. Gap junctions open and close to regulate the flow of nutrients, charged atoms (ions), and other signaling molecules from one cell to another. They are essential for direct communication between neighboring cells.</p><p>Connexin 30.3 is found in several different tissues, including the outermost layer of the skin (the epidermis). This protein appears to play a role in the growth and maturation of epidermal cells.</p>
+related-health-condition/name: erythrokeratodermia variabilis et progressiva
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/erythrokeratodermia-variabilis-et-progressiva
+synonym(1): connexin 30.3
+synonym(2): connexin-30.3
+synonym(3): CX30.3
+synonym(4): CXB4_HUMAN
+synonym(5): EKV
+synonym(6): gap junction beta-4 protein
+synonym(7): gap junction protein, beta 4, 30.3kDa
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 127534
+db-key(2)/db: OMIM
+db-key(2)/key: 605425
+reviewed: 2014-01
+published: 2018-04-17

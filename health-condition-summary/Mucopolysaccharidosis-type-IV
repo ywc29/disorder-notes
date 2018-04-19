@@ -1,0 +1,51 @@
+name: Mucopolysaccharidosis type IV
+ghr-page: https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-iv
+text/text-role: description
+text/html: <p>Mucopolysaccharidosis type IV (MPS IV), also known as Morquio syndrome, is a progressive condition that mainly affects the skeleton. The rate at which symptoms worsen varies among affected individuals.</p><p>The first signs and symptoms of MPS IV usually become apparent during early childhood. Affected individuals develop various skeletal abnormalities, including short stature, knock knees, and abnormalities of the ribs, chest, spine, hips, and wrists. People with MPS IV often have joints that are loose and very flexible (hypermobile), but they may also have restricted movement in certain joints. A characteristic feature of this condition is underdevelopment (hypoplasia) of a peg-like bone in the neck called the odontoid process. The odontoid process helps stabilize the spinal bones in the neck (cervical vertebrae). Odontoid hypoplasia can lead to misalignment of the cervical vertebrae, which may compress and damage the spinal cord, resulting in paralysis or death.</p><p>In people with MPS IV, the clear covering of the eye (cornea) typically becomes cloudy, which can cause vision loss. Some affected individuals have recurrent ear infections and hearing loss. The airway may become narrow in some people with MPS IV, leading to frequent upper respiratory infections and short pauses in breathing during sleep (sleep apnea). Other common features of this condition include mildly "coarse" facial features, thin tooth enamel, multiple cavities, heart valve abnormalities, a mildly enlarged liver (hepatomegaly), and a soft out-pouching around the belly-button (umbilical hernia) or lower abdomen (inguinal hernia). Unlike some other types of mucopolysaccharidosis, MPS IV does not affect intelligence.</p><p>The life expectancy of individuals with MPS IV depends on the severity of symptoms. Severely affected individuals may survive only until late childhood or adolescence. Those with milder forms of the disorder usually live into adulthood, although their life expectancy may be reduced. Spinal cord compression and airway obstruction are major causes of death in people with MPS IV.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: GALNS
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GALNS
+related-gene(2)/gene-symbol: GLB1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GLB1
+synonym(1): Morquio-Brailsford disease
+synonym(2): Morquio Disease
+synonym(3): Morquio Syndrome
+synonym(4): Morquio's Disease
+synonym(5): Morquio's Syndrome
+synonym(6): MPS IV
+synonym(7): mucopolysaccharidosis (MPS) IV (A, B)
+db-key(1)/db: GTR
+db-key(1)/key: C0026707
+db-key(2)/db: GTR
+db-key(2)/key: C0086651
+db-key(3)/db: GTR
+db-key(3)/key: C0086652
+db-key(4)/db: GeneReviews
+db-key(4)/key: mps4a
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: E76.21
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: E76.210
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: E76.211
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: E76.219
+db-key(9)/db: MeSH
+db-key(9)/key: D009085
+db-key(10)/db: OMIM
+db-key(10)/key: 253000
+db-key(11)/db: OMIM
+db-key(11)/key: 253010
+db-key(12)/db: Orphanet
+db-key(12)/key: 582
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 130197005
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 238044004
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 378007
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 7259005
+reviewed: 2010-07
+published: 2018-04-17

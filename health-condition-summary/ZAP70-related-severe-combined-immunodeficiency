@@ -1,0 +1,25 @@
+name: ZAP70-related severe combined immunodeficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/zap70-related-severe-combined-immunodeficiency
+text/text-role: description
+text/html: <p><i>ZAP70</i>-related severe combined immunodeficiency (SCID) is an inherited disorder that damages the immune system. <i>ZAP70</i>-related SCID is one of several forms of severe combined immunodeficiency, a group of disorders with several genetic causes. Children with SCID lack virtually all immune protection from bacteria, viruses, and fungi. They are prone to repeated and persistent infections that can be very serious or life-threatening. Often the organisms that cause infection in people with this disorder are described as opportunistic because they ordinarily do not cause illness in healthy people.  Infants with SCID typically experience pneumonia, chronic diarrhea, and widespread skin rashes. They also grow much more slowly than healthy children. If not treated in a way that restores immune function, children with SCID usually live only a year or two.</p><p>Most individuals with <i>ZAP70</i>-related SCID are diagnosed in the first 6 months of life. At least one individual first showed signs of the condition later in childhood and had less severe symptoms, primarily recurrent respiratory and skin infections.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ZAP70
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ZAP70
+synonym(1): selective T-cell defect
+synonym(2): ZAP70-related SCID
+synonym(3): zeta-associated protein 70 deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1849236
+db-key(2)/db: GeneReviews
+db-key(2)/key: zap70-scid
+db-key(3)/db: MeSH
+db-key(3)/key: D016511
+db-key(4)/db: OMIM
+db-key(4)/key: 176947
+db-key(5)/db: Orphanet
+db-key(5)/key: 911
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 190993005
+reviewed: 2015-04
+published: 2018-04-17

@@ -1,0 +1,31 @@
+gene-symbol: ACVRL1
+name: activin A receptor like type 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ACVRL1
+text/text-role: function
+text/html: <p>The <i>ACVRL1</i> gene provides instructions for making a protein called activin receptor-like kinase 1. This protein is found on the surface of cells, especially in the lining of developing arteries.</p><p>The ACVRL1 protein is a receptor. It acts as a "lock" waiting for a specific protein, called its ligand, to serve as the "key." In the case of the ACVRL1 protein, the ligand is called transforming growth factor beta. The interaction between these proteins plays a role in the development of blood vessels. In particular, this protein interaction is involved in the specialization of new blood vessels into arteries or veins.</p>
+related-health-condition(1)/name: hereditary hemorrhagic telangiectasia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hemorrhagic-telangiectasia
+related-health-condition(2)/name: pulmonary arterial hypertension
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pulmonary-arterial-hypertension
+synonym(1): activin A receptor type II-like 1
+synonym(2): activin A receptor type IL
+synonym(3): Activin A receptor, type II-like kinase 1
+synonym(4): ACVL1_HUMAN
+synonym(5): ACVRLK1
+synonym(6): ALK-1
+synonym(7): ALK1
+synonym(8): EC 2.7.1.37
+synonym(9): HHT
+synonym(10): HHT2
+synonym(11): ORW2
+synonym(12): Serine/threonine-protein kinase Receptor R3 Precursor
+synonym(13): SKR3
+synonym(14): TGF-B Superfamily Receptor Type I
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 94
+db-key(2)/db: OMIM
+db-key(2)/key: 108010
+db-key(3)/db: OMIM
+db-key(3)/key: 601284
+reviewed: 2007-02
+published: 2018-04-17

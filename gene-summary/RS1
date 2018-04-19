@@ -1,0 +1,19 @@
+gene-symbol: RS1
+name: retinoschisin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/RS1
+text/text-role: function
+text/html: <p>The <i>RS1</i> gene provides instructions for making a protein called retinoschisin, which is found in the retina. The retina is a specialized light-sensitive tissue that lines the back of the eye. Retinoschisin attaches (binds) to the surface of specialized cells within the retina that detect light and color (photoreceptor cells). The protein also binds to bipolar cells, which  relay light signals from photoreceptor cells to other retinal cells. Studies suggest that retinoschisin plays a role in the development and maintenance of the retina and its specialized cells. Retinoschisin is likely involved in the organization of cells in the retina by attaching cells together (cell adhesion).</p>
+related-health-condition/name: X-linked juvenile retinoschisis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-juvenile-retinoschisis
+synonym(1): retinoschisin
+synonym(2): retinoschisis (X-linked, juvenile) 1
+synonym(3): RS
+synonym(4): X-linked juvenile retinoschisis protein
+synonym(5): XLRS1
+synonym(6): XLRS1_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6247
+db-key(2)/db: OMIM
+db-key(2)/key: 312700
+reviewed: 2015-03
+published: 2018-04-17

@@ -1,0 +1,20 @@
+gene-symbol: BLM
+name: Bloom syndrome RecQ like helicase
+ghr-page: https://ghr.nlm.nih.gov/gene/BLM
+text/text-role: function
+text/html: <p>The <i>BLM</i> gene provides instructions for making a member of a protein family called RecQ helicases. Helicases are enzymes that attach (bind) to DNA and unwind the two spiral strands (double helix) of the DNA molecule. This unwinding is necessary for several processes in the cell nucleus, including copying (replicating) DNA in preparation for cell division and repairing damaged DNA. Because RecQ helicases help maintain the structure and integrity of DNA, they are known as the "caretakers of the genome."</p><p>When a cell prepares to divide to form two cells, the DNA that makes up the chromosomes is copied so that each new cell will have two copies of each chromosome, one from each parent. The copied DNA from each chromosome is arranged into two identical structures, called sister chromatids, which are attached to one another during the early stages of cell division. Sister chromatids occasionally exchange small sections of DNA during this time, a process called sister chromatid exchange. Researchers suggest that these exchanges may be a response to DNA damage during the copying process. The BLM protein helps to prevent excess sister chromatid exchanges and is also involved in other processes that help maintain the stability of the DNA during the copying process.</p>
+related-health-condition/name: Bloom syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/bloom-syndrome
+synonym(1): BLM_HUMAN
+synonym(2): Bloom syndrome
+synonym(3): Bloom syndrome protein
+synonym(4): Bloom syndrome, RecQ helicase-like
+synonym(5): BS
+synonym(6): MGC126616
+synonym(7): RECQL3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 641
+db-key(2)/db: OMIM
+db-key(2)/key: 604610
+reviewed: 2015-04
+published: 2018-04-17

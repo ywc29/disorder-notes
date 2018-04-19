@@ -1,0 +1,32 @@
+gene-symbol: NR0B1
+name: nuclear receptor subfamily 0 group B member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/NR0B1
+text/text-role: function
+text/html: <p>The <i>NR0B1</i> gene provides instructions for making a protein called DAX1. This protein plays an important role in the development and function of several hormone-producing (endocrine) tissues in the body. These tissues include the small glands located on top of each kidney (the adrenal glands), two hormone-secreting glands in the brain (the hypothalamus and pituitary), and the gonads (ovaries in females and testes in males).  Before birth, the DAX1 protein helps regulate genes that direct the formation of these tissues.  DAX1 also helps regulate hormone production in endocrine tissues after they have been formed.</p>
+related-health-condition(1)/name: Swyer syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/swyer-syndrome
+related-health-condition(2)/name: X-linked adrenal hypoplasia congenita
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-adrenal-hypoplasia-congenita
+synonym(1): AHC
+synonym(2): AHCH
+synonym(3): AHX
+synonym(4): DAX-1
+synonym(5): DAX1
+synonym(6): DSS
+synonym(7): gonadotropin deficiency
+synonym(8): GTD
+synonym(9): HHG
+synonym(10): NR0B1_HUMAN
+synonym(11): nuclear hormone receptor
+synonym(12): nuclear receptor DAX-1
+synonym(13): nuclear receptor subfamily 0, group B, member 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 190
+db-key(2)/db: OMIM
+db-key(2)/key: 300018
+db-key(3)/db: OMIM
+db-key(3)/key: 300473
+db-key(4)/db: OMIM
+db-key(4)/key: 307030
+reviewed: 2015-03
+published: 2018-04-17

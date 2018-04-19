@@ -1,0 +1,22 @@
+gene-symbol: SHH
+name: sonic hedgehog
+ghr-page: https://ghr.nlm.nih.gov/gene/SHH
+text/text-role: function
+text/html: <p>The <i>SHH</i> gene provides instructions for making a protein called Sonic Hedgehog. This protein functions as a chemical signal that is essential for embryonic development. Sonic Hedgehog plays a role in cell growth, cell specialization, and the normal shaping (patterning) of the body. This protein is important for development of the brain and spinal cord (central nervous system), eyes, limbs, and many other parts of the body.</p><p>Sonic Hedgehog is necessary for the development of the front part of the brain (forebrain). This signaling protein helps establish the line that separates the right and left sides of the forebrain (the midline). Specifically, Sonic Hedgehog establishes the midline for the underside (ventral surface) of the forebrain. Sonic Hedgehog and other signaling proteins are needed to form the right and left halves (hemispheres) of the brain.</p><p>Sonic Hedgehog also has an important role in the formation of the eyes. During early development, the cells that develop into the eyes form a single structure called the eye field. This structure is located in the center of the developing face. Sonic hedgehog signaling causes the eye field to separate into two distinct eyes.</p>
+related-health-condition(1)/name: coloboma
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/coloboma
+related-health-condition(2)/name: microphthalmia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/microphthalmia
+related-health-condition(3)/name: nonsyndromic holoprosencephaly
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-holoprosencephaly
+synonym(1): HPE3
+synonym(2): SHH_HUMAN
+synonym(3): sonic hedgehog homolog (Drosophila)
+synonym(4): sonic hedgehog protein
+synonym(5): sonic hedgehog protein preproprotein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6469
+db-key(2)/db: OMIM
+db-key(2)/key: 600725
+reviewed: 2010-09
+published: 2018-04-17

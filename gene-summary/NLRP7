@@ -1,0 +1,25 @@
+gene-symbol: NLRP7
+name: NLR family pyrin domain containing 7
+ghr-page: https://ghr.nlm.nih.gov/gene/NLRP7
+text/text-role: function
+text/html: <p>The <i>NLRP7</i> gene provides instructions for making a protein that is thought to play a role in turning off (inactivating) genes based on which parent the copy of the gene came from, a phenomenon known as genomic imprinting. For most genes, both copies of the gene (one copy inherited from each parent) are active in all cells. For a small subset of genes, however, only one of the two copies is active; for some of these genes, the copy from the father is normally active, while for others, the copy from the mother is normally active. The NLRP7 protein is thought to be involved in imprinting multiple maternal genes in egg cells (oocytes) that contribute to a developing embryo, ensuring that the genes will be inactive; the corresponding paternal genes are active.</p><p>The NLRP7 protein is likely involved in cell growth and division (proliferation) and cell maturation (differentiation). Research suggests that the NLRP7 protein also plays a role in inflammation and other immune responses by regulating the release of an immune protein called interleukin-1 beta.</p>
+related-health-condition/name: recurrent hydatidiform mole
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/recurrent-hydatidiform-mole
+synonym(1): CLR19.4
+synonym(2): NACHT, leucine rich repeat and PYD containing 7
+synonym(3): NACHT, LRR and PYD containing protein 7
+synonym(4): NACHT, LRR and PYD domains-containing protein 7
+synonym(5): NALP7
+synonym(6): NLR family, pyrin domain containing 7
+synonym(7): NOD12
+synonym(8): nucleotide-binding oligomerization domain protein 12
+synonym(9): nucleotide-binding oligomerization domain, leucine rich repeat and pyrin domain containing 7
+synonym(10): PAN7
+synonym(11): PYPAF3
+synonym(12): PYRIN-containing Apaf1-like protein 3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 199713
+db-key(2)/db: OMIM
+db-key(2)/key: 609661
+reviewed: 2014-10
+published: 2018-04-17

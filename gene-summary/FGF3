@@ -1,0 +1,23 @@
+gene-symbol: FGF3
+name: fibroblast growth factor 3
+ghr-page: https://ghr.nlm.nih.gov/gene/FGF3
+text/text-role: function
+text/html: <p>The <i>FGF3</i> gene provides instructions for making a protein called fibroblast growth factor 3 (FGF3). This protein is part of a family of proteins called fibroblast growth factors that are involved in important processes such as cell division, regulation of cell growth and maturation, formation of blood vessels, wound healing, and development before birth. By attaching to another protein known as a receptor, FGF3 triggers a cascade of chemical reactions inside the cell that signal the cell to undergo certain changes, such as maturing to take on specialized functions. During development before birth, the signals triggered by the FGF3 protein stimulate cells to form the structures that make up the inner ears. The FGF3 protein is also involved in the development of many other organs and structures, including the outer ears and teeth.</p>
+related-health-condition/name: congenital deafness with labyrinthine aplasia, microtia, and microdontia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-deafness-with-labyrinthine-aplasia-microtia-and-microdontia
+synonym(1): FGF-3
+synonym(2): FGF3_HUMAN
+synonym(3): HBGF-3
+synonym(4): heparin-binding growth factor 3
+synonym(5): INT-2 proto-oncogene protein
+synonym(6): INT2
+synonym(7): murine mammary tumor virus integration site 2, mouse
+synonym(8): oncogene INT2
+synonym(9): proto-oncogene Int-2
+synonym(10): V-INT2 murine mammary tumor virus integration site oncogene homolog
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2248
+db-key(2)/db: OMIM
+db-key(2)/key: 164950
+reviewed: 2012-11
+published: 2018-04-17

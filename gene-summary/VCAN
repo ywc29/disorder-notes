@@ -1,0 +1,18 @@
+gene-symbol: VCAN
+name: versican
+ghr-page: https://ghr.nlm.nih.gov/gene/VCAN
+text/text-role: function
+text/html: <p>The <i>VCAN</i> gene provides instructions for making a protein called versican. Versican is a type of protein known as a proteoglycan, which means it has several sugar molecules attached to it. Versican is found in the extracellular matrix of many different tissues and organs. The extracellular matrix is the intricate lattice of proteins and other molecules that forms in the spaces between cells. Versican interacts with many proteins and molecules to facilitate the assembly of the extracellular matrix and ensure its stability. Within the eye, versican interacts with other proteins to maintain the structure and gel-like consistency of the thick clear fluid that fills the eyeball (the vitreous).</p><p>Researchers have proposed several additional functions for versican. This protein likely helps regulate cell growth and division, the attachment of cells to one another (cell adhesion), and cell movement (migration). Studies suggest that versican plays a role in forming new blood vessels (angiogenesis), wound healing, inflammation, and preventing the growth of cancerous tumors. Versican also regulates the activity of several growth factors, which control a diverse range of processes important for cell growth.</p><p>Four different versions (isoforms) of the versican protein are produced from the <i>VCAN</i> gene.  These isoforms (called V0, V1, V2, and V3) vary by size and by their location within the body.</p>
+related-health-condition/name: Wagner syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/wagner-syndrome
+synonym(1): chondroitin sulfate proteoglycan 2
+synonym(2): CSPG2
+synonym(3): CSPG2_HUMAN
+synonym(4): glial hyaluronate-binding protein
+synonym(5): versican proteoglycan
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1462
+db-key(2)/db: OMIM
+db-key(2)/key: 118661
+reviewed: 2010-01
+published: 2018-04-17

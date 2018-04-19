@@ -1,0 +1,22 @@
+gene-symbol: LIFR
+name: LIF receptor alpha
+ghr-page: https://ghr.nlm.nih.gov/gene/LIFR
+text/text-role: function
+text/html: <p>The <i>LIFR</i> gene provides instructions for making the leukemia inhibitory factor receptor (LIFR) protein. This receptor spans the cell membrane, which allows it to attach (bind) to other proteins, called ligands, outside the cell and send signals inside the cell that help the cell respond to its environment. Ligands and receptors fit together like keys into locks.</p><p>LIFR acts as a receptor for a molecule known as leukemia inhibitory factor (LIF) as well as other ligands. LIFR signaling can control several cellular processes, including growth and division (proliferation), maturation (differentiation), and survival. First found to be important in blocking (inhibiting) growth of blood cancer (leukemia) cells, this signaling is also involved in the formation of bone and the development of nerve cells. It appears to play an important role in normal development and functioning of the autonomic nervous system, which controls involuntary body processes such as the regulation of breathing rate and body temperature.</p>
+related-health-condition/name: Stüve-Wiedemann syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/stuve-wiedemann-syndrome
+synonym(1): CD118
+synonym(2): CD118 antigen
+synonym(3): leukemia inhibitory factor receptor alpha
+synonym(4): leukemia inhibitory factor receptor precursor
+synonym(5): LIF-R
+synonym(6): LIF receptor
+synonym(7): SJS2
+synonym(8): STWS
+synonym(9): SWS
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3977
+db-key(2)/db: OMIM
+db-key(2)/key: 151443
+reviewed: 2016-04
+published: 2018-04-17

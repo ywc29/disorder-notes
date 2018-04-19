@@ -1,0 +1,24 @@
+gene-symbol: CA5A
+name: carbonic anhydrase 5A
+ghr-page: https://ghr.nlm.nih.gov/gene/CA5A
+text/text-role: function
+text/html: <p>The <i>CA5A</i> gene provides instructions for making an enzyme called carbonic anhydrase VA. This enzyme helps convert carbon dioxide to a substance called bicarbonate. Bicarbonate is necessary to maintain the proper acid-base balance in the body, which is necessary for most biological reactions to proceed properly.</p><p>The carbonic anhydrase VA enzyme is particularly important in the liver, where it provides bicarbonate needed by four enzymes in the energy-producing centers of cells (mitochondria): carbomoyl phosphate synthetase-1, pyruvate carboxylase, propionyl-CoA carboxylase, and 3-methylcrotonyl-CoA carboxylase. These enzymes help control the amount of certain other substances in the body. Carbomoyl phosphate synthetase-1 is involved in the urea cycle, which processes excess nitrogen and prevents it from accumulating as ammonia, a substance that is toxic to the brain. Pyruvate carboxylase is involved in the production of the simple sugar glucose (gluconeogenesis) in the liver. Propionyl-CoA carboxylase and 3-methylcrotonyl-CoA carboxylase help break down certain protein building blocks (amino acids).</p>
+related-health-condition/name: carbonic anhydrase VA deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/carbonic-anhydrase-va-deficiency
+synonym(1): CA-VA
+synonym(2): CA5
+synonym(3): CA5AD
+synonym(4): carbonate dehydratase VA
+synonym(5): carbonic anhydrase 5A, mitochondrial precursor
+synonym(6): carbonic anhydrase V, mitochondrial
+synonym(7): carbonic anhydrase VA, mitochondrial
+synonym(8): carbonic dehydratase
+synonym(9): CAV
+synonym(10): CAVA
+synonym(11): GS1-21A4.1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 763
+db-key(2)/db: OMIM
+db-key(2)/key: 114761
+reviewed: 2016-09
+published: 2018-04-17

@@ -1,0 +1,18 @@
+gene-symbol: TSHB
+name: thyroid stimulating hormone beta
+ghr-page: https://ghr.nlm.nih.gov/gene/TSHB
+text/text-role: function
+text/html: <p>The <i>TSHB</i> gene provides instructions for one piece (subunit) of a hormone called thyroid stimulating hormone (TSH). Thyroid stimulating hormone consists of two subunits called alpha and beta. The <i>TSHB</i> gene provides instructions for making the beta subunit. The alpha and beta subunits are bound together to produce the active form of the hormone. A particular segment of the beta subunit, known as the buckle or seatbelt, wraps around the alpha subunit to form the active hormone. This seatbelt region also helps stabilize the hormone's structure.</p><p>Thyroid stimulating hormone is made in the pituitary gland, a gland at the base of the brain. This hormone plays an important role in the growth and function of the thyroid gland, a butterfly-shaped tissue in the lower neck. It also stimulates the production of thyroid hormones, which play a critical role in regulating growth, brain development, and the rate of chemical reactions in the body (metabolism). The pituitary gland monitors levels of thyroid hormones. When thyroid hormone levels are too low, the pituitary gland releases thyroid stimulating hormone into the bloodstream. Thyroid stimulating hormone, in turn, signals increased thyroid gland growth and production of thyroid hormones.</p>
+related-health-condition/name: congenital hypothyroidism
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-hypothyroidism
+synonym(1): thyroid stimulating hormone, beta
+synonym(2): thyrotropin beta chain precursor
+synonym(3): thyrotropin beta subunit
+synonym(4): TSH-BETA
+synonym(5): TSHB_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7252
+db-key(2)/db: OMIM
+db-key(2)/key: 188540
+reviewed: 2015-09
+published: 2018-04-17

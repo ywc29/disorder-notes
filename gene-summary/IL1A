@@ -1,0 +1,30 @@
+gene-symbol: IL1A
+name: interleukin 1 alpha
+ghr-page: https://ghr.nlm.nih.gov/gene/IL1A
+text/text-role: function
+text/html: <p>The <i>IL1A</i> gene provides instructions for making a protein called interleukin-1 alpha. Interleukins are a group of proteins that are made primarily in immune system cells.  They are involved in cell-to-cell communication and have a wide variety of functions within the immune system. Interleukin-1 alpha is described as "pro-inflammatory" because it stimulates the activity of genes involved in inflammation and immunity. This protein plays a critical role in protecting the body from foreign invaders such as bacteria and viruses.  It is also involved in bone resorption, the breakdown and removal of bone tissue that is no longer needed.</p><p>Interleukin-1 alpha is initially produced as a relatively long protein that is trapped within cells. Another protein, called calpain, cuts (cleaves) this precursor protein to create a shorter, mature version of interleukin-1 alpha. The shorter form of this protein is secreted by immune system cells to influence the functions of other cells.</p>
+related-health-condition(1)/name: ankylosing spondylitis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/ankylosing-spondylitis
+related-health-condition(2)/name: idiopathic inflammatory myopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/idiopathic-inflammatory-myopathy
+related-health-condition(3)/name: intervertebral disc disease
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/intervertebral-disc-disease
+related-health-condition(4)/name: keratoconus
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/keratoconus
+synonym(1): hematopoietin-1
+synonym(2): IL-1 alpha
+synonym(3): IL-1A
+synonym(4): IL1
+synonym(5): IL1-ALPHA
+synonym(6): IL1A_HUMAN
+synonym(7): IL1F1
+synonym(8): Interleukin-1 alpha
+synonym(9): interleukin 1, alpha
+synonym(10): preinterleukin 1 alpha
+synonym(11): pro-interleukin-1-alpha
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3552
+db-key(2)/db: OMIM
+db-key(2)/key: 147760
+reviewed: 2011-02
+published: 2018-04-17

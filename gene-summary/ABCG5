@@ -1,0 +1,20 @@
+gene-symbol: ABCG5
+name: ATP binding cassette subfamily G member 5
+ghr-page: https://ghr.nlm.nih.gov/gene/ABCG5
+text/text-role: function
+text/html: <p>The <i>ABCG5</i> gene provides instructions for making sterolin-1, which makes up half of a protein called sterolin. The other half of the sterolin protein, sterolin-2, is produced from a gene called <i>ABCG8</i>. Sterolin is involved in eliminating plant sterols, which are fatty components of plant-based foods that cannot be used by human cells.</p><p>Sterolin is a transporter protein, which is a type of protein that moves substances across cell membranes. It is found mostly in cells of the intestines and liver and transports plant sterols. After plant sterols are absorbed from food into intestinal cells, the sterolin transporters in these cells pump them back into the intestinal tract. Sterolin transporters in liver cells pump the plant sterols into a fluid called bile that is released into the intestine. From the intestine, the plant sterols are eliminated with the feces. This process removes most of the dietary plant sterols, and allows only about 5 percent of these substances to get into the bloodstream. Sterolin also helps regulate levels of cholesterol, another fatty substance found in animal products, in a similar fashion; normally about 50 percent of cholesterol in the diet is absorbed by the body.</p>
+related-health-condition/name: sitosterolemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/sitosterolemia
+synonym(1): ABCG5_HUMAN
+synonym(2): ATP-binding cassette sub-family G member 5
+synonym(3): ATP-binding cassette, sub-family G (WHITE), member 5
+synonym(4): ATP-binding cassette, subfamily G, member 5
+synonym(5): sterolin 1
+synonym(6): sterolin-1
+synonym(7): STSL
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 64240
+db-key(2)/db: OMIM
+db-key(2)/key: 605459
+reviewed: 2013-05
+published: 2018-04-17

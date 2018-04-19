@@ -1,0 +1,22 @@
+name: Paroxysmal nocturnal hemoglobinuria
+ghr-page: https://ghr.nlm.nih.gov/condition/paroxysmal-nocturnal-hemoglobinuria
+text/text-role: description
+text/html: <p>Paroxysmal nocturnal hemoglobinuria is an acquired disorder that leads to the premature death and impaired production of blood cells. The disorder affects red blood cells (erythrocytes), which carry oxygen; white blood cells (leukocytes), which protect the body from infection; and platelets (thrombocytes), which are involved in blood clotting. Paroxysmal nocturnal hemoglobinuria affects both sexes equally, and can occur at any age, although it is most often diagnosed in young adulthood.</p><p>People with paroxysmal nocturnal hemoglobinuria have sudden, recurring episodes of symptoms (paroxysmal symptoms), which may be triggered by stresses on the body, such as infections or physical exertion. During these episodes, red blood cells are prematurely destroyed (hemolysis). Affected individuals may pass dark-colored urine due to the presence of hemoglobin, the oxygen-carrying protein in blood. The abnormal presence of hemoglobin in the urine is called hemoglobinuria. In many, but not all cases, hemoglobinuria is most noticeable in the morning, upon passing urine that has accumulated in the bladder during the night (nocturnal).</p><p>The premature destruction of red blood cells results in a deficiency of these cells in the blood (hemolytic anemia), which can cause signs and symptoms such as fatigue, weakness, abnormally pale skin (pallor), shortness of breath, and an increased heart rate. People with paroxysmal nocturnal hemoglobinuria may also be prone to  infections due to a deficiency of white blood cells.</p><p>Abnormal platelets associated with paroxysmal nocturnal hemoglobinuria can cause problems in the blood clotting process. As a result, people with this disorder may experience abnormal blood clotting (thrombosis), especially in large abdominal veins; or, less often, episodes of severe bleeding (hemorrhage).</p><p>Individuals with paroxysmal nocturnal hemoglobinuria are at increased risk of developing cancer in blood-forming cells (leukemia).</p><p>In some cases, people who have been treated for another blood disease called aplastic anemia may develop paroxysmal nocturnal hemoglobinuria.</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+related-gene/gene-symbol: PIGA
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PIGA
+synonym(1): Hemoglobinuria, Paroxysmal
+synonym(2): Marchiafava-Micheli Syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0024790
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D59.5
+db-key(3)/db: MeSH
+db-key(3)/key: D006457
+db-key(4)/db: OMIM
+db-key(4)/key: 311770
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 1963002
+reviewed: 2007-05
+published: 2018-04-17

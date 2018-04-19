@@ -1,0 +1,19 @@
+gene-symbol: GP6
+name: glycoprotein VI platelet
+ghr-page: https://ghr.nlm.nih.gov/gene/GP6
+text/text-role: function
+text/html: <p>The <i>GP6</i> gene provides instructions for making a protein called glycoprotein VI (GPVI). GPVI is a receptor protein that is embedded in the outer membrane of blood cell fragments called platelets, which are an essential component of blood clots. Normally, blood clots protect the body after an injury by sealing off damaged blood vessels and preventing further blood loss.</p><p>Receptor proteins, like GPVI, have specific sites into which certain other proteins, called ligands, fit like keys into locks. Together, ligands and their receptors trigger signals that affect cell function. The main ligand for GPVI is a protein called collagen, which is found on blood vessel walls. In response to an injury that causes bleeding, the GPVI protein attaches (binds) to collagen, which begins clot formation and signals additional platelets to come together to increase the size of the clot. The GPVI protein can also bind to a protein called fibrin, which is the main protein that forms blood clots.</p>
+related-health-condition/name: glycoprotein VI deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glycoprotein-vi-deficiency
+synonym(1): glycoprotein 6
+synonym(2): GPVI
+synonym(3): GPVI collagen receptor
+synonym(4): platelet collagen receptor
+synonym(5): platelet glycoprotein VI
+synonym(6): platelet membrane glycoprotein VI
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51206
+db-key(2)/db: OMIM
+db-key(2)/key: 605546
+reviewed: 2017-04
+published: 2018-04-17

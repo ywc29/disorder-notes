@@ -1,0 +1,32 @@
+name: Fabry disease
+ghr-page: https://ghr.nlm.nih.gov/condition/fabry-disease
+text/text-role: description
+text/html: <p>Fabry disease is an inherited disorder that results from the buildup of a particular type of fat, called globotriaosylceramide, in the body's cells. Beginning in childhood, this buildup causes signs and symptoms that affect many parts of the body. Characteristic features of Fabry disease include episodes of pain, particularly in the hands and feet (acroparesthesias); clusters of small, dark red spots on the skin called angiokeratomas; a decreased ability to sweat (hypohidrosis); cloudiness of the front part of the eye (corneal opacity); problems with the gastrointestinal system; ringing in the ears (tinnitus); and hearing loss. Fabry disease also involves potentially life-threatening complications such as progressive kidney damage, heart attack, and stroke. Some affected individuals have milder forms of the disorder that appear later in life and affect only the heart or kidneys.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: GLA
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GLA
+synonym(1): alpha-galactosidase A deficiency
+synonym(2): Anderson-Fabry disease
+synonym(3): angiokeratoma corporis diffusum
+synonym(4): angiokeratoma diffuse
+synonym(5): ceramide trihexosidase deficiency
+synonym(6): Fabry's disease
+synonym(7): GLA deficiency
+synonym(8): hereditary dystopic lipidosis
+db-key(1)/db: GTR
+db-key(1)/key: C0002986
+db-key(2)/db: GeneReviews
+db-key(2)/key: fabry
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E75.21
+db-key(4)/db: MeSH
+db-key(4)/key: D000795
+db-key(5)/db: Orphanet
+db-key(5)/key: 324
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 124464003
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 16652001
+reviewed: 2012-02
+published: 2018-04-17

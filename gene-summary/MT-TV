@@ -1,0 +1,20 @@
+gene-symbol: MT-TV
+name: mitochondrially encoded tRNA valine
+ghr-page: https://ghr.nlm.nih.gov/gene/MT-TV
+text/text-role: function
+text/html: <p>The <i>MT-TV</i> gene provides instructions for making a particular type of RNA, a molecule that is a chemical cousin of DNA.  This type of RNA, called transfer RNA (tRNA), helps assemble protein building blocks known as amino acids into full-length, functioning proteins. The <i>MT-TV</i> gene provides instructions for a specific form of transfer RNA that is designated as tRNA<sup>Val</sup>.  This molecule attaches to a particular amino acid, valine (Val), and inserts it into the appropriate locations in many different proteins.</p><p>The tRNA<sup>Val</sup> molecule is present only in cellular structures called mitochondria.  These structures convert energy from food into a form that cells can use. Through a process called oxidative phosphorylation, mitochondria use oxygen and simple sugars to create adenosine triphosphate (ATP), the cell's main energy source.  The tRNA<sup>Val</sup> molecule is involved in the assembly of proteins that carry out oxidative phosphorylation.</p>
+related-health-condition(1)/name: Leigh syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+related-health-condition(2)/name: mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/mitochondrial-encephalomyopathy-lactic-acidosis-and-stroke-like-episodes
+synonym(1): MTTV
+synonym(2): tRNA-Val, mitochondrial
+synonym(3): tRNA valine
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4577
+db-key(2)/db: OMIM
+db-key(2)/key: 256000
+db-key(3)/db: OMIM
+db-key(3)/key: 590105
+reviewed: 2006-11
+published: 2018-04-17

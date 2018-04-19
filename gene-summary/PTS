@@ -1,0 +1,20 @@
+gene-symbol: PTS
+name: 6-pyruvoyltetrahydropterin synthase
+ghr-page: https://ghr.nlm.nih.gov/gene/PTS
+text/text-role: function
+text/html: <p>The <i>PTS</i> gene provides instructions for making an enzyme called 6-pyruvoyltetrahydropterin synthase.  This enzyme is involved in the second of three steps in the production of a molecule called tetrahydrobiopterin (BH4). Other enzymes help carry out the first and third steps in this process.</p><p>Tetrahydrobiopterin plays a critical role in processing several protein building blocks (amino acids) in the body. For example, it works with the enzyme phenylalanine hydroxylase to convert an amino acid called phenylalanine into another amino acid, tyrosine. Tetrahydrobiopterin is also involved in reactions that produce chemicals called neurotransmitters, which transmit signals between nerve cells in the brain. Because it helps enzymes carry out chemical reactions, tetrahydrobiopterin is known as a cofactor.</p>
+related-health-condition/name: tetrahydrobiopterin deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/tetrahydrobiopterin-deficiency
+synonym(1): 6-pyruvoyl-H4-pterin synthase
+synonym(2): 6-pyruvoyl-tetrahydropterin synthase
+synonym(3): PTP synthase
+synonym(4): PTPS
+synonym(5): PTPS_HUMAN
+synonym(6): sepiapterin synthase A
+synonym(7): sepiapterin synthesizing enzyme 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5805
+db-key(2)/db: OMIM
+db-key(2)/key: 612719
+reviewed: 2011-07
+published: 2018-04-17

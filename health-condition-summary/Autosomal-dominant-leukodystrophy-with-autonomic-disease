@@ -1,0 +1,24 @@
+name: Autosomal dominant leukodystrophy with autonomic disease
+ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-leukodystrophy-with-autonomic-disease
+text/text-role: description
+text/html: <p>Autosomal dominant leukodystrophy with autonomic disease (ADLD) is one of a group of genetic disorders called leukodystrophies. Leukodystrophies are characterized by abnormalities of the nervous system's white matter, which consists of nerve fibers covered by a fatty substance called myelin. Myelin insulates and protects nerve fibers and promotes the rapid transmission of nerve impulses.</p><p>People with ADLD develop signs and symptoms of the condition in adulthood, typically in their forties or fifties. The first signs of the condition often involve problems with the autonomic nervous system, which controls involuntary body processes such as the regulation of blood pressure and body temperature. These problems include difficulty with bowel and bladder function, a sharp drop in blood pressure upon standing (orthostatic hypotension), and erectile dysfunction in men. Rarely, people experience an inability to sweat (anhidrosis), which can lead to a dangerously high body temperature.</p><p>In ADLD, movement difficulties often develop after the autonomic nervous system problems. Affected individuals can have muscle stiffness (spasticity) or weakness and involuntary rhythmic shaking, called intention tremor because it worsens during movement. People with ADLD often have difficulty coordinating movements (ataxia), including movements that involve judging distance or scale (dysmetria), such as picking up a distant object, and rapidly alternating movements (dysdiadochokinesis), including hand clapping or foot stomping. These movement problems usually first affect the legs, but as the condition worsens, the arms and eventually the face become involved. In some people with ADLD, the symptoms worsen during episodes of fever, infection, or exposure to heat. Due to difficulty walking and an unsteady gait, many affected individuals need a cane, walker, or wheelchair for assistance.</p><p>Intelligence is usually unaffected; however, people who have had ADLD for a long time may have a decline in intellectual function (dementia). ADLD worsens slowly, and affected individuals usually survive 10 to 20 years after the onset of symptoms.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: LMNB1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LMNB1
+synonym(1): ADLD
+synonym(2): adult-onset autosomal dominant leukodystrophy with autonomic symptoms
+synonym(3): autosomal dominant adult-onset demyelinating leukodystrophy
+synonym(4): LMNB1-related adult-onset autosomal dominant leukodystrophy
+db-key(1)/db: GTR
+db-key(1)/key: C1868512
+db-key(2)/db: GeneReviews
+db-key(2)/key: lad-ad
+db-key(3)/db: MeSH
+db-key(3)/key: D020279
+db-key(4)/db: Orphanet
+db-key(4)/key: 99027
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 448054001
+reviewed: 2016-09
+published: 2018-04-17

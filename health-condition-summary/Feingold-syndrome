@@ -1,0 +1,31 @@
+name: Feingold syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/feingold-syndrome
+text/text-role: description
+text/html: <p>Feingold syndrome is a disorder that affects many parts of the body. The signs and symptoms of this condition vary among affected individuals, even among members of the same family.</p><p>Individuals with Feingold syndrome have characteristic abnormalities of their fingers and toes.  Almost all people with this condition have a specific hand abnormality called brachymesophalangy, which refers to shortening of the second and fifth fingers. Other common abnormalities include fifth fingers that curve inward (clinodactyly), underdeveloped thumbs (thumb hypoplasia), and fusion (syndactyly) of the second and third toes or the fourth and fifth toes.</p><p>People with Feingold syndrome are frequently born with a blockage in part of their digestive system called gastrointestinal atresia. In most cases, the blockage occurs in the esophagus (esophageal atresia) or in part of the small intestine (duodenal atresia). Additional common features of Feingold syndrome include an unusually small head size (microcephaly), a small jaw (micrognathia), a narrow opening of the eyelids (short palpebral fissures), and mild to moderate learning disability. Less often, affected individuals have hearing loss, impaired growth, and kidney and heart abnormalities.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: MYCN
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MYCN
+synonym(1): microcephaly-mesobrachyphalangy-tracheoesophageal fistula (MMT) syndrome
+synonym(2): microcephaly-oculo-digito-esophageal-duodenal (MODED) syndrome
+synonym(3): oculo-digito-esophagoduodental (ODED) syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0796068
+db-key(2)/db: GTR
+db-key(2)/key: C3280489
+db-key(3)/db: GTR
+db-key(3)/key: CN199181
+db-key(4)/db: GeneReviews
+db-key(4)/key: feingold
+db-key(5)/db: MeSH
+db-key(5)/key: D030342
+db-key(6)/db: OMIM
+db-key(6)/key: 164280
+db-key(7)/db: OMIM
+db-key(7)/key: 614326
+db-key(8)/db: Orphanet
+db-key(8)/key: 1305
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 702431004
+reviewed: 2009-09
+published: 2018-04-17

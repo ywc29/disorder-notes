@@ -1,0 +1,28 @@
+name: Boucher-Neuhäuser syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/boucher-neuhauser-syndrome
+text/text-role: description
+text/html: <p>Boucher-Neuhäuser syndrome is a rare disorder that affects movement, vision, and sexual development. It is part of a continuous spectrum of neurological conditions, known as <i>PNPLA6</i>-related disorders, that share a genetic cause and have a combination of overlapping features. Boucher-Neuhäuser syndrome is characterized by three specific features: ataxia, hypogonadotropic hypogonadism, and chorioretinal dystrophy.</p><p>Ataxia describes difficulty with coordination and balance. In Boucher-Neuhäuser syndrome, it arises from a loss of cells (atrophy) in the part of the brain involved in coordinating movements (the cerebellum). Affected individuals have an unsteady walking style (gait) and frequent falls.</p><p>Another key feature of Boucher-Neuhäuser syndrome is hypogonadotropic hypogonadism, which is a condition affecting the production of hormones that direct sexual development. Affected individuals have a delay in development of the typical signs of puberty, such as the growth of facial hair and deepening of the voice in males, and the start of monthly periods (menstruation) and breast development in females. Other hormone abnormalities lead to short stature in some affected individuals.</p><p>The third characteristic feature of Boucher-Neuhäuser syndrome is eye abnormalities, most commonly chorioretinal dystrophy. Chorioretinal dystrophy refers to problems with the light-sensitive tissue that lines the back of the eye (the retina) and a nearby tissue layer called the choroid. These eye abnormalities lead to impaired vision. People with Boucher-Neuhäuser syndrome can also have abnormal eye movements, including involuntary side-to-side movements of the eyes (nystagmus).</p><p>The key features of Boucher-Neuhäuser syndrome can begin anytime from infancy to adulthood, although at least one feature usually occurs by adolescence. Ataxia is often the initial symptom of the disorder, but vision problems or delayed puberty can be the earliest finding. Vision and movement problems worsen slowly throughout life and can result in blindness or the need for a wheelchair for mobility in the most severely affected individuals.</p><p>People with Boucher-Neuhäuser syndrome can have additional medical problems, including muscle stiffness (spasticity); impaired speech (dysarthria); and difficulty processing, learning, or remembering information (cognitive impairment).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: PNPLA6
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PNPLA6
+synonym(1): ataxia-hypogonadism-choroidal dystrophy syndrome
+synonym(2): BNHS
+synonym(3): BNS
+synonym(4): cerebellar ataxia with hypogonadism and choroidal dystrophy syndrome
+synonym(5): chorioretinal dystrophy, spinocerebellar ataxia, and hypogonadotropic hypogonadism
+synonym(6): spinocerebellar ataxia, hypogonadotropic hypogonadism, and chorioretinal dystrophy
+db-key(1)/db: GTR
+db-key(1)/key: C1859093
+db-key(2)/db: GeneReviews
+db-key(2)/key: pnpla6-dis
+db-key(3)/db: MeSH
+db-key(3)/key: D052439
+db-key(4)/db: OMIM
+db-key(4)/key: 215470
+db-key(5)/db: Orphanet
+db-key(5)/key: 1180
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 715984007
+reviewed: 2016-10
+published: 2018-04-17

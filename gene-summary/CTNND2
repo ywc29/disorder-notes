@@ -1,0 +1,21 @@
+gene-symbol: CTNND2
+name: catenin delta 2
+ghr-page: https://ghr.nlm.nih.gov/gene/CTNND2
+text/text-role: function
+text/html: <p>The <i>CTNND2</i> gene provides instructions for making a protein called delta-catenin. This protein is active in the nervous system, where it likely helps cells stick together (cell adhesion) and plays a role in cell movement. In the developing brain, it may help guide nerve cells to their proper positions as part of a process known as neuronal migration.</p><p>In mature nerve cells, delta-catenin is located in specialized outgrowths called dendrites. Dendrites branch out from the cell and receive information from nearby nerve cells. This information is relayed across synapses, which are junctions between nerve cells where cell-to-cell communication occurs. Delta-catenin appears to play a crucial role in the function of synapses.</p>
+related-health-condition(1)/name: autism spectrum disorder
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autism-spectrum-disorder
+related-health-condition(2)/name: cri-du-chat syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cri-du-chat-syndrome
+synonym(1): catenin (cadherin-associated protein), delta 2
+synonym(2): CTND2_HUMAN
+synonym(3): GT24
+synonym(4): neural plakophilin-related armadillo-repeat protein
+synonym(5): neurojungin
+synonym(6): NPRAP
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1501
+db-key(2)/db: OMIM
+db-key(2)/key: 604275
+reviewed: 2010-02
+published: 2018-04-17

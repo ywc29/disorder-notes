@@ -1,0 +1,105 @@
+name: Zellweger spectrum disorder
+ghr-page: https://ghr.nlm.nih.gov/condition/zellweger-spectrum-disorder
+text/text-role: description
+text/html: <p>Zellweger spectrum disorder is a group of conditions that have overlapping signs and symptoms and affect many parts of the body. This group of conditions includes Zellweger syndrome, neonatal adrenoleukodystrophy (NALD), and infantile Refsum disease. These conditions were once thought to be distinct disorders but are now considered to be part of the same condition spectrum. Zellweger syndrome is the most severe form of the Zellweger spectrum disorder, NALD is intermediate in severity, and infantile Refsum disease is the least severe form. Because these three conditions are now considered one disorder, some researchers prefer not to use the separate condition names but to instead refer to cases as severe, intermediate, or mild.</p><p>Individuals with Zellweger syndrome, at the severe end of the spectrum, develop signs and symptoms of the condition during the newborn period. These infants experience weak muscle tone (hypotonia), feeding problems, hearing and vision loss, and seizures. These problems are caused by the breakdown of myelin, which is the covering that protects nerves and promotes the efficient transmission of nerve impulses. The part of the brain and spinal cord that contains myelin is called white matter. Destruction of myelin (demyelination) leads to loss of white matter (leukodystrophy). Children with Zellweger syndrome also develop life-threatening problems in other organs and tissues, such as the liver, heart, and kidneys. They may have skeletal abnormalities, including a large space between the bones of the skull (fontanelles) and characteristic bone spots known as chondrodysplasia punctata that can be seen on x-ray. Affected individuals have distinctive facial features, including a flattened face, broad nasal bridge, and high forehead. Children with Zellweger syndrome typically do not survive beyond the first year of life.</p><p>People with NALD or infantile Refsum disease, which are at the less-severe end of the spectrum, have more variable features than those with Zellweger syndrome and usually do not develop signs and symptoms of the disease until late infancy or early childhood. They may have many of the features of Zellweger syndrome; however, their condition typically progresses more slowly. Children with these less-severe conditions often have hypotonia, vision problems, hearing loss, liver dysfunction, developmental delay, and some degree of intellectual disability. Most people with NALD survive into childhood, and those with infantile Refsum disease may reach adulthood. In rare cases, individuals at the mildest end of the condition spectrum have developmental delay in childhood and hearing loss or vision problems beginning in adulthood and do not develop the other features of this disorder.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: PEX1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX1
+related-gene(2)/gene-symbol: PEX2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX2
+related-gene(3)/gene-symbol: PEX3
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX3
+related-gene(4)/gene-symbol: PEX5
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX5
+related-gene(5)/gene-symbol: PEX6
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX6
+related-gene(6)/gene-symbol: PEX10
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX10
+related-gene(7)/gene-symbol: PEX11B
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX11B
+related-gene(8)/gene-symbol: PEX12
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX12
+related-gene(9)/gene-symbol: PEX13
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX13
+related-gene(10)/gene-symbol: PEX14
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX14
+related-gene(11)/gene-symbol: PEX16
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX16
+related-gene(12)/gene-symbol: PEX19
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX19
+related-gene(13)/gene-symbol: PEX26
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX26
+synonym(1): cerebrohepatorenal syndrome
+synonym(2): PBD-ZSD
+synonym(3): PBD, ZSS
+synonym(4): peroxisome biogenesis disorders, Zellweger syndrome spectrum
+synonym(5): Zellweger spectrum
+synonym(6): Zellweger syndrome spectrum
+synonym(7): ZSD
+db-key(1)/db: GTR
+db-key(1)/key: C0043459
+db-key(2)/db: GTR
+db-key(2)/key: C0282525
+db-key(3)/db: GTR
+db-key(3)/key: C0282527
+db-key(4)/db: GTR
+db-key(4)/key: C1832200
+db-key(5)/db: GeneReviews
+db-key(5)/key: pbd
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: E71.510
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: E71.511
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: G60.1
+db-key(9)/db: MeSH
+db-key(9)/key: D015211
+db-key(10)/db: OMIM
+db-key(10)/key: 202370
+db-key(11)/db: OMIM
+db-key(11)/key: 214100
+db-key(12)/db: OMIM
+db-key(12)/key: 214110
+db-key(13)/db: OMIM
+db-key(13)/key: 266510
+db-key(14)/db: OMIM
+db-key(14)/key: 601539
+db-key(15)/db: OMIM
+db-key(15)/key: 614859
+db-key(16)/db: OMIM
+db-key(16)/key: 614862
+db-key(17)/db: OMIM
+db-key(17)/key: 614866
+db-key(18)/db: OMIM
+db-key(18)/key: 614870
+db-key(19)/db: OMIM
+db-key(19)/key: 614872
+db-key(20)/db: OMIM
+db-key(20)/key: 614876
+db-key(21)/db: OMIM
+db-key(21)/key: 614882
+db-key(22)/db: OMIM
+db-key(22)/key: 614883
+db-key(23)/db: OMIM
+db-key(23)/key: 614886
+db-key(24)/db: OMIM
+db-key(24)/key: 614887
+db-key(25)/db: OMIM
+db-key(25)/key: 614920
+db-key(26)/db: Orphanet
+db-key(26)/key: 44
+db-key(27)/db: Orphanet
+db-key(27)/key: 772
+db-key(28)/db: Orphanet
+db-key(28)/key: 912
+db-key(29)/db: Orphanet
+db-key(29)/key: 79189
+db-key(30)/db: SNOMED CT
+db-key(30)/key: 238061001
+db-key(31)/db: SNOMED CT
+db-key(31)/key: 238062008
+db-key(32)/db: SNOMED CT
+db-key(32)/key: 88469006
+reviewed: 2015-06
+published: 2018-04-17

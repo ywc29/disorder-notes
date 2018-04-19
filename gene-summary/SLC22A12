@@ -1,0 +1,22 @@
+gene-symbol: SLC22A12
+name: solute carrier family 22 member 12
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC22A12
+text/text-role: function
+text/html: <p>The <i>SLC22A12</i> gene provides instructions for making a protein called urate transporter 1 (URAT1). This protein is found in the kidneys, specifically in structures called proximal tubules. These structures help to reabsorb needed nutrients, water, and other materials into the blood and excrete unneeded substances into the urine. Within the proximal tubules, the URAT1 protein helps transport molecules by exchanging negatively charged atoms (anions) for a substance called uric acid. Uric acid is a byproduct of certain normal chemical reactions in the body. In the bloodstream it acts as an antioxidant, protecting cells from the damaging effects of unstable molecules called free radicals. However, having too much uric acid in the body is toxic, so excess uric acid is removed from the body in urine. The URAT1 protein helps reabsorb uric acid (or a similar version of this substance called urate) into the bloodstream or release it into the urine, depending on the body's needs. Most uric acid that is filtered through the kidneys is reabsorbed into the bloodstream; about 10 percent is released into urine.</p>
+related-health-condition/name: renal hypouricemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/renal-hypouricemia
+synonym(1): OAT4L
+synonym(2): organic anion transporter 4-like protein
+synonym(3): renal-specific transporter
+synonym(4): RST
+synonym(5): solute carrier family 22 (organic anion/cation transporter), member 12
+synonym(6): solute carrier family 22 (organic anion/urate transporter), member 12
+synonym(7): URAT1
+synonym(8): urate anion exchanger 1
+synonym(9): urate transporter 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 116085
+db-key(2)/db: OMIM
+db-key(2)/key: 607096
+reviewed: 2015-01
+published: 2018-04-17

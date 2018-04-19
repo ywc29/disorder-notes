@@ -1,0 +1,36 @@
+name: Hypokalemic periodic paralysis
+ghr-page: https://ghr.nlm.nih.gov/condition/hypokalemic-periodic-paralysis
+text/text-role: description
+text/html: <p>Hypokalemic periodic paralysis is a condition that causes episodes of extreme muscle weakness typically beginning in childhood or adolescence.  Most often, these episodes involve a temporary inability to move muscles in the arms and legs.  Attacks cause severe weakness or paralysis that usually lasts from hours to days.  Some people may have episodes almost every day, while others experience them weekly, monthly, or only rarely.  Attacks can occur without warning or can be triggered by factors such as rest after exercise, a viral illness, or certain medications.  Often, a large, carbohydrate-rich meal or vigorous exercise in the evening can trigger an attack upon waking the following morning.  Although affected individuals usually regain their muscle strength between attacks, repeated episodes can lead to persistent muscle weakness later in life.</p><p>People with hypokalemic periodic paralysis have reduced levels of potassium in their blood (hypokalemia) during episodes of muscle weakness. Researchers are investigating how low potassium levels may be related to the muscle abnormalities in this condition.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CACNA1S
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CACNA1S
+related-gene(2)/gene-symbol: SCN4A
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN4A
+synonym(1): Familial Hypokalemic Periodic Paralysis
+synonym(2): HOKPP
+synonym(3): HypoKPP
+synonym(4): HypoPP
+synonym(5): Primary Hypokalemic Periodic Paralysis
+synonym(6): Westphall disease
+db-key(1)/db: GTR
+db-key(1)/key: C0238358
+db-key(2)/db: GTR
+db-key(2)/key: C2750061
+db-key(3)/db: GTR
+db-key(3)/key: C3714580
+db-key(4)/db: GeneReviews
+db-key(4)/key: hpp
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: G72.3
+db-key(6)/db: MeSH
+db-key(6)/key: D020514
+db-key(7)/db: OMIM
+db-key(7)/key: 170400
+db-key(8)/db: Orphanet
+db-key(8)/key: 681
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 82732003
+reviewed: 2017-10
+published: 2018-04-17

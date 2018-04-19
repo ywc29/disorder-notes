@@ -1,0 +1,24 @@
+name: Christianson syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/christianson-syndrome
+text/text-role: description
+text/html: <p>Christianson syndrome is a disorder that primarily affects the nervous system. This condition becomes apparent in infancy. Its characteristic features include delayed development, intellectual disability, an inability to speak, problems with balance and coordination (ataxia), and difficulty standing or walking. Individuals who do learn to walk lose the ability in childhood. Most affected children also have recurrent seizures (epilepsy), beginning between ages 1 and 2.</p><p>Other features seen in many people with Christianson syndrome include a small head size (microcephaly); a long, narrow face with prominent nose, jaw, and ears; an open mouth and uncontrolled drooling; and abnormal eye movements. Affected children often have a happy demeanor with frequent smiling and spontaneous laughter.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: SLC9A6
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SLC9A6
+synonym(1): Angelman-like syndrome, X-linked
+synonym(2): intellectual deficit, X-linked, South African type
+db-key(1)/db: GTR
+db-key(1)/key: C2678194
+db-key(2)/db: GeneReviews
+db-key(2)/key: christianson
+db-key(3)/db: MeSH
+db-key(3)/key: D038901
+db-key(4)/db: OMIM
+db-key(4)/key: 300243
+db-key(5)/db: Orphanet
+db-key(5)/key: 85278
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702354007
+reviewed: 2012-04
+published: 2018-04-17

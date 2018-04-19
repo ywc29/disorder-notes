@@ -1,0 +1,25 @@
+name: TK2-related mitochondrial DNA depletion syndrome, myopathic form
+ghr-page: https://ghr.nlm.nih.gov/condition/tk2-related-mitochondrial-dna-depletion-syndrome-myopathic-form
+text/text-role: description
+text/html: <p><i>TK2</i>-related mitochondrial DNA depletion syndrome, myopathic form (<i>TK2</i>-MDS) is an inherited condition that causes progressive muscle weakness (myopathy).</p><p>The signs and symptoms of <i>TK2</i>-MDS typically begin in early childhood. Development is usually normal early in life, but as muscle weakness progresses, people with <i>TK2</i>-MDS lose motor skills such as standing, walking, eating, and talking. Some affected individuals have increasing weakness in the muscles that control eye movement, leading to droopy eyelids (progressive external ophthalmoplegia).</p><p>Most often in <i>TK2</i>-MDS, the muscles are the only affected tissues; however, the liver may be enlarged (hepatomegaly), seizures can occur, and hearing loss caused by nerve damage in the inner ear (sensorineural hearing loss) may be present. Intelligence is usually not affected.</p><p>As the disorder worsens, the muscles that control breathing become weakened and affected individuals frequently have to rely on mechanical ventilation. Respiratory failure is the most common cause of death in people with <i>TK2</i>-MDS, often occurring in childhood. Rarely, the disorder progresses slowly and affected individuals survive into adolescence or adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: TK2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TK2
+synonym(1): mitochondrial DNA depletion syndrome 2 (myopathic type)
+synonym(2): MTDPS2
+synonym(3): TK2-related mitochondrial DNA depletion myopathy
+db-key(1)/db: GTR
+db-key(1)/key: C3149750
+db-key(2)/db: GeneReviews
+db-key(2)/key: tk2-mtddepl
+db-key(3)/db: MeSH
+db-key(3)/key: D017240
+db-key(4)/db: OMIM
+db-key(4)/key: 609560
+db-key(5)/db: Orphanet
+db-key(5)/key: 254875
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 703527003
+reviewed: 2013-09
+published: 2018-04-17

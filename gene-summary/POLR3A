@@ -1,0 +1,30 @@
+gene-symbol: POLR3A
+name: RNA polymerase III subunit A
+ghr-page: https://ghr.nlm.nih.gov/gene/POLR3A
+text/text-role: function
+text/html: <p>The <i>POLR3A</i> gene provides instructions for making the largest part (subunit) of an enzyme called RNA polymerase III. This enzyme is involved in the production (synthesis) of ribonucleic acid (RNA), a chemical cousin of DNA. The RNA polymerase III enzyme attaches (binds) to DNA and synthesizes RNA in accordance with the instructions carried by the DNA, a process called transcription. RNA polymerase III helps synthesize several forms of RNA, including ribosomal RNA (rRNA) and transfer RNA (tRNA). Molecules of rRNA and tRNA assemble protein building blocks (amino acids) into working proteins; this process is essential for the normal functioning and survival of cells.</p>
+related-health-condition(1)/name: Pol III-related leukodystrophy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/pol-iii-related-leukodystrophy
+related-health-condition(2)/name: shingles
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/shingles
+synonym(1): ADDH
+synonym(2): DNA-directed RNA polymerase III largest subunit
+synonym(3): DNA-directed RNA polymerase III subunit A
+synonym(4): DNA-directed RNA polymerase III subunit RPC1
+synonym(5): HLD7
+synonym(6): hRPC155
+synonym(7): polymerase (RNA) III (DNA directed) polypeptide A, 155kDa
+synonym(8): polymerase (RNA) III subunit A
+synonym(9): RNA polymerase III 155 kDa subunit
+synonym(10): RNA polymerase III subunit C1
+synonym(11): RNA polymerase III subunit C160
+synonym(12): RNA polymerase III subunit RPC155-D
+synonym(13): RPC1
+synonym(14): RPC1_HUMAN
+synonym(15): RPC155
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 11128
+db-key(2)/db: OMIM
+db-key(2)/key: 614258
+reviewed: 2013-06
+published: 2018-04-17

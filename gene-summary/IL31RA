@@ -1,0 +1,29 @@
+gene-symbol: IL31RA
+name: interleukin 31 receptor A
+ghr-page: https://ghr.nlm.nih.gov/gene/IL31RA
+text/text-role: function
+text/html: <p>The <i>IL31RA</i> gene provides instructions for making a protein called interleukin-31 receptor alpha subunit (IL-31RA). This protein is one piece (subunit) of the IL-31 receptor, which is embedded in the cell membrane of many types of cells throughout the body.</p><p>At the cell surface, the IL-31 receptor interacts with a protein called interleukin 31 (IL-31). The receptor and IL-31 fit together like a lock and its key, triggering a series of chemical signals inside the cell. These signals stimulate itching (pruritus) and an immune system response called inflammation, although the mechanism is not completely understood.</p>
+related-health-condition/name: primary localized cutaneous amyloidosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/primary-localized-cutaneous-amyloidosis
+synonym(1): class I cytokine receptor
+synonym(2): CRL
+synonym(3): CRL3
+synonym(4): cytokine receptor-like 3
+synonym(5): GLM-R
+synonym(6): GLMR
+synonym(7): gp130-like monocyte receptor
+synonym(8): GPL
+synonym(9): hGLM-R
+synonym(10): IL-31 receptor subunit alpha
+synonym(11): IL-31R subunit alpha
+synonym(12): IL-31RA
+synonym(13): PLCA2
+synonym(14): PRO21384
+synonym(15): soluble type I cytokine receptor CRL3
+synonym(16): zcytoR17
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 133396
+db-key(2)/db: OMIM
+db-key(2)/key: 609510
+reviewed: 2017-03
+published: 2018-04-17

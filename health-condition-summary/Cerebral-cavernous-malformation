@@ -1,0 +1,40 @@
+name: Cerebral cavernous malformation
+ghr-page: https://ghr.nlm.nih.gov/condition/cerebral-cavernous-malformation
+text/text-role: description
+text/html: <p>Cerebral cavernous malformations are collections of small blood vessels (capillaries) in the brain that are enlarged and irregular in structure. These capillaries have abnormally thin walls, and they lack other support tissues, such as elastic fibers, which normally make them stretchy. As a result, the blood vessels are prone to leakage, which can cause the health problems related to this condition. Cavernous malformations can occur anywhere in the body, but usually produce serious signs and symptoms only when they occur in the brain and spinal cord (which are described as cerebral).</p><p>Approximately 25 percent of individuals with cerebral cavernous malformations never experience any related health problems. Other people with this condition may experience serious signs and symptoms such as headaches, seizures, paralysis, hearing or vision loss, and bleeding in the brain (cerebral hemorrhage). Severe brain hemorrhages can result in death. The location and number of cerebral cavernous malformations determine the severity of this disorder. These malformations can change in size and number over time.</p><p>There are two forms of the condition: familial and sporadic. The familial form is passed from parent to child, and affected individuals typically have multiple cerebral cavernous malformations. The sporadic form occurs in people with no family history of the disorder. These individuals typically have only one malformation.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CCM2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CCM2
+related-gene(2)/gene-symbol: KRIT1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/KRIT1
+related-gene(3)/gene-symbol: PDCD10
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PDCD10
+synonym(1): CCM
+synonym(2): central nervous system cavernous hemangioma
+synonym(3): cerebral cavernous hemangioma
+synonym(4): familial cavernous hemangioma
+synonym(5): familial cavernous malformation
+synonym(6): familial cerebral cavernous angioma
+synonym(7): familial cerebral cavernous malformation
+synonym(8): intracerebral cavernous hemangioma
+db-key(1)/db: GTR
+db-key(1)/key: C1366911
+db-key(2)/db: GTR
+db-key(2)/key: C1864040
+db-key(3)/db: GTR
+db-key(3)/key: C1864041
+db-key(4)/db: GTR
+db-key(4)/key: C2919945
+db-key(5)/db: GeneReviews
+db-key(5)/key: ccm
+db-key(6)/db: MeSH
+db-key(6)/key: D020786
+db-key(7)/db: OMIM
+db-key(7)/key: 116860
+db-key(8)/db: Orphanet
+db-key(8)/key: 164
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 444869007
+reviewed: 2012-11
+published: 2018-04-17

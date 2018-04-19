@@ -1,0 +1,22 @@
+gene-symbol: SRY
+name: sex determining region Y
+ghr-page: https://ghr.nlm.nih.gov/gene/SRY
+text/text-role: function
+text/html: <p>The <i>SRY</i> gene provides instructions for making a protein called the sex-determining region Y protein. This protein is involved in male sexual development, which is usually determined by the chromosomes an individual has. People usually have 46 chromosomes in each cell. Two of the 46 chromosomes, known as X and Y, are called sex chromosomes because they help determine whether a person will develop male or female sex characteristics. Girls and women typically have two X chromosomes (46,XX karyotype), while boys and men usually have one X chromosome and one Y chromosome (46,XY karyotype).</p><p>The <i>SRY</i> gene is found on the Y chromosome. The sex-determining region Y protein produced from this gene acts as a transcription factor, which means it attaches (binds) to specific regions of DNA and helps control the activity of particular genes. This protein starts processes that cause a fetus to develop male gonads (testes) and prevent the development of female reproductive structures (uterus and fallopian tubes).</p>
+related-health-condition(1)/name: 46,XX testicular disorder of sex development
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/46xx-testicular-disorder-of-sex-development
+related-health-condition(2)/name: Swyer syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/swyer-syndrome
+synonym(1): essential protein for sex determination in human males
+synonym(2): sex-determining region on Y
+synonym(3): sex determining region protein
+synonym(4): SRY_HUMAN
+synonym(5): TDF
+synonym(6): TDY
+synonym(7): testis-determining factor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6736
+db-key(2)/db: OMIM
+db-key(2)/key: 480000
+reviewed: 2015-03
+published: 2018-04-17

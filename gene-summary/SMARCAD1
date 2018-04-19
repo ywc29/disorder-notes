@@ -1,0 +1,20 @@
+gene-symbol: SMARCAD1
+name: SWI/SNF-related, matrix-associated actin-dependent regulator of chromatin, subfamily a, containing DEAD/H box 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SMARCAD1
+text/text-role: function
+text/html: <p>The <i>SMARCAD1</i> gene provides instructions for making two versions (isoforms) of the SMARCAD1 protein: a full-length isoform and a shorter, skin-specific isoform. The full-length isoform is active (expressed) in multiple tissues, where it regulates the activity of a wide variety of genes involved in maintaining the stability of cells' genetic information. The skin-specific isoform is expressed only in skin cells, and little is known about its function. However, it appears to play a critical role in the formation of dermatoglyphs, which are the patterns of skin ridges on the pads of the fingers that form the basis for each person's unique fingerprints. These ridges are also present on the toes, the palms of the hands, and the soles of the feet. Dermatoglyphs develop before birth and remain the same throughout life. The activity of the skin-specific isoform of the SMARCAD1 protein is likely one of several factors that determine each person's unique fingerprint pattern.</p>
+related-health-condition/name: adermatoglyphia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/adermatoglyphia
+synonym(1): ADERM
+synonym(2): ATP-dependent helicase 1
+synonym(3): DKFZP762K2015
+synonym(4): ETL1
+synonym(5): HEL1
+synonym(6): KIAA1122
+synonym(7): SMRCD_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 56916
+db-key(2)/db: OMIM
+db-key(2)/key: 612761
+reviewed: 2015-04
+published: 2018-04-17

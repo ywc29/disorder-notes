@@ -1,0 +1,24 @@
+gene-symbol: TBC1D24
+name: TBC1 domain family member 24
+ghr-page: https://ghr.nlm.nih.gov/gene/TBC1D24
+text/text-role: function
+text/html: <p>The <i>TBC1D24</i> gene provides instructions for making a protein whose specific function in the cell is unclear. Studies suggest the protein may have several roles in cells. The TBC1D24 protein belongs to a group of proteins that are involved in the movement (transport) of vesicles, which are small sac-like structures that transport proteins and other materials within cells. Research suggests that the TBC1D24 protein may also help cells respond to oxidative stress. Oxidative stress occurs when unstable molecules called free radicals accumulate to levels that can damage or kill cells. Studies indicate that the TBC1D24 protein is active in a variety of organs and tissues; it is particularly active in the brain and likely plays an important role in normal brain development. The TBC1D24 protein is also active in specialized structures called stereocilia. In the inner ear, stereocilia project from certain cells called hair cells. The stereocilia bend in response to sound waves, which is critical for converting sound waves to nerve impulses.</p>
+related-health-condition(1)/name: DOORS syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/doors-syndrome
+related-health-condition(2)/name: malignant migrating partial seizures of infancy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/malignant-migrating-partial-seizures-of-infancy
+related-health-condition(3)/name: nonsyndromic hearing loss
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-hearing-loss
+synonym(1): DFNA65
+synonym(2): KIAA1171
+synonym(3): skywalker homolog
+synonym(4): TBC/LysM-associated domain containing 6
+synonym(5): TBC1 domain family member 24 isoform 1
+synonym(6): TBC1 domain family member 24 isoform 2
+synonym(7): TLDC6
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57465
+db-key(2)/db: OMIM
+db-key(2)/key: 613577
+reviewed: 2015-12
+published: 2018-04-17

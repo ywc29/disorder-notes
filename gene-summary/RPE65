@@ -1,0 +1,33 @@
+gene-symbol: RPE65
+name: RPE65, retinoid isomerohydrolase
+ghr-page: https://ghr.nlm.nih.gov/gene/RPE65
+text/text-role: function
+text/html: <p>The <i>RPE65</i> gene provides instructions for making a protein that is essential for normal vision. The RPE65 protein is produced in a thin layer of cells at the back of the eye called the retinal pigment epithelium (RPE). This cell layer supports and nourishes the retina, which is the light-sensitive tissue that lines the back of the eye.</p><p>The RPE65 protein is involved in a multi-step process called the visual cycle, which converts light entering the eye into electrical signals that are transmitted to the brain. When light hits photosensitive pigments in the retina, it changes a molecule called 11-cis retinal (a form of vitamin A) to another molecule called all-trans retinal. This conversion triggers a series of chemical reactions that create electrical signals. The RPE65 protein then helps convert all-trans retinal back to 11-cis retinal so the visual cycle can begin again.</p>
+related-health-condition(1)/name: fundus albipunctatus
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/fundus-albipunctatus
+related-health-condition(2)/name: Leber congenital amaurosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/leber-congenital-amaurosis
+related-health-condition(3)/name: retinitis pigmentosa
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/retinitis-pigmentosa
+synonym(1): all-trans-retinyl-palmitate hydrolase
+synonym(2): BCO3
+synonym(3): LCA2
+synonym(4): mRPE65
+synonym(5): p63
+synonym(6): RBP-binding membrane protein
+synonym(7): rd12
+synonym(8): retinal pigment epithelium-specific 65 kDa protein
+synonym(9): retinal pigment epithelium specific protein 65
+synonym(10): retinal pigment epithelium-specific protein 65kDa
+synonym(11): retinitis pigmentosa 20 (autosomal recessive)
+synonym(12): retinoid isomerohydrolase
+synonym(13): retinol isomerase
+synonym(14): RP20
+synonym(15): RPE65_HUMAN
+synonym(16): sRPE65
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6121
+db-key(2)/db: OMIM
+db-key(2)/key: 180069
+reviewed: 2010-08
+published: 2018-04-17

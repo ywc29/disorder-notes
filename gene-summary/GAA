@@ -1,0 +1,25 @@
+gene-symbol: GAA
+name: glucosidase alpha, acid
+ghr-page: https://ghr.nlm.nih.gov/gene/GAA
+text/text-role: function
+text/html: <p>The <i>GAA</i> gene provides instructions for producing an enzyme called acid alpha-glucosidase (also known as acid maltase). This enzyme is active in lysosomes, which are structures that serve as recycling centers within cells. Lysosomes use digestive enzymes to break down complex molecules into simpler ones that can be used by cells. Acid alpha-glucosidase normally breaks down a complex sugar called glycogen into a simpler sugar called glucose. Glucose is the main energy source for most cells.</p>
+related-health-condition/name: Pompe disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pompe-disease
+synonym(1): acid alpha-glucosidase
+synonym(2): acid alpha-glucosidase preproprotein
+synonym(3): acid maltase
+synonym(4): Aglucosidase alfa
+synonym(5): Alpha-1,4-glucosidase
+synonym(6): Amyloglucosidase
+synonym(7): Glucoamylase
+synonym(8): glucosidase, alpha; acid
+synonym(9): glucosidase, alpha; acid (Pompe disease, glycogen storage disease type II)
+synonym(10): LYAG
+synonym(11): LYAG_HUMAN
+synonym(12): lysosomal alpha-glucosidase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2548
+db-key(2)/db: OMIM
+db-key(2)/key: 606800
+reviewed: 2010-02
+published: 2018-04-17

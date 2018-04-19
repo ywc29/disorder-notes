@@ -1,0 +1,89 @@
+name: Osteopetrosis
+ghr-page: https://ghr.nlm.nih.gov/condition/osteopetrosis
+text/text-role: description
+text/html: <p>Osteopetrosis is a bone disease that makes bones abnormally dense and prone to breakage (fracture). Researchers have described several major types of osteopetrosis, which are usually distinguished by their pattern of inheritance: autosomal dominant, autosomal recessive, or X-linked. The different types of the disorder can also be distinguished by the severity of their signs and symptoms.</p><p>Autosomal dominant osteopetrosis (ADO), which is also called Albers-Schönberg disease, is typically the mildest type of the disorder. Some affected individuals have no symptoms. In these people, the unusually dense bones may be discovered by accident when an x-ray is done for another reason. In affected individuals who develop signs and symptoms, the major features of the condition include multiple bone fractures, abnormal side-to-side curvature of the spine (scoliosis) or other spinal abnormalities, arthritis in the hips, and a bone infection called osteomyelitis. These problems usually become apparent in late childhood or adolescence.</p><p>Autosomal recessive osteopetrosis (ARO) is a more severe form of the disorder that becomes apparent in early infancy. Affected individuals have a high risk of bone fracture resulting from seemingly minor bumps and falls. Their abnormally dense skull bones pinch nerves in the head and face (cranial nerves), often resulting in vision loss, hearing loss, and paralysis of facial muscles. Dense bones can also impair the function of bone marrow, preventing it from producing new blood cells and immune system cells. As a result, people with severe osteopetrosis are at risk of abnormal bleeding, a shortage of red blood cells (anemia), and recurrent infections. In the most severe cases, these bone marrow abnormalities can be life-threatening in infancy or early childhood.</p><p>Other features of autosomal recessive osteopetrosis can include slow growth and short stature, dental abnormalities, and an enlarged liver and spleen (hepatosplenomegaly). Depending on the genetic changes involved, people with severe osteopetrosis can also have brain abnormalities, intellectual disability, or recurrent seizures (epilepsy).</p><p>A few individuals have been diagnosed with intermediate autosomal osteopetrosis (IAO), a form of the disorder that can have either an autosomal dominant or an autosomal recessive pattern of inheritance. The signs and symptoms of this condition become noticeable in childhood and include an increased risk of bone fracture and anemia. People with this form of the disorder typically do not have life-threatening bone marrow abnormalities. However, some affected individuals have had abnormal calcium deposits (calcifications) in the brain, intellectual disability, and a form of kidney disease called renal tubular acidosis.</p><p>Rarely, osteopetrosis can have an X-linked pattern of inheritance. In addition to abnormally dense bones, the X-linked form of the disorder is characterized by abnormal swelling caused by a buildup of fluid (lymphedema) and a condition called anhydrotic ectodermal dysplasia that affects the skin, hair, teeth, and sweat glands. Affected individuals also have a malfunctioning immune system (immunodeficiency), which allows severe, recurrent infections to develop. Researchers often refer to this condition as OL-EDA-ID, an acronym derived from each of the major features of the disorder.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xr
+inheritance-pattern(3)/memo: X-linked recessive
+related-gene(1)/gene-symbol: CA2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CA2
+related-gene(2)/gene-symbol: CLCN7
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CLCN7
+related-gene(3)/gene-symbol: IKBKG
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/IKBKG
+related-gene(4)/gene-symbol: ITGB3
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/ITGB3
+related-gene(5)/gene-symbol: OSTM1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/OSTM1
+related-gene(6)/gene-symbol: PLEKHM1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/PLEKHM1
+related-gene(7)/gene-symbol: TCIRG1
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/TCIRG1
+related-gene(8)/gene-symbol: TNFRSF11A
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/TNFRSF11A
+related-gene(9)/gene-symbol: TNFSF11
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/TNFSF11
+synonym(1): congenital osteopetrosis
+synonym(2): marble bone disease
+synonym(3): osteopetroses
+db-key(1)/db: GTR
+db-key(1)/key: C0345407
+db-key(2)/db: GTR
+db-key(2)/key: C1838258
+db-key(3)/db: GTR
+db-key(3)/key: C1843330
+db-key(4)/db: GTR
+db-key(4)/key: C1845919
+db-key(5)/db: GTR
+db-key(5)/key: C1850126
+db-key(6)/db: GTR
+db-key(6)/key: C1850127
+db-key(7)/db: GTR
+db-key(7)/key: C1968603
+db-key(8)/db: GTR
+db-key(8)/key: C1969093
+db-key(9)/db: GTR
+db-key(9)/key: C1969106
+db-key(10)/db: GTR
+db-key(10)/key: C2676766
+db-key(11)/db: GTR
+db-key(11)/key: C3179239
+db-key(12)/db: GeneReviews
+db-key(12)/key: clcn7
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: Q78.2
+db-key(14)/db: MeSH
+db-key(14)/key: D010022
+db-key(15)/db: OMIM
+db-key(15)/key: 166600
+db-key(16)/db: OMIM
+db-key(16)/key: 259700
+db-key(17)/db: OMIM
+db-key(17)/key: 259710
+db-key(18)/db: OMIM
+db-key(18)/key: 259720
+db-key(19)/db: OMIM
+db-key(19)/key: 259730
+db-key(20)/db: OMIM
+db-key(20)/key: 300301
+db-key(21)/db: OMIM
+db-key(21)/key: 600329
+db-key(22)/db: OMIM
+db-key(22)/key: 611490
+db-key(23)/db: OMIM
+db-key(23)/key: 611497
+db-key(24)/db: OMIM
+db-key(24)/key: 612301
+db-key(25)/db: Orphanet
+db-key(25)/key: 2781
+db-key(26)/db: SNOMED CT
+db-key(26)/key: 1926006
+db-key(27)/db: SNOMED CT
+db-key(27)/key: 254121000
+db-key(28)/db: SNOMED CT
+db-key(28)/key: 254122007
+reviewed: 2010-09
+published: 2018-04-17

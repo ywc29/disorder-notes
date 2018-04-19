@@ -1,0 +1,41 @@
+gene-symbol: CXCR4
+name: C-X-C motif chemokine receptor 4
+ghr-page: https://ghr.nlm.nih.gov/gene/CXCR4
+text/text-role: function
+text/html: <p>The <i>CXCR4</i> gene provides instructions for making a receptor protein that spans the outer membrane of cells, specifically white blood cells and cells in the brain and spinal cord (central nervous system). Receptor proteins have specific sites into which certain other proteins, called ligands, fit like keys into locks. After attachment of its ligand, called SDF-1, the CXCR4 protein turns on (activates) signaling pathways inside the cell. These pathways help regulate cell growth and division (proliferation), the process by which cells mature to carry out specific functions (differentiation), and cell survival. Once signaling is stimulated, the CXCR4 protein is removed from the cell membrane (internalized) and broken down so it can no longer activate the signaling pathways.</p><p>The CXCR4 receptor is also involved in the movement (migration) of cells. Cells that have the CXCR4 protein in their membrane are attracted to SDF-1. High levels of this ligand are found in the bone marrow, which helps certain blood cells migrate to and stay in the bone marrow until they are needed elsewhere in the body. Retention of early blood cells known as hematopoietic stem cells in the bone marrow is important to ensure that stem cells are available when needed. White blood cells also remain in the bone marrow until they are needed in the body to fight infection.</p>
+related-health-condition/name: Waldenström macroglobulinemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/waldenstrom-macroglobulinemia
+synonym(1): C-X-C chemokine receptor type 4
+synonym(2): CD184
+synonym(3): CD184 antigen
+synonym(4): chemokine (C-X-C motif) receptor 4
+synonym(5): CXCR4_HUMAN
+synonym(6): D2S201E
+synonym(7): FB22
+synonym(8): fusin
+synonym(9): HM89
+synonym(10): HSY3RR
+synonym(11): LAP-3
+synonym(12): LAP3
+synonym(13): LCR1
+synonym(14): LESTR
+synonym(15): leukocyte-derived seven transmembrane domain receptor
+synonym(16): lipopolysaccharide-associated protein 3
+synonym(17): LPS-associated protein 3
+synonym(18): neuropeptide Y receptor Y3
+synonym(19): NPY3R
+synonym(20): NPYR
+synonym(21): NPYRL
+synonym(22): NPYY3R
+synonym(23): SDF-1 receptor
+synonym(24): seven transmembrane helix receptor
+synonym(25): seven-transmembrane-segment receptor, spleen
+synonym(26): stromal cell-derived factor 1 receptor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7852
+db-key(2)/db: OMIM
+db-key(2)/key: 162643
+db-key(3)/db: OMIM
+db-key(3)/key: 193670
+reviewed: 2015-03
+published: 2018-04-17

@@ -1,0 +1,25 @@
+name: PPM-X syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/ppm-x-syndrome
+text/text-role: description
+text/html: <p>PPM-X syndrome is a condition characterized by psychotic disorders (most commonly bipolar disorder), a pattern of movement abnormalities known as parkinsonism, and mild to severe intellectual disability with impaired language development. Other symptoms may include muscle stiffness (spasticity), exaggerated reflexes, and an abnormally small head (microcephaly). Affected males may have enlarged testes (macro-orchidism). Not all affected individuals have all these symptoms, but most have intellectual disability. Males with this condition are typically more severely affected than females, who usually have only mild intellectual disability or learning disabilities.</p>
+inheritance-pattern/code: x
+inheritance-pattern/memo: X-linked
+related-gene/gene-symbol: MECP2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MECP2
+synonym(1): MRXS13
+synonym(2): PPMX
+synonym(3): X-linked mental retardation, syndromic 13
+db-key(1)/db: GTR
+db-key(1)/key: C0035372
+db-key(2)/db: GeneReviews
+db-key(2)/key: rett
+db-key(3)/db: MeSH
+db-key(3)/key: D038901
+db-key(4)/db: OMIM
+db-key(4)/key: 300055
+db-key(5)/db: Orphanet
+db-key(5)/key: 3077
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702356009
+reviewed: 2018-01
+published: 2018-04-17

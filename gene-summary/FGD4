@@ -1,0 +1,22 @@
+gene-symbol: FGD4
+name: FYVE, RhoGEF and PH domain containing 4
+ghr-page: https://ghr.nlm.nih.gov/gene/FGD4
+text/text-role: function
+text/html: <p>The <i>FGD4</i> gene provides instructions for making a protein called frabin. This protein plays an important role in the nervous system, where it helps regulate a type of cell signaling involved in myelin production. Myelin is a fatty substance that insulates nerve cells and promotes the rapid transmission of nerve impulses. The formation of a protective myelin sheath around nerve cells is called myelination. Frabin is particularly important in the myelination of the peripheral nervous system, which connects the brain and spinal cord to muscles and to sensory cells that detect sensations such as touch, pain, heat, and sound.</p><p>Frabin is also believed to be involved in the organization of the actin cytoskeleton, which is a network of fibers that make up the cell's structural framework. The actin cytoskeleton has several critical functions, including determining cell shape and allowing cells to move. Researchers believe that frabin plays a role in attaching the actin cytoskeleton to the cell membrane.</p>
+related-health-condition/name: Charcot-Marie-Tooth disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+synonym(1): actin-filament binding protein frabin
+synonym(2): CMT4H
+synonym(3): DKFZp313E1818
+synonym(4): FGD1 family, member 4
+synonym(5): FGD4_HUMAN
+synonym(6): FRABIN
+synonym(7): FRABP
+synonym(8): MGC57222
+synonym(9): ZFYVE6
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 121512
+db-key(2)/db: OMIM
+db-key(2)/key: 611104
+reviewed: 2010-01
+published: 2018-04-17

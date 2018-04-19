@@ -1,0 +1,20 @@
+gene-symbol: ETFDH
+name: electron transfer flavoprotein dehydrogenase
+ghr-page: https://ghr.nlm.nih.gov/gene/ETFDH
+text/text-role: function
+text/html: <p>The <i>ETFDH</i> gene provides instructions for making an enzyme called electron transfer flavoprotein dehydrogenase. This enzyme is normally active in the mitochondria, the energy-producing centers in cells. Electron transfer flavoprotein dehydrogenase is involved in the process by which fats and proteins are broken down to produce energy.</p>
+related-health-condition/name: glutaric acidemia type II
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glutaric-acidemia-type-ii
+synonym(1): electron transfer flavoprotein-Q oxidoreductases
+synonym(2): electron transfer flavoprotein ubiquinone oxidoreductase
+synonym(3): electron-transferring-flavoprotein dehydrogenase
+synonym(4): ETF dehydrogenase
+synonym(5): ETF-ubiquinone oxidoreductase
+synonym(6): ETFD_HUMAN
+synonym(7): ETFQO
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2110
+db-key(2)/db: OMIM
+db-key(2)/key: 231675
+reviewed: 2008-07
+published: 2018-04-17

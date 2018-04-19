@@ -1,0 +1,23 @@
+gene-symbol: ZFP57
+name: ZFP57 zinc finger protein
+ghr-page: https://ghr.nlm.nih.gov/gene/ZFP57
+text/text-role: function
+text/html: <p>The protein produced from the <i>ZFP57</i> gene is a member of a family called zinc finger proteins, which are involved in many cellular functions. Zinc finger proteins each contain one or more short regions called zinc finger domains. These regions include a specific pattern of protein building blocks (amino acids) and one or more charged atoms of zinc (zinc ions).</p><p>Zinc finger proteins attach (bind) primarily to DNA. In most cases, these proteins attach to regions near certain genes and turn the genes on and off as needed. Proteins that bind to DNA and regulate the activity of particular genes are known as transcription factors. Some zinc finger proteins can also bind to other molecules, including RNA (a chemical cousin of DNA) and proteins.</p><p>The ZFP57 protein is involved in the regulation of other genes by the addition of methyl groups, consisting of one carbon atom and three hydrogen atoms (methylation). Methylation is important in many cellular functions. These include determining whether the instructions in a particular segment of DNA are carried out or suppressed (gene silencing), regulating reactions involving proteins and lipids, and controlling the processing of chemicals that relay signals in the nervous system (neurotransmitters).</p>
+related-health-condition/name: 6q24-related transient neonatal diabetes mellitus
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/6q24-related-transient-neonatal-diabetes-mellitus
+synonym(1): bA145L22
+synonym(2): bA145L22.2
+synonym(3): C6orf40
+synonym(4): TNDM1
+synonym(5): zfp-57
+synonym(6): ZFP57_HUMAN
+synonym(7): zinc finger protein 57 homolog
+synonym(8): zinc finger protein 57 homolog (mouse)
+synonym(9): zinc finger protein 698
+synonym(10): ZNF698
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 346171
+db-key(2)/db: OMIM
+db-key(2)/key: 612192
+reviewed: 2011-02
+published: 2018-04-17

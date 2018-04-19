@@ -1,0 +1,38 @@
+gene-symbol: SCN9A
+name: sodium voltage-gated channel alpha subunit 9
+ghr-page: https://ghr.nlm.nih.gov/gene/SCN9A
+text/text-role: function
+text/html: <p>The <i>SCN9A</i> gene belongs to a family of genes that provide instructions for making sodium channels. These channels, which transport positively charged sodium atoms (sodium ions) into cells, play a key role in a cell's ability to generate and transmit electrical signals.</p><p>The <i>SCN9A</i> gene provides instructions for making one part (the alpha subunit) of a sodium channel called NaV1.7. NaV1.7 sodium channels are found in nerve cells called nociceptors that transmit pain signals. Nociceptors are part of the peripheral nervous system, which connects the brain and spinal cord to cells that detect sensations such as touch, smell, and pain. Nociceptors are primarily involved in transmitting pain signals. The centers of nociceptors, known as the cell bodies, are located in a part of the spinal cord called the dorsal root ganglion. Fibers called axons extend from the cell bodies, reaching throughout the body to receive sensory information. Axons transmit the information back to the dorsal root ganglion, which then sends it to the brain. NaV1.7 sodium channels are also found in olfactory sensory neurons, which are nerve cells in the nasal cavity that transmit smell-related signals to the brain.</p>
+related-health-condition(1)/name: congenital insensitivity to pain
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-insensitivity-to-pain
+related-health-condition(2)/name: erythromelalgia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/erythromelalgia
+related-health-condition(3)/name: genetic epilepsy with febrile seizures plus
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/genetic-epilepsy-with-febrile-seizures-plus
+related-health-condition(4)/name: hereditary sensory and autonomic neuropathy type II
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-sensory-and-autonomic-neuropathy-type-ii
+related-health-condition(5)/name: paroxysmal extreme pain disorder
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/paroxysmal-extreme-pain-disorder
+related-health-condition(6)/name: small fiber neuropathy
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/small-fiber-neuropathy
+synonym(1): hNE
+synonym(2): Nav1.7
+synonym(3): NE-NA
+synonym(4): NENA
+synonym(5): PN1
+synonym(6): SCN9A_HUMAN
+synonym(7): sodium channel, voltage gated, type IX alpha subunit
+synonym(8): sodium channel, voltage-gated, type IX, alpha
+synonym(9): sodium channel, voltage-gated, type IX, alpha polypeptide
+synonym(10): sodium channel, voltage-gated, type IX, alpha subunit
+synonym(11): voltage-gated sodium channel alpha subunit Nav1.7
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6335
+db-key(2)/db: OMIM
+db-key(2)/key: 603415
+db-key(3)/db: OMIM
+db-key(3)/key: 607208
+db-key(4)/db: OMIM
+db-key(4)/key: 613863
+reviewed: 2012-11
+published: 2018-04-17

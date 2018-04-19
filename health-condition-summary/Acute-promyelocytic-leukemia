@@ -1,0 +1,49 @@
+name: Acute promyelocytic leukemia
+ghr-page: https://ghr.nlm.nih.gov/condition/acute-promyelocytic-leukemia
+text/text-role: description
+text/html: <p>Acute promyelocytic leukemia is a form of acute myeloid leukemia, a cancer of the blood-forming tissue (bone marrow). In normal bone marrow, hematopoietic stem cells produce red blood cells (erythrocytes) that carry oxygen, white blood cells (leukocytes) that protect the body from infection, and platelets (thrombocytes) that are involved in blood clotting. In acute promyelocytic leukemia, immature white blood cells called promyelocytes accumulate in the bone marrow. The overgrowth of promyelocytes leads to a shortage of normal white and red blood cells and platelets in the body, which causes many of the signs and symptoms of the condition.</p><p>People with acute promyelocytic leukemia are especially susceptible to developing bruises, small red dots under the skin (petechiae), nosebleeds, bleeding from the gums, blood in the urine (hematuria), or excessive menstrual bleeding. The abnormal bleeding and bruising occur in part because of the low number of platelets in the blood (thrombocytopenia) and also because the cancerous cells release substances that cause excessive bleeding.</p><p>The low number of red blood cells (anemia) can cause people with acute promyelocytic leukemia to have pale skin (pallor) or excessive tiredness (fatigue). In addition, affected individuals may heal slowly from injuries or have frequent infections due to the loss of normal white blood cells that fight infection. Furthermore, the leukemic cells can spread to the bones and joints, which may cause pain in those areas. Other general signs and symptoms may occur as well, such as fever, loss of appetite, and weight loss.</p><p>Acute promyelocytic leukemia is most often diagnosed around age 40, although it can be diagnosed at any age.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: NPM1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/NPM1
+related-gene(2)/gene-symbol: NUMA1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/NUMA1
+related-gene(3)/gene-symbol: PML
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PML
+related-gene(4)/gene-symbol: RARA
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/RARA
+related-gene(5)/gene-symbol: STAT5B
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/STAT5B
+related-gene(6)/gene-symbol: ZBTB16
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/ZBTB16
+related-chromosome(1)/name: 15
+related-chromosome(1)/ghr-page: https://ghr.nlm.nih.gov/chromosome/15
+related-chromosome(2)/name: 17
+related-chromosome(2)/ghr-page: https://ghr.nlm.nih.gov/chromosome/17
+synonym(1): AML M3
+synonym(2): APL
+synonym(3): leukemia, acute promyelocytic
+synonym(4): M3 ANLL
+synonym(5): myeloid leukemia, acute, M3
+db-key(1)/db: GTR
+db-key(1)/key: C0023487
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: C92.4
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: C92.40
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: C92.41
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: C92.42
+db-key(6)/db: MeSH
+db-key(6)/key: D015473
+db-key(7)/db: OMIM
+db-key(7)/key: 612376
+db-key(8)/db: Orphanet
+db-key(8)/key: 520
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 110004001
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 28950004
+reviewed: 2011-04
+published: 2018-04-17

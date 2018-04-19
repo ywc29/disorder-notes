@@ -1,0 +1,23 @@
+gene-symbol: SMC3
+name: structural maintenance of chromosomes 3
+ghr-page: https://ghr.nlm.nih.gov/gene/SMC3
+text/text-role: function
+text/html: <p>The <i>SMC3</i> gene provides instructions for making a protein that is part of the structural maintenance of chromosomes (SMC) family. Within the nucleus, SMC proteins help regulate the structure and organization of chromosomes.</p><p>The protein produced from the <i>SMC3</i> gene helps control chromosomes during cell division. Before cells divide, they must copy all of their chromosomes. The copied DNA from each chromosome is arranged into two identical structures, called sister chromatids, which are attached to one another during the early stages of cell division. The SMC3 protein is part of a protein group called the cohesin complex that holds the sister chromatids together.</p><p>Researchers believe that the SMC3 protein, as a structural component of the cohesin complex, also plays important roles in stabilizing cells' genetic information, repairing damaged DNA, and regulating the activity of certain genes that are essential for normal development.</p><p>Although the SMC3 protein is found primarily in the nucleus, some of this protein is transported out of cells. The exported protein, which is usually called bamacan, may be involved in sticking cells together (cell adhesion) and cell growth. Bamacan is a component of basement membranes, which are thin, sheet-like structures that separate and support cells in many tissues. Little else is known about the function of this protein outside the cell, but it appears to be important for normal development.</p>
+related-health-condition/name: Cornelia de Lange syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cornelia-de-lange-syndrome
+synonym(1): BAM
+synonym(2): bamacan
+synonym(3): basement membrane-associated chondroitin proteoglycan
+synonym(4): BMH
+synonym(5): chondroitin sulfate proteoglycan 6
+synonym(6): chromosome-associated polypeptide
+synonym(7): CSPG6
+synonym(8): HCAP
+synonym(9): SMC3_HUMAN
+synonym(10): SMC3L1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9126
+db-key(2)/db: OMIM
+db-key(2)/key: 606062
+reviewed: 2015-09
+published: 2018-04-17

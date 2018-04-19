@@ -1,0 +1,29 @@
+gene-symbol: ERAP1
+name: endoplasmic reticulum aminopeptidase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ERAP1
+text/text-role: function
+text/html: <p>The <i>ERAP1</i> gene (also known as <i>ERAAP</i> and <i>ARTS1</i>) provides instructions for making a protein called endoplasmic reticulum aminopeptidase 1. As its name suggests, this protein is active in a cellular structure called the endoplasmic reticulum, which is involved in protein processing and transport. This protein is an aminopeptidase, which is an enzyme that cuts (cleaves) other proteins into smaller fragments called peptides.</p><p>Endoplasmic reticulum aminopeptidase 1 has two major functions, both of which are important for normal immune system function. First, endoplasmic reticulum aminopeptidase 1 cleaves several proteins called cytokine receptors on the surface of cells.  Cleaving these receptors reduces their ability to transmit chemical signals into the cell, which affects the process of inflammation.</p><p>Second, endoplasmic reticulum aminopeptidase 1 cleaves many types of proteins into small peptides that can be recognized by the immune system.  These peptides are exported to the cell surface, where they attach to major histocompatibility complex (MHC) class I proteins.  MHC class I proteins display the peptides to the immune system. If the immune system recognizes the peptides as foreign (such as viral or bacterial peptides), it responds by triggering the infected cell to self-destruct.</p>
+related-health-condition/name: ankylosing spondylitis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ankylosing-spondylitis
+synonym(1): A-LAP
+synonym(2): adipocyte-derived leucine aminopeptidase
+synonym(3): ALAP
+synonym(4): aminopeptidase PILS
+synonym(5): aminopeptidase regulator of TNFR1 shedding
+synonym(6): APPILS
+synonym(7): ARTS-1
+synonym(8): ARTS1
+synonym(9): ERAAP
+synonym(10): ERAAP1
+synonym(11): ERAP1_HUMAN
+synonym(12): KIAA0525
+synonym(13): PILS-AP
+synonym(14): PILSAP
+synonym(15): puromycin-insensitive leucyl-specific aminopeptidase
+synonym(16): type 1 tumor necrosis factor receptor shedding aminopeptidase regulator
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51752
+db-key(2)/db: OMIM
+db-key(2)/key: 606832
+reviewed: 2009-02
+published: 2018-04-17

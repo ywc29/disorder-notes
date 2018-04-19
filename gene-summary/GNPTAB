@@ -1,0 +1,27 @@
+gene-symbol: GNPTAB
+name: N-acetylglucosamine-1-phosphate transferase alpha and beta subunits
+ghr-page: https://ghr.nlm.nih.gov/gene/GNPTAB
+text/text-role: function
+text/html: <p>The <i>GNPTAB</i> gene provides instructions for making two different parts, the alpha and beta subunits, of an enzyme called GlcNAc-1-phosphotransferase. This enzyme is made up of two alpha (α), two beta (β), and two gamma (γ) subunits. The gamma subunit is produced from a different gene, called <i>GNPTG</i>. GlcNAc-1-phosphotransferase helps prepare certain newly made enzymes for transport to lysosomes. Lysosomes are compartments within the cell that use digestive enzymes called hydrolases to break down large molecules into smaller ones that can be reused by cells.</p><p>GlcNAc-1-phosphotransferase is involved in the first step of making a molecule called mannose-6-phosphate (M6P). M6P acts as a tag that indicates a hydrolase should be transported to the lysosome. Specifically, GlcNAc-1-phosphotransferase transfers a molecule called GlcNAc-1-phosphate to a newly produced hydrolase. In the next step, a molecule is removed to reveal an M6P attached to the hydrolase. Once a hydrolase has an M6P tag, it can be transported to a lysosome.</p>
+related-health-condition(1)/name: mucolipidosis II alpha/beta
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/mucolipidosis-ii-alpha-beta
+related-health-condition(2)/name: mucolipidosis III alpha/beta
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/mucolipidosis-iii-alpha-beta
+synonym(1): alpha-beta GlcNAc-1-phosphotransferase
+synonym(2): DKFZp762B226
+synonym(3): GlcNAc-1-phosphotransferase
+synonym(4): GlcNAc phosphotransferase
+synonym(5): GNPTA
+synonym(6): GNPTA_HUMAN
+synonym(7): KIAA1208
+synonym(8): MGC4170
+synonym(9): N-acetylglucosamine-1-phosphate transferase
+synonym(10): N-acetylglucosamine-1-phosphate transferase, alpha and beta subunits
+synonym(11): UDP-N-acetylglucosamine-lysosomal-enzyme N-acetylglucosamine
+synonym(12): uridine 5'-diphosphate-N-acetylglucosamine: lysosomal hydrolase N-acetyl-1-phosphotransferase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 79158
+db-key(2)/db: OMIM
+db-key(2)/key: 607840
+reviewed: 2009-08
+published: 2018-04-17

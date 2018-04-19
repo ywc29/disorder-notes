@@ -1,0 +1,33 @@
+gene-symbol: GLI3
+name: GLI family zinc finger 3
+ghr-page: https://ghr.nlm.nih.gov/gene/GLI3
+text/text-role: function
+text/html: <p>The <i>GLI3</i> gene belongs to a family of genes that are involved in the normal shaping (patterning) of many tissues and organs during the early stages of development before birth. To carry out this role, proteins produced from genes in the GLI family attach to specific regions of DNA and help control whether particular genes are turned on or off (gene expression). GLI proteins are called transcription factors on the basis of this action.</p><p>Proteins in the GLI family function in the same molecular pathway as a protein called Sonic Hedgehog. This pathway is essential for early development. It plays a role in cell growth, cell specialization, and the patterning of structures such as the brain and limbs. Depending on signals from Sonic Hedgehog, the GLI3 protein can either turn on (activate) or turn off (repress) other genes. Researchers are working to identify the genes targeted by the GLI3 protein during development.</p>
+related-health-condition(1)/name: acrocallosal syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/acrocallosal-syndrome
+related-health-condition(2)/name: Greig cephalopolysyndactyly syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/greig-cephalopolysyndactyly-syndrome
+related-health-condition(3)/name: Pallister-Hall syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/pallister-hall-syndrome
+synonym(1): ACLS
+synonym(2): GCPS
+synonym(3): GLI-Kruppel family member GLI3 (Greig cephalopolysyndactyly syndrome)
+synonym(4): GLI3_HUMAN
+synonym(5): oncogene GLI3
+synonym(6): PAP-A
+synonym(7): PAPA
+synonym(8): PAPA1
+synonym(9): PAPB
+synonym(10): PHS
+synonym(11): PPDIV
+synonym(12): zinc finger protein GLI3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2737
+db-key(2)/db: OMIM
+db-key(2)/key: 165240
+db-key(3)/db: OMIM
+db-key(3)/key: 174200
+db-key(4)/db: OMIM
+db-key(4)/key: 174700
+reviewed: 2017-01
+published: 2018-04-17

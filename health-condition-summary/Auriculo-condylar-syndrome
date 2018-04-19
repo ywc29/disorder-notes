@@ -1,0 +1,29 @@
+name: Auriculo-condylar syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/auriculo-condylar-syndrome
+text/text-role: description
+text/html: <p>Auriculo-condylar syndrome is a condition that affects facial development, particularly development of the ears and lower jaw (mandible).</p><p>Most people with auriculo-condylar syndrome have malformed outer ears ("auriculo-" refers to the ears). A hallmark of this condition is an ear abnormality called a "question-mark ear," in which the ears have a distinctive question-mark shape caused by a split that separates the upper part of the ear from the earlobe. Other ear abnormalities that can occur in auriculo-condylar syndrome include cupped ears, ears with fewer folds and grooves than usual (described as "simple"), narrow ear canals, small skin tags in front of or behind the ears, and ears that are rotated backward. Some affected individuals also have hearing loss.</p><p>Abnormalities of the mandible are another characteristic feature of auriculo-condylar syndrome. These abnormalities often include an unusually small chin (micrognathia) and malfunction of the temporomandibular joint (TMJ), which connects the lower jaw to the skull. Problems with the TMJ affect how the upper and lower jaws fit together and can make it difficult to open and close the mouth. The term "condylar" in the name of the condition refers to the mandibular condyle, which is the upper portion of the mandible that forms part of the TMJ.</p><p>Other features of auriculo-condylar syndrome can include prominent cheeks, an unusually small mouth (microstomia), differences in the size and shape of facial structures between the right and left sides of the face (facial asymmetry), and an opening in the roof of the mouth (cleft palate). These features vary, even among affected members of the same family.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: GNAI3
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GNAI3
+related-gene(2)/gene-symbol: PLCB4
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PLCB4
+synonym(1): auriculocondylar syndrome
+synonym(2): dysgnathia complex
+synonym(3): question-mark ear syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1865295
+db-key(2)/db: GTR
+db-key(2)/key: C3553404
+db-key(3)/db: MeSH
+db-key(3)/key: D004427
+db-key(4)/db: OMIM
+db-key(4)/key: 602483
+db-key(5)/db: OMIM
+db-key(5)/key: 614669
+db-key(6)/db: Orphanet
+db-key(6)/key: 137888
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 702443003
+reviewed: 2013-01
+published: 2018-04-17

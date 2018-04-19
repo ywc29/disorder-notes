@@ -1,0 +1,35 @@
+name: Mitochondrial neurogastrointestinal encephalopathy disease
+ghr-page: https://ghr.nlm.nih.gov/condition/mitochondrial-neurogastrointestinal-encephalopathy-disease
+text/text-role: description
+text/html: <p>Mitochondrial neurogastrointestinal encephalopathy (MNGIE) disease is a condition that affects several parts of the body, particularly the digestive system and nervous system.  The major features of MNGIE disease can appear anytime from infancy to adulthood, but signs and symptoms most often begin by age 20.  The medical problems associated with this disorder worsen with time.</p><p>Abnormalities of the digestive system are among the most common and severe features of MNGIE disease.  Almost all affected people have a condition known as gastrointestinal dysmotility, in which the muscles and nerves of the digestive system do not move food through the digestive tract efficiently.  The resulting digestive problems include feelings of fullness (satiety) after eating only a small amount, trouble swallowing (dysphagia), nausea and vomiting after eating, episodes of abdominal pain, diarrhea, and intestinal blockage.  These gastrointestinal problems lead to extreme weight loss and reduced muscle mass (cachexia).</p><p>MNGIE disease is also characterized by abnormalities of the nervous system, although these tend to be milder than the gastrointestinal problems.  Affected individuals experience tingling, numbness, and weakness in their limbs (peripheral neuropathy), particularly in the hands and feet.  Additional neurological signs and symptoms can include droopy eyelids (ptosis), weakness of the muscles that control eye movement (ophthalmoplegia), and hearing loss.  Leukoencephalopathy, which is the deterioration of a type of brain tissue known as white matter, is a hallmark of MNGIE disease.  These changes in the brain can be seen with magnetic resonance imaging (MRI), though they usually do not cause symptoms in people with this disorder.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: TYMP
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TYMP
+synonym(1): MEPOP
+synonym(2): Mitochondrial myopathy with sensorimotor polyneuropathy, ophthalmoplegia, and pseudo-obstruction
+synonym(3): Mitochondrial neurogastrointestinal encephalopathy syndrome
+synonym(4): MNGIE disease
+synonym(5): MNGIE syndrome
+synonym(6): Myoneurogastrointestinal encephalopathy syndrome
+synonym(7): Oculogastrointestinal muscular dystrophy
+synonym(8): OGIMD
+synonym(9): POLIP
+synonym(10): Polyneuropathy, ophthalmoplegia, leukoencephalopathy, and intestinal pseudo-obstruction
+synonym(11): Thymidine phosphorylase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0872218
+db-key(2)/db: GeneReviews
+db-key(2)/key: mngie
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E88.49
+db-key(4)/db: MeSH
+db-key(4)/key: D028361
+db-key(5)/db: OMIM
+db-key(5)/key: 603041
+db-key(6)/db: Orphanet
+db-key(6)/key: 298
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 124273008
+reviewed: 2008-06
+published: 2018-04-17

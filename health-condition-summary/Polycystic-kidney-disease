@@ -1,0 +1,62 @@
+name: Polycystic kidney disease
+ghr-page: https://ghr.nlm.nih.gov/condition/polycystic-kidney-disease
+text/text-role: description
+text/html: <p>Polycystic kidney disease is a disorder that affects the kidneys and other organs. Clusters of fluid-filled sacs, called cysts, develop in the kidneys and interfere with their ability to filter waste products from the blood. The growth of cysts causes the kidneys to become enlarged and can lead to kidney failure. Cysts may also develop in other organs, particularly the liver.</p><p>Frequent complications of polycystic kidney disease include dangerously high blood pressure (hypertension), pain in the back or sides, blood in the urine (hematuria), recurrent urinary tract infections, kidney stones, and heart valve abnormalities. Additionally, people with polycystic kidney disease have an increased risk of an abnormal bulging (an aneurysm) in a large blood vessel called the aorta or in blood vessels at the base of the brain. Aneurysms can be life-threatening if they tear or rupture.</p><p>The two major forms of polycystic kidney disease are distinguished by the usual age of onset and the pattern in which it is passed through families. The autosomal dominant form (sometimes called ADPKD) has signs and symptoms that typically begin in adulthood, although cysts in the kidney are often present from birth or childhood. Autosomal dominant polycystic kidney disease can be further divided into type 1 and type 2, depending on the genetic cause. The autosomal recessive form of polycystic kidney disease (sometimes called ARPKD) is much rarer and is often lethal early in life. The signs and symptoms of this condition are usually apparent at birth or in early infancy.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: PKD1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/PKD1
+related-gene(2)/gene-symbol: PKD2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PKD2
+related-gene(3)/gene-symbol: PKHD1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PKHD1
+synonym(1): PKD
+synonym(2): polycystic renal disease
+db-key(1)/db: GTR
+db-key(1)/key: C0085413
+db-key(2)/db: GTR
+db-key(2)/key: C0085548
+db-key(3)/db: GTR
+db-key(3)/key: C1418603
+db-key(4)/db: GTR
+db-key(4)/key: C2751306
+db-key(5)/db: GTR
+db-key(5)/key: CN119611
+db-key(6)/db: GeneReviews
+db-key(6)/key: pkd-ad
+db-key(7)/db: GeneReviews
+db-key(7)/key: pkd-ar
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: Q61.1
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: Q61.2
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: Q61.3
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: Q61.11
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: Q61.19
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: Z82.71
+db-key(14)/db: MeSH
+db-key(14)/key: D007690
+db-key(15)/db: OMIM
+db-key(15)/key: 173900
+db-key(16)/db: OMIM
+db-key(16)/key: 263200
+db-key(17)/db: OMIM
+db-key(17)/key: 600666
+db-key(18)/db: OMIM
+db-key(18)/key: 613095
+db-key(19)/db: Orphanet
+db-key(19)/key: 730
+db-key(20)/db: Orphanet
+db-key(20)/key: 731
+db-key(21)/db: SNOMED CT
+db-key(21)/key: 28728008
+db-key(22)/db: SNOMED CT
+db-key(22)/key: 28770003
+reviewed: 2014-05
+published: 2018-04-17

@@ -1,0 +1,20 @@
+gene-symbol: MMAB
+name: methylmalonic aciduria (cobalamin deficiency) cblB type
+ghr-page: https://ghr.nlm.nih.gov/gene/MMAB
+text/text-role: function
+text/html: <p>The <i>MMAB</i> gene provides instructions for making an enzyme that is involved in the formation of a compound called adenosylcobalamin (AdoCbl).  AdoCbl, which is derived from vitamin B12 (also known as cobalamin), is necessary for the normal function of another enzyme known as methylmalonyl CoA mutase.  This enzyme helps break down certain proteins, fats (lipids), and cholesterol.</p><p>The MMAB enzyme is active in mitochondria, which are specialized structures inside cells that serve as energy-producing centers.  Once vitamin B12 has been transported into mitochondria, the MMAB enzyme converts a form of the vitamin called cob(I)alamin to AdoCbl.  Studies suggest that this enzyme may also deliver AdoCbl to methylmalonyl CoA mutase.</p>
+related-health-condition/name: methylmalonic acidemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia
+synonym(1): ATP:Cob(I)alamin Adenosyltransferase
+synonym(2): ATR
+synonym(3): cblB
+synonym(4): CFAP23
+synonym(5): cob(I)alamin adenosyltransferase
+synonym(6): methylmalonic aciduria (cobalamin deficiency) type B
+synonym(7): MMAB_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 326625
+db-key(2)/db: OMIM
+db-key(2)/key: 607568
+reviewed: 2011-07
+published: 2018-04-17

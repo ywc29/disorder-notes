@@ -1,0 +1,32 @@
+name: Gray platelet syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/gray-platelet-syndrome
+text/text-role: description
+text/html: <p>Gray platelet syndrome is a bleeding disorder associated with abnormal platelets, which are blood cell fragments involved in blood clotting. People with this condition tend to bruise easily and have an increased risk of nosebleeds (epistaxis). They may also experience abnormally heavy or extended bleeding following surgery, dental work, or minor trauma. Women with gray platelet syndrome often have irregular, heavy periods (menometrorrhagia). These bleeding problems are usually mild to moderate, but they have been life-threatening in a few affected individuals.</p><p>A condition called myelofibrosis, which is a buildup of scar tissue (fibrosis) in the bone marrow, is another common feature of gray platelet syndrome. Bone marrow is the spongy tissue in the center of long bones that produces most of the blood cells the body needs, including platelets. The scarring associated with myelofibrosis damages bone marrow, preventing it from making enough blood cells. Other organs, particularly the spleen, start producing more blood cells to compensate; this process often leads to an enlarged spleen (splenomegaly).</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: NBEAL2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NBEAL2
+synonym(1): BDPLT4
+synonym(2): bleeding disorder, platelet-type, 4
+synonym(3): deficient alpha granule syndrome
+synonym(4): GPS
+synonym(5): grey platelet syndrome
+synonym(6): platelet alpha-granule deficiency
+synonym(7): platelet alpha granule deficiency
+synonym(8): platelet granule defect
+db-key(1)/db: GTR
+db-key(1)/key: C0272302
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D69.1
+db-key(3)/db: MeSH
+db-key(3)/key: D055652
+db-key(4)/db: OMIM
+db-key(4)/key: 139090
+db-key(5)/db: Orphanet
+db-key(5)/key: 721
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 51720005
+reviewed: 2014-09
+published: 2018-04-17

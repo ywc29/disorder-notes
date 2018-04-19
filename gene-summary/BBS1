@@ -1,0 +1,16 @@
+gene-symbol: BBS1
+name: Bardet-Biedl syndrome 1
+ghr-page: https://ghr.nlm.nih.gov/gene/BBS1
+text/text-role: function
+text/html: <p>The <i>BBS1</i> gene provides instructions for making a protein found in cells throughout the body. The BBS1 protein is part of a group (complex) of proteins that plays a critical role in the formation of cell structures called cilia. Cilia are microscopic, finger-like projections that stick out from the surface of many types of cells. They are involved in cell movement and many different chemical signaling pathways. Cilia are also necessary for the perception of sensory input (such as sight, hearing, and smell).</p>
+related-health-condition/name: Bardet-Biedl syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/bardet-biedl-syndrome
+synonym(1): BBS1_HUMAN
+synonym(2): BBS2L2
+synonym(3): FLJ23590
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 582
+db-key(2)/db: OMIM
+db-key(2)/key: 209901
+reviewed: 2010-05
+published: 2018-04-17

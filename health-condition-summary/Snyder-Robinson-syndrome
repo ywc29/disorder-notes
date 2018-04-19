@@ -1,0 +1,28 @@
+name: Snyder-Robinson syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/snyder-robinson-syndrome
+text/text-role: description
+text/html: <p>Snyder-Robinson syndrome is a condition characterized by intellectual disability, muscle and bone abnormalities, and other problems with development. It occurs exclusively in males.</p><p>Males with Snyder-Robinson syndrome have delayed development and intellectual disability beginning in early childhood. The intellectual disability can range from mild to profound. Speech often develops late, and speech difficulties are common. Some affected individuals never develop any speech.</p><p>Most affected males are thin and have low muscle mass, a body type described as an asthenic habitus. Weakness or "floppiness" (hypotonia) typically becomes apparent in infancy, and the loss of muscle tissue continues with age. People with this condition often have difficulty walking; most have an unsteady gait.</p><p>Snyder-Robinson syndrome causes skeletal problems, particularly thinning of the bones (osteoporosis) that starts in early childhood. Osteoporosis causes the bones to be brittle and to break easily, often during normal activities. In people with Snyder-Robinson syndrome, broken bones occur most often in the arms and legs. Most affected individuals also develop an abnormal side-to-side and back-to-front curvature of the spine (scoliosis and kyphosis, often called kyphoscoliosis when they occur together). Affected individuals tend to be shorter than their peers and others in their family.</p><p>Snyder-Robinson syndrome is associated with distinctive facial features, including a prominent lower lip; a high, narrow roof of the mouth or an opening in the roof of the mouth (a cleft palate); and differences in the size and shape of the right and left sides of the face (facial asymmetry). Other signs and symptoms that have been reported include seizures that begin in childhood and abnormalities of the genitalia and kidneys.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: SMS
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SMS
+synonym(1): mental retardation, X-linked, syndromic, Snyder-Robinson type
+synonym(2): Snyder-Robinson X-linked mental retardation syndrome
+synonym(3): spermine synthase deficiency
+synonym(4): SRS
+db-key(1)/db: GTR
+db-key(1)/key: C0796160
+db-key(2)/db: GeneReviews
+db-key(2)/key: snyder-robinson
+db-key(3)/db: MeSH
+db-key(3)/key: D002658
+db-key(4)/db: MeSH
+db-key(4)/key: D038901
+db-key(5)/db: OMIM
+db-key(5)/key: 309583
+db-key(6)/db: Orphanet
+db-key(6)/key: 3063
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 702416008
+reviewed: 2016-11
+published: 2018-04-17

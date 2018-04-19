@@ -1,0 +1,10 @@
+gene-symbol: KCNA5
+name: potassium voltage-gated channel subfamily A member 5
+ghr-page: https://ghr.nlm.nih.gov/gene/KCNA5
+related-health-condition(1)/name: familial atrial fibrillation
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-atrial-fibrillation
+related-health-condition(2)/name: pulmonary arterial hypertension
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pulmonary-arterial-hypertension
+db-key/db: NCBI Gene
+db-key/key: 3741
+published: 2018-04-17

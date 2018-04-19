@@ -1,0 +1,10 @@
+gene-symbol: B9D2
+name: B9 domain containing 2
+ghr-page: https://ghr.nlm.nih.gov/gene/B9D2
+related-health-condition(1)/name: Joubert syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/joubert-syndrome
+related-health-condition(2)/name: Meckel syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/meckel-syndrome
+db-key/db: NCBI Gene
+db-key/key: 80776
+published: 2018-04-17

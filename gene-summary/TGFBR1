@@ -1,0 +1,29 @@
+gene-symbol: TGFBR1
+name: transforming growth factor beta receptor 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TGFBR1
+text/text-role: function
+text/html: <p>The <i>TGFBR1</i> gene provides instructions for making a protein called transforming growth factor-beta (TGF-β) receptor type 1. This receptor transmits signals from the cell surface into the cell through a process called signal transduction. Through this type of signaling, the environment outside the cell affects activities inside the cell such as stimulation of cell growth and division.</p><p>To carry out its signaling function, TGF-β receptor type 1 spans the cell membrane, so that one end of the protein projects from the outer surface of the cell (the extracellular domain) and the other end remains inside the cell (the intracellular domain). A protein called TGF-β attaches (binds) to the extracellular domain of TGF-β receptor type 1, which turns on (activates) the receptor and allows it to bind to another receptor on the cell surface. These three proteins form a complex, which triggers signal transduction by activating other proteins in a signaling pathway called the TGF-β pathway.</p><p>Signals transmitted by the TGF-β receptor complex trigger various responses by the cell, including the growth and division (proliferation) of cells, the maturation of cells to carry out specific functions (differentiation), cell movement (motility), and controlled cell death (apoptosis). Because TGF-β receptor type 1 helps prevent cells from growing and dividing too rapidly or in an uncontrolled way, it can suppress the formation of tumors.</p>
+related-health-condition(1)/name: familial thoracic aortic aneurysm and dissection
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-thoracic-aortic-aneurysm-and-dissection
+related-health-condition(2)/name: Loeys-Dietz syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/loeys-dietz-syndrome
+related-health-condition(3)/name: prostate cancer
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+synonym(1): serine/threonine-protein kinase receptor R4
+synonym(2): TBR-i
+synonym(3): TBRI
+synonym(4): TGF-beta receptor type-1
+synonym(5): TGF-beta receptor type I
+synonym(6): TGF-beta type I receptor
+synonym(7): TGFR-1
+synonym(8): TGFR1_HUMAN
+synonym(9): transforming growth factor beta receptor I
+synonym(10): transforming growth factor-beta receptor type I
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7046
+db-key(2)/db: OMIM
+db-key(2)/key: 132800
+db-key(3)/db: OMIM
+db-key(3)/key: 190181
+reviewed: 2017-03
+published: 2018-04-17

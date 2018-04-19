@@ -1,0 +1,25 @@
+gene-symbol: SYNGAP1
+name: synaptic Ras GTPase activating protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SYNGAP1
+text/text-role: function
+text/html: <p>The <i>SYNGAP1</i> gene provides instructions for making a protein, called SynGAP, that plays an important role in nerve cells in the brain. SynGAP is found at the junctions between nerve cells (synapses) where cell-to-cell communication takes place. Connected nerve cells act as the "wiring" in the circuitry of the brain. Synapses are able to change and adapt over time, rewiring brain circuits, which is critical for learning and memory. SynGAP helps regulate synapse adaptations and promotes proper brain wiring. The protein's function is particularly important during a critical period of early brain development that affects future cognitive ability.</p>
+related-health-condition(1)/name: autism spectrum disorder
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autism-spectrum-disorder
+related-health-condition(2)/name: SYNGAP1-related intellectual disability
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/syngap1-related-intellectual-disability
+synonym(1): KIAA1938
+synonym(2): MRD5
+synonym(3): neuronal RasGAP
+synonym(4): Ras GTPase-activating protein SynGAP
+synonym(5): ras/Rap GTPase-activating protein SynGAP
+synonym(6): RASA5
+synonym(7): synaptic Ras GTPase-activating protein 1
+synonym(8): synaptic Ras GTPase activating protein 1 homolog
+synonym(9): synaptic Ras GTPase activating protein, 135kDa
+synonym(10): SYNGAP
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8831
+db-key(2)/db: OMIM
+db-key(2)/key: 603384
+reviewed: 2017-06
+published: 2018-04-17

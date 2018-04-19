@@ -1,0 +1,58 @@
+name: Familial hemophagocytic lymphohistiocytosis
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-hemophagocytic-lymphohistiocytosis
+text/text-role: description
+text/html: <p>Familial hemophagocytic lymphohistiocytosis is a disorder in which the immune system produces too many activated immune cells (lymphocytes) called T cells, natural killer cells, B cells, and macrophages (histiocytes). Excessive amounts of immune system proteins called cytokines are also produced. This overactivation of the immune system causes fever and damages the liver and spleen, resulting in enlargement of these organs.</p><p>Familial hemophagocytic lymphohistiocytosis also destroys blood-producing cells in the bone marrow, a process called hemophagocytosis. As a result, affected individuals have low numbers of red blood cells (anemia) and a reduction in the number of platelets, which are involved in clotting. A reduction in platelets may cause easy bruising and abnormal bleeding.</p><p>The brain may also be affected in familial hemophagocytic lymphohistiocytosis. As a result, affected individuals may experience irritability, delayed closure of the bones of the skull in infants, neck stiffness, abnormal muscle tone, impaired muscle coordination, paralysis, blindness, seizures, and coma. In addition to neurological problems, familial hemophagocytic lymphohistiocytosis can cause abnormalities of the heart, kidneys, and other organs and tissues. Affected individuals also have an increased risk of developing cancers of blood-forming cells (leukemia and lymphoma).</p><p>Signs and symptoms of familial hemophagocytic lymphohistiocytosis usually become apparent during infancy, although occasionally they appear later in life. They usually occur when the immune system launches an exaggerated response to an infection, but may also occur in the absence of infection. Without treatment, most people with familial hemophagocytic lymphohistiocytosis survive only a few months.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: PRF1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/PRF1
+related-gene(2)/gene-symbol: STX11
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/STX11
+related-gene(3)/gene-symbol: STXBP2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/STXBP2
+related-gene(4)/gene-symbol: UNC13D
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/UNC13D
+synonym(1): familial erythrophagocytic lymphohistiocytosis
+synonym(2): familial hemophagocytic histiocytosis
+synonym(3): familial hemophagocytic lymphocytosis
+synonym(4): familial hemophagocytic reticulosis
+synonym(5): FEL
+synonym(6): FHL
+synonym(7): FHLH
+synonym(8): hemophagocytic syndrome
+synonym(9): HPLH
+synonym(10): primary hemophagocytic hymphohistiocytosis
+db-key(1)/db: GTR
+db-key(1)/key: C0272199
+db-key(2)/db: GTR
+db-key(2)/key: C1837174
+db-key(3)/db: GTR
+db-key(3)/key: C1863727
+db-key(4)/db: GTR
+db-key(4)/key: C1863728
+db-key(5)/db: GTR
+db-key(5)/key: C2751293
+db-key(6)/db: GTR
+db-key(6)/key: CN034020
+db-key(7)/db: GeneReviews
+db-key(7)/key: hlh
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: D76.1
+db-key(9)/db: MeSH
+db-key(9)/key: D051359
+db-key(10)/db: OMIM
+db-key(10)/key: 267700
+db-key(11)/db: OMIM
+db-key(11)/key: 603552
+db-key(12)/db: OMIM
+db-key(12)/key: 603553
+db-key(13)/db: OMIM
+db-key(13)/key: 608898
+db-key(14)/db: OMIM
+db-key(14)/key: 613101
+db-key(15)/db: Orphanet
+db-key(15)/key: 540
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 398250003
+reviewed: 2014-11
+published: 2018-04-17

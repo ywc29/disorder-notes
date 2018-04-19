@@ -1,0 +1,23 @@
+gene-symbol: ACTA2
+name: actin, alpha 2, smooth muscle, aorta
+ghr-page: https://ghr.nlm.nih.gov/gene/ACTA2
+text/text-role: function
+text/html: <p>The <i>ACTA2</i> gene provides instructions for making a protein called smooth muscle alpha (α)-2 actin, which is part of the actin protein family. Actin proteins are important for cell movement and the tensing (contraction) of muscles.</p><p>Smooth muscle α-2 actin is found in smooth muscle cells. Smooth muscles line the internal organs, including the blood vessels, stomach, and intestines. Within smooth muscle cells, smooth muscle α-2 actin forms the core of structures called sarcomeres, which are necessary for muscles to contract. Smooth muscles contract and relax as part of their normal function without being consciously controlled.</p><p>Layers of smooth muscle cells are found in the walls of the arteries, which are blood vessels that carry blood from the heart to the rest of the body. Smooth muscle α-2 actin contributes to the ability of these muscles to contract, which allows the arteries to maintain their shape instead of stretching out as blood is pumped through them.</p>
+related-health-condition/name: familial thoracic aortic aneurysm and dissection
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-thoracic-aortic-aneurysm-and-dissection
+synonym(1): AAT6
+synonym(2): ACTA_HUMAN
+synonym(3): actin, aortic smooth muscle
+synonym(4): ACTSA
+synonym(5): alpha 2 actin
+synonym(6): alpha-actin-2
+synonym(7): cell growth-inhibiting gene 46 protein
+synonym(8): growth-inhibiting gene 46
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 59
+db-key(2)/db: OMIM
+db-key(2)/key: 102620
+db-key(3)/db: OMIM
+db-key(3)/key: 613834
+reviewed: 2015-01
+published: 2018-04-17

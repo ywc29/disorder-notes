@@ -1,0 +1,55 @@
+name: Methylmalonic acidemia with homocystinuria
+ghr-page: https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+text/text-role: description
+text/html: <p>Methylmalonic acidemia with homocystinuria is an inherited disorder in which the body is unable to properly process protein building blocks (amino acids), certain fats (lipids), and a waxy fat-like substance called cholesterol. Individuals with this disorder have a combination of features from two separate conditions, methylmalonic acidemia and homocystinuria. The signs and symptoms of the combined condition, methylmalonic acidemia with homocystinuria, usually develop in infancy, although they can begin at any age.</p><p>When the condition begins early in life, affected individuals typically have an inability to grow and gain weight at the expected rate (failure to thrive), which is sometimes recognized before birth (intrauterine growth retardation). These infants can also have difficulty feeding and an abnormally pale appearance (pallor). Neurological problems are also common in methylmalonic acidemia with homocystinuria, including weak muscle tone (hypotonia) and seizures. Most infants and children with this condition have an unusually small head size (microcephaly), delayed development, and intellectual disability. Less common features of the condition include eye problems and a blood disorder called megaloblastic anemia. Megaloblastic anemia occurs when a person has a low number of red blood cells (anemia), and the remaining red blood cells are larger than normal (megaloblastic). The signs and symptoms of methylmalonic acidemia with homocystinuria worsen over time, and the condition can be life-threatening if not treated.</p><p>When methylmalonic acidemia with homocystinuria begins in adolescence or adulthood, the signs and symptoms usually include psychiatric changes and cognitive problems. Affected individuals can exhibit changes in their behavior and personality; they may become less social and may experience hallucinations, delirium, and psychosis. In addition, these individuals can begin to lose previously acquired mental and movement abilities, resulting in a decline in school or work performance, difficulty controlling movements, memory problems, speech difficulties, a decline in intellectual function (dementia), or an extreme lack of energy (lethargy). Some people with methylmalonic acidemia with homocystinuria whose signs and symptoms begin later in life develop a condition called subacute combined degeneration of the spinal cord, which leads to numbness and weakness in the lower limbs, difficulty walking, and frequent falls.</p>
+inheritance-pattern(1)/code: ar
+inheritance-pattern(1)/memo: autosomal recessive
+inheritance-pattern(2)/code: xr
+inheritance-pattern(2)/memo: X-linked recessive
+related-gene(1)/gene-symbol: ABCD4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ABCD4
+related-gene(2)/gene-symbol: HCFC1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/HCFC1
+related-gene(3)/gene-symbol: LMBRD1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/LMBRD1
+related-gene(4)/gene-symbol: MMACHC
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/MMACHC
+related-gene(5)/gene-symbol: MMADHC
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/MMADHC
+synonym(1): methylmalonic acidemia and homocystinemia
+synonym(2): methylmalonic acidemia and homocystinuria
+synonym(3): methylmalonic aciduria and homocystinuria
+synonym(4): vitamin B12 metabolic defect with combined deficiency of methylmalonyl-coA mutase and homocysteine:methyltetrahydrofolate methyltransferase
+synonym(5): vitamin B12 metabolic defect with combined deficiency of methylmalonyl-coA mutase and methionine synthase activities
+db-key(1)/db: GTR
+db-key(1)/key: C1848552
+db-key(2)/db: GTR
+db-key(2)/key: C1848561
+db-key(3)/db: GTR
+db-key(3)/key: C1848578
+db-key(4)/db: GTR
+db-key(4)/key: C3553915
+db-key(5)/db: GeneReviews
+db-key(5)/key: cbl
+db-key(6)/db: MeSH
+db-key(6)/key: D000592
+db-key(7)/db: OMIM
+db-key(7)/key: 277380
+db-key(8)/db: OMIM
+db-key(8)/key: 277400
+db-key(9)/db: OMIM
+db-key(9)/key: 277410
+db-key(10)/db: OMIM
+db-key(10)/key: 614857
+db-key(11)/db: Orphanet
+db-key(11)/key: 26
+db-key(12)/db: Orphanet
+db-key(12)/key: 79282
+db-key(13)/db: Orphanet
+db-key(13)/key: 79283
+db-key(14)/db: Orphanet
+db-key(14)/key: 79284
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 4409006
+reviewed: 2016-02
+published: 2018-04-17

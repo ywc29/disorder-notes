@@ -1,0 +1,29 @@
+name: Meige disease
+ghr-page: https://ghr.nlm.nih.gov/condition/meige-disease
+text/text-role: description
+text/html: <p>Meige disease is a condition that affects the normal function of the lymphatic system. The lymphatic system consists of a network of vessels that transport lymphatic fluid and immune cells throughout the body. Meige disease is characterized by the abnormal transport of lymphatic fluid. When this fluid builds up abnormally, it causes swelling (lymphedema) in the lower limbs.</p><p>Meige disease is classified as a primary lymphedema, which means it is a form of lymphedema that is not caused by other health conditions. In Meige disease, the lymphatic system abnormalities are present from birth (congenital), although the swelling is not usually apparent until puberty. The swelling often begins in the feet and ankles and progresses up the legs to the knees. Some affected individuals develop non-contagious skin infections called cellulitis or erysipelas in the legs, which can further damage the vessels that carry lymphatic fluid.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+synonym(1): hereditary lymphedema II
+synonym(2): late-onset lymphedema
+synonym(3): LMPH2
+synonym(4): lymphedema praecox
+synonym(5): Meige lymphedema
+db-key(1)/db: GTR
+db-key(1)/key: C0238261
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: Q82.0
+db-key(3)/db: MeSH
+db-key(3)/key: D008209
+db-key(4)/db: OMIM
+db-key(4)/key: 153200
+db-key(5)/db: Orphanet
+db-key(5)/key: 289825
+db-key(6)/db: Orphanet
+db-key(6)/key: 90186
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 400040008
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 77123007
+reviewed: 2015-07
+published: 2018-04-17

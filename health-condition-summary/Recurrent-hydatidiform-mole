@@ -1,0 +1,31 @@
+name: Recurrent hydatidiform mole
+ghr-page: https://ghr.nlm.nih.gov/condition/recurrent-hydatidiform-mole
+text/text-role: description
+text/html: <p>Recurrent hydatidiform mole occurs when women have at least two abnormal pregnancies described as hydatidiform moles. A hydatidiform mole occurs early in pregnancy when an embryo does not fully develop and the placenta develops abnormally. The placenta is a solid structure in the uterus that normally provides nutrients to a growing fetus. If a hydatidiform mole occurs once, it is known a sporadic hydatidiform mole; if it happens again, the condition is known as recurrent hydatidiform mole.</p><p>A hydatidiform mole often causes vaginal bleeding in the first trimester of the pregnancy. In an ultrasound examination, the abnormal placenta appears as numerous small sacs, often described as resembling a bunch of grapes. In some cases, the ultrasound shows no fetus, umbilical cord, or amniotic sac (a fluid-filled sac that normally surrounds the fetus).</p><p>Hydatidiform moles are not naturally discharged from the body and must be surgically removed, typically by the end of the first trimester. After removal, there is up to a 20 percent risk that any tissue left behind (persistent mole) will continue to grow and become a cancerous tumor called an invasive mole. The invasive mole can transform into a different form of cancer called gestational choriocarcinoma that can spread (metastasize) to other tissues such as the liver, lungs, or brain.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: KHDC3L
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/KHDC3L
+related-gene(2)/gene-symbol: NLRP7
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/NLRP7
+synonym(1): familial biparental hydatidiform mole
+synonym(2): familial recurrent hydatidiform mole
+synonym(3): FRHM
+db-key(1)/db: GTR
+db-key(1)/key: C0678213
+db-key(2)/db: GTR
+db-key(2)/key: C2931618
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: O01.0
+db-key(4)/db: MeSH
+db-key(4)/key: D006828
+db-key(5)/db: OMIM
+db-key(5)/key: 231090
+db-key(6)/db: OMIM
+db-key(6)/key: 614293
+db-key(7)/db: Orphanet
+db-key(7)/key: 99927
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 237249000
+reviewed: 2014-10
+published: 2018-04-17

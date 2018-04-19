@@ -1,0 +1,23 @@
+gene-symbol: AKR1D1
+name: aldo-keto reductase family 1 member D1
+ghr-page: https://ghr.nlm.nih.gov/gene/AKR1D1
+text/text-role: function
+text/html: <p>The <i>AKR1D1</i> gene provides instructions for making an enzyme called 3-oxo-5-beta(β)-steroid 4-dehydrogenase. This enzyme is found in liver cells. It participates in the production of bile acids, which are a component of a digestive fluid called bile. Bile acids stimulate bile flow and helps absorb fats and fat-soluble vitamins. Bile acids are produced from cholesterol in a multi-step process. The 3-oxo-5-β-steroid 4-dehydrogenase enzyme is responsible for the third step in that process, which converts 7alpha(α)-hydroxy-4-cholesten-3-one to 7α-hydroxy-5β-cholesten-3-one.</p>
+related-health-condition/name: congenital bile acid synthesis defect type 2
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-bile-acid-synthesis-defect-type-2
+synonym(1): 3-oxo-5-beta-steroid 4-dehydrogenase
+synonym(2): 3o5bred
+synonym(3): 5-beta-reductase
+synonym(4): AK1D1_HUMAN
+synonym(5): aldo-keto reductase family 1, member D1
+synonym(6): delta 4-3-ketosteroid-5-beta-reductase
+synonym(7): delta(4)-3-ketosteroid 5-beta-reductase
+synonym(8): delta(4)-3-oxosteroid 5-beta-reductase
+synonym(9): SRD5B1
+synonym(10): steroid 5-beta-reductase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6718
+db-key(2)/db: OMIM
+db-key(2)/key: 604741
+reviewed: 2015-04
+published: 2018-04-17

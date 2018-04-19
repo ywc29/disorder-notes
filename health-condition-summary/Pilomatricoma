@@ -1,0 +1,27 @@
+name: Pilomatricoma
+ghr-page: https://ghr.nlm.nih.gov/condition/pilomatricoma
+text/text-role: description
+text/html: <p>Pilomatricoma, also known as pilomatrixoma, is a type of noncancerous (benign) skin tumor associated with hair follicles. Hair follicles are specialized structures in the skin where hair growth occurs. Pilomatricomas occur most often on the head or neck, although they can also be found on the arms, torso, or legs. A pilomatricoma feels like a small, hard lump under the skin. This type of tumor grows relatively slowly and usually does not cause pain or other symptoms. Most affected individuals have a single tumor, although rarely multiple pilomatricomas can occur. If a pilomatricoma is removed surgically, it tends not to grow back (recur).</p><p>Most pilomatricomas occur in people under the age of 20. However, these tumors can also appear later in life. Almost all pilomatricomas are benign, but a very small percentage are cancerous (malignant). Unlike the benign form, the malignant version of this tumor (known as a pilomatrix carcinoma) occurs most often in middle age or late in life.</p><p>Pilomatricoma usually occurs without other signs or symptoms (isolated), but this type of tumor has also rarely been reported with inherited conditions. Disorders that can be associated with pilomatricoma include Gardner syndrome, which is characterized by multiple growths (polyps) and cancers of the colon and rectum; myotonic dystrophy, which is a form of muscular dystrophy; and Rubinstein-Taybi syndrome, which is a condition that affects many parts of the body and is associated with an increased risk of both benign and malignant tumors.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene/gene-symbol: CTNNB1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CTNNB1
+synonym(1): benign pilomatricoma
+synonym(2): benign pilomatrixoma
+synonym(3): calcifying epithelioma of Malherbe
+synonym(4): Malherbe calcifying epithelioma
+synonym(5): pilomatrixoma
+db-key(1)/db: GTR
+db-key(1)/key: C0206711
+db-key(2)/db: MeSH
+db-key(2)/key: D018296
+db-key(3)/db: OMIM
+db-key(3)/key: 132600
+db-key(4)/db: Orphanet
+db-key(4)/key: 91414
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 274901004
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 44155009
+reviewed: 2012-06
+published: 2018-04-17

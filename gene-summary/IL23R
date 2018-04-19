@@ -1,0 +1,22 @@
+gene-symbol: IL23R
+name: interleukin 23 receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/IL23R
+text/text-role: function
+text/html: <p>The <i>IL23R</i> gene provides instructions for making a protein called the interleukin 23 (IL-23) receptor.  This protein is embedded in the outer membrane of several types of immune system cells, including T cells, natural killer (NK) cells, monocytes, and dendritic cells. These cells identify foreign substances and defend the body against infection and disease.</p><p>At the cell surface, the IL-23 receptor interacts with a protein called IL-23. These two proteins fit together like a lock and key. IL-23 is a cytokine, which is a type of protein that regulates the activity of immune cells. When IL-23 binds to its receptor, it triggers a series of chemical signals inside the cell. These signals promote inflammation and help coordinate the immune system's response to foreign invaders such as bacteria and viruses.</p>
+related-health-condition(1)/name: ankylosing spondylitis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/ankylosing-spondylitis
+related-health-condition(2)/name: Crohn disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/crohn-disease
+related-health-condition(3)/name: psoriatic arthritis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/psoriatic-arthritis
+related-health-condition(4)/name: ulcerative colitis
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/ulcerative-colitis
+synonym(1): IL-23R
+synonym(2): IL23R_HUMAN
+synonym(3): interleukin-23 receptor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 149233
+db-key(2)/db: OMIM
+db-key(2)/key: 607562
+reviewed: 2017-12
+published: 2018-04-17

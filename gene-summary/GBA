@@ -1,0 +1,31 @@
+gene-symbol: GBA
+name: glucosylceramidase beta
+ghr-page: https://ghr.nlm.nih.gov/gene/GBA
+text/text-role: function
+text/html: <p>The <i>GBA</i> gene provides instructions for making an enzyme called beta-glucocerebrosidase.  This enzyme is active in lysosomes, which are structures inside cells that act as recycling centers. Lysosomes use digestive enzymes to break down toxic substances, digest bacteria that invade the cell, and recycle worn-out cell components.  Based on these functions, enzymes in the lysosome are sometimes called housekeeping enzymes.  Beta-glucocerebrosidase is a housekeeping enzyme that helps break down a large molecule called glucocerebroside into a sugar (glucose) and a simpler fat molecule (ceramide). Glucocerebroside is a component of the membrane that surrounds cells. It gets broken down when cells die and recycled as new cells are formed.</p>
+related-health-condition(1)/name: dementia with Lewy bodies
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/dementia-with-lewy-bodies
+related-health-condition(2)/name: Gaucher disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/gaucher-disease
+related-health-condition(3)/name: Parkinson disease
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/parkinson-disease
+synonym(1): acid beta-glucosidase
+synonym(2): algucerase
+synonym(3): beta-D-glucosyl-N-acylsphingosine glucohydrolase
+synonym(4): beta-glucocerebrosidase
+synonym(5): GBA1
+synonym(6): GLCM_HUMAN
+synonym(7): GLUC
+synonym(8): glucocerebrosidase
+synonym(9): glucocerebroside beta-glucosidase
+synonym(10): glucosidase, beta, acid
+synonym(11): glucosidase, beta; acid (includes glucosylceramidase)
+synonym(12): glucosphingosine glucosylhydrolase
+synonym(13): glucosylceramide beta-glucosidase
+synonym(14): imiglucerase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2629
+db-key(2)/db: OMIM
+db-key(2)/key: 606463
+reviewed: 2017-10
+published: 2018-04-17

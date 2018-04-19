@@ -1,0 +1,22 @@
+gene-symbol: ATL1
+name: atlastin GTPase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ATL1
+text/text-role: function
+text/html: <p>The <i>ATL1</i> gene provides instructions for producing a protein called atlastin-1. Atlastin-1 is produced primarily in the brain and spinal cord (central nervous system), particularly in nerve cells (neurons) that extend down the spinal cord (corticospinal tracts). These neurons send electrical signals that lead to voluntary muscle movement. In neurons, this protein is found mainly in the endoplasmic reticulum, which is a structure involved in protein processing and distribution. Atlastin-1 fuses together the network of tubules that make up the structure of the endoplasmic reticulum. Atlastin-1 is also active in compartments called axonal growth cones, which are located at the tip of neurons. The axonal growth cones direct the growth of specialized extensions, called axons, which transmit nerve impulses that signal muscle movement. Within axonal growth cones, atlastin-1 acts during development to help guide the growth of axons.</p>
+related-health-condition/name: spastic paraplegia type 3A
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/spastic-paraplegia-type-3a
+synonym(1): AD-FSP
+synonym(2): ATLA1_HUMAN
+synonym(3): atlastin
+synonym(4): atlastin1
+synonym(5): FSP1
+synonym(6): GBP3
+synonym(7): guanylate-binding protein 3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51062
+db-key(2)/db: OMIM
+db-key(2)/key: 606439
+db-key(3)/db: OMIM
+db-key(3)/key: 613708
+reviewed: 2015-03
+published: 2018-04-17

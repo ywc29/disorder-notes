@@ -1,0 +1,28 @@
+name: Emanuel syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/emanuel-syndrome
+text/text-role: description
+text/html: <p>Emanuel syndrome is a chromosomal disorder that disrupts normal development and affects many parts of the body.  Infants with Emanuel syndrome have weak muscle tone (hypotonia) and fail to gain weight and grow at the expected rate (failure to thrive).  Their development is significantly delayed, and most affected individuals have severe to profound intellectual disability.</p><p>Other features of Emanuel syndrome include an unusually small head (microcephaly), distinctive facial features, and a small lower jaw (micrognathia).  Ear abnormalities are common, including small holes in the skin just in front of the ears (preauricular pits or sinuses).  About half of all affected infants are born with an opening in the roof of the mouth (cleft palate) or a high arched palate.  Males with Emanuel syndrome often have genital abnormalities.  Additional signs of this condition can include heart defects and absent or unusually small (hypoplastic) kidneys; these problems can be life-threatening in infancy or childhood.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-chromosome(1)/name: 11
+related-chromosome(1)/ghr-page: https://ghr.nlm.nih.gov/chromosome/11
+related-chromosome(2)/name: 22
+related-chromosome(2)/ghr-page: https://ghr.nlm.nih.gov/chromosome/22
+synonym(1): Der(22) syndrome due to 3:1 meiotic disjunction events
+synonym(2): supernumerary der(22) syndrome
+synonym(3): supernumerary der(22)t(11;22) syndrome
+synonym(4): supernumerary derivative 22 chromosome syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1836929
+db-key(2)/db: GeneReviews
+db-key(2)/key: emanuel
+db-key(3)/db: MeSH
+db-key(3)/key: D025063
+db-key(4)/db: OMIM
+db-key(4)/key: 609029
+db-key(5)/db: Orphanet
+db-key(5)/key: 96170
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702417004
+reviewed: 2017-01
+published: 2018-04-17

@@ -1,0 +1,19 @@
+gene-symbol: NPRL2
+name: NPR2 like, GATOR1 complex subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/NPRL2
+text/text-role: function
+text/html: <p>The <i>NPRL2</i> gene provides instructions for making a protein that is one piece of a group of proteins (complex) called GATOR1. This complex is found in cells throughout the body, where it regulates a signaling pathway called the mTOR pathway. The mTOR pathway is involved in cell growth and division (proliferation), the survival of cells, and the creation (synthesis) of new proteins. The role of the GATOR1 complex is to block this pathway by inhibiting (stopping) the activity of a complex called mTOR complex 1 (mTORC1) that is integral to the mTOR pathway.</p><p>In the brain, the mTOR pathway regulates many processes, including the growth and development of nerve cells and their ability to change and adapt over time (plasticity).</p>
+related-health-condition/name: familial focal epilepsy with variable foci
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-focal-epilepsy-with-variable-foci
+synonym(1): NPR2
+synonym(2): NPR2-like protein
+synonym(3): NPR2-like, GATOR1 complex subunit
+synonym(4): NPR2L
+synonym(5): tumor suppressor candidate 4
+synonym(6): TUSC4
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10641
+db-key(2)/db: OMIM
+db-key(2)/key: 607072
+reviewed: 2017-03
+published: 2018-04-17

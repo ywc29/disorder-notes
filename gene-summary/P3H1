@@ -1,0 +1,18 @@
+gene-symbol: P3H1
+name: prolyl 3-hydroxylase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/P3H1
+text/text-role: function
+text/html: <p>The <i>P3H1</i> gene provides instructions for making an enzyme called prolyl-3 hydroxylase 1 (sometimes known as leprecan). This enzyme works with two other proteins, cartilage associated protein and cyclophilin B, as part of a complex that helps process certain forms of collagen.  Collagens are proteins that provide strength, support, and the ability to stretch (elasticity) to many body tissues.</p><p>The complex modifies a protein building block (amino acid) called proline in collagen molecules. This modification, which is known as proline 3-hydroxylation, appears to be critical for the normal folding and assembly of collagen. It also may be important for releasing collagen molecules into the spaces around cells (the extracellular matrix). The secretion of collagen from cells is necessary for the proper formation of connective tissues, such as bones, tendons, and cartilage, that form the body's supportive framework.</p><p>Studies suggest that prolyl-3 hydroxylase 1 has several additional functions.  For example, this enzyme may play a role in interactions between certain types of cells and the extracellular matrix that surrounds them.  Other research indicates that prolyl-3 hydroxylase 1 may act as a tumor suppressor, preventing cells from growing and dividing too fast or in an uncontrolled way.</p>
+related-health-condition/name: osteogenesis imperfecta
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/osteogenesis-imperfecta
+synonym(1): GROS1
+synonym(2): growth suppressor 1
+synonym(3): Leucine- and proline-enriched proteoglycan 1
+synonym(4): MGC117314
+synonym(5): P3H1_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 64175
+db-key(2)/db: OMIM
+db-key(2)/key: 610339
+reviewed: 2007-11
+published: 2018-04-17

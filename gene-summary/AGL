@@ -1,0 +1,18 @@
+gene-symbol: AGL
+name: amylo-alpha-1, 6-glucosidase, 4-alpha-glucanotransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/AGL
+text/text-role: function
+text/html: <p>The <i>AGL</i> gene provides instructions for making the glycogen debranching enzyme. This enzyme is involved in the breakdown of a complex sugar called glycogen, which is a major source of stored energy in the body. Glycogen is made up of several molecules of a simple sugar called glucose. Some glucose molecules are linked together in a straight line, while others branch off and form side chains. The glycogen debranching enzyme is involved in the breakdown of these side chains. The branched structure of glycogen makes it more compact for storage and allows it to break down more easily when it is needed for fuel.</p><p>The <i>AGL</i> gene provides instructions for making several different versions (isoforms) of the glycogen debranching enzyme. These isoforms vary by size and are active (expressed) in different tissues.</p>
+related-health-condition/name: glycogen storage disease type III
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-iii
+synonym(1): amylo-1, 6-glucosidase, 4-alpha-glucanotransferase
+synonym(2): GDE
+synonym(3): GDE_HUMAN
+synonym(4): glycogen debrancher
+synonym(5): glycogen debranching enzyme
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 178
+db-key(2)/db: OMIM
+db-key(2)/key: 610860
+reviewed: 2010-09
+published: 2018-04-17

@@ -1,0 +1,24 @@
+gene-symbol: GNE
+name: glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase
+ghr-page: https://ghr.nlm.nih.gov/gene/GNE
+text/text-role: function
+text/html: <p>The <i>GNE</i> gene provides instructions for making an enzyme that is found in cells and tissues throughout the body.  This enzyme plays a key role in a chemical pathway that produces sialic acid, which is a simple sugar that attaches to the ends of more complex molecules on the surface of cells. By modifying these molecules, sialic acid influences a wide variety of cellular functions including cell movement (migration), attaching cells to one another (adhesion), signaling between cells, and inflammation.</p><p>The enzyme produced from the <i>GNE</i> gene is responsible for two steps in the formation of sialic acid.  It first converts a molecule known as UDP-GlcNAc to a similar molecule called ManNAc.  In the next step, the enzyme transfers a cluster of oxygen and phosphorus atoms (a phosphate group) to ManNAc to create ManNAc-6-phosphate.  Other enzymes then convert ManNAc-6-phosphate to sialic acid.</p>
+related-health-condition(1)/name: inclusion body myopathy 2
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/inclusion-body-myopathy-2
+related-health-condition(2)/name: sialuria
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/sialuria
+synonym(1): Bifunctional UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase
+synonym(2): DMRV
+synonym(3): GLCNE
+synonym(4): GLCNE_HUMAN
+synonym(5): IBM2
+synonym(6): N-acylmannosamine kinase
+synonym(7): Uae1
+synonym(8): UDP-GlcNAc-2-epimerase/ManAc kinase
+synonym(9): UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10020
+db-key(2)/db: OMIM
+db-key(2)/key: 603824
+reviewed: 2008-12
+published: 2018-04-17

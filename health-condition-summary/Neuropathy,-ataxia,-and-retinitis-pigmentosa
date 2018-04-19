@@ -1,0 +1,32 @@
+name: Neuropathy, ataxia, and retinitis pigmentosa
+ghr-page: https://ghr.nlm.nih.gov/condition/neuropathy-ataxia-and-retinitis-pigmentosa
+text/text-role: description
+text/html: <p>Neuropathy, ataxia, and retinitis pigmentosa (NARP) is a condition that causes a variety of signs and symptoms chiefly affecting the nervous system.  Beginning in childhood or early adulthood, most people with NARP experience numbness, tingling, or pain in the arms and legs (sensory neuropathy); muscle weakness; and problems with balance and coordination (ataxia).  Many affected individuals also have vision loss caused by changes in the light-sensitive tissue that lines the back of the eye (the retina).  In some cases, the vision loss results from a condition called retinitis pigmentosa.  This eye disease causes the light-sensing cells of the retina gradually to deteriorate.</p><p>Learning disabilities and developmental delays are often seen in children with NARP, and older individuals with this condition may experience a loss of intellectual function (dementia).  Other features of NARP include seizures, hearing loss, and abnormalities of the electrical signals that control the heartbeat (cardiac conduction defects).  These signs and symptoms vary among affected individuals.</p>
+inheritance-pattern/code: m
+inheritance-pattern/memo: mitochondrial
+related-gene/gene-symbol: MT-ATP6
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MT-ATP6
+related-mitochondrial-dna/name: mitochondrial DNA
+related-mitochondrial-dna/ghr-page: https://ghr.nlm.nih.gov/mitochondrial-dna
+synonym(1): NARP
+synonym(2): NARP syndrome
+synonym(3): neurogenic muscle weakness, ataxia, and retinitis pigmentosa
+synonym(4): neuropathy, ataxia, and retinitis pigmentos
+db-key(1)/db: GTR
+db-key(1)/key: C1328349
+db-key(2)/db: GeneReviews
+db-key(2)/key: mt-overview
+db-key(3)/db: GeneReviews
+db-key(3)/key: narp
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: E88.49
+db-key(5)/db: MeSH
+db-key(5)/key: D028361
+db-key(6)/db: OMIM
+db-key(6)/key: 551500
+db-key(7)/db: Orphanet
+db-key(7)/key: 644
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 237984008
+reviewed: 2006-11
+published: 2018-04-17

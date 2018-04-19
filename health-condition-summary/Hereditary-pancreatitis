@@ -1,0 +1,40 @@
+name: Hereditary pancreatitis
+ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-pancreatitis
+text/text-role: description
+text/html: <p>Hereditary pancreatitis is a genetic condition characterized by recurrent episodes of inflammation of the pancreas (pancreatitis). The pancreas produces enzymes that help digest food, and it also produces insulin, a hormone that controls blood sugar levels in the body. Episodes of pancreatitis can lead to permanent tissue damage and loss of pancreatic function.</p><p>Signs and symptoms of this condition usually begin in late childhood with an episode of acute pancreatitis. A sudden (acute) attack can cause abdominal pain, fever, nausea, or vomiting. An episode typically lasts from one to three days, although some people may experience severe episodes that last longer. Hereditary pancreatitis progresses to recurrent acute pancreatitis with multiple episodes of acute pancreatitis that recur over a period of at least a year; the number of episodes a person experiences varies. Recurrent acute pancreatitis leads to chronic pancreatitis, which occurs when the pancreas is persistently inflamed. Chronic pancreatitis usually develops by early adulthood in affected individuals. Signs and symptoms of chronic pancreatitis include occasional or frequent abdominal pain of varying severity, flatulence, and bloating. Many individuals with hereditary pancreatitis also develop abnormal calcium deposits in the pancreas (pancreatic calcifications) by early adulthood.</p><p>Years of inflammation damage the pancreas, causing the formation of scar tissue (fibrosis) in place of functioning pancreatic tissue. Pancreatic fibrosis leads to the loss of pancreatic function in many affected individuals. This loss of function can impair the production of digestive enzymes and disrupt normal digestion, leading to fatty stool (steatorrhea), weight loss, and protein and vitamin deficiencies. Because of a decrease in insulin production due to a loss of pancreatic function, about a quarter of individuals with hereditary pancreatitis will develop type 1 diabetes mellitus by mid-adulthood; the risk of developing diabetes increases with age.</p><p>Chronic pancreatic inflammation and damage to the pancreas increase the risk of developing pancreatic cancer. The risk is particularly high in people with hereditary pancreatitis who also smoke, use alcohol, have type 1 diabetes mellitus, or have a family history of cancer. In affected individuals who develop pancreatic cancer, it is typically diagnosed in mid-adulthood.</p><p>Complications from pancreatic cancer and type 1 diabetes mellitus are the most common causes of death in individuals with hereditary pancreatitis, although individuals with this condition are thought to have a normal life expectancy.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CFTR
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CFTR
+related-gene(2)/gene-symbol: CTRC
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CTRC
+related-gene(3)/gene-symbol: PRSS1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PRSS1
+related-gene(4)/gene-symbol: SPINK1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SPINK1
+synonym(1): autosomal dominant hereditary pancreatitis
+synonym(2): familial pancreatitis
+synonym(3): hereditary chronic pancreatitis
+synonym(4): HP
+db-key(1)/db: GTR
+db-key(1)/key: C0238339
+db-key(2)/db: GeneReviews
+db-key(2)/key: pancreatitis-ov
+db-key(3)/db: GeneReviews
+db-key(3)/key: prss1-hp
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: K86.1
+db-key(5)/db: MeSH
+db-key(5)/key: D050500
+db-key(6)/db: OMIM
+db-key(6)/key: 167800
+db-key(7)/db: Orphanet
+db-key(7)/key: 676
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 235949005
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 235956004
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 68072000
+reviewed: 2012-10
+published: 2018-04-17

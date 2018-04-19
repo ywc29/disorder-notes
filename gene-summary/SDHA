@@ -1,0 +1,32 @@
+gene-symbol: SDHA
+name: succinate dehydrogenase complex flavoprotein subunit A
+ghr-page: https://ghr.nlm.nih.gov/gene/SDHA
+text/text-role: function
+text/html: <p>The <i>SDHA</i> gene provides instructions for making one of four parts (subunits) of the succinate dehydrogenase (SDH) enzyme. The SDH enzyme plays a critical role in mitochondria, which are structures inside cells that convert the energy from food into a form that cells can use.</p><p>Within mitochondria, the SDH enzyme links two important pathways in energy conversion: the citric acid cycle (or Krebs cycle) and oxidative phosphorylation. As part of the citric acid cycle, the SDH enzyme converts a compound called succinate to another compound called fumarate. Negatively charged particles called electrons are released during this reaction. The SDHA protein is the active subunit of the enzyme that performs the conversion of succinate, and it also helps transfer electrons to the oxidative phosphorylation pathway. In oxidative phosphorylation, the electrons help create an electrical charge that provides energy for the production of adenosine triphosphate (ATP), the cell's main energy source.</p><p>Succinate, the compound on which the SDH enzyme acts, is an oxygen sensor in the cell and can help turn on specific pathways that stimulate cells to grow in a low-oxygen environment (hypoxia). In particular, succinate stabilizes a protein called hypoxia-inducible factor (HIF) by preventing a reaction that would allow HIF to be broken down. HIF controls several important genes involved in cell division and the formation of new blood vessels in a hypoxic environment.</p><p>The <i>SDHA</i> gene is a tumor suppressor gene, which means it prevents cells from growing and dividing in an uncontrolled way.</p>
+related-health-condition(1)/name: gastrointestinal stromal tumor
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/gastrointestinal-stromal-tumor
+related-health-condition(2)/name: hereditary paraganglioma-pheochromocytoma
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-paraganglioma-pheochromocytoma
+related-health-condition(3)/name: Leigh syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+related-health-condition(4)/name: nonsyndromic paraganglioma
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-paraganglioma
+synonym(1): CMD1GG
+synonym(2): DHSA_HUMAN
+synonym(3): flavoprotein subunit of complex II
+synonym(4): FP
+synonym(5): SDH1
+synonym(6): SDH2
+synonym(7): SDHF
+synonym(8): succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial
+synonym(9): succinate dehydrogenase complex flavoprotein subunit
+synonym(10): succinate dehydrogenase complex subunit A, flavoprotein (Fp)
+synonym(11): succinate dehydrogenase complex, subunit A, flavoprotein (Fp)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6389
+db-key(2)/db: OMIM
+db-key(2)/key: 256000
+db-key(3)/db: OMIM
+db-key(3)/key: 600857
+reviewed: 2011-10
+published: 2018-04-17

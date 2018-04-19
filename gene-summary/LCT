@@ -1,0 +1,21 @@
+gene-symbol: LCT
+name: lactase
+ghr-page: https://ghr.nlm.nih.gov/gene/LCT
+text/text-role: function
+text/html: <p>The <i>LCT</i> gene provides instructions for making an enzyme called lactase. This enzyme helps to digest lactose, a sugar found in milk and other dairy products.</p><p>Lactase is produced by cells that line the walls of the small intestine. These cells, called intestinal epithelial cells, have finger-like projections called microvilli that absorb nutrients from food as it passes through the intestine so they can be absorbed into the bloodstream. Based on their appearance, groups of these microvilli are known collectively as the brush border. Lactase functions at the brush border to break down lactose into smaller sugars called glucose and galactose for absorption.</p>
+related-health-condition/name: lactose intolerance
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/lactose-intolerance
+synonym(1): LAC
+synonym(2): lactase-glycosylceramidase
+synonym(3): lactase-phlorizin hydrolase
+synonym(4): lactase-phlorizin hydrolase-1
+synonym(5): lactase-phlorizin hydrolase preproprotein
+synonym(6): LPH
+synonym(7): LPH1
+synonym(8): LPH_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3938
+db-key(2)/db: OMIM
+db-key(2)/key: 603202
+reviewed: 2010-05
+published: 2018-04-17

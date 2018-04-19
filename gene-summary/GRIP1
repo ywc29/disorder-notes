@@ -1,0 +1,15 @@
+gene-symbol: GRIP1
+name: glutamate receptor interacting protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/GRIP1
+text/text-role: function
+text/html: <p>The <i>GRIP1</i> gene provides instructions for making a protein that is able to attach (bind) to other proteins and is important for moving (targeting) proteins to the correct location in cells. For example, the GRIP1 protein targets two proteins called FRAS1 and FREM2 to the correct region of the cell so that they can form a group of proteins known as the FRAS/FREM complex. This complex is found in the thin, sheet-like structures (basement membranes) that separate and support the cells of many tissues. The complex is particularly important during development before birth. One of its roles is to anchor the top layer of skin by connecting the basement membrane of the top layer to the layer of skin below. The FRAS/FREM complex is also involved in the proper development of certain other organs and tissues, including the kidneys, although the mechanism is unclear.</p><p>In addition, the GRIP1 protein targets necessary proteins to the junctions (synapses) between nerve cells (neurons) in the brain where cell-to-cell communication occurs. GRIP1 may also be involved in the development of neurons.</p>
+related-health-condition/name: Fraser syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/fraser-syndrome
+synonym(1): glutamate receptor-interacting protein 1
+synonym(2): GRIP
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23426
+db-key(2)/db: OMIM
+db-key(2)/key: 604597
+reviewed: 2014-06
+published: 2018-04-17

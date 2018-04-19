@@ -1,0 +1,8 @@
+gene-symbol: TRIB1
+name: tribbles pseudokinase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TRIB1
+related-health-condition/name: non-alcoholic fatty liver disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/non-alcoholic-fatty-liver-disease
+db-key/db: NCBI Gene
+db-key/key: 10221
+published: 2018-04-17

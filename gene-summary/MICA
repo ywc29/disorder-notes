@@ -1,0 +1,10 @@
+gene-symbol: MICA
+name: MHC class I polypeptide-related sequence A
+ghr-page: https://ghr.nlm.nih.gov/gene/MICA
+related-health-condition(1)/name: autoimmune Addison disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autoimmune-addison-disease
+related-health-condition(2)/name: idiopathic pulmonary fibrosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/idiopathic-pulmonary-fibrosis
+db-key/db: NCBI Gene
+db-key/key: 100507436
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: SLC11A2
+name: solute carrier family 11 member 2
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC11A2
+text/text-role: function
+text/html: <p>The <i>SLC11A2</i> gene provides instructions for making a protein called divalent metal transporter 1 (DMT1). Four different versions (isoforms) of the DMT1 protein are produced from the <i>SLC11A2</i> gene. Each isoform is specific to one or more tissues, but some form of the DMT1 protein is found in all tissues. The primary role of the DMT1 protein is to transport positively charged iron atoms (ions) within cells; however, the protein can transport some other metal ions as well.</p><p>In a section of the small intestine called the duodenum, the DMT1 protein is located within finger-like projections called microvilli. These projections absorb nutrients from food as it passes through the intestine and then release them into the bloodstream. In all other cells, including immature red blood cells called erythroblasts, DMT1 is located in the membrane of endosomes, which are specialized compartments that are formed at the cell surface to carry proteins and other molecules to their destinations within the cell. DMT1 transports iron from the endosomes to the cytoplasm so it can be used by the cell.</p>
+related-health-condition/name: hypochromic microcytic anemia with iron overload
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hypochromic-microcytic-anemia-with-iron-overload
+synonym(1): DCT1
+synonym(2): divalent cation transporter 1
+synonym(3): DMT-1
+synonym(4): DMT1
+synonym(5): natural resistance-associated macrophage protein 2
+synonym(6): NRAMP 2
+synonym(7): NRAMP2
+synonym(8): solute carrier family 11 (proton-coupled divalent metal ion transporter), member 2
+synonym(9): solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4891
+db-key(2)/db: OMIM
+db-key(2)/key: 600523
+reviewed: 2014-11
+published: 2018-04-17

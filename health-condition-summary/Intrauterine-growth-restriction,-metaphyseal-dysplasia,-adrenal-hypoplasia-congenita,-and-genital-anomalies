@@ -1,0 +1,25 @@
+name: Intrauterine growth restriction, metaphyseal dysplasia, adrenal hypoplasia congenita, and genital anomalies
+ghr-page: https://ghr.nlm.nih.gov/condition/intrauterine-growth-restriction-metaphyseal-dysplasia-adrenal-hypoplasia-congenita-and-genital-anomalies
+text/text-role: description
+text/html: <p>The combination of intrauterine growth restriction, metaphyseal dysplasia, adrenal hypoplasia congenita, and genital anomalies is commonly known by the acronym IMAGe. This rare syndrome has signs and symptoms that affect many parts of the body.</p><p>Most affected individuals grow slowly before birth (intrauterine growth restriction) and are small in infancy. They have skeletal abnormalities that often become apparent in early childhood, although these abnormalities are usually mild and can be difficult to recognize on x-rays. The most common bone changes are metaphyseal dysplasia and epiphyseal dysplasia; these are malformations of the ends of long bones in the arms and legs. Some affected individuals also have an abnormal side-to-side curvature of the spine (scoliosis) or thinning of the bones (osteoporosis).</p><p>Adrenal hypoplasia congenita is the most severe feature of IMAGe syndrome. The adrenal glands are a pair of small glands on top of each kidney. They produce a variety of hormones that regulate many essential functions in the body. Underdevelopment (hypoplasia) of these glands prevents them from producing enough hormones, a condition known as adrenal insufficiency. The signs of adrenal insufficiency begin shortly after birth and include vomiting, difficulty with feeding, dehydration, extremely low blood sugar (hypoglycemia), and shock. If untreated, these complications can be life-threatening.</p><p>The genital abnormalities associated with IMAGe syndrome occur only in affected males. They include an unusually small penis (micropenis), undescended testes (cryptorchidism), and the opening of the urethra on the underside of the penis (hypospadias).</p><p>Several additional signs and symptoms have been reported in people with IMAGe syndrome. Some affected individuals have distinctive facial features, such as a prominent forehead, low-set ears, and a short nose with a flat nasal bridge. Less commonly, people with this condition have premature fusion of certain bones of the skull (craniosynostosis), a split in the soft flap of tissue that hangs from the back of the mouth (cleft or bifid uvula), a high-arched roof of the mouth (palate), and a small chin (micrognathia). Other possible features of IMAGe syndrome include high levels of calcium in the blood (hypercalcemia) or urine (hypercalcuria) and a shortage of growth hormone in childhood that results in short stature.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: CDKN1C
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CDKN1C
+synonym(1): IMAGe anomaly
+synonym(2): IMAGe association
+synonym(3): IMAGe syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1846009
+db-key(2)/db: GeneReviews
+db-key(2)/key: image
+db-key(3)/db: MeSH
+db-key(3)/key: D000015
+db-key(4)/db: OMIM
+db-key(4)/key: 614732
+db-key(5)/db: Orphanet
+db-key(5)/key: 85173
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702384004
+reviewed: 2013-04
+published: 2018-04-17

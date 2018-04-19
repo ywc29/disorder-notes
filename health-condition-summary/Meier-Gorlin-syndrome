@@ -1,0 +1,46 @@
+name: Meier-Gorlin syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/meier-gorlin-syndrome
+text/text-role: description
+text/html: <p>Meier-Gorlin syndrome is a condition primarily characterized by short stature. It is considered a form of primordial dwarfism because the growth problems begin before birth (intrauterine growth retardation). After birth, affected individuals continue to grow at a slow rate. Other characteristic features of this condition are underdeveloped or missing kneecaps (patellae), small ears, and, often, an abnormally small head (microcephaly). Despite a small head size, most people with Meier-Gorlin syndrome have normal intellect.</p><p>Some people with Meier-Gorlin syndrome have other skeletal abnormalities, such as unusually narrow long bones in the arms and legs, a deformity of the knee joint that allows the knee to bend backwards (genu recurvatum), and slowed mineralization of bones (delayed bone age).</p><p>Most people with Meier-Gorlin syndrome have distinctive facial features. In addition to being abnormally small, the ears may be low-set or rotated backward. Additional features can include a small mouth (microstomia), an underdeveloped lower jaw (micrognathia), full lips, and a narrow nose with a high nasal bridge.</p><p>Abnormalities in sexual development may also occur in Meier-Gorlin syndrome. In some males with this condition, the testes are small or undescended (cryptorchidism). Affected females may have unusually small external genital folds (hypoplasia of the labia majora) and small breasts. Both males and females with this condition can have sparse or absent underarm (axillary) hair.</p><p>Additional features of Meier-Gorlin syndrome can include difficulty feeding and a lung condition known as pulmonary emphysema or other breathing problems.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: CDC6
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CDC6
+related-gene(2)/gene-symbol: CDT1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CDT1
+related-gene(3)/gene-symbol: ORC1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/ORC1
+related-gene(4)/gene-symbol: ORC4
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/ORC4
+related-gene(5)/gene-symbol: ORC6
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/ORC6
+synonym(1): ear, patella, short stature syndrome
+synonym(2): microtia, absent patellae, micrognathia syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1868684
+db-key(2)/db: GTR
+db-key(2)/key: C3151097
+db-key(3)/db: GTR
+db-key(3)/key: C3151113
+db-key(4)/db: GTR
+db-key(4)/key: C3151120
+db-key(5)/db: GTR
+db-key(5)/key: C3151126
+db-key(6)/db: MeSH
+db-key(6)/key: D004392
+db-key(7)/db: OMIM
+db-key(7)/key: 224690
+db-key(8)/db: OMIM
+db-key(8)/key: 613800
+db-key(9)/db: OMIM
+db-key(9)/key: 613803
+db-key(10)/db: OMIM
+db-key(10)/key: 613804
+db-key(11)/db: OMIM
+db-key(11)/key: 613805
+db-key(12)/db: Orphanet
+db-key(12)/key: 2554
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 703508009
+reviewed: 2014-02
+published: 2018-04-17

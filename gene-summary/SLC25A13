@@ -1,0 +1,22 @@
+gene-symbol: SLC25A13
+name: solute carrier family 25 member 13
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC25A13
+text/text-role: function
+text/html: <p>The <i>SLC25A13</i> gene provides instructions for making a protein called citrin. This protein is active chiefly in the liver, kidneys, and heart. Within the cells of these organs, citrin is involved in transporting molecules into and out of energy-producing structures called mitochondria. Specifically, citrin carries a protein building block (amino acid) called glutamate into mitochondria and transports the amino acid aspartate out of mitochondria as part of a process called the malate-aspartate shuttle.</p><p>An adequate supply of aspartate must be transported out of mitochondria to participate in a process called the urea cycle. The urea cycle is a sequence of chemical reactions that takes place in liver cells. These reactions process excess nitrogen that is generated as the body uses proteins. The excess nitrogen is used to make a compound called urea, which is excreted from the body in urine.</p><p>Citrin participates in several other important cellular functions as part of the malate-aspartate shuttle. This protein plays a role in producing and breaking down simple sugars and making proteins. It is also involved in the production of nucleotides, which are the building blocks of DNA and its chemical cousin, RNA.</p>
+related-health-condition/name: citrullinemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/citrullinemia
+synonym(1): ARALAR2
+synonym(2): calcium-binding mitochondrial carrier protein Aralar2
+synonym(3): CITRIN
+synonym(4): CMC2_HUMAN
+synonym(5): CTLN2
+synonym(6): mitochondrial aspartate glutamate carrier 2
+synonym(7): solute carrier family 25 (aspartate/glutamate carrier), member 13
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10165
+db-key(2)/db: OMIM
+db-key(2)/key: 603859
+db-key(3)/db: OMIM
+db-key(3)/key: 605814
+reviewed: 2017-05
+published: 2018-04-17

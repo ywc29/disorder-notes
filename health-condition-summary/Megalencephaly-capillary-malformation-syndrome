@@ -1,0 +1,31 @@
+name: Megalencephaly-capillary malformation syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/megalencephaly-capillary-malformation-syndrome
+text/text-role: description
+text/html: <p>Megalencephaly-capillary malformation syndrome (MCAP) is a disorder characterized by overgrowth of several tissues in the body. Its primary features are a large brain (megalencephaly) and abnormalities of small blood vessels in the skin called capillaries (capillary malformations).</p><p>In individuals with MCAP, megalencephaly leads to an unusually large head size (macrocephaly), which is typically evident at birth. After birth, the brain and head continue to grow at a fast rate for the first few years of life; then, the growth slows to a normal rate, although the head remains larger than average. Additional brain abnormalities are common in people with MCAP; these can include excess fluid within the brain (hydrocephalus) and abnormalities in the brain's structure, such as those known as Chiari malformation and polymicrogyria. Abnormal brain development leads to intellectual disability in most affected individuals and can also cause seizures or weak muscle tone (hypotonia). In particular, polymicrogyria is associated with speech delays and difficulty chewing and swallowing.</p><p>The capillary malformations characteristic of MCAP are composed of enlarged capillaries that increase blood flow near the surface of the skin. These malformations usually look like pink or red spots on the skin. In most affected individuals, capillary malformations occur on the face, particularly the nose, the upper lip, and the area between the nose and upper lip (the philtrum). In other people with MCAP, the malformations appear as patches spread over the body or as a reddish net-like pattern on the skin (cutis marmorata).</p><p>In some people with MCAP, excessive growth affects not only the brain but other individual parts of the body, which is known as segmental overgrowth. This can lead to one arm or leg that is bigger or longer than the other or a few oversized fingers or toes. Some affected individuals have fusion of the skin between two or more fingers or toes (cutaneous syndactyly).</p><p>Additional features of MCAP can include flexible joints and skin that stretches easily. Some affected individuals are said to have doughy skin because the tissue under the skin is unusually thick and soft.</p><p>The gene involved in MCAP is also associated with several types of cancer. Only a small number of individuals with MCAP have developed tumors (in particular, a childhood form of kidney cancer known as Wilms tumor and noncancerous tumors in the nervous system known as meningiomas).</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene/gene-symbol: PIK3CA
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PIK3CA
+synonym(1): M-CM
+synonym(2): macrocephaly-capillary malformation syndrome
+synonym(3): macrocephaly cutis marmorata telangiectatica congenita
+synonym(4): MCAP
+synonym(5): MCMTC
+synonym(6): megalencephaly-capillary malformation-polymicrogyria syndrome
+synonym(7): megalencephaly cutis marmorata telangiectatica congenita
+db-key(1)/db: GTR
+db-key(1)/key: C1865285
+db-key(2)/db: GeneReviews
+db-key(2)/key: pik3ca-overgrowth
+db-key(3)/db: MeSH
+db-key(3)/key: D054079
+db-key(4)/db: MeSH
+db-key(4)/key: D058627
+db-key(5)/db: OMIM
+db-key(5)/key: 602501
+db-key(6)/db: Orphanet
+db-key(6)/key: 60040
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 703370002
+reviewed: 2017-06
+published: 2018-04-17

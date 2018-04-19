@@ -1,0 +1,23 @@
+gene-symbol: AIP
+name: aryl hydrocarbon receptor interacting protein
+ghr-page: https://ghr.nlm.nih.gov/gene/AIP
+text/text-role: function
+text/html: <p>The <i>AIP</i> gene provides instructions for making a protein called aryl hydrocarbon receptor-interacting protein (AIP). Although AIP's function is not well understood, it is known to interact with numerous other proteins, including one called the aryl hydrocarbon receptor. Through these interactions, AIP likely helps regulate certain cell processes, such as the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), and cell survival. This protein is thought to act as a tumor suppressor, which means it normally helps prevent cells from proliferating in an uncontrolled way.</p>
+related-health-condition/name: familial isolated pituitary adenoma
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-isolated-pituitary-adenoma
+synonym(1): AH receptor-interacting protein
+synonym(2): AIP_HUMAN
+synonym(3): ARA9
+synonym(4): FKBP16
+synonym(5): FKBP37
+synonym(6): HBV X-associated protein 2
+synonym(7): immunophilin homolog ARA9
+synonym(8): SMTPHN
+synonym(9): XAP-2
+synonym(10): XAP2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9049
+db-key(2)/db: OMIM
+db-key(2)/key: 605555
+reviewed: 2013-08
+published: 2018-04-17

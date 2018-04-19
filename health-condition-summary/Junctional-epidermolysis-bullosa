@@ -1,0 +1,44 @@
+name: Junctional epidermolysis bullosa
+ghr-page: https://ghr.nlm.nih.gov/condition/junctional-epidermolysis-bullosa
+text/text-role: description
+text/html: <p>Junctional epidermolysis bullosa (JEB) is one of the major forms of epidermolysis bullosa, a group of genetic conditions that cause the skin to be very fragile and to blister easily. Blisters and skin erosions form in response to minor injury or friction, such as rubbing or scratching. Researchers classify junctional epidermolysis bullosa into two main types: Herlitz JEB and non-Herlitz JEB. Although the types differ in severity, their features overlap significantly, and they can be caused by mutations in the same genes.</p><p>Herlitz JEB is the more severe form of the condition. From birth or early infancy, affected individuals have blistering over large regions of the body. Blistering also affects the mucous membranes, such as the moist lining of the mouth and digestive tract, which can make it difficult to eat and digest food. As a result, many affected children have chronic malnutrition and slow growth. The extensive blistering leads to scarring and the formation of red, bumpy patches called granulation tissue. Granulation tissue bleeds easily and profusely, making affected infants susceptible to serious infections and loss of necessary proteins, minerals, and fluids. Additionally, a buildup of granulation tissue in the airway can lead to a weak, hoarse cry and difficulty breathing.</p><p>Other complications of Herlitz JEB can include fusion of the fingers and toes, abnormalities of the fingernails and toenails, joint deformities (contractures) that restrict movement, and hair loss (alopecia). Because the signs and symptoms of Herlitz JEB are so severe, infants with this condition usually do not survive beyond the first year of life.</p><p>The milder form of junctional epidermolysis bullosa is called non-Herlitz JEB. The blistering associated with non-Herlitz JEB may be limited to the hands, feet, knees, and elbows, and it often improves after the newborn period. Other characteristic features of this condition include alopecia, malformed fingernails and toenails, and irregular tooth enamel. Most affected individuals do not have extensive scarring or granulation tissue formation, so breathing difficulties and other severe complications are rare. Non-Herlitz JEB is typically associated with a normal lifespan.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: COL17A1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/COL17A1
+related-gene(2)/gene-symbol: LAMA3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/LAMA3
+related-gene(3)/gene-symbol: LAMB3
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/LAMB3
+related-gene(4)/gene-symbol: LAMC2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/LAMC2
+synonym(1): Epidermolysis Bullosa, Junctional
+synonym(2): JEB
+db-key(1)/db: GTR
+db-key(1)/key: C0079301
+db-key(2)/db: GTR
+db-key(2)/key: C0079683
+db-key(3)/db: GTR
+db-key(3)/key: C0268374
+db-key(4)/db: GeneReviews
+db-key(4)/key: ebj
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: Q81.8
+db-key(6)/db: MeSH
+db-key(6)/key: D016109
+db-key(7)/db: OMIM
+db-key(7)/key: 226650
+db-key(8)/db: OMIM
+db-key(8)/key: 226700
+db-key(9)/db: Orphanet
+db-key(9)/key: 305
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 33662006
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 399971009
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 400140006
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 79855003
+reviewed: 2009-09
+published: 2018-04-17

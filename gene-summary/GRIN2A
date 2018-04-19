@@ -1,0 +1,26 @@
+gene-symbol: GRIN2A
+name: glutamate ionotropic receptor NMDA type subunit 2A
+ghr-page: https://ghr.nlm.nih.gov/gene/GRIN2A
+text/text-role: function
+text/html: <p>The <i>GRIN2A</i> gene provides instructions for making a protein called GluN2A (formerly known as NR2A). This protein is found in nerve cells (neurons) in the brain and spinal cord, including regions of the brain involved in speech and language. The GluN2A protein is one component (subunit) of a subset of NMDA receptors. There are several types of NMDA receptors, made up of different combinations of protein components. NMDA receptors are glutamate-gated ion channels; when brain chemicals called glutamate and glycine attach to the receptor, a channel opens, allowing positively charged particles (cations) to flow through. The flow of cations generates currents that activate (excite) neurons to send signals in the brain. NMDA receptors are involved in normal brain development, changes in the brain in response to experience (synaptic plasticity), learning, and memory. They also appear to play a role during deep (slow-wave) sleep.</p><p>The GluN2A subunit of NMDA receptors determines where in the brain the receptor is located and how it functions. It also provides the site to which glutamate binds.</p>
+related-health-condition(1)/name: epilepsy-aphasia spectrum
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/epilepsy-aphasia-spectrum
+related-health-condition(2)/name: opioid addiction
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/opioid-addiction
+synonym(1): EPND
+synonym(2): GluN2A
+synonym(3): glutamate receptor ionotropic, NMDA 2A isoform 1 precursor
+synonym(4): glutamate receptor ionotropic, NMDA 2A isoform 2 precursor
+synonym(5): glutamate receptor, ionotropic, N-methyl D-aspartate 2A
+synonym(6): LKS
+synonym(7): N-methyl-D-aspartate receptor channel, subunit epsilon-1
+synonym(8): N-methyl D-aspartate receptor subtype 2A
+synonym(9): N-methyl-D-aspartate receptor subunit 2A
+synonym(10): NMDAR2A
+synonym(11): NR2A
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2903
+db-key(2)/db: OMIM
+db-key(2)/key: 138253
+reviewed: 2016-11
+published: 2018-04-17

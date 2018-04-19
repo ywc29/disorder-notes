@@ -1,0 +1,24 @@
+gene-symbol: WDR45
+name: WD repeat domain 45
+ghr-page: https://ghr.nlm.nih.gov/gene/WDR45
+text/text-role: function
+text/html: <p>The <i>WDR45</i> gene provides instructions for making a protein called WD40 repeat protein interacting with phosphoinositides 4 (WIPI4). WIPI4 is a member of a group of proteins each with a characteristic structure resembling a seven-bladed propeller. The WIPI4 protein is involved in the early stages of a process called autophagy, which helps clear unneeded materials from cells, including excess amounts of an iron storage protein called ferritin. In autophagy, worn-out cell parts (such as organelles, which are specialized structures that perform certain tasks within the cell) and other materials that are no longer needed are isolated in tiny compartments called autophagosomes. The WIPI4 protein helps control (regulate) the production and elongation of autophagosomes to contain the materials. The autophagosomes are then transported to organelles called lysosomes, which act as recycling centers within cells. Lysosomes use digestive enzymes to break down waste substances and recycle worn-out cell components.</p>
+related-health-condition/name: beta-propeller protein-associated neurodegeneration
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/beta-propeller-protein-associated-neurodegeneration
+synonym(1): JM5
+synonym(2): NBIA4
+synonym(3): NBIA5
+synonym(4): WD repeat-containing protein 45
+synonym(5): WD repeat domain phosphoinositide-interacting protein 4 isoform 1
+synonym(6): WD repeat domain phosphoinositide-interacting protein 4 isoform 2
+synonym(7): WD repeat domain, X-linked 1
+synonym(8): WD45 repeat protein interacting with phosphoinositides 4
+synonym(9): WDRX1
+synonym(10): WIPI-4
+synonym(11): WIPI4
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 11152
+db-key(2)/db: OMIM
+db-key(2)/key: 300526
+reviewed: 2017-05
+published: 2018-04-17

@@ -1,0 +1,21 @@
+gene-symbol: TSHR
+name: thyroid stimulating hormone receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/TSHR
+text/text-role: function
+text/html: <p>The <i>TSHR</i> gene provides instructions for making a protein, known as a receptor, that attaches (binds) to a hormone called thyroid stimulating hormone (TSH). This receptor spans the membrane of certain cells (called follicular cells) in the thyroid gland, a butterfly-shaped tissue in the lower neck. A large part of the receptor sits on the outer surface of the cell (extracellular), and a small portion is retained inside the cell (intracellular). Thyroid stimulating hormone binds to the extracellular portion of the receptor like a key fitting into a lock, activating a series of reactions that control development of the thyroid gland and its functions. Among its functions, the thyroid gland produces iodine-containing hormones (thyroid hormones), which help regulate growth, brain development, and the rate of chemical reactions in the body (metabolism).</p>
+related-health-condition(1)/name: congenital hypothyroidism
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-hypothyroidism
+related-health-condition(2)/name: Graves disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/graves-disease
+synonym(1): LGR3
+synonym(2): thyrotropin receptor
+synonym(3): TSH Receptors
+synonym(4): TSHR_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7253
+db-key(2)/db: OMIM
+db-key(2)/key: 603372
+db-key(3)/db: OMIM
+db-key(3)/key: 609152
+reviewed: 2015-09
+published: 2018-04-17

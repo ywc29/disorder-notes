@@ -1,0 +1,27 @@
+name: Oculofaciocardiodental syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/oculofaciocardiodental-syndrome
+text/text-role: description
+text/html: <p>Oculofaciocardiodental (OFCD) syndrome is a condition that affects the development of the eyes (oculo-), facial features (facio-), heart (cardio-) and teeth (dental). This condition occurs only in females.</p><p>The eye abnormalities associated with OFCD syndrome can affect one or both eyes. Many people with this condition are born with eyeballs that are abnormally small (microphthalmia). Other eye problems can include clouding of the lens (cataract) and a higher risk of glaucoma, an eye disease that increases the pressure in the eye. These abnormalities can lead to vision loss or blindness.</p><p>People with OFCD syndrome often have a long, narrow face with distinctive facial features, including deep-set eyes and a broad nasal tip that is divided by a cleft. Some affected people have an opening in the roof of the mouth called a cleft palate.</p><p>Heart defects are another common feature of OFCD syndrome. Babies with this condition may be born with a hole between two chambers of the heart (an atrial or ventricular septal defect) or a leak in one of the valves that controls blood flow through the heart (mitral valve prolapse).</p><p>Teeth with very large roots (radiculomegaly) are characteristic of OFCD syndrome. Additional dental abnormalities can include delayed loss of primary (baby) teeth, missing or abnormally small teeth, misaligned teeth, and defective tooth enamel.</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+related-gene/gene-symbol: BCOR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/BCOR
+synonym(1): MCOPS2
+synonym(2): Microphthalmia, cataracts, radiculomegaly, and septal heart defects
+synonym(3): Microphthalmia, syndromic 2
+synonym(4): Oculo-facio-cardio-dental syndrome
+synonym(5): OFCD syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1846265
+db-key(2)/db: MeSH
+db-key(2)/key: D008850
+db-key(3)/db: MeSH
+db-key(3)/key: D015785
+db-key(4)/db: OMIM
+db-key(4)/key: 300166
+db-key(5)/db: Orphanet
+db-key(5)/key: 2712
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 699300009
+reviewed: 2008-05
+published: 2018-04-17

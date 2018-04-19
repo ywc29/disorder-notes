@@ -1,0 +1,26 @@
+gene-symbol: MYH3
+name: myosin heavy chain 3
+ghr-page: https://ghr.nlm.nih.gov/gene/MYH3
+text/text-role: function
+text/html: <p>The <i>MYH3</i> gene provides instructions for making a protein called embryonic skeletal muscle myosin heavy chain 3. This protein belongs to a group of proteins called myosins, which are involved in cell movement and transport of materials within and between cells. Thick filaments made of myosin, along with thin filaments of another protein called actin, are the primary components of muscle fibers and are important for muscle tensing (contraction).</p><p>Each myosin protein complex consists of two pairs of light chains, which regulate the complex and are produced from several other genes, and two heavy chains such as that produced from the <i>MYH3</i> gene. The heavy chains each have two parts: a head region and a tail region. The head region interacts with actin and includes a segment that attaches (binds) to ATP. ATP is a molecule that supplies energy for cells' activities, including muscle contraction. The long tail region of the myosin heavy chain interacts with other proteins, including the tail regions of other myosins, enabling them to form thick filaments.</p><p>Embryonic skeletal muscle myosin heavy chain 3 forms part of a myosin protein complex that is normally active only before birth and is important for early development of the muscles.</p>
+related-health-condition(1)/name: Freeman-Sheldon syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/freeman-sheldon-syndrome
+related-health-condition(2)/name: Sheldon-Hall syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/sheldon-hall-syndrome
+synonym(1): HEMHC
+synonym(2): muscle embryonic myosin heavy chain
+synonym(3): MYH3_HUMAN
+synonym(4): MYHC-EMB
+synonym(5): MYHSE1
+synonym(6): myosin-3
+synonym(7): myosin heavy chain, fast skeletal muscle, embryonic
+synonym(8): myosin, heavy chain 3, skeletal muscle, embryonic
+synonym(9): myosin, heavy polypeptide 3, skeletal muscle, embryonic
+synonym(10): myosin, skeletal, heavy chain, embryonic 1
+synonym(11): SMHCE
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4621
+db-key(2)/db: OMIM
+db-key(2)/key: 160720
+reviewed: 2015-06
+published: 2018-04-17

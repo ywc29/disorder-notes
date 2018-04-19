@@ -1,0 +1,26 @@
+name: Atelosteogenesis type 1
+ghr-page: https://ghr.nlm.nih.gov/condition/atelosteogenesis-type-1
+text/text-role: description
+text/html: <p>Atelosteogenesis type 1 is a disorder that affects the development of bones throughout the body. Affected individuals are born with inward- and upward-turning feet (clubfeet) and dislocations of the hips, knees, and elbows. Bones in the spine, rib cage, pelvis, and limbs may be underdeveloped or in some cases absent. As a result of the limb bone abnormalities, individuals with this condition have very short arms and legs. Characteristic facial features include a prominent forehead, wide-set eyes (hypertelorism), an upturned nose with a grooved tip, and a very small lower jaw and chin (micrognathia). Affected individuals may also have an opening in the roof of the mouth (a cleft palate). Males with this condition can have undescended testes.</p><p>Individuals with atelosteogenesis type 1 typically have an underdeveloped rib cage that affects the development and functioning of the lungs. As a result, affected individuals are usually stillborn or die shortly after birth from respiratory failure.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FLNB
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FLNB
+synonym(1): AOI
+synonym(2): atelosteogenesis type I
+synonym(3): giant cell chondrodysplasia
+synonym(4): spondylohumerofemoral hypoplasia
+db-key(1)/db: GTR
+db-key(1)/key: C0265283
+db-key(2)/db: GeneReviews
+db-key(2)/key: flnb-dis
+db-key(3)/db: MeSH
+db-key(3)/key: D010009
+db-key(4)/db: OMIM
+db-key(4)/key: 108720
+db-key(5)/db: Orphanet
+db-key(5)/key: 1190
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 43814000
+reviewed: 2011-09
+published: 2018-04-17

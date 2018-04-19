@@ -1,0 +1,30 @@
+name: CHST3-related skeletal dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/chst3-related-skeletal-dysplasia
+text/text-role: description
+text/html: <p><i>CHST3</i>-related skeletal dysplasia is a genetic condition characterized by bone and joint abnormalities that worsen over time. Affected individuals have short stature throughout life, with an adult height under 4 and a half feet. Joint dislocations, most often affecting the knees, hips, and elbows, are present at birth (congenital). Other bone and joint abnormalities can include an inward- and upward-turning foot (clubfoot), a limited range of motion in large joints, and abnormal curvature of the spine. The features of <i>CHST3</i>-related skeletal dysplasia are usually limited to the bones and joints; however, minor heart defects have been reported in a few affected individuals.</p><p>Researchers have not settled on a preferred name for this condition. It is sometimes known as autosomal recessive Larsen syndrome based on its similarity to another skeletal disorder called Larsen syndrome. Other names that have been used to describe the condition include spondyloepiphyseal dysplasia, Omani type; humero-spinal dysostosis; and chondrodysplasia with multiple dislocations. Recently, researchers have proposed the umbrella term <i>CHST3</i>-related skeletal dysplasia to refer to bone and joint abnormalities resulting from mutations in the <i>CHST3</i> gene.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CHST3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CHST3
+synonym(1): autosomal recessive Larsen syndrome
+synonym(2): CDMD
+synonym(3): chondrodysplasia with multiple dislocations
+synonym(4): humero-spinal dysostosis
+synonym(5): SED with luxations, CHST3 type
+synonym(6): SED, Omani type
+synonym(7): spondyloepiphyseal dysplasia with congenital joint dislocations
+synonym(8): spondyloepiphyseal dysplasia, Omani type
+db-key(1)/db: GTR
+db-key(1)/key: C1840471
+db-key(2)/db: GeneReviews
+db-key(2)/key: cd-chst3
+db-key(3)/db: MeSH
+db-key(3)/key: D010009
+db-key(4)/db: OMIM
+db-key(4)/key: 143095
+db-key(5)/db: Orphanet
+db-key(5)/key: 263463
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702400006
+reviewed: 2012-10
+published: 2018-04-17

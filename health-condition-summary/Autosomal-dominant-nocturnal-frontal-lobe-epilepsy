@@ -1,0 +1,43 @@
+name: Autosomal dominant nocturnal frontal lobe epilepsy
+ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-nocturnal-frontal-lobe-epilepsy
+text/text-role: description
+text/html: <p>Autosomal dominant nocturnal frontal lobe epilepsy (ADNFLE) is an uncommon form of epilepsy that runs in families. This disorder causes seizures that usually occur at night (nocturnally) while an affected person is sleeping. Some people with ADNFLE also have seizures during the day.</p><p>The seizures characteristic of ADNFLE tend to occur in clusters, with each one lasting from a few seconds to a few minutes. Some people have mild seizures that simply cause them to wake up from sleep. Others have more severe episodes that can include sudden, repetitive movements such as flinging or throwing motions of the arms and bicycling movements of the legs. The person may get out of bed and wander around, which can be mistaken for sleepwalking. The person may also cry out or make moaning, gasping, or grunting sounds. These episodes are sometimes misdiagnosed as nightmares, night terrors, or panic attacks.</p><p>In some types of epilepsy, including ADNFLE, a pattern of neurological symptoms called an aura often precedes a seizure. The most common symptoms associated with an aura in people with ADNFLE are tingling, shivering, a sense of fear, dizziness (vertigo), and a feeling of falling or being pushed. Some affected people have also reported a feeling of breathlessness, overly fast breathing (hyperventilation), or choking. It is unclear what brings on seizures in people with ADNFLE. Episodes may be triggered by stress or fatigue, but in most cases the seizures do not have any recognized triggers.</p><p>The seizures associated with ADNFLE can begin anytime from infancy to mid-adulthood, but most begin in childhood. The episodes tend to become milder and less frequent with age. In most affected people, the seizures can be effectively controlled with medication.</p><p>Most people with ADNFLE are intellectually normal, and there are no problems with their brain function between seizures. However, some people with ADNFLE have experienced psychiatric disorders (such as schizophrenia), behavioral problems, or intellectual disability.  It is unclear whether these additional features are directly related to epilepsy in these individuals.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CHRNA2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CHRNA2
+related-gene(2)/gene-symbol: CHRNA4
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CHRNA4
+related-gene(3)/gene-symbol: CHRNB2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CHRNB2
+related-gene(4)/gene-symbol: KCNT1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNT1
+synonym: ADNFLE
+db-key(1)/db: GTR
+db-key(1)/key: C1835905
+db-key(2)/db: GTR
+db-key(2)/key: C1838049
+db-key(3)/db: GTR
+db-key(3)/key: C1854335
+db-key(4)/db: GTR
+db-key(4)/key: C1864125
+db-key(5)/db: GeneReviews
+db-key(5)/key: adnfle
+db-key(6)/db: MeSH
+db-key(6)/key: D017034
+db-key(7)/db: OMIM
+db-key(7)/key: 600513
+db-key(8)/db: OMIM
+db-key(8)/key: 603204
+db-key(9)/db: OMIM
+db-key(9)/key: 605375
+db-key(10)/db: OMIM
+db-key(10)/key: 610353
+db-key(11)/db: Orphanet
+db-key(11)/key: 309
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 230445007
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 698021005
+reviewed: 2009-04
+published: 2018-04-17

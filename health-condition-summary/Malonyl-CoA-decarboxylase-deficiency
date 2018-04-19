@@ -1,0 +1,24 @@
+name: Malonyl-CoA decarboxylase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/malonyl-coa-decarboxylase-deficiency
+text/text-role: description
+text/html: <p>Malonyl-CoA decarboxylase deficiency is a condition that prevents the body from converting certain fats to energy. The signs and symptoms of this disorder typically appear in early childhood. Almost all affected children have delayed development. Additional signs and symptoms can include weak muscle tone (hypotonia), seizures, diarrhea, vomiting, and low blood sugar (hypoglycemia). A heart condition called cardiomyopathy, which weakens and enlarges the heart muscle, is another common feature of malonyl-CoA decarboxylase deficiency.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: MLYCD
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MLYCD
+synonym(1): deficiency of malonyl-CoA decarboxylase
+synonym(2): malonic aciduria
+synonym(3): malonyl-coenzyme A decarboxylase deficiency
+synonym(4): MCD deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0342793
+db-key(2)/db: MeSH
+db-key(2)/key: D008661
+db-key(3)/db: OMIM
+db-key(3)/key: 248360
+db-key(4)/db: Orphanet
+db-key(4)/key: 943
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 124594007
+reviewed: 2010-01
+published: 2018-04-17

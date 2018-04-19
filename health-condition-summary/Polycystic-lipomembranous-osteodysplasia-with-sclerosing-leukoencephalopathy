@@ -1,0 +1,29 @@
+name: Polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/polycystic-lipomembranous-osteodysplasia-with-sclerosing-leukoencephalopathy
+text/text-role: description
+text/html: <p>Polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy, commonly known as PLOSL, is a progressive disorder that affects the bones and brain.  "Polycystic lipomembranous osteodysplasia" refers to cyst-like bone changes that can be seen on x-rays.  "Sclerosing leukoencephalopathy" describes specific changes in the brain that are found in people with this disorder.</p><p>The bone abnormalities associated with PLOSL usually become apparent in a person's twenties.  In most affected individuals, pain and tenderness in the ankles and feet are the first symptoms of the disease.  Several years later, broken bones (fractures) begin to occur frequently, particularly in bones of the ankles, feet, wrists, and hands.  Bone pain and fractures are caused by thinning of the bones (osteoporosis) and cyst-like changes.  These abnormalities weaken bones and make them more likely to break.</p><p>The brain abnormalities characteristic of PLOSL typically appear in a person's thirties. Personality changes are among the first noticeable problems, followed by a loss of judgment, feelings of intense happiness (euphoria), a loss of inhibition, and poor concentration. These neurologic changes cause significant problems in an affected person's social and family life.  As the disease progresses, it causes a severe decline in thinking and reasoning abilities (dementia). Affected people ultimately become unable to walk, speak, or care for themselves. People with this disease usually live only into their thirties or forties.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: TREM2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/TREM2
+related-gene(2)/gene-symbol: TYROBP
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/TYROBP
+synonym(1): Nasu-Hakola disease
+synonym(2): NHD
+synonym(3): PLO-SL
+synonym(4): PLOSL
+synonym(5): Presenile dementia with bone cysts
+db-key(1)/db: GTR
+db-key(1)/key: C1857316
+db-key(2)/db: GeneReviews
+db-key(2)/key: plosl
+db-key(3)/db: MeSH
+db-key(3)/key: D019636
+db-key(4)/db: OMIM
+db-key(4)/key: 221770
+db-key(5)/db: Orphanet
+db-key(5)/key: 2770
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702347001
+reviewed: 2008-11
+published: 2018-04-17

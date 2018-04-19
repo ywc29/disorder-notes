@@ -1,0 +1,29 @@
+name: Trimethylaminuria
+ghr-page: https://ghr.nlm.nih.gov/condition/trimethylaminuria
+text/text-role: description
+text/html: <p>Trimethylaminuria is a disorder in which the body is unable to break down trimethylamine, a chemical compound that has a pungent odor. Trimethylamine has been described as smelling like rotting fish, rotting eggs, garbage, or urine. As this compound builds up in the body, it causes affected people to give off a strong odor in their sweat, urine, and breath. The intensity of the odor may vary over time. The odor can interfere with many aspects of daily life, affecting a person's relationships, social life, and career. Some people with trimethylaminuria experience depression and social isolation as a result of this condition.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FMO3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FMO3
+synonym(1): fish malodor syndrome
+synonym(2): fish odor syndrome
+synonym(3): stale fish syndrome
+synonym(4): TMAU
+synonym(5): TMAuria
+db-key(1)/db: GTR
+db-key(1)/key: C0342739
+db-key(2)/db: GeneReviews
+db-key(2)/key: trimethylaminuria
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E72.52
+db-key(4)/db: MeSH
+db-key(4)/key: D008661
+db-key(5)/db: OMIM
+db-key(5)/key: 602079
+db-key(6)/db: Orphanet
+db-key(6)/key: 35056
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 237959005
+reviewed: 2013-01
+published: 2018-04-17

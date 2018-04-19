@@ -1,0 +1,25 @@
+gene-symbol: CHMP2B
+name: charged multivesicular body protein 2B
+ghr-page: https://ghr.nlm.nih.gov/gene/CHMP2B
+text/text-role: function
+text/html: <p>The <i>CHMP2B</i> gene provides instructions for making a protein called charged multivesicular body protein 2B. This protein is active in the brain, where it appears to be essential for the survival of nerve cells (neurons).</p><p>Charged multivesicular body protein 2B forms one part (subunit) of a group of proteins known as the ESCRT-III complex. This complex helps transport other proteins from the cell membrane to the interior of the cell, a process known as endocytosis. In particular, the ESCRT-III complex is involved in the endocytosis of proteins that need to be broken down (degraded) by the cell. The complex helps sort these proteins into structures called multivesicular bodies (MVBs), which deliver them to lysosomes. Lysosomes are compartments within cells that digest and recycle many different types of molecules.</p><p>Charged multivesicular body protein 2B is regulated by a segment at one end of the protein known as the C-terminal domain. This domain usually keeps the protein turned off (inactive). The inactive protein is unable to interact with other subunits of the ESCRT-III complex, which prevents the complex from forming when it is not needed. The C-terminal domain also plays an important role in disassembling the ESCRT-III complex through its interaction with a protein called vacuolar protein sorting 4 (Vps4).</p>
+related-health-condition(1)/name: amyotrophic lateral sclerosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
+related-health-condition(2)/name: CHMP2B-related frontotemporal dementia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/chmp2b-related-frontotemporal-dementia
+synonym(1): CHM2B_HUMAN
+synonym(2): CHMP family, member 2B
+synonym(3): CHMP2.5
+synonym(4): chromatin modifying protein 2B
+synonym(5): DMT1
+synonym(6): hVps2-2
+synonym(7): vacuolar protein sorting-associated protein 2-2
+synonym(8): VPS2-2
+synonym(9): VPS2 homolog B
+synonym(10): VPS2B
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 25978
+db-key(2)/db: OMIM
+db-key(2)/key: 609512
+reviewed: 2010-08
+published: 2018-04-17

@@ -1,0 +1,26 @@
+name: Adiposis dolorosa
+ghr-page: https://ghr.nlm.nih.gov/condition/adiposis-dolorosa
+text/text-role: description
+text/html: <p>Adiposis dolorosa is a condition characterized by painful folds of fatty (adipose) tissue or the growth of multiple noncancerous (benign) fatty tumors called lipomas. This condition occurs most often in women who are overweight or obese, and signs and symptoms typically appear between ages 35 and 50.</p><p>In people with adiposis dolorosa, abnormal fatty tissue or lipomas can occur anywhere on the body but are most often found on the torso, buttocks, and upper parts of the arms and legs. Lipomas usually feel like firm bumps (nodules) under the skin. The growths cause burning or aching that can be severe. In some people, the pain comes and goes, while in others it is continuous. Movement or pressure on adipose tissue or lipomas can make the pain worse.</p><p>Other signs and symptoms that have been reported to occur with adiposis dolorosa include general weakness and tiredness (fatigue), depression, irritability, confusion, recurrent seizures (epilepsy), and a progressive decline in intellectual function (dementia). These problems do not occur in everyone with adiposis dolorosa, and it is unclear whether they are directly related to the condition.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+synonym(1): adiposalgia
+synonym(2): adipose tissue rheumatism
+synonym(3): Anders syndrome
+synonym(4): Dercum disease
+synonym(5): Dercum-Vitaut syndrome
+synonym(6): Dercum's disease
+synonym(7): lipomatosis dolorosa
+synonym(8): morbus Dercum
+db-key(1)/db: GTR
+db-key(1)/key: C0001529
+db-key(2)/db: MeSH
+db-key(2)/key: D000274
+db-key(3)/db: OMIM
+db-key(3)/key: 103200
+db-key(4)/db: Orphanet
+db-key(4)/key: 36397
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 71404003
+reviewed: 2012-07
+published: 2018-04-17

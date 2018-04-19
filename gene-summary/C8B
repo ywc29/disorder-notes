@@ -1,0 +1,19 @@
+gene-symbol: C8B
+name: complement C8 beta chain
+ghr-page: https://ghr.nlm.nih.gov/gene/C8B
+text/text-role: function
+text/html: <p>The <i>C8B</i> gene provides instructions for making one piece, the beta subunit, of a protein complex called complement component 8. To form this complex, the beta subunit interacts with another piece made up of the alpha subunit (produced from the <i>C8A</i> gene) and the gamma subunit (produced from the <i>C8G</i> gene), which are linked.</p><p>Complement component 8 aids in a part of the body's immune response known as the complement system. The complement system is a group of proteins that work together to destroy foreign invaders, trigger inflammation, and remove debris from cells and tissues. Complement component 8 combines with several other complement proteins to form the membrane attack complex (MAC), which inserts itself in the outer membrane of bacterial cells. This complex creates a hole (pore) in the membrane, which kills the bacterium. This part of the immune response appears to be especially important for fighting infection by bacteria in the <i>Neisseria</i> genus.</p>
+related-health-condition/name: complement component 8 deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/complement-component-8-deficiency
+synonym(1): C82
+synonym(2): complement component 8 subunit beta
+synonym(3): complement component 8, beta polypeptide
+synonym(4): complement component C8 beta chain isoform 1 preproprotein
+synonym(5): complement component C8 beta chain isoform 2
+synonym(6): complement component C8 beta chain isoform 3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 732
+db-key(2)/db: OMIM
+db-key(2)/key: 120960
+reviewed: 2015-12
+published: 2018-04-17

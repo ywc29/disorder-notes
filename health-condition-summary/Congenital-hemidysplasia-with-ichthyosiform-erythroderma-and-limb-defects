@@ -1,0 +1,24 @@
+name: Congenital hemidysplasia with ichthyosiform erythroderma and limb defects
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-hemidysplasia-with-ichthyosiform-erythroderma-and-limb-defects
+text/text-role: description
+text/html: <p>Congenital hemidysplasia with ichthyosiform erythroderma and limb defects, more commonly known by the acronym CHILD syndrome, is a condition that affects the development of several parts of the body.  The signs and symptoms of this disorder are typically limited to either the right side or the left side of the body.  ("Hemi-" means "half," and "dysplasia" refers to abnormal growth.)  The right side is affected about twice as often as the left side.</p><p>People with CHILD syndrome have a skin condition characterized by large patches of skin that are red and inflamed (erythroderma) and covered with flaky scales (ichthyosis).  This condition is most likely to occur in skin folds and creases and usually does not affect the face.  The skin abnormalities are present at birth and persist throughout life.</p><p>CHILD syndrome also disrupts the formation of the arms and legs during early development.  Children with this disorder may be born with one or more limbs that are shortened or missing.  The limb abnormalities occur on the same side of the body as the skin abnormalities.</p><p>Additionally, CHILD syndrome may affect the development of the brain, heart, lungs, and kidneys.</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+related-gene/gene-symbol: NSDHL
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NSDHL
+synonym(1): CHILD syndrome
+synonym(2): Ichthyosiform erythroderma, unilateral, with ipsilateral malformations, especially absence deformity of limbs
+db-key(1)/db: GTR
+db-key(1)/key: C0265267
+db-key(2)/db: GeneReviews
+db-key(2)/key: nsdhl-dis
+db-key(3)/db: MeSH
+db-key(3)/key: D016113
+db-key(4)/db: OMIM
+db-key(4)/key: 308050
+db-key(5)/db: Orphanet
+db-key(5)/key: 139
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 17608003
+reviewed: 2008-07
+published: 2018-04-17

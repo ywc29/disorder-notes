@@ -1,0 +1,21 @@
+name: FOXG1 syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/foxg1-syndrome
+text/text-role: description
+text/html: <p><i>FOXG1</i> syndrome is a condition characterized by impaired development and structural brain abnormalities. Affected infants are small at birth, and their heads grow more slowly than normal, leading to an unusually small head size (microcephaly) by early childhood. The condition is associated with a particular pattern of brain malformations that includes a thin or underdeveloped connection between the right and left halves of the brain (a structure called the corpus callosum), reduced folds and grooves (gyri) on the surface of the brain, and a smaller than usual amount of brain tissue known as white matter.</p><p><i>FOXG1</i> syndrome affects most aspects of development, and children with the condition typically have severe intellectual disability. Abnormal or involuntary movements, such as jerking movements of the arms and legs and repeated hand motions, are common, and most affected children do not learn to sit or walk without assistance. Babies and young children with <i>FOXG1</i> syndrome often have feeding problems, sleep disturbances, seizures, irritability, and excessive crying. The condition is also characterized by limited communication and social interaction, including poor eye contact and a near absence of speech and language skills. Because of these social impairments, <i>FOXG1</i> syndrome is classified as an autism spectrum disorder.</p><p><i>FOXG1</i> syndrome was previously described as a congenital variant of Rett syndrome, which is a similar disorder of brain development. Both disorders are characterized by impaired development, intellectual disability, and problems with communication and language. However, Rett syndrome is diagnosed almost exclusively in females, while <i>FOXG1</i> syndrome affects both males and females. Rett syndrome also involves a period of apparently normal early development that does not occur in <i>FOXG1</i> syndrome. Because of these differences, physicians and researchers now usually consider <i>FOXG1</i> syndrome to be distinct from Rett syndrome.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FOXG1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FOXG1
+related-chromosome/name: 14
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/14
+synonym: FOXG1-related disorder
+db-key(1)/db: GTR
+db-key(1)/key: C3150705
+db-key(2)/db: MeSH
+db-key(2)/key: D020271
+db-key(3)/db: OMIM
+db-key(3)/key: 613454
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 702450004
+reviewed: 2016-07
+published: 2018-04-17

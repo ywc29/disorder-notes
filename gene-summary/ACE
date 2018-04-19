@@ -1,0 +1,33 @@
+gene-symbol: ACE
+name: angiotensin I converting enzyme
+ghr-page: https://ghr.nlm.nih.gov/gene/ACE
+text/text-role: function
+text/html: <p>The <i>ACE</i> gene provides instructions for making the angiotensin-converting enzyme. This enzyme is able to cut (cleave) proteins. It is part of the renin-angiotensin system, which regulates blood pressure and the balance of fluids and salts in the body. By cutting a protein called angiotensin I at a particular location, the angiotensin-converting enzyme converts this protein to angiotensin II. Angiotensin II causes blood vessels to narrow (constrict), which results in increased blood pressure. This protein also stimulates production of the hormone aldosterone, which triggers the absorption of salt and water by the kidneys. The increased amount of fluid in the body also increases blood pressure. Proper blood pressure during fetal growth, which delivers oxygen to the developing tissues, is required for normal development of the kidneys, particularly of structures called the proximal tubules, and other tissues. In addition, angiotensin II may play a more direct role in kidney development, perhaps by affecting growth factors involved in the development of kidney structures.</p><p>The angiotensin-converting enzyme can cleave other proteins, including bradykinin. Bradykinin causes blood vessels to widen (dilate), which decreases blood pressure. Cleavage by the angiotensin-converting enzyme inactivates bradykinin, helping to increase blood pressure.</p>
+related-health-condition/name: renal tubular dysgenesis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/renal-tubular-dysgenesis
+synonym(1): ACE1
+synonym(2): ACE_HUMAN
+synonym(3): angiotensin-converting enzyme
+synonym(4): angiotensin converting enzyme, somatic isoform
+synonym(5): angiotensin I converting enzyme (peptidyl-dipeptidase A) 1
+synonym(6): angiotensin I converting enzyme peptidyl-dipeptidase A 1 transcript
+synonym(7): CD143
+synonym(8): CD143 antigen
+synonym(9): DCP
+synonym(10): DCP1
+synonym(11): dipeptidyl carboxypeptidase 1
+synonym(12): dipeptidyl carboxypeptidase I
+synonym(13): EC 3.4.15.1
+synonym(14): ICH
+synonym(15): kininase II
+synonym(16): MVCD3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1636
+db-key(2)/db: OMIM
+db-key(2)/key: 106180
+db-key(3)/db: OMIM
+db-key(3)/key: 612624
+db-key(4)/db: OMIM
+db-key(4)/key: 614519
+reviewed: 2013-05
+published: 2018-04-17

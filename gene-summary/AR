@@ -1,0 +1,31 @@
+gene-symbol: AR
+name: androgen receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/AR
+text/text-role: function
+text/html: <p>The <i>AR</i> gene provides instructions for making a protein called an androgen receptor.  Androgens are hormones (such as testosterone) that are important for normal male sexual development before birth and during puberty.  Androgen receptors allow the body to respond appropriately to these hormones.  The receptors are present in many of the body's tissues, where they attach (bind) to androgens.  The resulting androgen-receptor complex then binds to DNA and regulates the activity of androgen-responsive genes. By turning the genes on or off as necessary, the androgen receptor helps direct the development of male sexual characteristics.  Androgens and androgen receptors also have other important functions in both males and females, such as regulating hair growth and sex drive.</p><p>In one region of the <i>AR</i> gene, a DNA segment known as CAG is repeated multiple times. This CAG segment is called a triplet or trinucleotide repeat. In most people, the number of CAG repeats in the <i>AR</i> gene ranges from fewer than 10 to about 36.</p>
+related-health-condition(1)/name: androgen insensitivity syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/androgen-insensitivity-syndrome
+related-health-condition(2)/name: androgenetic alopecia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/androgenetic-alopecia
+related-health-condition(3)/name: polycystic ovary syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/polycystic-ovary-syndrome
+related-health-condition(4)/name: prostate cancer
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+related-health-condition(5)/name: spinal and bulbar muscular atrophy
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/spinal-and-bulbar-muscular-atrophy
+synonym(1): AIS
+synonym(2): ANDR_HUMAN
+synonym(3): androgen receptor (dihydrotestosterone receptor; testicular feminization; spinal and bulbar muscular atrophy; Kennedy disease)
+synonym(4): DHTR
+synonym(5): HUMARA
+synonym(6): KD
+synonym(7): NR3C4
+synonym(8): SBMA
+synonym(9): SMAX1
+synonym(10): TFM
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 367
+db-key(2)/db: OMIM
+db-key(2)/key: 313700
+reviewed: 2015-08
+published: 2018-04-17

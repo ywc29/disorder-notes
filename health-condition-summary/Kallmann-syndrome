@@ -1,0 +1,92 @@
+name: Kallmann syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/kallmann-syndrome
+text/text-role: description
+text/html: <p>Kallmann syndrome is a condition characterized by delayed or absent puberty and an impaired sense of smell.</p><p>This disorder is a form of hypogonadotropic hypogonadism, which is a condition resulting from a lack of production of certain hormones that direct sexual development. These hormones are normally made in a part of the brain called the hypothalamus. Males born with hypogonadotropic hypogonadism often have an unusually small penis (micropenis) and undescended testes (cryptorchidism). At puberty, most affected individuals do not develop secondary sex characteristics, such as the growth of facial hair and deepening of the voice in males, the start of monthly periods (menstruation) and breast development in females, and a growth spurt in both sexes. Without treatment, most affected men and women are unable to have biological children (infertile).</p><p>In Kallmann syndrome, the sense of smell is either diminished (hyposmia) or completely absent (anosmia). This feature distinguishes Kallmann syndrome from most other forms of hypogonadotropic hypogonadism, which do not affect the sense of smell. Many people with Kallmann syndrome are not aware that they are unable to detect odors until the impairment is discovered through testing.</p><p>Kallmann syndrome can have a wide variety of additional signs and symptoms. These include a failure of one kidney to develop (unilateral renal agenesis), abnormalities of bones in the fingers or toes, a cleft lip with or without an opening in the roof of the mouth (a cleft palate), abnormal eye movements, hearing loss, and abnormalities of tooth development. Some affected individuals have a feature called bimanual synkinesis, in which the movements of one hand are mirrored by the other hand. Bimanual synkinesis can make it difficult to do tasks that require the hands to move separately, such as playing a musical instrument.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xr
+inheritance-pattern(3)/memo: X-linked recessive
+related-gene(1)/gene-symbol: ANOS1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ANOS1
+related-gene(2)/gene-symbol: AXL
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/AXL
+related-gene(3)/gene-symbol: CCDC141
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CCDC141
+related-gene(4)/gene-symbol: CHD7
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/CHD7
+related-gene(5)/gene-symbol: DUSP6
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/DUSP6
+related-gene(6)/gene-symbol: FEZF1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/FEZF1
+related-gene(7)/gene-symbol: FGF8
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/FGF8
+related-gene(8)/gene-symbol: FGF17
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/FGF17
+related-gene(9)/gene-symbol: FGFR1
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR1
+related-gene(10)/gene-symbol: FLRT3
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/FLRT3
+related-gene(11)/gene-symbol: HS6ST1
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/HS6ST1
+related-gene(12)/gene-symbol: IL17RD
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/IL17RD
+related-gene(13)/gene-symbol: NSMF
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/NSMF
+related-gene(14)/gene-symbol: PROK2
+related-gene(14)/ghr-page: https://ghr.nlm.nih.gov/gene/PROK2
+related-gene(15)/gene-symbol: PROKR2
+related-gene(15)/ghr-page: https://ghr.nlm.nih.gov/gene/PROKR2
+related-gene(16)/gene-symbol: SEMA3A
+related-gene(16)/ghr-page: https://ghr.nlm.nih.gov/gene/SEMA3A
+related-gene(17)/gene-symbol: SEMA7A
+related-gene(17)/ghr-page: https://ghr.nlm.nih.gov/gene/SEMA7A
+related-gene(18)/gene-symbol: SOX10
+related-gene(18)/ghr-page: https://ghr.nlm.nih.gov/gene/SOX10
+related-gene(19)/gene-symbol: SPRY4
+related-gene(19)/ghr-page: https://ghr.nlm.nih.gov/gene/SPRY4
+related-gene(20)/gene-symbol: WDR11
+related-gene(20)/ghr-page: https://ghr.nlm.nih.gov/gene/WDR11
+synonym(1): anosmic hypogonadism
+synonym(2): anosmic idiopathic hypogonadotropic hypogonadism
+synonym(3): hypogonadism with anosmia
+synonym(4): hypogonadotropic hypogonadism and anosmia
+synonym(5): hypogonadotropic hypogonadism-anosmia syndrome
+synonym(6): Kallman's syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0162809
+db-key(2)/db: GTR
+db-key(2)/key: C1563719
+db-key(3)/db: GTR
+db-key(3)/key: C1563720
+db-key(4)/db: GTR
+db-key(4)/key: C1839911
+db-key(5)/db: GTR
+db-key(5)/key: C1857720
+db-key(6)/db: GTR
+db-key(6)/key: C2675188
+db-key(7)/db: GTR
+db-key(7)/key: C2675302
+db-key(8)/db: GTR
+db-key(8)/key: C2930927
+db-key(9)/db: GeneReviews
+db-key(9)/key: kms
+db-key(10)/db: MeSH
+db-key(10)/key: D017436
+db-key(11)/db: OMIM
+db-key(11)/key: 147950
+db-key(12)/db: OMIM
+db-key(12)/key: 244200
+db-key(13)/db: OMIM
+db-key(13)/key: 308700
+db-key(14)/db: OMIM
+db-key(14)/key: 308750
+db-key(15)/db: OMIM
+db-key(15)/key: 610628
+db-key(16)/db: Orphanet
+db-key(16)/key: 478
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 93559003
+reviewed: 2016-12
+published: 2018-04-17

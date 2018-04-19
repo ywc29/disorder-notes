@@ -1,0 +1,20 @@
+gene-symbol: SIX5
+name: SIX homeobox 5
+ghr-page: https://ghr.nlm.nih.gov/gene/SIX5
+text/text-role: function
+text/html: <p>The <i>SIX5</i> gene is part of a group of similar genes known as the SIX gene family. Genes in this family provide instructions for making proteins that bind to DNA and control the activity of other genes. Based on this role, SIX proteins are called transcription factors.</p><p>The SIX5 protein interacts with several other proteins, including the protein produced from the <i>EYA1</i> gene, to regulate the activity of genes that are important for normal development. Before birth, these protein interactions appear to be essential for the normal formation of many tissues. These include the second branchial arch, which gives rise to tissues in the front and side of the neck; the ears; and the kidneys. Researchers have also found the SIX5 protein in the adult brain, heart, eyes, and muscles used for movement (skeletal muscles).</p>
+related-health-condition/name: branchiootorenal/branchiootic syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/branchiootorenal-branchiootic-syndrome
+synonym(1): BOR2
+synonym(2): DM locus-associated homeodomain protein
+synonym(3): DMAHP
+synonym(4): dystrophia myotonica-associated homeodomain protein
+synonym(5): homeobox protein SIX5
+synonym(6): sine oculis homeobox homolog 5
+synonym(7): SIX5_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 147912
+db-key(2)/db: OMIM
+db-key(2)/key: 600963
+reviewed: 2016-03
+published: 2018-04-17

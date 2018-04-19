@@ -1,0 +1,25 @@
+name: Gnathodiaphyseal dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/gnathodiaphyseal-dysplasia
+text/text-role: description
+text/html: <p>Gnathodiaphyseal dysplasia is a disorder that affects the bones. People with this condition have reduced bone mineral density (osteopenia), which causes the bones to be unusually fragile. As a result, affected individuals typically experience multiple bone fractures in childhood, often from mild trauma or with no apparent cause.</p><p>While most bone tissue is less dense than normal in gnathodiaphyseal dysplasia, the outer layer (cortex) of the shafts of the long bones in the arms and legs is abnormally hard and thick (diaphyseal sclerosis). Bowing of the long bones also occurs in this disorder.</p><p>Jaw problems are common in gnathodiaphyseal dysplasia; the prefix "gnatho-" in the condition name refers to the jaw. Affected individuals may develop bone infections (osteomyelitis) in the jaw, which can lead to pain, swelling, discharge of pus from the gums, loose teeth, and slow healing after teeth are lost or extracted. Areas of the jawbone may lose the protective coverage of the gums, which can result in deterioration of the exposed bone (osteonecrosis of the jaw). Also, normal bone in areas of the jaw may be replaced by fibrous tissue and a hard material called cementum, which normally surrounds the roots of teeth and anchors them in the jaw. These areas of abnormal bone, called cementoosseous lesions, may be present at birth or develop later in life.</p><p>When gnathodiaphyseal dysplasia was first described, it was thought to be a variation of another bone disorder called osteogenesis imperfecta, which is also characterized by frequent bone fractures. However, gnathodiaphyseal dysplasia is now generally considered to be a separate condition. Unlike in osteogenesis imperfecta, the fractures in gnathodiaphyseal dysplasia heal normally without causing deformity or loss of height.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: ANO5
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ANO5
+synonym(1): GDD
+synonym(2): gnathodiaphyseal sclerosis
+synonym(3): Levin syndrome 2
+synonym(4): osteogenesis imperfecta with unusual skeletal lesions
+synonym(5): osteogenesis imperfecta, Levin type
+db-key(1)/db: GTR
+db-key(1)/key: C1833736
+db-key(2)/db: MeSH
+db-key(2)/key: D010009
+db-key(3)/db: OMIM
+db-key(3)/key: 166260
+db-key(4)/db: Orphanet
+db-key(4)/key: 53697
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 715568002
+reviewed: 2014-12
+published: 2018-04-17

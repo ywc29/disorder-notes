@@ -1,0 +1,30 @@
+gene-symbol: LHCGR
+name: luteinizing hormone/choriogonadotropin receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/LHCGR
+text/text-role: function
+text/html: <p>The <i>LHCGR</i> gene provides instructions for making a receptor protein called the luteinizing hormone/chorionic gonadotropin receptor. Receptor proteins have specific sites into which certain other proteins, called ligands, fit like keys into locks. Together, ligands and their receptors trigger signals that affect cell development and function.</p><p>The protein produced from the <i>LHCGR</i> gene acts as a receptor for two ligands: luteinizing hormone and a similar hormone called chorionic gonadotropin. The receptor allows the body to respond appropriately to these hormones. In males, chorionic gonadotropin stimulates the development of cells in the testes called Leydig cells, and luteinizing hormone triggers these cells to produce androgens. Androgens, including testosterone, are the hormones that control male sexual development and reproduction. In females, luteinizing hormone triggers the release of egg cells from the ovaries (ovulation); chorionic gonadotropin is produced during pregnancy and helps maintain conditions necessary for the pregnancy to continue.</p>
+related-health-condition(1)/name: familial male-limited precocious puberty
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-male-limited-precocious-puberty
+related-health-condition(2)/name: Leydig cell hypoplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/leydig-cell-hypoplasia
+related-health-condition(3)/name: polycystic ovary syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/polycystic-ovary-syndrome
+synonym(1): FLJ41504
+synonym(2): HHG
+synonym(3): LCGR
+synonym(4): LGR2
+synonym(5): LH/CG-R
+synonym(6): LH/CGR
+synonym(7): LHR
+synonym(8): LHRHR
+synonym(9): LSH-R
+synonym(10): LSHR_HUMAN
+synonym(11): luteinizing hormone/choriogonadotropin receptor precursor
+synonym(12): lutropin/choriogonadotropin receptor
+synonym(13): ULG5
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3973
+db-key(2)/db: OMIM
+db-key(2)/key: 152790
+reviewed: 2012-08
+published: 2018-04-17

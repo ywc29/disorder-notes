@@ -1,0 +1,26 @@
+gene-symbol: GATA1
+name: GATA binding protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/GATA1
+text/text-role: function
+text/html: <p>The <i>GATA1</i> gene provides instructions for making a protein that attaches (binds) to specific regions of DNA and helps control the activity of many other genes. On the basis of this action, the GATA1 protein is known as a transcription factor. The GATA1 protein is involved in the specialization (differentiation) of immature blood cells. To function properly, these immature cells must differentiate into specific types of mature blood cells. By binding to DNA and interacting with other proteins, the GATA1 protein regulates the growth and division (proliferation) of immature red blood cells and platelet-precursor cells (megakaryocytes) to facilitate their differentiation. Red blood cells help carry oxygen to various tissues throughout the body and platelets aid in blood clotting. The GATA1 protein is also important for the maturation of several types of white blood cells that help fight infection, including eosinophils, mast cells, and dendritic cells.</p><p>Two versions of the GATA1 protein are produced from the <i>GATA1</i> gene: a regular length protein and a shorter version called GATA1s. The GATA1s protein lacks a specific region called the transactivation domain. Although the specific function of this region is unclear, researchers believe that it interacts with other proteins to modify GATA1 protein function.</p>
+related-health-condition/name: dyserythropoietic anemia and thrombocytopenia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/dyserythropoietic-anemia-and-thrombocytopenia
+synonym(1): ERYF1
+synonym(2): erythroid transcription factor
+synonym(3): erythroid transcription factor 1
+synonym(4): GATA-1
+synonym(5): GATA-binding factor 1
+synonym(6): GATA binding protein 1 (globin transcription factor 1)
+synonym(7): GATA1_HUMAN
+synonym(8): GF-1
+synonym(9): GF1
+synonym(10): globin transcription factor 1
+synonym(11): transcription factor GATA1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2623
+db-key(2)/db: OMIM
+db-key(2)/key: 190685
+db-key(3)/db: OMIM
+db-key(3)/key: 305371
+reviewed: 2010-07
+published: 2018-04-17

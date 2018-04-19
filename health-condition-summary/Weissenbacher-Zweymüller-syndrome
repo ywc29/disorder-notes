@@ -1,0 +1,24 @@
+name: Weissenbacher-Zweymüller syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/weissenbacher-zweymuller-syndrome
+text/text-role: description
+text/html: <p>Weissenbacher-Zweymüller syndrome is a condition that affects bone growth. It is characterized by skeletal abnormalities, hearing loss, and distinctive facial features. The features of this condition significantly overlap those of two similar conditions, otospondylomegaepiphyseal dysplasia (OSMED) and Stickler syndrome type III. All of these conditions are caused by mutations in the same gene, and in some cases, it can be difficult to tell them apart. Some researchers believe they represent a single disorder with a range of signs and symptoms.</p><p>Infants born with Weissenbacher-Zweymüller syndrome are smaller than average because the bones in their arms and legs are unusually short. The thigh and upper arm bones are wider than usual at the ends (described as dumbbell-shaped), and the bones of the spine (vertebrae) may also be abnormally shaped. High-frequency hearing loss occurs in some cases. Distinctive facial features include wide-set protruding eyes, a small and upturned nose with a flat bridge, and a small lower jaw. Some affected infants are born with an opening in the roof of the mouth (a cleft palate).</p><p>Most people with Weissenbacher-Zweymüller syndrome experience significant "catch-up" growth in the bones of the arms and legs during childhood. As a result, adults with this condition are not unusually short. However, affected adults still have other signs and symptoms of Weissenbacher-Zweymüller syndrome, including distinctive facial features and hearing loss.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: COL11A2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/COL11A2
+synonym(1): heterozygous OSMED
+synonym(2): heterozygous otospondylomegaepiphyseal dysplasia
+synonym(3): Pierre Robin syndrome with fetal chondrodysplasia
+synonym(4): WZS
+db-key(1)/db: GTR
+db-key(1)/key: C1848488
+db-key(2)/db: MeSH
+db-key(2)/key: D003095
+db-key(3)/db: OMIM
+db-key(3)/key: 184840
+db-key(4)/db: Orphanet
+db-key(4)/key: 3450
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 699313003
+reviewed: 2016-05
+published: 2018-04-17

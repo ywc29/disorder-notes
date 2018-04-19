@@ -1,0 +1,151 @@
+name: Type 2 diabetes
+ghr-page: https://ghr.nlm.nih.gov/condition/type-2-diabetes
+text/text-role: description
+text/html: <p>Type 2 diabetes is a disorder characterized by abnormally high blood sugar levels. In this form of diabetes, the body stops using and making insulin properly. Insulin is a hormone produced in the pancreas that helps regulate blood sugar levels. Specifically, insulin controls how much glucose (a type of sugar) is passed from the blood into cells, where it is used as an energy source. When blood sugar levels are high (such as after a meal), the pancreas releases insulin to move the excess glucose into cells, which reduces the amount of glucose in the blood.</p><p>Most people who develop type 2 diabetes first have insulin resistance, a condition in which the body's cells use insulin less efficiently than normal. As insulin resistance develops, more and more insulin is needed to keep blood sugar levels in the normal range. To keep up with the increasing need, insulin-producing cells in the pancreas (called beta cells) make larger amounts of insulin. Over time, the beta cells become less able to respond to blood sugar changes, leading to an insulin shortage that prevents the body from reducing blood sugar levels effectively. Most people have some insulin resistance as they age, but inadequate exercise and excessive weight gain make it worse, greatly increasing the likelihood of developing type 2 diabetes.</p><p>Type 2 diabetes can occur at any age, but it most commonly begins in middle age or later. Signs and symptoms develop slowly over years. They include frequent urination (polyuria), excessive thirst (polydipsia), fatigue, blurred vision, tingling or loss of feeling in the hands and feet (diabetic neuropathy), sores that do not heal well, and weight loss. If blood sugar levels are not controlled through medication or diet, type 2 diabetes can cause long-lasting (chronic) health problems including heart disease and stroke; nerve damage; and damage to the kidneys, eyes, and other parts of the body.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+synonym(1): adult-onset diabetes
+synonym(2): adult-onset diabetes mellitus
+synonym(3): AODM
+synonym(4): diabetes mellitus, adult-onset
+synonym(5): diabetes mellitus, non-insulin-dependent
+synonym(6): diabetes mellitus, type 2
+synonym(7): diabetes mellitus, type II
+synonym(8): maturity-onset diabetes
+synonym(9): maturity-onset diabetes mellitus
+synonym(10): NIDDM
+synonym(11): noninsulin-dependent diabetes mellitus
+synonym(12): T2D
+synonym(13): type 2 diabetes mellitus
+db-key(1)/db: GTR
+db-key(1)/key: C0011860
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E11
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E11.0
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: E11.00
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: E11.01
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: E11.2
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: E11.3
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: E11.4
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: E11.5
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: E11.6
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: E11.8
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: E11.9
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: E11.21
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: E11.22
+db-key(15)/db: ICD-10-CM
+db-key(15)/key: E11.29
+db-key(16)/db: ICD-10-CM
+db-key(16)/key: E11.31
+db-key(17)/db: ICD-10-CM
+db-key(17)/key: E11.32
+db-key(18)/db: ICD-10-CM
+db-key(18)/key: E11.33
+db-key(19)/db: ICD-10-CM
+db-key(19)/key: E11.34
+db-key(20)/db: ICD-10-CM
+db-key(20)/key: E11.35
+db-key(21)/db: ICD-10-CM
+db-key(21)/key: E11.36
+db-key(22)/db: ICD-10-CM
+db-key(22)/key: E11.37
+db-key(23)/db: ICD-10-CM
+db-key(23)/key: E11.39
+db-key(24)/db: ICD-10-CM
+db-key(24)/key: E11.40
+db-key(25)/db: ICD-10-CM
+db-key(25)/key: E11.41
+db-key(26)/db: ICD-10-CM
+db-key(26)/key: E11.42
+db-key(27)/db: ICD-10-CM
+db-key(27)/key: E11.43
+db-key(28)/db: ICD-10-CM
+db-key(28)/key: E11.44
+db-key(29)/db: ICD-10-CM
+db-key(29)/key: E11.49
+db-key(30)/db: ICD-10-CM
+db-key(30)/key: E11.51
+db-key(31)/db: ICD-10-CM
+db-key(31)/key: E11.52
+db-key(32)/db: ICD-10-CM
+db-key(32)/key: E11.59
+db-key(33)/db: ICD-10-CM
+db-key(33)/key: E11.61
+db-key(34)/db: ICD-10-CM
+db-key(34)/key: E11.62
+db-key(35)/db: ICD-10-CM
+db-key(35)/key: E11.63
+db-key(36)/db: ICD-10-CM
+db-key(36)/key: E11.64
+db-key(37)/db: ICD-10-CM
+db-key(37)/key: E11.65
+db-key(38)/db: ICD-10-CM
+db-key(38)/key: E11.69
+db-key(39)/db: ICD-10-CM
+db-key(39)/key: E11.311
+db-key(40)/db: ICD-10-CM
+db-key(40)/key: E11.319
+db-key(41)/db: ICD-10-CM
+db-key(41)/key: E11.321
+db-key(42)/db: ICD-10-CM
+db-key(42)/key: E11.329
+db-key(43)/db: ICD-10-CM
+db-key(43)/key: E11.331
+db-key(44)/db: ICD-10-CM
+db-key(44)/key: E11.339
+db-key(45)/db: ICD-10-CM
+db-key(45)/key: E11.341
+db-key(46)/db: ICD-10-CM
+db-key(46)/key: E11.349
+db-key(47)/db: ICD-10-CM
+db-key(47)/key: E11.351
+db-key(48)/db: ICD-10-CM
+db-key(48)/key: E11.352
+db-key(49)/db: ICD-10-CM
+db-key(49)/key: E11.353
+db-key(50)/db: ICD-10-CM
+db-key(50)/key: E11.354
+db-key(51)/db: ICD-10-CM
+db-key(51)/key: E11.355
+db-key(52)/db: ICD-10-CM
+db-key(52)/key: E11.359
+db-key(53)/db: ICD-10-CM
+db-key(53)/key: E11.610
+db-key(54)/db: ICD-10-CM
+db-key(54)/key: E11.618
+db-key(55)/db: ICD-10-CM
+db-key(55)/key: E11.620
+db-key(56)/db: ICD-10-CM
+db-key(56)/key: E11.621
+db-key(57)/db: ICD-10-CM
+db-key(57)/key: E11.622
+db-key(58)/db: ICD-10-CM
+db-key(58)/key: E11.628
+db-key(59)/db: ICD-10-CM
+db-key(59)/key: E11.630
+db-key(60)/db: ICD-10-CM
+db-key(60)/key: E11.638
+db-key(61)/db: ICD-10-CM
+db-key(61)/key: E11.641
+db-key(62)/db: ICD-10-CM
+db-key(62)/key: E11.649
+db-key(63)/db: MeSH
+db-key(63)/key: D003924
+db-key(64)/db: OMIM
+db-key(64)/key: 125853
+db-key(65)/db: SNOMED CT
+db-key(65)/key: 44054006
+reviewed: 2017-11
+published: 2018-04-17

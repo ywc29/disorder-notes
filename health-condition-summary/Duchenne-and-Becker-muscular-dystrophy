@@ -1,0 +1,34 @@
+name: Duchenne and Becker muscular dystrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/duchenne-and-becker-muscular-dystrophy
+text/text-role: description
+text/html: <p>Muscular dystrophies are a group of genetic conditions characterized by progressive muscle weakness and wasting (atrophy). The Duchenne and Becker types of muscular dystrophy are two related conditions that primarily affect skeletal muscles, which are used for movement, and heart (cardiac) muscle. These forms of muscular dystrophy occur almost exclusively in males.</p><p>Duchenne and Becker muscular dystrophies have similar signs and symptoms and are caused by different mutations in the same gene. The two conditions differ in their severity, age of onset, and rate of progression. In boys with Duchenne muscular dystrophy, muscle weakness tends to appear in early childhood and worsen rapidly. Affected children may have delayed motor skills, such as sitting, standing, and walking. They are usually wheelchair-dependent by adolescence. The signs and symptoms of Becker muscular dystrophy are usually milder and more varied. In most cases, muscle weakness becomes apparent later in childhood or in adolescence and worsens at a much slower rate.</p><p>Both the Duchenne and Becker forms of muscular dystrophy are associated with a heart condition called cardiomyopathy. This form of heart disease weakens the cardiac muscle, preventing the heart from pumping blood efficiently. In both Duchenne and Becker muscular dystrophy, cardiomyopathy typically begins in adolescence. Later, the heart muscle becomes enlarged, and the heart problems develop into a condition known as dilated cardiomyopathy. Signs and symptoms of dilated cardiomyopathy can include an irregular heartbeat (arrhythmia), shortness of breath, extreme tiredness (fatigue), and swelling of the legs and feet. These heart problems worsen rapidly and become life-threatening in most cases. Males with Duchenne muscular dystrophy typically live into their twenties, while males with Becker muscular dystrophy can survive into their forties or beyond.</p><p>A related condition called X-linked dilated cardiomyopathy is a form of heart disease caused by mutations in the same gene as Duchenne and Becker muscular dystrophy, and it is sometimes classified as subclinical Becker muscular dystrophy. People with X-linked dilated cardiomyopathy typically do not have any skeletal muscle weakness or wasting, although they may have subtle changes in their skeletal muscle cells that are detectable through laboratory testing.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: DMD
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DMD
+synonym(1): DBMD
+synonym(2): Duchenne/Becker muscular dystrophy
+synonym(3): muscular dystrophy, Duchenne and Becker types
+synonym(4): muscular dystrophy, pseudohypertrophic
+db-key(1)/db: GTR
+db-key(1)/key: C0013264
+db-key(2)/db: GTR
+db-key(2)/key: C0917713
+db-key(3)/db: GeneReviews
+db-key(3)/key: dbmd
+db-key(4)/db: GeneReviews
+db-key(4)/key: dcm-ov
+db-key(5)/db: MeSH
+db-key(5)/key: D020388
+db-key(6)/db: OMIM
+db-key(6)/key: 300376
+db-key(7)/db: OMIM
+db-key(7)/key: 310200
+db-key(8)/db: Orphanet
+db-key(8)/key: 262
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 387732009
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 76670001
+reviewed: 2016-11
+published: 2018-04-17

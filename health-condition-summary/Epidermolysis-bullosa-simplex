@@ -1,0 +1,61 @@
+name: Epidermolysis bullosa simplex
+ghr-page: https://ghr.nlm.nih.gov/condition/epidermolysis-bullosa-simplex
+text/text-role: description
+text/html: <p>Epidermolysis bullosa simplex is one of a group of genetic conditions called epidermolysis bullosa that cause the skin to be very fragile and to blister easily. Blisters and areas of skin loss (erosions) occur in response to minor injury or friction, such as rubbing or scratching. Epidermolysis bullosa simplex is one of the major forms of epidermolysis bullosa. The signs and symptoms of this condition vary widely among affected individuals. Blistering primarily affects the hands and feet in mild cases, and the blisters usually heal without leaving scars. Severe cases of this condition involve widespread blistering that can lead to infections, dehydration, and other medical problems. Severe cases may be life-threatening in infancy.</p><p>Researchers have identified four major types of epidermolysis bullosa simplex. Although the types differ in severity, their features overlap significantly, and they are caused by mutations in the same genes. Most researchers now consider the major forms of this condition to be part of a single disorder with a range of signs and symptoms.</p><p>The mildest form of epidermolysis bullosa simplex, known as the localized type (formerly called the Weber-Cockayne type), is characterized by skin blistering that begins anytime between childhood and adulthood and is usually limited to the hands and feet. Later in life, skin on the palms of the hands and soles of the feet may thicken and harden (hyperkeratosis).</p><p>The Dowling-Meara type is the most severe form of epidermolysis bullosa simplex. Extensive, severe blistering can occur anywhere on the body, including the inside of the mouth, and blisters may appear in clusters.  Blistering is present from birth and tends to improve with age. Affected individuals also experience abnormal nail growth and hyperkeratosis of the palms and soles.</p><p>Another form of epidermolysis bullosa simplex, known as the other generalized type (formerly called the Koebner type), is associated with widespread blisters that appear at birth or in early infancy. The blistering tends to be less severe than in the Dowling-Meara type.</p><p>Epidermolysis bullosa simplex with mottled pigmentation is characterized by patches of darker skin on the trunk, arms, and legs that fade in adulthood. This form of the disorder also involves skin blistering from early infancy, hyperkeratosis of the palms and soles, and abnormal nail growth.</p><p>In addition to the four major types described above, researchers have identified another skin condition related to epidermolysis bullosa simplex, which they call the Ogna type. It is caused by mutations in a gene that is not associated with the other types of epidermolysis bullosa simplex.  It is unclear whether the Ogna type is a subtype of epidermolysis bullosa simplex or represents a separate form of epidermolysis bullosa.</p><p>Several other variants of epidermolysis bullosa simplex have been proposed, but they appear to be very rare.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: KRT5
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT5
+related-gene(2)/gene-symbol: KRT14
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT14
+related-gene(3)/gene-symbol: PLEC
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PLEC
+synonym: EBS
+db-key(1)/db: GTR
+db-key(1)/key: C0079295
+db-key(2)/db: GTR
+db-key(2)/key: C0079298
+db-key(3)/db: GTR
+db-key(3)/key: C0079299
+db-key(4)/db: GTR
+db-key(4)/key: C0080333
+db-key(5)/db: GTR
+db-key(5)/key: C0432316
+db-key(6)/db: GTR
+db-key(6)/key: C0432317
+db-key(7)/db: GTR
+db-key(7)/key: C1832926
+db-key(8)/db: GeneReviews
+db-key(8)/key: ebs
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: Q81.0
+db-key(10)/db: MeSH
+db-key(10)/key: D016110
+db-key(11)/db: OMIM
+db-key(11)/key: 131760
+db-key(12)/db: OMIM
+db-key(12)/key: 131800
+db-key(13)/db: OMIM
+db-key(13)/key: 131900
+db-key(14)/db: OMIM
+db-key(14)/key: 131950
+db-key(15)/db: OMIM
+db-key(15)/key: 131960
+db-key(16)/db: OMIM
+db-key(16)/key: 601001
+db-key(17)/db: OMIM
+db-key(17)/key: 609352
+db-key(18)/db: Orphanet
+db-key(18)/key: 304
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 254180002
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 398071000
+db-key(21)/db: SNOMED CT
+db-key(21)/key: 67144006
+db-key(22)/db: SNOMED CT
+db-key(22)/key: 90496008
+reviewed: 2013-05
+published: 2018-04-17

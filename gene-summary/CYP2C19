@@ -1,0 +1,33 @@
+gene-symbol: CYP2C19
+name: cytochrome P450 family 2 subfamily C member 19
+ghr-page: https://ghr.nlm.nih.gov/gene/CYP2C19
+text/text-role: function
+text/html: <p>The <i>CYP2C19</i> gene is a member of the cytochrome P450 gene family. Enzymes produced from cytochrome P450 genes are involved in the formation and breakdown (metabolism) of various molecules and chemicals within cells. The <i>CYP2C19</i> gene provides instructions for making an enzyme that is found primarily in liver cells in a cell structure called the endoplasmic reticulum, which is involved in protein processing and transport.</p><p>The CYP2C19 enzyme plays a role in the processing or metabolizing of at least 10 percent of commonly prescribed drugs, including a drug called clopidogrel (also known as Plavix). Clopidogrel is an antiplatelet drug, which means that it prevents blood cell fragments called platelets from sticking together (aggregating) and forming blood clots. The CYP2C19 enzyme converts clopidogrel to its active form, which is necessary for the drug to function in the body. The active drug then stops (inhibits) a receptor protein known as P2RY12 that is found on the surface of platelets. During clot formation, the P2RY12 receptor protein helps platelets cluster together to form a clot in order to seal off damaged blood vessels and prevent blood loss.</p>
+related-health-condition/name: clopidogrel resistance
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/clopidogrel-resistance
+synonym(1): (R)-limonene 6-monooxygenase
+synonym(2): (S)-limonene 6-monooxygenase
+synonym(3): (S)-limonene 7-monooxygenase
+synonym(4): CPCJ
+synonym(5): CYP2C
+synonym(6): CYPIIC17
+synonym(7): CYPIIC19
+synonym(8): cytochrome P-450 II C
+synonym(9): cytochrome P450 2C19 precursor
+synonym(10): cytochrome P450-11A
+synonym(11): cytochrome P450-254C
+synonym(12): cytochrome P450, subfamily IIC (mephenytoin 4-hydroxylase), polypeptide 19
+synonym(13): flavoprotein-linked monooxygenase
+synonym(14): mephenytoin 4-hydroxylase
+synonym(15): mephenytoin 4'-hydroxylase
+synonym(16): microsomal monooxygenase
+synonym(17): P450C2C
+synonym(18): P450IIC19
+synonym(19): S-mephenytoin 4-hydroxylase
+synonym(20): xenobiotic monooxygenase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1557
+db-key(2)/db: OMIM
+db-key(2)/key: 124020
+reviewed: 2015-12
+published: 2018-04-17

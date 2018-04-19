@@ -1,0 +1,29 @@
+name: Imerslund-Gräsbeck syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/imerslund-grasbeck-syndrome
+text/text-role: description
+text/html: <p>Imerslund-Gräsbeck syndrome is a condition caused by low levels of vitamin B12 (also known as cobalamin). The primary feature of this condition is a blood disorder called megaloblastic anemia. In this form of anemia, which is a disorder characterized by the shortage of red blood cells, the red cells that are present are abnormally large. About half of people with Imerslund-Gräsbeck syndrome also have high levels of protein in their urine (proteinuria). Although proteinuria can be an indication of kidney problems, people with Imerslund-Gräsbeck syndrome appear to have normal kidney function.</p><p>Imerslund-Gräsbeck syndrome typically begins in infancy or early childhood. The blood abnormality leads to many of the signs and symptoms of the condition, including an inability to grow and gain weight at the expected rate (failure to thrive), pale skin (pallor), excessive tiredness (fatigue), and recurring gastrointestinal or respiratory infections. Other features of Imerslund-Gräsbeck syndrome include mild neurological problems, such as weak muscle tone (hypotonia), numbness or tingling in the hands or feet, movement problems, delayed development, or confusion. Rarely, affected individuals have abnormalities of organs or tissues that make up the urinary tract, such as the bladder or the tubes that carry fluid from the kidneys to the bladder (the ureters).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: AMN
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AMN
+related-gene(2)/gene-symbol: CUBN
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CUBN
+synonym(1): defect of enterocyte intrinsic factor receptor
+synonym(2): enterocyte cobalamin malabsorption
+synonym(3): Imerslund-Grasbeck syndrome
+synonym(4): juvenile pernicious anemia with proteinuria due to selective intestinal malabsorption of vitamin B12
+synonym(5): megaloblastic anemia 1
+db-key(1)/db: GTR
+db-key(1)/key: C4016819
+db-key(2)/db: GTR
+db-key(2)/key: C4016948
+db-key(3)/db: MeSH
+db-key(3)/key: D000749
+db-key(4)/db: OMIM
+db-key(4)/key: 261100
+db-key(5)/db: Orphanet
+db-key(5)/key: 35858
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 26333003
+reviewed: 2014-04
+published: 2018-04-17

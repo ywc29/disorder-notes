@@ -1,0 +1,21 @@
+gene-symbol: PKD2
+name: polycystin 2, transient receptor potential cation channel
+ghr-page: https://ghr.nlm.nih.gov/gene/PKD2
+text/text-role: function
+text/html: <p>The <i>PKD2</i> gene provides instructions for making a protein called polycystin-2.  This protein is found in the kidneys before birth and in many adult tissues.  Although its exact function is not well understood, polycystin-2 can be regulated by a larger, somewhat similar protein called polycystin-1.</p><p>Polycystin-2 likely functions as a channel spanning the cell membrane of kidney cells.  In conjunction with polycystin-1, the channel transports positively charged atoms (ions), particularly calcium ions, into the cell.  This influx of calcium ions triggers a cascade of chemical reactions inside the cell that may instruct the cell to undergo certain changes, such as maturing to take on specialized functions. Polycystin-1 and polycystin-2 likely work together to help regulate cell growth and division (proliferation), cell movement (migration), and interactions with other cells.</p><p>Polycystin-2 is also active in other parts of the cell, including cellular structures called primary cilia. Primary cilia are tiny, fingerlike projections that line the small tubes where urine is formed (renal tubules). Researchers believe that primary cilia sense the movement of fluid through these tubules, which appears to help maintain the tubules' size and structure. The interaction of polycystin-1 and polycystin-2 in renal tubules promotes the normal development and function of the kidneys.</p>
+related-health-condition/name: polycystic kidney disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/polycystic-kidney-disease
+synonym(1): APKD2
+synonym(2): Pc-2
+synonym(3): PC2
+synonym(4): PKD2_HUMAN
+synonym(5): PKD4
+synonym(6): polycystic kidney disease 2 (autosomal dominant)
+synonym(7): polycystin-2
+synonym(8): TRPP2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5311
+db-key(2)/db: OMIM
+db-key(2)/key: 173910
+reviewed: 2006-06
+published: 2018-04-17

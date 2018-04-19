@@ -1,0 +1,28 @@
+name: Müllerian aplasia and hyperandrogenism
+ghr-page: https://ghr.nlm.nih.gov/condition/mullerian-aplasia-and-hyperandrogenism
+text/text-role: description
+text/html: <p>Müllerian aplasia and hyperandrogenism is a condition that affects the reproductive system in females. This condition is caused by abnormal development of the Müllerian ducts, which are structures in the embryo that develop into the uterus, fallopian tubes, cervix, and the upper part of the vagina. Individuals with Müllerian aplasia and hyperandrogenism typically have an underdeveloped or absent uterus and may also have abnormalities of other reproductive organs. Women with this condition have normal female external genitalia, and they develop breasts and pubic hair normally at puberty; however, they do not begin menstruation by age 16 (primary amenorrhea) and will likely never have a menstrual period. Affected women are unable to have children (infertile).</p><p>Women with Müllerian aplasia and hyperandrogenism have higher-than-normal levels of male sex hormones called androgens in their blood (hyperandrogenism), which can cause acne and excessive facial hair (facial hirsutism). Kidney abnormalities may be present in some affected individuals.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: WNT4
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/WNT4
+synonym(1): Biason-Lauber syndrome
+synonym(2): Mayer-Rokitansky-Küster-Hauser-Biason-Lauber syndrome
+synonym(3): Mayer-Rokitansky-Küster-Hauser-like syndrome
+synonym(4): Mullerian aplasia and hyperandrogenism
+synonym(5): Müllerian duct failure
+synonym(6): WNT4 deficiency
+synonym(7): WNT4 Müllerian aplasia
+synonym(8): WNT4 Müllerian aplasia and ovarian dysfunction
+db-key(1)/db: GTR
+db-key(1)/key: C2675014
+db-key(2)/db: MeSH
+db-key(2)/key: D058489
+db-key(3)/db: OMIM
+db-key(3)/key: 158330
+db-key(4)/db: Orphanet
+db-key(4)/key: 247768
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 699275001
+reviewed: 2014-07
+published: 2018-04-17

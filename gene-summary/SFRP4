@@ -1,0 +1,22 @@
+gene-symbol: SFRP4
+name: secreted frizzled related protein 4
+ghr-page: https://ghr.nlm.nih.gov/gene/SFRP4
+text/text-role: function
+text/html: <p>The <i>SFRP4</i> gene provides instructions for making a protein called secreted frizzled-related protein 4 (SFRP4). This protein blocks (inhibits) a process called Wnt signaling. Wnt signaling plays an important role in the development of several tissues and organs throughout the body. In particular, regulation of this signaling process by SFRP4 is critical for normal bone development and remodeling. Bone remodeling is a normal process in which old bone is broken down and new bone is created to replace it. The SFRP4 protein also plays a role in the development of fatty (adipose) tissue.</p>
+related-health-condition(1)/name: Dupuytren contracture
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/dupuytren-contracture
+related-health-condition(2)/name: Pyle disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pyle-disease
+synonym(1): frizzled protein, human endometrium
+synonym(2): FRP-4
+synonym(3): FRPHE
+synonym(4): PYL
+synonym(5): secreted frizzled-related protein 4 precursor
+synonym(6): secreted frizzled-related protein 4; secreted frizzled-related protein 4
+synonym(7): sFRP-4
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6424
+db-key(2)/db: OMIM
+db-key(2)/key: 606570
+reviewed: 2017-03
+published: 2018-04-17

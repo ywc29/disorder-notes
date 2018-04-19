@@ -1,0 +1,27 @@
+gene-symbol: KANSL1
+name: KAT8 regulatory NSL complex subunit 1
+ghr-page: https://ghr.nlm.nih.gov/gene/KANSL1
+text/text-role: function
+text/html: <p>The <i>KANSL1</i> gene provides instructions for making a member (subunit) of a group of interacting proteins called the KAT8 regulatory NSL complex. This complex is categorized as a histone acetyltransferase (HAT) complex. It helps regulate gene activity (expression) by modifying chromatin, the complex of DNA and protein that packages DNA into chromosomes.</p><p>The protein produced from the <i>KANSL1</i> gene is found in most organs and tissues of the body before birth and throughout life. By its involvement in controlling the activity of other genes, this protein plays an important role in the development and function of many parts of the body.</p>
+related-health-condition/name: Koolen-de Vries syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/koolen-de-vries-syndrome
+synonym(1): CENP-36
+synonym(2): centromere protein 36
+synonym(3): DKFZP727C091
+synonym(4): hMSL1v1
+synonym(5): KANL1_HUMAN
+synonym(6): KDVS
+synonym(7): KIAA1267
+synonym(8): male-specific lethal 1 homolog
+synonym(9): MLL1/MLL complex subunit KANSL1
+synonym(10): MSL1 homolog 1
+synonym(11): MSL1v1
+synonym(12): non-specific lethal 1 homolog
+synonym(13): NSL complex protein NSL1
+synonym(14): NSL1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 284058
+db-key(2)/db: OMIM
+db-key(2)/key: 612452
+reviewed: 2013-03
+published: 2018-04-17

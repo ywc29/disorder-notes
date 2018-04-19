@@ -1,0 +1,69 @@
+name: Prion disease
+ghr-page: https://ghr.nlm.nih.gov/condition/prion-disease
+text/text-role: description
+text/html: <p>Prion disease represents a group of conditions that affect the nervous system in humans and animals. In people, these conditions impair brain function, causing changes in memory, personality, and behavior; a decline in intellectual function (dementia); and abnormal movements, particularly difficulty with coordinating movements (ataxia). The signs and symptoms of prion disease typically begin in adulthood and worsen with time, leading to death within a few months to several years.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: PRNP
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PRNP
+synonym(1): inherited human transmissible spongiform encephalopathies
+synonym(2): prion-associated disorders
+synonym(3): prion-induced disorders
+synonym(4): prion protein diseases
+synonym(5): transmissible dementias
+synonym(6): transmissible spongiform encephalopathies
+synonym(7): TSEs
+db-key(1)/db: GTR
+db-key(1)/key: C0017495
+db-key(2)/db: GTR
+db-key(2)/key: C0022336
+db-key(3)/db: GTR
+db-key(3)/key: C0162534
+db-key(4)/db: GTR
+db-key(4)/key: C0206042
+db-key(5)/db: GTR
+db-key(5)/key: C1855588
+db-key(6)/db: GeneReviews
+db-key(6)/key: prion
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: A81.0
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: A81.00
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: A81.01
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: A81.09
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: A81.81
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: A81.82
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: A81.83
+db-key(14)/db: MeSH
+db-key(14)/key: D017096
+db-key(15)/db: OMIM
+db-key(15)/key: 123400
+db-key(16)/db: OMIM
+db-key(16)/key: 137440
+db-key(17)/db: OMIM
+db-key(17)/key: 245300
+db-key(18)/db: OMIM
+db-key(18)/key: 600072
+db-key(19)/db: Orphanet
+db-key(19)/key: 204
+db-key(20)/db: Orphanet
+db-key(20)/key: 356
+db-key(21)/db: Orphanet
+db-key(21)/key: 466
+db-key(22)/db: Orphanet
+db-key(22)/key: 56970
+db-key(23)/db: SNOMED CT
+db-key(23)/key: 20484008
+db-key(24)/db: SNOMED CT
+db-key(24)/key: 304603007
+db-key(25)/db: SNOMED CT
+db-key(25)/key: 67155006
+db-key(26)/db: SNOMED CT
+db-key(26)/key: 792004
+reviewed: 2014-01
+published: 2018-04-17

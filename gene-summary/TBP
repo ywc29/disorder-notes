@@ -1,0 +1,36 @@
+gene-symbol: TBP
+name: TATA-box binding protein
+ghr-page: https://ghr.nlm.nih.gov/gene/TBP
+text/text-role: function
+text/html: <p>The <i>TBP</i> gene provides instructions for making a protein called the TATA box binding protein.  This protein is active in cells and tissues throughout the body, where it plays an essential role in regulating the activity of most genes.</p><p>The TATA box binding protein attaches (binds) to a particular sequence of DNA known as the TATA box. This sequence occurs in a regulatory region of DNA near the beginning of many genes. Once the protein is attached to the TATA box near a gene, it acts as a landmark to indicate where other enzymes should start reading the gene. The process of reading a gene's DNA and transferring the information to a similar molecule called mRNA is known as transcription.</p><p>One region of the <i>TBP</i> gene contains a particular DNA segment known as a CAG/CAA trinucleotide repeat. This segment is made up of a series of three DNA building blocks (nucleotides) that appear multiple times in a row. Normally, the CAG/CAA segment is repeated 25 to 42 times within the gene.</p>
+related-health-condition/name: Huntington disease-like syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/huntington-disease-like-syndrome
+synonym(1): CCG1 Protein
+synonym(2): CCGS
+synonym(3): Cell Cycle Gene 1 Protein
+synonym(4): DYT3 protein, human
+synonym(5): GTF2D
+synonym(6): GTF2D1
+synonym(7): RNA Polymerase II TATA-Binding Protein
+synonym(8): RNA Polymerase IIA 250kD
+synonym(9): SCA17
+synonym(10): TAF(II)250
+synonym(11): TAF1 RNA Polymerase II TATA Box Binding Protein
+synonym(12): TAF2A
+synonym(13): TAFII250
+synonym(14): TATA-Binding Protein
+synonym(15): TATA box binding protein
+synonym(16): TATA-Box Factor
+synonym(17): TATA Sequence-Binding Protein
+synonym(18): TBP_HUMAN
+synonym(19): TF2D
+synonym(20): TFIID
+synonym(21): Transcription Factor IID
+synonym(22): Transcription Factor TBP
+synonym(23): Transcription Initiation Factor TFIID 250 kDa Subunit
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6908
+db-key(2)/db: OMIM
+db-key(2)/key: 600075
+reviewed: 2008-08
+published: 2018-04-17

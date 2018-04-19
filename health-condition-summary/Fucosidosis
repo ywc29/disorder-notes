@@ -1,0 +1,29 @@
+name: Fucosidosis
+ghr-page: https://ghr.nlm.nih.gov/condition/fucosidosis
+text/text-role: description
+text/html: <p>Fucosidosis is a condition that affects many areas of the body, especially the brain.  Affected individuals have intellectual disability that worsens with age, and many develop dementia later in life.  People with this condition often have delayed development of motor skills such as walking; the skills they do acquire deteriorate over time.  Additional signs and symptoms of fucosidosis include impaired growth; abnormal bone development (dysostosis multiplex); seizures; abnormal muscle stiffness (spasticity); clusters of enlarged blood vessels forming small, dark red spots on the skin (angiokeratomas); distinctive facial features that are often described as "coarse"; recurrent respiratory infections; and abnormally large abdominal organs (visceromegaly).</p><p>In severe cases, symptoms typically appear in infancy, and affected individuals usually live into late childhood.  In milder cases, symptoms begin at age 1 or 2, and affected individuals tend to survive into mid-adulthood.</p><p>In the past, researchers described two types of this condition based on symptoms and age of onset, but current opinion is that the two types are actually a single disorder with signs and symptoms that range in severity.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: FUCA1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FUCA1
+synonym(1): Alpha-fucosidase deficiency
+synonym(2): Fucosidase deficiency
+synonym(3): Fucosidase Deficiency Disease
+db-key(1)/db: GTR
+db-key(1)/key: C0016788
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E77.1
+db-key(3)/db: MeSH
+db-key(3)/key: D005645
+db-key(4)/db: OMIM
+db-key(4)/key: 230000
+db-key(5)/db: Orphanet
+db-key(5)/key: 349
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 399045007
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 61172008
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 64716005
+reviewed: 2008-12
+published: 2018-04-17

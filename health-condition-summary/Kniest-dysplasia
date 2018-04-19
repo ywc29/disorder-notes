@@ -1,0 +1,27 @@
+name: Kniest dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/kniest-dysplasia
+text/text-role: description
+text/html: <p>Kniest dysplasia is a disorder of bone growth characterized by short stature (dwarfism) with other skeletal abnormalities and problems with vision and hearing.</p><p>People with Kniest dysplasia are born with a short trunk and shortened arms and legs.  Adult height ranges from 42 inches to 58 inches.  Affected individuals have abnormally large joints that can cause pain and restrict movement, limiting physical activity. These joint problems can also lead to arthritis.  Other skeletal features may include a rounded upper back that also curves to the side (kyphoscoliosis), severely flattened bones of the spine (platyspondyly), dumbbell-shaped bones in the arms and legs, long and knobby fingers, and an inward- and upward-turning foot (clubfoot).</p><p>Individuals with Kniest dysplasia have a round, flat face with bulging and wide-set eyes.  Some affected infants are born with an opening in the roof of the mouth  called a cleft palate. Infants may also have breathing problems due to weakness of the windpipe.  Severe nearsightedness (myopia) and other eye problems are common in Kniest dysplasia. Some eye problems, such as tearing of the back lining of the eye (retinal detachment), can lead to blindness.  Hearing loss resulting from recurrent ear infections is also possible.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: COL2A1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/COL2A1
+synonym(1): Kniest chondrodystrophy
+synonym(2): Kniest syndrome
+synonym(3): Metatropic dwarfism, type II
+synonym(4): Metatropic dysplasia type II
+synonym(5): Swiss cheese cartilage dysplasia
+db-key(1)/db: GTR
+db-key(1)/key: C0265279
+db-key(2)/db: MeSH
+db-key(2)/key: D003095
+db-key(3)/db: MeSH
+db-key(3)/key: D010009
+db-key(4)/db: OMIM
+db-key(4)/key: 156550
+db-key(5)/db: Orphanet
+db-key(5)/key: 485
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 53974002
+reviewed: 2008-07
+published: 2018-04-17

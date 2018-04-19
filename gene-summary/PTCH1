@@ -1,0 +1,28 @@
+gene-symbol: PTCH1
+name: patched 1
+ghr-page: https://ghr.nlm.nih.gov/gene/PTCH1
+text/text-role: function
+text/html: <p>The <i>PTCH1</i> gene provides instructions for producing the patched-1 protein, which functions as a receptor. Receptor proteins have specific sites into which certain other proteins, called ligands, fit like keys into locks. A protein called Sonic Hedgehog is the ligand for the patched-1 receptor. Together, ligands and their receptors trigger signals that affect cell development and function.</p><p>Patched-1 and Sonic Hedgehog function in a pathway that is essential for early development. This pathway plays a role in cell growth, cell specialization, and determining the shape (patterning) of many different parts of the developing body. When Sonic Hedgehog is not present, patched-1 prevents cells from growing and dividing (proliferating). When Sonic Hedgehog is attached, patched-1 stops suppressing cell proliferation.  Based on its role in preventing cells from proliferating in an uncontrolled way, <i>PTCH1</i> is called a tumor suppressor gene.</p>
+related-health-condition(1)/name: 9q22.3 microdeletion
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/9q223-microdeletion
+related-health-condition(2)/name: Gorlin syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/gorlin-syndrome
+related-health-condition(3)/name: nonsyndromic holoprosencephaly
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-holoprosencephaly
+synonym(1): BCNS
+synonym(2): FLJ26746
+synonym(3): FLJ42602
+synonym(4): HPE7
+synonym(5): NBCCS
+synonym(6): patched
+synonym(7): patched homolog 1 (Drosophila)
+synonym(8): PTC
+synonym(9): PTC1
+synonym(10): PTC1_HUMAN
+synonym(11): PTCH
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5727
+db-key(2)/db: OMIM
+db-key(2)/key: 601309
+reviewed: 2012-10
+published: 2018-04-17

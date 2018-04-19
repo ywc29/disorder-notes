@@ -1,0 +1,31 @@
+name: Familial cold autoinflammatory syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-cold-autoinflammatory-syndrome
+text/text-role: description
+text/html: <p>Familial cold autoinflammatory syndrome is a condition that causes episodes of fever, skin rash, and joint pain after exposure to cold temperatures. These episodes usually begin in infancy and occur throughout life.</p><p>People with this condition usually experience symptoms after cold exposure of an hour or more, although in some individuals only a few minutes of exposure is required. Symptoms may be delayed for up to a few hours after the cold exposure. Episodes last an average of 12 hours, but may continue for up to 3 days.</p><p>In people with familial cold autoinflammatory syndrome, the most common symptom that occurs during an episode is an itchy or burning rash. The rash usually begins on the face or extremities and spreads to the rest of the body. Occasionally swelling in the extremities may occur.</p><p>In addition to the skin rash, episodes are characterized by fever, chills, and joint pain, most often affecting the hands, knees, and ankles. Redness in the whites of the eye (conjunctivitis), sweating, drowsiness, headache, thirst, and nausea may also occur during an episode of this disorder.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: NLRP3
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/NLRP3
+related-gene(2)/gene-symbol: NLRP12
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/NLRP12
+synonym(1): cold hypersensitivity
+synonym(2): familial cold-induced autoinflammatory syndrome
+synonym(3): familial cold urticaria
+synonym(4): FCAS
+synonym(5): FCU
+db-key(1)/db: GTR
+db-key(1)/key: C0343068
+db-key(2)/db: GTR
+db-key(2)/key: C2673198
+db-key(3)/db: MeSH
+db-key(3)/key: D056587
+db-key(4)/db: OMIM
+db-key(4)/key: 120100
+db-key(5)/db: OMIM
+db-key(5)/key: 611762
+db-key(6)/db: Orphanet
+db-key(6)/key: 47045
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 238687000
+reviewed: 2014-12
+published: 2018-04-17

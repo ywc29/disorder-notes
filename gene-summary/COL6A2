@@ -1,0 +1,18 @@
+gene-symbol: COL6A2
+name: collagen type VI alpha 2 chain
+ghr-page: https://ghr.nlm.nih.gov/gene/COL6A2
+text/text-role: function
+text/html: <p>The <i>COL6A2</i> gene provides instructions for making one component of type VI collagen, which is a flexible protein found in the space that surrounds cells. Specifically, the protein produced from the <i>COL6A2</i> gene is the alpha(α)2(VI) chain of type VI collagen. This chain combines with chains produced from other genes to produce a complete type VI collagen molecule.</p><p>Collagens are found in the extracellular matrix, which is an intricate lattice that forms in the space between cells and provides structural support. Type VI collagen is located in the extracellular matrix surrounding cells that make up the muscles used for movement (skeletal muscle cells) and cells that make up connective tissue, which provides strength and flexibility to structures throughout the body, including skin and joints. The extracellular matrix is necessary for cell stability and growth. Research suggests that type VI collagen links basement membranes, which are thin, sheet-like structures that are part of the extracellular matrix, to nearby cells.</p>
+related-health-condition/name: collagen VI-related myopathy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/collagen-vi-related-myopathy
+synonym(1): CO6A2_HUMAN
+synonym(2): collagen alpha-2(VI) chain
+synonym(3): collagen type VI alpha 2
+synonym(4): collagen VI, alpha-2 polypeptide
+synonym(5): collagen, type VI, alpha 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1292
+db-key(2)/db: OMIM
+db-key(2)/key: 120240
+reviewed: 2015-10
+published: 2018-04-17

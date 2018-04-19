@@ -1,0 +1,18 @@
+gene-symbol: RARA
+name: retinoic acid receptor alpha
+ghr-page: https://ghr.nlm.nih.gov/gene/RARA
+text/text-role: function
+text/html: <p>The <i>RARA</i> gene provides instructions for making a transcription factor called the retinoic acid receptor, alpha (RARα). A transcription factor is a protein that attaches (binds) to specific regions of DNA and helps control the activity of particular genes. The RARα protein controls the activity (transcription) of genes that are important for the maturation (differentiation) of immature white blood cells beyond a particular stage called the promyelocyte.</p><p>The RARα protein binds to specific regions of DNA and attracts other proteins that help block (repress) gene transcription, the first step in protein production. In response to a specific signal, the repressive proteins are removed and other proteins that induce gene transcription bind to the RARα protein, allowing gene transcription and cell differentiation.</p>
+related-health-condition/name: acute promyelocytic leukemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/acute-promyelocytic-leukemia
+synonym(1): NR1B1
+synonym(2): nuclear receptor subfamily 1 group B member 1
+synonym(3): RAR
+synonym(4): RAR-alpha
+synonym(5): retinoic acid receptor, alpha
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5914
+db-key(2)/db: OMIM
+db-key(2)/key: 180240
+reviewed: 2011-04
+published: 2018-04-17

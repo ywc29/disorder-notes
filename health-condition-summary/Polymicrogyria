@@ -1,0 +1,47 @@
+name: Polymicrogyria
+ghr-page: https://ghr.nlm.nih.gov/condition/polymicrogyria
+text/text-role: description
+text/html: <p>Polymicrogyria is a condition characterized by abnormal development of the brain before birth. The surface of the brain normally has many ridges or folds, called gyri. In people with polymicrogyria, the brain develops too many folds, and the folds are unusually small. The name of this condition literally means too many (poly-) small (micro-) folds (-gyria) in the surface of the brain.</p><p>Polymicrogyria can affect part of the brain or the whole brain. When the condition affects one side of the brain, researchers describe it as unilateral. When it affects both sides of the brain, it is described as bilateral. The signs and symptoms associated with polymicrogyria depend on how much of the brain, and which particular brain regions, are affected.</p><p>Researchers have identified multiple forms of polymicrogyria. The mildest form  is known as unilateral focal polymicrogyria. This form of the condition affects a relatively small area on one side of the brain. It may cause minor neurological problems, such as mild seizures that can be easily controlled with medication. Some people with unilateral focal polymicrogyria do not have any problems associated with the condition.</p><p>Bilateral forms of polymicrogyria tend to cause more severe neurological problems. Signs and symptoms of these conditions can include recurrent seizures (epilepsy), delayed development, crossed eyes, problems with speech and swallowing, and muscle weakness or paralysis. The most severe form of the disorder, bilateral generalized polymicrogyria, affects the entire brain. This condition causes severe intellectual disability, problems with movement, and seizures that are difficult or impossible to control with medication.</p><p>Polymicrogyria most often occurs as an isolated feature, although it can occur with other brain abnormalities. It is also a feature of several genetic syndromes characterized by intellectual disability and multiple birth defects. These include 22q11.2 deletion syndrome, Adams-Oliver syndrome, Aicardi syndrome, Galloway-Mowat syndrome, Joubert syndrome, and Zellweger spectrum disorder.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xd
+inheritance-pattern(3)/memo: X-linked dominant
+inheritance-pattern(4)/code: xr
+inheritance-pattern(4)/memo: X-linked recessive
+related-gene/gene-symbol: ADGRG1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ADGRG1
+synonym: PMG
+db-key(1)/db: GTR
+db-key(1)/key: C1845668
+db-key(2)/db: GTR
+db-key(2)/key: C1847352
+db-key(3)/db: GTR
+db-key(3)/key: C2675191
+db-key(4)/db: GTR
+db-key(4)/key: C2750247
+db-key(5)/db: GeneReviews
+db-key(5)/key: poly
+db-key(6)/db: MeSH
+db-key(6)/key: D065706
+db-key(7)/db: OMIM
+db-key(7)/key: 300388
+db-key(8)/db: OMIM
+db-key(8)/key: 606854
+db-key(9)/db: OMIM
+db-key(9)/key: 610031
+db-key(10)/db: OMIM
+db-key(10)/key: 612691
+db-key(11)/db: Orphanet
+db-key(11)/key: 35981
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 438583008
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 4945003
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 715905006
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 722036008
+reviewed: 2009-06
+published: 2018-04-17

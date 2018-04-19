@@ -1,0 +1,44 @@
+name: Sick sinus syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/sick-sinus-syndrome
+text/text-role: description
+text/html: <p>Sick sinus syndrome (also known as sinus node dysfunction) is a group of related heart conditions that can affect how the heart beats. "Sick sinus" refers to the sino-atrial (SA) node, which is an area of specialized cells in the heart that functions as a natural pacemaker. The SA node generates electrical impulses that start each heartbeat. These signals travel from the SA node to the rest of the heart, signaling the heart (cardiac) muscle to contract and pump blood. In people with sick sinus syndrome, the SA node does not function normally. In some cases, it does not produce the right signals to trigger a regular heartbeat. In others, abnormalities disrupt the electrical impulses and prevent them from reaching the rest of the heart.</p><p>Sick sinus syndrome tends to cause the heartbeat to be too slow (bradycardia), although occasionally the heartbeat is too fast (tachycardia). In some cases, the heartbeat rapidly switches from being too fast to being too slow, a condition known as tachycardia-bradycardia syndrome. Symptoms related to abnormal heartbeats can include dizziness, light-headedness, fainting (syncope), a sensation of fluttering or pounding in the chest (palpitations), and confusion or memory problems. During exercise, many affected individuals experience chest pain, difficulty breathing, or excessive tiredness (fatigue). Once symptoms of sick sinus syndrome appear, they usually worsen with time. However, some people with the condition never experience any related health problems.</p><p>Sick sinus syndrome occurs most commonly in older adults, although it can be diagnosed in people of any age. The condition increases the risk of several life-threatening problems involving the heart and blood vessels. These include a heart rhythm abnormality called atrial fibrillation, heart failure, cardiac arrest, and stroke.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: HCN4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/HCN4
+related-gene(2)/gene-symbol: MYH6
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MYH6
+related-gene(3)/gene-symbol: SCN5A
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN5A
+synonym(1): sinus node disease
+synonym(2): sinus node dysfunction
+synonym(3): SND
+synonym(4): SSS
+db-key(1)/db: GTR
+db-key(1)/key: C1834144
+db-key(2)/db: GTR
+db-key(2)/key: C1837845
+db-key(3)/db: GTR
+db-key(3)/key: C3279791
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: I49.5
+db-key(5)/db: MeSH
+db-key(5)/key: D012804
+db-key(6)/db: OMIM
+db-key(6)/key: 163800
+db-key(7)/db: OMIM
+db-key(7)/key: 608567
+db-key(8)/db: OMIM
+db-key(8)/key: 614090
+db-key(9)/db: Orphanet
+db-key(9)/key: 166282
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 233913007
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 36083008
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 60423000
+reviewed: 2013-08
+published: 2018-04-17

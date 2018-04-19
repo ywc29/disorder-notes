@@ -1,0 +1,8 @@
+gene-symbol: VPS45
+name: vacuolar protein sorting 45 homolog
+ghr-page: https://ghr.nlm.nih.gov/gene/VPS45
+related-health-condition/name: severe congenital neutropenia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/severe-congenital-neutropenia
+db-key/db: NCBI Gene
+db-key/key: 11311
+published: 2018-04-17

@@ -1,0 +1,46 @@
+name: Dupuytren contracture
+ghr-page: https://ghr.nlm.nih.gov/condition/dupuytren-contracture
+text/text-role: description
+text/html: <p>Dupuytren contracture is a deformity of the hand in which the joints of one or more fingers can become permanently bent in a flexed position. Permanently bent joints are called contractures. The condition most often occurs in men older than age 50. In women, it is four times less common, and also tends to appear later and be less severe. However, Dupuytren contracture can occur at any time of life, including childhood. The disorder can make it more difficult for affected individuals to perform manual tasks such as preparing food, writing, or playing musical instruments.</p><p>In about half of cases, Dupuytren contracture occurs in only one hand, affecting the right hand twice as often as the left. Which hand is affected does not seem to be related to whether the person is right-handed or left-handed.</p><p>Dupuytren contracture results from shortening and thickening of bands of fibrous tissue under the skin of the palm (palmar fascia). Fascia is a type of connective tissue, which supports the body's muscles, joints, organs, and skin and provides strength and flexibility to structures throughout the body.</p><p>In Dupuytren contracture the thickening of the fascia typically first appears as one or more small hard nodules that can be seen and felt under the skin of the palm. In some affected individuals the nodules remain the only sign of the disorder, and occasionally even go away without treatment, but in most cases the condition gradually gets worse. Over months or years, the abnormal fibrous tissue gets shorter and thicker, developing into tight bands of tissue called cords. These cords gradually draw the affected fingers downward so that they curl toward the palm. As the condition gets worse, it becomes difficult or impossible to extend the affected fingers, resulting in the contracture associated with this disorder. The ring finger is most often involved, followed by the little, middle, and index fingers. Occasionally the thumb is involved.</p><p>Dupuytren contracture is usually not painful, but in some cases people with this condition experience uncomfortable joint inflammation or sensations of burning or itching. Pressure or tension may also be experienced, especially when attempting to straighten affected joints.</p><p>People with Dupuytren contracture are at increased risk of developing other disorders in which similar connective tissue abnormalities affect other parts of the body. These include Garrod pads, which are nodules that develop on the knuckles; Ledderhose disease, also called plantar fibromatosis, in which contractures affect the foot; and, in males, Peyronie disease, which causes abnormal curvature of the penis.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: m
+inheritance-pattern(2)/memo: mitochondrial
+inheritance-pattern(3)/code: n
+inheritance-pattern(3)/memo: not inherited
+related-gene(1)/gene-symbol: C8orf34
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/C8orf34
+related-gene(2)/gene-symbol: EPDR1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/EPDR1
+related-gene(3)/gene-symbol: RSPO2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/RSPO2
+related-gene(4)/gene-symbol: SFRP4
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SFRP4
+related-gene(5)/gene-symbol: SULF1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/SULF1
+related-gene(6)/gene-symbol: WNT2
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/WNT2
+related-gene(7)/gene-symbol: WNT4
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/WNT4
+related-gene(8)/gene-symbol: WNT7B
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/WNT7B
+synonym(1): contraction of palmar fascia
+synonym(2): Dupuytren's contracture
+synonym(3): Dupuytren's disease
+synonym(4): familial palmar fibromatosis
+synonym(5): palmar fascial fibromatosis
+synonym(6): palmar fibromas
+db-key(1)/db: GTR
+db-key(1)/key: C0013312
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: M72.0
+db-key(3)/db: MeSH
+db-key(3)/key: D004387
+db-key(4)/db: OMIM
+db-key(4)/key: 126900
+db-key(5)/db: Orphanet
+db-key(5)/key: 79142
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 274142002
+reviewed: 2016-09
+published: 2018-04-17

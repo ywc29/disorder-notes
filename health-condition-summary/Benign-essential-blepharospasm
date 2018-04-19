@@ -1,0 +1,28 @@
+name: Benign essential blepharospasm
+ghr-page: https://ghr.nlm.nih.gov/condition/benign-essential-blepharospasm
+text/text-role: description
+text/html: <p>Benign essential blepharospasm is a condition characterized by abnormal blinking or spasms of the eyelids. This condition is a type of dystonia, which is a group of movement disorders involving uncontrolled tensing of the muscles (muscle contractions), rhythmic shaking (tremors), and other involuntary movements. Benign essential blepharospasm is different from the common, temporary eyelid twitching that can be caused by fatigue, stress, or caffeine.</p><p>The signs and symptoms of benign essential blepharospasm usually appear in mid- to late adulthood and gradually worsen. The first symptoms of the condition include an increased frequency of blinking, dry eyes, and eye irritation that is aggravated by wind, air pollution, sunlight, and other irritants. These symptoms may begin in one eye, but they ultimately affect both eyes. As the condition progresses, spasms of the muscles surrounding the eyes cause involuntary winking or squinting. Affected individuals have increasing difficulty keeping their eyes open, which can lead to severe vision impairment.</p><p>In more than half of all people with benign essential blepharospasm, the symptoms of dystonia spread beyond the eyes to affect other facial muscles and muscles in other areas of the body. When people with benign essential blepharospasm also experience involuntary muscle spasms affecting the tongue and jaw (oromandibular dystonia), the combination of signs and symptoms is known as Meige syndrome.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: DRD5
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/DRD5
+related-gene(2)/gene-symbol: TOR1A
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/TOR1A
+synonym(1): essential blepharospasm
+synonym(2): eyelid twitching
+synonym(3): primary blepharospasm
+synonym(4): spasm of eyelids
+db-key(1)/db: GTR
+db-key(1)/key: C2930898
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: G24.5
+db-key(3)/db: MeSH
+db-key(3)/key: D001764
+db-key(4)/db: OMIM
+db-key(4)/key: 606798
+db-key(5)/db: Orphanet
+db-key(5)/key: 93955
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 59026006
+reviewed: 2010-05
+published: 2018-04-17

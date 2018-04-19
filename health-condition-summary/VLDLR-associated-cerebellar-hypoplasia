@@ -1,0 +1,34 @@
+name: VLDLR-associated cerebellar hypoplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/vldlr-associated-cerebellar-hypoplasia
+text/text-role: description
+text/html: <p><i>VLDLR</i>-associated cerebellar hypoplasia is an inherited condition that affects the development of the brain. People with this condition have an unusually small and underdeveloped cerebellum, which is the part of the brain that coordinates movement. This brain malformation leads to problems with balance and coordination (ataxia) that become apparent in infancy and remain stable over time. Children with <i>VLDLR</i>-associated cerebellar hypoplasia may learn to walk later in childhood, usually after the age of 6, although some are never able to walk independently. In one Turkish family, affected people walk on their hands and feet (quadrupedal locomotion).</p><p>Additional features of <i>VLDLR</i>-associated cerebellar hypoplasia include moderate to profound intellectual disability, impaired speech (dysarthria) or a lack of speech, and eyes that do not look in the same direction (strabismus). Some affected individuals have also had flat feet (pes planus), seizures, and short stature. Studies suggest that <i>VLDLR</i>-associated cerebellar hypoplasia does not significantly affect a person's life expectancy.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: VLDLR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/VLDLR
+synonym(1): autosomal recessive cerebellar ataxia with mental retardation
+synonym(2): autosomal recessive cerebellar hypoplasia with cerebral gyral simplification
+synonym(3): cerebellar disorder, nonprogressive, with mental retardation
+synonym(4): cerebellar hypoplasia and mental retardation with or without quadrupedal locomotion
+synonym(5): cerebellar hypoplasia, VLDLR-associated
+synonym(6): CHMRQ1
+synonym(7): DES-VLDLR
+synonym(8): dysequilibrium syndrome-VLDLR
+synonym(9): VLDLR-CH
+synonym(10): VLDLRCH
+db-key(1)/db: GTR
+db-key(1)/key: C0394006
+db-key(2)/db: GeneReviews
+db-key(2)/key: ataxias
+db-key(3)/db: GeneReviews
+db-key(3)/key: vldlr-ch
+db-key(4)/db: MeSH
+db-key(4)/key: D002524
+db-key(5)/db: OMIM
+db-key(5)/key: 224050
+db-key(6)/db: Orphanet
+db-key(6)/key: 1398
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 230782004
+reviewed: 2009-10
+published: 2018-04-17

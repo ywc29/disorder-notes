@@ -1,0 +1,19 @@
+gene-symbol: DHH
+name: desert hedgehog
+ghr-page: https://ghr.nlm.nih.gov/gene/DHH
+text/text-role: function
+text/html: <p>The <i>DHH</i> gene provides instructions for making a member of the hedgehog protein family. Hedgehog proteins are important for early development in many parts of the body. The protein produced from the <i>DHH</i> gene is believed to be involved in male sexual development and in the formation of the perineurium, the protective membrane around each bundle of fibers within a nerve.</p>
+related-health-condition/name: Swyer syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/swyer-syndrome
+synonym(1): desert hedgehog homolog (Drosophila)
+synonym(2): DHH_HUMAN
+synonym(3): HHG-3
+synonym(4): MGC35145
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 50846
+db-key(2)/db: OMIM
+db-key(2)/key: 605423
+db-key(3)/db: OMIM
+db-key(3)/key: 607080
+reviewed: 2015-03
+published: 2018-04-17

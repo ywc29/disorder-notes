@@ -1,0 +1,41 @@
+name: Chronic myeloid leukemia
+ghr-page: https://ghr.nlm.nih.gov/condition/chronic-myeloid-leukemia
+text/text-role: description
+text/html: <p>Chronic myeloid leukemia is a slow-growing cancer of the blood-forming tissue (bone marrow). Normal bone marrow produces red blood cells (erythrocytes) that carry oxygen, white blood cells (leukocytes) that protect the body from infection, and platelets (thrombocytes) that are involved in blood clotting. In chronic myeloid leukemia, the bone marrow produces too many white blood cells. Initially, these cells function relatively normally. However, as the condition progresses, immature white blood cells called myeloblasts (or blasts) accumulate in the blood and bone marrow. The overgrowth of myeloblasts impairs development of other blood cells, leading to a shortage of red blood cells (anemia) and platelets.</p><p>Chronic myeloid leukemia usually begins after age 60. Common features include excessive tiredness (fatigue), fever, and weight loss. Many affected individuals develop an enlarged spleen (splenomegaly), which can cause a feeling of fullness in the abdomen and a loss of appetite. About half of people with chronic myeloid leukemia do not initially have any signs and symptoms and are diagnosed when a blood test is performed for another reason.</p><p>The condition consists of three phases: the chronic phase, the accelerated phase, and the blast phase (or blast crisis). In the chronic phase, the number of mature white blood cells is elevated, and myeloblasts account for less than 10 percent of blood cells. Signs and symptoms of the condition during this phase are typically mild or absent and worsen slowly. The chronic phase can last from months to years. In the accelerated phase, the number of myeloblasts is slightly higher, making up 10 to 29 percent of blood cells. The signs and symptoms continue to worsen. The accelerated phase usually lasts 4 to 6 months, although it is skipped in some affected individuals. In blast crisis, 30 percent or more of blood or bone marrow cells are myeloblasts. Signs and symptoms are most severe in this phase, including a massively enlarged spleen, bone pain, and weight loss. Serious infections and uncontrolled bleeding can be life-threatening.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: ABL1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ABL1
+related-gene(2)/gene-symbol: BCR
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/BCR
+related-chromosome(1)/name: 9
+related-chromosome(1)/ghr-page: https://ghr.nlm.nih.gov/chromosome/9
+related-chromosome(2)/name: 22
+related-chromosome(2)/ghr-page: https://ghr.nlm.nih.gov/chromosome/22
+synonym(1): CGL
+synonym(2): chronic granulocytic leukemia
+synonym(3): chronic myelocytic leukemia
+synonym(4): chronic myelogenous leukemia
+synonym(5): CML
+db-key(1)/db: GTR
+db-key(1)/key: C0023473
+db-key(2)/db: GTR
+db-key(2)/key: C4016397
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: C92.1
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: C92.10
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: C92.11
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: C92.12
+db-key(7)/db: MeSH
+db-key(7)/key: D015464
+db-key(8)/db: Orphanet
+db-key(8)/key: 521
+db-key(9)/db: Orphanet
+db-key(9)/key: 98824
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 92818009
+reviewed: 2016-09
+published: 2018-04-17

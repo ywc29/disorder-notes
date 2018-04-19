@@ -1,0 +1,34 @@
+name: Inclusion body myopathy 2
+ghr-page: https://ghr.nlm.nih.gov/condition/inclusion-body-myopathy-2
+text/text-role: description
+text/html: <p>Inclusion body myopathy 2 is a condition that primarily affects skeletal muscles, which are muscles that the body uses for movement. This disorder causes  muscle weakness that appears in late adolescence or early adulthood and worsens over time.</p><p>The first sign of inclusion body myopathy 2 is weakness of a muscle in the lower leg called the tibialis anterior. This muscle helps control up-and-down movement of the foot. Weakness in the tibialis anterior alters the way a person walks and makes it difficult to run and climb stairs. As the disorder progresses, weakness also develops in muscles of the upper legs, hips, shoulders, and hands.  Unlike most forms of myopathy, inclusion body myopathy 2 usually does not affect the quadriceps, which are a group of large muscles at the front of the thigh.  This condition also does not affect muscles of the eye or heart, and it does not cause neurological problems.  Weakness in leg muscles makes walking increasingly difficult, and most people with inclusion body myopathy 2 require wheelchair assistance within 20 years after signs and symptoms appear.</p><p>People with the characteristic features of inclusion body myopathy 2 have been described in several different populations.  When the condition was first reported in Japanese families, researchers called it distal myopathy with rimmed vacuoles (DMRV) or Nonaka myopathy. When a similar disorder was discovered in Iranian Jewish families, researchers called it rimmed vacuole myopathy or hereditary inclusion body myopathy (HIBM). It has since become clear that these conditions are variations of a single disorder caused by mutations in the same gene.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: GNE
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GNE
+synonym(1): Distal myopathy with rimmed vacuoles
+synonym(2): DMRV
+synonym(3): Hereditary inclusion body myopathy
+synonym(4): HIBM
+synonym(5): IBM2
+synonym(6): Inclusion body myopathy, autosomal recessive
+synonym(7): Inclusion body myopathy, quadriceps-sparing
+synonym(8): Nonaka myopathy
+synonym(9): QSM
+synonym(10): Rimmed vacuole myopathy
+db-key(1)/db: GTR
+db-key(1)/key: C1833373
+db-key(2)/db: GTR
+db-key(2)/key: C1853926
+db-key(3)/db: GeneReviews
+db-key(3)/key: ibm
+db-key(4)/db: MeSH
+db-key(4)/key: D018979
+db-key(5)/db: OMIM
+db-key(5)/key: 605820
+db-key(6)/db: Orphanet
+db-key(6)/key: 602
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 702382000
+reviewed: 2008-12
+published: 2018-04-17

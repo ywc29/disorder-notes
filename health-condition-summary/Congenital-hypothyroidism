@@ -1,0 +1,90 @@
+name: Congenital hypothyroidism
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-hypothyroidism
+text/text-role: description
+text/html: <p>Congenital hypothyroidism is a partial or complete loss of function of the thyroid gland (hypothyroidism) that affects infants from birth (congenital). The thyroid gland is a butterfly-shaped tissue in the lower neck. It makes iodine-containing hormones that play an important role in regulating growth, brain development, and the rate of chemical reactions in the body (metabolism). People with congenital hypothyroidism have lower-than-normal levels of these important hormones.</p><p>Congenital hypothyroidism occurs when the thyroid gland fails to develop or function properly. In 80 to 85 percent of cases, the thyroid gland is absent, severely reduced in size (hypoplastic), or abnormally located. These cases are classified as thyroid dysgenesis. In the remainder of cases, a normal-sized or enlarged thyroid gland (goiter) is present, but production of thyroid hormones is decreased or absent. Most of these cases occur when one of several steps in the hormone synthesis process is impaired; these cases are classified as thyroid dyshormonogenesis. Less commonly, reduction or absence of thyroid hormone production is caused by impaired stimulation of the production process (which is normally done by a structure at the base of the brain called the pituitary gland), even though the process itself is unimpaired. These cases are classified as central (or pituitary) hypothyroidism.</p><p>Signs and symptoms of congenital hypothyroidism result from the shortage of thyroid hormones. Affected babies may show no features of the condition, although some babies with congenital hypothyroidism are less active and sleep more than normal. They may have difficulty feeding and experience constipation. If untreated, congenital hypothyroidism can lead to intellectual disability and slow growth. In the United States and many other countries, all hospitals test newborns for congenital hypothyroidism. If treatment begins in the first two weeks after birth, infants usually develop normally.</p><p>Congenital hypothyroidism can also occur as part of syndromes that affect other organs and tissues in the body. These forms of the condition are described as syndromic. Some common forms of syndromic hypothyroidism include Pendred syndrome, Bamforth-Lazarus syndrome, and brain-lung-thyroid syndrome.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: DUOX2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/DUOX2
+related-gene(2)/gene-symbol: DUOXA2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/DUOXA2
+related-gene(3)/gene-symbol: IYD
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/IYD
+related-gene(4)/gene-symbol: NKX2-5
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/NKX2-5
+related-gene(5)/gene-symbol: PAX8
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/PAX8
+related-gene(6)/gene-symbol: SLC5A5
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC5A5
+related-gene(7)/gene-symbol: SLC26A4
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC26A4
+related-gene(8)/gene-symbol: TG
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/TG
+related-gene(9)/gene-symbol: THRA
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/THRA
+related-gene(10)/gene-symbol: TPO
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/TPO
+related-gene(11)/gene-symbol: TRHR
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/TRHR
+related-gene(12)/gene-symbol: TSHB
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/TSHB
+related-gene(13)/gene-symbol: TSHR
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/TSHR
+synonym(1): CH
+synonym(2): CHT
+synonym(3): congenital myxedema
+synonym(4): cretinism
+db-key(1)/db: GTR
+db-key(1)/key: C0010308
+db-key(2)/db: GTR
+db-key(2)/key: C0342196
+db-key(3)/db: GTR
+db-key(3)/key: C1291299
+db-key(4)/db: GTR
+db-key(4)/key: C1563716
+db-key(5)/db: GTR
+db-key(5)/key: C1846632
+db-key(6)/db: GTR
+db-key(6)/key: C1848805
+db-key(7)/db: GTR
+db-key(7)/key: C3493776
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: E03.0
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: E03.1
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: E03.8
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: E03.9
+db-key(12)/db: MeSH
+db-key(12)/key: D003409
+db-key(13)/db: OMIM
+db-key(13)/key: 218700
+db-key(14)/db: OMIM
+db-key(14)/key: 274400
+db-key(15)/db: OMIM
+db-key(15)/key: 274500
+db-key(16)/db: OMIM
+db-key(16)/key: 274900
+db-key(17)/db: OMIM
+db-key(17)/key: 275200
+db-key(18)/db: OMIM
+db-key(18)/key: 607200
+db-key(19)/db: Orphanet
+db-key(19)/key: 442
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 190268003
+db-key(21)/db: SNOMED CT
+db-key(21)/key: 237515009
+db-key(22)/db: SNOMED CT
+db-key(22)/key: 278503003
+db-key(23)/db: SNOMED CT
+db-key(23)/key: 367524008
+db-key(24)/db: SNOMED CT
+db-key(24)/key: 64491003
+db-key(25)/db: SNOMED CT
+db-key(25)/key: 75065003
+reviewed: 2015-09
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: MESP2
+name: mesoderm posterior bHLH transcription factor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/MESP2
+text/text-role: function
+text/html: <p>The <i>MESP2</i> gene provides instructions for making a transcription factor, which is a protein that attaches (binds) to specific regions of DNA and helps control the activity of particular genes.  The MESP2 protein controls the activity of genes in the Notch pathway, an important pathway in embryonic development. The Notch pathway plays a critical role in the development of the bones of the spine (vertebrae). Specifically, the MESP2 protein and the Notch pathway are involved in separating future vertebrae from one another during early development, in a complex process called somite segmentation. Although the exact mechanism of somite segmentation is unclear, it appears to require the activity of several proteins in the Notch pathway, including the NOTCH1 protein and the MESP2 protein, to be turned on and off (oscillate) in a specific pattern.</p><p>The MESP2 protein regulates Notch activity by turning on (activating) genes in the Notch pathway, which ultimately block (repress) the activity of the NOTCH1 protein. Additionally, through unknown mechanisms, the MESP2 protein seems to mark the boundary separating future vertebrae from one another.</p>
+related-health-condition(1)/name: spondylocostal dysostosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/spondylocostal-dysostosis
+related-health-condition(2)/name: spondylothoracic dysostosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/spondylothoracic-dysostosis
+synonym(1): bHLHc6
+synonym(2): class C basic helix-loop-helix protein 6
+synonym(3): mesoderm posterior 2 homolog (mouse)
+synonym(4): mesoderm posterior basic helix-loop-helix transcription factor 2
+synonym(5): mesoderm posterior protein 2
+synonym(6): MESP2_HUMAN
+synonym(7): SCDO2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 145873
+db-key(2)/db: OMIM
+db-key(2)/key: 605195
+reviewed: 2016-06
+published: 2018-04-17

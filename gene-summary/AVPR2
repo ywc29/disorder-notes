@@ -1,0 +1,28 @@
+gene-symbol: AVPR2
+name: arginine vasopressin receptor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/AVPR2
+text/text-role: function
+text/html: <p>The <i>AVPR2</i> gene provides instructions for making a protein known as the vasopressin V2 receptor. This receptor works together with a hormone called vasopressin or antidiuretic hormone (ADH) in the kidneys. The vasopressin V2 receptor is found in structures called collecting ducts, which are a series of small tubes that reabsorb water from the kidneys into the bloodstream.</p><p>The interaction between ADH and the vasopressin V2 receptor triggers chemical reactions that control the body's water balance. When a person's fluid intake is low or when a lot of fluid is lost (for example, through sweating), the body produces more ADH. This hormone attaches (binds) to the vasopressin V2 receptor and directs the kidneys to concentrate urine by reabsorbing some of the water back into the bloodstream. When fluid intake is adequate, less ADH is available to interact with the vasopressin V2 receptor. At these times, less water is reabsorbed into the bloodstream and the urine is more dilute.</p>
+related-health-condition/name: nephrogenic diabetes insipidus
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nephrogenic-diabetes-insipidus
+synonym(1): ADHR
+synonym(2): antidiuretic hormone receptor
+synonym(3): AVPR V2
+synonym(4): DI1
+synonym(5): DIR
+synonym(6): DIR3
+synonym(7): MGC126533
+synonym(8): MGC138386
+synonym(9): NDI
+synonym(10): renal-type arginine vasopressin receptor
+synonym(11): V2R
+synonym(12): V2R_HUMAN
+synonym(13): vasopressin V2 receptor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 554
+db-key(2)/db: OMIM
+db-key(2)/key: 300538
+db-key(3)/db: OMIM
+db-key(3)/key: 300539
+reviewed: 2010-04
+published: 2018-04-17

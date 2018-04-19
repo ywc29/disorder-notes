@@ -1,0 +1,20 @@
+gene-symbol: DES
+name: desmin
+ghr-page: https://ghr.nlm.nih.gov/gene/DES
+text/text-role: function
+text/html: <p>The <i>DES</i> gene provides instructions for making a protein called desmin. Desmin is found in heart (cardiac) muscle and muscles used for movement (skeletal muscle). Within muscle fibers, desmin proteins are important to help maintain the structure of sarcomeres, which are necessary for muscles to tense (contract). The desmin proteins surround rod-like structures called Z-discs that are located within the sarcomere. Desmin connects the Z-discs to one another, linking neighboring sarcomeres and forming myofibrils, the basic unit of muscle fibers. The connection of sarcomeres to each other to form myofibrils is essential for maintaining muscle fiber strength during repeated cycles of contraction and relaxation.</p>
+related-health-condition(1)/name: arrhythmogenic right ventricular cardiomyopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/arrhythmogenic-right-ventricular-cardiomyopathy
+related-health-condition(2)/name: familial dilated cardiomyopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+related-health-condition(3)/name: myofibrillar myopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/myofibrillar-myopathy
+synonym: DESM_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1674
+db-key(2)/db: OMIM
+db-key(2)/key: 125660
+db-key(3)/db: OMIM
+db-key(3)/key: 604765
+reviewed: 2011-01
+published: 2018-04-17

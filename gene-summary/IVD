@@ -1,0 +1,16 @@
+gene-symbol: IVD
+name: isovaleryl-CoA dehydrogenase
+ghr-page: https://ghr.nlm.nih.gov/gene/IVD
+text/text-role: function
+text/html: <p>The <i>IVD</i> gene provides instructions for making an enzyme called isovaleryl-CoA dehydrogenase.  This enzyme plays an essential role in processing proteins obtained from the diet.  Normally, the body breaks down proteins from food into smaller parts called amino acids. Amino acids can be further processed to provide energy for growth and development.  In cells throughout the body, isovaleryl-CoA dehydrogenase is found within specialized structures called mitochondria. Mitochondria convert energy from food to a form that cells can use.</p><p>Isovaleryl-CoA dehydrogenase helps process a particular amino acid called leucine.  Specifically, this enzyme is responsible for the third step in the breakdown of leucine.  This step is a chemical reaction that converts a molecule called isovaleryl-CoA to another molecule, 3-methylcrotonyl-CoA. Additional chemical reactions convert 3-methylcrotonyl-CoA into molecules that are used for energy.</p>
+related-health-condition/name: isovaleric acidemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/isovaleric-acidemia
+synonym(1): ACAD2
+synonym(2): isovaleryl CoA dehydrogenase
+synonym(3): IVD_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3712
+db-key(2)/db: OMIM
+db-key(2)/key: 607036
+reviewed: 2007-04
+published: 2018-04-17

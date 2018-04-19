@@ -1,0 +1,20 @@
+gene-symbol: VPS13A
+name: vacuolar protein sorting 13 homolog A
+ghr-page: https://ghr.nlm.nih.gov/gene/VPS13A
+text/text-role: function
+text/html: <p>The <i>VPS13A</i> gene provides instructions for producing a protein called chorein.  Chorein is found in various tissues throughout the body.  The function of this protein is unknown.  Some researchers believe that chorein plays a role in the movement of proteins within cells.</p>
+related-health-condition/name: chorea-acanthocytosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/chorea-acanthocytosis
+synonym(1): CHAC
+synonym(2): CHOREIN
+synonym(3): FLJ42030
+synonym(4): KIAA0986
+synonym(5): vacuolar protein sorting 13 homolog A (S. cerevisiae)
+synonym(6): vacuolar protein sorting 13A
+synonym(7): VP13A_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23230
+db-key(2)/db: OMIM
+db-key(2)/key: 605978
+reviewed: 2008-05
+published: 2018-04-17

@@ -1,0 +1,25 @@
+gene-symbol: KCNT1
+name: potassium sodium-activated channel subfamily T member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/KCNT1
+text/text-role: function
+text/html: <p>The <i>KCNT1</i> gene belongs to a large family of genes that provide instructions for making potassium channels. These channels, which transport positively charged atoms (ions) of potassium into and out of cells, play a key role in a cell's ability to generate and transmit electrical signals.</p><p>The specific function of a potassium channel depends on its protein components and its location in the body. Channels made with the KCNT1 protein are active in nerve cells (neurons) in the brain, where they transport potassium ions out of cells. This flow of ions is involved in generating currents to activate (excite) neurons and send signals in the brain.</p><p>Potassium channels are made up of several protein components (subunits). Each channel contains four alpha subunits that form the hole (pore) through which potassium ions move. Four alpha subunits from the <i>KCNT1</i> gene can form a channel. The KCNT1 alpha subunits can also interact with alpha subunits produced from the <i>KCNT2</i> gene to form a functional potassium channel.</p><p>Researchers have determined that a molecule called PKC can turn on channels made with the KCNT1 protein. While the channels can generate electrical currents without PKC, when PKC turns the channel on, the currents are stronger.</p>
+related-health-condition(1)/name: autosomal dominant nocturnal frontal lobe epilepsy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-nocturnal-frontal-lobe-epilepsy
+related-health-condition(2)/name: malignant migrating partial seizures of infancy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/malignant-migrating-partial-seizures-of-infancy
+synonym(1): EIEE14
+synonym(2): ENFL5
+synonym(3): KCa4.1
+synonym(4): KCNT1_HUMAN
+synonym(5): KIAA1422
+synonym(6): potassium channel subfamily T member 1
+synonym(7): potassium channel, sodium activated subfamily T, member 1
+synonym(8): potassium channel, subfamily T, member 1
+synonym(9): SLACK
+synonym(10): Slo2.2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57582
+db-key(2)/db: OMIM
+db-key(2)/key: 608167
+reviewed: 2014-03
+published: 2018-04-17

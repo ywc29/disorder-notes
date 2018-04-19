@@ -1,0 +1,38 @@
+name: Bernard-Soulier syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/bernard-soulier-syndrome
+text/text-role: description
+text/html: <p>Bernard-Soulier syndrome is a bleeding disorder associated with abnormal platelets, which are blood cell fragments involved in blood clotting. In affected individuals, platelets are unusually large and fewer in number than usual (a combination known as macrothrombocytopenia). People with Bernard-Soulier syndrome tend to bruise easily and have an increased risk of nosebleeds (epistaxis). They may also experience abnormally heavy or prolonged bleeding following minor injury or surgery or even without trauma (spontaneous bleeding). In some affected individuals, bleeding under the skin causes tiny red or purple spots on the skin called petechiae. Women with Bernard-Soulier syndrome often have heavy or prolonged menstrual periods (menorrhagia).</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: GP1BA
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GP1BA
+related-gene(2)/gene-symbol: GP1BB
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GP1BB
+related-gene(3)/gene-symbol: GP9
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/GP9
+synonym(1): BDPLT1
+synonym(2): bleeding disorder, platelet-type, 1
+synonym(3): BSS
+synonym(4): deficiency of platelet glycoprotein 1b
+synonym(5): giant platelet syndrome
+synonym(6): glycoprotein Ib, platelet, deficiency of
+synonym(7): hemorrhagioparous thrombocytic dystrophy
+synonym(8): macrothrombocytopenia, familial Bernard-Soulier type
+synonym(9): platelet glycoprotein Ib deficiency
+synonym(10): von Willebrand factor receptor deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0005129
+db-key(2)/db: MeSH
+db-key(2)/key: D001606
+db-key(3)/db: OMIM
+db-key(3)/key: 153670
+db-key(4)/db: OMIM
+db-key(4)/key: 231200
+db-key(5)/db: Orphanet
+db-key(5)/key: 274
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 54569005
+reviewed: 2016-06
+published: 2018-04-17

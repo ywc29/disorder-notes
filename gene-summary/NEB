@@ -1,0 +1,15 @@
+gene-symbol: NEB
+name: nebulin
+ghr-page: https://ghr.nlm.nih.gov/gene/NEB
+text/text-role: function
+text/html: <p>The <i>NEB</i> gene provides instructions for making a protein called nebulin.  This protein plays an important role in skeletal muscles, which are muscles used for movement. Within skeletal muscle cells, nebulin is found in structures called sarcomeres.  Sarcomeres are necessary for muscles to tense (contract). Nebulin is one of several proteins that interact to generate the mechanical force needed for muscle contraction.</p>
+related-health-condition/name: nemaline myopathy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nemaline-myopathy
+synonym(1): NEBU_HUMAN
+synonym(2): NEM2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4703
+db-key(2)/db: OMIM
+db-key(2)/key: 161650
+reviewed: 2010-05
+published: 2018-04-17

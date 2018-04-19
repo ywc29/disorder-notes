@@ -1,0 +1,26 @@
+name: Autosomal recessive axonal neuropathy with neuromyotonia
+ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-axonal-neuropathy-with-neuromyotonia
+text/text-role: description
+text/html: <p>Autosomal recessive axonal neuropathy with neuromyotonia is a disorder that affects the peripheral nerves. Peripheral nerves connect the brain and spinal cord to muscles and to sensory cells that detect sensations such as touch, pain, heat, and sound.</p><p>Axonal neuropathy, a characteristic feature of this condition, is caused by damage to a particular part of peripheral nerves called axons, which are the extensions of nerve cells (neurons) that transmit nerve impulses. In people with autosomal recessive axonal neuropathy with neuromyotonia, the damage primarily causes progressive weakness and wasting (atrophy) of muscles in the feet, legs, and hands. Muscle weakness may be especially apparent during exercise (exercise intolerance) and can lead to an unusual walking style (gait), frequent falls, and joint deformities (contractures) in the hands and feet. In some affected individuals, axonal neuropathy also causes decreased sensitivity to touch, heat, or cold, particularly in the lower arms or legs.</p><p>Another feature of this condition is neuromyotonia (also known as Isaac syndrome). Neuromyotonia results from overactivation (hyperexcitability) of peripheral nerves, which leads to delayed relaxation of muscles after voluntary tensing (contraction), muscle cramps, and involuntary rippling movement of the muscles (myokymia).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: HINT1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HINT1
+synonym(1): ARAN-NM
+synonym(2): autosomal recessive Charcot-Marie-Tooth disease type 2 with neuromyotonia
+synonym(3): autosomal recessive neuromyotonia and axonal neuropathy
+synonym(4): Gamstorp-Wohlfart syndrome
+synonym(5): myokymia, myotonia, and muscle wasting
+synonym(6): NMAN
+db-key(1)/db: GTR
+db-key(1)/key: CN074193
+db-key(2)/db: MeSH
+db-key(2)/key: D010523
+db-key(3)/db: OMIM
+db-key(3)/key: 137200
+db-key(4)/db: Orphanet
+db-key(4)/key: 324442
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 711406009
+reviewed: 2014-09
+published: 2018-04-17

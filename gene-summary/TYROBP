@@ -1,0 +1,19 @@
+gene-symbol: TYROBP
+name: TYRO protein tyrosine kinase binding protein
+ghr-page: https://ghr.nlm.nih.gov/gene/TYROBP
+text/text-role: function
+text/html: <p>The <i>TYROBP</i> gene (also known as the <i>DAP12</i> gene) provides instructions for making a protein called the TYRO protein tyrosine kinase binding protein.  This protein is found in a variety of cells produced in bone marrow (myeloid cells) and other immune system cells (lymphoid cells).  The protein is located on the cell surface, where it helps transmit chemical signals that activate the cell.</p><p>The TYROBP protein interacts with several other proteins on the surface of cells. For example, it forms a complex with the protein produced from the <i>TREM2</i> gene. The TYROBP protein and its partners were first identified in the immune system, where they activate certain cells (such as natural killer cells and dendritic cells) that trigger an inflammatory response to injury or disease.</p><p>The TYROBP-TREM2 complex also activates cells in the skeletal system and in the brain and spinal cord (central nervous system).  In the skeletal system, the complex is found in osteoclasts, which are specialized cells that break down and remove (resorb) bone tissue that is no longer needed. These cells are involved in bone remodeling, which is a normal process that replaces old bone tissue with new bone.  In the central nervous system, the complex appears to play an important role in immune cells called microglia. These cells protect the brain and spinal cord from foreign invaders and remove dead nerve cells and other debris. Although the TYROBP-TREM2 complex plays a critical role in osteoclasts and microglia, its exact function in these cells is unclear.</p>
+related-health-condition/name: polycystic lipomembranous osteodysplasia with sclerosing leukoencephalopathy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/polycystic-lipomembranous-osteodysplasia-with-sclerosing-leukoencephalopathy
+synonym(1): DAP12
+synonym(2): DNAX-activation protein 12
+synonym(3): KAR-associated protein
+synonym(4): KARAP
+synonym(5): killer activating receptor associated protein
+synonym(6): TYOBP_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7305
+db-key(2)/db: OMIM
+db-key(2)/key: 604142
+reviewed: 2008-11
+published: 2018-04-17

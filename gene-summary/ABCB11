@@ -1,0 +1,28 @@
+gene-symbol: ABCB11
+name: ATP binding cassette subfamily B member 11
+ghr-page: https://ghr.nlm.nih.gov/gene/ABCB11
+text/text-role: function
+text/html: <p>The <i>ABCB11</i> gene provides instructions for making a protein called the bile salt export pump (BSEP), which is found in the liver.  Bile salts are a component of bile, which is used to digest fats.  Bile salts are produced by liver cells and then transported out of the cell by BSEP to make bile. The release of bile salts from liver cells is critical for the normal secretion of bile.</p>
+related-health-condition(1)/name: benign recurrent intrahepatic cholestasis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/benign-recurrent-intrahepatic-cholestasis
+related-health-condition(2)/name: intrahepatic cholestasis of pregnancy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/intrahepatic-cholestasis-of-pregnancy
+related-health-condition(3)/name: progressive familial intrahepatic cholestasis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/progressive-familial-intrahepatic-cholestasis
+synonym(1): ABC16
+synonym(2): ABCBB_HUMAN
+synonym(3): ATP-binding cassette, sub-family B (MDR/TAP), member 11
+synonym(4): bile salt export pump
+synonym(5): BRIC2
+synonym(6): BSEP
+synonym(7): PFIC-2
+synonym(8): PFIC2
+synonym(9): progressive familial intrahepatic cholestasis 2
+synonym(10): sister p-glycoprotein
+synonym(11): SPGP
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8647
+db-key(2)/db: OMIM
+db-key(2)/key: 603201
+reviewed: 2012-06
+published: 2018-04-17

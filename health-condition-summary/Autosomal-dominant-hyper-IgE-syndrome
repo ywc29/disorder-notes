@@ -1,0 +1,35 @@
+name: Autosomal dominant hyper-IgE syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-hyper-ige-syndrome
+text/text-role: description
+text/html: <p>Autosomal dominant hyper-IgE syndrome (AD-HIES), also known as Job syndrome, is a condition that affects several body systems, particularly the immune system. Recurrent infections are common in people with this condition. Affected individuals tend to have frequent bouts of pneumonia, which are caused by certain kinds of bacteria that infect the lungs and cause inflammation. These infections often result in the formation of air-filled cysts (pneumatoceles) in the lungs. Recurrent skin infections and an inflammatory skin disorder called eczema are also very common in AD-HIES. These skin problems cause rashes, blisters, accumulations of pus (abscesses), open sores, and scaling.</p><p>AD-HIES is characterized by abnormally high levels of an immune system protein called immunoglobulin E (IgE) in the blood. IgE normally triggers an immune response against foreign invaders in the body, particularly parasitic worms, and plays a role in allergies. It is unclear why people with AD-HIES have such high levels of IgE.</p><p>AD-HIES also affects other parts of the body, including the bones and teeth. Many people with AD-HIES have skeletal abnormalities such as an unusually large range of joint movement (hyperextensibility), an abnormal curvature of the spine (scoliosis), reduced bone density (osteopenia), and a tendency for bones to fracture easily. Dental abnormalities are also common in this condition. The primary (baby) teeth do not fall out at the usual time during childhood but are retained as the adult teeth grow in. Other signs and symptoms of AD-HIES can include abnormalities of the arteries that supply blood to the heart muscle (coronary arteries), distinctive facial features, and structural abnormalities of the brain, which do not affect a person's intelligence.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: STAT3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/STAT3
+synonym(1): AD-HIES
+synonym(2): autosomal dominant HIES
+synonym(3): autosomal dominant hyper-IgE recurrent infection syndrome
+synonym(4): autosomal dominant hyperimmunoglobulin E recurrent infection syndrome
+synonym(5): autosomal dominant Job syndrome
+synonym(6): Buckley syndrome
+synonym(7): Job-Buckley syndrome
+synonym(8): Job syndrome
+synonym(9): Job's Syndrome
+synonym(10): STAT3 deficiency
+synonym(11): STAT3-deficient hyper IgE syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C3489795
+db-key(2)/db: GeneReviews
+db-key(2)/key: higes
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: D82.4
+db-key(4)/db: MeSH
+db-key(4)/key: D007589
+db-key(5)/db: OMIM
+db-key(5)/key: 147060
+db-key(6)/db: Orphanet
+db-key(6)/key: 2314
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 50926003
+reviewed: 2015-10
+published: 2018-04-17

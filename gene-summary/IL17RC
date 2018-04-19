@@ -1,0 +1,18 @@
+gene-symbol: IL17RC
+name: interleukin 17 receptor C
+ghr-page: https://ghr.nlm.nih.gov/gene/IL17RC
+text/text-role: function
+text/html: <p>The <i>IL17RC</i> gene provides instructions for making a protein that is involved in immune system function, specifically in the body's defense against a fungus called <i>Candida</i>. When the immune system recognizes <i>Candida</i>, it generates cells called Th17 cells. These cells produce signaling molecules (cytokines) called the interleukin-17 (IL-17) family as part of an immune process called the IL-17 pathway. The IL-17 pathway creates inflammation, sending other cytokines and white blood cells that fight foreign invaders and promote tissue repair. In addition, the IL-17 pathway promotes the production of certain antimicrobial protein segments (peptides) that control growth of <i>Candida</i> on the surface of mucous membranes.</p><p>The protein produced from the <i>IL17RC</i> gene is present in many tissue types in the body, and is involved in cell signaling as part of the IL-17 pathway. Together with the protein produced from the <i>IL17RA</i> gene, it forms one of several receptors for IL-17 cytokines. Receptor proteins have specific sites into which certain other proteins, called ligands, fit like keys into locks. Certain IL-17 cytokines attach to receptors containing the IL17RC and IL17RA proteins, triggering signals that promote inflammation and the defense against <i>Candida</i> infection.</p>
+related-health-condition/name: familial candidiasis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-candidiasis
+synonym(1): IL-17 receptor C
+synonym(2): IL-17RL
+synonym(3): IL17F receptor
+synonym(4): interleukin-17 receptor homolog
+synonym(5): interleukin-17 receptor-like protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 84818
+db-key(2)/db: OMIM
+db-key(2)/key: 610925
+reviewed: 2016-09
+published: 2018-04-17

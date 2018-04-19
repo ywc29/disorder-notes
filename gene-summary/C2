@@ -1,0 +1,20 @@
+gene-symbol: C2
+name: complement C2
+ghr-page: https://ghr.nlm.nih.gov/gene/C2
+text/text-role: function
+text/html: <p>The <i>C2</i> gene provides instructions for making the complement component 2 protein. This protein helps regulate a part of the body's immune response known as the complement system. The complement system is a group of proteins that work together to destroy foreign invaders (such as bacteria and viruses), trigger inflammation, and remove debris from cells and tissues. When a foreign invader is detected, the complement pathway is turned on (activated) and the complement component 2 protein attaches (binds) to a similar protein called complement component 4. Together, these proteins form a complex called C3 convertase, which triggers further activation of the pathway, allowing the proteins of the complement system to participate in an immune response.</p>
+related-health-condition(1)/name: age-related macular degeneration
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
+related-health-condition(2)/name: complement component 2 deficiency
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/complement-component-2-deficiency
+synonym(1): ARMD14
+synonym(2): C3/C5 convertase
+synonym(3): CO2
+synonym(4): complement component 2
+synonym(5): complement component C2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 717
+db-key(2)/db: OMIM
+db-key(2)/key: 613927
+reviewed: 2014-06
+published: 2018-04-17

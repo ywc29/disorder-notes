@@ -1,0 +1,54 @@
+name: Graves disease
+ghr-page: https://ghr.nlm.nih.gov/condition/graves-disease
+text/text-role: description
+text/html: <p>Graves disease is a condition that affects the function of the thyroid, which is a butterfly-shaped gland in the lower neck. The thyroid makes hormones that help regulate a wide variety of critical body functions. For example, thyroid hormones influence growth and development, body temperature, heart rate, menstrual cycles, and weight. In people with Graves disease, the thyroid is overactive and makes more hormones than the body needs. The condition usually appears in mid-adulthood, although it may occur at any age.</p><p>Excess thyroid hormones can cause a variety of signs and symptoms. These include nervousness or anxiety, extreme tiredness (fatigue), a rapid and irregular heartbeat, hand tremors, frequent bowel movements or diarrhea, increased sweating and difficulty tolerating hot conditions, trouble sleeping, and weight loss in spite of an increased appetite. Affected women may have menstrual irregularities, such as an unusually light menstrual flow and infrequent periods. Some people with Graves disease develop an enlargement of the thyroid called a goiter. Depending on its size, the enlarged thyroid can cause the neck to look swollen and may interfere with breathing and swallowing.</p><p>Between 25 and 50 percent of people with Graves disease have eye abnormalities, which are known as Graves ophthalmopathy. These eye problems can include swelling and inflammation, redness, dryness, puffy eyelids, and a gritty sensation like having sand or dirt in the eyes. Some people develop bulging of the eyes caused by inflammation of tissues behind the eyeball and "pulling back" (retraction) of the eyelids. Rarely, affected individuals have more serious eye problems, such as pain, double vision, and pinching (compression) of the optic nerve connecting the eye and the brain, which can cause vision loss.</p><p>A small percentage of people with Graves disease develop a skin abnormality called pretibial myxedema or Graves dermopathy. This abnormality causes the skin on the front of the lower legs and the tops of the feet to become thick, lumpy, and red. It is not usually painful.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: CD40
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CD40
+related-gene(2)/gene-symbol: CTLA4
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CTLA4
+related-gene(3)/gene-symbol: HLA-DRB1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-DRB1
+related-gene(4)/gene-symbol: IL2RA
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/IL2RA
+related-gene(5)/gene-symbol: PTPN22
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/PTPN22
+related-gene(6)/gene-symbol: SCGB3A2
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/SCGB3A2
+related-gene(7)/gene-symbol: TG
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/TG
+related-gene(8)/gene-symbol: TSHR
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/TSHR
+synonym(1): autoimmune hyperthyroidism
+synonym(2): Basedow disease
+synonym(3): Basedow's disease
+synonym(4): exophthalmic goiter
+synonym(5): Graves' disease
+synonym(6): toxic diffuse goiter
+db-key(1)/db: GTR
+db-key(1)/key: C0018213
+db-key(2)/db: GTR
+db-key(2)/key: C1841794
+db-key(3)/db: GTR
+db-key(3)/key: C1863923
+db-key(4)/db: GTR
+db-key(4)/key: C2678151
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: E05.0
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: E05.00
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: E05.01
+db-key(8)/db: MeSH
+db-key(8)/key: D006111
+db-key(9)/db: OMIM
+db-key(9)/key: 275000
+db-key(10)/db: OMIM
+db-key(10)/key: 300351
+db-key(11)/db: OMIM
+db-key(11)/key: 603388
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 353295004
+reviewed: 2013-07
+published: 2018-04-17

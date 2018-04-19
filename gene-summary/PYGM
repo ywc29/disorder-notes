@@ -1,0 +1,17 @@
+gene-symbol: PYGM
+name: glycogen phosphorylase, muscle associated
+ghr-page: https://ghr.nlm.nih.gov/gene/PYGM
+text/text-role: function
+text/html: <p>The <i>PYGM</i> gene provides instructions for making an enzyme called myophosphorylase. This enzyme breaks down a complex sugar called glycogen. Myophosphorylase is one of three related enzymes called glycogen phosphorylases that break down glycogen in cells. Myophosphorylase is found only in muscle cells, where it breaks down glycogen into a simpler sugar called glucose-1-phosphate. Additional steps convert glucose-1-phosphate into glucose, a simple sugar that is the main energy source for most cells.</p>
+related-health-condition/name: glycogen storage disease type V
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-v
+synonym(1): glycogen phosphorylase, muscle form
+synonym(2): myophosphorylase
+synonym(3): phosphorylase, glycogen, muscle
+synonym(4): PYGM_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5837
+db-key(2)/db: OMIM
+db-key(2)/key: 608455
+reviewed: 2010-07
+published: 2018-04-17

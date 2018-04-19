@@ -1,0 +1,23 @@
+gene-symbol: COLEC11
+name: collectin subfamily member 11
+ghr-page: https://ghr.nlm.nih.gov/gene/COLEC11
+text/text-role: function
+text/html: <p>The <i>COLEC11</i> gene provides instructions for making a protein called CL-K1. This protein is involved in a series of reactions called the lectin complement pathway, which is thought to help direct the movement (migration) of cells during early development before birth to form the organs and systems of the body. The lectin complement pathway appears to be particularly important in directing the migration of neural crest cells, which give rise to various tissues including many tissues in the face and skull, glands that produce hormones (endocrine glands), and portions of the nervous system. After birth, the lectin complement pathway is involved in the immune system.</p>
+related-health-condition/name: 3MC syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/3mc-syndrome
+synonym(1): 3MC2
+synonym(2): CL-K1
+synonym(3): CL-K1-I
+synonym(4): CL-K1-II
+synonym(5): CL-K1-IIa
+synonym(6): CL-K1-IIb
+synonym(7): CLK1
+synonym(8): collectin K1
+synonym(9): collectin kidney protein 1
+synonym(10): MGC3279
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 78989
+db-key(2)/db: OMIM
+db-key(2)/key: 612502
+reviewed: 2015-12
+published: 2018-04-17

@@ -1,0 +1,30 @@
+name: Spastic paraplegia type 8
+ghr-page: https://ghr.nlm.nih.gov/condition/spastic-paraplegia-type-8
+text/text-role: description
+text/html: <p>Spastic paraplegia type 8 is part of a group of genetic disorders known as hereditary spastic paraplegias. These disorders are characterized by progressive muscle stiffness (spasticity) and the development of paralysis of the lower limbs (paraplegia). Hereditary spastic paraplegias are divided into two types: pure and complex. The pure types involve only the nerves and muscles controlling the lower limbs and bladder, whereas the complex types also have significant involvement of the nervous system in other parts of the body. Spastic paraplegia type 8 is a pure hereditary spastic paraplegia.</p><p>Like all hereditary spastic paraplegias, spastic paraplegia type 8 involves spasticity of the leg muscles and muscle weakness. People with this condition can also experience exaggerated reflexes (hyperreflexia), a decreased ability to feel vibrations, muscle wasting (amyotrophy), and reduced bladder control.  The signs and symptoms of spastic paraplegia type 8 usually appear in early to mid-adulthood. As the muscle weakness and spasticity get worse, some people may need the aid of a cane, walker, or wheelchair.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: WASHC5
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/WASHC5
+synonym(1): autosomal dominant spastic paraplegia 8
+synonym(2): hereditary spastic paraplegia 8
+synonym(3): spastic paraplegia 8
+synonym(4): SPG 8
+db-key(1)/db: GTR
+db-key(1)/key: C1863704
+db-key(2)/db: GeneReviews
+db-key(2)/key: spg8
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: G11.4
+db-key(4)/db: MeSH
+db-key(4)/key: D010264
+db-key(5)/db: MeSH
+db-key(5)/key: D015419
+db-key(6)/db: OMIM
+db-key(6)/key: 603563
+db-key(7)/db: Orphanet
+db-key(7)/key: 685
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 230260007
+reviewed: 2009-03
+published: 2018-04-17

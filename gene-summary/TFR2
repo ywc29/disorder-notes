@@ -1,0 +1,16 @@
+gene-symbol: TFR2
+name: transferrin receptor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/TFR2
+text/text-role: function
+text/html: <p>The <i>TFR2</i> gene provides instructions for making a protein called transferrin receptor 2. Studies suggest that this receptor helps iron enter liver cells (hepatocytes).  In the blood, iron binds to a protein called transferrin for transport and delivery to the liver and other tissues.  On the cell surface, transferrin binds to transferrin receptor 2, and iron is allowed to enter the cell.  Additionally, this receptor helps sense and regulate iron storage levels in the body by controlling the levels of another protein called hepcidin.  Hepcidin is a protein that determines how much iron is absorbed from the diet and released from storage sites in the body in response to iron levels.</p>
+related-health-condition/name: hereditary hemochromatosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hemochromatosis
+synonym(1): HFE3
+synonym(2): TFR2_HUMAN
+synonym(3): Transferrin Receptor Protein 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7036
+db-key(2)/db: OMIM
+db-key(2)/key: 604720
+reviewed: 2006-10
+published: 2018-04-17

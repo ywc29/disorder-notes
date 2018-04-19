@@ -1,0 +1,25 @@
+name: Galactosialidosis
+ghr-page: https://ghr.nlm.nih.gov/condition/galactosialidosis
+text/text-role: description
+text/html: <p>Galactosialidosis is a condition that affects many areas of the body.  The three forms of galactosialidosis are distinguished by the age at which symptoms develop and the pattern of features.</p><p>The early infantile form of galactosialidosis is associated with extensive swelling caused by fluid accumulation before birth (hydrops fetalis), a soft out-pouching in the lower abdomen (an inguinal hernia), and an enlarged liver and spleen (hepatosplenomegaly).  Additional features of this form include abnormal bone development (dysostosis multiplex) and distinctive facial features that are often described as "coarse."  Some infants have an enlarged heart (cardiomegaly); an eye abnormality called a cherry-red spot, which can be identified with an eye examination; and kidney disease that can progress to kidney failure.  Infants with this form usually are diagnosed between birth and 3 months; they typically live into late infancy.</p><p>The late infantile form of galactosialidosis shares some features with the early infantile form, although the signs and symptoms are somewhat less severe and begin later in infancy. This form is characterized by short stature, dysostosis multiplex, heart valve problems, hepatosplenomegaly, and "coarse" facial features. Other symptoms seen in some individuals with this type include intellectual disability, hearing loss, and a cherry-red spot.  Children with this condition typically develop symptoms within the first year of life.  The life expectancy of individuals with this type varies depending on the severity of symptoms.</p><p>The juvenile/adult form of galactosialidosis has signs and symptoms that are somewhat different than those of the other two types.  This form is distinguished by difficulty coordinating movements (ataxia), muscle twitches (myoclonus), seizures, and progressive intellectual disability.  People with this form typically also have dark red spots on the skin (angiokeratomas), abnormalities in the bones of the spine, "coarse" facial features, a cherry-red spot, vision loss, and hearing loss.  The age at which symptoms begin to develop varies widely among affected individuals, but the average age is 16.  This form is typically associated with a normal life expectancy.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CTSA
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CTSA
+synonym(1): deficiency of cathepsin A
+synonym(2): Goldberg syndrome
+synonym(3): lysosomal protective protein deficiency
+synonym(4): neuraminidase deficiency with beta-galactosidase deficiency
+synonym(5): PPCA deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0268233
+db-key(2)/db: MeSH
+db-key(2)/key: D020140
+db-key(3)/db: OMIM
+db-key(3)/key: 256540
+db-key(4)/db: Orphanet
+db-key(4)/key: 351
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 35691006
+reviewed: 2009-02
+published: 2018-04-17

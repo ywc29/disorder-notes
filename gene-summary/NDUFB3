@@ -1,0 +1,8 @@
+gene-symbol: NDUFB3
+name: NADH:ubiquinone oxidoreductase subunit B3
+ghr-page: https://ghr.nlm.nih.gov/gene/NDUFB3
+related-health-condition/name: mitochondrial complex I deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mitochondrial-complex-i-deficiency
+db-key/db: NCBI Gene
+db-key/key: 4709
+published: 2018-04-17

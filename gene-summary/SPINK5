@@ -1,0 +1,28 @@
+gene-symbol: SPINK5
+name: serine peptidase inhibitor, Kazal type 5
+ghr-page: https://ghr.nlm.nih.gov/gene/SPINK5
+text/text-role: function
+text/html: <p>The <i>SPINK5</i> gene provides instructions for making a protein called LEKT1. LEKT1 is a type of serine peptidase inhibitor. Serine peptidase inhibitors control the activity of enzymes called serine peptidases, which break down other proteins. LEKT1 is found in the skin and in the thymus, which is a gland located behind the breastbone that plays an important role in the immune system by producing white blood cells called lymphocytes. LEKT1 controls the activity of certain serine peptidases in the outer layer of skin (the epidermis), especially the tough outer surface known as the stratum corneum, which provides a sturdy barrier between the body and its environment. Serine peptidase enzymes are involved in normal skin shedding by helping to break the connections between cells of the stratum corneum. LEKT1 is also involved in normal hair growth, the development of lymphocytes in the thymus, and the control of peptidases that trigger immune system function.</p>
+related-health-condition/name: Netherton syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/netherton-syndrome
+synonym(1): DKFZp686K19184
+synonym(2): FLJ21544
+synonym(3): FLJ97536
+synonym(4): FLJ97596
+synonym(5): FLJ99794
+synonym(6): ISK5_HUMAN
+synonym(7): LEKTI
+synonym(8): LETKI
+synonym(9): lympho-epithelial Kazal-type-related inhibitor
+synonym(10): lymphoepithelial Kazal-type-related inhibitor
+synonym(11): NETS
+synonym(12): NS
+synonym(13): serine protease inhibitor Kazal-type 5
+synonym(14): serine protease inhibitor, Kazal type 5
+synonym(15): VAKTI
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 11005
+db-key(2)/db: OMIM
+db-key(2)/key: 605010
+reviewed: 2014-03
+published: 2018-04-17

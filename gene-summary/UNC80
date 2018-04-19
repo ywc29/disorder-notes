@@ -1,0 +1,20 @@
+gene-symbol: UNC80
+name: unc-80 homolog, NALCN channel complex subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/UNC80
+text/text-role: function
+text/html: <p>The <i>UNC80</i> gene provides instructions for making a large protein that is important in the functioning of a sodium channel called NALCN. Sodium channels transport positively charged sodium atoms (sodium ions) into cells and play a key role in a cell's ability to generate and transmit electrical signals. The UNC80 protein forms a bridge between NALCN and another protein called UNC79; along with several other molecules, these proteins group together to form a functional NALCN channel complex (channelosome). UNC80 also helps locate and stabilize the NALCN channelosome in the cell membrane of nerve cells (neurons). The channelosome helps regulate the activity level (excitability) of these cells.</p>
+related-health-condition/name: UNC80 deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/unc80-deficiency
+synonym(1): C2orf21
+synonym(2): FLJ33496
+synonym(3): KIAA1843
+synonym(4): protein unc-80 homolog isoform 1
+synonym(5): protein unc-80 homolog isoform 2
+synonym(6): UNC-80
+synonym(7): unc-80 homolog, NALCN activator
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 285175
+db-key(2)/db: OMIM
+db-key(2)/key: 612636
+reviewed: 2017-12
+published: 2018-04-17

@@ -1,0 +1,28 @@
+name: Congenital sucrase-isomaltase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-sucrase-isomaltase-deficiency
+text/text-role: description
+text/html: <p>Congenital sucrase-isomaltase deficiency is a disorder that affects a person's ability to digest certain sugars.  People with this condition cannot break down the sugars sucrose and maltose.  Sucrose (a sugar found in fruits, and also known as table sugar) and maltose (the sugar found in grains) are called disaccharides because they are made of two simple sugars.  Disaccharides are broken down into simple sugars during digestion.  Sucrose is broken down into glucose and another simple sugar called fructose, and maltose is broken down into two glucose molecules.  People with congenital sucrase-isomaltase deficiency cannot break down the sugars sucrose and maltose, and other compounds made from these sugar molecules (carbohydrates).</p><p>Congenital sucrase-isomaltase deficiency usually becomes apparent after an infant is weaned and starts to consume fruits, juices, and grains.  After ingestion of sucrose or maltose, an affected child will typically experience stomach cramps, bloating, excess gas production, and diarrhea.  These digestive problems can lead to failure to gain weight and grow at the expected rate (failure to thrive) and malnutrition.  Most affected children are better able to tolerate sucrose and maltose as they get older.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SI
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SI
+synonym(1): congenital sucrose intolerance
+synonym(2): congenital sucrose-isomaltose malabsorption
+synonym(3): CSID
+synonym(4): disaccharide intolerance I
+synonym(5): SI deficiency
+synonym(6): sucrase-isomaltase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1283620
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E74.31
+db-key(3)/db: MeSH
+db-key(3)/key: D002239
+db-key(4)/db: OMIM
+db-key(4)/key: 222900
+db-key(5)/db: Orphanet
+db-key(5)/key: 35122
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 78373000
+reviewed: 2008-07
+published: 2018-04-17

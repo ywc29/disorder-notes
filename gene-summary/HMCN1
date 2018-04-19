@@ -1,0 +1,8 @@
+gene-symbol: HMCN1
+name: hemicentin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/HMCN1
+related-health-condition/name: age-related macular degeneration
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
+db-key/db: NCBI Gene
+db-key/key: 83872
+published: 2018-04-17

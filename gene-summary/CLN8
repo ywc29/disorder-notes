@@ -1,0 +1,19 @@
+gene-symbol: CLN8
+name: CLN8, transmembrane ER and ERGIC protein
+ghr-page: https://ghr.nlm.nih.gov/gene/CLN8
+text/text-role: function
+text/html: <p>The <i>CLN8</i> gene provides instructions for making a protein whose precise function is not known but that is thought to play a transport role within cells. Specifically, the CLN8 protein likely helps to move materials in and out of a cell structure called the endoplasmic reticulum, which is involved in protein production, processing, and transport. The CLN8 protein may also play a role in helping the endoplasmic reticulum regulate levels of fats (lipids) in cells.  In certain cells, including nerve cells, the CLN8 protein is thought to be active outside of the endoplasmic reticulum, but its function is unknown.</p>
+related-health-condition/name: CLN8 disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cln8-disease
+synonym(1): C8orf61
+synonym(2): ceroid-lipofuscinosis, neuronal 8
+synonym(3): ceroid-lipofuscinosis, neuronal 8 (epilepsy, progressive with mental retardation)
+synonym(4): CLN8_HUMAN
+synonym(5): EPMR
+synonym(6): FLJ39417
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2055
+db-key(2)/db: OMIM
+db-key(2)/key: 607837
+reviewed: 2016-12
+published: 2018-04-17

@@ -1,0 +1,47 @@
+name: Lesch-Nyhan syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/lesch-nyhan-syndrome
+text/text-role: description
+text/html: <p>Lesch-Nyhan syndrome is a condition that occurs almost exclusively in males. It is characterized by neurological and behavioral abnormalities and the overproduction of uric acid. Uric acid is a waste product of normal chemical processes and is found in blood and urine. Excess uric acid can be released from the blood and build up under the skin and cause gouty arthritis (arthritis caused by an accumulation of uric acid in the joints). Uric acid accumulation can also cause kidney and bladder stones.</p><p>The nervous system and behavioral disturbances experienced by people with Lesch-Nyhan syndrome include abnormal involuntary muscle movements, such as tensing of various muscles (dystonia), jerking movements (chorea), and flailing of the limbs (ballismus). People with Lesch-Nyhan syndrome usually cannot walk, require assistance sitting, and generally use a wheelchair. Self-injury (including biting and head banging) is the most common and distinctive behavioral problem in individuals with Lesch-Nyhan syndrome.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: HPRT1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HPRT1
+synonym(1): choreoathetosis self-mutilation syndrome
+synonym(2): complete HPRT deficiency
+synonym(3): complete hypoxanthine-guanine phosphoribosyltransferase deficiency
+synonym(4): deficiency of guanine phosphoribosyltransferase
+synonym(5): deficiency of hypoxanthine phosphoribosyltransferase
+synonym(6): HGPRT deficiency
+synonym(7): hypoxanthine guanine phosphoribosyltransferase deficiency
+synonym(8): hypoxanthine phosphoribosyltransferase deficiency
+synonym(9): juvenile gout, choreoathetosis, mental retardation syndrome
+synonym(10): juvenile hyperuricemia syndrome
+synonym(11): Lesch-Nyhan disease
+synonym(12): LND
+synonym(13): LNS
+synonym(14): primary hyperuricemia syndrome
+synonym(15): total HPRT deficiency
+synonym(16): total hypoxanthine-guanine phosphoribosyl transferase deficiency
+synonym(17): X-linked hyperuricemia
+synonym(18): X-linked primary hyperuricemia
+synonym(19): X-linked uric aciduria enzyme defect
+db-key(1)/db: GTR
+db-key(1)/key: C0023374
+db-key(2)/db: GeneReviews
+db-key(2)/key: lns
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E79.1
+db-key(4)/db: MeSH
+db-key(4)/key: D007926
+db-key(5)/db: OMIM
+db-key(5)/key: 300322
+db-key(6)/db: OMIM
+db-key(6)/key: 300323
+db-key(7)/db: Orphanet
+db-key(7)/key: 510
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 10406007
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 124275001
+reviewed: 2013-02
+published: 2018-04-17

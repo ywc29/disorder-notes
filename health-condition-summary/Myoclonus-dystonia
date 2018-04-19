@@ -1,0 +1,29 @@
+name: Myoclonus-dystonia
+ghr-page: https://ghr.nlm.nih.gov/condition/myoclonus-dystonia
+text/text-role: description
+text/html: <p>Myoclonus-dystonia is a movement disorder that typically affects the neck, torso, and arms. Individuals with this condition experience quick, involuntary muscle jerks or twitches (myoclonus). About half of individuals with myoclonus-dystonia develop dystonia, which is involuntary tensing of various muscles that causes unusual positioning. In myoclonus-dystonia, dystonia often affects one or both hands, causing writer's cramp, or the neck, causing the head to turn (torticollis).</p><p>The movement problems usually first appear in childhood or early adolescence with the development of myoclonus. In most cases, the movement problems remain stable throughout life. In some adults, myoclonus improves with alcohol consumption, which can lead to affected individuals self-medicating and becoming alcohol-dependent.</p><p>People with myoclonus-dystonia often develop psychological disorders such as depression, anxiety, panic attacks, and obsessive-compulsive disorder (OCD).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: KCTD17
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/KCTD17
+related-gene(2)/gene-symbol: RELN
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/RELN
+related-gene(3)/gene-symbol: SGCE
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/SGCE
+synonym(1): dystonia 11
+synonym(2): DYT11
+synonym(3): myoclonus-dystonia syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1834570
+db-key(2)/db: GeneReviews
+db-key(2)/key: myo-dystonia
+db-key(3)/db: MeSH
+db-key(3)/key: D009207
+db-key(4)/db: OMIM
+db-key(4)/key: 159900
+db-key(5)/db: Orphanet
+db-key(5)/key: 36899
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 439732004
+reviewed: 2017-10
+published: 2018-04-17

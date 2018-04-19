@@ -1,0 +1,24 @@
+gene-symbol: BSCL2
+name: BSCL2, seipin lipid droplet biogenesis associated
+ghr-page: https://ghr.nlm.nih.gov/gene/BSCL2
+text/text-role: function
+text/html: <p>The <i>BSCL2</i> gene provides instructions for making a protein called seipin, whose function is unknown.  Within cells, seipin is located in the membrane of a structure called the endoplasmic reticulum. The endoplasmic reticulum modifies newly produced proteins and also helps transport proteins, fats, and other molecules to specific sites either inside or outside the cell.</p><p>The <i>BSCL2</i> gene is active in cells and tissues throughout the body, particularly in nerve cells that control muscle movement (motor neurons) and in the brain. The gene is also active in fat-storing cells called adipocytes, which are the major component of fatty (adipose) tissue. Studies suggest that seipin plays a critical role in the development and function of adipocytes. In particular, seipin is involved in the development of lipid droplets, which are structures within these cells that store fat molecules.</p>
+related-health-condition(1)/name: Charcot-Marie-Tooth disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+related-health-condition(2)/name: congenital generalized lipodystrophy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-generalized-lipodystrophy
+related-health-condition(3)/name: distal hereditary motor neuropathy, type V
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/distal-hereditary-motor-neuropathy-type-v
+related-health-condition(4)/name: Silver syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/silver-syndrome
+synonym(1): Berardinelli-Seip congenital lipodystrophy 2 (seipin)
+synonym(2): BSCL2_HUMAN
+synonym(3): GNG3LG
+synonym(4): seipin
+synonym(5): SPG17
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 26580
+db-key(2)/db: OMIM
+db-key(2)/key: 606158
+reviewed: 2016-01
+published: 2018-04-17

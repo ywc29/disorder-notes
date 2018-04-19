@@ -1,0 +1,53 @@
+name: Pyruvate dehydrogenase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/pyruvate-dehydrogenase-deficiency
+text/text-role: description
+text/html: <p>Pyruvate dehydrogenase deficiency is characterized by the buildup of a chemical called lactic acid in the body and a variety of neurological problems. Signs and symptoms of this condition usually first appear shortly after birth, and they can vary widely among affected individuals. The most common feature is a potentially life-threatening buildup of lactic acid (lactic acidosis), which can cause nausea, vomiting, severe breathing problems, and an abnormal heartbeat. People with pyruvate dehydrogenase deficiency usually have neurological problems as well. Most have delayed development of mental abilities and motor skills such as sitting and walking. Other neurological problems can include intellectual disability, seizures, weak muscle tone (hypotonia), poor coordination, and difficulty walking. Some affected individuals have abnormal brain structures, such as underdevelopment of the tissue connecting the left and right halves of the brain (corpus callosum), wasting away (atrophy) of the exterior part of the brain known as the cerebral cortex, or patches of damaged tissue (lesions) on some parts of the brain. Because of the severe health effects, many individuals with pyruvate dehydrogenase deficiency do not survive past childhood, although some may live into adolescence or adulthood.</p>
+inheritance-pattern(1)/code: ar
+inheritance-pattern(1)/memo: autosomal recessive
+inheritance-pattern(2)/code: x
+inheritance-pattern(2)/memo: X-linked
+related-gene(1)/gene-symbol: DLAT
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/DLAT
+related-gene(2)/gene-symbol: PDHA1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PDHA1
+related-gene(3)/gene-symbol: PDHB
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PDHB
+related-gene(4)/gene-symbol: PDHX
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/PDHX
+related-gene(5)/gene-symbol: PDP1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/PDP1
+synonym(1): ataxia with lactic acidosis
+synonym(2): intermittent ataxia with pyruvate dehydrogenase deficiency
+synonym(3): PDH deficiency
+synonym(4): PDHC deficiency
+synonym(5): pyruvate dehydrogenase complex deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0034345
+db-key(2)/db: GTR
+db-key(2)/key: C1837429
+db-key(3)/db: GTR
+db-key(3)/key: C1839413
+db-key(4)/db: GTR
+db-key(4)/key: C1855553
+db-key(5)/db: GTR
+db-key(5)/key: C1855565
+db-key(6)/db: GTR
+db-key(6)/key: C3279841
+db-key(7)/db: MeSH
+db-key(7)/key: D015325
+db-key(8)/db: OMIM
+db-key(8)/key: 245348
+db-key(9)/db: OMIM
+db-key(9)/key: 245349
+db-key(10)/db: OMIM
+db-key(10)/key: 312170
+db-key(11)/db: OMIM
+db-key(11)/key: 608782
+db-key(12)/db: OMIM
+db-key(12)/key: 614111
+db-key(13)/db: Orphanet
+db-key(13)/key: 765
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 46683007
+reviewed: 2012-07
+published: 2018-04-17

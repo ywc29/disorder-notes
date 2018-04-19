@@ -1,0 +1,18 @@
+gene-symbol: FAM111B
+name: family with sequence similarity 111 member B
+ghr-page: https://ghr.nlm.nih.gov/gene/FAM111B
+text/text-role: function
+text/html: <p>The <i>FAM111B</i> gene provides instructions for making a protein whose function is not well understood. The FAM111B protein, which is found in many parts of the body, contains a functional region called a peptidase domain. Similar proteins containing such a domain are able to break down other proteins. However, the types of proteins the FAM111B protein interacts with and the roles it plays in the body are unknown.</p>
+related-health-condition/name: hereditary fibrosing poikiloderma with tendon contractures, myopathy, and pulmonary fibrosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-fibrosing-poikiloderma-with-tendon-contractures-myopathy-and-pulmonary-fibrosis
+synonym(1): cancer-associated nucleoprotein
+synonym(2): CANP
+synonym(3): POIKTMP
+synonym(4): protein FAM111B isoform a
+synonym(5): protein FAM111B isoform b
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 374393
+db-key(2)/db: OMIM
+db-key(2)/key: 615584
+reviewed: 2017-02
+published: 2018-04-17

@@ -1,0 +1,26 @@
+name: Bietti crystalline dystrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/bietti-crystalline-dystrophy
+text/text-role: description
+text/html: <p>Bietti crystalline dystrophy is a disorder in which numerous small, yellow or white crystal-like deposits of fatty (lipid) compounds accumulate in the light-sensitive tissue that lines the back of the eye (the retina). The deposits damage the retina, resulting in progressive vision loss.</p><p>People with Bietti crystalline dystrophy typically begin noticing vision problems in their teens or twenties. They experience a loss of sharp vision (reduction in visual acuity) and difficulty seeing in dim light (night blindness). They usually lose areas of vision (visual field loss), most often side (peripheral) vision. Color vision may also be impaired.</p><p>The vision problems may worsen at different rates in each eye, and the severity and progression of symptoms varies widely among affected individuals, even within the same family. However, most people with this condition become legally blind by their forties or fifties. Most affected individuals retain some degree of vision, usually in the center of the visual field, although it is typically blurry and cannot be corrected by glasses or contact lenses. Vision impairment that cannot be improved with corrective lenses is called low vision.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CYP4V2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CYP4V2
+synonym(1): BCD
+synonym(2): Bietti crystalline corneoretinal dystrophy
+synonym(3): Bietti crystalline retinopathy
+synonym(4): Bietti tapetoretinal degeneration with marginal corneal dystrophy
+db-key(1)/db: GTR
+db-key(1)/key: C1859486
+db-key(2)/db: GeneReviews
+db-key(2)/key: bietti-cd
+db-key(3)/db: MeSH
+db-key(3)/key: D012162
+db-key(4)/db: OMIM
+db-key(4)/key: 210370
+db-key(5)/db: Orphanet
+db-key(5)/key: 41751
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 312927001
+reviewed: 2012-11
+published: 2018-04-17

@@ -1,0 +1,97 @@
+name: Diamond-Blackfan anemia
+ghr-page: https://ghr.nlm.nih.gov/condition/diamond-blackfan-anemia
+text/text-role: description
+text/html: <p>Diamond-Blackfan anemia is a disorder of the bone marrow. The major function of bone marrow is to produce new blood cells. In Diamond-Blackfan anemia, the bone marrow malfunctions and fails to make enough red blood cells, which carry oxygen to the body's tissues. The resulting shortage of red blood cells (anemia) usually becomes apparent during the first year of life. Symptoms of anemia include fatigue, weakness, and an abnormally pale appearance (pallor).</p><p>People with Diamond-Blackfan anemia have an increased risk of several serious complications related to their malfunctioning bone marrow. Specifically, they have a higher-than-average chance of developing myelodysplastic syndrome (MDS), which is a disorder in which immature blood cells fail to develop normally. Affected individuals also have an increased risk of developing certain cancers, including a cancer of blood-forming tissue known as acute myeloid leukemia (AML) and a type of bone cancer called osteosarcoma.</p><p>Approximately half of individuals with Diamond-Blackfan anemia have physical abnormalities. They may have an unusually small head size (microcephaly) and a low frontal hairline, along with distinctive facial features such as wide-set eyes (hypertelorism); droopy eyelids (ptosis); a broad, flat bridge of the nose; small, low-set ears; and a small lower jaw (micrognathia). Affected individuals may also have an opening in the roof of the mouth (cleft palate) with or without a split in the upper lip (cleft lip). They may have a short, webbed neck; shoulder blades which are smaller and higher than usual; and abnormalities of their hands, most commonly malformed or absent thumbs. About one-third of affected individuals have slow growth leading to short stature.</p><p>Other features of Diamond-Blackfan anemia may include eye problems such as clouding of the lens of the eyes (cataracts), increased pressure in the eyes (glaucoma), or eyes that do not look in the same direction (strabismus). Affected individuals may also have kidney abnormalities; structural defects of the heart; and, in males, the opening of the urethra on the underside of the penis (hypospadias).</p><p>The severity of Diamond-Blackfan anemia may vary, even within the same family. Increasingly, individuals with "non-classical" Diamond-Blackfan anemia have been identified. This form of the disorder typically has less severe symptoms that may include mild anemia beginning in adulthood.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: RPL5
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/RPL5
+related-gene(2)/gene-symbol: RPL11
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/RPL11
+related-gene(3)/gene-symbol: RPL35A
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/RPL35A
+related-gene(4)/gene-symbol: RPS7
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/RPS7
+related-gene(5)/gene-symbol: RPS10
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/RPS10
+related-gene(6)/gene-symbol: RPS17
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/RPS17
+related-gene(7)/gene-symbol: RPS19
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/RPS19
+related-gene(8)/gene-symbol: RPS24
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/RPS24
+related-gene(9)/gene-symbol: RPS26
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/RPS26
+synonym(1): Aase-Smith syndrome II
+synonym(2): Aase syndrome
+synonym(3): BDA
+synonym(4): BDS
+synonym(5): Blackfan Diamond anemia
+synonym(6): Blackfan-Diamond disease
+synonym(7): Blackfan-Diamond syndrome
+synonym(8): chronic congenital agenerative anemia
+synonym(9): congenital erythroid hypoplastic anemia
+synonym(10): congenital hypoplastic anemia of Blackfan and Diamond
+synonym(11): congenital pure red cell anemia
+synonym(12): congenital pure red cell aplasia
+synonym(13): DBA
+synonym(14): erythrogenesis imperfecta
+synonym(15): hypoplastic congenital anemia
+synonym(16): inherited erythroblastopenia
+synonym(17): pure hereditary red cell aplasia
+db-key(1)/db: GTR
+db-key(1)/key: C0265265
+db-key(2)/db: GTR
+db-key(2)/key: C1260899
+db-key(3)/db: GTR
+db-key(3)/key: C1853666
+db-key(4)/db: GTR
+db-key(4)/key: C1857719
+db-key(5)/db: GTR
+db-key(5)/key: C2675511
+db-key(6)/db: GTR
+db-key(6)/key: C2675512
+db-key(7)/db: GTR
+db-key(7)/key: C2675859
+db-key(8)/db: GTR
+db-key(8)/key: C2675860
+db-key(9)/db: GTR
+db-key(9)/key: C2750080
+db-key(10)/db: GTR
+db-key(10)/key: C2750081
+db-key(11)/db: GeneReviews
+db-key(11)/key: diamond-b
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: D61.01
+db-key(13)/db: MeSH
+db-key(13)/key: D029503
+db-key(14)/db: OMIM
+db-key(14)/key: 105650
+db-key(15)/db: OMIM
+db-key(15)/key: 606129
+db-key(16)/db: OMIM
+db-key(16)/key: 610629
+db-key(17)/db: OMIM
+db-key(17)/key: 612527
+db-key(18)/db: OMIM
+db-key(18)/key: 612528
+db-key(19)/db: OMIM
+db-key(19)/key: 612561
+db-key(20)/db: OMIM
+db-key(20)/key: 612562
+db-key(21)/db: OMIM
+db-key(21)/key: 612563
+db-key(22)/db: OMIM
+db-key(22)/key: 613308
+db-key(23)/db: OMIM
+db-key(23)/key: 613309
+db-key(24)/db: Orphanet
+db-key(24)/key: 124
+db-key(25)/db: SNOMED CT
+db-key(25)/key: 191240007
+db-key(26)/db: SNOMED CT
+db-key(26)/key: 71988008
+db-key(27)/db: SNOMED CT
+db-key(27)/key: 88854002
+reviewed: 2012-02
+published: 2018-04-17

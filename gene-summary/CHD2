@@ -1,0 +1,19 @@
+gene-symbol: CHD2
+name: chromodomain helicase DNA binding protein 2
+ghr-page: https://ghr.nlm.nih.gov/gene/CHD2
+text/text-role: function
+text/html: <p>The <i>CHD2</i> gene provides instructions for making a protein called chromodomain DNA helicase protein 2. This protein is found in cells throughout the body and regulates gene activity (expression) through a process known as chromatin remodeling. Chromatin is the complex of DNA and proteins that packages DNA into chromosomes. The structure of chromatin can be changed (remodeled) to alter how tightly DNA is packaged. When DNA is tightly packed, gene expression is lower than when DNA is loosely packed. Chromodomain DNA helicase protein 2 appears to play an important role in the brain, although its function is not well understood. Research suggests that it may help control development or functioning of nerve cells (neurons).</p>
+related-health-condition(1)/name: autism spectrum disorder
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autism-spectrum-disorder
+related-health-condition(2)/name: CHD2 myoclonic encephalopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/chd2-myoclonic-encephalopathy
+synonym(1): ATP-dependent helicase CHD2
+synonym(2): CHD-2
+synonym(3): EEOC
+synonym(4): FLJ38614
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1106
+db-key(2)/db: OMIM
+db-key(2)/key: 602119
+reviewed: 2017-06
+published: 2018-04-17

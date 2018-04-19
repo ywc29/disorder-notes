@@ -1,0 +1,22 @@
+gene-symbol: ETFA
+name: electron transfer flavoprotein alpha subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/ETFA
+text/text-role: function
+text/html: <p>The <i>ETFA</i> gene provides instructions for making one part (the alpha subunit) of an enzyme called electron transfer flavoprotein. This enzyme is normally active in the mitochondria, the energy-producing centers in cells. Electron transfer flavoprotein is involved in the process by which fats and proteins are broken down to produce energy.</p>
+related-health-condition/name: glutaric acidemia type II
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glutaric-acidemia-type-ii
+synonym(1): electron transfer flavoprotein alpha-subunit
+synonym(2): electron-transfer-flavoprotein, alpha polypeptide
+synonym(3): Electron transfer flavoprotein, alpha polypeptide
+synonym(4): electron-transfer-flavoprotein, alpha polypeptide (glutaric aciduria II)
+synonym(5): electron-transferring-flavoprotein, alpha polypeptide (glutaric aciduria II)
+synonym(6): EMA
+synonym(7): ETFA_HUMAN
+synonym(8): GA2
+synonym(9): MADD
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2108
+db-key(2)/db: OMIM
+db-key(2)/key: 608053
+reviewed: 2008-07
+published: 2018-04-17

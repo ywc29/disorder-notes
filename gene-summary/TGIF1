@@ -1,0 +1,25 @@
+gene-symbol: TGIF1
+name: TGFB induced factor homeobox 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TGIF1
+text/text-role: function
+text/html: <p>The <i>TGIF1</i> gene provides instructions for making a protein called TG-interacting factor. This protein is important for normal development of the front part of the brain (forebrain). TG-interacting factor is a transcription factor, which means that it regulates the activity of certain genes. This protein turns off genes by attaching (binding) to specific regions of DNA or by interacting with other DNA-binding proteins.</p><p>TG-interacting factor regulates signaling pathways that are important for embryonic development. This protein blocks the signals of the transforming growth factor beta (TGF-β) pathway. This signaling pathway transmits chemical signals from the cell surface to the nucleus, which allows the environment outside the cell to affect how the cell produces other proteins. TG-interacting factor also blocks a molecule called retinoic acid from regulating gene activity. Retinoic acid, a form of vitamin A, binds to a group of transcription factors that regulate a number of genes important for early development. By blocking these signaling pathways, TG-interacting factor ensures that certain genes are turned off at the proper time.</p>
+related-health-condition/name: nonsyndromic holoprosencephaly
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-holoprosencephaly
+synonym(1): 5'-TG-3' interacting factor
+synonym(2): 5'-TG-3'-interacting factor 1
+synonym(3): homeobox protein TGIF
+synonym(4): homeobox protein TGIF1
+synonym(5): HPE4
+synonym(6): MGC5066
+synonym(7): MGC39747
+synonym(8): TALE homeobox TG-interacting factor
+synonym(9): TGFB-induced factor homeobox 1
+synonym(10): TGIF
+synonym(11): TGIF1_HUMAN
+synonym(12): transforming growth factor-beta-induced factor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7050
+db-key(2)/db: OMIM
+db-key(2)/key: 602630
+reviewed: 2010-09
+published: 2018-04-17

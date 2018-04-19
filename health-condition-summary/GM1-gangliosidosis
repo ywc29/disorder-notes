@@ -1,0 +1,41 @@
+name: GM1 gangliosidosis
+ghr-page: https://ghr.nlm.nih.gov/condition/gm1-gangliosidosis
+text/text-role: description
+text/html: <p>GM1 gangliosidosis is an inherited disorder that progressively destroys nerve cells (neurons) in the brain and spinal cord. Some researchers classify this condition into three major types based on the age at which signs and symptoms first appear. Although the three types differ in severity, their features can overlap significantly. Because of this overlap, other researchers believe that GM1 gangliosidosis represents a continuous disease spectrum instead of three distinct types.</p><p>The signs and symptoms of the most severe form of GM1 gangliosidosis, called type I or the infantile form, usually become apparent by the age of 6 months. Infants with this form of the disorder typically appear normal until their development slows and muscles used for movement weaken. Affected infants eventually lose the skills they had previously acquired (developmentally regress) and may develop an exaggerated startle reaction to loud noises. As the disease progresses, children with GM1 gangliosidosis type I develop an enlarged liver and spleen (hepatosplenomegaly), skeletal abnormalities, seizures, profound intellectual disability, and clouding of the clear outer covering of the eye (the cornea). Loss of vision occurs as the light-sensing tissue at the back of the eye (the retina) gradually deteriorates. An eye abnormality called a cherry-red spot, which can be identified with an eye examination, is characteristic of this disorder. In some cases, affected individuals have distinctive facial features that are described as "coarse," enlarged gums (gingival hypertrophy), and an enlarged and weakened heart muscle (cardiomyopathy). Individuals with GM1 gangliosidosis type I usually do not survive past early childhood.</p><p>Type II GM1 gangliosidosis consists of intermediate forms of the condition, also known as the late infantile and juvenile forms. Children with GM1 gangliosidosis type II have normal early development, but they begin to develop signs and symptoms of the condition around the age of 18 months (late infantile form) or 5 years (juvenile form). Individuals with GM1 gangliosidosis type II experience developmental regression but usually do not have cherry-red spots, distinctive facial features, or enlarged organs. Type II usually progresses more slowly than type I, but still causes a shortened life expectancy. People with the late infantile form typically survive into mid-childhood, while those with the juvenile form may live into early adulthood.</p><p>The third type of GM1 gangliosidosis is known as the adult or chronic form, and it represents the mildest end of the disease spectrum. The age at which symptoms first appear varies in GM1 gangliosidosis type III, although most affected individuals develop signs and symptoms in their teens. The characteristic features of this type include involuntary tensing of various muscles (dystonia) and abnormalities of the spinal bones (vertebrae). Life expectancy varies among people with GM1 gangliosidosis type III.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: GLB1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GLB1
+synonym: beta-galactosidase-1 (GLB1) deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0085131
+db-key(2)/db: GTR
+db-key(2)/key: C0268271
+db-key(3)/db: GTR
+db-key(3)/key: C0268272
+db-key(4)/db: GTR
+db-key(4)/key: C0268273
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: E75.19
+db-key(6)/db: MeSH
+db-key(6)/key: D016537
+db-key(7)/db: OMIM
+db-key(7)/key: 230500
+db-key(8)/db: OMIM
+db-key(8)/key: 230600
+db-key(9)/db: OMIM
+db-key(9)/key: 230650
+db-key(10)/db: Orphanet
+db-key(10)/key: 354
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 124465002
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 18756002
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 238025006
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 238026007
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 238027003
+reviewed: 2013-08
+published: 2018-04-17

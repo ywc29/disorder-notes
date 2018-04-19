@@ -1,0 +1,30 @@
+name: Prolidase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/prolidase-deficiency
+text/text-role: description
+text/html: <p>Prolidase deficiency is a disorder that causes a wide variety of symptoms. The disorder typically becomes apparent during infancy. Affected individuals may have enlargement of the spleen (splenomegaly); in some cases, both the spleen and liver are enlarged (hepatosplenomegaly). Diarrhea, vomiting, and dehydration may also occur. People with prolidase deficiency are susceptible to severe infections of the skin or ears, or potentially life-threatening respiratory tract infections. Some individuals with prolidase deficiency have chronic lung disease.</p><p>Characteristic facial features in people with prolidase deficiency include prominent eyes that are widely spaced (hypertelorism), a high forehead, a flat bridge of the nose, and a very small lower jaw and chin (micrognathia). Affected children may experience delayed development, and about 75 percent of people with prolidase deficiency have intellectual disability that may range from mild to severe.</p><p>People with prolidase deficiency often develop skin lesions, especially on their hands, feet, lower legs, and face. The severity of the skin involvement, which usually begins during childhood, may range from a mild rash to severe skin ulcers. Skin ulcers, especially on the legs, may not heal completely, resulting in complications including infection and amputation.</p><p>The severity of symptoms in prolidase deficiency varies greatly among affected individuals. Some people with this disorder do not have any symptoms. In these individuals the condition can be detected by laboratory tests such as newborn screening tests or tests offered to relatives of affected individuals.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: PEPD
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PEPD
+synonym(1): hyperimidodipeptiduria
+synonym(2): imidodipeptidase deficiency
+synonym(3): PD
+synonym(4): peptidase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0268532
+db-key(2)/db: GeneReviews
+db-key(2)/key: prolidase-def
+db-key(3)/db: MeSH
+db-key(3)/key: D056732
+db-key(4)/db: OMIM
+db-key(4)/key: 170100
+db-key(5)/db: Orphanet
+db-key(5)/key: 742
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 360969006
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 360994007
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 410055005
+reviewed: 2012-02
+published: 2018-04-17

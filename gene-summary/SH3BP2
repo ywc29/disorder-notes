@@ -1,0 +1,21 @@
+gene-symbol: SH3BP2
+name: SH3 domain binding protein 2
+ghr-page: https://ghr.nlm.nih.gov/gene/SH3BP2
+text/text-role: function
+text/html: <p>The <i>SH3BP2</i> gene provides instructions for making a protein whose exact function is unclear, although it is known to interact with other proteins within cells.  The SH3BP2 protein plays a role in transmitting chemical signals, particularly in certain immune system cells and cells involved in the replacement of old bone tissue with new bone (bone remodeling).</p><p>Studies suggest that the SH3BP2 protein helps regulate signaling pathways that activate immune system cells called B cells and macrophages.  The protein is also involved in the production of osteoclasts, which are specialized cells that break down bone tissue when it is no longer needed.  Osteoclasts play a central role in bone remodeling.</p>
+related-health-condition/name: cherubism
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cherubism
+synonym(1): 3BP-2
+synonym(2): 3BP2
+synonym(3): 3BP2_HUMAN
+synonym(4): CRBM
+synonym(5): CRPM
+synonym(6): FLJ42079
+synonym(7): RES4-23
+synonym(8): SH3-domain binding protein 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6452
+db-key(2)/db: OMIM
+db-key(2)/key: 602104
+reviewed: 2007-04
+published: 2018-04-17

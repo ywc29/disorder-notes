@@ -1,0 +1,32 @@
+name: Sturge-Weber syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/sturge-weber-syndrome
+text/text-role: description
+text/html: <p>Sturge-Weber syndrome is a condition that affects the development of certain blood vessels, causing abnormalities in the brain, skin, and eyes. Sturge-Weber syndrome has three major features: a red or pink birthmark called a port-wine birthmark, a brain abnormality called a leptomeningeal angioma, and increased pressure in the eye (glaucoma). Not all individuals with Sturge-Weber syndrome have all three features.</p><p>Most people with Sturge-Weber syndrome are born with a port-wine birthmark. This type of birthmark is caused by enlargement (dilatation) of small blood vessels (capillaries) near the surface of the skin. Port-wine birthmarks are typically initially flat and can vary in color from pale pink to deep purple. In people with Sturge-Weber syndrome, the port-wine birthmark is on the face, typically on the forehead, temple, or eyelid. The port-wine birthmark is usually only on one side of the face but can be on both sides.</p><p>In Sturge-Weber syndrome, there is usually abnormal formation and growth of blood vessels within the two thin layers of tissue that cover the brain and spinal cord. This abnormality, which is called leptomeningeal angioma, can impair blood flow in the brain and lead to loss of brain tissue (atrophy) and deposits of calcium (calcification) in the brain below the angioma. The decrease in blood flow caused by leptomeningeal angiomas can cause stroke-like episodes in people with Sturge-Weber syndrome. These episodes often involve temporary muscle weakness on one side of the body (hemiparesis), vision abnormalities, seizures, and migraine headaches. In affected individuals, these episodes usually begin by age 2. The seizures usually involve only one side of the brain (focal seizures), during which the port-wine birthmark may darken and individuals may lose consciousness. People with Sturge-Weber syndrome have varying levels of cognitive function, from normal intelligence to intellectual disability.</p><p>In individuals with Sturge-Weber syndrome, glaucoma typically develops either in infancy or early adulthood and can cause vision impairment. In some affected infants, the pressure can become so great that the eyeballs appear enlarged and bulging (buphthalmos). Individuals with Sturge-Weber syndrome can have tangles of abnormal blood vessels (hemangiomas) in various parts of the eye. When these abnormal blood vessels develop in the network of blood vessels at the back of the eye (choroid), it is called a diffuse choroidal hemangioma and occurs in about one-third of individuals with Sturge-Weber syndrome. A diffuse choroidal hemangioma can cause vision loss. When present, the eye abnormalities typically occur on the same side of the head as the port-wine birthmark.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene/gene-symbol: GNAQ
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GNAQ
+synonym(1): angiomatosis aculoorbital-thalamic syndrome
+synonym(2): encephalofacial hemangiomatosis
+synonym(3): encephalofacial hemangiomatosis syndrome
+synonym(4): meningo-oculo-facial angiomatosis
+synonym(5): meningofacial angiomatosis-cerebral calcification syndrome
+synonym(6): neuroretinoangiomatosis
+synonym(7): phakomatosis, Sturge-Weber
+synonym(8): Sturge-Weber-Dimitri syndrome
+synonym(9): Sturge-Weber-Krabbe syndrome
+synonym(10): SWS
+db-key(1)/db: GTR
+db-key(1)/key: C0038505
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: Q85.8
+db-key(3)/db: MeSH
+db-key(3)/key: D013341
+db-key(4)/db: OMIM
+db-key(4)/key: 185300
+db-key(5)/db: Orphanet
+db-key(5)/key: 3205
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 19886006
+reviewed: 2017-02
+published: 2018-04-17

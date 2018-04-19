@@ -1,0 +1,18 @@
+gene-symbol: PCCB
+name: propionyl-CoA carboxylase beta subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/PCCB
+text/text-role: function
+text/html: <p>The <i>PCCB</i> gene provides instructions for making part of an enzyme called propionyl-CoA carboxylase, specifically, the beta subunit of this enzyme. Six beta subunits come together with six alpha subunits (produced from the <i>PCCA</i> gene) to form a functioning enzyme.</p><p>Propionyl-CoA carboxylase plays a role in the normal processing of proteins. It carries out a particular step in the breakdown of several protein building blocks (amino acids) called isoleucine, methionine, threonine, and valine. Propionyl-CoA carboxylase also helps break down certain types of lipids (fats) and cholesterol. First, several chemical reactions convert the amino acids, lipids, or cholesterol to a molecule called propionyl-CoA. Using the B vitamin biotin, propionyl-CoA carboxylase then converts propionyl-CoA to a molecule called methylmalonyl-CoA. Additional enzymes break down methylmalonyl-CoA into other molecules that are used for energy.</p>
+related-health-condition/name: propionic acidemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/propionic-acidemia
+synonym(1): PCCase beta subunit
+synonym(2): PCCB_HUMAN
+synonym(3): propanoyl-CoA:carbon dioxide ligase beta subunit
+synonym(4): propionyl CoA carboxylase, beta polypeptide
+synonym(5): propionyl-CoA carboxylase, beta subunit
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5096
+db-key(2)/db: OMIM
+db-key(2)/key: 232050
+reviewed: 2018-02
+published: 2018-04-17

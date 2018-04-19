@@ -1,0 +1,53 @@
+name: Craniofacial microsomia
+ghr-page: https://ghr.nlm.nih.gov/condition/craniofacial-microsomia
+text/text-role: description
+text/html: <p>Craniofacial microsomia is a term used to describe a spectrum of abnormalities that primarily affect the development of the skull (cranium) and face before birth. Microsomia means abnormal smallness of body structures. Most people with craniofacial microsomia have differences in the size and shape of facial structures between the right and left sides of the face (facial asymmetry). In about two-thirds of cases, both sides of the face have abnormalities, which usually differ from one side to the other. Other individuals with craniofacial microsomia are affected on only one side of the face. The facial characteristics in craniofacial microsomia typically include underdevelopment of one side of the upper or lower jaw (maxillary or mandibular hypoplasia), which can cause dental problems and difficulties with feeding and speech. In cases of severe mandibular hypoplasia, breathing may also be affected.</p><p>People with craniofacial microsomia usually have ear abnormalities affecting one or both ears, typically to different degrees. They may have growths of skin (skin tags) in front of the ear (preauricular tags), an underdeveloped or absent external ear (microtia or anotia), or a closed or absent ear canal; these abnormalities may lead to hearing loss. Eye problems are less common in craniofacial microsomia, but some affected individuals have an unusually small eyeball (microphthalmia) or other eye abnormalities that result in vision loss.</p><p>Abnormalities in other parts of the body, such as malformed bones of the spine (vertebrae), abnormally shaped kidneys, and heart defects, may also occur in people with craniofacial microsomia.</p><p>Many other terms have been used for craniofacial microsomia. These other names generally refer to forms of craniofacial microsomia with specific combinations of signs and symptoms, although sometimes they are used interchangeably. Hemifacial microsomia often refers to craniofacial microsomia with maxillary or mandibular hypoplasia. People with hemifacial microsomia and noncancerous (benign) growths in the eye called epibulbar dermoids may be said to have Goldenhar syndrome or oculoauricular dysplasia.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+synonym(1): asymmetric hypoplasia of facial structures
+synonym(2): auriculobranchiogenic dysplasia
+synonym(3): CFM
+synonym(4): facioauriculovertebral dysplasia
+synonym(5): FAV
+synonym(6): first and second branchial arch syndrome
+synonym(7): first and second pharyngeal arch syndromes
+synonym(8): Goldenhar-Gorlin syndrome
+synonym(9): Goldenhar syndrome
+synonym(10): hemifacial microsomia
+synonym(11): HFM
+synonym(12): lateral facial dysplasia
+synonym(13): OAV complex
+synonym(14): OAVS
+synonym(15): oculoauriculovertebral spectrum
+synonym(16): oral-mandibular-auricular syndrome
+synonym(17): otomandibular dysostosis
+synonym(18): unilateral intrauterine facial necrosis
+synonym(19): unilateral mandibulofacial dysostosis
+db-key(1)/db: GTR
+db-key(1)/key: C0265240
+db-key(2)/db: GeneReviews
+db-key(2)/key: m-hfm-ov
+db-key(3)/db: MeSH
+db-key(3)/key: D006053
+db-key(4)/db: MeSH
+db-key(4)/key: D019465
+db-key(5)/db: OMIM
+db-key(5)/key: 164210
+db-key(6)/db: Orphanet
+db-key(6)/key: 374
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 109393007
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 205418005
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 254025006
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 254026007
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 367462009
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 703973009
+reviewed: 2012-03
+published: 2018-04-17

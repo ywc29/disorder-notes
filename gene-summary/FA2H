@@ -1,0 +1,23 @@
+gene-symbol: FA2H
+name: fatty acid 2-hydroxylase
+ghr-page: https://ghr.nlm.nih.gov/gene/FA2H
+text/text-role: function
+text/html: <p>The <i>FA2H</i> gene provides instructions for making an enzyme called fatty acid 2-hydroxylase. This enzyme modifies fatty acids, which are building blocks used to make fats (lipids). Specifically, fatty acid 2-hydroxylase adds a single oxygen atom to a hydrogen atom at a particular point on a fatty acid to create a 2-hydroxylated fatty acid. Certain 2-hydroxylated fatty acids are important in forming normal myelin; myelin is the protective covering that insulates nerves and ensures the rapid transmission of nerve impulses. The part of the brain and spinal cord that contains myelin is called white matter.</p>
+related-health-condition/name: fatty acid hydroxylase-associated neurodegeneration
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/fatty-acid-hydroxylase-associated-neurodegeneration
+synonym(1): FA2H_HUMAN
+synonym(2): FAAH
+synonym(3): FAH1
+synonym(4): fatty acid alpha-hydroxylase
+synonym(5): fatty acid hydroxylase domain containing 1
+synonym(6): FAXDC1
+synonym(7): FLJ25287
+synonym(8): SCS7
+synonym(9): spastic paraplegia 35 (autosomal recessive)
+synonym(10): SPG35
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 79152
+db-key(2)/db: OMIM
+db-key(2)/key: 611026
+reviewed: 2012-10
+published: 2018-04-17

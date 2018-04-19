@@ -1,0 +1,31 @@
+gene-symbol: ABCC9
+name: ATP binding cassette subfamily C member 9
+ghr-page: https://ghr.nlm.nih.gov/gene/ABCC9
+text/text-role: function
+text/html: <p>The <i>ABCC9</i> gene provides instructions for making the sulfonylurea receptor 2 (SUR2) protein. This protein forms one part (subunit) of a channel that transports charged atoms of potassium (potassium ions) across cell membranes.  Each of these channels consists of eight subunits: four SUR2 proteins and four proteins produced from either the <i>KCNJ8</i> or <i>KCNJ11</i> gene. The SUR2 subunits regulate the activity of the channel, determining whether it is open or closed.</p><p>Channels made with the SUR2 protein are known as ATP-sensitive potassium (K-ATP) channels. The channels open and close in response to the amount of ATP, the cell's main energy source, inside the cell. The resulting transport of potassium ions is part of a complex network of signals that relay chemical messages into and out of cells.</p><p>Although K-ATP channels are present in cells and tissues throughout the body, the highest levels of SUR2-containing channels are found in skeletal and heart (cardiac) muscle. These channels indirectly help regulate the concentration of calcium ions in cells. This regulation is essential for normal heart function. The function of these channels in other tissues is unclear.</p>
+related-health-condition(1)/name: Cantú syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cantu-syndrome
+related-health-condition(2)/name: familial atrial fibrillation
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-atrial-fibrillation
+related-health-condition(3)/name: familial dilated cardiomyopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+synonym(1): ABC37
+synonym(2): ABCC9_HUMAN
+synonym(3): ATFB12
+synonym(4): ATP-binding cassette sub-family C member 9
+synonym(5): ATP-binding cassette sub-family C member 9 isoform SUR2A
+synonym(6): ATP-binding cassette sub-family C member 9 isoform SUR2B
+synonym(7): ATP-binding cassette transporter sub-family C member 9
+synonym(8): ATP-binding cassette, sub-family C (CFTR/MRP), member 9
+synonym(9): CANTU
+synonym(10): CMD1O
+synonym(11): sulfonylurea receptor 2
+synonym(12): SUR2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10060
+db-key(2)/db: OMIM
+db-key(2)/key: 601439
+db-key(3)/db: OMIM
+db-key(3)/key: 608569
+reviewed: 2013-01
+published: 2018-04-17

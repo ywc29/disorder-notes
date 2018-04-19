@@ -1,0 +1,33 @@
+name: Anhidrotic ectodermal dysplasia with immune deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/anhidrotic-ectodermal-dysplasia-with-immune-deficiency
+text/text-role: description
+text/html: <p>Anhidrotic ectodermal dysplasia with immune deficiency (EDA-ID) is a form of ectodermal dysplasia, which is a group of conditions characterized by abnormal development of ectodermal tissues including the skin, hair, teeth, and sweat glands. In addition, immune system function is reduced in people with EDA-ID. The signs and symptoms of EDA-ID are evident soon after birth, and due to the severity of the immune system problems, most people with this condition survive only into childhood.</p><p>Skin abnormalities in children with EDA-ID include areas that are dry, wrinkled, or darker in color than the surrounding skin. Affected individuals tend to have sparse scalp and body hair (hypotrichosis). EDA-ID is also characterized by missing teeth (hypodontia) or teeth that are small and pointed. Most children with EDA-ID have a reduced ability to sweat (hypohidrosis) because they have fewer sweat glands than normal or their sweat glands do not function properly. An inability to sweat (anhidrosis) can lead to a dangerously high body temperature (hyperthermia), particularly in hot weather and during exercise, because the body cannot cool itself by evaporating sweat.</p><p>The immune deficiency in EDA-ID varies among individuals with this condition. Children with EDA-ID often produce abnormally low levels of proteins called antibodies or immunoglobulins. Antibodies help protect the body against infection by attaching to specific foreign particles and germs, marking them for destruction. A reduction in antibodies makes it difficult for children with this disorder to fight off infections. In EDA-ID, immune system cells called T cells and B cells have a decreased ability to recognize and respond to foreign invaders (such as bacteria, viruses, and yeast) that have sugar molecules attached to their surface (glycan antigens). Other key aspects of the immune system may also be impaired, leading to recurrent infections.</p><p>Children with EDA-ID commonly get infections in the lungs (pneumonia), ears (otitis media), sinuses (sinusitis), lymph nodes (lymphadenitis), skin, bones, and gastrointestinal tract. Approximately one quarter of individuals with EDA-ID have disorders involving abnormal inflammation, such as inflammatory bowel disease or rheumatoid arthritis.</p><p>There are two forms of EDA-ID that have similar signs and symptoms and are distinguished by the modes of inheritance: X-linked recessive or autosomal dominant.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: xr
+inheritance-pattern(2)/memo: X-linked recessive
+related-gene(1)/gene-symbol: IKBKG
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/IKBKG
+related-gene(2)/gene-symbol: NFKBIA
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/NFKBIA
+synonym(1): ectodermal dysplasia, hypohidrotic, with immune deficiency
+synonym(2): EDA-ID
+synonym(3): HED-ID
+synonym(4): hyper-IgM immunodeficiency with hypohidrotic ectodermal dysplasia
+synonym(5): hypohidrotic ectodermal dysplasia with immune deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1846006
+db-key(2)/db: GTR
+db-key(2)/key: C1846007
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q82.4
+db-key(4)/db: MeSH
+db-key(4)/key: D053358
+db-key(5)/db: OMIM
+db-key(5)/key: 300291
+db-key(6)/db: Orphanet
+db-key(6)/key: 98813
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 703525006
+reviewed: 2017-03
+published: 2018-04-17

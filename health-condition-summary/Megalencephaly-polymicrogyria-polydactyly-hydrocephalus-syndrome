@@ -1,0 +1,44 @@
+name: Megalencephaly-polymicrogyria-polydactyly-hydrocephalus syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/megalencephaly-polymicrogyria-polydactyly-hydrocephalus-syndrome
+text/text-role: description
+text/html: <p>Megalencephaly-polymicrogyria-polydactyly-hydrocephalus (MPPH) syndrome is a rare disorder that primarily affects the development of the brain. Affected individuals are born with an unusually large brain and head size (megalencephaly). The head and brain continue to grow rapidly during the first 2 years of life. MPPH syndrome is also associated with a brain abnormality called bilateral perisylvian polymicrogyria (BPP). The surface of the brain normally has many ridges or folds, called gyri. In people with BPP, an area of the brain called the perisylvian region develops too many gyri, and the folds are irregular and unusually small. Other brain abnormalities, including a buildup of fluid in the brain (hydrocephalus), have also been reported in people with MPPH syndrome.</p><p>The problems with brain development cause a variety of neurological signs and symptoms. People with MPPH syndrome have delayed development and intellectual disability that ranges from mild to severe. About half of affected individuals develop recurrent seizures (epilepsy) beginning early in childhood. People with MPPH syndrome also have difficulty coordinating movements of the mouth and tongue (known as oromotor dysfunction), which leads to drooling, difficulty swallowing (dysphagia), and a delay in the production of speech (expressive language).</p><p>About half of people with MPPH syndrome have an extra finger or toe on one or more of their hands or feet (polydactyly). The polydactyly is described as postaxial because it occurs on the same side of the hand or foot as the pinky finger or little toe.</p><p>The brain abnormalities characteristic of MPPH syndrome are also found in a closely related condition called megalencephaly-capillary malformation syndrome (MCAP). However, MCAP includes abnormalities of small blood vessels in the skin (capillary malformations) and several other features that are not usually part of MPPH syndrome.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: AKT3
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AKT3
+related-gene(2)/gene-symbol: CCND2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CCND2
+related-gene(3)/gene-symbol: PIK3R2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PIK3R2
+synonym(1): MEG-PMG-POLY-HYD
+synonym(2): megalencephaly-postaxial polydactyly-polymicrogyria-hydrocephalus syndrome
+synonym(3): MPPH
+synonym(4): MPPH syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1863924
+db-key(2)/db: GTR
+db-key(2)/key: C4014738
+db-key(3)/db: GTR
+db-key(3)/key: C4014742
+db-key(4)/db: GeneReviews
+db-key(4)/key: mpph
+db-key(5)/db: MeSH
+db-key(5)/key: D006849
+db-key(6)/db: MeSH
+db-key(6)/key: D017689
+db-key(7)/db: MeSH
+db-key(7)/key: D058627
+db-key(8)/db: MeSH
+db-key(8)/key: D065706
+db-key(9)/db: OMIM
+db-key(9)/key: 603387
+db-key(10)/db: OMIM
+db-key(10)/key: 615937
+db-key(11)/db: OMIM
+db-key(11)/key: 615938
+db-key(12)/db: Orphanet
+db-key(12)/key: 83473
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 722036008
+reviewed: 2017-01
+published: 2018-04-17

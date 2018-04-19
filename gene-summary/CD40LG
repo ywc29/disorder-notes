@@ -1,0 +1,28 @@
+gene-symbol: CD40LG
+name: CD40 ligand
+ghr-page: https://ghr.nlm.nih.gov/gene/CD40LG
+text/text-role: function
+text/html: <p>The <i>CD40LG</i> gene provides instructions for making a protein called CD40 ligand, which is found on the surface of immune system cells known as T cells. CD40 ligand attaches like a key in a lock to its receptor protein, CD40, which is located on the surface of immune system cells known as B cells. B cells are involved in the production of proteins called antibodies or immunoglobulins that help protect the body against infection. There are several classes of antibodies, and each one has a different function in the immune system. B cells are able to mature into the cells that produce immunoglobulin M (IgM) without any signals from other cells. In order for B cells to mature into the cells that produce antibodies of a different class, the CD40 receptor must interact with CD40 ligand. When these two proteins are connected, they trigger a series of chemical signals that instruct the B cell to start making immunoglobulin G (IgG), immunoglobulin A (IgA), and immunoglobulin E (IgE).</p><p>CD40 ligand is also necessary for T cells to interact with other cells of the immune system, and it plays a key role in T cell differentiation (the process by which cells mature to carry out specific functions).</p>
+related-health-condition/name: X-linked hyper IgM syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-hyper-igm-syndrome
+synonym(1): CD40 antigen ligand
+synonym(2): CD40L
+synonym(3): CD40L_HUMAN
+synonym(4): CD154
+synonym(5): gp39
+synonym(6): hCD40L
+synonym(7): HIGM1
+synonym(8): IGM
+synonym(9): IMD3
+synonym(10): T-B cell-activating molecule
+synonym(11): T-BAM
+synonym(12): TNF-related activation protein
+synonym(13): TNFSF5
+synonym(14): TRAP
+synonym(15): tumor necrosis factor (ligand) superfamily member 5
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 959
+db-key(2)/db: OMIM
+db-key(2)/key: 300386
+reviewed: 2008-10
+published: 2018-04-17

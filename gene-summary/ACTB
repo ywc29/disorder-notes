@@ -1,0 +1,20 @@
+gene-symbol: ACTB
+name: actin beta
+ghr-page: https://ghr.nlm.nih.gov/gene/ACTB
+text/text-role: function
+text/html: <p>The <i>ACTB</i> gene provides instructions for making a protein called beta (β)-actin, which is part of the actin protein family. Proteins in this family are organized into a network of fibers called the actin cytoskeleton, which makes up the structural framework inside cells. There are six types of actin; four are present only in muscle cells, where they are involved in the tensing of muscle fibers (muscle contraction). The other two actin proteins, β-actin and gamma (γ)-actin (produced from the <i>ACTG1</i> gene), are found in cells throughout the body. These proteins play important roles in determining cell shape and controlling cell movement (motility). Studies suggest that β-actin may also be involved in relaying chemical signals within cells.</p>
+related-health-condition/name: Baraitser-Winter syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/baraitser-winter-syndrome
+synonym(1): ACTB_HUMAN
+synonym(2): actin, beta
+synonym(3): actin, cytoplasmic 1
+synonym(4): beta cytoskeletal actin
+synonym(5): BRWS1
+synonym(6): PS1TP5-binding protein 1
+synonym(7): PS1TP5BP1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 60
+db-key(2)/db: OMIM
+db-key(2)/key: 102630
+reviewed: 2013-04
+published: 2018-04-17

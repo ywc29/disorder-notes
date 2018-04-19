@@ -1,0 +1,43 @@
+gene-symbol: EPCAM
+name: epithelial cell adhesion molecule
+ghr-page: https://ghr.nlm.nih.gov/gene/EPCAM
+text/text-role: function
+text/html: <p>The <i>EPCAM</i> gene provides instructions for making a protein known as epithelial cellular adhesion molecule (EpCAM). This protein is found in epithelial cells, which are the cells that line the surfaces and cavities of the body. The EpCAM protein is found spanning the membrane that surrounds epithelial cells, where it helps cells stick to one another (cell adhesion). In addition, the protein in the cell membrane can be cut at a specific location, releasing a piece called the intracellular domain (EpICD), which helps relay signals from outside the cell to the nucleus of the cell. EpICD travels to the nucleus and associates with other proteins, forming a group (complex) that regulates the activity of several genes that are involved in cell growth and division (proliferation), maturation (differentiation), and movement (migration), all of which are important processes for the proper development of cells and tissues.</p>
+related-health-condition/name: Lynch syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/lynch-syndrome
+synonym(1): 17-1A
+synonym(2): 323/A3
+synonym(3): CD326
+synonym(4): CO-17A
+synonym(5): EGP-2
+synonym(6): EGP34
+synonym(7): EGP40
+synonym(8): Ep-CAM
+synonym(9): epithelial cell adhesion molecule precursor
+synonym(10): epithelial glycoprotein 314
+synonym(11): ESA
+synonym(12): GA733-2
+synonym(13): HEA125
+synonym(14): human epithelial glycoprotein-2
+synonym(15): KS1/4
+synonym(16): KSA
+synonym(17): Ly74
+synonym(18): M4S1
+synonym(19): MH99
+synonym(20): MIC18
+synonym(21): MK-1
+synonym(22): MOC31
+synonym(23): TACST-1
+synonym(24): TACSTD1
+synonym(25): TROP1
+synonym(26): tumor-associated calcium signal transducer 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4072
+db-key(2)/db: OMIM
+db-key(2)/key: 185535
+db-key(3)/db: OMIM
+db-key(3)/key: 609309
+db-key(4)/db: OMIM
+db-key(4)/key: 613217
+reviewed: 2013-05
+published: 2018-04-17

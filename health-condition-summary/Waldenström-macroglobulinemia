@@ -1,0 +1,28 @@
+name: Waldenström macroglobulinemia
+ghr-page: https://ghr.nlm.nih.gov/condition/waldenstrom-macroglobulinemia
+text/text-role: description
+text/html: <p>Waldenström macroglobulinemia is a rare blood cell cancer characterized by an excess of abnormal white blood cells called lymphoplasmacytic cells in the bone marrow. This condition is classified as a lymphoplasmacytic lymphoma. The abnormal cells have characteristics of both white blood cells (lymphocytes) called B cells and of more mature cells derived from B cells known as plasma cells. These abnormal cells produce excess amounts of IgM, a type of protein known as an immunoglobulin; the overproduction of this large protein is how the condition got its name ("macroglobulinemia").</p><p>Waldenström macroglobulinemia usually begins in a person's sixties and is a slow-growing (indolent) cancer. Some affected individuals have elevated levels of IgM and lymphoplasmacytic cells but no symptoms of the condition; in these cases, the disease is usually found incidentally by a blood test taken for another reason. These individuals are diagnosed with smoldering (or asymptomatic) Waldenström macroglobulinemia. It can be several years before this form of the condition progresses to the symptomatic form.</p><p>Individuals with symptomatic Waldenström macroglobulinemia can experience general symptoms such as fever, night sweats, and weight loss. Several other signs and symptoms of the condition are related to the excess IgM, which can thicken blood and impair circulation, causing a condition known as hyperviscosity syndrome. Features related to hyperviscosity syndrome include bleeding in the nose or mouth, blurring or loss of vision, headache, dizziness, and difficulty coordinating movements (ataxia). In some affected individuals, the IgM proteins clump together in the hands and feet, where the body temperature is cooler than at the center of the body. These proteins are then referred to as cryoglobulins, and their clumping causes a condition known as cryoglobulinemia. Cryoglobulinemia can lead to pain in the hands and feet or episodes of Raynaud phenomenon, in which the fingers and toes turn white or blue in response to cold temperatures. The IgM protein can also build up in organs such as the heart and kidneys, causing a condition called amyloidosis, which can lead to heart and kidney problems. Some people with Waldenström macroglobulinemia develop a loss of sensation and weakness in the limbs (peripheral neuropathy). Doctors are unsure why this feature occurs, although they speculate that the IgM protein attaches to the protective covering of nerve cells (myelin) and breaks it down. The damaged nerves cannot carry signals normally, leading to neuropathy.</p><p>Other features of Waldenström macroglobulinemia are due to the accumulation of lymphoplasmacytic cells in different tissues. For example, accumulation of these cells can lead to an enlarged liver (hepatomegaly), spleen (splenomegaly), or lymph nodes (lymphadenopathy). In the bone marrow, the lymphoplasmacytic cells interfere with normal blood cell development, causing a shortage of normal blood cells (pancytopenia). Excessive tiredness (fatigue) due to a reduction in red blood cells (anemia) is common in affected individuals.</p><p>People with Waldenström macroglobulinemia have an increased risk of developing other cancers of the blood or other tissues.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: CXCR4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CXCR4
+related-gene(2)/gene-symbol: MYD88
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MYD88
+synonym(1): macroglobulinemia of Waldenstrom
+synonym(2): Waldenstrom macroglobulinemia
+synonym(3): Waldenstrom's macroglobulinemia
+synonym(4): WM
+db-key(1)/db: GTR
+db-key(1)/key: C1835192
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: C88.0
+db-key(3)/db: MeSH
+db-key(3)/key: D008258
+db-key(4)/db: OMIM
+db-key(4)/key: 153600
+db-key(5)/db: Orphanet
+db-key(5)/key: 33226
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 190818004
+reviewed: 2015-03
+published: 2018-04-17

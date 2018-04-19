@@ -1,0 +1,8 @@
+gene-symbol: PNOC
+name: prepronociceptin
+ghr-page: https://ghr.nlm.nih.gov/gene/PNOC
+related-health-condition/name: opioid addiction
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/opioid-addiction
+db-key/db: NCBI Gene
+db-key/key: 5368
+published: 2018-04-17

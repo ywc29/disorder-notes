@@ -1,0 +1,19 @@
+gene-symbol: GDAP1
+name: ganglioside induced differentiation associated protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/GDAP1
+text/text-role: function
+text/html: <p>The <i>GDAP1</i> gene provides instructions for making a protein called ganglioside-induced differentiation-associated protein 1.  This protein is found in the outer membrane of mitochondria, the energy-producing centers within cells.  Mitochondria are dynamic structures that change shape through processes called fission (splitting into smaller pieces) and fusion (combining pieces).  Changes in shape are thought to be critical for mitochondria to work properly.  Although the function of the GDAP1 protein is not well understood, it appears to play a role in controlling the shape of mitochondria by promoting fission.</p>
+related-health-condition/name: Charcot-Marie-Tooth disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+synonym(1): CMT2G
+synonym(2): CMT2K
+synonym(3): CMT4
+synonym(4): CMT4A
+synonym(5): ganglioside-induced differentiation-associated protein 1
+synonym(6): GDAP1_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 54332
+db-key(2)/db: OMIM
+db-key(2)/key: 606598
+reviewed: 2013-03
+published: 2018-04-17

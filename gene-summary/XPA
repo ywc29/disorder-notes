@@ -1,0 +1,17 @@
+gene-symbol: XPA
+name: XPA, DNA damage recognition and repair factor
+ghr-page: https://ghr.nlm.nih.gov/gene/XPA
+text/text-role: function
+text/html: <p>The <i>XPA</i> gene provides instructions for making a protein that is involved in repairing damaged DNA. DNA can be damaged by ultraviolet (UV) rays from the sun and by toxic chemicals, radiation, and unstable molecules called free radicals.</p><p>DNA damage occurs frequently, but normal cells are usually able to fix it before it can cause problems. One of the major mechanisms that cells use to fix DNA is known as nucleotide excision repair (NER). As part of this repair mechanism, the XPA protein helps verify DNA damage and stabilize the DNA as it is repaired. The XPA protein attaches (binds) to areas of damaged DNA, where it interacts with many other proteins as part of a large complex. Proteins in this complex unwind the section of DNA where the damage has occurred, snip out (excise) the abnormal section, and replace the damaged area with the correct DNA.</p>
+related-health-condition/name: xeroderma pigmentosum
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/xeroderma-pigmentosum
+synonym(1): xeroderma pigmentosum, complementation group A
+synonym(2): XP1
+synonym(3): XPA_HUMAN
+synonym(4): XPAC
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7507
+db-key(2)/db: OMIM
+db-key(2)/key: 611153
+reviewed: 2010-05
+published: 2018-04-17

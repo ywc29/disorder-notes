@@ -1,0 +1,26 @@
+gene-symbol: KRT6A
+name: keratin 6A
+ghr-page: https://ghr.nlm.nih.gov/gene/KRT6A
+text/text-role: function
+text/html: <p>The <i>KRT6A</i> gene provides instructions for making a protein called keratin 6a or K6a.  Keratins are a group of tough, fibrous proteins that form the structural framework of certain cells, particularly cells that make up the skin, hair, nails, and similar tissues.  Keratin 6a is produced in the nails, the skin on the palms of the hands and soles of the feet, and the oral mucosa that lines the inside of the mouth.</p><p>Keratin 6a partners with a similar protein, keratin 16, to form molecules called keratin intermediate filaments.  These filaments assemble into dense networks that provide strength and resilience to the skin, nails, and other tissues.  Networks of keratin intermediate filaments protect these tissues from being damaged by friction and other everyday physical stresses.  Keratin 6a is also among several keratins involved in wound healing.</p>
+related-health-condition/name: pachyonychia congenita
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pachyonychia-congenita
+synonym(1): 56 cytoskeletal type II keratin
+synonym(2): CK 6A
+synonym(3): CK6A
+synonym(4): CK6C
+synonym(5): CK6D
+synonym(6): cytokeratin-6A
+synonym(7): cytokeratin 6A
+synonym(8): K2C6A_HUMAN
+synonym(9): K6A
+synonym(10): K6C
+synonym(11): K6D
+synonym(12): keratin 6A, type II
+synonym(13): keratin, epidermal type II, K6A
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3853
+db-key(2)/db: OMIM
+db-key(2)/key: 148041
+reviewed: 2015-12
+published: 2018-04-17

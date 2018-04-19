@@ -1,0 +1,29 @@
+gene-symbol: FUS
+name: FUS RNA binding protein
+ghr-page: https://ghr.nlm.nih.gov/gene/FUS
+text/text-role: function
+text/html: <p>The <i>FUS</i> gene provides instructions for making a protein that is found within the cell nucleus in most tissues and is involved in many of the steps of protein production.</p><p>The FUS protein attaches (binds) to DNA and regulates an activity called transcription, which is the first step in the production of proteins from genes. The FUS protein is also involved in processing molecules called messenger RNA (mRNA), which serve as the genetic blueprints for making proteins. By cutting and rearranging mRNA molecules in different ways, the FUS protein controls the production of different versions of certain proteins. This process is known as alternative splicing. Once the FUS protein processes the mRNA, it transports the mRNA out of the nucleus where it gets taken up by other cell structures to be further processed into a mature protein. The FUS protein also helps repair errors in DNA, which prevents cells from accumulating genetic damage.</p>
+related-health-condition(1)/name: amyotrophic lateral sclerosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
+related-health-condition(2)/name: Ewing sarcoma
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/ewing-sarcoma
+synonym(1): ALS6
+synonym(2): ETM4
+synonym(3): FUS1
+synonym(4): FUS_HUMAN
+synonym(5): fused in sarcoma
+synonym(6): heterogeneous nuclear ribonucleoprotein P2
+synonym(7): hnRNP-P2
+synonym(8): HNRNPP2
+synonym(9): oncogene FUS
+synonym(10): oncogene TLS
+synonym(11): POMP75
+synonym(12): RNA-binding protein FUS
+synonym(13): TLS
+synonym(14): translocated in liposarcoma protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2521
+db-key(2)/db: OMIM
+db-key(2)/key: 137070
+reviewed: 2016-03
+published: 2018-04-17

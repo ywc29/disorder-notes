@@ -1,0 +1,30 @@
+name: Ollier disease
+ghr-page: https://ghr.nlm.nih.gov/condition/ollier-disease
+text/text-role: description
+text/html: <p>Ollier disease is a disorder characterized by multiple enchondromas, which are noncancerous (benign) growths of cartilage that develop within the bones. These growths most commonly occur in the limb bones, especially in the bones of the hands and feet; however, they may also occur in the skull, ribs, and bones of the spine (vertebrae). Enchondromas may result in severe bone deformities, shortening of the limbs, and fractures.</p><p>The signs and symptoms of Ollier disease may be detectable at birth, although they generally do not become apparent until around the age of 5. Enchondromas develop near the ends of bones, where normal growth occurs, and they frequently stop forming after affected individuals stop growing in early adulthood. As a result of the bone deformities associated with Ollier disease, people with this disorder generally have short stature and underdeveloped muscles.</p><p>Although the enchondromas associated with Ollier disease start out as benign, they may become cancerous (malignant). In particular, affected individuals may develop bone cancers called chondrosarcomas, especially in the skull. People with Ollier disease also have an increased risk of other cancers, such as ovarian or liver cancer.</p><p>People with Ollier disease usually have a normal lifespan, and intelligence is unaffected. The extent of their physical impairment depends on their individual skeletal deformities, but in most cases they have no major limitations in their activities.</p><p>A related disorder called Maffucci syndrome also involves multiple enchondromas but is distinguished by the presence of red or purplish growths in the skin consisting of tangles of abnormal blood vessels (hemangiomas).</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: IDH1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/IDH1
+related-gene(2)/gene-symbol: IDH2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/IDH2
+synonym(1): dyschondroplasia
+synonym(2): enchondromatosis
+synonym(3): enchondromatosis, multiple, Ollier type
+synonym(4): multiple cartilaginous enchondroses
+synonym(5): multiple enchondromatosis
+synonym(6): Ollier's syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0014084
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: Q78.4
+db-key(3)/db: MeSH
+db-key(3)/key: D004687
+db-key(4)/db: OMIM
+db-key(4)/key: 166000
+db-key(5)/db: Orphanet
+db-key(5)/key: 296
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 268274005
+reviewed: 2016-02
+published: 2018-04-17

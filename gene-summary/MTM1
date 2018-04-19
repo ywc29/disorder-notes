@@ -1,0 +1,18 @@
+gene-symbol: MTM1
+name: myotubularin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/MTM1
+text/text-role: function
+text/html: <p>The <i>MTM1</i> gene provides instructions for producing an enzyme called myotubularin.  Myotubularin is thought to be involved in the development and maintenance of muscle cells.  This enzyme acts as a phosphatase, which means that it removes clusters of oxygen and phosphorus atoms (phosphate groups) from other molecules.  Myotubularin removes phosphate groups from two molecules called phosphatidylinositol 3-phosphate and phosphatidylinositol 3,5-biphosphate.  These molecules are found within cell membranes and are likely involved in transporting molecules within cells.</p>
+related-health-condition/name: X-linked myotubular myopathy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-myotubular-myopathy
+synonym(1): CNM
+synonym(2): MTM1_HUMAN
+synonym(3): MTMX
+synonym(4): myotubularin
+synonym(5): XLMTM
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4534
+db-key(2)/db: OMIM
+db-key(2)/key: 300415
+reviewed: 2008-09
+published: 2018-04-17

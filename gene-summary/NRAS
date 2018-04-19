@@ -1,0 +1,38 @@
+gene-symbol: NRAS
+name: NRAS proto-oncogene, GTPase
+ghr-page: https://ghr.nlm.nih.gov/gene/NRAS
+text/text-role: function
+text/html: <p>The <i>NRAS</i> gene provides instructions for making a protein called N-Ras that is involved primarily in regulating cell division. Through a process known as signal transduction, the protein relays signals from outside the cell to the cell's nucleus. These signals instruct the cell to grow and divide (proliferate) or to mature and take on specialized functions (differentiate). The N-Ras protein is a GTPase, which means it converts a molecule called GTP into another molecule called GDP. The N-Ras protein acts like a switch, and it is turned on and off by the GTP and GDP molecules. To transmit signals, the N-Ras protein must be turned on by attaching (binding) to a molecule of GTP. The N-Ras protein is turned off (inactivated) when it converts the GTP to GDP. When the protein is bound to GDP, it does not relay signals to the cell's nucleus.</p><p>The <i>NRAS</i> gene belongs to a class of genes known as oncogenes. When mutated, oncogenes have the potential to cause normal cells to become cancerous. The <i>NRAS</i> gene is in the Ras family of oncogenes, which also includes two other genes: <i>HRAS</i> and <i>KRAS</i>. The proteins produced from these three genes are GTPases. These proteins play important roles in cell division, cell differentiation, and the self-destruction of cells (apoptosis).</p>
+related-health-condition(1)/name: autoimmune lymphoproliferative syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autoimmune-lymphoproliferative-syndrome
+related-health-condition(2)/name: core binding factor acute myeloid leukemia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/core-binding-factor-acute-myeloid-leukemia
+related-health-condition(3)/name: cytogenetically normal acute myeloid leukemia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/cytogenetically-normal-acute-myeloid-leukemia
+related-health-condition(4)/name: epidermal nevus
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/epidermal-nevus
+related-health-condition(5)/name: giant congenital melanocytic nevus
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/giant-congenital-melanocytic-nevus
+related-health-condition(6)/name: lung cancer
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/lung-cancer
+related-health-condition(7)/name: Noonan syndrome
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/noonan-syndrome
+synonym(1): GTPase NRas
+synonym(2): GTPase NRas precursor
+synonym(3): N-ras
+synonym(4): N-ras protein part 4
+synonym(5): neuroblastoma RAS viral (v-ras) oncogene homolog
+synonym(6): neuroblastoma RAS viral oncogene homolog
+synonym(7): NRAS1
+synonym(8): NS6
+synonym(9): RASN_HUMAN
+synonym(10): transforming protein N-Ras
+synonym(11): v-ras neuroblastoma RAS viral oncogene homolog
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4893
+db-key(2)/db: OMIM
+db-key(2)/key: 155600
+db-key(3)/db: OMIM
+db-key(3)/key: 164790
+reviewed: 2014-12
+published: 2018-04-17

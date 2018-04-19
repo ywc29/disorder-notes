@@ -1,0 +1,29 @@
+name: Kleefstra syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/kleefstra-syndrome
+text/text-role: description
+text/html: <p>Kleefstra syndrome is a disorder that involves many parts of the body. Characteristic features of Kleefstra syndrome include developmental delay and intellectual disability, severely limited or absent speech, and weak muscle tone (hypotonia). Affected individuals also have an unusually small head size (microcephaly) and a wide, short skull (brachycephaly). Distinctive facial features include eyebrows that grow together in the middle (synophrys), widely spaced eyes (hypertelorism), a sunken appearance of the middle of the face (midface hypoplasia),  nostrils that open to the front rather than downward (anteverted nares), a protruding jaw (prognathism), rolled out (everted) lips, and a large tongue (macroglossia). Affected individuals may have a high birth weight and childhood obesity.</p><p>People with Kleefstra syndrome may also have structural brain abnormalities, congenital heart defects, genitourinary abnormalities, seizures, and a tendency to develop severe respiratory infections. During childhood they may exhibit features of autism or related developmental disorders affecting communication and social interaction. In adolescence, they may develop a general loss of interest and enthusiasm (apathy) or unresponsiveness (catatonia).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: EHMT1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/EHMT1
+related-chromosome/name: 9
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/9
+synonym(1): 9q subtelomeric deletion syndrome
+synonym(2): 9q- syndrome
+synonym(3): 9q34.3 deletion syndrome
+synonym(4): 9q34.3 microdeletion syndrome
+synonym(5): chromosome 9q deletion syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0795833
+db-key(2)/db: GeneReviews
+db-key(2)/key: kleefstra
+db-key(3)/db: MeSH
+db-key(3)/key: D025063
+db-key(4)/db: OMIM
+db-key(4)/key: 610253
+db-key(5)/db: Orphanet
+db-key(5)/key: 261494
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 43420005
+reviewed: 2016-01
+published: 2018-04-17

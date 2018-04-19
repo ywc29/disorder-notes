@@ -1,0 +1,24 @@
+name: Arts syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/arts-syndrome
+text/text-role: description
+text/html: <p>Arts syndrome is a disorder that causes serious neurological problems in males. Females can also be affected by this condition, but they typically have much milder symptoms.</p><p>Boys with Arts syndrome have profound sensorineural hearing loss, which is a complete or almost complete loss of hearing caused by abnormalities in the inner ear. Other features of the disorder include weak muscle tone (hypotonia), impaired muscle coordination (ataxia), developmental delay, and intellectual disability. In early childhood, affected boys develop vision loss caused by degeneration of nerves that carry information from the eyes to the brain (optic nerve atrophy). They also experience loss of sensation and weakness in the limbs (peripheral neuropathy).</p><p>Boys with Arts syndrome also usually have recurrent infections, especially involving the respiratory system. Because of these infections and their complications, affected boys often do not survive past early childhood.</p><p>In females with Arts syndrome, hearing loss that begins in adulthood may be the only symptom.</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+related-gene/gene-symbol: PRPS1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PRPS1
+synonym(1): ataxia-deafness-optic atrophy, lethal
+synonym(2): ataxia, fatal X-linked, with deafness and loss of vision
+db-key(1)/db: GTR
+db-key(1)/key: C0796028
+db-key(2)/db: GeneReviews
+db-key(2)/key: arts
+db-key(3)/db: MeSH
+db-key(3)/key: D009422
+db-key(4)/db: OMIM
+db-key(4)/key: 301835
+db-key(5)/db: Orphanet
+db-key(5)/key: 1187
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702441001
+reviewed: 2014-09
+published: 2018-04-17

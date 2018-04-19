@@ -1,0 +1,39 @@
+name: Uncombable hair syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/uncombable-hair-syndrome
+text/text-role: description
+text/html: <p>Uncombable hair syndrome is a condition that is characterized by dry, frizzy hair that cannot be combed flat. This condition develops in childhood, often between infancy and age 3, but can appear as late as age 12. Affected children have light-colored hair, described as blond or silvery with a glistening sheen. The hair does not grow downward but out from the scalp in multiple directions. Despite its appearance, the hair is not fragile or brittle, and it grows at a normal or slightly slower rate. Only scalp hair is affected in uncombable hair syndrome.</p><p>For unknown reasons, this condition usually improves over time. By adolescence individuals with uncombable hair syndrome have hair that lies flat and has normal or nearly normal texture.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: PADI3
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/PADI3
+related-gene(2)/gene-symbol: TCHH
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/TCHH
+related-gene(3)/gene-symbol: TGM3
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/TGM3
+synonym(1): cheveux incoiffables
+synonym(2): pili trianguli et canaliculi
+synonym(3): spun glass hair
+synonym(4): UHS
+synonym(5): unmanageable hair syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0432347
+db-key(2)/db: GTR
+db-key(2)/key: C4310648
+db-key(3)/db: GTR
+db-key(3)/key: C4310649
+db-key(4)/db: MeSH
+db-key(4)/key: D006201
+db-key(5)/db: OMIM
+db-key(5)/key: 191480
+db-key(6)/db: OMIM
+db-key(6)/key: 617251
+db-key(7)/db: OMIM
+db-key(7)/key: 617252
+db-key(8)/db: Orphanet
+db-key(8)/key: 1410
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 254230001
+reviewed: 2017-05
+published: 2018-04-17

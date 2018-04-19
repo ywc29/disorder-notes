@@ -1,0 +1,27 @@
+gene-symbol: RAD51
+name: RAD51 recombinase
+ghr-page: https://ghr.nlm.nih.gov/gene/RAD51
+text/text-role: function
+text/html: <p>The <i>RAD51</i> gene provides instructions for making a protein that is essential for repairing damaged DNA. Breaks in DNA can be caused by natural and medical radiation or other environmental exposures, and also occur when chromosomes exchange genetic material in preparation for cell division.  The RAD51 protein binds to the DNA at the site of a break and encases it in a protein sheath, which is an essential first step in the repair process.</p><p>In the nucleus of many types of normal cells, the RAD51 protein interacts with many other proteins, including BRCA1 and BRCA2, to fix damaged DNA. The BRCA2 protein regulates the activity of the RAD51 protein by transporting it to sites of DNA damage in the nucleus. The interaction between the BRCA1 protein and the RAD51 protein is less clear, although research suggests that BRCA1 may also activate RAD51 in response to DNA damage. By helping repair DNA, these three proteins play a role in maintaining the stability of a cell's genetic information.</p><p>The RAD51 protein is also thought to be involved in the development of nervous system functions that control movement, but its role in this development is unclear.</p>
+related-health-condition(1)/name: breast cancer
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
+related-health-condition(2)/name: congenital mirror movement disorder
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-mirror-movement-disorder
+synonym(1): BRCC5
+synonym(2): DNA repair protein RAD51 homolog 1
+synonym(3): HRAD51
+synonym(4): HsRAD51
+synonym(5): RAD51 homolog (RecA homolog, E. coli) (S. cerevisiae)
+synonym(6): RAD51 homolog (S. cerevisiae)
+synonym(7): RAD51_HUMAN
+synonym(8): RAD51A
+synonym(9): RECA
+synonym(10): RecA-like protein
+synonym(11): RecA, E. coli, homolog of
+synonym(12): recombination protein A
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5888
+db-key(2)/db: OMIM
+db-key(2)/key: 179617
+reviewed: 2015-04
+published: 2018-04-17

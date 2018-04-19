@@ -1,0 +1,162 @@
+name: Critical congenital heart disease
+ghr-page: https://ghr.nlm.nih.gov/condition/critical-congenital-heart-disease
+text/text-role: description
+text/html: <p>Critical congenital heart disease (CCHD) is a term that refers to a group of serious heart defects that are present from birth. These abnormalities result from problems with the formation of one or more parts of the heart during the early stages of embryonic development. CCHD prevents the heart from pumping blood effectively or reduces the amount of oxygen in the blood. As a result, organs and tissues throughout the body do not receive enough oxygen, which can lead to organ damage and life-threatening complications. Individuals with CCHD usually require surgery soon after birth.</p><p>Although babies with CCHD may appear healthy for the first few hours or days of life, signs and symptoms soon become apparent. These can include an abnormal heart sound during a heartbeat (heart murmur), rapid breathing (tachypnea), low blood pressure (hypotension), low levels of oxygen in the blood (hypoxemia), and a blue or purple tint to the skin caused by a shortage of oxygen (cyanosis). If untreated, CCHD can lead to shock, coma, and death. However, most people with CCHD now survive past infancy due to improvements in early detection, diagnosis, and treatment.</p><p>Some people with treated CCHD have few related health problems later in life. However, long-term effects of CCHD can include delayed development and reduced stamina during exercise. Adults with these heart defects have an increased risk of abnormal heart rhythms, heart failure, sudden cardiac arrest, stroke, and premature death.</p><p>Each of the heart defects associated with CCHD affects the flow of blood into, out of, or through the heart. Some of the heart defects involve structures within the heart itself, such as the two lower chambers of the heart (the ventricles) or the valves that control blood flow through the heart. Others affect the structure of the large blood vessels leading into and out of the heart (including the aorta and pulmonary artery). Still others involve a combination of these structural abnormalities.</p><p>People with CCHD have one or more specific heart defects. The heart defects classified as CCHD include coarctation of the aorta, double-outlet right ventricle, D-transposition of the great arteries, Ebstein anomaly, hypoplastic left heart syndrome, interrupted aortic arch, pulmonary atresia with intact septum, single ventricle, total anomalous pulmonary venous connection, tetralogy of Fallot, tricuspid atresia, and truncus arteriosus.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: CFC1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CFC1
+related-gene(2)/gene-symbol: FOXH1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FOXH1
+related-gene(3)/gene-symbol: GATA4
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/GATA4
+related-gene(4)/gene-symbol: GATA6
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/GATA6
+related-gene(5)/gene-symbol: GDF1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/GDF1
+related-gene(6)/gene-symbol: GJA1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/GJA1
+related-gene(7)/gene-symbol: HAND1
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/HAND1
+related-gene(8)/gene-symbol: MED13L
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/MED13L
+related-gene(9)/gene-symbol: NKX2-5
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/NKX2-5
+related-gene(10)/gene-symbol: NKX2-6
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/NKX2-6
+related-gene(11)/gene-symbol: NOTCH1
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/NOTCH1
+related-gene(12)/gene-symbol: SMAD6
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/SMAD6
+related-gene(13)/gene-symbol: ZFPM2
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/ZFPM2
+synonym(1): CCHD
+synonym(2): critical congenital heart defects
+db-key(1)/db: GTR
+db-key(1)/key: C0013481
+db-key(2)/db: GTR
+db-key(2)/key: C0039685
+db-key(3)/db: GTR
+db-key(3)/key: C0040761
+db-key(4)/db: GTR
+db-key(4)/key: C0041207
+db-key(5)/db: GTR
+db-key(5)/key: C0152021
+db-key(6)/db: GTR
+db-key(6)/key: C0152101
+db-key(7)/db: GTR
+db-key(7)/key: C0243002
+db-key(8)/db: GTR
+db-key(8)/key: C0344975
+db-key(9)/db: GTR
+db-key(9)/key: C0344976
+db-key(10)/db: GTR
+db-key(10)/key: C3151220
+db-key(11)/db: GTR
+db-key(11)/key: C3151221
+db-key(12)/db: GTR
+db-key(12)/key: C3280795
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: Q20.1
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: Q21.3
+db-key(15)/db: ICD-10-CM
+db-key(15)/key: Q22.0
+db-key(16)/db: ICD-10-CM
+db-key(16)/key: Q22.4
+db-key(17)/db: ICD-10-CM
+db-key(17)/key: Q22.5
+db-key(18)/db: ICD-10-CM
+db-key(18)/key: Q23.4
+db-key(19)/db: ICD-10-CM
+db-key(19)/key: Q25.1
+db-key(20)/db: MeSH
+db-key(20)/key: D006330
+db-key(21)/db: OMIM
+db-key(21)/key: 106700
+db-key(22)/db: OMIM
+db-key(22)/key: 120000
+db-key(23)/db: OMIM
+db-key(23)/key: 178370
+db-key(24)/db: OMIM
+db-key(24)/key: 187500
+db-key(25)/db: OMIM
+db-key(25)/key: 217095
+db-key(26)/db: OMIM
+db-key(26)/key: 224700
+db-key(27)/db: OMIM
+db-key(27)/key: 241550
+db-key(28)/db: OMIM
+db-key(28)/key: 265150
+db-key(29)/db: OMIM
+db-key(29)/key: 605067
+db-key(30)/db: OMIM
+db-key(30)/key: 605376
+db-key(31)/db: OMIM
+db-key(31)/key: 608808
+db-key(32)/db: OMIM
+db-key(32)/key: 613854
+db-key(33)/db: OMIM
+db-key(33)/key: 614435
+db-key(34)/db: Orphanet
+db-key(34)/key: 1207
+db-key(35)/db: Orphanet
+db-key(35)/key: 1208
+db-key(36)/db: Orphanet
+db-key(36)/key: 1209
+db-key(37)/db: Orphanet
+db-key(37)/key: 2248
+db-key(38)/db: Orphanet
+db-key(38)/key: 3303
+db-key(39)/db: Orphanet
+db-key(39)/key: 3384
+db-key(40)/db: SNOMED CT
+db-key(40)/key: 17394001
+db-key(41)/db: SNOMED CT
+db-key(41)/key: 204296002
+db-key(42)/db: SNOMED CT
+db-key(42)/key: 204354004
+db-key(43)/db: SNOMED CT
+db-key(43)/key: 204357006
+db-key(44)/db: SNOMED CT
+db-key(44)/key: 218728005
+db-key(45)/db: SNOMED CT
+db-key(45)/key: 253443005
+db-key(46)/db: SNOMED CT
+db-key(46)/key: 253590009
+db-key(47)/db: SNOMED CT
+db-key(47)/key: 253591008
+db-key(48)/db: SNOMED CT
+db-key(48)/key: 26146002
+db-key(49)/db: SNOMED CT
+db-key(49)/key: 39905002
+db-key(50)/db: SNOMED CT
+db-key(50)/key: 399228007
+db-key(51)/db: SNOMED CT
+db-key(51)/key: 443379009
+db-key(52)/db: SNOMED CT
+db-key(52)/key: 447832002
+db-key(53)/db: SNOMED CT
+db-key(53)/key: 447914003
+db-key(54)/db: SNOMED CT
+db-key(54)/key: 448599000
+db-key(55)/db: SNOMED CT
+db-key(55)/key: 448794008
+db-key(56)/db: SNOMED CT
+db-key(56)/key: 45503006
+db-key(57)/db: SNOMED CT
+db-key(57)/key: 61959006
+db-key(58)/db: SNOMED CT
+db-key(58)/key: 62067003
+db-key(59)/db: SNOMED CT
+db-key(59)/key: 63042009
+db-key(60)/db: SNOMED CT
+db-key(60)/key: 719955006
+db-key(61)/db: SNOMED CT
+db-key(61)/key: 7305005
+db-key(62)/db: SNOMED CT
+db-key(62)/key: 7484005
+db-key(63)/db: SNOMED CT
+db-key(63)/key: 86299006
+reviewed: 2017-11
+published: 2018-04-17

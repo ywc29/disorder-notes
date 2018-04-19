@@ -1,0 +1,24 @@
+name: T-cell immunodeficiency, congenital alopecia, and nail dystrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/t-cell-immunodeficiency-congenital-alopecia-and-nail-dystrophy
+text/text-role: description
+text/html: <p>T-cell immunodeficiency, congenital alopecia, and nail dystrophy is a type of severe combined immunodeficiency (SCID), which is a group of disorders characterized by an almost total lack of immune protection from foreign invaders such as bacteria and viruses. People with this form of SCID are missing functional immune cells called T cells, which normally recognize and attack foreign invaders to prevent infection. Without functional T cells, affected individuals develop repeated and persistent infections starting early in life. The infections result in slow growth and can be life-threatening; without effective treatment, most affected individuals live only into infancy or early childhood.</p><p>T-cell immunodeficiency, congenital alopecia, and nail dystrophy  also affects growth of the hair and nails. Congenital alopecia refers to an absence of hair that is apparent from birth. Affected individuals have no scalp hair, eyebrows, or eyelashes. Nail dystrophy is a general term that describes malformed fingernails and toenails; in this condition, the nails are often ridged, pitted, or abnormally curved.</p><p>Researchers have described abnormalities of the brain and spinal cord (central nervous system) in at least two cases of this condition. However, it is not yet known whether central nervous system abnormalities are a common feature of T-cell immunodeficiency, congenital alopecia, and nail dystrophy.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: FOXN1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FOXN1
+synonym(1): alymphoid cystic thymic dysgenesis
+synonym(2): congenital alopecia and nail dystrophy associated with severe functional T-cell immunodeficiency
+synonym(3): Pignata Guarino syndrome
+synonym(4): winged helix deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1866426
+db-key(2)/db: MeSH
+db-key(2)/key: D016511
+db-key(3)/db: OMIM
+db-key(3)/key: 601705
+db-key(4)/db: Orphanet
+db-key(4)/key: 169095
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 720345008
+reviewed: 2014-08
+published: 2018-04-17

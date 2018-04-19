@@ -1,0 +1,21 @@
+gene-symbol: RMRP
+name: RNA component of mitochondrial RNA processing endoribonuclease
+ghr-page: https://ghr.nlm.nih.gov/gene/RMRP
+text/text-role: function
+text/html: <p>Unlike many genes, the <i>RMRP</i> gene does not contain instructions for making a protein. Instead, a molecule called a noncoding RNA, a chemical cousin of DNA, is produced from the <i>RMRP</i> gene. Several proteins attach (bind) to this RNA molecule, forming an enzyme called mitochondrial RNA-processing endoribonuclease, or RNase MRP.</p><p>The RNase MRP enzyme is thought to be involved in several important processes in the cell. For example, it likely helps copy (replicate) the DNA found in the energy-producing centers of cells (mitochondria). The RNase MRP enzyme also processes ribosomal RNA, which is required for assembling protein building blocks (amino acids) into functioning proteins. In addition, this enzyme helps control the cell cycle, which is the cell's way of replicating itself in an organized, step-by-step fashion.</p>
+related-health-condition(1)/name: anauxetic dysplasia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/anauxetic-dysplasia
+related-health-condition(2)/name: cartilage-hair hypoplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cartilage-hair-hypoplasia
+synonym(1): CHH
+synonym(2): NME1
+synonym(3): RMRPR
+synonym(4): RRP2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6023
+db-key(2)/db: OMIM
+db-key(2)/key: 157660
+db-key(3)/db: OMIM
+db-key(3)/key: 250460
+reviewed: 2017-07
+published: 2018-04-17

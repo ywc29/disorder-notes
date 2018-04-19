@@ -1,0 +1,24 @@
+name: Paroxysmal extreme pain disorder
+ghr-page: https://ghr.nlm.nih.gov/condition/paroxysmal-extreme-pain-disorder
+text/text-role: description
+text/html: <p>Paroxysmal extreme pain disorder is a condition characterized by skin redness and warmth (flushing) and attacks of severe pain in various parts of the body. The area of flushing typically corresponds to the site of the pain. The pain attacks experienced by people with paroxysmal extreme pain disorder usually last seconds to minutes, but in some cases can last hours. These attacks can start as early as infancy. Early in life, the pain is typically concentrated in the lower part of the body, especially around the rectum, and is usually triggered by a bowel movement. Some children may develop constipation, which is thought to be due to fear of triggering a pain attack. Pain attacks in these young children may also be accompanied by seizures, slow heartbeat, or short pauses in breathing (apnea).</p><p>As a person with paroxysmal extreme pain disorder ages, the location of pain changes. Pain attacks switch from affecting the lower body to affecting the head and face, especially the eyes and jaw. Triggers of these pain attacks include changes in temperature (such as a cold wind) and emotional distress as well as eating spicy foods and drinking cold drinks.</p><p>Paroxysmal extreme pain disorder is considered a form of peripheral neuropathy because it affects the peripheral nervous system, which connects the brain and spinal cord to muscles and to cells that detect sensations such as touch, smell, and pain.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SCN9A
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SCN9A
+synonym(1): familial rectal pain
+synonym(2): PEPD
+synonym(3): PEXPD
+synonym(4): submandibular, ocular, and rectal pain with flushing
+db-key(1)/db: GTR
+db-key(1)/key: C1833661
+db-key(2)/db: MeSH
+db-key(2)/key: D010148
+db-key(3)/db: OMIM
+db-key(3)/key: 167400
+db-key(4)/db: Orphanet
+db-key(4)/key: 46348
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 699190008
+reviewed: 2012-11
+published: 2018-04-17

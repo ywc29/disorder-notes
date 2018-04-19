@@ -1,0 +1,28 @@
+gene-symbol: RUNX1T1
+name: RUNX1 translocation partner 1
+ghr-page: https://ghr.nlm.nih.gov/gene/RUNX1T1
+text/text-role: function
+text/html: <p>The <i>RUNX1T1</i> gene provides instructions for making a protein commonly referred to as ETO, which helps regulate the activity of genes. ETO is considered a transcriptional corepressor because it turns off (represses) gene activity. It performs this function by attaching (binding) to proteins that normally turn genes on and blocking their activity. It also interacts with other corepressors to help keep genes turned off.</p>
+related-health-condition/name: core binding factor acute myeloid leukemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/core-binding-factor-acute-myeloid-leukemia
+synonym(1): acute myelogenous leukemia 1 translocation 1, cyclin-D related
+synonym(2): AML1T1
+synonym(3): CBFA2T1
+synonym(4): CDR
+synonym(5): core-binding factor, runt domain, alpha subunit 2; translocated to, 1; cyclin D-related
+synonym(6): eight twenty one protein
+synonym(7): ETO
+synonym(8): MTG8
+synonym(9): MTG8_HUMAN
+synonym(10): myeloid translocation gene on 8q22
+synonym(11): protein CBFA2T1
+synonym(12): runt-related transcription factor 1; translocated to, 1 (cyclin D-related)
+synonym(13): runt related transcription factor 1; translocated to, 1 (cyclin D related)
+synonym(14): zinc finger MYND domain-containing protein 2
+synonym(15): ZMYND2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 862
+db-key(2)/db: OMIM
+db-key(2)/key: 133435
+reviewed: 2013-11
+published: 2018-04-17

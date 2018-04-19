@@ -1,0 +1,18 @@
+gene-symbol: DOCK6
+name: dedicator of cytokinesis 6
+ghr-page: https://ghr.nlm.nih.gov/gene/DOCK6
+text/text-role: function
+text/html: <p>The <i>DOCK6</i> gene provides instructions for making a protein known as a guanine nucleotide exchange factor (GEF). GEFs turn on (activate) proteins called GTPases, which play an important role in chemical signaling within cells. Often referred to as molecular switches, GTPases can be turned on and off. GTPases are turned off (inactivated) when they are attached (bound) to a molecule called GDP and are activated when they are bound to another molecule called GTP. The DOCK6 protein activates GTPases known as Cdc42 and Rac1 by exchanging GTP for the attached GDP. Once Cdc42 and Rac1 are active, they transmit signals that are critical for various aspects of embryonic development. The DOCK6 protein appears to regulate these GTPases specifically during development of the limbs, skull, and heart. DOCK6 also plays a role in the development of fibers (axons) that extend from nerve cells.</p>
+related-health-condition/name: Adams-Oliver syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/adams-oliver-syndrome
+synonym(1): AOS2
+synonym(2): dedicator of cytokinesis protein 6
+synonym(3): DOCK6_HUMAN
+synonym(4): KIAA1395
+synonym(5): ZIR1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57572
+db-key(2)/db: OMIM
+db-key(2)/key: 614194
+reviewed: 2015-11
+published: 2018-04-17

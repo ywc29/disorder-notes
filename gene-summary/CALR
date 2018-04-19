@@ -1,0 +1,32 @@
+gene-symbol: CALR
+name: calreticulin
+ghr-page: https://ghr.nlm.nih.gov/gene/CALR
+text/text-role: function
+text/html: <p>The <i>CALR</i> gene provides instructions for making a multi-functional protein called calreticulin. This protein is found in several parts of the cell, including inside a structure called the endoplasmic reticulum (ER), in the fluid-filled space inside the cell (the cytoplasm), and at the outer surface of the cell. The ER is involved in protein processing and transport, and within this structure, calreticulin plays a role in ensuring the proper folding of newly formed proteins. The ER is also a storage location for charged calcium atoms (calcium ions), and calreticulin is involved in maintaining the correct levels of calcium ions in this structure. Through calcium regulation and other mechanisms, calreticulin is thought to play a role in the control of gene activity, cell growth and division (proliferation) and movement (migration), the attachment of cells to one another (adhesion), and regulation of programmed cell death (apoptosis). The function of this protein is important for immune system function and wound healing.</p>
+related-health-condition(1)/name: 19p13.13 deletion syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/19p1313-deletion-syndrome
+related-health-condition(2)/name: essential thrombocythemia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/essential-thrombocythemia
+related-health-condition(3)/name: primary myelofibrosis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/primary-myelofibrosis
+synonym(1): calregulin
+synonym(2): calreticulin precursor
+synonym(3): cC1qR
+synonym(4): CRP55
+synonym(5): CRT
+synonym(6): endoplasmic reticulum resident protein 60
+synonym(7): epididymis secretory sperm binding protein Li 99n
+synonym(8): ERp60
+synonym(9): FLJ26680
+synonym(10): grp60
+synonym(11): HACBP
+synonym(12): HEL-S-99n
+synonym(13): RO
+synonym(14): Sicca syndrome antigen A (autoantigen Ro; calreticulin)
+synonym(15): SSA
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 811
+db-key(2)/db: OMIM
+db-key(2)/key: 109091
+reviewed: 2014-09
+published: 2018-04-17

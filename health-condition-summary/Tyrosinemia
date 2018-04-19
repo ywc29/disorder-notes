@@ -1,0 +1,64 @@
+name: Tyrosinemia
+ghr-page: https://ghr.nlm.nih.gov/condition/tyrosinemia
+text/text-role: description
+text/html: <p>Tyrosinemia is a genetic disorder characterized by disruptions in the multistep process that breaks down the amino acid tyrosine, a building block of most proteins. If untreated, tyrosine and its byproducts build up in tissues and organs, which can lead to serious health problems.</p><p>There are three types of tyrosinemia, which are each distinguished by their symptoms and genetic cause. Tyrosinemia type I, the most severe form of this disorder, is characterized by signs and symptoms that begin in the first few months of life. Affected infants fail to gain weight and grow at the expected rate (failure to thrive) due to poor food tolerance because high-protein foods lead to diarrhea and vomiting. Affected infants may also have yellowing of the skin and whites of the eyes (jaundice), a cabbage-like odor, and an increased tendency to bleed (particularly nosebleeds). Tyrosinemia type I can lead to liver and kidney failure, softening and weakening of the bones (rickets), and an increased risk of liver cancer (hepatocellular carcinoma). Some affected children have repeated neurologic crises that consist of changes in mental state, reduced sensation in the arms and legs (peripheral neuropathy), abdominal pain, and respiratory failure. These crises can last from 1 to 7 days. Untreated, children with tyrosinemia type I often do not survive past the age of 10.</p><p>Tyrosinemia type II can affect the eyes, skin, and mental development. Signs and symptoms often begin in early childhood and include eye pain and redness, excessive tearing, abnormal sensitivity to light (photophobia), and thick, painful skin on the palms of their hands and soles of their feet (palmoplantar hyperkeratosis). About 50 percent of individuals with tyrosinemia type II have some degree of intellectual disability.</p><p>Tyrosinemia type III is the rarest of the three types. The characteristic features of this type include intellectual disability, seizures, and periodic loss of balance and coordination (intermittent ataxia).</p><p>About 10 percent of newborns have temporarily elevated levels of tyrosine (transient tyrosinemia). In these cases, the cause is not genetic. The most likely causes are vitamin C deficiency or immature liver enzymes due to premature birth.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: FAH
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/FAH
+related-gene(2)/gene-symbol: HPD
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/HPD
+related-gene(3)/gene-symbol: TAT
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/TAT
+synonym(1): hereditary tyrosinemia
+synonym(2): hypertyrosinaemia
+synonym(3): hypertyrosinemia
+synonym(4): tyrosinaemia
+db-key(1)/db: GTR
+db-key(1)/key: C0268487
+db-key(2)/db: GTR
+db-key(2)/key: C0268490
+db-key(3)/db: GTR
+db-key(3)/key: C0268623
+db-key(4)/db: GeneReviews
+db-key(4)/key: tyrosinemia
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: E70.21
+db-key(6)/db: MeSH
+db-key(6)/key: D020176
+db-key(7)/db: OMIM
+db-key(7)/key: 276600
+db-key(8)/db: OMIM
+db-key(8)/key: 276700
+db-key(9)/db: OMIM
+db-key(9)/key: 276710
+db-key(10)/db: Orphanet
+db-key(10)/key: 882
+db-key(11)/db: Orphanet
+db-key(11)/key: 28378
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 124287008
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 124536006
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 190694001
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 271847005
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 27373000
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 410056006
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 413356003
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 415764005
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 4887000
+db-key(21)/db: SNOMED CT
+db-key(21)/key: 52452006
+db-key(22)/db: SNOMED CT
+db-key(22)/key: 56595005
+db-key(23)/db: SNOMED CT
+db-key(23)/key: 75387001
+reviewed: 2015-08
+published: 2018-04-17

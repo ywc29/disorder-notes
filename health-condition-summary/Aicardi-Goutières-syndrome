@@ -1,0 +1,71 @@
+name: Aicardi-Goutières syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/aicardi-goutieres-syndrome
+text/text-role: description
+text/html: <p>Aicardi-Goutières syndrome is a disorder that mainly affects the brain, the immune system, and the skin.</p><p>Most newborns with Aicardi-Goutières syndrome do not show any signs or symptoms of the disorder. However, about 20 percent are born with a combination of features that include an enlarged liver and spleen (hepatosplenomegaly), elevated blood levels of liver enzymes, a shortage of blood cell fragments called platelets that are needed for normal blood clotting (thrombocytopenia), and neurological abnormalities. While this combination of signs and symptoms is typically associated with the immune system's response to a viral infection that is present at birth (congenital), no actual infection is found in these infants. For this reason, Aicardi-Goutières syndrome is sometimes referred to as a "mimic of congenital infection."</p><p>Within the first year of life, most individuals with Aicardi-Goutières syndrome experience an episode of severe brain dysfunction (encephalopathy), typically lasting for several months. During this encephalopathic phase of the disorder, affected babies are usually extremely irritable and do not feed well. They may develop intermittent fevers in the absence of infection (sterile pyrexias) and may have seizures. They stop developing new skills and begin losing skills they had already acquired (developmental regression). Growth of the brain and skull slows down, resulting in an abnormally small head size (microcephaly). In this phase of the disorder, white blood cells and other immune system molecules associated with inflammation can be detected in the cerebrospinal fluid, which is the fluid that surrounds the brain and spinal cord (central nervous system). These abnormal findings are consistent with inflammation and tissue damage in the central nervous system.</p><p>The encephalopathic phase of Aicardi-Goutières syndrome causes permanent neurological damage that is usually severe. Medical imaging reveals loss of white matter in the brain (leukodystrophy). White matter consists of nerve fibers covered by myelin, which is a substance that protects nerves and insures rapid transmission of nerve impulses. Affected individuals also have abnormal deposits of calcium (calcification) in the brain. As a result of this neurological damage, most people with Aicardi-Goutières syndrome have profound intellectual disability. They also have muscle stiffness (spasticity); involuntary tensing of various muscles (dystonia), especially those in the arms; and weak muscle tone (hypotonia) in the torso.</p><p>Some people with Aicardi-Goutières syndrome have features characteristic of autoimmune disorders, which occur when the immune system malfunctions and attacks the body's own systems and organs. Some of these features overlap with those of another disorder called systemic lupus erythematosus (SLE). A feature of SLE that also occurs in about 40 percent of people with Aicardi-Goutières syndrome is a skin problem called chilblains. Chilblains are painful, itchy skin lesions that are puffy and red, and usually appear on the fingers, toes, and ears. They are caused by inflammation of small blood vessels, and may be brought on or made worse by exposure to cold. Vision problems, joint stiffness, and mouth ulcers are other features that can occur in both disorders.</p><p>As a result of the severe neurological problems usually associated with Aicardi-Goutières syndrome, most people with this disorder do not survive past childhood. However, some affected individuals who develop the condition later or have milder neurological problems live into adulthood.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: ADAR
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ADAR
+related-gene(2)/gene-symbol: IFIH1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/IFIH1
+related-gene(3)/gene-symbol: RNASEH2A
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/RNASEH2A
+related-gene(4)/gene-symbol: RNASEH2B
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/RNASEH2B
+related-gene(5)/gene-symbol: RNASEH2C
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/RNASEH2C
+related-gene(6)/gene-symbol: SAMHD1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/SAMHD1
+related-gene(7)/gene-symbol: TREX1
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/TREX1
+synonym(1): AGS
+synonym(2): Aicardi-Goutieres syndrome
+synonym(3): Aicardi Goutieres syndrome
+synonym(4): Cree encephalitis
+synonym(5): encephalopathy with basal ganglia calcification
+synonym(6): familial infantile encephalopathy with intracranial calcification and chronic cerebrospinal fluid lymphocytosis
+synonym(7): pseudotoxoplasmosis syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0393591
+db-key(2)/db: GTR
+db-key(2)/key: C0796126
+db-key(3)/db: GTR
+db-key(3)/key: C1835912
+db-key(4)/db: GTR
+db-key(4)/key: C1835916
+db-key(5)/db: GTR
+db-key(5)/key: C2749659
+db-key(6)/db: GTR
+db-key(6)/key: C3150315
+db-key(7)/db: GTR
+db-key(7)/key: C3489724
+db-key(8)/db: GTR
+db-key(8)/key: C3539013
+db-key(9)/db: GTR
+db-key(9)/key: C3888244
+db-key(10)/db: GeneReviews
+db-key(10)/key: ags
+db-key(11)/db: MeSH
+db-key(11)/key: D020279
+db-key(12)/db: OMIM
+db-key(12)/key: 225750
+db-key(13)/db: OMIM
+db-key(13)/key: 610181
+db-key(14)/db: OMIM
+db-key(14)/key: 610329
+db-key(15)/db: OMIM
+db-key(15)/key: 610333
+db-key(16)/db: OMIM
+db-key(16)/key: 612952
+db-key(17)/db: OMIM
+db-key(17)/key: 615010
+db-key(18)/db: OMIM
+db-key(18)/key: 615846
+db-key(19)/db: Orphanet
+db-key(19)/key: 51
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 230312006
+reviewed: 2017-11
+published: 2018-04-17

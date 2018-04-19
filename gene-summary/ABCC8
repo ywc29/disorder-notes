@@ -1,0 +1,25 @@
+gene-symbol: ABCC8
+name: ATP binding cassette subfamily C member 8
+ghr-page: https://ghr.nlm.nih.gov/gene/ABCC8
+text/text-role: function
+text/html: <p>The <i>ABCC8</i> gene provides instructions for making the sulfonylurea receptor 1 (SUR1) protein. The SUR1 protein is one part (subunit) of the ATP-sensitive potassium (K-ATP) channel that is found across cell membranes in the beta cells of the pancreas. Beta cells secrete insulin, which is a hormone that helps control blood sugar levels. Insulin controls how much sugar (in the form of glucose) is passed from the bloodstream into cells to be used as energy. The K-ATP channel controls the secretion of insulin out of beta cells and into the bloodstream. These channels open and close in response to the amount of glucose in the bloodstream, which helps regulate insulin secretion and control blood sugar levels. The closing of the channels results in a process that triggers insulin secretion by beta cells.</p>
+related-health-condition(1)/name: congenital hyperinsulinism
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+related-health-condition(2)/name: permanent neonatal diabetes mellitus
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/permanent-neonatal-diabetes-mellitus
+synonym(1): ABC36
+synonym(2): ABCC8_HUMAN
+synonym(3): ATP-binding cassette, sub-family C (CFTR/MRP), member 8
+synonym(4): ATP-binding cassette, sub-family C, member 8
+synonym(5): MRP8
+synonym(6): SUR
+synonym(7): SUR1
+synonym(8): TNDM2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6833
+db-key(2)/db: OMIM
+db-key(2)/key: 600509
+db-key(3)/db: OMIM
+db-key(3)/key: 610374
+reviewed: 2014-01
+published: 2018-04-17

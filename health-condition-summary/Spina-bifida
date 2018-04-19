@@ -1,0 +1,58 @@
+name: Spina bifida
+ghr-page: https://ghr.nlm.nih.gov/condition/spina-bifida
+text/text-role: description
+text/html: <p>Spina bifida is a condition in which the neural tube, a layer of cells that ultimately develops into the brain and spinal cord, fails to close completely during the first few weeks of embryonic development. As a result, when the spine forms, the bones of the spinal column do not close completely around the developing nerves of the spinal cord. Part of the spinal cord may stick out through an opening in the spine, leading to permanent nerve damage. Because spina bifida is caused by abnormalities of the neural tube, it is classified as a neural tube defect.</p><p>Children born with spina bifida often have a fluid-filled sac on their back that is covered by skin, called a meningocele. If the sac contains part of the spinal cord and its protective covering, it is known as a myelomeningocele. The signs and symptoms of these abnormalities range from mild to severe, depending on where the opening in the spinal column is located and how much of the spinal cord is affected. Related problems can include a loss of feeling below the level of the opening, weakness or paralysis of the feet or legs, and problems with bladder and bowel control. Some affected individuals have additional complications, including a buildup of excess fluid around the brain (hydrocephalus) and learning problems. With surgery and other forms of treatment, many people with spina bifida live into adulthood.</p><p>In a milder form of the condition, called spina bifida occulta, the bones of the spinal column are abnormally formed, but the nerves of the spinal cord usually develop normally. Unlike in the more severe form of spina bifida, the nerves do not stick out through an opening in the spine. Spina bifida occulta most often causes no health problems, although rarely it can cause back pain or changes in bladder function.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene/gene-symbol: MTHFR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MTHFR
+synonym(1): cleft spine
+synonym(2): open spine
+synonym(3): rachischisis
+synonym(4): spinal dysraphism
+db-key(1)/db: GTR
+db-key(1)/key: C0027794
+db-key(2)/db: GTR
+db-key(2)/key: C1866558
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q05
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: Q05.0
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: Q05.1
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: Q05.2
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: Q05.3
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: Q05.4
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: Q05.5
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: Q05.6
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: Q05.7
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: Q05.8
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: Q05.9
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: Q07.01
+db-key(15)/db: ICD-10-CM
+db-key(15)/key: Q07.03
+db-key(16)/db: ICD-10-CM
+db-key(16)/key: Q76.0
+db-key(17)/db: MeSH
+db-key(17)/key: D016135
+db-key(18)/db: OMIM
+db-key(18)/key: 182940
+db-key(19)/db: OMIM
+db-key(19)/key: 601634
+db-key(20)/db: Orphanet
+db-key(20)/key: 823
+db-key(21)/db: SNOMED CT
+db-key(21)/key: 61819007
+db-key(22)/db: SNOMED CT
+db-key(22)/key: 67531005
+reviewed: 2014-11
+published: 2018-04-17

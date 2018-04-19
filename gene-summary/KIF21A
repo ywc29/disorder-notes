@@ -1,0 +1,29 @@
+gene-symbol: KIF21A
+name: kinesin family member 21A
+ghr-page: https://ghr.nlm.nih.gov/gene/KIF21A
+text/text-role: function
+text/html: <p>The <i>KIF21A</i> gene provides instructions for making a protein called kinesin family member 21A.  Proteins in the kinesin family are essential for the transport of materials within cells.  Kinesin proteins function like freight trains that transport cargo, and their structure is suited for this cargo-carrying function. One end of the protein, called the motor domain, provides power to move the protein and its cargo along a track-like system made from structures called microtubules. The other end of the protein attaches (binds) to specific cargo, such as groups of proteins, for transport. The two ends of each kinesin are connected by a flexible region known as the stalk.</p><p>Kinesin family member 21A is found in developing nerve cells (neurons).  Researchers believe that this protein carries cargo that is needed for the normal development and function of nerves in the head and face.  In particular, this kinesin plays a critical role in the development of cranial nerve III, which emerges from the brain and controls several of the muscles that surround the eyes (extraocular muscles).  These muscles direct eye movement and determine the position of the eyes.</p>
+related-health-condition/name: congenital fibrosis of the extraocular muscles
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-fibrosis-of-the-extraocular-muscles
+synonym(1): CFEOM
+synonym(2): CFEOM1
+synonym(3): DKFZp779C159
+synonym(4): FEOM
+synonym(5): FEOM1
+synonym(6): Fibrosis of extraocular muscles, congenital, 1, autosomal dominant
+synonym(7): fibrosis of the extraocular muscles, congenital, 1
+synonym(8): FLJ20052
+synonym(9): KI21A_HUMAN
+synonym(10): KIAA1708
+synonym(11): KIF2
+synonym(12): KIF21A variant protein
+synonym(13): Kinesin-like protein KIF2
+synonym(14): Kinesin-like protein KIF21A
+synonym(15): NY-REN-62 antigen
+synonym(16): Renal carcinoma antigen NY-REN-62
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 55605
+db-key(2)/db: OMIM
+db-key(2)/key: 608283
+reviewed: 2009-03
+published: 2018-04-17

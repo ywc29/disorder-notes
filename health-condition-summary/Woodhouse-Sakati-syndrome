@@ -1,0 +1,30 @@
+name: Woodhouse-Sakati syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/woodhouse-sakati-syndrome
+text/text-role: description
+text/html: <p>Woodhouse-Sakati syndrome is a disorder that primarily affects the body's network of hormone-producing glands (the endocrine system) and the nervous system. The signs and symptoms of this condition, which gradually get worse, vary widely among affected individuals, even within the same family.</p><p>People with Woodhouse-Sakati syndrome produce abnormally low amounts of hormones that direct sexual development (hypogonadism), which typically becomes apparent during adolescence. Without hormone replacement therapy, affected individuals do not develop secondary sexual characteristics such as pubic hair, breast growth in females, or a deepening voice in males. Females with Woodhouse-Sakati syndrome do not have functional ovaries and may instead have undeveloped clumps of tissue called streak gonads. The uterus may also be small or absent in affected females. Males with this disorder have testes that produce little to no sperm. As a result, people with Woodhouse-Sakati syndrome usually have an inability to conceive children (infertility).</p><p>By their mid-twenties, almost all affected individuals develop diabetes mellitus, and they may also have reduced production of thyroid hormones (hypothyroidism). People with Woodhouse-Sakati syndrome also experience hair loss beginning in childhood that gradually gets worse, often resulting in the loss of all scalp hair (alopecia totalis) during adulthood. Eyelashes and eyebrows are sparse or absent, and affected men have little or no facial hair. Some affected individuals have additional characteristic facial features including a long, triangular face; widely spaced eyes (hypertelorism); and a prominent bridge of the nose.</p><p>More than half of people with Woodhouse-Sakati syndrome have neurological problems. A group of movement abnormalities called dystonias are common in affected individuals, generally beginning in adolescence or young adulthood. These movement abnormalities can include involuntary tensing of the muscles (muscle contractions) or twisting of specific body parts such as an arm or a leg. Other neurological features can include difficulty with speech (dysarthria) or swallowing (dysphagia), mild intellectual disability, and hearing loss caused by changes in the inner ears (sensorineural hearing loss). The hearing problems develop after the individual has acquired spoken language (post-lingual), usually in adolescence.</p><p>In some affected individuals, abnormal deposits of iron in the brain have been detected with medical imaging. For this reason, Woodhouse-Sakati syndrome is sometimes classified as part of a group of disorders called neurodegeneration with brain iron accumulation (NBIA).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: DCAF17
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DCAF17
+synonym(1): diabetes-hypogonadism-deafness-intellectual disability syndrome
+synonym(2): extrapyramidal disorder, progressive, with primary hypogonadism, mental retardation, and alopecia
+synonym(3): hypogonadism, alopecia, diabetes mellitus, mental retardation, and extrapyramidal syndrome
+synonym(4): hypogonadism, alopecia, diabetes mellitus, mental retardation, deafness, and extrapyramidal syndrome
+synonym(5): hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities
+synonym(6): WSS
+db-key(1)/db: GTR
+db-key(1)/key: C0342286
+db-key(2)/db: GeneReviews
+db-key(2)/key: wss
+db-key(3)/db: MeSH
+db-key(3)/key: D001480
+db-key(4)/db: MeSH
+db-key(4)/key: D007006
+db-key(5)/db: OMIM
+db-key(5)/key: 241080
+db-key(6)/db: Orphanet
+db-key(6)/key: 3464
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 237616002
+reviewed: 2016-09
+published: 2018-04-17

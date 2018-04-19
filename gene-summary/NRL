@@ -1,0 +1,8 @@
+gene-symbol: NRL
+name: neural retina leucine zipper
+ghr-page: https://ghr.nlm.nih.gov/gene/NRL
+related-health-condition/name: retinitis pigmentosa
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/retinitis-pigmentosa
+db-key/db: NCBI Gene
+db-key/key: 4901
+published: 2018-04-17

@@ -1,0 +1,87 @@
+name: Severe congenital neutropenia
+ghr-page: https://ghr.nlm.nih.gov/condition/severe-congenital-neutropenia
+text/text-role: description
+text/html: <p>Severe congenital neutropenia is a condition that causes affected individuals to be prone to recurrent infections.  People with this condition have a shortage (deficiency) of neutrophils, a type of white blood cell that plays a role in inflammation and in fighting infection. The deficiency of neutrophils, called neutropenia, is apparent at birth or soon afterward. It leads to recurrent infections beginning in infancy, including infections of the sinuses, lungs, and liver. Affected individuals can also develop fevers and inflammation of the gums (gingivitis) and skin. Approximately 40 percent of affected people have decreased bone density (osteopenia) and may develop osteoporosis, a condition that makes bones progressively more brittle and prone to fracture.  In people with severe congenital neutropenia, these bone disorders can begin at any time from infancy through adulthood.</p><p>Approximately 20 percent of people with severe congenital neutropenia develop certain cancerous conditions of the blood, particularly myelodysplastic syndrome or leukemia during adolescence.</p><p>Some people with severe congenital neutropenia have additional health problems such as seizures, developmental delay, or heart and genital abnormalities.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xr
+inheritance-pattern(3)/memo: X-linked recessive
+related-gene(1)/gene-symbol: CSF3R
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CSF3R
+related-gene(2)/gene-symbol: ELANE
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ELANE
+related-gene(3)/gene-symbol: G6PC3
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/G6PC3
+related-gene(4)/gene-symbol: GFI1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/GFI1
+related-gene(5)/gene-symbol: HAX1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/HAX1
+related-gene(6)/gene-symbol: JAGN1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/JAGN1
+related-gene(7)/gene-symbol: TCIRG1
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/TCIRG1
+related-gene(8)/gene-symbol: VPS45
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/VPS45
+related-gene(9)/gene-symbol: WAS
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/WAS
+synonym(1): congenital agranulocytosis
+synonym(2): congenital neutropenia
+synonym(3): infantile genetic agranulocytosis
+synonym(4): Kostmann disease
+synonym(5): Kostmann's agranulocytosis
+synonym(6): Kostmann's syndrome
+synonym(7): severe infantile genetic neutropenia
+db-key(1)/db: GTR
+db-key(1)/key: C1845987
+db-key(2)/db: GTR
+db-key(2)/key: C1853118
+db-key(3)/db: GTR
+db-key(3)/key: C1859966
+db-key(4)/db: GTR
+db-key(4)/key: C2675526
+db-key(5)/db: GTR
+db-key(5)/key: C2751288
+db-key(6)/db: GTR
+db-key(6)/key: C3809031
+db-key(7)/db: GTR
+db-key(7)/key: C4014954
+db-key(8)/db: GTR
+db-key(8)/key: C4310764
+db-key(9)/db: GTR
+db-key(9)/key: CN032247
+db-key(10)/db: GeneReviews
+db-key(10)/key: cyclic-n
+db-key(11)/db: GeneReviews
+db-key(11)/key: g6pc3-def
+db-key(12)/db: GeneReviews
+db-key(12)/key: was
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: D70.0
+db-key(14)/db: MeSH
+db-key(14)/key: D009503
+db-key(15)/db: OMIM
+db-key(15)/key: 202700
+db-key(16)/db: OMIM
+db-key(16)/key: 300299
+db-key(17)/db: OMIM
+db-key(17)/key: 610738
+db-key(18)/db: OMIM
+db-key(18)/key: 612541
+db-key(19)/db: OMIM
+db-key(19)/key: 613107
+db-key(20)/db: OMIM
+db-key(20)/key: 615285
+db-key(21)/db: OMIM
+db-key(21)/key: 616022
+db-key(22)/db: OMIM
+db-key(22)/key: 617014
+db-key(23)/db: Orphanet
+db-key(23)/key: 42738
+db-key(24)/db: SNOMED CT
+db-key(24)/key: 718882006
+db-key(25)/db: SNOMED CT
+db-key(25)/key: 89655007
+reviewed: 2017-09
+published: 2018-04-17

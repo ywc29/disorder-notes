@@ -1,0 +1,40 @@
+name: Familial Mediterranean fever
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-mediterranean-fever
+text/text-role: description
+text/html: <p>Familial Mediterranean fever is an inherited condition characterized by recurrent episodes of painful inflammation in the abdomen, chest, or joints.  These episodes are often accompanied by fever and sometimes a rash or headache. Occasionally inflammation may occur in other parts of the body, such as the heart; the membrane surrounding the brain and spinal cord; and in males, the testicles. In about half of affected individuals, attacks are preceded by mild signs and symptoms known as a prodrome. Prodromal symptoms include mildly uncomfortable sensations in the area that will later become inflamed, or more general feelings of discomfort.</p><p>The first episode of illness in familial Mediterranean fever usually occurs in childhood or the teenage years, but in some cases, the initial attack occurs much later in life.  Typically, episodes last 12 to 72 hours and can vary in severity. The length of time between attacks is also variable and can range from days to years. During these periods, affected individuals usually have no signs or symptoms related to the condition. However, without treatment to help prevent attacks and complications, a buildup of protein deposits (amyloidosis) in the body's organs and tissues may occur, especially in the kidneys, which can lead to kidney failure.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: MEFV
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/MEFV
+related-gene(2)/gene-symbol: SAA1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SAA1
+synonym(1): benign paroxysmal peritonitis
+synonym(2): familial paroxysmal polyserositis
+synonym(3): FMF
+synonym(4): MEF
+synonym(5): recurrent polyserositis
+synonym(6): Reimann periodic disease
+synonym(7): Siegal-Cattan-Mamou disease
+synonym(8): Wolff periodic disease
+db-key(1)/db: GTR
+db-key(1)/key: C0031069
+db-key(2)/db: GTR
+db-key(2)/key: C1851347
+db-key(3)/db: GeneReviews
+db-key(3)/key: fmf
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: E85.0
+db-key(5)/db: MeSH
+db-key(5)/key: D010505
+db-key(6)/db: OMIM
+db-key(6)/key: 134610
+db-key(7)/db: OMIM
+db-key(7)/key: 249100
+db-key(8)/db: Orphanet
+db-key(8)/key: 342
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 12579009
+reviewed: 2014-06
+published: 2018-04-17

@@ -1,0 +1,52 @@
+name: Hemophilia
+ghr-page: https://ghr.nlm.nih.gov/condition/hemophilia
+text/text-role: description
+text/html: <p>Hemophilia is a bleeding disorder that slows the blood clotting process. People with this condition experience prolonged bleeding or oozing following an injury, surgery, or having a tooth pulled. In severe cases of hemophilia, continuous bleeding occurs after minor trauma or even in the absence of injury (spontaneous bleeding). Serious complications can result from bleeding into the joints, muscles, brain, or other internal organs. Milder forms of hemophilia do not necessarily involve spontaneous bleeding, and the condition may not become apparent until abnormal bleeding occurs following surgery or a serious injury.</p><p>The major types of this condition are hemophilia A (also known as classic hemophilia or factor VIII deficiency) and hemophilia B (also known as Christmas disease or factor IX deficiency). Although the two types have very similar signs and symptoms, they are caused by mutations in different genes.  People with an unusual form of hemophilia B, known as hemophilia B Leyden, experience episodes of excessive bleeding in childhood but have few bleeding problems after puberty.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene(1)/gene-symbol: F8
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/F8
+related-gene(2)/gene-symbol: F9
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/F9
+synonym(1): Hemophilia, familial
+synonym(2): Hemophilia, hereditary
+db-key(1)/db: GTR
+db-key(1)/key: C0008533
+db-key(2)/db: GTR
+db-key(2)/key: C0019069
+db-key(3)/db: GTR
+db-key(3)/key: C0684275
+db-key(4)/db: GTR
+db-key(4)/key: CN043453
+db-key(5)/db: GeneReviews
+db-key(5)/key: hemo-a
+db-key(6)/db: GeneReviews
+db-key(6)/key: hemo-b
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: D66
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: D67
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: D68.311
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: M36.2
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: Z14.01
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: Z14.02
+db-key(13)/db: MeSH
+db-key(13)/key: D002836
+db-key(14)/db: MeSH
+db-key(14)/key: D006467
+db-key(15)/db: OMIM
+db-key(15)/key: 306700
+db-key(16)/db: OMIM
+db-key(16)/key: 306900
+db-key(17)/db: Orphanet
+db-key(17)/key: 448
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 41788008
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 90935002
+reviewed: 2012-08
+published: 2018-04-17

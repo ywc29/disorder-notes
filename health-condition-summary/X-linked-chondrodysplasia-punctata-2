@@ -1,0 +1,30 @@
+name: X-linked chondrodysplasia punctata 2
+ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-chondrodysplasia-punctata-2
+text/text-role: description
+text/html: <p>X-linked chondrodysplasia punctata 2 is a disorder characterized by bone, skin, and eye abnormalities. It occurs almost exclusively in females.</p><p>Although the signs and symptoms of this condition vary widely, almost all affected individuals have chondrodysplasia punctata, an abnormality that appears on x-rays as spots (stippling) near the ends of bones and in cartilage. In this form of chondrodysplasia punctata, the stippling typically affects the long bones in the arms and legs, the ribs, the spinal bones (vertebrae), and the cartilage that makes up the windpipe (trachea). The stippling is apparent in infancy but disappears in early childhood. Other skeletal abnormalities seen in people with X-linked chondrodysplasia punctata 2 include shortening of the bones in the upper arms and thighs (rhizomelia) that is often different on the right and left sides, and progressive abnormal curvature of the spine (kyphoscoliosis). As a result of these abnormalities, people with this condition tend to have short stature.</p><p>Infants with X-linked chondrodysplasia punctata 2 are born with dry, scaly patches of skin (ichthyosis) in a linear or spiral (whorled) pattern.  The scaly patches fade over time, leaving abnormally colored blotches of skin without hair (follicular atrophoderma). Most affected individuals also have sparse, coarse hair on their scalps.</p><p>Most people with X-linked chondrodysplasia punctata 2 have clouding of the lens of the eye (cataracts) from birth or early childhood. Other eye abnormalities that have been associated with this disorder include unusually small eyes (microphthalmia) and small corneas (microcornea). The cornea is the clear front surface of the eye. These eye abnormalities can impair vision.</p><p>In affected females, X-linked chondrodysplasia punctata 2 is typically associated with normal intelligence and a normal lifespan. However, a much more severe form of the condition has been reported in a small number of males. Affected males have some of the same features as affected females, as well as weak muscle tone (hypotonia), changes in the structure of the brain, moderately to profoundly delayed development, seizures, distinctive facial features, and other birth defects. The health problems associated with X-linked chondrodysplasia punctata 2 are often life-threatening in males.</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+related-gene/gene-symbol: EBP
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/EBP
+synonym(1): CDPX2
+synonym(2): chondrodysplasia punctata 2, X-linked
+synonym(3): Conradi-Hünermann-Happle syndrome
+synonym(4): Conradi-Hünermann Syndrome
+synonym(5): Happle syndrome
+synonym(6): X-linked dominant chondrodysplasia punctata
+db-key(1)/db: GTR
+db-key(1)/key: C0282102
+db-key(2)/db: GeneReviews
+db-key(2)/key: x-dcdp
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q77.3
+db-key(4)/db: MeSH
+db-key(4)/key: D002806
+db-key(5)/db: OMIM
+db-key(5)/key: 302960
+db-key(6)/db: Orphanet
+db-key(6)/key: 35173
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 398719004
+reviewed: 2011-11
+published: 2018-04-17

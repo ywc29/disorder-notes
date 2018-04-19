@@ -1,0 +1,21 @@
+gene-symbol: L2HGDH
+name: L-2-hydroxyglutarate dehydrogenase
+ghr-page: https://ghr.nlm.nih.gov/gene/L2HGDH
+text/text-role: function
+text/html: <p>The <i>L2HGDH</i> gene provides instructions for making an enzyme called L-2-hydroxyglutarate dehydrogenase. This enzyme is found in mitochondria, which are the energy-producing centers within cells. Within mitochondria, the enzyme participates in reactions that produce energy for cell activities. Specifically, L-2-hydroxyglutarate dehydrogenase converts a compound called L-2-hydroxyglutarate to another compound called 2-ketoglutarate. A series of additional enzymes further process 2-ketoglutarate to produce energy.</p>
+related-health-condition/name: 2-hydroxyglutaric aciduria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/2-hydroxyglutaric-aciduria
+synonym(1): 2-hydroxyglutarate dehydrogenase
+synonym(2): alpha-hydroxyglutarate oxidoreductase
+synonym(3): alpha-ketoglutarate reductase
+synonym(4): C14orf160
+synonym(5): duranin
+synonym(6): FLJ12618
+synonym(7): L-alpha-hydroxyglutarate dehydrogenase
+synonym(8): L2HDH_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 79944
+db-key(2)/db: OMIM
+db-key(2)/key: 609584
+reviewed: 2013-08
+published: 2018-04-17

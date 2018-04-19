@@ -1,0 +1,8 @@
+gene-symbol: KCND3
+name: potassium voltage-gated channel subfamily D member 3
+ghr-page: https://ghr.nlm.nih.gov/gene/KCND3
+related-health-condition/name: Brugada syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/brugada-syndrome
+db-key/db: NCBI Gene
+db-key/key: 3752
+published: 2018-04-17

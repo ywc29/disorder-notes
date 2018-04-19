@@ -1,0 +1,25 @@
+gene-symbol: TNFRSF11B
+name: TNF receptor superfamily member 11b
+ghr-page: https://ghr.nlm.nih.gov/gene/TNFRSF11B
+text/text-role: function
+text/html: <p>The <i>TNFRSF11B</i> gene provides instructions for making a protein called osteoprotegerin. This protein plays an important role in bone remodeling, a normal process in which old bone is broken down and new bone is created to replace it. Osteoprotegerin is involved in the regulation of specialized cells called osteoclasts, which break down bone tissue during bone remodeling.</p><p>Osteoprotegerin is one of two receptor proteins that can attach (bind) to a protein called receptor activator of NF-κB ligand (RANKL). The other receptor protein is called receptor activator of NF-κB (RANK). Because RANKL can only bind to one receptor at a time, osteoprotegerin and RANK compete with one another. When RANKL is bound to RANK, it sets off a series of chemical signals that trigger immature osteoclasts to mature and become fully functional. When RANKL is bound to osteoprotegerin, it blocks these chemical signals and prevents the activation of osteoclasts. Because no chemical signals are transmitted when RANKL is attached to osteoprotegerin, osteoprotegerin is often called a "decoy" receptor.</p><p>By reducing the amount of RANKL that is available to bind to RANK, osteoprotegerin plays a critical role in regulating the process of bone remodeling.</p>
+related-health-condition(1)/name: juvenile Paget disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-paget-disease
+related-health-condition(2)/name: Paget disease of bone
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/paget-disease-of-bone
+synonym(1): MGC29565
+synonym(2): OCIF
+synonym(3): OPG
+synonym(4): osteoclastogenesis inhibitory factor
+synonym(5): osteoprotegerin
+synonym(6): osteoprotegerin precursor
+synonym(7): TR1
+synonym(8): TR11B_HUMAN
+synonym(9): tumor necrosis factor receptor superfamily member 11b
+synonym(10): tumor necrosis factor receptor superfamily, member 11b
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4982
+db-key(2)/db: OMIM
+db-key(2)/key: 602643
+reviewed: 2010-02
+published: 2018-04-17

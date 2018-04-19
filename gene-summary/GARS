@@ -1,0 +1,21 @@
+gene-symbol: GARS
+name: glycyl-tRNA synthetase
+ghr-page: https://ghr.nlm.nih.gov/gene/GARS
+text/text-role: function
+text/html: <p>The <i>GARS</i> gene provides instructions for making an enzyme called glycyl-tRNA synthetase. This enzyme is found in all cell types and plays an important role in the production (synthesis) of proteins.  During protein synthesis, building blocks (amino acids) are connected together in a specific order, creating a chain of amino acids.  Glycyl-tRNA synthetase plays a role in adding the amino acid glycine at the proper place in a protein's chain of amino acids.</p>
+related-health-condition(1)/name: Charcot-Marie-Tooth disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+related-health-condition(2)/name: distal hereditary motor neuropathy, type V
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/distal-hereditary-motor-neuropathy-type-v
+synonym(1): CMT2D
+synonym(2): DSMAV
+synonym(3): glycine tRNA ligase
+synonym(4): GlyRS
+synonym(5): SMAD1
+synonym(6): SYG_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2617
+db-key(2)/db: OMIM
+db-key(2)/key: 600287
+reviewed: 2010-01
+published: 2018-04-17

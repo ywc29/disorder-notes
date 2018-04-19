@@ -1,0 +1,27 @@
+gene-symbol: SQSTM1
+name: sequestosome 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SQSTM1
+text/text-role: function
+text/html: <p>The <i>SQSTM1</i> gene provides instructions for making a protein called p62. This protein plays an important role in bone remodeling, a normal process in which old bone is broken down and new bone is created to replace it. The p62 protein helps regulate this process through its role in a chemical signaling pathway that promotes the formation of osteoclasts. Osteoclasts are specialized cells that break down bone tissue during bone remodeling.</p><p>Studies suggest that p62 may have other functions in addition to its role in bone remodeling. It may be involved in recycling worn-out cell parts and unneeded proteins (autophagy), the self-destruction of cells (apoptosis), and the body's immune responses and inflammatory reactions.</p>
+related-health-condition(1)/name: amyotrophic lateral sclerosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
+related-health-condition(2)/name: Paget disease of bone
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/paget-disease-of-bone
+synonym(1): A170
+synonym(2): EBI3-associated protein p60
+synonym(3): OSIL
+synonym(4): oxidative stress induced like
+synonym(5): p60
+synonym(6): p62
+synonym(7): p62B
+synonym(8): PDB3
+synonym(9): phosphotyrosine independent ligand for the Lck SH2 domain p62
+synonym(10): SQSTM_HUMAN
+synonym(11): ubiquitin-binding protein p62
+synonym(12): ZIP3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8878
+db-key(2)/db: OMIM
+db-key(2)/key: 601530
+reviewed: 2010-02
+published: 2018-04-17

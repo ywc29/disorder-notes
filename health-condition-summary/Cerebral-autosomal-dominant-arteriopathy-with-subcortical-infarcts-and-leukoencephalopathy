@@ -1,0 +1,26 @@
+name: Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/cerebral-autosomal-dominant-arteriopathy-with-subcortical-infarcts-and-leukoencephalopathy
+text/text-role: description
+text/html: <p>Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy, usually called CADASIL, is an inherited condition that causes stroke and other impairments. This condition affects blood flow in small blood vessels, particularly cerebral vessels within the brain. The muscle cells surrounding these blood vessels (vascular smooth muscle cells) are abnormal and gradually die. In the brain, the resulting blood vessel damage (arteriopathy) can cause migraines, often with visual sensations or auras, or recurrent seizures (epilepsy).</p><p>Damaged blood vessels reduce blood flow and can cause areas of tissue death (infarcts) throughout the body. An infarct in the brain can lead to a stroke. In individuals with CADASIL, a stroke can occur at any time from childhood to late adulthood, but typically happens during mid-adulthood. People with CADASIL often have more than one stroke in their lifetime. Recurrent strokes can damage the brain over time. Strokes that occur in the subcortical region of the brain, which is involved in reasoning and memory, can cause progressive loss of intellectual function (dementia) and changes in mood and personality.</p><p>Many people with CADASIL also develop leukoencephalopathy, which is a change in a type of brain tissue called white matter that can be seen with magnetic resonance imaging (MRI).</p><p>The age at which the signs and symptoms of CADASIL first begin varies greatly among affected individuals, as does the severity of these features.</p><p>CADASIL is not associated with the common risk factors for stroke and heart attack, such as high blood pressure and high cholesterol, although some affected individuals might also have these health problems.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: NOTCH3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NOTCH3
+synonym(1): CADASIL
+synonym(2): cerebral arteriopathy with subcortical infarcts and leukoencephalopathy
+synonym(3): familial vascular leukoencephalopathy
+synonym(4): hereditary dementia, multi-infarct type
+db-key(1)/db: GTR
+db-key(1)/key: C0751587
+db-key(2)/db: GeneReviews
+db-key(2)/key: cadasil
+db-key(3)/db: MeSH
+db-key(3)/key: D046589
+db-key(4)/db: OMIM
+db-key(4)/key: 125310
+db-key(5)/db: Orphanet
+db-key(5)/key: 136
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 390936003
+reviewed: 2013-05
+published: 2018-04-17

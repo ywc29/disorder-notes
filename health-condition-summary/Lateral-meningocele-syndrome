@@ -1,0 +1,26 @@
+name: Lateral meningocele syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/lateral-meningocele-syndrome
+text/text-role: description
+text/html: <p>Lateral meningocele syndrome is a disorder that affects the nervous system, the bones and muscles, and other body systems. The condition is characterized by abnormalities known as lateral meningoceles. Lateral meningoceles are protrusions of the membranes surrounding the spinal cord (known as the meninges) through gaps in the bones of the spine (vertebrae). The protrusions are most common and typically larger in the lower spine.</p><p>The meningoceles associated with this disorder may damage the nerves that spread from the spine to the rest of the body. Damage to the nerves that control bladder function, a condition called neurogenic bladder, causes affected individuals to have progressive difficulty controlling the flow of urine. Prickling or tingling sensations (paresthesias), progressive stiffness and weakness in the legs (paraparesis), and back pain can also occur. Delayed development of motor skills in infancy, such as sitting and crawling, often occurs in this disorder; intelligence is usually unaffected.</p><p>Other features of lateral meningocele syndrome can include low muscle tone (hypotonia) during infancy, decreased muscle bulk, loose (hyperextensible) joints that can lead to dislocations, and protrusion of organs through gaps in muscles (hernias). Spinal abnormalities are also common, including side-to-side curvature of the spine (scoliosis), abnormal joining (fusion) of two or more vertebrae, and vertebrae that are unusually shaped (scalloped).</p><p>People with lateral meningocele syndrome typically have a particular pattern of facial features that may include high arched eyebrows, widely spaced eyes (hypertelorism), outside corners of the eyes that point downward (downslanting palpebral fissures), and droopy eyelids (ptosis). Affected individuals may have a flat appearance of the middle of the face and cheekbones (midface and malar hypoplasia); low-set ears; a long area between the nose and mouth (long philtrum); a thin upper lip; a high, narrow roof of the mouth, occasionally with an abnormal opening (a cleft palate); a small jaw (micrognathia); coarse hair; and a low hairline at the back of the neck.</p><p>Other signs and symptoms that can occur in lateral meningocele syndrome include a high and nasal voice, hearing loss, abnormalities of the heart or the genitourinary system, poor feeding, difficulty swallowing (dysphagia), and backflow of stomach acids into the esophagus (called gastroesophageal reflux or GERD).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: NOTCH3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NOTCH3
+synonym(1): Lehman syndrome
+synonym(2): LMS
+db-key(1)/db: GTR
+db-key(1)/key: C1851710
+db-key(2)/db: GeneReviews
+db-key(2)/key: lms
+db-key(3)/db: MeSH
+db-key(3)/key: D000015
+db-key(4)/db: MeSH
+db-key(4)/key: D008588
+db-key(5)/db: OMIM
+db-key(5)/key: 130720
+db-key(6)/db: Orphanet
+db-key(6)/key: 2789
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 253166000
+reviewed: 2016-08
+published: 2018-04-17

@@ -1,0 +1,23 @@
+name: Weaver syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/weaver-syndrome
+text/text-role: description
+text/html: <p>Weaver syndrome is a condition that involves tall stature with or without a large head size (macrocephaly), a variable degree of intellectual disability (usually mild), and characteristic facial features. These features can include a broad forehead; widely spaced eyes (hypertelorism); large, low-set ears; a dimpled chin, and a small lower jaw (micrognathia).</p><p>People with Weaver syndrome can also have joint deformities called contractures that restrict the movement of affected joints. The contractures may particularly affect the fingers and toes, resulting in permanently bent digits (camptodactyly). Other features of this disorder can include abnormal curvature of the spine (kyphoscoliosis); muscle tone that is either reduced (hypotonia) or increased (hypertonia); loose, saggy skin; and a soft-outpouching around the belly-button (umbilical hernia). Some affected individuals have abnormalities in the folds (gyri) of the brain, which can be seen by medical imaging; the relationship between these brain abnormalities and the intellectual disability associated with Weaver syndrome is unclear.</p><p>Researchers suggest that people with Weaver syndrome may have an increased risk of developing cancer, in particular a slightly increased risk of developing a tumor called neuroblastoma in early childhood, but the small number of affected individuals makes it difficult to determine the exact risk.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: EZH2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/EZH2
+synonym(1): camptodactyly-overgrowth-unusual facies
+synonym(2): Weaver-Smith syndrome
+synonym(3): WSS
+db-key(1)/db: GTR
+db-key(1)/key: C0265210
+db-key(2)/db: MeSH
+db-key(2)/key: D000015
+db-key(3)/db: OMIM
+db-key(3)/key: 277590
+db-key(4)/db: Orphanet
+db-key(4)/key: 3447
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 63119004
+reviewed: 2016-03
+published: 2018-04-17

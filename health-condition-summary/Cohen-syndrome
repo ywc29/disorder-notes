@@ -1,0 +1,29 @@
+name: Cohen syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/cohen-syndrome
+text/text-role: description
+text/html: <p>Cohen syndrome is an inherited disorder that affects many parts of the body and is characterized by developmental delay, intellectual disability, small head size (microcephaly), and weak muscle tone (hypotonia). Other features common in this condition include worsening nearsightedness (myopia), breakdown (degeneration) of the light-sensitive tissue at the back of the eye (retinal dystrophy), an unusually large range of joint movement (hypermobility), and distinctive facial features. These facial features typically include thick hair and eyebrows, long eyelashes, unusually-shaped eyes (down-slanting and wave-shaped), a bulbous nasal tip, a smooth or shortened area between the nose and the upper lip (philtrum), and prominent upper central teeth. The combination of the last two facial features results in an open mouth.</p><p>The features of Cohen syndrome vary widely among affected individuals. Additional signs and symptoms in some individuals with this disorder include low levels of white blood cells (neutropenia), overly friendly behavior, and obesity that develops in late childhood or adolescence. When obesity is present, it typically occurs around the torso, with the arms and legs remaining slender (called truncal obesity). Individuals with Cohen syndrome may also have narrow hands and feet, and slender fingers.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: VPS13B
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/VPS13B
+synonym(1): hypotonia, obesity, and prominent incisors
+synonym(2): Norio syndrome
+synonym(3): obesity-hypotonia syndrome
+synonym(4): Pepper syndrome
+synonym(5): prominent incisors-obesity-hypotonia syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0265223
+db-key(2)/db: GeneReviews
+db-key(2)/key: cohen
+db-key(3)/db: MeSH
+db-key(3)/key: D000015
+db-key(4)/db: MeSH
+db-key(4)/key: D002658
+db-key(5)/db: OMIM
+db-key(5)/key: 216550
+db-key(6)/db: Orphanet
+db-key(6)/key: 193
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 56604005
+reviewed: 2017-06
+published: 2018-04-17

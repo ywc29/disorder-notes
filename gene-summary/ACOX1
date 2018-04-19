@@ -1,0 +1,24 @@
+gene-symbol: ACOX1
+name: acyl-CoA oxidase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ACOX1
+text/text-role: function
+text/html: <p>The <i>ACOX1</i> gene provides instructions for making an enzyme called peroxisomal straight-chain acyl-CoA oxidase. This enzyme is found in sac-like cell structures (organelles) called peroxisomes, which contain a variety of enzymes that break down many different substances. The peroxisomal straight-chain acyl-CoA oxidase enzyme plays a role in the breakdown of certain fat molecules called very long-chain fatty acids (VLCFAs). Specifically, it is involved in the first step of a process called the peroxisomal fatty acid beta-oxidation pathway. This process shortens the VLCFA molecules by two carbon atoms at a time until the VLCFAs are converted to a molecule called acetyl-CoA, which is transported out of the peroxisomes for reuse by the cell.</p>
+related-health-condition/name: peroxisomal acyl-CoA oxidase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/peroxisomal-acyl-coa-oxidase-deficiency
+synonym(1): ACOX
+synonym(2): acyl-CoA oxidase 1, palmitoyl
+synonym(3): acyl-CoA oxidase, straight-chain
+synonym(4): acyl-Coenzyme A oxidase 1, palmitoyl
+synonym(5): AOX
+synonym(6): PALMCOX
+synonym(7): palmitoyl-CoA oxidase
+synonym(8): peroxisomal acyl-coenzyme A oxidase 1
+synonym(9): peroxisomal fatty acyl-CoA oxidase
+synonym(10): SCOX
+synonym(11): straight-chain acyl-CoA oxidase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51
+db-key(2)/db: OMIM
+db-key(2)/key: 609751
+reviewed: 2014-04
+published: 2018-04-17

@@ -1,0 +1,47 @@
+name: Ewing sarcoma
+ghr-page: https://ghr.nlm.nih.gov/condition/ewing-sarcoma
+text/text-role: description
+text/html: <p>Ewing sarcoma is a cancerous tumor that occurs in bones or soft tissues, such as cartilage or nerves. There are several types of Ewing sarcoma, including Ewing sarcoma of bone, extraosseous Ewing sarcoma, peripheral primitive neuroectodermal tumor (pPNET), and Askin tumor. These tumors are considered to be related because they have similar genetic causes. These types of Ewing sarcoma can be distinguished from one another by the tissue in which the tumor develops. Approximately 87 percent of Ewing sarcomas are Ewing sarcoma of bone, which is a bone tumor that usually occurs in the thigh bones (femurs), pelvis, ribs, or shoulder blades. Extraosseous (or extraskeletal) Ewing sarcoma describes tumors in the soft tissues around bones, such as cartilage. pPNETs occur in nerve tissue and can be found in many parts of the body. A type of pPNET found in the chest is called Askin tumor.</p><p>Ewing sarcomas most often occur in children and young adults. Affected individuals usually feel stiffness, pain, swelling, or tenderness of the bone or surrounding tissue. Sometimes, there is a lump near the surface of the skin that feels warm and soft to the touch. Often, children have a fever that does not go away. Ewing sarcoma of bone can cause weakening of the involved bone, and affected individuals may have a broken bone with no obvious cause.</p><p>It is common for Ewing sarcoma to spread to other parts of the body (metastasize), usually to the lungs, to other bones, or to the bone marrow.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: ERG
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ERG
+related-gene(2)/gene-symbol: ETV1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ETV1
+related-gene(3)/gene-symbol: ETV4
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/ETV4
+related-gene(4)/gene-symbol: EWSR1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/EWSR1
+related-gene(5)/gene-symbol: FEV
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/FEV
+related-gene(6)/gene-symbol: FLI1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/FLI1
+related-gene(7)/gene-symbol: FUS
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/FUS
+related-chromosome(1)/name: 11
+related-chromosome(1)/ghr-page: https://ghr.nlm.nih.gov/chromosome/11
+related-chromosome(2)/name: 22
+related-chromosome(2)/ghr-page: https://ghr.nlm.nih.gov/chromosome/22
+synonym(1): Ewing family of tumors
+synonym(2): Ewing tumor
+synonym(3): Ewing's sarcoma
+synonym(4): Ewing's tumor
+synonym(5): tumor of the Ewing family
+db-key(1)/db: GTR
+db-key(1)/key: C0553580
+db-key(2)/db: MeSH
+db-key(2)/key: D012512
+db-key(3)/db: OMIM
+db-key(3)/key: 612219
+db-key(4)/db: Orphanet
+db-key(4)/key: 319
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 128783001
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 307608006
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 447951009
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 76909002
+reviewed: 2016-06
+published: 2018-04-17

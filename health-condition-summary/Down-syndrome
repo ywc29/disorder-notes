@@ -1,0 +1,43 @@
+name: Down syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/down-syndrome
+text/text-role: description
+text/html: <p>Down syndrome is a chromosomal condition that is associated with intellectual disability, a characteristic facial appearance, and weak muscle tone (hypotonia) in infancy. All affected individuals experience cognitive delays, but the intellectual disability is usually mild to moderate.</p><p>People with Down syndrome may have a variety of birth defects. About half of all affected children are born with a heart defect. Digestive abnormalities, such as a blockage of the intestine, are less common.</p><p>Individuals with Down syndrome have an increased risk of developing several medical conditions. These include gastroesophageal reflux, which is a backflow of acidic stomach contents into the esophagus, and celiac disease, which is an intolerance of a wheat protein called gluten. About 15 percent of people with Down syndrome have an underactive thyroid gland (hypothyroidism). The thyroid gland is a butterfly-shaped organ in the lower neck that produces hormones. Individuals with Down syndrome also have an increased risk of hearing and vision problems. Additionally, a small percentage of children with Down syndrome develop cancer of blood-forming cells (leukemia).</p><p>Delayed development and behavioral problems are often reported in children with Down syndrome. Affected individuals' speech and language develop later and more slowly than in children without Down syndrome, and affected individuals' speech may be more difficult to understand. Behavioral issues can include attention problems, obsessive/compulsive behavior, and stubbornness or tantrums. A small percentage of people with Down syndrome are also diagnosed with developmental conditions called autism spectrum disorders, which affect communication and social interaction.</p><p>People with Down syndrome often experience a gradual decline in thinking ability (cognition) as they age, usually starting around age 50. Down syndrome is also associated with an increased risk of developing Alzheimer disease, a brain disorder that results in a gradual loss of memory, judgment, and ability to function. Approximately half of adults with Down syndrome develop Alzheimer disease. Although Alzheimer disease is usually a disorder that occurs in older adults, people with Down syndrome usually develop this condition in their fifties or sixties.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-chromosome/name: 21
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/21
+synonym(1): 47,XX,+21
+synonym(2): 47,XY,+21
+synonym(3): Down's syndrome
+synonym(4): trisomy 21
+synonym(5): trisomy G
+db-key(1)/db: GTR
+db-key(1)/key: C0013080
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: Q90
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q90.0
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: Q90.1
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: Q90.2
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: Q90.9
+db-key(7)/db: MeSH
+db-key(7)/key: D004314
+db-key(8)/db: OMIM
+db-key(8)/key: 190685
+db-key(9)/db: Orphanet
+db-key(9)/key: 870
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 205615000
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 205616004
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 254264002
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 371045000
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 41040004
+reviewed: 2012-06
+published: 2018-04-17

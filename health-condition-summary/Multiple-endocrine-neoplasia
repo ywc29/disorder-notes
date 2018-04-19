@@ -1,0 +1,81 @@
+name: Multiple endocrine neoplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/multiple-endocrine-neoplasia
+text/text-role: description
+text/html: <p>Multiple endocrine neoplasia is a group of disorders that affect the body's network of hormone-producing glands called the endocrine system. Hormones are chemical messengers that travel through the bloodstream and regulate the function of cells and tissues throughout the body. Multiple endocrine neoplasia typically involves tumors (neoplasia) in at least two endocrine glands; tumors can also develop in other organs and tissues. These growths can be noncancerous (benign) or cancerous (malignant). If the tumors become cancerous, the condition can be life-threatening.</p><p>The major forms of multiple endocrine neoplasia are called type 1, type 2, and type 4. These types are distinguished by the genes involved, the types of hormones made, and the characteristic signs and symptoms.</p><p>Many different types of tumors are associated with multiple endocrine neoplasia. Type 1 frequently involves tumors of the parathyroid glands, the pituitary gland, and the pancreas. Tumors in these glands can lead to the overproduction of hormones. The most common sign of multiple endocrine neoplasia type 1 is overactivity of the parathyroid glands (hyperparathyroidism). Hyperparathyroidism disrupts the normal balance of calcium in the blood, which can lead to kidney stones, thinning of bones, nausea and vomiting, high blood pressure (hypertension), weakness, and fatigue.</p><p>The most common sign of multiple endocrine neoplasia type 2 is a form of thyroid cancer called medullary thyroid carcinoma. Some people with this disorder also develop a pheochromocytoma, which is an adrenal gland tumor that can cause dangerously high blood pressure.  Multiple endocrine neoplasia type 2 is divided into three subtypes: type 2A, type 2B (formerly called type 3), and familial medullary thyroid carcinoma (FMTC). These subtypes differ in their characteristic signs and symptoms and risk of specific tumors; for example, hyperparathyroidism occurs only in type 2A, and medullary thyroid carcinoma is the only feature of FMTC. The signs and symptoms of multiple endocrine neoplasia type 2 are relatively consistent within any one family.</p><p>Multiple endocrine neoplasia type 4 appears to have signs and symptoms similar to those of type 1, although it is caused by mutations in a different gene. Hyperparathyroidism is the most common feature, followed by tumors of the pituitary gland, additional endocrine glands, and other organs.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CDKN1B
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CDKN1B
+related-gene(2)/gene-symbol: MEN1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MEN1
+related-gene(3)/gene-symbol: RET
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/RET
+synonym(1): adenomatosis, familial endocrine
+synonym(2): endocrine neoplasia, multiple
+synonym(3): familial endocrine adenomatosis
+synonym(4): MEA
+synonym(5): MEN
+synonym(6): multiple endocrine adenomatosis
+synonym(7): multiple endocrine neoplasms
+db-key(1)/db: GTR
+db-key(1)/key: C0025267
+db-key(2)/db: GTR
+db-key(2)/key: C0025268
+db-key(3)/db: GTR
+db-key(3)/key: C0025269
+db-key(4)/db: GTR
+db-key(4)/key: C1833921
+db-key(5)/db: GTR
+db-key(5)/key: C1970712
+db-key(6)/db: GeneReviews
+db-key(6)/key: men1
+db-key(7)/db: GeneReviews
+db-key(7)/key: men2
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: E31.2
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: E31.20
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: E31.21
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: E31.22
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: E31.23
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: Z15.81
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: Z83.41
+db-key(15)/db: MeSH
+db-key(15)/key: D009377
+db-key(16)/db: OMIM
+db-key(16)/key: 131100
+db-key(17)/db: OMIM
+db-key(17)/key: 155240
+db-key(18)/db: OMIM
+db-key(18)/key: 162300
+db-key(19)/db: OMIM
+db-key(19)/key: 171400
+db-key(20)/db: OMIM
+db-key(20)/key: 610755
+db-key(21)/db: Orphanet
+db-key(21)/key: 652
+db-key(22)/db: Orphanet
+db-key(22)/key: 653
+db-key(23)/db: Orphanet
+db-key(23)/key: 247698
+db-key(24)/db: Orphanet
+db-key(24)/key: 247709
+db-key(25)/db: Orphanet
+db-key(25)/key: 276152
+db-key(26)/db: Orphanet
+db-key(26)/key: 276161
+db-key(27)/db: SNOMED CT
+db-key(27)/key: 30664006
+db-key(28)/db: SNOMED CT
+db-key(28)/key: 46724008
+db-key(29)/db: SNOMED CT
+db-key(29)/key: 61530001
+db-key(30)/db: SNOMED CT
+db-key(30)/key: 61808009
+reviewed: 2017-03
+published: 2018-04-17

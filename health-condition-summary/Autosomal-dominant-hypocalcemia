@@ -1,0 +1,28 @@
+name: Autosomal dominant hypocalcemia
+ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-hypocalcemia
+text/text-role: description
+text/html: <p>Autosomal dominant hypocalcemia is characterized by low levels of calcium in the blood (hypocalcemia). Affected individuals can have an imbalance of other molecules in the blood as well, including too much phosphate (hyperphosphatemia) or too little magnesium (hypomagnesemia). Some people with autosomal dominant hypocalcemia also have low levels of a hormone called parathyroid hormone (hypoparathyroidism). This hormone is involved in the regulation of calcium levels in the blood. Abnormal levels of calcium and other molecules in the body can lead to a variety of signs and symptoms, although about half of affected individuals have no associated health problems.</p><p>The most common features of autosomal dominant hypocalcemia include muscle spasms in the hands and feet (carpopedal spasms) and muscle cramping, prickling or tingling sensations (paresthesias), or twitching of the nerves and muscles (neuromuscular irritability) in various parts of the body. More severely affected individuals develop seizures, usually in infancy or childhood. Sometimes, these symptoms occur only during episodes of illness or fever.</p><p>Some people with autosomal dominant hypocalcemia have high levels of calcium in their urine (hypercalciuria), which can lead to deposits of calcium in the kidneys (nephrocalcinosis) or the formation of kidney stones (nephrolithiasis). These conditions can damage the kidneys and impair their function. Sometimes, abnormal deposits of calcium form in the brain, typically in structures called basal ganglia, which help control movement.</p><p>A small percentage of severely affected individuals have features of a kidney disorder called Bartter syndrome in addition to hypocalcemia. These features can include a shortage of potassium (hypokalemia) and magnesium and a buildup of the hormone aldosterone (hyperaldosteronism) in the blood. The abnormal balance of molecules can raise the pH of the blood, which is known as metabolic alkalosis. The combination of features of these two conditions is sometimes referred to as autosomal dominant hypocalcemia with Bartter syndrome or Bartter syndrome type V.</p><p>There are two types of autosomal dominant hypocalcemia distinguished by their genetic cause. The signs and symptoms of the two types are generally the same.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CASR
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CASR
+related-gene(2)/gene-symbol: GNA11
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GNA11
+synonym(1): ADH
+synonym(2): autosomal dominant hypoparathyroidism
+synonym(3): familial hypercalciuric hypocalcemia
+synonym(4): familial hypocalcemia
+db-key(1)/db: GTR
+db-key(1)/key: CN228164
+db-key(2)/db: MeSH
+db-key(2)/key: D006996
+db-key(3)/db: OMIM
+db-key(3)/key: 601198
+db-key(4)/db: OMIM
+db-key(4)/key: 615361
+db-key(5)/db: Orphanet
+db-key(5)/key: 428
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 711152006
+reviewed: 2015-02
+published: 2018-04-17

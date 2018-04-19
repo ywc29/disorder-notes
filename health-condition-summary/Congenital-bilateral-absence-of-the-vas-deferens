@@ -1,0 +1,33 @@
+name: Congenital bilateral absence of the vas deferens
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-bilateral-absence-of-the-vas-deferens
+text/text-role: description
+text/html: <p>Congenital bilateral absence of the vas deferens occurs in males when the tubes that carry sperm out of the testes (the vas deferens) fail to develop properly.  Although the testes usually develop and function normally, sperm cannot be transported through the vas deferens to become part of semen.  As a result, men with this condition are unable to father children (infertile) unless they use assisted reproductive technologies.  This condition has not been reported to affect sex drive or sexual performance.</p><p>This condition can occur alone or as a sign of cystic fibrosis, an inherited disease of the mucus glands. Cystic fibrosis causes progressive damage to the respiratory system and chronic digestive system problems. Many men with congenital bilateral absence of the vas deferens do not have the other characteristic features of cystic fibrosis; however, some men with this condition may experience mild respiratory or digestive problems.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CFTR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CFTR
+synonym(1): Absence of vas deferens
+synonym(2): Absent vasa
+synonym(3): CAVD
+synonym(4): CBAVD
+synonym(5): Congenital absence of vas deferens
+synonym(6): Congenital aplasia of vas deferens
+synonym(7): congenital bilateral absence of vas deferens
+db-key(1)/db: GTR
+db-key(1)/key: C0403814
+db-key(2)/db: GeneReviews
+db-key(2)/key: cf
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q55.3
+db-key(4)/db: MeSH
+db-key(4)/key: D052801
+db-key(5)/db: OMIM
+db-key(5)/key: 277180
+db-key(6)/db: Orphanet
+db-key(6)/key: 48
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 275416002
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 5286009
+reviewed: 2008-01
+published: 2018-04-17

@@ -1,0 +1,20 @@
+gene-symbol: GYS1
+name: glycogen synthase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/GYS1
+text/text-role: function
+text/html: <p>The <i>GYS1</i> gene provides instructions for making an enzyme called muscle glycogen synthase. Muscle glycogen synthase is produced in most cells but is most abundant in heart (cardiac) muscle and muscles used for movement (skeletal muscles). Muscle glycogen synthase helps link together molecules of the simple sugar glucose to form the complex sugar glycogen, which is a major source of stored energy in the body. Most glucose that is taken in from food is stored as glycogen in muscle cells. During contractions of the cardiac muscle or rapid or sustained movement of skeletal muscle, glycogen stored in muscle cells is broken down to supply the cells with energy.</p>
+related-health-condition/name: glycogen storage disease type 0
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-0
+synonym(1): glycogen [starch] synthase, muscle
+synonym(2): glycogen synthase 1 (muscle)
+synonym(3): GSY
+synonym(4): GYS
+synonym(5): GYS1_HUMAN
+synonym(6): muscle glycogen synthase
+synonym(7): muscle glycogen synthase 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2997
+db-key(2)/db: OMIM
+db-key(2)/key: 138570
+reviewed: 2014-01
+published: 2018-04-17

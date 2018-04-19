@@ -1,0 +1,8 @@
+gene-symbol: NOS1AP
+name: nitric oxide synthase 1 adaptor protein
+ghr-page: https://ghr.nlm.nih.gov/gene/NOS1AP
+related-health-condition/name: schizophrenia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/schizophrenia
+db-key/db: NCBI Gene
+db-key/key: 9722
+published: 2018-04-17

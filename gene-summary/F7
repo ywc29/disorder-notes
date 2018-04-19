@@ -1,0 +1,17 @@
+gene-symbol: F7
+name: coagulation factor VII
+ghr-page: https://ghr.nlm.nih.gov/gene/F7
+text/text-role: function
+text/html: <p>The <i>F7</i> gene provides instructions for making a protein called coagulation factor VII. Coagulation factors are a group of related proteins that are involved in the coagulation system, which is a series of chemical reactions that form blood clots. After an injury, clots seal off blood vessels to stop bleeding and trigger blood vessel repair.</p><p>Coagulation factor VII is made primarily by cells in the liver. The protein circulates in the bloodstream in an inactive form until the coagulation system is turned on (activated) by an injury that damages blood vessels. Activated coagulation factor VII helps turn on other coagulation factors in turn. This step-wise process ultimately promotes the conversion of an important coagulation protein called fibrinogen into fibrin, which is the material that forms blood clots.</p>
+related-health-condition/name: factor VII deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/factor-vii-deficiency
+synonym(1): FVII coagulation protein
+synonym(2): proconvertin
+synonym(3): serum prothrombin conversion accelerator
+synonym(4): SPCA
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2155
+db-key(2)/db: OMIM
+db-key(2)/key: 613878
+reviewed: 2016-10
+published: 2018-04-17

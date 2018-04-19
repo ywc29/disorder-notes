@@ -1,0 +1,37 @@
+gene-symbol: RET
+name: ret proto-oncogene
+ghr-page: https://ghr.nlm.nih.gov/gene/RET
+text/text-role: function
+text/html: <p>The <i>RET</i> gene provides instructions for producing a protein that is involved in signaling within cells.  This protein appears to be essential for the normal development of several kinds of  nerve cells, including nerves in the intestine (enteric neurons) and the portion of the nervous system that controls involuntary body functions such as heart rate (the autonomic nervous system).  The RET protein is also necessary for normal kidney development and the production of sperm (spermatogenesis).</p><p>The RET protein spans the cell membrane, so that one end of the protein remains inside the cell and the other end projects from the outer surface of the cell. This positioning of the protein allows it to interact with specific factors outside the cell and to receive signals that help the cell respond to its environment. When molecules that stimulate growth and development (growth factors) attach to the RET protein, a complex cascade of chemical reactions inside the cell is triggered.  These reactions instruct the cell to undergo certain changes, such as dividing or maturing to take on specialized functions.</p>
+related-health-condition(1)/name: Hirschsprung disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/hirschsprung-disease
+related-health-condition(2)/name: lung cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/lung-cancer
+related-health-condition(3)/name: multiple endocrine neoplasia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-endocrine-neoplasia
+related-health-condition(4)/name: nonsyndromic paraganglioma
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-paraganglioma
+synonym(1): cadherin family member 12
+synonym(2): cadherin-related family member 16
+synonym(3): CDHF12
+synonym(4): CDHR16
+synonym(5): HSCR1
+synonym(6): hydroxyaryl-protein kinase
+synonym(7): MEN2A
+synonym(8): MEN2B
+synonym(9): MTC1
+synonym(10): PTC
+synonym(11): rearranged during transfection
+synonym(12): RET-ELE1
+synonym(13): ret proto-oncogene (multiple endocrine neoplasia and medullary thyroid carcinoma 1, Hirschsprung disease)
+synonym(14): RET/PTC
+synonym(15): RET51
+synonym(16): RET_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5979
+db-key(2)/db: OMIM
+db-key(2)/key: 164761
+db-key(3)/db: OMIM
+db-key(3)/key: 188550
+reviewed: 2013-08
+published: 2018-04-17

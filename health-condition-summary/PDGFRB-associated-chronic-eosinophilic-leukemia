@@ -1,0 +1,35 @@
+name: PDGFRB-associated chronic eosinophilic leukemia
+ghr-page: https://ghr.nlm.nih.gov/condition/pdgfrb-associated-chronic-eosinophilic-leukemia
+text/text-role: description
+text/html: <p><i>PDGFRB</i>-associated chronic eosinophilic leukemia is a type of cancer of blood-forming cells. It is characterized by an elevated number of white blood cells called eosinophils in the blood. These cells help fight infections by certain parasites and are involved in the inflammation associated with allergic reactions. However, these circumstances do not account for the increased number of eosinophils in <i>PDGFRB</i>-associated chronic eosinophilic leukemia. Some people with this condition have an increased number of other types of white blood cells, such as neutrophils or mast cells, in addition to eosinophils. People with this condition can have an enlarged spleen (splenomegaly) or enlarged liver (hepatomegaly). Some affected individuals develop skin rashes, likely as a result of an abnormal immune response due to the increased number of eosinophils.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: ETV6
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ETV6
+related-gene(2)/gene-symbol: PDGFRB
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PDGFRB
+related-chromosome(1)/name: 5
+related-chromosome(1)/ghr-page: https://ghr.nlm.nih.gov/chromosome/5
+related-chromosome(2)/name: 12
+related-chromosome(2)/ghr-page: https://ghr.nlm.nih.gov/chromosome/12
+synonym(1): atypical Philadelphia-negative chronic myeloid leukemia
+synonym(2): chronic myelomonocytic leukemia
+synonym(3): chronic myeloproliferative disorder with eosinophilia
+synonym(4): clonal eosinophilia with chronic myeloproliferative disorder
+synonym(5): primary eosinophilia with chronic myeloproliferative disorder
+db-key(1)/db: GTR
+db-key(1)/key: C1851585
+db-key(2)/db: MeSH
+db-key(2)/key: D017681
+db-key(3)/db: Orphanet
+db-key(3)/key: 168950
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 128835008
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 188733003
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 190055003
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 413836008
+reviewed: 2013-02
+published: 2018-04-17

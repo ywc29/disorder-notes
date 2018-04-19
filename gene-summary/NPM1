@@ -1,0 +1,22 @@
+gene-symbol: NPM1
+name: nucleophosmin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/NPM1
+text/text-role: function
+text/html: <p>The <i>NPM1</i> gene provides instructions for making a protein called nucleophosmin, which is found in a small region inside the nucleus of the cell called the nucleolus. Nucleophosmin shuttles back and forth between the nucleus and the fluid surrounding it (the cytoplasm). It is thought to play a part in many cellular functions, including processes involved in protein formation, DNA replication, and the progression of the cell through the step-by-step process it takes to replicate itself (called the cell cycle). In the nucleolus, nucleophosmin attaches to another protein called ARF, keeping it in the proper location and protecting it from being broken down. The ARF protein is considered a tumor suppressor because it is involved in pathways that prevent cells from growing and dividing in an uncontrolled way.</p>
+related-health-condition(1)/name: acute promyelocytic leukemia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/acute-promyelocytic-leukemia
+related-health-condition(2)/name: cytogenetically normal acute myeloid leukemia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cytogenetically-normal-acute-myeloid-leukemia
+synonym(1): B23
+synonym(2): NPM
+synonym(3): NPM_HUMAN
+synonym(4): nucleolar protein NO38
+synonym(5): nucleophosmin
+synonym(6): nucleophosmin (nucleolar phosphoprotein B23, numatrin)
+synonym(7): nucleophosmin/nucleoplasmin family, member 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4869
+db-key(2)/db: OMIM
+db-key(2)/key: 164040
+reviewed: 2014-01
+published: 2018-04-17

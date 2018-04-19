@@ -1,0 +1,8 @@
+gene-symbol: CA4
+name: carbonic anhydrase 4
+ghr-page: https://ghr.nlm.nih.gov/gene/CA4
+related-health-condition/name: retinitis pigmentosa
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/retinitis-pigmentosa
+db-key/db: NCBI Gene
+db-key/key: 762
+published: 2018-04-17

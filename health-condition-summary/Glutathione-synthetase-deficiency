@@ -1,0 +1,34 @@
+name: Glutathione synthetase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/glutathione-synthetase-deficiency
+text/text-role: description
+text/html: <p>Glutathione synthetase deficiency is a disorder that prevents the production of an important molecule called glutathione. Glutathione helps prevent damage to cells by neutralizing harmful molecules generated during energy production. Glutathione also plays a role in processing medications and cancer-causing compounds (carcinogens), and building DNA, proteins, and other important cellular components.</p><p>Glutathione synthetase deficiency can be classified into three types: mild, moderate, and severe. Mild glutathione synthetase deficiency usually results in the destruction of red blood cells (hemolytic anemia). In addition, affected individuals may release large amounts of a compound called 5-oxoproline in their urine (5-oxoprolinuria). This compound builds up when glutathione is not processed correctly in cells.</p><p>Individuals with moderate glutathione synthetase deficiency may experience symptoms beginning shortly after birth including hemolytic anemia, 5-oxoprolinuria, and elevated acidity in the blood and tissues (metabolic acidosis).</p><p>In addition to the features present in moderate glutathione synthetase deficiency, individuals affected by the severe form of this disorder may experience neurological symptoms. These problems may include seizures; a generalized slowing down of physical reactions, movements, and speech (psychomotor retardation); intellectual disability; and a loss of coordination (ataxia). Some people with severe glutathione synthetase deficiency also develop recurrent bacterial infections.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: GSS
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GSS
+synonym(1): 5-oxoprolinemia
+synonym(2): 5-oxoprolinuria
+synonym(3): deficiency of glutathione synthase
+synonym(4): deficiency of glutathione synthetase
+synonym(5): pyroglutamic acidemia
+synonym(6): pyroglutamic aciduria
+db-key(1)/db: GTR
+db-key(1)/key: C0398746
+db-key(2)/db: GTR
+db-key(2)/key: C1856399
+db-key(3)/db: MeSH
+db-key(3)/key: D008661
+db-key(4)/db: OMIM
+db-key(4)/key: 231900
+db-key(5)/db: OMIM
+db-key(5)/key: 266130
+db-key(6)/db: Orphanet
+db-key(6)/key: 32
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 124706000
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 234589002
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 39112005
+reviewed: 2015-03
+published: 2018-04-17

@@ -1,0 +1,22 @@
+name: STING-associated vasculopathy with onset in infancy
+ghr-page: https://ghr.nlm.nih.gov/condition/sting-associated-vasculopathy-with-onset-in-infancy
+text/text-role: description
+text/html: <p>STING-associated vasculopathy with onset in infancy (SAVI) is a disorder involving abnormal inflammation throughout the body, especially in the skin, blood vessels, and lungs. Inflammation normally occurs when the immune system sends signaling molecules and white blood cells to a site of injury or disease to fight microbial invaders and help with tissue repair. Excessive inflammation damages the body's own cells and tissues. Disorders such as SAVI that result from abnormally increased inflammation are known as autoinflammatory diseases.</p><p>The signs and symptoms of SAVI begin in the first few months of life, and most are related to problems with blood vessels (vasculopathy) and damage to the tissues that rely on these vessels for their blood supply. Affected infants develop areas of severely damaged skin (lesions), particularly on the face, ears, nose, fingers, and toes. These lesions begin as rashes and can progress to become wounds (ulcers) and dead tissue (necrosis). The skin problems, which worsen in cold weather, can lead to complications such as scarred ears, a hole in the tissue that separates the two nostrils (nasal septum perforation), or fingers or toes that require amputation. Individuals with SAVI also have a purplish skin discoloration (livedo reticularis) caused by abnormalities in the tiny blood vessels of the skin. Affected individuals may also experience episodes of Raynaud phenomenon, in which the fingers and toes turn white or blue in response to cold temperature or other stresses. This effect occurs because of problems with the small vessels that carry blood to the extremities.</p><p>In addition to problems affecting the skin, people with SAVI have recurrent low-grade fevers and swollen lymph nodes. They may also develop widespread lung damage (interstitial lung disease) that can lead to the formation of scar tissue in the lungs (pulmonary fibrosis) and difficulty breathing; these respiratory complications can become life-threatening. Rarely, muscle inflammation (myositis) and joint stiffness also occur.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: TMEM173
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TMEM173
+synonym(1): SAVI
+synonym(2): STING-associated vasculopathy, infantile onset
+db-key(1)/db: GTR
+db-key(1)/key: C4014722
+db-key(2)/db: MeSH
+db-key(2)/key: D056660
+db-key(3)/db: OMIM
+db-key(3)/key: 615934
+db-key(4)/db: Orphanet
+db-key(4)/key: 425120
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 711164003
+reviewed: 2014-10
+published: 2018-04-17

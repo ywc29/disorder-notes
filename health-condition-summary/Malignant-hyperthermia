@@ -1,0 +1,55 @@
+name: Malignant hyperthermia
+ghr-page: https://ghr.nlm.nih.gov/condition/malignant-hyperthermia
+text/text-role: description
+text/html: <p>Malignant hyperthermia is a severe reaction to particular drugs that are often used during surgery and other invasive procedures. Specifically, this reaction occurs in response to some anesthetic gases, which are used to block the sensation of pain, and with a muscle relaxant that is used to temporarily paralyze a person during a surgical procedure. If given these drugs, people at risk for malignant hyperthermia may experience muscle rigidity, breakdown of muscle fibers (rhabdomyolysis), a high fever, increased acid levels in the blood and other tissues (acidosis), and a rapid heart rate. Without prompt treatment, the complications of malignant hyperthermia can be life-threatening.</p><p>People at increased risk for this disorder are said to have malignant hyperthermia susceptibility. Affected individuals may never know they have the condition unless they undergo testing or have a severe reaction to anesthesia during a surgical procedure. While this condition often occurs in people without other serious medical problems, certain inherited muscle diseases (including central core disease and multiminicore disease) are associated with malignant hyperthermia susceptibility.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CACNA1S
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CACNA1S
+related-gene(2)/gene-symbol: CACNA2D1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CACNA2D1
+related-gene(3)/gene-symbol: RYR1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/RYR1
+synonym(1): anesthesia related hyperthermia
+synonym(2): Hyperpyrexia, Malignant
+synonym(3): Hyperthermia, Malignant
+synonym(4): Malignant Hyperpyrexia
+synonym(5): MHS - Malignant hyperthermia
+db-key(1)/db: GTR
+db-key(1)/key: C1835161
+db-key(2)/db: GTR
+db-key(2)/key: C1838102
+db-key(3)/db: GTR
+db-key(3)/key: C1866076
+db-key(4)/db: GTR
+db-key(4)/key: C2930982
+db-key(5)/db: GTR
+db-key(5)/key: C2930984
+db-key(6)/db: GTR
+db-key(6)/key: CN031421
+db-key(7)/db: GeneReviews
+db-key(7)/key: mhs
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: T88.3
+db-key(9)/db: MeSH
+db-key(9)/key: D008305
+db-key(10)/db: OMIM
+db-key(10)/key: 145600
+db-key(11)/db: OMIM
+db-key(11)/key: 154275
+db-key(12)/db: OMIM
+db-key(12)/key: 154276
+db-key(13)/db: OMIM
+db-key(13)/key: 600467
+db-key(14)/db: OMIM
+db-key(14)/key: 601887
+db-key(15)/db: OMIM
+db-key(15)/key: 601888
+db-key(16)/db: Orphanet
+db-key(16)/key: 423
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 213026003
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 405501007
+reviewed: 2007-10
+published: 2018-04-17

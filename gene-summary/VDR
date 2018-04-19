@@ -1,0 +1,22 @@
+gene-symbol: VDR
+name: vitamin D receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/VDR
+text/text-role: function
+text/html: <p>The <i>VDR</i> gene provides instructions for making a protein called vitamin D receptor (VDR), which allows the body to respond to vitamin D. This vitamin can be acquired from foods in the diet or made in the body with help from sunlight exposure. Vitamin D is involved in maintaining the proper balance of several minerals in the body, including calcium and phosphate, which are essential for the normal formation of bones and teeth. One of vitamin D's major roles is to control the absorption of calcium and phosphate from the intestines into the bloodstream. Vitamin D is also involved in several processes unrelated to bone and tooth formation.</p><p>The VDR protein attaches (binds) to the active form of vitamin D, known as calcitriol. This interaction allows VDR to partner with another protein called retinoid X receptor (RXR). The resulting complex then binds to particular regions of DNA, known as vitamin D response elements, and regulates the activity of vitamin D-responsive genes. By turning these genes on or off, the complex helps control calcium and phosphate absorption and other processes.</p><p>Although the mechanism is not completely understood, the VDR protein is also involved in hair growth. Studies suggest that this process does not require calcitriol binding.</p>
+related-health-condition(1)/name: intervertebral disc disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/intervertebral-disc-disease
+related-health-condition(2)/name: leprosy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/leprosy
+related-health-condition(3)/name: vitamin D-dependent rickets
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/vitamin-d-dependent-rickets
+synonym(1): 1,25-dihydroxyvitamin D3 receptor
+synonym(2): NR1I1
+synonym(3): nuclear receptor subfamily 1 group I member 1
+synonym(4): vitamin D (1,25- dihydroxyvitamin D3) receptor
+synonym(5): vitamin D3 receptor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7421
+db-key(2)/db: OMIM
+db-key(2)/key: 601769
+reviewed: 2017-12
+published: 2018-04-17

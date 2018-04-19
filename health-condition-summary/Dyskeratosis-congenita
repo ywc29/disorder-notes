@@ -1,0 +1,65 @@
+name: Dyskeratosis congenita
+ghr-page: https://ghr.nlm.nih.gov/condition/dyskeratosis-congenita
+text/text-role: description
+text/html: <p>Dyskeratosis congenita is a disorder that can affect many parts of the body. There are three features that are characteristic of this disorder: fingernails and toenails that grow poorly or are abnormally shaped (nail dystrophy); changes in skin coloring (pigmentation), especially on the neck and chest, in a pattern often described as "lacy"; and white patches inside the mouth (oral leukoplakia).</p><p>People with dyskeratosis congenita have an increased risk of developing several life-threatening conditions. They are especially vulnerable to disorders that impair bone marrow function. These disorders disrupt the ability of the bone marrow to produce new blood cells. Affected individuals may develop aplastic anemia, also known as bone marrow failure, which occurs when the bone marrow does not produce enough new blood cells. They are also at higher than average risk for myelodysplastic syndrome, a condition in which immature blood cells fail to develop normally; this condition may progress to a form of blood cancer called leukemia. People with dyskeratosis congenita are also at increased risk of developing leukemia even if they never develop myelodysplastic syndrome. In addition, they have a higher than average risk of developing other cancers, especially cancers of the head, neck, anus, or genitals.</p><p>People with dyskeratosis congenita may also develop pulmonary fibrosis, a condition that causes scar tissue (fibrosis) to build up in the lungs, decreasing the transport of oxygen into the bloodstream. Additional signs and symptoms that occur in some people with dyskeratosis congenita include eye abnormalities such as narrow tear ducts that may become blocked, preventing drainage of tears and leading to eyelid irritation; dental problems; hair loss or prematurely grey hair; low bone mineral density (osteoporosis); degeneration (avascular necrosis) of the hip and shoulder joints; or liver disease. Some affected males may have narrowing (stenosis) of the urethra, which is the tube that carries urine out of the body from the bladder. Urethral stenosis may lead to difficult or painful urination and urinary tract infections.</p><p>The severity of dyskeratosis congenita varies widely among affected individuals. The least severely affected individuals have only a few mild physical features of the disorder and normal bone marrow function. More severely affected individuals have many of the characteristic physical features and experience bone marrow failure, cancer, or pulmonary fibrosis by early adulthood.</p><p>While most people with dyskeratosis congenita have normal intelligence and development of motor skills such as standing and walking, developmental delay may occur in some severely affected individuals. In one severe form of the disorder called Hoyeraal Hreidaarsson syndrome, affected individuals have an unusually small and underdeveloped cerebellum, which is the part of the brain that coordinates movement. Another severe variant called Revesz syndrome involves abnormalities in the light-sensitive tissue at the back of the eye (retina) in addition to the other symptoms of dyskeratosis congenita.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xr
+inheritance-pattern(3)/memo: X-linked recessive
+related-gene(1)/gene-symbol: CTC1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CTC1
+related-gene(2)/gene-symbol: DKC1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/DKC1
+related-gene(3)/gene-symbol: NHP2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/NHP2
+related-gene(4)/gene-symbol: NOP10
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/NOP10
+related-gene(5)/gene-symbol: RTEL1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/RTEL1
+related-gene(6)/gene-symbol: TERC
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/TERC
+related-gene(7)/gene-symbol: TERT
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/TERT
+related-gene(8)/gene-symbol: TINF2
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/TINF2
+related-gene(9)/gene-symbol: WRAP53
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/WRAP53
+synonym: Zinsser-Cole-Engman syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0265965
+db-key(2)/db: GTR
+db-key(2)/key: C1148551
+db-key(3)/db: GTR
+db-key(3)/key: C1851970
+db-key(4)/db: GTR
+db-key(4)/key: C1857144
+db-key(5)/db: GeneReviews
+db-key(5)/key: dkc
+db-key(6)/db: MeSH
+db-key(6)/key: D019871
+db-key(7)/db: OMIM
+db-key(7)/key: 127550
+db-key(8)/db: OMIM
+db-key(8)/key: 224230
+db-key(9)/db: OMIM
+db-key(9)/key: 268130
+db-key(10)/db: OMIM
+db-key(10)/key: 305000
+db-key(11)/db: OMIM
+db-key(11)/key: 613987
+db-key(12)/db: OMIM
+db-key(12)/key: 613988
+db-key(13)/db: OMIM
+db-key(13)/key: 613989
+db-key(14)/db: OMIM
+db-key(14)/key: 613990
+db-key(15)/db: OMIM
+db-key(15)/key: 615190
+db-key(16)/db: Orphanet
+db-key(16)/key: 1775
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 74911008
+reviewed: 2014-03
+published: 2018-04-17

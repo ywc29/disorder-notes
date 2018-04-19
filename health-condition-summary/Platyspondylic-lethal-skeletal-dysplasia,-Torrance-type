@@ -1,0 +1,26 @@
+name: Platyspondylic lethal skeletal dysplasia, Torrance type
+ghr-page: https://ghr.nlm.nih.gov/condition/platyspondylic-lethal-skeletal-dysplasia-torrance-type
+text/text-role: description
+text/html: <p>Platyspondylic lethal skeletal dysplasia, Torrance type is a severe disorder of bone growth.  People with this condition have very short arms and legs,  underdeveloped pelvic bones, and unusually short fingers and toes (brachydactyly).    This disorder is also characterized by flattened spinal bones (platyspondyly) and an exaggerated curvature of the lower back (lordosis).  Infants with this condition are born with a small chest with short ribs that can restrict the growth and expansion of the lungs.</p><p>As a result of these serious health problems, some affected fetuses do not survive to term.  Infants born with platyspondylic lethal skeletal dysplasia, Torrance type usually die at birth or shortly thereafter from respiratory failure.  A few affected people with milder signs and symptoms have lived into adulthood.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: COL2A1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/COL2A1
+synonym(1): platyspondylic chondrodysplasia, Torrance-Luton type
+synonym(2): platyspondylic skeletal dysplasia, Torrance type
+synonym(3): PLSD-T
+synonym(4): PLSD-TL
+db-key(1)/db: GTR
+db-key(1)/key: C1835437
+db-key(2)/db: MeSH
+db-key(2)/key: D003095
+db-key(3)/db: MeSH
+db-key(3)/key: D010009
+db-key(4)/db: OMIM
+db-key(4)/key: 151210
+db-key(5)/db: Orphanet
+db-key(5)/key: 1417
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 254047006
+reviewed: 2008-07
+published: 2018-04-17

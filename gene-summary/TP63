@@ -1,0 +1,41 @@
+gene-symbol: TP63
+name: tumor protein p63
+ghr-page: https://ghr.nlm.nih.gov/gene/TP63
+text/text-role: function
+text/html: <p>The <i>TP63</i> gene provides instructions for making a protein called tumor protein p63 (also known simply as p63). The p63 protein functions as a transcription factor, which means it attaches (binds) to certain regions of DNA and controls the activity of particular genes.</p><p>The p63 protein interacts with other proteins to turn many different genes on and off at different times. The action of p63 helps regulate numerous cell activities, including cell growth and division (proliferation), cell maintenance, the process by which cells mature to carry out specific functions (differentiation), the ability of cells to stick to one another (cell adhesion), and the orderly self-destruction of cells (apoptosis).</p><p>The p63 protein plays a critical role in early development. It is especially important for the normal development of ectodermal structures, such as the skin, hair, teeth, and nails. Studies suggest that it also plays essential roles in the development of the limbs, facial features, urinary system, and other organs and tissues. In addition to its roles in development, the p63 protein appears to be necessary for the maintenance of various cells and tissues later in life.</p>
+related-health-condition/name: ankyloblepharon-ectodermal defects-cleft lip/palate syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ankyloblepharon-ectodermal-defects-cleft-lip-palate-syndrome
+synonym(1): AIS
+synonym(2): amplified in squamous cell carcinoma
+synonym(3): chronic ulcerative stomatitis protein
+synonym(4): CUSP
+synonym(5): KET
+synonym(6): NBP
+synonym(7): p40
+synonym(8): p51
+synonym(9): p51A
+synonym(10): p51B
+synonym(11): p53CP
+synonym(12): p63
+synonym(13): P63_HUMAN
+synonym(14): p73L
+synonym(15): TP53CP
+synonym(16): TP53L
+synonym(17): TP73L
+synonym(18): transformation-related protein 63
+synonym(19): tumor protein 63
+synonym(20): tumor protein p53-competing protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8626
+db-key(2)/db: OMIM
+db-key(2)/key: 103285
+db-key(3)/db: OMIM
+db-key(3)/key: 603273
+db-key(4)/db: OMIM
+db-key(4)/key: 603543
+db-key(5)/db: OMIM
+db-key(5)/key: 604292
+db-key(6)/db: OMIM
+db-key(6)/key: 605289
+reviewed: 2011-06
+published: 2018-04-17

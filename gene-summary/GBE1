@@ -1,0 +1,21 @@
+gene-symbol: GBE1
+name: 1,4-alpha-glucan branching enzyme 1
+ghr-page: https://ghr.nlm.nih.gov/gene/GBE1
+text/text-role: function
+text/html: <p>The <i>GBE1</i> gene provides instructions for making the glycogen branching enzyme.  This enzyme is involved in the last step of the production of a complex sugar called glycogen, which is a major source of stored energy in the body.  Glycogen is made up of many molecules of a simple sugar called glucose; some glucose molecules are linked together in a straight line, while others branch off the main line and form side chains. The glycogen branching enzyme is involved in the formation of these side chains. The branched structure of glycogen makes it more compact for storage and allows it to break down more easily when it is needed for fuel.</p>
+related-health-condition(1)/name: adult polyglucosan body disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/adult-polyglucosan-body-disease
+related-health-condition(2)/name: glycogen storage disease type IV
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-iv
+synonym(1): amylo-(1,4 to 1,6) transglucosidase
+synonym(2): amylo-(1,4 to 1,6) transglycosylase
+synonym(3): GBE
+synonym(4): GLGB_HUMAN
+synonym(5): glucan (1,4-alpha-), branching enzyme 1
+synonym(6): glycogen branching enzyme
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2632
+db-key(2)/db: OMIM
+db-key(2)/key: 607839
+reviewed: 2013-02
+published: 2018-04-17

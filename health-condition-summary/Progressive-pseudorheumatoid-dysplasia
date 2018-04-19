@@ -1,0 +1,24 @@
+name: Progressive pseudorheumatoid dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/progressive-pseudorheumatoid-dysplasia
+text/text-role: description
+text/html: <p>Progressive pseudorheumatoid dysplasia (PPRD) is a joint disease that worsens over time. This condition is characterized by breakdown (degeneration) of the cartilage between bones (articular cartilage). This cartilage covers and protects the ends of bones, and its degeneration leads to pain and stiffness in the joints and other features of PPRD.</p><p>PPRD usually begins in childhood, between ages 3 and 8. The first indications are usually an abnormal walking pattern, weakness and fatigue when active, and stiffness in the joints in the fingers and in the knees. Other signs and symptoms that develop over time include permanently bent fingers (camptodactyly), enlarged finger and knee joints (often mistaken as swelling), and a reduced amount of space between the bones at the hip and knee joints. Hip pain is a common problem by adolescence. Affected individuals have flattened bones in the spine (platyspondyly) that are abnormally shaped (beaked), which leads to an abnormal front-to-back curvature of the spine (kyphosis) and a short torso. At birth, people with PPRD are of normal length, but by adulthood, they are usually shorter than their peers. Affected adults also have abnormal deposits of calcium around the elbow, knee, and hip joints and limited movement in all joints, including those of the spine.</p><p>PPRD is often mistaken for another joint disorder that affects young people called juvenile rheumatoid arthritis. However, the joint problems in juvenile rheumatoid arthritis are associated with inflammation, while those in PPRD are not.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: WISP3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/WISP3
+synonym(1): progressive pseudorheumatoid arthropathy of childhood
+synonym(2): spondyloepiphyseal dysplasia tarda with progressive arthropathy
+db-key(1)/db: GTR
+db-key(1)/key: C0432215
+db-key(2)/db: GeneReviews
+db-key(2)/key: ppr-dysp
+db-key(3)/db: MeSH
+db-key(3)/key: D010009
+db-key(4)/db: OMIM
+db-key(4)/key: 208230
+db-key(5)/db: Orphanet
+db-key(5)/key: 1159
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 254065005
+reviewed: 2013-04
+published: 2018-04-17

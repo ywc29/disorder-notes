@@ -1,0 +1,34 @@
+name: Burn-McKeown syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/burn-mckeown-syndrome
+text/text-role: description
+text/html: <p>Burn-McKeown syndrome is a disorder that is present from birth (congenital) and involves abnormalities of the nasal passages, characteristic facial features, hearing loss, heart abnormalities, and short stature.</p><p>In people with Burn-McKeown syndrome, both nasal passages are usually narrowed (bilateral choanal stenosis) or completely blocked (bilateral choanal atresia), which can cause life-threatening breathing problems in infancy without surgical repair. Typical facial features include narrow openings of the eyelids (short palpebral fissures); a gap (coloboma) in the lower eyelids; widely spaced eyes (hypertelorism); a prominent bridge of the nose; a short space between the nose and the upper lip (philtrum); a small opening of the mouth (microstomia); and large, protruding ears.</p><p>Some people with Burn-McKeown syndrome have congenital hearing loss in both ears which varies in severity among affected individuals. The hearing loss is described as mixed, which means that it is caused by both changes in the inner ear (sensorineural hearing loss) and changes in the middle ear (conductive hearing loss).</p><p>Other features that can occur in Burn-McKeown syndrome include mild short stature and congenital heart defects such as patent ductus arteriosus (PDA). The ductus arteriosus is a connection between two major arteries, the aorta and the pulmonary artery. This connection is open during fetal development and normally closes shortly after birth. However, the ductus arteriosus remains open, or patent, in babies with PDA. If untreated, this heart defect causes infants to breathe rapidly, feed poorly, and gain weight slowly; in severe cases, it can lead to heart failure. Intelligence is unaffected in Burn-McKeown syndrome.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: TXNL4A
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TXNL4A
+synonym(1): bilateral choanal atresia, cardiac defects, deafness, and dysmorphic appearance
+synonym(2): BMKS
+synonym(3): choanal atresia-hearing loss-cardiac defects-craniofacial dysmorphism syndrome
+synonym(4): oculo-oto-facial dysplasia
+synonym(5): oculootofacial dysplasia
+synonym(6): OOFD
+db-key(1)/db: GTR
+db-key(1)/key: C1837822
+db-key(2)/db: GeneReviews
+db-key(2)/key: burn-mckeown
+db-key(3)/db: MeSH
+db-key(3)/key: D002754
+db-key(4)/db: MeSH
+db-key(4)/key: D003638
+db-key(5)/db: MeSH
+db-key(5)/key: D006330
+db-key(6)/db: MeSH
+db-key(6)/key: D019066
+db-key(7)/db: OMIM
+db-key(7)/key: 608572
+db-key(8)/db: Orphanet
+db-key(8)/key: 1200
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 720640005
+reviewed: 2016-08
+published: 2018-04-17

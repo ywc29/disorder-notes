@@ -1,0 +1,8 @@
+gene-symbol: IL2RB
+name: interleukin 2 receptor subunit beta
+ghr-page: https://ghr.nlm.nih.gov/gene/IL2RB
+related-health-condition/name: rheumatoid arthritis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/rheumatoid-arthritis
+db-key/db: NCBI Gene
+db-key/key: 3560
+published: 2018-04-17

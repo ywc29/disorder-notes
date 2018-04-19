@@ -1,0 +1,21 @@
+gene-symbol: RAB27A
+name: RAB27A, member RAS oncogene family
+ghr-page: https://ghr.nlm.nih.gov/gene/RAB27A
+text/text-role: function
+text/html: <p>The <i>RAB27A</i> gene provides instructions for making a protein that is involved in a process called vesicle trafficking, which moves proteins and other molecules within cells in sac-like structures called vesicles. Although the Rab27a protein is found in cells and tissues throughout the body, it appears to be most critical in pigment-producing cells called melanocytes and in certain immune system cells.</p><p>In melanocytes, the Rab27a protein helps transport structures called melanosomes. These structures produce a pigment called melanin, which is the substance that gives skin, hair, and eyes their color (pigmentation). Rab27a interacts with proteins produced from the <i>MLPH</i> and <i>MYO5A</i> genes to form a complex that transports melanosomes to the outer edges of melanocytes. From there, the melanosomes are transferred to other types of cells, where they provide the pigment needed for normal hair, skin, and eye coloring.</p><p>The Rab27a protein also plays an important role in immune system cells called T-lymphocytes. These cells recognize and attack foreign invaders, such as viruses and bacteria, to prevent infection and illness. Specifically, Rab27a is involved in cytotoxic granule exostosis, which is the process by which T-lymphocytes release cell-killing (cytotoxic) compounds to destroy foreign invaders.</p>
+related-health-condition/name: Griscelli syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/griscelli-syndrome
+synonym(1): GS2
+synonym(2): GTP-binding protein Ram
+synonym(3): HsT18676
+synonym(4): rab-27
+synonym(5): RAB27
+synonym(6): RAM
+synonym(7): ras-related protein Rab-27A
+synonym(8): RB27A_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5873
+db-key(2)/db: OMIM
+db-key(2)/key: 603868
+reviewed: 2013-09
+published: 2018-04-17

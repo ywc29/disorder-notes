@@ -1,0 +1,24 @@
+gene-symbol: RNF216
+name: ring finger protein 216
+ghr-page: https://ghr.nlm.nih.gov/gene/RNF216
+text/text-role: function
+text/html: <p>The <i>RNF216</i> gene provides instructions for making a protein that plays a role in the ubiquitin-proteasome system, which is the cell machinery that breaks down (degrades) unwanted proteins. Specifically, this protein functions as an E3 ubiquitin ligase. E3 ubiquitin ligases form part of a protein complex that tags damaged or excess proteins with molecules called ubiquitin. Ubiquitin serves as a signal to specialized cell structures known as proteasomes, which attach (bind) to the tagged proteins and degrade them.</p><p>The RNF216 protein tags proteins involved in an early immune response called inflammation to help control the response. RNF216 also regulates the amount of a protein in nerve cells (neurons) called Arc, which plays a role in a process called synaptic plasticity. Synaptic plasticity is the ability of the connections between neurons (synapses) to change and adapt over time in response to experience. This process is critical for learning and memory. It is likely that the RNF216 protein also regulates proteins involved in other body processes, although these proteins have not been identified.</p>
+related-health-condition/name: Gordon Holmes syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/gordon-holmes-syndrome
+synonym(1): CAHH
+synonym(2): E3 ubiquitin-protein ligase RNF216 isoform a
+synonym(3): E3 ubiquitin-protein ligase RNF216 isoform b
+synonym(4): RING-type E3 ubiquitin transferase RNF216
+synonym(5): triad domain-containing protein 3
+synonym(6): TRIAD3
+synonym(7): U7I1
+synonym(8): UBCE7IP1
+synonym(9): ubiquitin-conjugating enzyme 7-interacting protein 1
+synonym(10): ZIN
+synonym(11): zinc finger protein inhibiting NF-kappa-B
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 54476
+db-key(2)/db: OMIM
+db-key(2)/key: 609948
+reviewed: 2017-07
+published: 2018-04-17

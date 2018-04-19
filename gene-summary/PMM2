@@ -1,0 +1,17 @@
+gene-symbol: PMM2
+name: phosphomannomutase 2
+ghr-page: https://ghr.nlm.nih.gov/gene/PMM2
+text/text-role: function
+text/html: <p>The <i>PMM2</i> gene provides instructions for making an enzyme called phosphomannomutase 2 (PMM2). This enzyme is involved in a process called glycosylation, which attaches groups of sugar molecules (oligosaccharides) to proteins. Oligosaccharides are made up of many small sugar molecules that are attached to one another in a long chain. Glycosylation modifies proteins so they can perform a wider variety of functions. In one of the early steps of glycosylation, the PMM2 enzyme converts a molecule called mannose-6-phosphate to mannose-1-phosphate. Subsequently, mannose-1-phosphate is converted into GDP-mannose, which can transfer its small sugar molecule called mannose to the growing oligosaccharide chain. Once the correct number of small sugar molecules are linked together to form the oligosaccharide, it can be attached to a protein.</p>
+related-health-condition/name: PMM2-congenital disorder of glycosylation
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pmm2-congenital-disorder-of-glycosylation
+synonym(1): CDG1a
+synonym(2): phosphomannomutase
+synonym(3): PMM
+synonym(4): PMM2_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5373
+db-key(2)/db: OMIM
+db-key(2)/key: 601785
+reviewed: 2010-07
+published: 2018-04-17

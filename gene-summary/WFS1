@@ -1,0 +1,25 @@
+gene-symbol: WFS1
+name: wolframin ER transmembrane glycoprotein
+ghr-page: https://ghr.nlm.nih.gov/gene/WFS1
+text/text-role: function
+text/html: <p>The <i>WFS1</i> gene provides instructions for producing a protein called wolframin that is thought to regulate the amount of calcium in cells. A proper calcium balance is important for many different cellular functions, including cell-to-cell communication, the tensing (contraction) of muscles, and protein processing. The wolframin protein is found in many different tissues, such as the pancreas, brain, heart, bones, muscles, lungs, liver, and kidneys.</p><p>Within cells, wolframin is located in the membrane of a structure called the endoplasmic reticulum. Among its many activities, the endoplasmic reticulum folds and modifies newly formed proteins so they have the correct 3-dimensional shape to function properly. The endoplasmic reticulum also helps transport proteins and other molecules to specific sites within the cell or to the cell surface. Wolframin is thought to play a role in protein folding and aid in the maintenance of endoplasmic reticulum function by regulating calcium levels. In the pancreas, wolframin may help fold a protein precursor of insulin (called proinsulin) into the mature hormone that controls blood glucose levels. In the inner ear, wolframin may help maintain the proper levels of calcium ions or other charged particles that are essential for hearing.</p>
+related-health-condition(1)/name: nonsyndromic hearing loss
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-hearing-loss
+related-health-condition(2)/name: Wolfram syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/wolfram-syndrome
+synonym(1): DFNA6
+synonym(2): DFNA14
+synonym(3): DFNA38
+synonym(4): DIDMOAD
+synonym(5): WFRS
+synonym(6): WFS
+synonym(7): WFS1_HUMAN
+synonym(8): Wolfram syndrome 1 (wolframin)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7466
+db-key(2)/db: OMIM
+db-key(2)/key: 606201
+db-key(3)/db: OMIM
+db-key(3)/key: 614296
+reviewed: 2012-04
+published: 2018-04-17

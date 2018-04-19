@@ -1,0 +1,19 @@
+gene-symbol: FZD6
+name: frizzled class receptor 6
+ghr-page: https://ghr.nlm.nih.gov/gene/FZD6
+text/text-role: function
+text/html: <p>The <i>FZD6</i> gene provides instructions for making a protein called frizzled-6. This protein is embedded in the outer membrane of cells, where it is involved in transmitting chemical signals from outside the cell to the cell's nucleus.</p><p>Specifically, frizzled-6 participates in the Wnt signaling pathway, a series of steps that affect the way cells and tissues develop. Wnt signaling is important for cell division (proliferation), attachment of cells to one another (adhesion), cell movement (migration), and many other cellular activities. At the cell surface, frizzled-6 attaches (binds) to certain proteins, which triggers the frizzled-6 protein to send signals into the cell and initiate the Wnt signaling pathway.</p><p>Frizzled-6 is active in many tissues. During early development it plays a critical role in the growth and development of nails, particularly the attachment of the nail to the nail bed. Studies suggest that frizzled-6 is also involved in hair growth.</p>
+related-health-condition/name: nonsyndromic congenital nail disorder 10
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-congenital-nail-disorder-10
+synonym(1): frizzled 6, seven transmembrane spanning receptor
+synonym(2): frizzled family receptor 6
+synonym(3): frizzled homolog 6
+synonym(4): FZ-6
+synonym(5): FZ6
+synonym(6): HFZ6
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8323
+db-key(2)/db: OMIM
+db-key(2)/key: 603409
+reviewed: 2017-03
+published: 2018-04-17

@@ -1,0 +1,24 @@
+name: Purine nucleoside phosphorylase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/purine-nucleoside-phosphorylase-deficiency
+text/text-role: description
+text/html: <p>Purine nucleoside phosphorylase deficiency is one of several disorders that damage the immune system and cause severe combined immunodeficiency (SCID). People with SCID lack virtually all immune protection from foreign invaders such as bacteria, viruses, and fungi. Affected individuals are prone to repeated and persistent infections that can be very serious or life-threatening. These infections are often caused by "opportunistic" organisms that ordinarily do not cause illness in people with a normal immune system. Infants with SCID typically grow much more slowly than healthy children and experience pneumonia, chronic diarrhea, and widespread skin rashes. Without successful treatment to restore immune function, children with SCID usually do not survive past early childhood.</p><p>About two-thirds of individuals with purine nucleoside phosphorylase deficiency have neurological problems, which may include developmental delay, intellectual disability, difficulties with balance and coordination (ataxia), and muscle stiffness (spasticity). People with purine nucleoside phosphorylase deficiency are also at increased risk of developing autoimmune disorders, which occur when the immune system malfunctions and attacks the body's tissues and organs.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: PNP
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PNP
+synonym(1): nucleoside phosphorylase deficiency
+synonym(2): PNP deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0268125
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D81.5
+db-key(3)/db: MeSH
+db-key(3)/key: D016511
+db-key(4)/db: OMIM
+db-key(4)/key: 613179
+db-key(5)/db: Orphanet
+db-key(5)/key: 760
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 60743005
+reviewed: 2012-04
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: BSND
+name: barttin CLCNK type accessory beta subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/BSND
+text/text-role: function
+text/html: <p>The <i>BSND</i> gene provides instructions for making a protein called barttin. This protein is found primarily in the kidneys, where it attaches (binds) to two specific chloride channels: ClC-Ka (produced from the <i>CLCNKA</i> gene) and ClC-Kb (produced from the <i>CLCNKB</i> gene). The ClC-Ka and ClC-Kb channels transport charged atoms of chlorine (chloride ions) out of kidney cells.</p><p>Barttin is essential for the normal placement of ClC-Ka and ClC-Kb channels in the cell membrane. It also regulates the channels' stability and function. The transport of chloride ions is part of the mechanism by which the kidneys reabsorb salt (sodium chloride or NaCl) from the urine back into the bloodstream. The retention of salt affects the body's fluid levels and helps maintain blood pressure.</p><p>Barttin, ClC-Ka, and ClC-Kb are also found in the inner ear, where they play a role in normal hearing.</p>
+related-health-condition(1)/name: Bartter syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/bartter-syndrome
+related-health-condition(2)/name: nonsyndromic hearing loss
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-hearing-loss
+synonym(1): BART
+synonym(2): Bartter syndrome, infantile, with sensorineural deafness (Barttin)
+synonym(3): barttin
+synonym(4): barttin CLCNK-type chloride channel accessory beta subunit
+synonym(5): BSND_HUMAN
+synonym(6): deafness, autosomal recessive 73
+synonym(7): DFNB73
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7809
+db-key(2)/db: OMIM
+db-key(2)/key: 606412
+reviewed: 2011-02
+published: 2018-04-17

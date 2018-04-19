@@ -1,0 +1,16 @@
+gene-symbol: IL2RA
+name: interleukin 2 receptor subunit alpha
+ghr-page: https://ghr.nlm.nih.gov/gene/IL2RA
+related-health-condition(1)/name: Graves disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/graves-disease
+related-health-condition(2)/name: juvenile idiopathic arthritis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-idiopathic-arthritis
+related-health-condition(3)/name: multiple sclerosis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-sclerosis
+related-health-condition(4)/name: rheumatoid arthritis
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/rheumatoid-arthritis
+related-health-condition(5)/name: type 1 diabetes
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/type-1-diabetes
+db-key/db: NCBI Gene
+db-key/key: 3559
+published: 2018-04-17

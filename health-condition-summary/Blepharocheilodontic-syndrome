@@ -1,0 +1,32 @@
+name: Blepharocheilodontic syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/blepharocheilodontic-syndrome
+text/text-role: description
+text/html: <p>Blepharocheilodontic (BCD) syndrome is a disorder that is present at birth. It mainly affects the eyelids (blepharo-), upper lip (-cheilo-), and teeth (-dontic).</p><p>People with BCD syndrome have lower eyelids that turn out so that the inner surface is exposed (ectropion). The outside of the lower lid may sag away from the eye (euryblepharon), and the eyelids may not be able to close completely (lagophthalmia). There can be extra eyelashes (distichiasis) on the upper eyelids, ranging from a few extra eyelashes to a full extra set. These eyelashes do not grow along the edge of the eyelid with the normal lashes, but out of its inner lining. When the abnormal eyelashes touch the eyeball, they can cause damage to the clear covering of the eye (cornea). Affected individuals may also have widely spaced eyes (hypertelorism), a flat face, and a high forehead.</p><p>Other features of BCD syndrome usually include openings on both sides of the upper lip (bilateral cleft lip) and an opening in the roof of the mouth (cleft palate). Affected individuals may have fewer teeth than normal (oligodontia) and their teeth are often smaller than usual and cone-shaped. The dental abnormalities affect both primary teeth (sometimes called "baby teeth") and secondary (permanent) teeth. Other frequent features include sparse, fine hair and abnormal nails.</p><p>Occasionally people with BCD syndrome have additional features, including an obstruction of the anal opening (imperforate anus); malformation or absence of the butterfly-shaped gland in the lower neck called the thyroid, resulting in lack of thyroid gland function; or fused fingers or toes (syndactyly). Very rarely, affected individuals have incompletely formed arms or legs (limb reduction defects) or a spinal cord abnormality known as spina bifida.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CDH1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CDH1
+related-gene(2)/gene-symbol: CTNND1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CTNND1
+synonym(1): BCD syndrome
+synonym(2): BCDS
+synonym(3): blepharo-cheilo-dontic syndrome
+synonym(4): blepharo-cheilo-odontic syndrome
+synonym(5): clefting, ectropion, and conical teeth
+synonym(6): ectropion, inferior, with cleft lip and/or palate
+synonym(7): Elschnig syndrome
+synonym(8): lagophthalmia with bilateral cleft lip and palate
+db-key(1)/db: GTR
+db-key(1)/key: CN479606
+db-key(2)/db: MeSH
+db-key(2)/key: D000015
+db-key(3)/db: OMIM
+db-key(3)/key: 119580
+db-key(4)/db: OMIM
+db-key(4)/key: 617681
+db-key(5)/db: Orphanet
+db-key(5)/key: 1997
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 717911008
+reviewed: 2017-08
+published: 2018-04-17

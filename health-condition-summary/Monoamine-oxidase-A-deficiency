@@ -1,0 +1,25 @@
+name: Monoamine oxidase A deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/monoamine-oxidase-a-deficiency
+text/text-role: description
+text/html: <p>Monoamine oxidase A deficiency is a rare disorder that occurs almost exclusively in males. It is characterized by mild intellectual disability and behavioral problems beginning in early childhood.</p><p>Most boys with monoamine oxidase A deficiency are less able to control their impulses than their peers, causing aggressive or violent outbursts. In addition, affected individuals may have features of other behavioral disorders, including autism spectrum disorder and attention deficit-hyperactivity disorder (ADHD). These features can include obsessive behaviors, difficulty forming friendships, and problems focusing attention. Sleep problems, such as trouble falling asleep or night terrors, can also occur in monoamine oxidase A deficiency.</p><p>Some people with monoamine oxidase A deficiency have episodes of skin flushing, sweating, headaches, or diarrhea. Similar episodes can occur in female family members of males with monoamine oxidase A deficiency, although females do not experience other signs or symptoms of the condition.</p><p>In some cases, certain foods, such as cheese, appear to worsen symptoms of monoamine oxidase A deficiency.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: MAOA
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MAOA
+synonym(1): Brunner syndrome
+synonym(2): deficiency of monoamine oxidase A
+synonym(3): X-linked monoamine oxidase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0796275
+db-key(2)/db: MeSH
+db-key(2)/key: D008607
+db-key(3)/db: MeSH
+db-key(3)/key: D040181
+db-key(4)/db: OMIM
+db-key(4)/key: 300615
+db-key(5)/db: Orphanet
+db-key(5)/key: 3057
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 718210003
+reviewed: 2017-05
+published: 2018-04-17

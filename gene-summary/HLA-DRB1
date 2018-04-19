@@ -1,0 +1,52 @@
+gene-symbol: HLA-DRB1
+name: major histocompatibility complex, class II, DR beta 1
+ghr-page: https://ghr.nlm.nih.gov/gene/HLA-DRB1
+text/text-role: function
+text/html: <p>The <i>HLA-DRB1</i> gene provides instructions for making a protein that plays a critical role in the immune system. The <i>HLA-DRB1</i> gene is part of a family of genes called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body's own proteins from proteins made by foreign invaders such as viruses and bacteria.</p><p>The HLA complex is the human version of the major histocompatibility complex (MHC), a gene family that occurs in many species. The <i>HLA-DRB1</i> gene belongs to a group of MHC genes called MHC class II. MHC class II genes provide instructions for making proteins that are present on the surface of certain immune system cells. These proteins attach to protein fragments (peptides) outside the cell. MHC class II proteins display these peptides to the immune system. If the immune system recognizes the peptides as foreign (such as viral or bacterial peptides), it triggers a response to attack the invading viruses or bacteria.</p><p>The protein produced from the <i>HLA-DRB1</i> gene, called the beta chain, attaches (binds) to another protein called the alpha chain, which is produced from the <i>HLA-DRA</i> gene. Together, they form a functional protein complex called the HLA-DR antigen-binding heterodimer. This complex displays foreign peptides to the immune system to trigger the body's immune response.</p><p>Each MHC class II gene has many possible variations, allowing the immune system to react to a wide range of foreign invaders. Researchers have identified hundreds of different versions (alleles) of the <i>HLA-DRB1</i> gene, each of which is given a particular number (such as <i>HLA-DRB1</i>*04:01).</p>
+related-health-condition(1)/name: autoimmune Addison disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autoimmune-addison-disease
+related-health-condition(2)/name: Crohn disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/crohn-disease
+related-health-condition(3)/name: Graves disease
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/graves-disease
+related-health-condition(4)/name: Hashimoto thyroiditis
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/hashimoto-thyroiditis
+related-health-condition(5)/name: idiopathic inflammatory myopathy
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/idiopathic-inflammatory-myopathy
+related-health-condition(6)/name: juvenile idiopathic arthritis
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-idiopathic-arthritis
+related-health-condition(7)/name: multiple sclerosis
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-sclerosis
+related-health-condition(8)/name: narcolepsy
+related-health-condition(8)/ghr-page: https://ghr.nlm.nih.gov/condition/narcolepsy
+related-health-condition(9)/name: psoriatic arthritis
+related-health-condition(9)/ghr-page: https://ghr.nlm.nih.gov/condition/psoriatic-arthritis
+related-health-condition(10)/name: rheumatoid arthritis
+related-health-condition(10)/ghr-page: https://ghr.nlm.nih.gov/condition/rheumatoid-arthritis
+related-health-condition(11)/name: type 1 diabetes
+related-health-condition(11)/ghr-page: https://ghr.nlm.nih.gov/condition/type-1-diabetes
+synonym(1): 2B1F_HUMAN
+synonym(2): 2B1G_HUMAN
+synonym(3): 2B13_HUMAN
+synonym(4): DRB1
+synonym(5): DRw10
+synonym(6): DW2.2/DR2.2
+synonym(7): HLA class II histocompatibility antigen, DR-1 beta chain
+synonym(8): HLA-DR1B
+synonym(9): HLA-DRB
+synonym(10): human leucocyte antigen DRB1
+synonym(11): lymphocyte antigen DRB1
+synonym(12): major histocompatibility complex, class II, DR beta 1 precursor
+synonym(13): MHC class II antigen
+synonym(14): MHC class II HLA-DR beta 1 chain
+synonym(15): MHC class II HLA-DR-beta cell surface glycoprotein
+synonym(16): MHC class II HLA-DRw10-beta
+synonym(17): SS1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3123
+db-key(2)/db: OMIM
+db-key(2)/key: 142857
+db-key(3)/db: OMIM
+db-key(3)/key: 181000
+reviewed: 2014-06
+published: 2018-04-17

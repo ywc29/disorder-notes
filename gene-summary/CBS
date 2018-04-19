@@ -1,0 +1,18 @@
+gene-symbol: CBS
+name: cystathionine-beta-synthase
+ghr-page: https://ghr.nlm.nih.gov/gene/CBS
+text/text-role: function
+text/html: <p>The <i>CBS</i> gene provides instructions for making an enzyme called cystathionine beta-synthase. This enzyme acts in a chemical pathway and is responsible for using vitamin B6 to convert building block of proteins (amino acid) called homocysteine and serine to a molecule called cytathionine. Another enzyme then converts cystathionine to the amino acid cysteine, which is used to build proteins or is broken down and excreted in urine. Additionally, other amino acids, including methionine, are produced in this pathway.</p>
+related-health-condition/name: homocystinuria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/homocystinuria
+synonym(1): beta-thionase
+synonym(2): CBS_HUMAN
+synonym(3): HIP4
+synonym(4): methylcysteine synthase
+synonym(5): serine sulfhydrase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 875
+db-key(2)/db: OMIM
+db-key(2)/key: 613381
+reviewed: 2011-07
+published: 2018-04-17

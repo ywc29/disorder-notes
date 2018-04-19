@@ -1,0 +1,37 @@
+name: Polycythemia vera
+ghr-page: https://ghr.nlm.nih.gov/condition/polycythemia-vera
+text/text-role: description
+text/html: <p>Polycythemia vera is a condition characterized by an increased number of red blood cells in the bloodstream. Affected individuals may also have excess white blood cells and blood clotting cell fragments called platelets. These extra cells and platelets cause the blood to be thicker than normal. As a result, abnormal blood clots are more likely to form and block the flow of blood through arteries and veins. Individuals with polycythemia vera have an increased risk of deep vein thrombosis (DVT), a type of blood clot that occurs in the deep veins of the arms or legs. If a DVT travels through the bloodstream and lodges in the lungs, it can cause a life-threatening clot known as a pulmonary embolism (PE). Affected individuals also have an increased risk of heart attack and stroke caused by blood clots in the heart and brain.</p><p>Polycythemia vera typically develops in adulthood, around age 60, although in rare cases it occurs in children and young adults. This condition may not cause any symptoms in its early stages. Some people with polycythemia vera experience headaches, dizziness, ringing in the ears (tinnitus), impaired vision, or itchy skin. Affected individuals frequently have reddened skin because of the extra red blood cells. Other complications of polycythemia vera include an enlarged spleen (splenomegaly), stomach ulcers, gout (a form of arthritis caused by a buildup of uric acid in the joints), heart disease, and cancer of blood-forming cells (leukemia).</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: n
+inheritance-pattern(2)/memo: not inherited
+related-gene(1)/gene-symbol: JAK2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/JAK2
+related-gene(2)/gene-symbol: TET2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/TET2
+synonym(1): Osler-Vaquez disease
+synonym(2): polycythemia ruba vera
+synonym(3): primary polycythemia
+synonym(4): PRV
+synonym(5): PV
+db-key(1)/db: GTR
+db-key(1)/key: C0032463
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D45
+db-key(3)/db: MeSH
+db-key(3)/key: D011087
+db-key(4)/db: OMIM
+db-key(4)/key: 263300
+db-key(5)/db: Orphanet
+db-key(5)/key: 729
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 109992005
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 127066000
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 128841001
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 414127000
+reviewed: 2013-07
+published: 2018-04-17

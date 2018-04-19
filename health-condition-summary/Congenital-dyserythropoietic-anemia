@@ -1,0 +1,40 @@
+name: Congenital dyserythropoietic anemia
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-dyserythropoietic-anemia
+text/text-role: description
+text/html: <p>Congenital dyserythropoietic anemia (CDA) is an inherited blood disorder that affects the development of red blood cells. This disorder is one of many types of anemia, which is a condition characterized by a shortage of red blood cells. This shortage prevents the blood from carrying an adequate supply of oxygen to the body's tissues. The resulting symptoms can include tiredness (fatigue), weakness, pale skin, and other complications.</p><p>Researchers have identified three major types of CDA: type I, type II, and type III. The types have different genetic causes and different but overlapping patterns of signs and symptoms.</p><p>CDA type I is characterized by moderate to severe anemia. It is usually diagnosed in childhood or adolescence, although in some cases, the condition can be detected before birth. Many affected individuals have yellowing of the skin and eyes (jaundice) and an enlarged liver and spleen (hepatosplenomegaly). This condition also causes the body to absorb too much iron, which builds up and can damage tissues and organs. In particular, iron overload can lead to an abnormal heart rhythm (arrhythmia), congestive heart failure, diabetes, and chronic liver disease (cirrhosis). Rarely, people with CDA type I are born with skeletal abnormalities, most often involving the fingers and/or toes.</p><p>The anemia associated with CDA type II can range from mild to severe, and most affected individuals have jaundice, hepatosplenomegaly, and the formation of hard deposits in the gallbladder called gallstones. This form of the disorder is usually diagnosed in adolescence or early adulthood. An abnormal buildup of iron typically occurs after age 20, leading to complications including heart disease, diabetes, and cirrhosis.</p><p>The signs and symptoms of CDA type III tend to be milder than those of the other types. Most affected individuals do not have hepatosplenomegaly, and iron does not build up in tissues and organs. In adulthood, abnormalities of a specialized tissue at the back of the eye (the retina) can cause vision impairment. Some people with CDA type III also have a blood disorder known as monoclonal gammopathy, which can lead to a cancer of white blood cells (multiple myeloma).</p><p>Several other variants of CDA have been described, although they appear to be rare and not much is known about them. Once researchers discover the genetic causes of these variants, some of them may be grouped with the three major types of CDA.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: CDAN1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CDAN1
+related-gene(2)/gene-symbol: SEC23B
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SEC23B
+synonym(1): Anemia, Dyserythropoietic, Congenital
+synonym(2): CDA
+db-key(1)/db: GTR
+db-key(1)/key: C0002876
+db-key(2)/db: GeneReviews
+db-key(2)/key: cda1
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: D64.4
+db-key(4)/db: MeSH
+db-key(4)/key: D000742
+db-key(5)/db: OMIM
+db-key(5)/key: 105600
+db-key(6)/db: OMIM
+db-key(6)/key: 224100
+db-key(7)/db: OMIM
+db-key(7)/key: 224120
+db-key(8)/db: Orphanet
+db-key(8)/key: 85
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 26409005
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 52951008
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 59548005
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 68870007
+reviewed: 2009-07
+published: 2018-04-17

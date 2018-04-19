@@ -1,0 +1,35 @@
+gene-symbol: RUNX1
+name: runt related transcription factor 1
+ghr-page: https://ghr.nlm.nih.gov/gene/RUNX1
+text/text-role: function
+text/html: <p>The <i>RUNX1</i> gene provides instructions for making a protein called runt-related transcription factor 1 (RUNX1). Like other transcription factors, the RUNX1 protein attaches (binds) to specific regions of DNA and helps control the activity of particular genes. This protein interacts with another protein called core binding factor beta or CBFβ (produced from the <i>CBFB</i> gene), which helps RUNX1 bind to DNA and prevents it from being broken down. Together, these proteins form one version of a complex known as core binding factor (CBF). The RUNX1 protein turns on (activates) genes that help control the development of blood cells (hematopoiesis). In particular, it plays an important role in development of hematopoietic stem cells, early blood cells that have the potential to develop into all types of mature blood cells such as white blood cells, red blood cells, and cell fragments called platelets.</p>
+related-health-condition(1)/name: core binding factor acute myeloid leukemia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/core-binding-factor-acute-myeloid-leukemia
+related-health-condition(2)/name: cytogenetically normal acute myeloid leukemia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cytogenetically-normal-acute-myeloid-leukemia
+related-health-condition(3)/name: rheumatoid arthritis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/rheumatoid-arthritis
+synonym(1): acute myeloid leukemia 1 protein
+synonym(2): AML1
+synonym(3): AMLCR1
+synonym(4): CBF-alpha-2
+synonym(5): CBFA2
+synonym(6): core-binding factor, runt domain, alpha subunit 2
+synonym(7): oncogene AML-1
+synonym(8): PEA2-alpha B
+synonym(9): PEBP2-alpha B
+synonym(10): PEBP2A2
+synonym(11): PEBP2aB
+synonym(12): polyomavirus enhancer-binding protein 2 alpha B subunit
+synonym(13): runt-related transcription factor 1
+synonym(14): RUNX1_HUMAN
+synonym(15): SL3-3 enhancer factor 1 alpha B subunit
+synonym(16): SL3/AKV core-binding factor alpha B subunit
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 861
+db-key(2)/db: OMIM
+db-key(2)/key: 151385
+db-key(3)/db: OMIM
+db-key(3)/key: 601399
+reviewed: 2013-11
+published: 2018-04-17

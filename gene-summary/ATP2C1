@@ -1,0 +1,28 @@
+gene-symbol: ATP2C1
+name: ATPase secretory pathway Ca2+ transporting 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ATP2C1
+text/text-role: function
+text/html: <p>The <i>ATP2C1</i> gene provides instructions for making a protein called hSPCA1. This protein is an adenosine triphosphate (ATP)-powered calcium pump, which uses energy from  ATP molecules to pump charged calcium atoms (calcium ions) across cell membranes. Specifically, the hSPCA1 protein transports calcium ions into a cell structure called the Golgi apparatus, where they are stored until needed. The appropriate storage and release of calcium is essential for many cell activities, including cell growth and division, cell movement, and attachment of cells to one another (cell adhesion).</p><p>The hSPCA1 protein also transports manganese ions into the Golgi apparatus. Manganese works with a variety of enzymes and is involved in processing newly formed proteins.</p><p>The hSPCA1 protein is present in cells throughout the body. It appears to be particularly important for the normal function of cells called keratinocytes, which are found in the outer layer of the skin (the epidermis).</p>
+related-health-condition/name: benign chronic pemphigus
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/benign-chronic-pemphigus
+synonym(1): AT2C1_HUMAN
+synonym(2): ATP-dependent Ca(2+) pump PMR1
+synonym(3): ATP2C1A
+synonym(4): ATPase 2C1
+synonym(5): ATPase, Ca(2+)-sequestering
+synonym(6): ATPase, Ca++ transporting, type 2C, member 1
+synonym(7): BCPM
+synonym(8): calcium-transporting ATPase type 2C member 1
+synonym(9): HHD
+synonym(10): hSPCA1
+synonym(11): HUSSY-28
+synonym(12): KIAA1347
+synonym(13): PMR1
+synonym(14): secretory pathway Ca2+/Mn2+ ATPase 1
+synonym(15): SPCA1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 27032
+db-key(2)/db: OMIM
+db-key(2)/key: 604384
+reviewed: 2013-05
+published: 2018-04-17

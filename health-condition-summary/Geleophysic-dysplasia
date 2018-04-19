@@ -1,0 +1,29 @@
+name: Geleophysic dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/geleophysic-dysplasia
+text/text-role: description
+text/html: <p>Geleophysic dysplasia is an inherited condition that affects many parts of the body.  It is characterized by abnormalities involving the bones, joints, heart, and skin.</p><p>People with geleophysic dysplasia have short stature with very short hands and feet. Most also develop thickened skin and joint deformities called contractures, both of which significantly limit mobility. Affected individuals usually have a limited range of motion in their fingers, toes, wrists, and elbows. Additionally, contractures in the legs and hips cause many affected people to walk on their toes.</p><p>The name of this condition, which comes from the Greek words for happy ("gelios") and nature ("physis"), is derived from the good-natured facial appearance seen in most affected individuals.  The distinctive facial features associated with this condition include a round face with full cheeks, a small nose with upturned nostrils, a broad nasal bridge, a thin upper lip, upturned corners of the mouth, and a flat area between the upper lip and the nose (philtrum).</p><p>Geleophysic dysplasia is also characterized by heart (cardiac) problems, particularly abnormalities of the cardiac valves. These valves normally control the flow of blood through the heart. In people with geleophysic dysplasia, the cardiac valves thicken, which impedes blood flow and increases blood pressure in the heart. Other heart problems have also been reported in people with geleophysic dysplasia; these include a narrowing of the artery from the heart to the lungs (pulmonary stenosis) and a hole between the two upper chambers of the heart (atrial septal defect).</p><p>Other features of geleophysic dysplasia can include an enlarged liver (hepatomegaly) and recurrent respiratory and ear infections. In severe cases, a narrowing of the windpipe (tracheal stenosis) can cause serious breathing problems. As a result of heart and respiratory abnormalities, geleophysic dysplasia is often life-threatening in childhood. However, some affected people have lived into adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: ADAMTSL2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ADAMTSL2
+related-gene(2)/gene-symbol: FBN1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FBN1
+synonym: geleophysic dwarfism
+db-key(1)/db: GTR
+db-key(1)/key: C3280054
+db-key(2)/db: GeneReviews
+db-key(2)/key: geleophys-dysp
+db-key(3)/db: MeSH
+db-key(3)/key: D009139
+db-key(4)/db: MeSH
+db-key(4)/key: D017880
+db-key(5)/db: OMIM
+db-key(5)/key: 231050
+db-key(6)/db: OMIM
+db-key(6)/key: 614185
+db-key(7)/db: Orphanet
+db-key(7)/key: 2623
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 28557005
+reviewed: 2009-12
+published: 2018-04-17

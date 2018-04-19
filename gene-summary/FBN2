@@ -1,0 +1,17 @@
+gene-symbol: FBN2
+name: fibrillin 2
+ghr-page: https://ghr.nlm.nih.gov/gene/FBN2
+text/text-role: function
+text/html: <p>The <i>FBN2</i> gene provides instructions for making a large protein called fibrillin-2. This protein is transported out of cells into the extracellular matrix, which is an intricate lattice of proteins and other molecules that forms in the spaces between cells. In this matrix, fibrillin-2 binds to other proteins to form threadlike filaments called microfibrils. Microfibrils become part of elastic fibers which enable the skin, ligaments, and blood vessels to stretch. Researchers have suggested that fibrillin-2 plays a role in directing the assembly of elastic fibers during embryonic development.  Microfibrils also contribute to more rigid tissues that support the lens of the eye, nerves, and muscles. Additionally, microfibrils hold certain growth factors called transforming growth factor-beta (TGF-beta) proteins, which keeps them inactive. When released from microfibrils, TGF-beta growth factors are activated and affect the growth and repair of tissues throughout the body.</p>
+related-health-condition/name: congenital contractural arachnodactyly
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-contractural-arachnodactyly
+synonym(1): CCA
+synonym(2): DA9
+synonym(3): FBN2_HUMAN
+synonym(4): fibrillin 2 (congenital contractural arachnodactyly)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2201
+db-key(2)/db: OMIM
+db-key(2)/key: 612570
+reviewed: 2013-07
+published: 2018-04-17

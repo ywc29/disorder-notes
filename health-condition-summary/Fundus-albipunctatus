@@ -1,0 +1,31 @@
+name: Fundus albipunctatus
+ghr-page: https://ghr.nlm.nih.gov/condition/fundus-albipunctatus
+text/text-role: description
+text/html: <p>Fundus albipunctatus is an eye disorder characterized by an impaired ability to see in low light (night blindness) and the presence of whitish-yellow flecks in the retina, which is the specialized light-sensitive tissue in the inner lining of the back of the eye (the fundus). The flecks are detected during an eye examination.</p><p>Individuals with fundus albipunctatus experience night blindness from an early age. In particular, they have delayed dark adaptation, which means they have trouble adapting from bright light to dark conditions, such as when driving into a dark tunnel on a sunny day. It often takes hours for adaptation to occur. Their vision in bright light is usually normal.</p><p>The flecks are especially abundant near the outer edge (the periphery) of the retina. Their density varies among affected individuals; some people have numerous flecks that overlap, while others have fewer. For unknown reasons, the flecks get smaller or fade with age in some affected individuals, although night vision does not improve.</p><p>While fundus albipunctatus typically does not worsen (progress) over time, some individuals with the condition develop other eye conditions, such as breakdown of the central region of the retina known as the macula (macular dystrophy) with loss of specialized light receptor cells called cones, which can affect vision in bright light.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: RDH5
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/RDH5
+related-gene(2)/gene-symbol: RLBP1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/RLBP1
+related-gene(3)/gene-symbol: RPE65
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/RPE65
+synonym(1): albipunctate retinal dystrophy
+synonym(2): Lauber's disease
+synonym(3): pigmentary retinal dystrophy
+db-key(1)/db: GTR
+db-key(1)/key: C0311338
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: H35.52
+db-key(3)/db: MeSH
+db-key(3)/key: D009755
+db-key(4)/db: MeSH
+db-key(4)/key: D015785
+db-key(5)/db: OMIM
+db-key(5)/key: 136880
+db-key(6)/db: Orphanet
+db-key(6)/key: 227796
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 68222009
+reviewed: 2017-02
+published: 2018-04-17

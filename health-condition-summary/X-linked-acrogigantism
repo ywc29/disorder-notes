@@ -1,0 +1,27 @@
+name: X-linked acrogigantism
+ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-acrogigantism
+text/text-role: description
+text/html: <p>X-linked acrogigantism (X-LAG) is a condition that causes abnormally fast growth beginning early in life. Babies with this condition are a normal size at birth but begin to grow rapidly in infancy or early childhood, and affected children are taller than their peers.</p><p>This rapid growth is caused by an abnormality of the pituitary gland. The pituitary gland, which is found at the base of the brain, produces hormones that control many important body functions, including growth. Individuals with X-LAG may have the condition as a result of enlargement (hyperplasia) of the gland or development of a noncancerous tumor in the gland (called a pituitary adenoma). Rarely, an affected individual has both pituitary hyperplasia and an adenoma. The abnormal gland releases excess amounts of growth hormone, a hormone that normally helps direct growth of the body's bones and tissues. Some people with X-LAG also have excess amounts of a hormone called growth hormone releasing hormone (GHRH), which is produced by a part of the brain called the hypothalamus. This hormone stimulates the release of growth hormone from the pituitary gland.</p><p>Some people with X-LAG have additional signs and symptoms such as facial features that are described as coarse; disproportionately large hands or feet (acral enlargement); an increased appetite; and a skin condition called acanthosis nigricans, in which the skin in body folds and creases becomes thick, dark, and velvety.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: GPR101
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GPR101
+related-chromosome/name: X
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/X
+synonym(1): chromosome Xq26 microduplication syndrome
+synonym(2): chromosome Xq26.3 duplication syndrome
+synonym(3): X-LAG
+synonym(4): X-linked acrogigantism syndrome
+synonym(5): XLAG
+db-key(1)/db: GTR
+db-key(1)/key: C3891556
+db-key(2)/db: GeneReviews
+db-key(2)/key: x-ag
+db-key(3)/db: MeSH
+db-key(3)/key: D005877
+db-key(4)/db: OMIM
+db-key(4)/key: 300942
+db-key(5)/db: Orphanet
+db-key(5)/key: 448372
+reviewed: 2017-11
+published: 2018-04-17

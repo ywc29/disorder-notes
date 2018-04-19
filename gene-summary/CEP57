@@ -1,0 +1,25 @@
+gene-symbol: CEP57
+name: centrosomal protein 57
+ghr-page: https://ghr.nlm.nih.gov/gene/CEP57
+text/text-role: function
+text/html: <p>The <i>CEP57</i> gene provides instructions for making a protein whose function is not completely understood. Within cells, the CEP57 protein is located in structures called centrosomes. Centrosomes have a role in cell division and the assembly of microtubules. Microtubules are fibers that help cells maintain their shape, assist in the process of cell division, and are essential for the movement (transport) of materials within cells. CEP57 seems especially important for the organization and stability of specialized microtubules called spindle microtubules, which are important for cell division. Before cells divide, they copy all of their chromosomes. Spindle microtubules, which are produced by centrosomes, attach to the duplicated chromosomes and pull one copy of each to opposite ends of the cell so that each new cell contains one complete set of chromosomes.</p><p>The CEP57 protein is also involved in the transport of certain molecules along microtubules, particularly a protein called fibroblast growth factor 2 (FGF2). FGF2 is an important signaling molecule that helps regulate growth and development of cells and tissues, and its transport inside the cell is important for relaying signals that instruct the cell how to function.</p>
+related-health-condition/name: mosaic variegated aneuploidy syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mosaic-variegated-aneuploidy-syndrome
+synonym(1): centrosomal protein 57kDa
+synonym(2): centrosomal protein of 57 kDa isoform a
+synonym(3): centrosomal protein of 57 kDa isoform b
+synonym(4): centrosomal protein of 57 kDa isoform c
+synonym(5): FGF2-interacting protein
+synonym(6): KIAA0092
+synonym(7): MVA2
+synonym(8): PIG8
+synonym(9): proliferation-inducing protein 8
+synonym(10): testis-specific protein 57
+synonym(11): translokin
+synonym(12): TSP57
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9702
+db-key(2)/db: OMIM
+db-key(2)/key: 607951
+reviewed: 2017-07
+published: 2018-04-17

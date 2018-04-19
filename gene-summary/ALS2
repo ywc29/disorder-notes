@@ -1,0 +1,24 @@
+gene-symbol: ALS2
+name: ALS2, alsin Rho guanine nucleotide exchange factor
+ghr-page: https://ghr.nlm.nih.gov/gene/ALS2
+text/text-role: function
+text/html: <p>The <i>ALS2</i> gene provides instructions for making a protein called alsin. Alsin is produced in a wide range of tissues, with highest amounts in the brain. This protein is particularly abundant in motor neurons, the specialized nerve cells in the brain and spinal cord that control the movement of muscles.</p><p>Alsin turns on (activates) multiple proteins called GTPases that convert a molecule called GTP into another molecule called GDP. GTPases play important roles in cell division, the process by which cells mature to carry out specific functions (differentiation), and the self-destruction of cells (apoptosis). The GTPases play important roles in several cell processes. The GTPases that are activated by alsin are involved in the proper placement of the various proteins and fats that make up the cell membrane, the transport of molecules from the cell membrane to the interior of the cell (endocytosis), and the development of specialized structures called axons and dendrites that project from neurons and are essential for the transmission of nerve impulses.</p>
+related-health-condition(1)/name: amyotrophic lateral sclerosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
+related-health-condition(2)/name: infantile-onset ascending hereditary spastic paralysis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/infantile-onset-ascending-hereditary-spastic-paralysis
+related-health-condition(3)/name: juvenile primary lateral sclerosis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-primary-lateral-sclerosis
+synonym(1): ALS2_HUMAN
+synonym(2): ALS2CR6
+synonym(3): ALSJ
+synonym(4): amyotrophic lateral sclerosis 2 (juvenile)
+synonym(5): IAHSP
+synonym(6): KIAA1563
+synonym(7): PLSJ
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57679
+db-key(2)/db: OMIM
+db-key(2)/key: 606352
+reviewed: 2016-04
+published: 2018-04-17

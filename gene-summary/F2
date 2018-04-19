@@ -1,0 +1,22 @@
+gene-symbol: F2
+name: coagulation factor II, thrombin
+ghr-page: https://ghr.nlm.nih.gov/gene/F2
+text/text-role: function
+text/html: <p>The <i>F2</i> gene provides instructions for making a protein called prothrombin (also called coagulation factor II). Coagulation factors are a group of related proteins that are essential for normal blood clotting (hemostasis). After an injury, clots protect the body by sealing off damaged blood vessels and preventing further blood loss.</p><p>Prothrombin is made chiefly by cells in the liver. The protein circulates in the bloodstream in an inactive form until an injury occurs that damages blood vessels. In response to injury, prothrombin is converted to its active form, thrombin. Thrombin then converts a protein called fibrinogen into fibrin, the primary protein that makes up blood clots.</p><p>Thrombin is also thought to be involved in cell growth and division (proliferation), tissue repair, and the formation of new blood vessels (angiogenesis).</p>
+related-health-condition(1)/name: prothrombin deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/prothrombin-deficiency
+related-health-condition(2)/name: prothrombin thrombophilia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/prothrombin-thrombophilia
+synonym(1): Blood Coagulation Factor II
+synonym(2): coagulation factor II
+synonym(3): coagulation factor II (thrombin)
+synonym(4): prothrombin B-chain
+synonym(5): PT
+synonym(6): Q7Z7P3_HUMAN
+synonym(7): serine protease
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2147
+db-key(2)/db: OMIM
+db-key(2)/key: 176930
+reviewed: 2008-09
+published: 2018-04-17

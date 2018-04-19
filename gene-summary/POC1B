@@ -1,0 +1,10 @@
+gene-symbol: POC1B
+name: POC1 centriolar protein B
+ghr-page: https://ghr.nlm.nih.gov/gene/POC1B
+related-health-condition(1)/name: cone-rod dystrophy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cone-rod-dystrophy
+related-health-condition(2)/name: Joubert syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/joubert-syndrome
+db-key/db: NCBI Gene
+db-key/key: 282809
+published: 2018-04-17

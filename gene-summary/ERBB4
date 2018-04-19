@@ -1,0 +1,10 @@
+gene-symbol: ERBB4
+name: erb-b2 receptor tyrosine kinase 4
+ghr-page: https://ghr.nlm.nih.gov/gene/ERBB4
+related-health-condition(1)/name: amyotrophic lateral sclerosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
+related-health-condition(2)/name: polycystic ovary syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/polycystic-ovary-syndrome
+db-key/db: NCBI Gene
+db-key/key: 2066
+published: 2018-04-17

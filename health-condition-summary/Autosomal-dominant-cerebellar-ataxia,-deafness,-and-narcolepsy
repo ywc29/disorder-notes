@@ -1,0 +1,26 @@
+name: Autosomal dominant cerebellar ataxia, deafness, and narcolepsy
+ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-cerebellar-ataxia-deafness-and-narcolepsy
+text/text-role: description
+text/html: <p>Autosomal dominant cerebellar ataxia, deafness, and narcolepsy (ADCADN) is a nervous system disorder with signs and symptoms that usually begin in mid-adulthood and gradually get worse.</p><p>People with ADCADN have difficulty coordinating movements (ataxia) and mild to moderate hearing loss caused by abnormalities of the inner ear (sensorineural deafness). Most have excessive daytime sleepiness (narcolepsy). Narcolepsy is typically accompanied by cataplexy, which is a sudden brief loss of muscle tone in response to strong emotion (such as excitement, surprise, or anger). These episodes of muscle weakness can cause an affected person to slump over or fall, which occasionally leads to injury. These characteristic signs and symptoms of ADCADN typically begin in a person's thirties.</p><p>Eventually, people with ADCADN also experience a decline of intellectual function (dementia). The cognitive problems often begin with impairment of executive function, which is the ability to plan and implement actions and develop problem-solving strategies. Other features that can occur as the condition worsens include degeneration of the nerves that carry information from the eyes to the brain (optic atrophy); clouding of the lenses of the eyes (cataracts); numbness, tingling, or pain in the arms and legs (sensory neuropathy); puffiness or swelling (lymphedema) of the limbs; an inability to control the bowels or the flow of urine (incontinence); depression; uncontrollable crying or laughing (pseudobulbar signs); or a distorted view of reality (psychosis). Affected individuals usually survive into their forties or fifties.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: DNMT1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DNMT1
+synonym(1): ADCA-DN syndrome
+synonym(2): ADCADN
+synonym(3): autosomal dominant cerebellar ataxia-deafness-narcolepsy syndrome
+synonym(4): cerebellar ataxia, deafness, and narcolepsy, autosomal dominant
+db-key(1)/db: GTR
+db-key(1)/key: C1858804
+db-key(2)/db: GeneReviews
+db-key(2)/key: ataxias
+db-key(3)/db: MeSH
+db-key(3)/key: D002524
+db-key(4)/db: OMIM
+db-key(4)/key: 604121
+db-key(5)/db: Orphanet
+db-key(5)/key: 314404
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 722293005
+reviewed: 2017-07
+published: 2018-04-17

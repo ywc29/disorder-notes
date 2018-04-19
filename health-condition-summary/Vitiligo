@@ -1,0 +1,41 @@
+name: Vitiligo
+ghr-page: https://ghr.nlm.nih.gov/condition/vitiligo
+text/text-role: description
+text/html: <p>Vitiligo is a condition that causes patchy loss of skin coloring (pigmentation). The average age of onset of vitiligo is in the mid-twenties, but it can appear at any age. It tends to progress over time, with larger areas of the skin losing pigment. Some people with vitiligo also have patches of pigment loss affecting the hair on their scalp or body.</p><p>Researchers have identified several forms of vitiligo. Generalized vitiligo (also called nonsegmental vitiligo), which is the most common form, involves loss of pigment (depigmentation) in patches of skin all over the body. Depigmentation typically occurs on the face, neck, and scalp, and around body openings such as the mouth and genitals. Sometimes pigment is lost in mucous membranes, such as the lips. Loss of pigmentation is also frequently seen in areas that tend to experience rubbing, impact, or other trauma, such as the hands, arms, and places where bones are close to the skin surface (bony prominences). Another form called segmental vitiligo is associated with smaller patches of depigmented skin that appear on one side of the body in a limited area; this occurs in about 10 percent of affected individuals.</p><p>Vitiligo is generally considered to be an autoimmune disorder. Autoimmune disorders occur when the immune system attacks the body's own tissues and organs. In people with vitiligo the immune system appears to attack the pigment cells (melanocytes) in the skin. About 15 to 25 percent of people with vitiligo are also affected by at least one other autoimmune disorder, particularly autoimmune thyroid disease, rheumatoid arthritis, type 1 diabetes, psoriasis, pernicious anemia, Addison disease, or systemic lupus erythematosus.</p><p>In the absence of other autoimmune conditions, vitiligo does not affect general health or physical functioning. However, concerns about appearance and ethnic identity are significant issues for many affected individuals.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: NLRP1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/NLRP1
+related-gene(2)/gene-symbol: PTPN22
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PTPN22
+synonym: VTLG
+db-key(1)/db: GTR
+db-key(1)/key: C0042900
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: H02.73
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: H02.731
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: H02.732
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: H02.733
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: H02.734
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: H02.735
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: H02.736
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: H02.739
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: L80
+db-key(11)/db: MeSH
+db-key(11)/key: D014820
+db-key(12)/db: OMIM
+db-key(12)/key: 193200
+db-key(13)/db: Orphanet
+db-key(13)/key: 3435
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 56727007
+reviewed: 2015-01
+published: 2018-04-17

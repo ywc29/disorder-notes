@@ -1,0 +1,8 @@
+gene-symbol: KRT8
+name: keratin 8
+ghr-page: https://ghr.nlm.nih.gov/gene/KRT8
+related-health-condition/name: cryptogenic cirrhosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cryptogenic-cirrhosis
+db-key/db: NCBI Gene
+db-key/key: 3856
+published: 2018-04-17

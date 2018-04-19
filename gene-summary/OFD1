@@ -1,0 +1,29 @@
+gene-symbol: OFD1
+name: OFD1, centriole and centriolar satellite protein
+ghr-page: https://ghr.nlm.nih.gov/gene/OFD1
+text/text-role: function
+text/html: <p>The <i>OFD1</i> gene provides instructions for making a protein whose function is not fully understood. It appears to play a critical role in the early development of many parts of the body, including the brain, face, limbs, and kidneys.</p><p>The OFD1 protein is located at the base of cilia, which are finger-like projections that stick out from the surface of cells. Cilia are involved in cell movement and in many different chemical signaling pathways. They play important roles in the development and function of many parts of the body. Researchers suspect that the OFD1 protein is essential for the normal formation of cilia.</p><p>Studies suggest that the OFD1 protein may have additional functions. In the earliest stages of development, it appears to be involved in determining the left-right axis (the imaginary line that separates the left and right sides of the body). The OFD1 protein is also found in the nucleus, although its function in this cell structure is unknown.</p>
+related-health-condition(1)/name: Joubert syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/joubert-syndrome
+related-health-condition(2)/name: oral-facial-digital syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/oral-facial-digital-syndrome
+related-health-condition(3)/name: primary ciliary dyskinesia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/primary-ciliary-dyskinesia
+related-health-condition(4)/name: Simpson-Golabi-Behmel syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/simpson-golabi-behmel-syndrome
+synonym(1): 71-7A
+synonym(2): CXorf5
+synonym(3): JBTS10
+synonym(4): MGC117039
+synonym(5): MGC117040
+synonym(6): OFD1_HUMAN
+synonym(7): oral-facial-digital syndrome 1
+synonym(8): SGBS2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8481
+db-key(2)/db: OMIM
+db-key(2)/key: 300170
+db-key(3)/db: OMIM
+db-key(3)/key: 300804
+reviewed: 2010-02
+published: 2018-04-17

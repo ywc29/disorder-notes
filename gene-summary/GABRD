@@ -1,0 +1,10 @@
+gene-symbol: GABRD
+name: gamma-aminobutyric acid type A receptor delta subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/GABRD
+related-health-condition(1)/name: genetic epilepsy with febrile seizures plus
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/genetic-epilepsy-with-febrile-seizures-plus
+related-health-condition(2)/name: juvenile myoclonic epilepsy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-myoclonic-epilepsy
+db-key/db: NCBI Gene
+db-key/key: 2563
+published: 2018-04-17

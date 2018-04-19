@@ -1,0 +1,24 @@
+gene-symbol: KIF1B
+name: kinesin family member 1B
+ghr-page: https://ghr.nlm.nih.gov/gene/KIF1B
+text/text-role: function
+text/html: <p>The <i>KIF1B</i> gene provides instructions for making a protein called kinesin family member 1B, part of the kinesin family of proteins.  These proteins are essential for the transport of materials within cells.  Kinesin proteins function like freight trains that transport cargo, and their structure is suited for this cargo-carrying function.  One part of the protein, called the motor domain, provides the power to move the protein and its cargo along a track-like system made from structures called microtubules.  Another part of the kinesin protein, which varies among members of this protein family, binds to specific materials for transport.</p><p>Research suggests that the kinesin family member 1B protein specializes in carrying two types of cargo.  In nerve cells (neurons), this protein transports small, sac-like structures called synaptic vesicles, which contain materials necessary for the transmission of nerve impulses.  In other cell types, the kinesin family member 1B protein carries energy-producing structures called mitochondria.</p><p>In addition to its transport functions, the kinesin family member 1B protein appears to be involved in programmed cell death (apoptosis). Apoptosis is a common process throughout life that helps the body get rid of cells it does not need.</p>
+related-health-condition(1)/name: Charcot-Marie-Tooth disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+related-health-condition(2)/name: neuroblastoma
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/neuroblastoma
+related-health-condition(3)/name: nonsyndromic paraganglioma
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-paraganglioma
+synonym(1): CMT2
+synonym(2): CMT2A
+synonym(3): HMSNII
+synonym(4): KIAA0591
+synonym(5): KIAA1488
+synonym(6): KIF1B_HUMAN
+synonym(7): KLP
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23095
+db-key(2)/db: OMIM
+db-key(2)/key: 605995
+reviewed: 2011-10
+published: 2018-04-17

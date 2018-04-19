@@ -1,0 +1,94 @@
+name: Nonsyndromic holoprosencephaly
+ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-holoprosencephaly
+text/text-role: description
+text/html: <p>Nonsyndromic holoprosencephaly is an abnormality of brain development that also affects the head and face. Normally, the brain divides into two halves (hemispheres) during early development. Holoprosencephaly occurs when the brain fails to divide properly into the right and left hemispheres. This condition is called nonsyndromic to distinguish it from other types of holoprosencephaly caused by genetic syndromes, chromosome abnormalities, or substances that cause birth defects (teratogens). The severity of nonsyndromic holoprosencephaly varies widely among affected individuals, even within the same family.</p><p>Nonsyndromic holoprosencephaly can be grouped into four types according to the degree of brain division. From most to least severe, the types are known as alobar, semi-lobar, lobar, and middle interhemispheric variant (MIHV). In the most severe forms of nonsyndromic holoprosencephaly, the brain does not divide at all. These affected individuals have one central eye (cyclopia) and a tubular nasal structure (proboscis) located above the eye. Most babies with severe nonsyndromic holoprosencephaly die before birth or soon after. In the less severe forms, the brain is partially divided and the eyes are usually set close together (hypotelorism). The life expectancy of these affected individuals varies depending on the severity of symptoms.</p><p>People with nonsyndromic holoprosencephaly often have a small head (microcephaly), although they can develop a buildup of fluid in the brain (hydrocephalus) that causes increased head size (macrocephaly). Other features may include an opening in the roof of the mouth (cleft palate) with or without a split in the upper lip (cleft lip), one central front tooth instead of two (a single maxillary central incisor), and a flat nasal bridge. The eyeballs may be abnormally small (microphthalmia) or absent (anophthalmia).</p><p>Some individuals with nonsyndromic holoprosencephaly have a distinctive pattern of facial features, including a narrowing of the head at the temples, outside corners of the eyes that point upward (upslanting palpebral fissures), large ears, a short nose with upturned nostrils, and a broad and deep space between the nose and mouth (philtrum). In general, the severity of facial features is directly related to the severity of the brain abnormalities. However, individuals with mildly affected facial features can have severe brain abnormalities. Some people do not have apparent structural brain abnormalities but have some of the facial features associated with this condition. These individuals are considered to have a form of the disorder known as microform holoprosencephaly and are typically identified after the birth of a severely affected family member.</p><p>Most people with nonsyndromic holoprosencephaly have developmental delay and intellectual disability. Affected individuals also frequently have a malfunctioning pituitary gland, which is a gland located at the base of the brain that produces several hormones. Because pituitary dysfunction leads to the partial or complete absence of these hormones, it can cause a variety of disorders. Most commonly, people with nonsyndromic holoprosencephaly and pituitary dysfunction develop diabetes insipidus, a condition that disrupts the balance between fluid intake and urine excretion. Dysfunction in other parts of the brain can cause seizures, feeding difficulties, and problems regulating body temperature, heart rate, and breathing. The sense of smell may be diminished (hyposmia) or completely absent (anosmia) if the part of the brain that processes smells is underdeveloped or missing.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: DISP1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/DISP1
+related-gene(2)/gene-symbol: FGF8
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FGF8
+related-gene(3)/gene-symbol: FOXH1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/FOXH1
+related-gene(4)/gene-symbol: GLI2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/GLI2
+related-gene(5)/gene-symbol: NODAL
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/NODAL
+related-gene(6)/gene-symbol: PTCH1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/PTCH1
+related-gene(7)/gene-symbol: SHH
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/SHH
+related-gene(8)/gene-symbol: SIX3
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/SIX3
+related-gene(9)/gene-symbol: TDGF1
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/TDGF1
+related-gene(10)/gene-symbol: TGIF1
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/TGIF1
+related-gene(11)/gene-symbol: ZIC2
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/ZIC2
+synonym(1): holoprosencephaly sequence
+synonym(2): isolated holoprosencephaly
+synonym(3): isolated HPE
+synonym(4): non-syndromic, non-chromosomal holoprosencephaly
+synonym(5): non-syndromic, non-chromosomal HPE
+synonym(6): nonsyndromic HPE
+db-key(1)/db: GTR
+db-key(1)/key: C0079541
+db-key(2)/db: GTR
+db-key(2)/key: C1834877
+db-key(3)/db: GTR
+db-key(3)/key: C1835819
+db-key(4)/db: GTR
+db-key(4)/key: C1835820
+db-key(5)/db: GTR
+db-key(5)/key: C1836254
+db-key(6)/db: GTR
+db-key(6)/key: C1840528
+db-key(7)/db: GTR
+db-key(7)/key: C1840529
+db-key(8)/db: GTR
+db-key(8)/key: C1853830
+db-key(9)/db: GTR
+db-key(9)/key: C1856096
+db-key(10)/db: GTR
+db-key(10)/key: C1864827
+db-key(11)/db: GTR
+db-key(11)/key: C2675857
+db-key(12)/db: GTR
+db-key(12)/key: CN120371
+db-key(13)/db: GeneReviews
+db-key(13)/key: hpe-overview
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: Q04.2
+db-key(15)/db: MeSH
+db-key(15)/key: D016142
+db-key(16)/db: OMIM
+db-key(16)/key: 142945
+db-key(17)/db: OMIM
+db-key(17)/key: 142946
+db-key(18)/db: OMIM
+db-key(18)/key: 157170
+db-key(19)/db: OMIM
+db-key(19)/key: 236100
+db-key(20)/db: OMIM
+db-key(20)/key: 605934
+db-key(21)/db: OMIM
+db-key(21)/key: 609408
+db-key(22)/db: OMIM
+db-key(22)/key: 609637
+db-key(23)/db: OMIM
+db-key(23)/key: 610828
+db-key(24)/db: OMIM
+db-key(24)/key: 610829
+db-key(25)/db: Orphanet
+db-key(25)/key: 2162
+db-key(26)/db: SNOMED CT
+db-key(26)/key: 253136007
+db-key(27)/db: SNOMED CT
+db-key(27)/key: 253137003
+db-key(28)/db: SNOMED CT
+db-key(28)/key: 253138008
+db-key(29)/db: SNOMED CT
+db-key(29)/key: 30915001
+reviewed: 2010-09
+published: 2018-04-17

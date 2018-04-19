@@ -1,0 +1,29 @@
+name: Cytochrome P450 oxidoreductase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/cytochrome-p450-oxidoreductase-deficiency
+text/text-role: description
+text/html: <p>Cytochrome P450 oxidoreductase deficiency is a disorder of hormone production. This condition specifically affects steroid hormones, which are needed for normal development and reproduction. The hormonal changes associated with cytochrome P450 oxidoreductase deficiency can affect the development of the reproductive system, skeleton, and other parts of the body. These signs and symptoms are usually present at birth or become apparent in early childhood.</p><p>The signs and symptoms of cytochrome P450 oxidoreductase deficiency vary from mild to severe. Signs and symptoms of mild cases can include a failure to begin menstruation by age 16 (primary amenorrhea), an inability to have biological children (infertility) in both men and women, and a condition called polycystic ovarian syndrome (PCOS). PCOS is characterized by a hormonal imbalance in women that can lead to irregular menstruation, acne, excess body hair (hirsutism), and weight gain.</p><p>People with moderate cases of cytochrome P450 oxidoreductase deficiency may have external genitalia that do not look clearly male or female (ambiguous genitalia), and they may have infertility. People with moderate cytochrome P450 oxidoreductase deficiency usually do not have skeletal abnormalities.</p><p>The severe form of cytochrome P450 oxidoreductase deficiency is sometimes called Antley-Bixler syndrome with genital anomalies and disordered steroidogenesis. Hormonal changes in affected males and females lead to the development of ambiguous genitalia or other genital abnormalities, as well as infertility. Severe cases are also characterized by skeletal abnormalities, particularly involving bones of the head and face. These include premature fusion of the skull bones (craniosynostosis), a flattened mid-face, a prominent forehead, and low-set ears. Other skeletal abnormalities can include joint deformities (contractures) that limit movement; unusually long, slender fingers (arachnodactyly); bowing of the thigh bones; and radiohumeral synostosis, which is a bone abnormality that locks the elbows in a bent position. A blockage of the nasal passages (choanal atresia), intellectual disability, and delayed development are also associated with the severe form of the disorder.</p><p>Some women who are pregnant with fetuses affected by cytochrome P450 oxidoreductase deficiency experience mild symptoms of the disorder even though they themselves do not have the disorder. They may develop excessive body hair growth (hirsutism), acne, and a deep voice. These changes go away soon after delivery.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: POR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/POR
+synonym(1): Antley-Bixler syndrome
+synonym(2): Antley-Bixler syndrome-like phenotype with disordered steroidogenesis
+synonym(3): Antley-Bixler syndrome with disordered steroidogenesis
+synonym(4): combined partial deficiency of 17-hydroxylase and 21-hydroxylase
+synonym(5): congenital adrenal hyperplasia due to apparent combined p450c17 and p450c21 deficiency
+synonym(6): POR deficiency
+synonym(7): PORD
+db-key(1)/db: GTR
+db-key(1)/key: C1860042
+db-key(2)/db: GeneReviews
+db-key(2)/key: abs
+db-key(3)/db: MeSH
+db-key(3)/key: D054882
+db-key(4)/db: OMIM
+db-key(4)/key: 201750
+db-key(5)/db: Orphanet
+db-key(5)/key: 63269
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 62964007
+reviewed: 2014-03
+published: 2018-04-17

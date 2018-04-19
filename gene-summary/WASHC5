@@ -1,0 +1,18 @@
+gene-symbol: WASHC5
+name: WASH complex subunit 5
+ghr-page: https://ghr.nlm.nih.gov/gene/WASHC5
+text/text-role: function
+text/html: <p>The <i>WASHC5</i> gene provides instructions for making a protein called strumpellin.  Strumpellin is active (expressed) throughout the body, although its exact function is unknown.  The protein's structure suggests that stumpellin may interact with the structural framework inside cells (the cytoskeleton) and may attach (bind) to other proteins.</p>
+related-health-condition/name: spastic paraplegia type 8
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/spastic-paraplegia-type-8
+synonym(1): KIAA0196
+synonym(2): MGC111053
+synonym(3): SPG8
+synonym(4): STRUM_HUMAN
+synonym(5): strumpellin
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9897
+db-key(2)/db: OMIM
+db-key(2)/key: 610657
+reviewed: 2009-03
+published: 2018-04-17

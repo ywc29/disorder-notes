@@ -1,0 +1,110 @@
+name: Common variable immune deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/common-variable-immune-deficiency
+text/text-role: description
+text/html: <p>Common variable immune deficiency (CVID) is a disorder that impairs the immune system. People with CVID are highly susceptible to infection from foreign invaders such as bacteria, or more rarely, viruses and often develop recurrent infections, particularly in the lungs, sinuses, and ears. Pneumonia is common in people with CVID. Over time, recurrent infections can lead to chronic lung disease. Affected individuals may also experience infection or inflammation of the gastrointestinal tract, which can cause diarrhea and weight loss. Abnormal accumulation of immune cells causes enlarged lymph nodes (lymphadenopathy) or an enlarged spleen (splenomegaly) in some people with CVID. Immune cells can accumulate in other organs, forming small lumps called granulomas.</p><p>Approximately 25 percent of people with CVID have an autoimmune disorder, which occurs when the immune system malfunctions and attacks the body's tissues and organs. The blood cells are most frequently affected by autoimmune attacks in CVID; the most commonly occurring autoimmune disorders are immune thrombocytopenia purpura, which is an abnormal bleeding disorder caused by a decrease in cell fragments involved in blood clotting called platelets, and autoimmune hemolytic anemia, which results in premature destruction of red blood cells. Other autoimmune disorders such as rheumatoid arthritis can occur. Individuals with CVID also have a greater than normal risk of developing certain types of cancer, including a cancer of immune system cells called non-Hodgkin lymphoma and less frequently, stomach (gastric) cancer.</p><p>People with CVID may start experiencing signs and symptoms of the disorder anytime between childhood and adulthood; most people with CVID are diagnosed in their twenties or thirties. The life expectancy of individuals with CVID varies depending on the severity and frequency of illnesses they experience. Most people with CVID live into adulthood.</p><p>There are many different types of CVID that are distinguished by genetic cause. People with the same type of CVID may have varying signs and symptoms.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: u
+inheritance-pattern(3)/memo: pattern unknown
+related-gene(1)/gene-symbol: CD19
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CD19
+related-gene(2)/gene-symbol: CD81
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CD81
+related-gene(3)/gene-symbol: CR2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CR2
+related-gene(4)/gene-symbol: ICOS
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/ICOS
+related-gene(5)/gene-symbol: IKZF1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/IKZF1
+related-gene(6)/gene-symbol: IL21
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/IL21
+related-gene(7)/gene-symbol: LRBA
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/LRBA
+related-gene(8)/gene-symbol: MS4A1
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/MS4A1
+related-gene(9)/gene-symbol: NFKB1
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/NFKB1
+related-gene(10)/gene-symbol: NFKB2
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/NFKB2
+related-gene(11)/gene-symbol: PRKCD
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/PRKCD
+related-gene(12)/gene-symbol: TNFRSF13B
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/TNFRSF13B
+related-gene(13)/gene-symbol: TNFRSF13C
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/TNFRSF13C
+synonym(1): common variable hypogammaglobulinemia
+synonym(2): common variable immunodeficiency
+synonym(3): CVID
+synonym(4): immunodeficiency, common variable
+db-key(1)/db: GTR
+db-key(1)/key: C0009447
+db-key(2)/db: GTR
+db-key(2)/key: C3149378
+db-key(3)/db: GTR
+db-key(3)/key: C3150354
+db-key(4)/db: GTR
+db-key(4)/key: C3150738
+db-key(5)/db: GTR
+db-key(5)/key: C3150739
+db-key(6)/db: GTR
+db-key(6)/key: C3150740
+db-key(7)/db: GTR
+db-key(7)/key: C3150741
+db-key(8)/db: GTR
+db-key(8)/key: C3542922
+db-key(9)/db: GTR
+db-key(9)/key: C3553512
+db-key(10)/db: GTR
+db-key(10)/key: C3809928
+db-key(11)/db: GTR
+db-key(11)/key: C3809991
+db-key(12)/db: GTR
+db-key(12)/key: C4014258
+db-key(13)/db: GTR
+db-key(13)/key: C4225277
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: D83
+db-key(15)/db: ICD-10-CM
+db-key(15)/key: D83.0
+db-key(16)/db: ICD-10-CM
+db-key(16)/key: D83.8
+db-key(17)/db: ICD-10-CM
+db-key(17)/key: D83.9
+db-key(18)/db: MeSH
+db-key(18)/key: D017074
+db-key(19)/db: OMIM
+db-key(19)/key: 240500
+db-key(20)/db: OMIM
+db-key(20)/key: 607594
+db-key(21)/db: OMIM
+db-key(21)/key: 613493
+db-key(22)/db: OMIM
+db-key(22)/key: 613494
+db-key(23)/db: OMIM
+db-key(23)/key: 613495
+db-key(24)/db: OMIM
+db-key(24)/key: 613496
+db-key(25)/db: OMIM
+db-key(25)/key: 614699
+db-key(26)/db: OMIM
+db-key(26)/key: 614700
+db-key(27)/db: OMIM
+db-key(27)/key: 615559
+db-key(28)/db: OMIM
+db-key(28)/key: 615577
+db-key(29)/db: OMIM
+db-key(29)/key: 615767
+db-key(30)/db: OMIM
+db-key(30)/key: 616576
+db-key(31)/db: OMIM
+db-key(31)/key: 616873
+db-key(32)/db: Orphanet
+db-key(32)/key: 1572
+db-key(33)/db: SNOMED CT
+db-key(33)/key: 191011000
+db-key(34)/db: SNOMED CT
+db-key(34)/key: 23238000
+reviewed: 2016-05
+published: 2018-04-17

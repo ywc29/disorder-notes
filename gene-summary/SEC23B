@@ -1,0 +1,23 @@
+gene-symbol: SEC23B
+name: Sec23 homolog B, coat complex II component
+ghr-page: https://ghr.nlm.nih.gov/gene/SEC23B
+text/text-role: function
+text/html: <p>The <i>SEC23B</i> gene provides instructions for making one component of a large group of interacting proteins called coat protein complex II (COPII). COPII is involved in the formation of vesicles, which are small sac-like structures that transport proteins and other materials within cells. Specifically, COPII triggers the formation of vesicles in a cellular structure called the endoplasmic reticulum (ER), which is involved in protein processing and transport. These COPII vesicles carry proteins that are destined to be exported out of cells (secreted).</p><p>The SEC23B protein is very similar to the protein produced from a related gene, <i>SEC23A</i>. These proteins are both components of COPII, and they appear to have overlapping functions. In most types of cells, if one of these proteins is missing, the other may be able to compensate for the loss. However, research indicates that the SEC23B protein may have a unique function in developing red blood cells (erythroblasts).</p>
+related-health-condition/name: congenital dyserythropoietic anemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-dyserythropoietic-anemia
+synonym(1): CDA-II
+synonym(2): CDAII
+synonym(3): HEMPAS
+synonym(4): SC23B_HUMAN
+synonym(5): Sec23 homolog B
+synonym(6): Sec23 homolog B (S. cerevisiae)
+synonym(7): Sec23 homolog B, COPII coat complex component
+synonym(8): SEC23-like protein B
+synonym(9): SEC23-related protein B
+synonym(10): transport protein SEC23B
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10483
+db-key(2)/db: OMIM
+db-key(2)/key: 610512
+reviewed: 2009-07
+published: 2018-04-17

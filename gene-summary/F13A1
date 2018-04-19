@@ -1,0 +1,27 @@
+gene-symbol: F13A1
+name: coagulation factor XIII A chain
+ghr-page: https://ghr.nlm.nih.gov/gene/F13A1
+text/text-role: function
+text/html: <p>The <i>F13A1</i> gene provides instructions for making one part, the A subunit, of a protein called factor XIII. This protein is part of a group of related proteins called coagulation factors that are essential for normal blood clotting. They work together as part of the coagulation cascade, which is a series of chemical reactions that forms blood clots in response to injury. After an injury, clots seal off blood vessels to stop bleeding and trigger blood vessel repair. Factor XIII acts at the end of the cascade to strengthen and stabilize newly formed clots, preventing further blood loss.</p><p>Factor XIII in the bloodstream is made of two A subunits (produced from the <i>F13A1</i> gene) and two B subunits (produced from the <i>F13B</i> gene). When a new blood clot forms, the A and B subunits separate from one another, and the A subunit is cut (cleaved) to produce the active form of factor XIII (factor XIIIa). The active protein links together molecules of fibrin, the material that forms the clot, which strengthens the clot and keeps other molecules from breaking it down.</p><p>Studies suggest that factor XIII has additional functions, although these are less well understood than its role in blood clotting. Specifically, factor XIII is likely involved in other aspects of wound healing, immune system function, maintaining pregnancy, bone formation, and the growth of new blood vessels (angiogenesis).</p>
+related-health-condition/name: factor XIII deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/factor-xiii-deficiency
+synonym(1): bA525O21.1 (coagulation factor XIII, A1 polypeptide)
+synonym(2): coagulation factor XIII A chain precursor
+synonym(3): coagulation factor XIII, A polypeptide
+synonym(4): coagulation factor XIII, A1 polypeptide
+synonym(5): coagulation factor XIIIa
+synonym(6): F13A
+synonym(7): factor XIIIa
+synonym(8): fibrin stabilizing factor, A subunit
+synonym(9): fibrinoligase
+synonym(10): FSF, A subunit
+synonym(11): protein-glutamine gamma-glutamyltransferase A chain
+synonym(12): TGase
+synonym(13): transglutaminase A chain
+synonym(14): transglutaminase. plasma
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2162
+db-key(2)/db: OMIM
+db-key(2)/key: 134570
+reviewed: 2015-09
+published: 2018-04-17

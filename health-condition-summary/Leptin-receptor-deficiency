@@ -1,0 +1,25 @@
+name: Leptin receptor deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/leptin-receptor-deficiency
+text/text-role: description
+text/html: <p>Leptin receptor deficiency is a condition that causes severe obesity beginning in the first few months of life. Affected individuals are of normal weight at birth, but they are constantly hungry and quickly gain weight. The extreme hunger leads to chronic  excessive eating (hyperphagia) and obesity. Beginning in early childhood, affected individuals develop abnormal eating behaviors such as fighting with other children over food, hoarding food, and eating in secret.</p><p>People with leptin receptor deficiency also have hypogonadotropic hypogonadism, which is a condition caused by reduced production of hormones that direct sexual development. Affected individuals experience delayed puberty or do not go through puberty, and they may be unable to conceive children (infertile).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: LEPR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LEPR
+synonym(1): congenital deficiency of the leptin receptor
+synonym(2): leptin receptor-related monogenic obesity
+synonym(3): obesity due to leptin receptor gene deficiency
+synonym(4): obesity, morbid, due to leptin receptor deficiency
+synonym(5): obesity, morbid, nonsyndromic 2
+db-key(1)/db: GTR
+db-key(1)/key: C3554225
+db-key(2)/db: MeSH
+db-key(2)/key: D009767
+db-key(3)/db: OMIM
+db-key(3)/key: 614963
+db-key(4)/db: Orphanet
+db-key(4)/key: 179494
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 238136002
+reviewed: 2016-07
+published: 2018-04-17

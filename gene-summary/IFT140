@@ -1,0 +1,25 @@
+gene-symbol: IFT140
+name: intraflagellar transport 140
+ghr-page: https://ghr.nlm.nih.gov/gene/IFT140
+text/text-role: function
+text/html: <p>The <i>IFT140</i> gene provides instructions for making a protein that is involved in the formation and maintenance of cilia, which are microscopic, finger-like projections that stick out from the surface of cells and participate in signaling pathways that transmit information within and between cells. Cilia are important for the structure and function of many types of cells, including cells in the kidneys, liver, and brain. Light-sensing cells (photoreceptors) in the retina also contain cilia, which are essential for normal vision.  Cilia also play a role in the development of the bones, although the mechanism is not well understood.</p><p>The movement of substances within cilia and similar structures called flagella is known as intraflagellar transport. This process is essential for the assembly and maintenance of these cell structures. During intraflagellar transport, cells use molecules called IFT particles to carry materials to and from the tips of cilia. IFT particles are made of proteins produced from related genes that belong to the IFT gene family. Each IFT particle is made up of two groups of IFT proteins: complex A, which includes at least 6 proteins, and complex B, which includes at least 15 proteins. The protein produced from the <i>IFT140</i> gene forms part of IFT complex A (IFT-A).</p>
+related-health-condition(1)/name: asphyxiating thoracic dystrophy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/asphyxiating-thoracic-dystrophy
+related-health-condition(2)/name: Mainzer-Saldino syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/mainzer-saldino-syndrome
+synonym(1): c305C8.4
+synonym(2): c380F5.1
+synonym(3): gs114
+synonym(4): IF140_HUMAN
+synonym(5): intraflagellar transport 140 homolog (Chlamydomonas)
+synonym(6): intraflagellar transport protein 140 homolog
+synonym(7): KIAA0590
+synonym(8): MZSDS
+synonym(9): WD and tetratricopeptide repeats protein 2
+synonym(10): WDTC2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9742
+db-key(2)/db: OMIM
+db-key(2)/key: 614620
+reviewed: 2013-05
+published: 2018-04-17

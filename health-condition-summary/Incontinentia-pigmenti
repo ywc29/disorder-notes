@@ -1,0 +1,28 @@
+name: Incontinentia pigmenti
+ghr-page: https://ghr.nlm.nih.gov/condition/incontinentia-pigmenti
+text/text-role: description
+text/html: <p>Incontinentia pigmenti is a condition that can affect many body systems, particularly the skin.  This condition occurs much more often in females than in males.</p><p>Incontinentia pigmenti is characterized by skin abnormalities that evolve throughout childhood and young adulthood.  Many affected infants have a blistering rash at birth and in early infancy, which heals and is followed by the development of wart-like skin growths.  In early childhood, the skin develops grey or brown patches (hyperpigmentation) that occur in a swirled pattern.  These patches fade with time, and adults with incontinentia pigmenti usually have lines of unusually light-colored skin (hypopigmentation) on their arms and legs.</p><p>Other signs and symptoms of incontinentia pigmenti can include hair loss (alopecia) affecting the scalp and other parts of the body, dental abnormalities (such as small teeth or few teeth), eye abnormalities that can lead to vision loss, and lined or pitted fingernails and toenails.  Most people with incontinentia pigmenti have normal intelligence; however, this condition may affect the brain.  Associated problems can include delayed development or intellectual disability, seizures, and other neurological problems.</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+related-gene/gene-symbol: IKBKG
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/IKBKG
+synonym(1): Bloch-Siemens-Sulzberger Syndrome
+synonym(2): Bloch-Siemens syndrome
+synonym(3): Bloch-Sulzberger Syndrome
+synonym(4): IP
+db-key(1)/db: GTR
+db-key(1)/key: C0021171
+db-key(2)/db: GeneReviews
+db-key(2)/key: i-p
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q82.3
+db-key(4)/db: MeSH
+db-key(4)/key: D007184
+db-key(5)/db: OMIM
+db-key(5)/key: 308300
+db-key(6)/db: Orphanet
+db-key(6)/key: 464
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 367520004
+reviewed: 2008-06
+published: 2018-04-17

@@ -1,0 +1,16 @@
+gene-symbol: TMEM127
+name: transmembrane protein 127
+ghr-page: https://ghr.nlm.nih.gov/gene/TMEM127
+text/text-role: function
+text/html: <p>The <i>TMEM127</i> gene provides instructions for making a protein that acts as a tumor suppressor protein, which means it prevents cells from growing and dividing too quickly or in an uncontrolled way. The TMEM127 protein controls a signaling pathway that leads to cell growth and survival. Research shows that this pathway, regulated by a protein complex called mTORC1, is blocked (inhibited) by the TMEM127 protein, although the specific action of the TMEM127 protein is unknown.</p>
+related-health-condition/name: nonsyndromic paraganglioma
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-paraganglioma
+synonym(1): FLJ20507
+synonym(2): FLJ22257
+synonym(3): TM127_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 55654
+db-key(2)/db: OMIM
+db-key(2)/key: 613403
+reviewed: 2011-10
+published: 2018-04-17

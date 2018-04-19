@@ -1,0 +1,17 @@
+gene-symbol: CATSPER2
+name: cation channel sperm associated 2
+ghr-page: https://ghr.nlm.nih.gov/gene/CATSPER2
+text/text-role: function
+text/html: <p>The <i>CATSPER2</i> gene provides instructions for producing a protein that is found in the tail (flagellum) of sperm cells. The CATSPER2 protein plays a role in sperm cell movement (motility) and is required for sperm cells to push through the outside membrane of the egg cell during fertilization. The CATSPER2 protein is embedded in the membrane of the sperm tail and is necessary in order for positively charged calcium atoms (calcium cations) to enter the cell. Calcium cations are needed for a type of sperm motility called hyperactivation. Hyperactivation is characterized by vigorous movements of the sperm tail, which are required for the sperm to push through the membrane of the egg cell during fertilization.</p>
+related-health-condition/name: sensorineural deafness and male infertility
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/sensorineural-deafness-and-male-infertility
+synonym(1): cation channel sperm-associated protein 2
+synonym(2): cation channel, sperm associated 2
+synonym(3): CTSR2_HUMAN
+synonym(4): sperm ion channel
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 117155
+db-key(2)/db: OMIM
+db-key(2)/key: 607249
+reviewed: 2010-04
+published: 2018-04-17

@@ -1,0 +1,21 @@
+gene-symbol: ROR2
+name: receptor tyrosine kinase like orphan receptor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/ROR2
+text/text-role: function
+text/html: <p>The <i>ROR2</i> gene provides instructions for making a protein whose function is not well understood.  The ROR2 protein is part of a family of proteins known as receptor tyrosine kinases (RTKs), which play a role in chemical signaling within cells. RTKs are involved in many cell functions, including cell growth and division (proliferation), the process by which cells mature to carry out specific functions (differentiation), cell survival, and cell movement (motility).</p><p>Researchers believe that the ROR2 protein plays an essential role in development starting before birth. It is involved in chemical signaling pathways called Wnt signaling, which affect many aspects of development. These pathways control the activity of genes needed at specific times, and they regulate the interactions between cells as organs and tissues are forming. In particular, the ROR2 protein appears to be critical for the normal formation of the skeleton, heart, and genitals.</p>
+related-health-condition/name: Robinow syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/robinow-syndrome
+synonym(1): BDB1
+synonym(2): brachydactyly type B1 gene
+synonym(3): neurotrophic tyrosine kinase receptor-related 2 gene
+synonym(4): NTRKR2
+synonym(5): receptor tyrosine kinase-like orphan receptor 2
+synonym(6): ROR2_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4920
+db-key(2)/db: OMIM
+db-key(2)/key: 113000
+db-key(3)/db: OMIM
+db-key(3)/key: 602337
+reviewed: 2018-02
+published: 2018-04-17

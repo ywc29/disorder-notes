@@ -1,0 +1,39 @@
+gene-symbol: NLRP3
+name: NLR family pyrin domain containing 3
+ghr-page: https://ghr.nlm.nih.gov/gene/NLRP3
+text/text-role: function
+text/html: <p>The <i>NLRP3</i> gene (also known as <i>CIAS1</i>) provides instructions for making a protein called cryopyrin. Cryopyrin is a member of a family of proteins called nucleotide-binding domain and leucine-rich repeat containing (NLR) proteins, which are found in the fluid inside cells (cytoplasm). Cryopyrin is found mainly in white blood cells and in cartilage-forming cells (chondrocytes).</p><p>NLR proteins are involved in the immune system, helping to start and regulate the immune system's response to injury, toxins, or invasion by microorganisms. These proteins recognize specific molecules, become activated, and respond by helping to engage components of the immune system. Cryopyrin recognizes bacterial particles; chemicals such as asbestos, silica, and uric acid crystals; and compounds released by injured cells.</p><p>Once activated, groups of cryopyrin molecules assemble themselves along with other proteins into structures called inflammasomes, which are involved in the process of inflammation. Inflammation occurs when the immune system sends signaling molecules as well as white blood cells to a site of injury or disease to fight microbial invaders and facilitate tissue repair.</p>
+related-health-condition(1)/name: familial cold autoinflammatory syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-cold-autoinflammatory-syndrome
+related-health-condition(2)/name: Muckle-Wells syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/muckle-wells-syndrome
+related-health-condition(3)/name: neonatal onset multisystem inflammatory disease
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/neonatal-onset-multisystem-inflammatory-disease
+synonym(1): AGTAVPRL
+synonym(2): AII
+synonym(3): AII/AVP
+synonym(4): AII/AVP receptor-like
+synonym(5): angiotensin/vasopressin receptor AII/AVP-like
+synonym(6): AVP
+synonym(7): C1orf7
+synonym(8): CIAS1
+synonym(9): CLR1.1
+synonym(10): cryopyrin
+synonym(11): FCAS
+synonym(12): FCU
+synonym(13): FLJ95925
+synonym(14): MWS
+synonym(15): NACHT domain-, leucine-rich repeat-, and PYD-containing protein 3
+synonym(16): NACHT, LRR and PYD containing protein 3
+synonym(17): NALP3
+synonym(18): NALP3_HUMAN
+synonym(19): NLR family, pyrin domain containing 3
+synonym(20): nucleotide-binding oligomerization domain, leucine rich repeat and pyrin domain containing 3
+synonym(21): PYPAF1
+synonym(22): PYRIN-containing APAF1-like protein 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 114548
+db-key(2)/db: OMIM
+db-key(2)/key: 606416
+reviewed: 2008-09
+published: 2018-04-17

@@ -1,0 +1,29 @@
+name: Pfeiffer syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/pfeiffer-syndrome
+text/text-role: description
+text/html: <p>Pfeiffer syndrome is a genetic disorder characterized by the premature fusion of certain skull bones (craniosynostosis).  This early fusion prevents the skull from growing normally and affects the shape of the head and face.  Pfeiffer syndrome also affects bones in the hands and feet.</p><p>Many of the characteristic facial features of Pfeiffer syndrome result from premature fusion of the skull bones. Abnormal growth of these bones leads to bulging and wide-set eyes, a high forehead, an underdeveloped upper jaw, and a beaked nose. More than half of all children with Pfeiffer syndrome have hearing loss; dental problems are also common.</p><p>In people with Pfeiffer syndrome, the thumbs and first (big) toes are wide and bend away from the other digits. Unusually short fingers and toes (brachydactyly) are also common, and there may be some webbing or fusion between the digits (syndactyly).</p><p>Pfeiffer syndrome is divided into three subtypes. Type 1, also known as classic Pfeiffer syndrome, has symptoms as described above. Most individuals with type 1 Pfeiffer syndrome have normal intelligence and a normal life span. Types 2 and 3 are more severe forms of Pfeiffer syndrome that often involve problems with the nervous system. The premature fusion of skull bones can limit brain growth, leading to delayed development and other neurological problems. In addition, individuals with type 2 or 3 can have fusion of the bones (ankylosis) in the elbow or other joints, limiting mobility, and abnormalities of the face and airways, which can cause life-threatening breathing problems. Type 2 is distinguished from type 3 by the presence of a cloverleaf-shaped head, which is caused by more extensive fusion of bones in the skull.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: FGFR1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR1
+related-gene(2)/gene-symbol: FGFR2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR2
+synonym(1): acrocephalosyndactyly, type V
+synonym(2): ACS V
+synonym(3): ACS5
+synonym(4): craniofacial-skeletal-dermatologic dysplasia
+synonym(5): Noack syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1863356
+db-key(2)/db: GeneReviews
+db-key(2)/key: craniosynostosis
+db-key(3)/db: MeSH
+db-key(3)/key: D000168
+db-key(4)/db: OMIM
+db-key(4)/key: 101600
+db-key(5)/db: Orphanet
+db-key(5)/key: 710
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 70410008
+reviewed: 2017-01
+published: 2018-04-17

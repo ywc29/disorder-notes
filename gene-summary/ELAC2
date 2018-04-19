@@ -1,0 +1,10 @@
+gene-symbol: ELAC2
+name: elaC ribonuclease Z 2
+ghr-page: https://ghr.nlm.nih.gov/gene/ELAC2
+related-health-condition(1)/name: mitochondrial complex I deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/mitochondrial-complex-i-deficiency
+related-health-condition(2)/name: prostate cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+db-key/db: NCBI Gene
+db-key/key: 60528
+published: 2018-04-17

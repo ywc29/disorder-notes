@@ -1,0 +1,29 @@
+gene-symbol: POLR1D
+name: RNA polymerase I and III subunit D
+ghr-page: https://ghr.nlm.nih.gov/gene/POLR1D
+text/text-role: function
+text/html: <p>The <i>POLR1D</i> gene provides instructions for making one part (subunit) of two related enzymes called RNA polymerase I and RNA polymerase III. These enzymes are involved in the production (synthesis) of ribonucleic acid (RNA), a chemical cousin of DNA. Both enzymes help synthesize a form of RNA known as ribosomal RNA (rRNA). RNA polymerase III also plays a role in the synthesis of several other forms of RNA, including transfer RNA (tRNA). Ribosomal RNA and transfer RNA assemble protein building blocks (amino acids) into functioning proteins, which is essential for the normal functioning and survival of cells.</p><p>Based on its involvement in Treacher Collins syndrome, the <i>POLR1D</i> gene appears to play a critical role in the early development of structures that become bones and other tissues of the face.</p>
+related-health-condition/name: Treacher Collins syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/treacher-collins-syndrome
+synonym(1): AC19
+synonym(2): DNA-directed RNA polymerase I subunit D
+synonym(3): DNA-directed RNA polymerases I and III subunit RPAC2
+synonym(4): FLJ20616
+synonym(5): MGC9850
+synonym(6): polymerase (RNA) I polypeptide D
+synonym(7): polymerase (RNA) I polypeptide D, 16kDa
+synonym(8): polymerase (RNA) I subunit D
+synonym(9): RNA polymerase I subunit D
+synonym(10): RNA polymerases I and III subunit AC2
+synonym(11): RPA9
+synonym(12): RPA16
+synonym(13): RPAC2
+synonym(14): RPAC2_HUMAN
+synonym(15): RPC16
+synonym(16): RPO1-3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51082
+db-key(2)/db: OMIM
+db-key(2)/key: 613715
+reviewed: 2012-06
+published: 2018-04-17

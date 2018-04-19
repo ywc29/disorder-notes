@@ -1,0 +1,19 @@
+gene-symbol: KLHL3
+name: kelch like family member 3
+ghr-page: https://ghr.nlm.nih.gov/gene/KLHL3
+text/text-role: function
+text/html: <p>The <i>KLHL3</i> gene provides instructions for making a protein that plays a role in the cell machinery that breaks down (degrades) unwanted proteins, called the ubiquitin-proteasome system.</p><p>The KLHL3 protein is one piece of a complex known as an E3 ubiquitin ligase. E3 ubiquitin ligases function as part of the ubiquitin-proteasome system by tagging damaged and excess proteins with molecules called ubiquitin. Ubiquitin serves as a signal to specialized cell structures known as proteasomes, which attach (bind) to the tagged proteins and degrade them. The ubiquitin-proteasome system acts as the cell's quality control system by disposing of damaged, misshapen, and excess proteins. This system also regulates the level of proteins involved in several critical cell activities such as the timing of cell division and growth.</p><p>The KLHL3 protein identifies the target of the E3 ubiquitin ligase complex and attaches the complex to it. Complexes containing the KLHL3 protein tag proteins called WNK1 and WNK4 with ubiquitin. The WNK1 and WNK4 proteins are involved in controlling blood pressure in the body. By regulating the amount of these proteins available, KLHL3 plays a role in blood pressure control.</p>
+related-health-condition/name: pseudohypoaldosteronism type 2
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pseudohypoaldosteronism-type-2
+synonym(1): kelch-like family member 3
+synonym(2): kelch-like protein 3 isoform 1
+synonym(3): kelch-like protein 3 isoform 2
+synonym(4): kelch-like protein 3 isoform 3
+synonym(5): KIAA1129
+synonym(6): PHA2D
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 26249
+db-key(2)/db: OMIM
+db-key(2)/key: 605775
+reviewed: 2016-03
+published: 2018-04-17

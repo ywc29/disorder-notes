@@ -1,0 +1,21 @@
+name: Macrozoospermia
+ghr-page: https://ghr.nlm.nih.gov/condition/macrozoospermia
+text/text-role: description
+text/html: <p>Macrozoospermia is a condition that affects only males. It is characterized by abnormal sperm and leads to an inability to father biological children (infertility).</p><p>In affected males, almost all sperm cells have abnormally large and misshapen heads. The head of the sperm cell contains the male's genetic information that is to be passed on to the next generation. Normally, the head of a sperm cell contains one copy of each chromosome. In men with macrozoospermia, the sperm cell head contains extra chromosomes, usually four copies of each instead of the usual one. This additional genetic material accounts for the larger head size of the sperm cell. Additionally, instead of having one tail (flagellum) per sperm cell, affected sperm have multiple flagella, most often four.</p><p>Because of the additional genetic material, if one of these abnormal sperm cells combines with an egg cell, the embryo will not develop or the pregnancy will result in miscarriage.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: AURKC
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/AURKC
+synonym(1): infertility associated with multi-tailed spermatozoa and excessive DNA
+synonym(2): large-headed multiflagellar polyploid spermatozoa
+synonym(3): spermatogenic failure 5
+db-key(1)/db: GTR
+db-key(1)/key: C0403812
+db-key(2)/db: MeSH
+db-key(2)/key: D000072660
+db-key(3)/db: OMIM
+db-key(3)/key: 243060
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 236817003
+reviewed: 2015-01
+published: 2018-04-17

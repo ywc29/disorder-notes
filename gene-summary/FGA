@@ -1,0 +1,20 @@
+gene-symbol: FGA
+name: fibrinogen alpha chain
+ghr-page: https://ghr.nlm.nih.gov/gene/FGA
+text/text-role: function
+text/html: <p>The <i>FGA</i> gene provides instructions for making a protein called the fibrinogen A alpha (Aα) chain, one piece (subunit) of the fibrinogen protein. This protein is important for blood clot formation (coagulation), which is needed to stop excessive bleeding after injury. To form fibrinogen, the Aα chain attaches to two other proteins called the fibrinogen B beta (Bβ) and fibrinogen gamma (γ) chains, each produced from different genes. Two sets of this three-protein complex combine to form functional fibrinogen.</p><p>For coagulation to occur, another protein called thrombin removes a piece from the Aα and the Bβ subunits of the functional fibrinogen protein (the pieces are called the A and B fibrinopeptides). This process converts fibrinogen to fibrin, the main protein in blood clots. Fibrin proteins attach to each other, forming a stable network that makes up the blood clot.</p>
+related-health-condition/name: congenital afibrinogenemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-afibrinogenemia
+synonym(1): Fib2
+synonym(2): FIBA_HUMAN
+synonym(3): fibrinogen alpha chain isoform alpha-E preproprotein
+synonym(4): fibrinogen alpha chain isoform alpha preproprotein
+synonym(5): fibrinogen, A alpha polypeptide
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2243
+db-key(2)/db: OMIM
+db-key(2)/key: 105200
+db-key(3)/db: OMIM
+db-key(3)/key: 134820
+reviewed: 2012-02
+published: 2018-04-17

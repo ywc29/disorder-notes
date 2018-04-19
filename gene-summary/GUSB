@@ -1,0 +1,22 @@
+gene-symbol: GUSB
+name: glucuronidase beta
+ghr-page: https://ghr.nlm.nih.gov/gene/GUSB
+text/text-role: function
+text/html: <p>The <i>GUSB</i> gene provides instructions for producing an enzyme called beta-glucuronidase (β-glucuronidase). This enzyme is located in lysosomes, compartments within cells that digest and recycle different types of molecules. β-glucuronidase is involved in the breakdown of large molecules called glycosaminoglycans (GAGs). GAGs are composed of sugar molecules that are linked together to form a long string. To break down these large molecules, individual sugars are removed one at a time from one end of the molecule. β-glucuronidase is involved in the break down of three types of GAGs: dermatan sulfate, heparan sulfate, and chondroitin sulfate. This enzyme removes a sugar called glucuronic acid when it is at the end of the GAG chain.</p>
+related-health-condition/name: mucopolysaccharidosis type VII
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-vii
+synonym(1): beta-D-glucuronidase
+synonym(2): beta-G1
+synonym(3): beta-glucuronidase
+synonym(4): beta-glucuronidase precursor
+synonym(5): BG
+synonym(6): BGLR_HUMAN
+synonym(7): FLJ39445
+synonym(8): glucuronidase, beta
+synonym(9): MPS7
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2990
+db-key(2)/db: OMIM
+db-key(2)/key: 611499
+reviewed: 2010-08
+published: 2018-04-17

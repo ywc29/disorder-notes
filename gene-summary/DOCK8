@@ -1,0 +1,24 @@
+gene-symbol: DOCK8
+name: dedicator of cytokinesis 8
+ghr-page: https://ghr.nlm.nih.gov/gene/DOCK8
+text/text-role: function
+text/html: <p>The <i>DOCK8</i> gene provides instructions for making a member of the DOCK family of proteins. The proteins in this family act as guanine nucleotide exchange factors (GEFs). GEFs turn on (activate) proteins called GTPases, which play an important role in chemical signaling within cells. Signaling stimulated by DOCK family proteins are typically involved in the arrangement of the structural framework inside cells (the cytoskeleton). By controlling the shape of the cytoskeleton, DOCK family proteins play a role in cell structure and movement (migration).</p><p>The DOCK8 protein is found most abundantly in cells of the immune system. DOCK8 plays a critical role in the survival and function of several types of immune system cells, including T cells, NK cells, and B cells. T cells and NK cells recognize and attack foreign invaders, such as viruses, to prevent infection. B cells produce proteins called antibodies, which attach to foreign particles and germs and mark them for destruction.</p><p>Through its function as a GEF, the DOCK8 protein helps maintain the structure and integrity of T cells and NK cells. It also aids in the migration of these immune system cells to sites of infection, particularly the skin. DOCK8 is also involved in chemical signaling pathways that stimulate B cells to mature and produce antibodies. DOCK8 is also involved in the normal development and survival of other types of immune system cells.</p>
+related-health-condition/name: autosomal recessive hyper-IgE syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-hyper-ige-syndrome
+synonym(1): 1200017A24Rik
+synonym(2): dedicator of cytokinesis protein 8 isoform 1
+synonym(3): dedicator of cytokinesis protein 8 isoform 2
+synonym(4): dedicator of cytokinesis protein 8 isoform 3
+synonym(5): epididymis luminal protein 205
+synonym(6): FLJ00026
+synonym(7): FLJ00152
+synonym(8): FLJ00346
+synonym(9): HEL-205
+synonym(10): MRD2
+synonym(11): ZIR8
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 81704
+db-key(2)/db: OMIM
+db-key(2)/key: 611432
+reviewed: 2015-10
+published: 2018-04-17

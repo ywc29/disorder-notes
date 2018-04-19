@@ -1,0 +1,25 @@
+name: Char syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/char-syndrome
+text/text-role: description
+text/html: <p>Char syndrome is a condition that affects the development of the face, heart, and limbs.  It is characterized by a combination of three major features: a distinctive facial appearance, a heart defect called patent ductus arteriosus, and hand abnormalities.</p><p>Most people with Char syndrome have a characteristic facial appearance that includes flattened cheek bones and a flat nasal bridge (the area of the nose between the eyes).  The tip of the nose is also flat and broad.  The eyes are wide-set with droopy eyelids (ptosis) and outside corners that point downward (down-slanting palpebral fissures).  Additional facial differences include a shortened distance between the nose and upper lip (a short philtrum), a triangular-shaped mouth, and thick, prominent lips.</p><p>Patent ductus arteriosus is a common heart defect in newborns, and it occurs in most babies with Char syndrome.   Before birth, the ductus arteriosus forms a connection between two major arteries (the aorta and the pulmonary artery).  This connection normally closes shortly after birth, but it remains open in babies with patent ductus arteriosus.  If untreated, this heart defect causes infants to breathe rapidly, feed poorly, and gain weight slowly.  In severe cases, it can lead to heart failure.  People with patent ductus arteriosus also have an increased risk of infection.</p><p>Hand abnormalities are another feature of Char syndrome.  In most people with this condition, the middle section of the fifth (pinky) finger is shortened or absent.  Other abnormalities of the hands and feet have been reported but are less common.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: TFAP2B
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TFAP2B
+synonym: Patent ductus arteriosus with facial dysmorphism and abnormal fifth digits
+db-key(1)/db: GTR
+db-key(1)/key: C1868570
+db-key(2)/db: GeneReviews
+db-key(2)/key: char
+db-key(3)/db: MeSH
+db-key(3)/key: D000015
+db-key(4)/db: MeSH
+db-key(4)/key: D004374
+db-key(5)/db: OMIM
+db-key(5)/key: 169100
+db-key(6)/db: Orphanet
+db-key(6)/key: 46627
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 703534001
+reviewed: 2008-06
+published: 2018-04-17

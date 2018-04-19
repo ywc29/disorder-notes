@@ -1,0 +1,18 @@
+name: 9
+ghr-page: https://ghr.nlm.nih.gov/chromosome/9
+text/text-role: description
+text/html: <p>Humans normally have 46 chromosomes in each cell, divided into 23 pairs.  Two copies of chromosome 9, one copy inherited from each parent, form one of the pairs. Chromosome 9 is made up of about 141 million DNA building blocks (base pairs) and represents approximately 4.5 percent of the total DNA in cells.</p><p>Identifying genes on each chromosome is an active area of genetic research.  Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 9 likely contains 800 to 900 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.</p>
+related-health-condition(1)/name: 9q22.3 microdeletion
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/9q223-microdeletion
+related-health-condition(2)/name: bladder cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/bladder-cancer
+related-health-condition(3)/name: chronic myeloid leukemia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/chronic-myeloid-leukemia
+related-health-condition(4)/name: Kleefstra syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/kleefstra-syndrome
+db-key(1)/db: GeneReviews
+db-key(1)/key: kleefstra
+db-key(2)/db: GeneReviews
+db-key(2)/key: mdel9q22_3
+reviewed: 2016-09
+published: 2018-04-17

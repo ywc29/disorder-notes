@@ -1,0 +1,26 @@
+name: Adult polyglucosan body disease
+ghr-page: https://ghr.nlm.nih.gov/condition/adult-polyglucosan-body-disease
+text/text-role: description
+text/html: <p>Adult polyglucosan body disease is a condition that affects the nervous system.  People with this condition have problems walking due to reduced sensation in their legs (peripheral neuropathy) and progressive muscle weakness and stiffness (spasticity).  Damage to the nerves that control bladder function, a condition called neurogenic bladder, causes affected individuals to have progressive difficulty controlling the flow of urine.  About half of people with adult polyglucosan body disease experience a decline in intellectual function (dementia).</p><p>People with adult polyglucosan body disease typically first experience signs and symptoms related to the condition between ages 30 and 60.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: GBE1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GBE1
+synonym(1): APBD
+synonym(2): polyglucosan body disease, adult form
+db-key(1)/db: GTR
+db-key(1)/key: C1849722
+db-key(2)/db: GeneReviews
+db-key(2)/key: apbd
+db-key(3)/db: MeSH
+db-key(3)/key: D002493
+db-key(4)/db: MeSH
+db-key(4)/key: D006008
+db-key(5)/db: OMIM
+db-key(5)/key: 263570
+db-key(6)/db: Orphanet
+db-key(6)/key: 206583
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 721099001
+reviewed: 2016-07
+published: 2018-04-17

@@ -1,0 +1,86 @@
+name: Williams syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/williams-syndrome
+text/text-role: description
+text/html: <p>Williams syndrome is a developmental disorder that affects many parts of the body.  This condition is characterized by mild to moderate intellectual disability or learning problems, unique personality characteristics, distinctive facial features, and heart and blood vessel (cardiovascular) problems.</p><p>People with Williams syndrome typically have difficulty with visual-spatial tasks such as drawing and assembling puzzles, but they tend to do well on tasks that involve spoken language, music, and learning by repetition (rote memorization).  Affected individuals have outgoing, engaging personalities and tend to take an extreme interest in other people. Attention deficit disorder (ADD), problems with anxiety, and phobias are common among people with this disorder.</p><p>Young children with Williams syndrome have distinctive facial features including a broad forehead, a short nose with a broad tip, full cheeks, and a wide mouth with full lips.  Many affected people have dental problems such as teeth that are small, widely spaced, crooked, or missing. In older children and adults, the face appears longer and more gaunt.</p><p>A form of cardiovascular disease called supravalvular aortic stenosis (SVAS) occurs frequently in people with Williams syndrome.  Supravalvular aortic stenosis is a narrowing of the large blood vessel that carries blood from the heart to the rest of the body (the aorta).  If this condition is not treated, the aortic narrowing can lead to shortness of breath, chest pain, and heart failure.  Other problems with the heart and blood vessels, including high blood pressure (hypertension), have also been reported in people with Williams syndrome.</p><p>Additional signs and symptoms of Williams syndrome include abnormalities of connective tissue (tissue that supports the body's joints and organs) such as joint problems and soft, loose skin.  Affected people may also have increased calcium levels in the blood (hypercalcemia) in infancy, developmental delays, problems with coordination, and short stature.  Medical problems involving the eyes and vision, the digestive tract, and the urinary system are also possible.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: ABHD11
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ABHD11
+related-gene(2)/gene-symbol: BAZ1B
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/BAZ1B
+related-gene(3)/gene-symbol: BCL7B
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/BCL7B
+related-gene(4)/gene-symbol: BUD23
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/BUD23
+related-gene(5)/gene-symbol: CLDN3
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/CLDN3
+related-gene(6)/gene-symbol: CLDN4
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/CLDN4
+related-gene(7)/gene-symbol: CLIP2
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/CLIP2
+related-gene(8)/gene-symbol: DNAJC30
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/DNAJC30
+related-gene(9)/gene-symbol: EIF4H
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/EIF4H
+related-gene(10)/gene-symbol: ELN
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/ELN
+related-gene(11)/gene-symbol: FKBP6
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/FKBP6
+related-gene(12)/gene-symbol: FZD9
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/FZD9
+related-gene(13)/gene-symbol: GTF2I
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/GTF2I
+related-gene(14)/gene-symbol: GTF2IRD1
+related-gene(14)/ghr-page: https://ghr.nlm.nih.gov/gene/GTF2IRD1
+related-gene(15)/gene-symbol: GTF2IRD2
+related-gene(15)/ghr-page: https://ghr.nlm.nih.gov/gene/GTF2IRD2
+related-gene(16)/gene-symbol: LAT2
+related-gene(16)/ghr-page: https://ghr.nlm.nih.gov/gene/LAT2
+related-gene(17)/gene-symbol: LIMK1
+related-gene(17)/ghr-page: https://ghr.nlm.nih.gov/gene/LIMK1
+related-gene(18)/gene-symbol: METTL27
+related-gene(18)/ghr-page: https://ghr.nlm.nih.gov/gene/METTL27
+related-gene(19)/gene-symbol: MLXIPL
+related-gene(19)/ghr-page: https://ghr.nlm.nih.gov/gene/MLXIPL
+related-gene(20)/gene-symbol: NCF1
+related-gene(20)/ghr-page: https://ghr.nlm.nih.gov/gene/NCF1
+related-gene(21)/gene-symbol: NSUN5
+related-gene(21)/ghr-page: https://ghr.nlm.nih.gov/gene/NSUN5
+related-gene(22)/gene-symbol: RFC2
+related-gene(22)/ghr-page: https://ghr.nlm.nih.gov/gene/RFC2
+related-gene(23)/gene-symbol: STX1A
+related-gene(23)/ghr-page: https://ghr.nlm.nih.gov/gene/STX1A
+related-gene(24)/gene-symbol: TBL2
+related-gene(24)/ghr-page: https://ghr.nlm.nih.gov/gene/TBL2
+related-gene(25)/gene-symbol: TMEM270
+related-gene(25)/ghr-page: https://ghr.nlm.nih.gov/gene/TMEM270
+related-gene(26)/gene-symbol: TRIM50
+related-gene(26)/ghr-page: https://ghr.nlm.nih.gov/gene/TRIM50
+related-gene(27)/gene-symbol: VPS37D
+related-gene(27)/ghr-page: https://ghr.nlm.nih.gov/gene/VPS37D
+related-chromosome/name: 7
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/7
+synonym(1): Beuren syndrome
+synonym(2): elfin facies syndrome
+synonym(3): elfin facies with hypercalcemia
+synonym(4): hypercalcemia-supravalvar aortic stenosis
+synonym(5): infantile hypercalcemia
+synonym(6): supravalvar aortic stenosis syndrome
+synonym(7): WBS
+synonym(8): Williams-Beuren syndrome
+synonym(9): WMS
+synonym(10): WS
+db-key(1)/db: GTR
+db-key(1)/key: C0175702
+db-key(2)/db: GeneReviews
+db-key(2)/key: williams
+db-key(3)/db: MeSH
+db-key(3)/key: D018980
+db-key(4)/db: OMIM
+db-key(4)/key: 194050
+db-key(5)/db: Orphanet
+db-key(5)/key: 904
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 63247009
+reviewed: 2014-12
+published: 2018-04-17

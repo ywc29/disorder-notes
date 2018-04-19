@@ -1,0 +1,21 @@
+gene-symbol: EXT1
+name: exostosin glycosyltransferase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/EXT1
+text/text-role: function
+text/html: <p>The <i>EXT1</i> gene provides instructions for producing a protein called exostosin-1. This protein is found in a cell structure called the Golgi apparatus, which modifies newly produced enzymes and other proteins. In the Golgi apparatus, exostosin-1 attaches (binds) to another protein, exostosin-2, to form a complex that modifies heparan sulfate. Heparan sulfate is a complex of sugar molecules (a polysaccharide) that is added to proteins to form proteoglycans, which are proteins attached to several sugars. Heparan sulfate is involved in regulating a variety of body processes including blood clotting and the formation of blood vessels (angiogenesis). It also has a role in the spreading (metastasis) of cancer cells.</p>
+related-health-condition(1)/name: hereditary multiple osteochondromas
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-multiple-osteochondromas
+related-health-condition(2)/name: trichorhinophalangeal syndrome type II
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/trichorhinophalangeal-syndrome-type-ii
+synonym(1): exostoses (multiple) 1
+synonym(2): exostosin 1
+synonym(3): EXT
+synonym(4): EXT1_HUMAN
+synonym(5): Glucuronosyl-N-acetylglucosaminyl-proteoglycan 4-alpha-N- acetylglucosaminyltransferase
+synonym(6): N-acetylglucosaminyl-proteoglycan 4-beta-glucuronosyltransferase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2131
+db-key(2)/db: OMIM
+db-key(2)/key: 608177
+reviewed: 2017-06
+published: 2018-04-17

@@ -1,0 +1,17 @@
+gene-symbol: TSPYL1
+name: TSPY like 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TSPYL1
+text/text-role: function
+text/html: <p>The <i>TSPYL1</i> gene provides instructions for making a protein called TSPY-like 1. This protein is active in the brain, testes (in males), and other tissues, although its function is not well understood. TSPY-like 1 contains a region called a nucleosome assembly protein (NAP) domain, which is found in other proteins that help control cell division, copy (replicate) DNA, and regulate the activity of various genes. It is unknown whether TSPY-like 1 also has these functions.</p><p>Based on its role in a condition called sudden infant death with dysgenesis of the testes syndrome, researchers propose that TSPY-like 1 is involved in the development of the male reproductive system and the brain, including the brainstem. The brainstem is a part of the brain that is connected to the spinal cord. It regulates many basic body functions, including heart rate, breathing, eating, and sleeping. It also relays information about movement and the senses between the brain and the rest of the body.</p>
+related-health-condition/name: sudden infant death with dysgenesis of the testes syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/sudden-infant-death-with-dysgenesis-of-the-testes-syndrome
+synonym(1): testis-specific Y-encoded-like protein 1
+synonym(2): TSPY-like 1
+synonym(3): TSPY-like protein 1
+synonym(4): TSPYL
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7259
+db-key(2)/db: OMIM
+db-key(2)/key: 604714
+reviewed: 2014-12
+published: 2018-04-17

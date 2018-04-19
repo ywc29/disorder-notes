@@ -1,0 +1,25 @@
+gene-symbol: BUB1B
+name: BUB1 mitotic checkpoint serine/threonine kinase B
+ghr-page: https://ghr.nlm.nih.gov/gene/BUB1B
+text/text-role: function
+text/html: <p>The <i>BUB1B</i> gene provides instructions for making a protein called BUBR1, which is important for proper chromosome separation during cell division. Before cells divide, they must copy all of their chromosomes. The copied DNA from each chromosome is arranged into two identical structures, called sister chromatids, which are attached to one another during the early stages of cell division. The sets of chromosomes align within the cell, with each chromatid attached to a structure called a spindle microtubule; when all chromatids are correctly attached, the spindle microtubule pulls the two halves of the chromatid pair to opposite sides of the cell. The cell then divides in two such that each new cell contains one complete set of chromosomes.</p><p>The BUBR1 protein helps ensure that each sister chromatid is attached to a spindle microtubule. If any chromatids remain unattached, the protein prevents cell division.</p>
+related-health-condition/name: mosaic variegated aneuploidy syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mosaic-variegated-aneuploidy-syndrome
+synonym(1): Bub1A
+synonym(2): BUB1B, mitotic checkpoint serine/threonine kinase
+synonym(3): BUB1beta
+synonym(4): BUBR1
+synonym(5): budding uninhibited by benzimidazoles 1 homolog beta
+synonym(6): hBUBR1
+synonym(7): MAD3/BUB1-related protein kinase
+synonym(8): MAD3L
+synonym(9): mitotic checkpoint kinase MAD3L
+synonym(10): mitotic checkpoint serine/threonine-protein kinase BUB1 beta
+synonym(11): MVA1
+synonym(12): SSK1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 701
+db-key(2)/db: OMIM
+db-key(2)/key: 602860
+reviewed: 2017-07
+published: 2018-04-17

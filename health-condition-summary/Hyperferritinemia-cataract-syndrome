@@ -1,0 +1,24 @@
+name: Hyperferritinemia-cataract syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/hyperferritinemia-cataract-syndrome
+text/text-role: description
+text/html: <p>Hyperferritinemia-cataract syndrome is a disorder characterized by an excess of an iron storage protein called ferritin in the blood (hyperferritinemia) and tissues of the body. A buildup of this protein begins early in life, leading to clouding of the lenses of the eyes (cataracts). In affected individuals, cataracts usually develop in infancy, rather than after age 60 as typically occurs in the general population.  Cataracts that are not removed surgically cause progressive dimming and blurriness of vision because the clouded lenses reduce and distort incoming light.</p><p>Although the hyperferritinemia in this disorder does not usually cause any health problems other than cataracts, the elevated ferritin levels in the blood can be mistaken for a sign of certain liver disorders. These conditions result in excess iron in the body and may be treated by blood-drawing. However, individuals with hyperferritinemia-cataract syndrome do not have an excess of iron, and with repeated blood draws will develop reduced iron levels leading to a low number of red blood cells (anemia). Therefore, correct diagnosis of hyperferritinemia-cataract syndrome is important to avoid unnecessary treatments or invasive test procedures such as liver biopsies.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FTL
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FTL
+synonym(1): Bonneau-Beaumont syndrome
+synonym(2): hereditary hyperferritinemia-cataract syndrome
+synonym(3): hereditary hyperferritinemia with congenital cataracts
+synonym(4): HHCS
+db-key(1)/db: GTR
+db-key(1)/key: C1833213
+db-key(2)/db: MeSH
+db-key(2)/key: D019189
+db-key(3)/db: OMIM
+db-key(3)/key: 600886
+db-key(4)/db: Orphanet
+db-key(4)/key: 163
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 702398007
+reviewed: 2012-08
+published: 2018-04-17

@@ -1,0 +1,34 @@
+name: Alpha thalassemia X-linked intellectual disability syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/alpha-thalassemia-x-linked-intellectual-disability-syndrome
+text/text-role: description
+text/html: <p>Alpha thalassemia X-linked intellectual disability syndrome is an inherited disorder that affects many parts of the body. This condition occurs almost exclusively in males.</p><p>Males with alpha thalassemia X-linked intellectual disability syndrome have intellectual disability and delayed development. Their speech is significantly delayed, and most never speak or sign more than a few words. Most affected children have weak muscle tone (hypotonia), which delays motor skills such as sitting, standing, and walking. Some people with this disorder are never able to walk independently.</p><p>Almost everyone with alpha thalassemia X-linked intellectual disability syndrome has distinctive facial features, including widely spaced eyes, a small nose with upturned nostrils, and low-set ears. The upper lip is shaped like an upside-down "V," and the lower lip tends to be prominent. These facial characteristics are most apparent in early childhood. Over time, the facial features become coarser, including a flatter face with a shortened nose.</p><p>Most affected individuals have mild signs of a blood disorder called alpha thalassemia.  This disorder reduces the production of hemoglobin, which is the protein in red blood cells that carries oxygen to cells throughout the body. A reduction in the amount of hemoglobin prevents enough oxygen from reaching the body's tissues. Rarely, affected individuals also have a shortage of red blood cells (anemia), which can cause pale skin, weakness, and fatigue.</p><p>Additional features of alpha thalassemia X-linked intellectual disability syndrome include an unusually small head size (microcephaly), short stature, and skeletal abnormalities. Many affected individuals have problems with the digestive system, such as a backflow of stomach acids into the esophagus (gastroesophageal reflux) and chronic constipation. Genital abnormalities are also common; affected males may have undescended testes and the opening of the urethra on the underside of the penis (hypospadias). In more severe cases, the external genitalia do not look clearly male or female (ambiguous genitalia).</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: ATRX
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ATRX
+synonym(1): alpha-thalassemia X-linked mental retardation syndrome
+synonym(2): alpha thalassemia X-linked mental retardation syndrome
+synonym(3): alpha-thalassemia/mental retardation syndrome, nondeletion type
+synonym(4): alpha thalassemia/mental retardation, X-linked
+synonym(5): ATR-X syndrome
+synonym(6): ATRX syndrome
+synonym(7): X-linked alpha-thalassemia/mental retardation syndrome
+synonym(8): XLMR-hypotonic face syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1845055
+db-key(2)/db: GeneReviews
+db-key(2)/key: xlmr
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: D56.0
+db-key(4)/db: MeSH
+db-key(4)/key: D038901
+db-key(5)/db: OMIM
+db-key(5)/key: 301040
+db-key(6)/db: Orphanet
+db-key(6)/key: 847
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 277918006
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 715342005
+reviewed: 2009-08
+published: 2018-04-17

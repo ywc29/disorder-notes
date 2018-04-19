@@ -1,0 +1,88 @@
+name: Oculocutaneous albinism
+ghr-page: https://ghr.nlm.nih.gov/condition/oculocutaneous-albinism
+text/text-role: description
+text/html: <p>Oculocutaneous albinism is a group of conditions that affect coloring (pigmentation) of the skin, hair, and eyes.  Affected individuals typically have very fair skin and white or light-colored hair.  Long-term sun exposure greatly increases the risk of skin damage and skin cancers, including an aggressive form of skin cancer called melanoma, in people with this condition.  Oculocutaneous albinism also reduces pigmentation of the colored part of the eye (the iris) and the light-sensitive tissue at the back of the eye (the retina).  People with this condition usually have vision problems such as reduced sharpness; rapid, involuntary eye movements (nystagmus); and increased sensitivity to light (photophobia).</p><p>Researchers have identified multiple types of oculocutaneous albinism, which are distinguished by their specific skin, hair, and eye color changes and by their genetic cause. Oculocutaneous albinism type 1 is characterized by white hair, very pale skin, and light-colored irises. Type 2 is typically less severe than type 1; the skin is usually a creamy white color and hair may be light yellow, blond, or light brown. Type 3 includes a form of albinism called rufous oculocutaneous albinism, which usually affects dark-skinned people. Affected individuals have reddish-brown skin, ginger or red hair, and hazel or brown irises. Type 3 is often associated with milder vision abnormalities than the other forms of oculocutaneous albinism. Type 4 has signs and symptoms similar to those seen with type 2.</p><p>Several additional types of this disorder have been proposed, each affecting one or a few families.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: LRMDA
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/LRMDA
+related-gene(2)/gene-symbol: MC1R
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MC1R
+related-gene(3)/gene-symbol: OCA2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/OCA2
+related-gene(4)/gene-symbol: SLC24A5
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC24A5
+related-gene(5)/gene-symbol: SLC45A2
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC45A2
+related-gene(6)/gene-symbol: TYR
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/TYR
+related-gene(7)/gene-symbol: TYRP1
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/TYRP1
+synonym(1): albinism, oculocutaneous
+synonym(2): OCA
+db-key(1)/db: GTR
+db-key(1)/key: C0078918
+db-key(2)/db: GTR
+db-key(2)/key: C0268494
+db-key(3)/db: GTR
+db-key(3)/key: C0268495
+db-key(4)/db: GTR
+db-key(4)/key: C1847024
+db-key(5)/db: GTR
+db-key(5)/key: C1847836
+db-key(6)/db: GTR
+db-key(6)/key: C1859932
+db-key(7)/db: GTR
+db-key(7)/key: C3808786
+db-key(8)/db: GTR
+db-key(8)/key: C3888401
+db-key(9)/db: GTR
+db-key(9)/key: CN119529
+db-key(10)/db: GeneReviews
+db-key(10)/key: oca1
+db-key(11)/db: GeneReviews
+db-key(11)/key: oca2
+db-key(12)/db: GeneReviews
+db-key(12)/key: oca4
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: E70.32
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: E70.320
+db-key(15)/db: ICD-10-CM
+db-key(15)/key: E70.321
+db-key(16)/db: ICD-10-CM
+db-key(16)/key: E70.328
+db-key(17)/db: ICD-10-CM
+db-key(17)/key: E70.329
+db-key(18)/db: MeSH
+db-key(18)/key: D016115
+db-key(19)/db: OMIM
+db-key(19)/key: 113750
+db-key(20)/db: OMIM
+db-key(20)/key: 203100
+db-key(21)/db: OMIM
+db-key(21)/key: 203200
+db-key(22)/db: OMIM
+db-key(22)/key: 203290
+db-key(23)/db: OMIM
+db-key(23)/key: 606574
+db-key(24)/db: OMIM
+db-key(24)/key: 606952
+db-key(25)/db: OMIM
+db-key(25)/key: 615179
+db-key(26)/db: OMIM
+db-key(26)/key: 615312
+db-key(27)/db: Orphanet
+db-key(27)/key: 55
+db-key(28)/db: SNOMED CT
+db-key(28)/key: 11160000
+db-key(29)/db: SNOMED CT
+db-key(29)/key: 26336006
+db-key(30)/db: SNOMED CT
+db-key(30)/key: 63450009
+db-key(31)/db: SNOMED CT
+db-key(31)/key: 63844009
+db-key(32)/db: SNOMED CT
+db-key(32)/key: 6483008
+reviewed: 2015-10
+published: 2018-04-17

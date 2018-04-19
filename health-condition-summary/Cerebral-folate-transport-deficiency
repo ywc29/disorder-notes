@@ -1,0 +1,23 @@
+name: Cerebral folate transport deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/cerebral-folate-transport-deficiency
+text/text-role: description
+text/html: <p>Cerebral folate transport deficiency is a disorder that develops from a shortage (deficiency) of the B-vitamin folate (also called vitamin B9) in the brain. Affected children have normal development during infancy, but around age 2 they begin to lose previously acquired mental and movement abilities (psychomotor regression). They develop intellectual disability, speech difficulties, and recurrent seizures (epilepsy). Movement problems such as tremors and difficulty coordinating movements (ataxia) can be severe, and some affected individuals need wheelchair assistance. Affected individuals have leukodystrophy, which is a loss of a type of brain tissue known as white matter. White matter consists of nerve fibers covered by a fatty substance called myelin that promotes the rapid transmission of nerve impulses. Leukodystrophy contributes to the neurological problems that occur in cerebral folate transport deficiency. Without treatment, these neurological problems worsen over time.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: FOLR1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FOLR1
+synonym(1): cerebral folate deficiency
+synonym(2): FOLR1 deficiency
+synonym(3): neurodegeneration due to cerebral folate transport deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C2751584
+db-key(2)/db: MeSH
+db-key(2)/key: D019150
+db-key(3)/db: OMIM
+db-key(3)/key: 613068
+db-key(4)/db: Orphanet
+db-key(4)/key: 217382
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 711403001
+reviewed: 2014-09
+published: 2018-04-17

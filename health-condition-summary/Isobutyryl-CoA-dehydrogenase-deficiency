@@ -1,0 +1,23 @@
+name: Isobutyryl-CoA dehydrogenase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/isobutyryl-coa-dehydrogenase-deficiency
+text/text-role: description
+text/html: <p>Isobutyryl-CoA dehydrogenase (IBD) deficiency is a condition that disrupts the breakdown of certain proteins. Normally, proteins from food are broken down into parts called amino acids. Amino acids can be further processed to provide energy for growth and development. People with IBD deficiency have inadequate levels of an enzyme that helps break down a particular amino acid called valine.</p><p>Most people with IBD deficiency are asymptomatic, which means they do not have any signs or symptoms of the condition. A few children with IBD deficiency have developed features such as a weakened and enlarged heart (dilated cardiomyopathy), weak muscle tone (hypotonia), and developmental delay. This condition may also cause low numbers of red blood cells (anemia) and very low blood levels of carnitine, which is a natural substance that helps convert certain foods into energy. The range of signs and symptoms associated with IBD deficiency remains unclear because very few affected individuals have been reported.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ACAD8
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ACAD8
+synonym(1): deficiency of isobutyryl-CoA dehydrogenase
+synonym(2): IBD deficiency
+synonym(3): isobutyryl-coenzyme A dehydrogenase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1969809
+db-key(2)/db: MeSH
+db-key(2)/key: D000592
+db-key(3)/db: OMIM
+db-key(3)/key: 611283
+db-key(4)/db: Orphanet
+db-key(4)/key: 79159
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 445274004
+reviewed: 2010-06
+published: 2018-04-17

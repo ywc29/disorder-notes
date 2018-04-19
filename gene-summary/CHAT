@@ -1,0 +1,18 @@
+gene-symbol: CHAT
+name: choline O-acetyltransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/CHAT
+text/text-role: function
+text/html: <p>The <i>CHAT</i> gene provides instructions for making a protein called choline acetyltransferase. This protein is located at the ends of nerve cells in specialized areas called presynaptic terminals. Choline acetyltransferase facilitates the production of a molecule called acetylcholine. Acetylcholine is essential for normal muscle movement. When acetylcholine is released from the presynaptic terminal, it attaches (binds) to a receptor protein located in the membrane of muscle cells. When acetylcholine binds to its receptor protein, specialized channels in the receptor then open, allowing certain charged atoms (ions) to flow into and out of muscle cells. The flow of these ions allows for muscle contraction and relaxation, resulting in muscle movement.</p>
+related-health-condition/name: congenital myasthenic syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-myasthenic-syndrome
+synonym(1): acetyl CoA:choline O-acetyltransferase
+synonym(2): CHOACTASE
+synonym(3): choline acetylase
+synonym(4): CLAT_HUMAN
+synonym(5): CMS1A
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1103
+db-key(2)/db: OMIM
+db-key(2)/key: 118490
+reviewed: 2011-11
+published: 2018-04-17

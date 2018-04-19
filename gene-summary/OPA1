@@ -1,0 +1,25 @@
+gene-symbol: OPA1
+name: OPA1, mitochondrial dynamin like GTPase
+ghr-page: https://ghr.nlm.nih.gov/gene/OPA1
+text/text-role: function
+text/html: <p>The <i>OPA1</i> gene provides instructions for making a protein that is found in cells and tissues throughout the body. The OPA1 protein is active in the inner membrane of cell structures called mitochondria, which are the energy-producing centers in cells. Mitochondria are dynamic structures that change shape through processes called fission (splitting into smaller pieces) and fusion (combining pieces). Changes in shape are necessary for mitochondrial function and the production of new mitochondria. The OPA1 protein helps to regulate the shape of mitochondria by playing a key role in the fusion process.</p><p>The OPA1 protein is also involved in a process that takes place in mitochondria called oxidative phosphorylation, from which cells derive much of their energy. Additionally, the OPA1 protein plays a role in the maintenance of the DNA within mitochondria, called mitochondrial DNA (mtDNA), and in controlled cell death (apoptosis).</p>
+related-health-condition(1)/name: optic atrophy type 1
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/optic-atrophy-type-1
+related-health-condition(2)/name: progressive external ophthalmoplegia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/progressive-external-ophthalmoplegia
+synonym(1): dynamin-like 120 kDa protein, mitochondrial
+synonym(2): FLJ12460
+synonym(3): KIAA0567
+synonym(4): MGM1
+synonym(5): mitochondrial dynamin-like GTPase
+synonym(6): NPG
+synonym(7): NTG
+synonym(8): OPA1_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4976
+db-key(2)/db: OMIM
+db-key(2)/key: 125250
+db-key(3)/db: OMIM
+db-key(3)/key: 605290
+reviewed: 2017-08
+published: 2018-04-17

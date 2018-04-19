@@ -1,0 +1,24 @@
+name: Coffin-Lowry syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/coffin-lowry-syndrome
+text/text-role: description
+text/html: <p>Coffin-Lowry syndrome is a condition that affects many parts of the body.  The signs and symptoms are usually more severe in males than in females, although the features of this disorder range from very mild to severe in affected women.</p><p>Males with Coffin-Lowry syndrome typically have severe to profound intellectual disability and delayed development. Affected women may be cognitively normal, or they may have intellectual disability ranging from mild to profound.  Beginning in childhood or adolescence, some people with this condition experience brief episodes of collapse when excited or startled by a loud noise.  These attacks are called stimulus-induced drop episodes (SIDEs).</p><p>Most affected males and some affected females have distinctive facial features including a prominent forehead, widely spaced and downward-slanting eyes, a short nose with a wide tip, and a wide mouth with full lips.  These features become more pronounced with age.  Soft hands with short, tapered fingers are also characteristic of Coffin-Lowry syndrome.  Additional features of this condition include short stature, an unusually small head (microcephaly), progressive abnormal curvature of the spine (kyphoscoliosis), and other skeletal abnormalities.</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+related-gene/gene-symbol: RPS6KA3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/RPS6KA3
+synonym(1): CLS
+synonym(2): Mental retardation with osteocartilaginous abnormalities
+db-key(1)/db: GTR
+db-key(1)/key: C0265252
+db-key(2)/db: GeneReviews
+db-key(2)/key: cls
+db-key(3)/db: MeSH
+db-key(3)/key: D038921
+db-key(4)/db: OMIM
+db-key(4)/key: 303600
+db-key(5)/db: Orphanet
+db-key(5)/key: 192
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 15182000
+reviewed: 2016-02
+published: 2018-04-17

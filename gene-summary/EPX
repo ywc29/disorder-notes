@@ -1,0 +1,17 @@
+gene-symbol: EPX
+name: eosinophil peroxidase
+ghr-page: https://ghr.nlm.nih.gov/gene/EPX
+text/text-role: function
+text/html: <p>The <i>EPX</i> gene provides instructions for making a protein called eosinophil peroxidase. This protein is found within certain white blood cells called eosinophils. During a normal immune response, eosinophils are activated (turned on), and they travel to the area of injury or inflammation. The cells then release proteins and other compounds that have a toxic effect on severely damaged cells or invading organisms. One of these proteins is called eosinophil peroxidase. This protein helps form molecules that are highly toxic to bacteria and parasites. These toxic molecules also play a role in regulating inflammation by fighting microbial invaders.</p><p>The eosinophil peroxidase protein is produced as a long strand that is cut (cleaved) into two smaller pieces. The shorter piece is known as the light chain and the longer piece is known as the heavy chain. These two pieces are attached to each other to form functional eosinophil peroxidase.</p>
+related-health-condition/name: eosinophil peroxidase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/eosinophil-peroxidase-deficiency
+synonym(1): eosinophil peroxidase preproprotein
+synonym(2): EPO
+synonym(3): EPP
+synonym(4): EPX-PEN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8288
+db-key(2)/db: OMIM
+db-key(2)/key: 131399
+reviewed: 2014-12
+published: 2018-04-17

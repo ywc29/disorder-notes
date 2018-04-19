@@ -1,0 +1,33 @@
+name: Adenosine deaminase 2 deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/adenosine-deaminase-2-deficiency
+text/text-role: description
+text/html: <p>Adenosine deaminase 2 (ADA2) deficiency is a disorder characterized by abnormal inflammation of various tissues, particularly the blood vessels (vasculitis). Signs and symptoms can begin anytime from early childhood to adulthood. The severity of the disorder also varies, even among affected individuals in the same family.</p><p>Inflammation is a normal immune system response to injury and foreign invaders (such as bacteria). However, the uncontrolled inflammation that occurs in ADA2 deficiency can damage many of the body's tissues and organs, including the skin, gastrointestinal system, kidneys, and nervous system. Depending on the severity and location of the inflammation, the disorder can cause disability or be life-threatening. Features that have been described in people with ADA2 deficiency include fevers that are intermittent, meaning they come and go; areas of net-like, mottled skin discoloration called livedo racemosa; an enlarged liver and spleen (hepatosplenomegaly); and recurrent strokes affecting structures deep in the brain that can start in the first few years of life. ADA2 deficiency causes mild immune system abnormalities in some individuals, but it is usually not associated with a significantly increased risk of bacterial and viral infections.</p><p>ADA2 deficiency is sometimes described as a form of polyarteritis nodosa (PAN), a disorder that causes inflammation of blood vessels throughout the body (systemic vasculitis). However, not all researchers classify ADA2 deficiency as a type of PAN.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ADA2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ADA2
+synonym(1): ADA2 deficiency
+synonym(2): childhood-onset polyarteritis nodosa
+synonym(3): DADA2
+synonym(4): deficiency of ADA2
+synonym(5): Sneddon syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0282492
+db-key(2)/db: GTR
+db-key(2)/key: C3887654
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: M30.0
+db-key(4)/db: MeSH
+db-key(4)/key: D056647
+db-key(5)/db: OMIM
+db-key(5)/key: 182410
+db-key(6)/db: OMIM
+db-key(6)/key: 615688
+db-key(7)/db: Orphanet
+db-key(7)/key: 820
+db-key(8)/db: Orphanet
+db-key(8)/key: 404553
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 155441006
+reviewed: 2015-01
+published: 2018-04-17

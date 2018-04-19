@@ -1,0 +1,28 @@
+name: Arginine:glycine amidinotransferase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/arginineglycine-amidinotransferase-deficiency
+text/text-role: description
+text/html: <p>Arginine:glycine amidinotransferase deficiency is an inherited disorder that primarily affects the brain. People with this disorder have mild to moderate intellectual disability and delayed speech development. Some affected individuals develop autistic behaviors that affect communication and social interaction. They may experience seizures, especially when they have a fever.</p><p>Children with arginine:glycine amidinotransferase deficiency may not gain weight and grow at the expected rate (failure to thrive), and have delayed development of motor skills such as sitting and walking. Affected individuals may also have weak muscle tone and tend to tire easily.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: GATM
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GATM
+synonym(1): AGAT deficiency
+synonym(2): cerebral creatine deficiency syndrome 3
+synonym(3): creatine deficiency syndrome due to AGAT deficiency
+synonym(4): GATM deficiency
+synonym(5): l-arginine:glycine amidinotransferase deficiency
+synonym(6): l-arginine:glycine aminidotransferase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C2675179
+db-key(2)/db: GeneReviews
+db-key(2)/key: creatine
+db-key(3)/db: MeSH
+db-key(3)/key: D020739
+db-key(4)/db: OMIM
+db-key(4)/key: 612718
+db-key(5)/db: Orphanet
+db-key(5)/key: 35704
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702440000
+reviewed: 2015-12
+published: 2018-04-17

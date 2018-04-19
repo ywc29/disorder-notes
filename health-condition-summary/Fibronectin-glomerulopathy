@@ -1,0 +1,29 @@
+name: Fibronectin glomerulopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/fibronectin-glomerulopathy
+text/text-role: description
+text/html: <p>Fibronectin glomerulopathy is a kidney disease that usually develops between early and mid-adulthood but can occur at any age. It eventually leads to irreversible kidney failure (end-stage renal disease).</p><p>Individuals with fibronectin glomerulopathy usually have blood and excess protein in their urine (hematuria and proteinuria, respectively). They also have high blood pressure (hypertension). Some affected individuals develop renal tubular acidosis, which occurs when the kidneys are unable to remove enough acid from the body and the blood becomes too acidic.</p><p>The kidneys of people with fibronectin glomerulopathy have large deposits of the protein fibronectin-1 in structures called glomeruli. These structures are clusters of tiny blood vessels in the kidneys that filter waste products from blood. The waste products are then released in urine. The fibronectin-1 deposits impair the glomeruli's filtration ability.</p><p>Fifteen to 20 years following the appearance of signs and symptoms, individuals with fibronectin glomerulopathy often develop end-stage renal disease. Affected individuals may receive treatment in the form of a kidney transplant; in some cases, fibronectin glomerulopathy comes back (recurs) following transplantation.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FN1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FN1
+synonym(1): familial glomerular nephritis with fibronectin deposits
+synonym(2): familial lobular glomerulopathy
+synonym(3): GFND
+synonym(4): glomerulopathy with fibronectin deposits
+synonym(5): glomerulopathy with giant fibrillar deposits
+db-key(1)/db: GTR
+db-key(1)/key: C1866075
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: N07.5
+db-key(3)/db: MeSH
+db-key(3)/key: D015432
+db-key(4)/db: OMIM
+db-key(4)/key: 137950
+db-key(5)/db: OMIM
+db-key(5)/key: 601894
+db-key(6)/db: Orphanet
+db-key(6)/key: 84090
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 236535001
+reviewed: 2015-04
+published: 2018-04-17

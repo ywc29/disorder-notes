@@ -1,0 +1,43 @@
+name: Hyperlysinemia
+ghr-page: https://ghr.nlm.nih.gov/condition/hyperlysinemia
+text/text-role: description
+text/html: <p>Hyperlysinemia is an inherited condition characterized by elevated blood levels of the amino acid lysine, a building block of most proteins.  Hyperlysinemia is caused by the shortage (deficiency) of the enzyme that breaks down lysine.  Hyperlysinemia typically causes no health problems, and most people with elevated lysine levels are unaware that they have this condition.  Rarely, people with hyperlysinemia have intellectual disability or behavioral problems.  It is not clear whether these problems are due to hyperlysinemia or another cause.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: AASS
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/AASS
+synonym(1): alpha-aminoadipic semialdehyde deficiency disease
+synonym(2): familial hyperlysinemia
+synonym(3): lysine alpha-ketoglutarate reductase deficiency disease
+synonym(4): saccharopine dehydrogenase deficiency disease
+synonym(5): saccharopinuria
+db-key(1)/db: GTR
+db-key(1)/key: C0268553
+db-key(2)/db: GTR
+db-key(2)/key: C0268556
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E72.3
+db-key(4)/db: MeSH
+db-key(4)/key: D020167
+db-key(5)/db: OMIM
+db-key(5)/key: 238700
+db-key(6)/db: OMIM
+db-key(6)/key: 268700
+db-key(7)/db: Orphanet
+db-key(7)/key: 2203
+db-key(8)/db: Orphanet
+db-key(8)/key: 3124
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 111397004
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 340519003
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 341536001
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 342553006
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 58558003
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 66002008
+reviewed: 2009-08
+published: 2018-04-17

@@ -1,0 +1,24 @@
+gene-symbol: TRIP11
+name: thyroid hormone receptor interactor 11
+ghr-page: https://ghr.nlm.nih.gov/gene/TRIP11
+text/text-role: function
+text/html: <p>The <i>TRIP11</i> gene provides instructions for making a protein known as Golgi microtubule-associated protein 210 (GMAP-210). This protein is found in the Golgi apparatus, a cell structure in which newly produced proteins are modified so they can carry out their functions. Studies suggest that the GMAP-210 protein helps to maintain the structure of the Golgi apparatus, and it may also be involved in the transport of certain proteins out of cells.</p><p>Although the GMAP-210 protein is found throughout the body, researchers suspect that it may have a particularly important role in cells called chondrocytes in the developing skeleton. Chondrocytes give rise to cartilage, a tough, flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears.</p>
+related-health-condition/name: achondrogenesis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/achondrogenesis
+synonym(1): ACG1A
+synonym(2): CEV14
+synonym(3): clonal evolution-related gene on chromosome 14 protein
+synonym(4): GMAP-210
+synonym(5): Golgi-associated microtubule-binding protein 210
+synonym(6): Golgi-microtubule-associated protein of 210 kDa
+synonym(7): thyroid receptor-interacting protein 11
+synonym(8): TR-interacting protein 11
+synonym(9): TRIP-11
+synonym(10): TRIP230
+synonym(11): TRIPB_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9321
+db-key(2)/db: OMIM
+db-key(2)/key: 604505
+reviewed: 2015-03
+published: 2018-04-17

@@ -1,0 +1,19 @@
+gene-symbol: TK2
+name: thymidine kinase 2, mitochondrial
+ghr-page: https://ghr.nlm.nih.gov/gene/TK2
+text/text-role: function
+text/html: <p>The <i>TK2</i> gene provides instructions for making an enzyme called thymidine kinase 2 that functions within cell structures called mitochondria, which are found in all tissues. Mitochondria are involved in a wide variety of cellular activities, including energy production; chemical signaling; and regulation of cell growth, cell division, and cell death. Mitochondria contain their own genetic material, known as mitochondrial DNA (mtDNA), which is essential for the normal function of these structures. Thymidine kinase 2 is involved in the production and maintenance of mtDNA. Specifically, this enzyme plays a role in recycling mtDNA building blocks (nucleotides) so that errors in mtDNA sequencing can be repaired and new mtDNA molecules can be produced.</p>
+related-health-condition(1)/name: progressive external ophthalmoplegia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/progressive-external-ophthalmoplegia
+related-health-condition(2)/name: TK2-related mitochondrial DNA depletion syndrome, myopathic form
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/tk2-related-mitochondrial-dna-depletion-syndrome-myopathic-form
+synonym(1): KITM_HUMAN
+synonym(2): mt-TK
+synonym(3): MTDPS2
+synonym(4): MTTK
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7084
+db-key(2)/db: OMIM
+db-key(2)/key: 188250
+reviewed: 2013-09
+published: 2018-04-17

@@ -1,0 +1,21 @@
+gene-symbol: MATR3
+name: matrin 3
+ghr-page: https://ghr.nlm.nih.gov/gene/MATR3
+text/text-role: function
+text/html: <p>The <i>MATR3</i> gene provides instructions for making a protein called matrin 3, which is found in the nucleus of the cell as part of the nuclear matrix. The nuclear matrix is a network of proteins that provides structural support for the nucleus and aids in several important nuclear functions.</p><p>The function of the matrin 3 protein is unknown. This protein can attach to (bind) RNA, which is a chemical cousin of DNA. Some studies indicate that matrin 3 binds and stabilizes a type of RNA called messenger RNA (mRNA), which provides the genetic blueprint for proteins. Matrin 3 may also bind certain abnormal RNAs that could lead to nonfunctional or harmful proteins, thereby blocking the formation of such proteins. Other studies suggest that the matrin 3 protein may be involved in cell survival.</p>
+related-health-condition(1)/name: amyotrophic lateral sclerosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
+related-health-condition(2)/name: distal myopathy 2
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/distal-myopathy-2
+synonym(1): MATR3_HUMAN
+synonym(2): matrin-3
+synonym(3): matrin-3 isoform a
+synonym(4): matrin-3 isoform b
+synonym(5): MGC9105
+synonym(6): MPD2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9782
+db-key(2)/db: OMIM
+db-key(2)/key: 164015
+reviewed: 2011-11
+published: 2018-04-17

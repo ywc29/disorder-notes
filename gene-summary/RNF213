@@ -1,0 +1,24 @@
+gene-symbol: RNF213
+name: ring finger protein 213
+ghr-page: https://ghr.nlm.nih.gov/gene/RNF213
+text/text-role: function
+text/html: <p>The <i>RNF213</i> gene provides instructions for making a protein whose role is unknown. The RNF213 protein, which is found in tissues throughout the body, contains specific regions (domains) that hint at possible functions. One domain, known as a RING finger, is found in proteins that have an enzyme activity known as E3 ubiquitin-protein ligase. Proteins with this activity target other proteins to be broken down (degraded) within cells. Protein degradation is a normal process that removes damaged or unnecessary proteins and helps maintain the normal functions of cells. Proteins with a RING finger domain are involved in many different cellular functions, including cell growth and division, the transmission of chemical signals (signal transduction), and the self-destruction of cells (apoptosis).</p><p>The RNF213 protein also contains two regions called AAA+ ATPase domains. Proteins with these domains typically regulate mechanical processes in the cell, such as protein unfolding, DNA unwinding, or transporting molecules.</p><p>Although the function of the RNF213 protein is unknown, studies suggest that it plays a role in the proper development of blood vessels.</p>
+related-health-condition/name: moyamoya disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/moyamoya-disease
+synonym(1): ALK lymphoma oligomerization partner on chromosome 17
+synonym(2): ALO17
+synonym(3): C17orf27
+synonym(4): E3 ubiquitin-protein ligase RNF213
+synonym(5): KIAA1554
+synonym(6): KIAA1618
+synonym(7): MYMY2
+synonym(8): mysterin
+synonym(9): MYSTR
+synonym(10): NET57
+synonym(11): RN213_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57674
+db-key(2)/db: OMIM
+db-key(2)/key: 613768
+reviewed: 2015-04
+published: 2018-04-17

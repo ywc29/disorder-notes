@@ -1,0 +1,15 @@
+gene-symbol: AHCY
+name: adenosylhomocysteinase
+ghr-page: https://ghr.nlm.nih.gov/gene/AHCY
+text/text-role: function
+text/html: <p>The <i>AHCY</i> gene provides instructions for producing the enzyme S-adenosylhomocysteine hydrolase. This enzyme is involved in a multistep process that breaks down the protein building block (amino acid) methionine. Specifically, S-adenosylhomocysteine hydrolase controls the step that converts the compound S-adenosylhomocysteine to the compounds adenosine and homocysteine. This reaction also plays an important role in regulating the addition of methyl groups, consisting of one carbon atom and three hydrogen atoms, to other compounds (methylation). Methylation is important in many cellular processes. These include determining whether the instructions in a particular segment of DNA are carried out, regulating reactions involving proteins and lipids, and controlling the processing of chemicals that relay signals in the nervous system (neurotransmitters).</p>
+related-health-condition/name: hypermethioninemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hypermethioninemia
+synonym(1): SAHH
+synonym(2): SAHH_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 191
+db-key(2)/db: OMIM
+db-key(2)/key: 180960
+reviewed: 2007-04
+published: 2018-04-17

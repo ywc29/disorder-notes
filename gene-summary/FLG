@@ -1,0 +1,17 @@
+gene-symbol: FLG
+name: filaggrin
+ghr-page: https://ghr.nlm.nih.gov/gene/FLG
+text/text-role: function
+text/html: <p>The <i>FLG</i> gene provides instructions for making a large protein called profilaggrin, which is found in cells that make up the outermost layer of skin (the epidermis). Profilaggrin is cut (cleaved) to produce multiple copies  of the filaggrin protein, which is important for the structure of the epidermis. The profilaggrin molecule can contain 10, 11, or 12 copies of the filaggrin protein, depending on the genetics of the individual. Further processing of the filaggrin protein produces other molecules that play a role in hydration of the skin.</p><p>The epidermis acts as a barrier to help minimize water loss and protect the body from foreign substances, including toxins, bacteria, and substances that can cause allergic reactions (allergens), such as pollen and dust mites. Filaggrin plays an important role in the skin's barrier function. It brings together structural proteins in the outermost skin cells to form tight bundles, flattening and strengthening the cells to create a strong barrier. In addition, processing of filaggrin proteins leads to production of molecules that are part of the skin's "natural moisturizing factor," which helps maintain hydration of the skin. These molecules also maintain the correct acidity (pH) of the skin, which is another important aspect of the barrier.</p>
+related-health-condition/name: atopic dermatitis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/atopic-dermatitis
+synonym(1): ATOD2
+synonym(2): epidermal filaggrin
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2312
+db-key(2)/db: OMIM
+db-key(2)/key: 135940
+db-key(3)/db: OMIM
+db-key(3)/key: 146700
+reviewed: 2017-10
+published: 2018-04-17

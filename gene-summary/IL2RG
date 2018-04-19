@@ -1,0 +1,23 @@
+gene-symbol: IL2RG
+name: interleukin 2 receptor subunit gamma
+ghr-page: https://ghr.nlm.nih.gov/gene/IL2RG
+text/text-role: function
+text/html: <p>The <i>IL2RG</i> gene provides instructions for making a protein called the common gamma chain. This protein is a component of several different receptors that are involved in immune system function.  The receptors span the cell membrane, with one end outside the cell like an antenna and the other end inside to transmit signals to the nucleus.  Other proteins attach to these receptors, like a key in a lock, to trigger a series of chemical reactions inside the cell.</p><p>Receptors containing the common gamma chain are located on the surface of immature blood-forming cells in bone marrow. They partner with other proteins to direct blood-forming cells to form lymphocytes (a type of white blood cell). The receptors also regulate the growth and maturation of several subtypes of lymphocytes: T cells, B cells, and natural killer cells. These cells kill viruses, make antibodies, and help regulate the entire immune system.</p>
+related-health-condition/name: X-linked severe combined immunodeficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-severe-combined-immunodeficiency
+synonym(1): CD132
+synonym(2): common cytokine receptor gamma chain
+synonym(3): Gamma-C
+synonym(4): IL2RG_HUMAN
+synonym(5): IMD4
+synonym(6): interleukin 2 receptor, gamma
+synonym(7): interleukin 2 receptor, gamma (severe combined immunodeficiency)
+synonym(8): SCIDX
+synonym(9): SCIDX1
+synonym(10): γc
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3561
+db-key(2)/db: OMIM
+db-key(2)/key: 308380
+reviewed: 2009-05
+published: 2018-04-17

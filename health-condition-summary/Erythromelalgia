@@ -1,0 +1,29 @@
+name: Erythromelalgia
+ghr-page: https://ghr.nlm.nih.gov/condition/erythromelalgia
+text/text-role: description
+text/html: <p>Erythromelalgia is a condition characterized by episodes of pain, redness, and swelling in various parts of the body, particularly the hands and feet. These episodes are usually triggered by increased body temperature, which may be caused by exercise or entering a warm room. Ingesting alcohol or spicy foods may also trigger an episode. Wearing warm socks, tight shoes, or gloves can cause a pain episode so debilitating that it can impede everyday activities such as wearing shoes and walking. Pain episodes can prevent an affected person from going to school or work regularly.</p><p>The signs and symptoms of erythromelalgia typically begin in childhood, although mildly affected individuals may have their first pain episode later in life. As individuals with erythromelalgia get older and the disease progresses, the hands and feet may be constantly red, and the affected areas can extend from the hands to the arms, shoulders, and face, and from the feet to the entire legs.</p><p>Erythromelalgia is often considered a form of peripheral neuropathy because it affects the peripheral nervous system, which connects the brain and spinal cord to muscles and to cells that detect sensations such as touch, smell, and pain.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SCN9A
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SCN9A
+synonym(1): erythermalgia
+synonym(2): familial erythromelalgia
+synonym(3): primary erythromelalgia
+db-key(1)/db: GTR
+db-key(1)/key: C0014805
+db-key(2)/db: GeneReviews
+db-key(2)/key: etha
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: I73.81
+db-key(4)/db: MeSH
+db-key(4)/key: D004916
+db-key(5)/db: OMIM
+db-key(5)/key: 133020
+db-key(6)/db: Orphanet
+db-key(6)/key: 1956
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 37151006
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 403390002
+reviewed: 2016-02
+published: 2018-04-17

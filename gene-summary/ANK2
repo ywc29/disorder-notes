@@ -1,0 +1,23 @@
+gene-symbol: ANK2
+name: ankyrin 2
+ghr-page: https://ghr.nlm.nih.gov/gene/ANK2
+text/text-role: function
+text/html: <p>The <i>ANK2</i> gene provides instructions for making a protein called ankyrin-B. Ankyrin-B is part of a family of ankyrin proteins, which interact with many other types of proteins in cells throughout the body. Ankyrins help organize the cell's structural framework (the cytoskeleton) and link certain proteins that span the cell membrane to this framework. Additionally, ankyrins play key roles in important functions including cell movement (migration) and cell growth and division (proliferation).</p><p>The ankyrin-B protein is active in many cell types, particularly in the brain and in heart (cardiac) muscle. This protein mainly interacts with ion channels and ion transporters, which are complexes of proteins that move charged atoms (ions) across cell membranes. In the heart, the flow of ions (such as sodium, potassium, and calcium) through ion channels and ion transporters generates the electrical signals that control the heartbeat and maintain a normal heart rhythm. Ankyrin-B ensures these channels and transporters are in their proper locations in the cell membrane so they can regulate the flow of ions into and out of cardiac muscle cells. In addition, ankyrin-B helps ensure that signaling molecules that regulate the activity of ion channels and ion transporters are in the proper location.</p>
+related-health-condition(1)/name: ankyrin-B syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/ankyrin-b-syndrome
+related-health-condition(2)/name: autism spectrum disorder
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/autism-spectrum-disorder
+synonym(1): ANK2_HUMAN
+synonym(2): ankyrin 2, neuronal
+synonym(3): ankyrin-2, nonerythrocytic
+synonym(4): ankyrin B
+synonym(5): ankyrin, brain
+synonym(6): ankyrin, nonerythroid
+synonym(7): brank-2
+synonym(8): LQT4
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 287
+db-key(2)/db: OMIM
+db-key(2)/key: 106410
+reviewed: 2017-03
+published: 2018-04-17

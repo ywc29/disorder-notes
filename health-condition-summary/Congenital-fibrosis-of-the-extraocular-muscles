@@ -1,0 +1,39 @@
+name: Congenital fibrosis of the extraocular muscles
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-fibrosis-of-the-extraocular-muscles
+text/text-role: description
+text/html: <p>Congenital fibrosis of the extraocular muscles is a disorder that affects the muscles that surround the eyes. These muscles control eye movement and the position of the eyes (for example, looking straight ahead). Congenital fibrosis of the extraocular muscles prevents the normal development and function of these muscles. As a result, affected individuals are unable to move their eyes normally. Most people with this condition have difficulty looking upward, and their side-to-side eye movement may also be limited. The eyes may be misaligned such that they look in different directions (strabismus). Instead of moving their eyes, affected individuals may need to turn their head to track moving objects.  Additionally, many people with congenital fibrosis of the extraocular muscles have droopy eyelids (ptosis), which further limits their vision.</p><p>Researchers have identified at least four forms of congenital fibrosis of the extraocular muscles, designated CFEOM1, CFEOM2, CFEOM3, and Tukel syndrome. The specific problems with eye movement vary among the types. Tukel syndrome is characterized by missing fingers (oligodactyly) and other hand abnormalities in addition to problems with eye movement.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: KIF21A
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/KIF21A
+related-gene(2)/gene-symbol: PHOX2A
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PHOX2A
+synonym(1): CFEOM
+synonym(2): congenital external ophthalmoplegia
+synonym(3): congenital fibrosis of extraocular muscles
+synonym(4): congenital fibrosis syndrome
+synonym(5): general fibrosis syndrome
+db-key(1)/db: GTR
+db-key(1)/key: CN043677
+db-key(2)/db: GeneReviews
+db-key(2)/key: cfeom
+db-key(3)/db: MeSH
+db-key(3)/key: D015785
+db-key(4)/db: OMIM
+db-key(4)/key: 135700
+db-key(5)/db: OMIM
+db-key(5)/key: 600638
+db-key(6)/db: OMIM
+db-key(6)/key: 602078
+db-key(7)/db: OMIM
+db-key(7)/key: 609428
+db-key(8)/db: Orphanet
+db-key(8)/key: 45358
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 204217005
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 400946004
+reviewed: 2009-03
+published: 2018-04-17

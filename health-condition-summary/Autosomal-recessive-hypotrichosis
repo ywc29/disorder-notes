@@ -1,0 +1,40 @@
+name: Autosomal recessive hypotrichosis
+ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-hypotrichosis
+text/text-role: description
+text/html: <p>Autosomal recessive hypotrichosis is a condition that affects hair growth.  People with this condition have sparse hair (hypotrichosis) on the scalp beginning in infancy. This hair is usually coarse, dry, and tightly curled (often described as woolly hair). Scalp hair may also be lighter in color than expected and is fragile and easily broken. Affected individuals often cannot grow hair longer than a few inches. The eyebrows, eyelashes, and other body hair may be sparse as well. Over time, the hair problems can remain stable or progress to complete scalp hair loss (alopecia) and a decrease in body hair.</p><p>Rarely, people with autosomal recessive hypotrichosis have skin problems affecting areas with sparse hair, such as redness (erythema), itchiness (pruritus), or missing patches of skin (erosions) on the scalp. In areas of poor hair growth, they may also develop bumps called hyperkeratotic follicular papules that develop around hair follicles, which are specialized structures in the skin where hair growth occurs.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: DSG4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/DSG4
+related-gene(2)/gene-symbol: LIPH
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/LIPH
+related-gene(3)/gene-symbol: LPAR6
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/LPAR6
+synonym(1): AH
+synonym(2): autosomal recessive localized hypotrichosis
+synonym(3): autosomal recessive woolly hair with or without hypotrichosis
+synonym(4): HTL
+synonym(5): hypotrichoses
+synonym(6): hypotrichosis
+synonym(7): LAH
+synonym(8): total hypotrichosis, Mari type
+db-key(1)/db: GTR
+db-key(1)/key: C1836672
+db-key(2)/db: GTR
+db-key(2)/key: C1842839
+db-key(3)/db: GTR
+db-key(3)/key: C1848435
+db-key(4)/db: MeSH
+db-key(4)/key: D007039
+db-key(5)/db: OMIM
+db-key(5)/key: 278150
+db-key(6)/db: OMIM
+db-key(6)/key: 604379
+db-key(7)/db: OMIM
+db-key(7)/key: 607903
+db-key(8)/db: Orphanet
+db-key(8)/key: 55654
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 56558005
+reviewed: 2013-04
+published: 2018-04-17

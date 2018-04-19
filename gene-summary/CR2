@@ -1,0 +1,10 @@
+gene-symbol: CR2
+name: complement C3d receptor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/CR2
+related-health-condition(1)/name: common variable immune deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/common-variable-immune-deficiency
+related-health-condition(2)/name: systemic lupus erythematosus
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/systemic-lupus-erythematosus
+db-key/db: NCBI Gene
+db-key/key: 1380
+published: 2018-04-17

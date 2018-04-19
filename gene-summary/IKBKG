@@ -1,0 +1,29 @@
+gene-symbol: IKBKG
+name: inhibitor of nuclear factor kappa B kinase subunit gamma
+ghr-page: https://ghr.nlm.nih.gov/gene/IKBKG
+text/text-role: function
+text/html: <p>The <i>IKBKG</i> gene provides instructions for producing one piece (subunit) of the IKK protein complex, which is a group of related proteins that regulates the activity of nuclear factor-kappa-B. Nuclear factor-kappa-B is a protein complex that binds to DNA and controls the activity of other genes. When it is turned off (inactive), nuclear factor-kappa-B is attached (bound) to the IKK complex. In response to certain signals, the IKK complex turns on (activates) nuclear factor-kappa-B and releases it.</p><p>The IKBKG protein plays a regulatory role in the IKK complex. Once the IKBKG protein is turned on (activated), it activates the other proteins in the complex, which in turn activates and releases nuclear factor-kappa-B. The activated factor then moves into the nucleus and binds to DNA. Nuclear factor-kappa-B regulates the activity of multiple genes, including genes that control the body's immune responses and inflammatory reactions. Nuclear factor-kappa-B also appears to play a role in the signaling pathway that is critical for the formation of ectodermal tissues including the skin, hair, teeth, and sweat glands. In addition, it protects the cell from certain signals that would otherwise cause it to self-destruct (undergo apoptosis).</p>
+related-health-condition(1)/name: anhidrotic ectodermal dysplasia with immune deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/anhidrotic-ectodermal-dysplasia-with-immune-deficiency
+related-health-condition(2)/name: incontinentia pigmenti
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/incontinentia-pigmenti
+related-health-condition(3)/name: osteopetrosis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/osteopetrosis
+synonym(1): FIP-3
+synonym(2): FIP3
+synonym(3): Fip3p
+synonym(4): IKK-gamma
+synonym(5): inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma
+synonym(6): IP2
+synonym(7): NEMO
+synonym(8): NEMO_HUMAN
+synonym(9): NF-kappa-B essential modulator
+synonym(10): ZC2HC9
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8517
+db-key(2)/db: OMIM
+db-key(2)/key: 300248
+db-key(3)/db: OMIM
+db-key(3)/key: 300636
+reviewed: 2013-08
+published: 2018-04-17

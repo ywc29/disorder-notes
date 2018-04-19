@@ -1,0 +1,25 @@
+name: RRM2B-related mitochondrial DNA depletion syndrome, encephalomyopathic form with renal tubulopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/rrm2b-related-mitochondrial-dna-depletion-syndrome-encephalomyopathic-form-with-renal-tubulopathy
+text/text-role: description
+text/html: <p><i>RRM2B</i>-related mitochondrial DNA depletion syndrome, encephalomyopathic form with renal tubulopathy (<i>RRM2B</i>-MDS) is a severe condition that begins in infancy and affects multiple body systems. It is associated with brain dysfunction combined with muscle weakness (encephalomyopathy). Many affected individuals also have a kidney dysfunction known as renal tubulopathy.</p><p>Infants with <i>RRM2B</i>-MDS have weak muscle tone (hypotonia) and a failure to grow or gain weight at the expected rate (failure to thrive). Many have a smaller-than-normal head size (microcephaly). Due to muscle weakness, affected infants typically have difficulty controlling head movement and may have delayed development of other motor skills, such as rolling over or sitting. Weakness of the muscles used for breathing leads to serious breathing difficulties and can result in life-threatening respiratory failure. Most affected infants have a buildup of a chemical called lactic acid in the body (lactic acidosis), which can also be life-threatening.</p><p>Some individuals with <i>RRM2B</i>-MDS have a digestion problem known as gastrointestinal dysmotility, in which the muscles and nerves of the digestive system do not move food through the digestive tract efficiently. This disorder may lead to swallowing difficulties, vomiting, and diarrhea and can contribute to a failure to thrive. Less commonly, individuals with <i>RRM2B</i>-MDS develop seizures or hearing loss that is caused by nerve damage in the inner ear (sensorineural hearing loss).</p><p>Because of the severity of the signs and symptoms, people with <i>RRM2B</i>-MDS usually live only into early childhood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: RRM2B
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/RRM2B
+synonym(1): mitochondrial DNA depletion syndrome 8A (encephalomyopathic type with renal tubulopathy)
+synonym(2): MTDPS8A
+synonym(3): RRM2B-MDS
+db-key(1)/db: GTR
+db-key(1)/key: CN187502
+db-key(2)/db: GeneReviews
+db-key(2)/key: rrm2b-mtddepl
+db-key(3)/db: MeSH
+db-key(3)/key: D017237
+db-key(4)/db: OMIM
+db-key(4)/key: 612075
+db-key(5)/db: Orphanet
+db-key(5)/key: 255235
+db-key(6)/db: Orphanet
+db-key(6)/key: 35698
+reviewed: 2016-11
+published: 2018-04-17

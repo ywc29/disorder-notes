@@ -1,0 +1,25 @@
+name: Hartnup disease
+ghr-page: https://ghr.nlm.nih.gov/condition/hartnup-disease
+text/text-role: description
+text/html: <p>Hartnup disease is a condition caused by the body's inability to absorb certain protein building blocks (amino acids) from the diet. As a result, affected individuals are not able to use these amino acids to produce other substances, such as vitamins and proteins. Most people with Hartnup disease are able to get the vitamins and other substances they need with a well-balanced diet.</p><p>People with Hartnup disease have high levels of various amino acids in their urine (aminoaciduria). For most affected individuals, this is the only sign of the condition. However, some people with Hartnup disease have episodes during which they exhibit other signs, which can include skin rashes; difficulty coordinating movements (cerebellar ataxia); and psychiatric symptoms, such as depression or psychosis. These episodes are typically temporary and are often triggered by illness, stress, nutrient-poor diet, or fever. These features tend to go away once the trigger is remedied, although the aminoaciduria remains. In affected individuals, signs and symptoms most commonly occur in childhood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SLC6A19
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SLC6A19
+synonym(1): Hartnup disorder
+synonym(2): Hartnup's disease
+synonym(3): neutral amino acid transport defect
+db-key(1)/db: GTR
+db-key(1)/key: C0018609
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E72.02
+db-key(3)/db: MeSH
+db-key(3)/key: D006250
+db-key(4)/db: OMIM
+db-key(4)/key: 234500
+db-key(5)/db: Orphanet
+db-key(5)/key: 2116
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 80902009
+reviewed: 2016-05
+published: 2018-04-17

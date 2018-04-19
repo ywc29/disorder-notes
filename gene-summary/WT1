@@ -1,0 +1,28 @@
+gene-symbol: WT1
+name: Wilms tumor 1
+ghr-page: https://ghr.nlm.nih.gov/gene/WT1
+text/text-role: function
+text/html: <p>The <i>WT1</i> gene provides instructions for making a protein that is necessary for the development of the kidneys and gonads (ovaries in females and testes in males). Within these tissues, the WT1 protein plays a role in cell growth, the process by which cells mature to perform specific functions (cell differentiation), and the self-destruction of cells (apoptosis). To carry out these functions, the WT1 protein regulates the activity of other genes by attaching (binding) to specific regions of DNA. On the basis of this action, the WT1 protein is called a transcription factor.</p>
+related-health-condition(1)/name: congenital nephrotic syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-nephrotic-syndrome
+related-health-condition(2)/name: cytogenetically normal acute myeloid leukemia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cytogenetically-normal-acute-myeloid-leukemia
+related-health-condition(3)/name: Denys-Drash syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/denys-drash-syndrome
+related-health-condition(4)/name: Frasier syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/frasier-syndrome
+related-health-condition(5)/name: prostate cancer
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+related-health-condition(6)/name: WAGR syndrome
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/wagr-syndrome
+synonym(1): WIT-2
+synonym(2): WT1_HUMAN
+synonym(3): WT33
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7490
+db-key(2)/db: OMIM
+db-key(2)/key: 194070
+db-key(3)/db: OMIM
+db-key(3)/key: 607102
+reviewed: 2013-03
+published: 2018-04-17

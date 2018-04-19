@@ -1,0 +1,114 @@
+name: Leber congenital amaurosis
+ghr-page: https://ghr.nlm.nih.gov/condition/leber-congenital-amaurosis
+text/text-role: description
+text/html: <p>Leber congenital amaurosis is an eye disorder that primarily affects the retina, which is the specialized tissue at the back of the eye that detects light and color. People with this disorder typically have severe visual impairment beginning in infancy. The visual impairment tends to be stable, although it may worsen very slowly over time.</p><p>Leber congenital amaurosis is also associated with other vision problems, including an increased sensitivity to light (photophobia), involuntary movements of the eyes (nystagmus), and extreme farsightedness (hyperopia). The pupils, which usually expand and contract in response to the amount of light entering the eye, do not react normally to light. Instead, they expand and contract more slowly than normal, or they may not respond to light at all. Additionally, the clear front covering of the eye (the cornea) may be cone-shaped and abnormally thin, a condition known as keratoconus.</p><p>A specific behavior called Franceschetti's oculo-digital sign is characteristic of Leber congenital amaurosis. This sign consists of poking, pressing, and rubbing the eyes with a knuckle or finger. Researchers suspect that this behavior may contribute to deep-set eyes and keratoconus in affected children.</p><p>In rare cases, delayed development and intellectual disability have been reported in people with the features of Leber congenital amaurosis. However, researchers are uncertain whether these individuals actually have Leber congenital amaurosis or another syndrome with similar signs and symptoms.</p><p>At least 13 types of Leber congenital amaurosis have been described. The types are distinguished by their genetic cause, patterns of vision loss, and related eye abnormalities.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: AIPL1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AIPL1
+related-gene(2)/gene-symbol: CEP290
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CEP290
+related-gene(3)/gene-symbol: CRB1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CRB1
+related-gene(4)/gene-symbol: CRX
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/CRX
+related-gene(5)/gene-symbol: GUCY2D
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/GUCY2D
+related-gene(6)/gene-symbol: IMPDH1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/IMPDH1
+related-gene(7)/gene-symbol: IQCB1
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/IQCB1
+related-gene(8)/gene-symbol: LCA5
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/LCA5
+related-gene(9)/gene-symbol: LRAT
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/LRAT
+related-gene(10)/gene-symbol: NMNAT1
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/NMNAT1
+related-gene(11)/gene-symbol: RD3
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/RD3
+related-gene(12)/gene-symbol: RDH12
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/RDH12
+related-gene(13)/gene-symbol: RPE65
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/RPE65
+related-gene(14)/gene-symbol: RPGRIP1
+related-gene(14)/ghr-page: https://ghr.nlm.nih.gov/gene/RPGRIP1
+related-gene(15)/gene-symbol: SPATA7
+related-gene(15)/ghr-page: https://ghr.nlm.nih.gov/gene/SPATA7
+related-gene(16)/gene-symbol: TULP1
+related-gene(16)/ghr-page: https://ghr.nlm.nih.gov/gene/TULP1
+synonym(1): amaurosis, Leber congenital
+synonym(2): congenital amaurosis of retinal origin
+synonym(3): congenital retinal blindness
+synonym(4): CRB
+synonym(5): dysgenesis neuroepithelialis retinae
+synonym(6): hereditary epithelial dysplasia of retina
+synonym(7): hereditary retinal aplasia
+synonym(8): heredoretinopathia congenitalis
+synonym(9): LCA
+synonym(10): Leber abiotrophy
+synonym(11): Leber congenital tapetoretinal degeneration
+synonym(12): Leber's amaurosis
+db-key(1)/db: GTR
+db-key(1)/key: C0339527
+db-key(2)/db: GTR
+db-key(2)/key: C1837873
+db-key(3)/db: GTR
+db-key(3)/key: C1840284
+db-key(4)/db: GTR
+db-key(4)/key: C1854260
+db-key(5)/db: GTR
+db-key(5)/key: C1857743
+db-key(6)/db: GTR
+db-key(6)/key: C1857821
+db-key(7)/db: GTR
+db-key(7)/key: C1858301
+db-key(8)/db: GTR
+db-key(8)/key: C1858386
+db-key(9)/db: GTR
+db-key(9)/key: C1858677
+db-key(10)/db: GTR
+db-key(10)/key: C1859844
+db-key(11)/db: GTR
+db-key(11)/key: C2675186
+db-key(12)/db: GTR
+db-key(12)/key: C2750063
+db-key(13)/db: GTR
+db-key(13)/key: C2931258
+db-key(14)/db: GTR
+db-key(14)/key: C3151192
+db-key(15)/db: GTR
+db-key(15)/key: C3151202
+db-key(16)/db: GTR
+db-key(16)/key: C3151206
+db-key(17)/db: GeneReviews
+db-key(17)/key: lca
+db-key(18)/db: MeSH
+db-key(18)/key: D057130
+db-key(19)/db: OMIM
+db-key(19)/key: 204000
+db-key(20)/db: OMIM
+db-key(20)/key: 204100
+db-key(21)/db: OMIM
+db-key(21)/key: 604232
+db-key(22)/db: OMIM
+db-key(22)/key: 604393
+db-key(23)/db: OMIM
+db-key(23)/key: 604537
+db-key(24)/db: OMIM
+db-key(24)/key: 608553
+db-key(25)/db: OMIM
+db-key(25)/key: 610612
+db-key(26)/db: OMIM
+db-key(26)/key: 611755
+db-key(27)/db: OMIM
+db-key(27)/key: 612712
+db-key(28)/db: OMIM
+db-key(28)/key: 613341
+db-key(29)/db: Orphanet
+db-key(29)/key: 65
+db-key(30)/db: SNOMED CT
+db-key(30)/key: 193413001
+reviewed: 2010-08
+published: 2018-04-17

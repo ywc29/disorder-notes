@@ -1,0 +1,39 @@
+gene-symbol: PITX2
+name: paired like homeodomain 2
+ghr-page: https://ghr.nlm.nih.gov/gene/PITX2
+text/text-role: function
+text/html: <p>The <i>PITX2</i> gene provides instructions for making a protein that attaches (binds) to specific regions of DNA and regulates the activity of other genes. On the basis of this action, the PITX2 protein is called a transcription factor. The <i>PITX2</i> gene is part of a family of homeobox genes, which act during early embryonic development to control the formation of many parts of the body.</p><p>The PITX2 protein plays a critical role in early development, particularly in the formation of structures in the front part of the eye (the anterior segment). These structures include the colored part of the eye (the iris), the lens of the eye, and the clear front covering of the eye (the cornea). Studies suggest that the PITX2 protein also has functions in the adult eye, such as helping cells respond to oxidative stress. Oxidative stress occurs when unstable molecules called free radicals accumulate to levels that can damage or kill cells.</p><p>The PITX2 protein is also involved in the normal development of other parts of the body, including the teeth, heart, and abdominal organs.</p>
+related-health-condition(1)/name: Axenfeld-Rieger syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/axenfeld-rieger-syndrome
+related-health-condition(2)/name: Peters anomaly
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/peters-anomaly
+synonym(1): all1-responsive gene 1
+synonym(2): ARP1
+synonym(3): Brx1
+synonym(4): IDG2
+synonym(5): IGDS
+synonym(6): IGDS2
+synonym(7): IHG2
+synonym(8): IRID2
+synonym(9): Otlx2
+synonym(10): paired-like homeodomain 2
+synonym(11): paired-like homeodomain transcription factor 2
+synonym(12): pituitary homeobox 2
+synonym(13): PITX2_HUMAN
+synonym(14): PTX2
+synonym(15): RGS
+synonym(16): RIEG
+synonym(17): rieg bicoid-related homeobox transcription factor 1
+synonym(18): RIEG1
+synonym(19): RS
+synonym(20): solurshin
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5308
+db-key(2)/db: OMIM
+db-key(2)/key: 137600
+db-key(3)/db: OMIM
+db-key(3)/key: 180550
+db-key(4)/db: OMIM
+db-key(4)/key: 601542
+reviewed: 2014-01
+published: 2018-04-17

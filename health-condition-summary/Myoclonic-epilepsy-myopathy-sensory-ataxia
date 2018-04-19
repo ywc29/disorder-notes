@@ -1,0 +1,21 @@
+name: Myoclonic epilepsy myopathy sensory ataxia
+ghr-page: https://ghr.nlm.nih.gov/condition/myoclonic-epilepsy-myopathy-sensory-ataxia
+text/text-role: description
+text/html: <p>Myoclonic epilepsy myopathy sensory ataxia, commonly called MEMSA, is part of a group of conditions called the <i>POLG</i>-related disorders. The conditions in this group feature a range of similar signs and symptoms involving muscle-, nerve-, and brain-related functions. The signs and symptoms of MEMSA typically appear during young adulthood. This condition had previously been known as spinocerebellar ataxia with epilepsy (SCAE).</p><p>The first symptom of MEMSA is usually cerebellar ataxia, which refers to problems with coordination and balance due to defects in the part of the brain that is involved in coordinating movement (cerebellum). Recurrent seizures (epilepsy) usually develop later, often in combination with uncontrollable muscle jerks (myoclonus). The seizures usually begin in the right arm and spread to become generalized throughout the body. Additionally, affected individuals may have severe brain dysfunction (encephalopathy) or muscle weakness (myopathy). The myopathy can affect muscles close to the center of the body (proximal), such as the muscles of the hips, thighs, upper arms, or neck, or muscles farther away from the center of the body (distal), such as the muscles of the hands or feet. The myopathy may be especially noticeable during exercise (exercise intolerance).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: POLG
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/POLG
+synonym(1): MEMSA
+synonym(2): SCAE
+synonym(3): spinocerebellar ataxia with epilepsy
+db-key(1)/db: GTR
+db-key(1)/key: C1843852
+db-key(2)/db: GeneReviews
+db-key(2)/key: alpers
+db-key(3)/db: MeSH
+db-key(3)/key: D028361
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 699328003
+reviewed: 2011-06
+published: 2018-04-17

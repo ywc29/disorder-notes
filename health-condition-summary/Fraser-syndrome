@@ -1,0 +1,31 @@
+name: Fraser syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/fraser-syndrome
+text/text-role: description
+text/html: <p>Fraser syndrome is a rare disorder that affects development starting before birth. Characteristic features of this condition include eyes that are completely covered by skin and usually malformed (cryptophthalmos), fusion of the skin between the fingers and toes (cutaneous syndactyly), and abnormalities of the genitalia and the urinary tract (genitourinary anomalies). Other tissues and organs can also be affected. Depending on the severity of the signs and symptoms, Fraser syndrome can be fatal before or shortly after birth; less severely affected individuals can live into childhood or adulthood.</p><p>Cryptophthalmos is the most common abnormality in people with Fraser syndrome. Both eyes are usually completely covered by skin, but in some cases, only one eye is covered or one or both eyes are partially covered. In cryptophthalmos, the eyes can also be malformed; for example, the eyeballs may be fused to the skin covering them, or they may be small (microphthalmia) or missing (anophthalmia). Eye abnormalities typically lead to impairment or loss of vision in people with Fraser syndrome. Affected individuals can have other problems related to abnormal eye development, including missing eyebrows or eyelashes or a patch of hair extending from the side hairline to the eyebrow.</p><p>Cutaneous syndactyly typically occurs in both the hands and the feet in Fraser syndrome. In most people with this feature, the skin between the middle three fingers and toes are fused, but the other digits can also be involved. Other abnormalities of the hands and feet can occur in people with Fraser syndrome.</p><p>Individuals with Fraser syndrome can have abnormalities of the genitalia, such as an enlarged clitoris in females or undescended testes (cryptorchidism) in males.  Some affected individuals have external genitalia that do not appear clearly female or male (ambiguous genitalia).</p><p>The most common urinary tract abnormality in Fraser syndrome is the absence of one or both kidneys (renal agenesis). Affected individuals can have other kidney problems or abnormalities of the bladder and other parts of the urinary tract.</p><p>A variety of other signs and symptoms can be involved in Fraser syndrome, including heart malformations or abnormalities of the voicebox (larynx) or other parts of the respiratory tract. Some affected individuals have facial abnormalities, including ear or nose abnormalities or an opening in the upper lip (cleft lip) with or without an opening in the roof of the mouth (cleft palate).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: FRAS1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/FRAS1
+related-gene(2)/gene-symbol: FREM2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FREM2
+related-gene(3)/gene-symbol: GRIP1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/GRIP1
+synonym(1): cryptophthalmos syndactyly syndrome
+synonym(2): cryptophthalmos syndrome
+synonym(3): cryptophthalmos with other malformations
+synonym(4): Fraser-Francois syndrome
+synonym(5): Fraser's syndrome
+synonym(6): Meyer-Schwickerath syndrome
+synonym(7): Ullrich-Feichtiger syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0265233
+db-key(2)/db: MeSH
+db-key(2)/key: D058497
+db-key(3)/db: OMIM
+db-key(3)/key: 219000
+db-key(4)/db: Orphanet
+db-key(4)/key: 2052
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 204102004
+reviewed: 2014-06
+published: 2018-04-17

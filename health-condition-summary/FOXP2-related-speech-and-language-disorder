@@ -1,0 +1,29 @@
+name: FOXP2-related speech and language disorder
+ghr-page: https://ghr.nlm.nih.gov/condition/foxp2-related-speech-and-language-disorder
+text/text-role: description
+text/html: <p><i>FOXP2</i>-related speech and language disorder is a condition that affects the development of speech and language starting in early childhood. Affected individuals have a speech problem known as childhood apraxia of speech, which makes it difficult to produce sequences of sounds, syllables, and words. This condition results from abnormalities involving parts of the brain that plan and coordinate movements of the lips, mouth, and tongue. Children with childhood apraxia of speech typically say their first words later than other children. Their speech is often difficult to understand, although the clarity of speech improves somewhat over time. Some affected individuals also cannot cough, sneeze, or clear their throats.</p><p>In addition to having problems with producing speech (expressive language), people with <i>FOXP2</i>-related speech and language disorder may have difficulty with understanding speech (receptive language). Some also have trouble with other language-related skills, such as reading, writing, spelling, and grammar. In some affected individuals, problems with speech and language are the only features of the condition. Others also have delayed development in other areas, including motor skills such as walking and tying shoelaces, and autism spectrum disorders, which are conditions characterized by impaired communication and social interaction.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FOXP2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FOXP2
+related-chromosome/name: 7
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/7
+synonym(1): CAS
+synonym(2): childhood apraxia of speech
+synonym(3): developmental verbal dyspraxia
+synonym(4): speech and language disorder with orofacial dyspraxia
+synonym(5): speech-language disorder 1
+db-key(1)/db: GTR
+db-key(1)/key: C0750927
+db-key(2)/db: GeneReviews
+db-key(2)/key: foxp2-sl-dis
+db-key(3)/db: MeSH
+db-key(3)/key: D001072
+db-key(4)/db: OMIM
+db-key(4)/key: 602081
+db-key(5)/db: Orphanet
+db-key(5)/key: 209908
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 229703009
+reviewed: 2016-09
+published: 2018-04-17

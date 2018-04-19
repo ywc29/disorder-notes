@@ -1,0 +1,31 @@
+gene-symbol: NOTCH1
+name: notch 1
+ghr-page: https://ghr.nlm.nih.gov/gene/NOTCH1
+text/text-role: function
+text/html: <p>The <i>NOTCH1</i> gene provides instructions for making a protein called Notch1, a member of the Notch family of receptors. Receptor proteins have specific sites into which certain other proteins, called ligands, fit like keys into locks. Attachment of a ligand to the Notch1 receptor sends signals that are important for normal development of many tissues throughout the body, both before birth and after. Notch1 signaling helps determine the specialization of cells into certain cell types that perform particular functions in the body (cell fate determination). It also plays a role in cell growth and division (proliferation), maturation (differentiation), and self-destruction (apoptosis).</p><p>The protein produced from the <i>NOTCH1</i> gene has such diverse functions that the gene is considered both an oncogene and a tumor suppressor. Oncogenes typically promote cell proliferation or survival, and when mutated, they have the potential to cause normal cells to become cancerous. In contrast, tumor suppressors keep cells from growing and dividing too fast or in an uncontrolled way, preventing the development of cancer; mutations that impair tumor suppressors can lead to cancer development.</p>
+related-health-condition(1)/name: Adams-Oliver syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/adams-oliver-syndrome
+related-health-condition(2)/name: critical congenital heart disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/critical-congenital-heart-disease
+related-health-condition(3)/name: head and neck squamous cell carcinoma
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/head-and-neck-squamous-cell-carcinoma
+synonym(1): AOS5
+synonym(2): AOVD1
+synonym(3): hN1
+synonym(4): neurogenic locus notch homolog protein 1
+synonym(5): neurogenic locus notch homolog protein 1 preproprotein
+synonym(6): Notch homolog 1, translocation-associated
+synonym(7): TAN1
+synonym(8): translocation-associated notch protein TAN-1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4851
+db-key(2)/db: OMIM
+db-key(2)/key: 109730
+db-key(3)/db: OMIM
+db-key(3)/key: 151400
+db-key(4)/db: OMIM
+db-key(4)/key: 190198
+db-key(5)/db: OMIM
+db-key(5)/key: 613065
+reviewed: 2015-11
+published: 2018-04-17

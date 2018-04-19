@@ -1,0 +1,33 @@
+name: Trisomy 13
+ghr-page: https://ghr.nlm.nih.gov/condition/trisomy-13
+text/text-role: description
+text/html: <p>Trisomy 13, also called Patau syndrome, is a chromosomal condition associated with severe intellectual disability and physical abnormalities in many parts of the body. Individuals with trisomy 13 often have heart defects, brain or spinal cord abnormalities, very small or poorly developed eyes (microphthalmia), extra fingers or toes, an opening in the lip (a cleft lip) with or without an opening in the roof of the mouth (a cleft palate), and weak muscle tone (hypotonia). Due to the presence of several life-threatening medical problems, many infants with trisomy 13 die within their first days or weeks of life. Only five percent to 10 percent of children with this condition live past their first year.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-chromosome/name: 13
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/13
+synonym(1): Bartholin-Patau syndrome
+synonym(2): complete trisomy 13 syndrome
+synonym(3): Patau syndrome
+synonym(4): Patau's syndrome
+synonym(5): trisomy 13 syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0152095
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: Q91.4
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q91.5
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: Q91.6
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: Q91.7
+db-key(6)/db: MeSH
+db-key(6)/key: D014314
+db-key(7)/db: Orphanet
+db-key(7)/key: 3378
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 21111006
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 254268004
+reviewed: 2013-11
+published: 2018-04-17

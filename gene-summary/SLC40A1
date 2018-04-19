@@ -1,0 +1,26 @@
+gene-symbol: SLC40A1
+name: solute carrier family 40 member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC40A1
+text/text-role: function
+text/html: <p>The <i>SLC40A1</i> gene provides instructions for making a protein called ferroportin. This protein is involved in the process of iron absorption in the body. Iron from the diet is absorbed through the walls of the small intestine. Ferroportin then transports iron from the small intestine into the bloodstream, and the iron is carried by the blood to the tissues and organs of the body. Ferroportin also transports iron out of specialized immune system cells (called reticuloendothelial cells) that are found in the liver, spleen, and bone marrow. The amount of iron absorbed by the body depends on the amount of iron stored and released from intestinal and reticuloendothelial cells.</p><p>Research suggests that the amount of ferroportin available to transport iron out of cells is controlled by another iron regulatory protein, hepcidin. Hepcidin binds to ferroportin and causes it to be broken down when the body's iron supplies are adequate. When the body is lacking iron, hepcidin levels drop and more ferroportin is available to bring iron into the body and to release it from storage.</p>
+related-health-condition(1)/name: African iron overload
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/african-iron-overload
+related-health-condition(2)/name: hereditary hemochromatosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hemochromatosis
+synonym(1): Ferroportin 1
+synonym(2): FPN1
+synonym(3): HFE4
+synonym(4): IREG1
+synonym(5): Iron regulated gene 1
+synonym(6): Iron-regulated transporter 1
+synonym(7): MTP1
+synonym(8): S40A1_HUMAN
+synonym(9): SLC11A3
+synonym(10): Solute carrier family 11 (proton-coupled divalent metal ion transporters), member 3
+synonym(11): solute carrier family 40 (iron-regulated transporter), member 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 30061
+db-key(2)/db: OMIM
+db-key(2)/key: 604653
+reviewed: 2012-10
+published: 2018-04-17

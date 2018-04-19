@@ -1,0 +1,8 @@
+gene-symbol: ETV4
+name: ETS variant 4
+ghr-page: https://ghr.nlm.nih.gov/gene/ETV4
+related-health-condition/name: Ewing sarcoma
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ewing-sarcoma
+db-key/db: NCBI Gene
+db-key/key: 2118
+published: 2018-04-17

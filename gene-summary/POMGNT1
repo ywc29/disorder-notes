@@ -1,0 +1,10 @@
+gene-symbol: POMGNT1
+name: protein O-linked mannose N-acetylglucosaminyltransferase 1 (beta 1,2-)
+ghr-page: https://ghr.nlm.nih.gov/gene/POMGNT1
+related-health-condition(1)/name: limb-girdle muscular dystrophy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/limb-girdle-muscular-dystrophy
+related-health-condition(2)/name: Walker-Warburg syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/walker-warburg-syndrome
+db-key/db: NCBI Gene
+db-key/key: 55624
+published: 2018-04-17

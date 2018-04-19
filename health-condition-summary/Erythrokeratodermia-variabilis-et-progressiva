@@ -1,0 +1,41 @@
+name: Erythrokeratodermia variabilis et progressiva
+ghr-page: https://ghr.nlm.nih.gov/condition/erythrokeratodermia-variabilis-et-progressiva
+text/text-role: description
+text/html: <p>Erythrokeratodermia variabilis et progressiva (EKVP) is a skin disorder that is present at birth or becomes apparent in infancy. Although its signs and symptoms vary, the condition is characterized by two major features. The first is areas of hyperkeratosis, which is rough, thickened skin. These thickened patches are usually reddish-brown and can either be widespread over many parts of the body or occur only in a small area. They tend to be fixed, meaning they do not spread or go away. However, the patches can vary in size and shape, and in some affected people they get larger over time. The areas of thickened skin are generally symmetric, which means they occur in the same places on the right and left sides of the body.</p><p>The second major feature of EKVP is patches of reddened skin called erythematous areas. Unlike the hyperkeratosis that occurs in this disorder, the erythematous areas are usually transient, which means they come and go. They vary in size, shape, and location, and can occur anywhere on the body. The redness can be triggered by sudden changes in temperature, emotional stress, or trauma or irritation to the area. It usually fades within hours to days.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: GJB3
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GJB3
+related-gene(2)/gene-symbol: GJB4
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GJB4
+synonym(1): EKV
+synonym(2): EKV-P
+synonym(3): EKVP
+synonym(4): erythrokeratodermia variabilis
+synonym(5): erythrokeratodermia variabilis of Mendes da Costa
+synonym(6): erythrokeratodermia, progressive symmetric
+synonym(7): progressive symmetrical erythrokeratoderma of Gottron
+db-key(1)/db: GTR
+db-key(1)/key: C0265961
+db-key(2)/db: MeSH
+db-key(2)/key: D056266
+db-key(3)/db: OMIM
+db-key(3)/key: 133200
+db-key(4)/db: OMIM
+db-key(4)/key: 617524
+db-key(5)/db: OMIM
+db-key(5)/key: 617525
+db-key(6)/db: OMIM
+db-key(6)/key: 617526
+db-key(7)/db: OMIM
+db-key(7)/key: 617756
+db-key(8)/db: Orphanet
+db-key(8)/key: 316
+db-key(9)/db: Orphanet
+db-key(9)/key: 317
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 70041004
+reviewed: 2014-01
+published: 2018-04-17

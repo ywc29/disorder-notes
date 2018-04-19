@@ -1,0 +1,39 @@
+gene-symbol: ARID1A
+name: AT-rich interaction domain 1A
+ghr-page: https://ghr.nlm.nih.gov/gene/ARID1A
+text/text-role: function
+text/html: <p>The <i>ARID1A</i> gene provides instructions for making a protein that forms one piece (subunit) of several different SWI/SNF protein complexes. SWI/SNF complexes regulate gene activity (expression) by a process known as chromatin remodeling. Chromatin is the network of DNA and protein that packages DNA into chromosomes. The structure of chromatin can be changed (remodeled) to alter how tightly DNA is packaged. Chromatin remodeling is one way gene expression is regulated during development; when DNA is tightly packed, gene expression is lower than when DNA is loosely packed.</p><p>Through their ability to regulate gene activity, SWI/SNF complexes are involved in many processes, including repairing damaged DNA; copying (replicating) DNA; and controlling the growth, division, and maturation (differentiation) of cells. The ARID1A protein and other SWI/SNF subunits are thought to act as tumor suppressors, which keep cells from growing and dividing too rapidly or in an uncontrolled way.</p><p>The ARID1A subunit is able to attach (bind) to DNA and is thought to help target SWI/SNF complexes to the chromatin location that needs to be remodeled.</p>
+related-health-condition(1)/name: cholangiocarcinoma
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cholangiocarcinoma
+related-health-condition(2)/name: Coffin-Siris syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/coffin-siris-syndrome
+synonym(1): ARI1A_HUMAN
+synonym(2): ARID domain-containing protein 1A
+synonym(3): AT rich interactive domain 1A (SWI-like)
+synonym(4): AT-rich interactive domain-containing protein 1A
+synonym(5): B120
+synonym(6): BAF250
+synonym(7): BAF250a
+synonym(8): BM029
+synonym(9): brain protein 120
+synonym(10): BRG1-associated factor 250a
+synonym(11): C1orf4
+synonym(12): chromatin remodeling factor p250
+synonym(13): ELD
+synonym(14): hELD
+synonym(15): hOSA1
+synonym(16): MRD14
+synonym(17): osa homolog 1
+synonym(18): OSA1
+synonym(19): OSA1 nuclear protein
+synonym(20): P270
+synonym(21): SMARCF1
+synonym(22): SWI-like protein
+synonym(23): SWI/SNF complex protein p270
+synonym(24): SWI/SNF-related, matrix-associated, actin-dependent regulator of chromatin subfamily F member 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8289
+db-key(2)/db: OMIM
+db-key(2)/key: 603024
+reviewed: 2013-05
+published: 2018-04-17

@@ -1,0 +1,19 @@
+gene-symbol: CPS1
+name: carbamoyl-phosphate synthase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/CPS1
+text/text-role: function
+text/html: <p>The <i>CPS1</i> gene provides instructions for making the enzyme carbamoyl phosphate synthetase I. This enzyme participates in the urea cycle, a series of reactions that occurs in liver cells. The urea cycle processes excess nitrogen, generated when protein is used by the body, into a compound called urea that is excreted by the kidneys. Excreting the excess nitrogen prevents it from accumulating in the form of ammonia, which is toxic.</p><p>The specific role of carbamoyl phosphate synthetase I is to control the first step of the urea cycle, a reaction in which excess nitrogen compounds are incorporated into the cycle to be processed.</p>
+related-health-condition/name: carbamoyl phosphate synthetase I deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/carbamoyl-phosphate-synthetase-i-deficiency
+synonym(1): carbamoyl-phosphate synthase 1, mitochondrial
+synonym(2): carbamoyl phosphate synthase I
+synonym(3): carbamoyl-phosphate synthase, mitochondrial precursor
+synonym(4): carbamoylphosphate synthetase I
+synonym(5): CPSase I
+synonym(6): CPSM_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1373
+db-key(2)/db: OMIM
+db-key(2)/key: 608307
+reviewed: 2013-02
+published: 2018-04-17

@@ -1,0 +1,21 @@
+name: Inherited thyroxine-binding globulin deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/inherited-thyroxine-binding-globulin-deficiency
+text/text-role: description
+text/html: <p>Inherited thyroxine-binding globulin deficiency is a genetic condition that typically does not cause any health problems.</p><p>Thyroxine-binding globulin is a protein that carries hormones made or used by the thyroid gland, which is a butterfly-shaped tissue in the lower neck. Thyroid hormones play an important role in regulating growth, brain development, and the rate of chemical reactions in the body (metabolism).  Most of the time, these hormones circulate in the bloodstream attached to thyroxine-binding globulin and similar proteins. If there is a shortage (deficiency) of thyroxine-binding globulin, the amount of circulating thyroid hormones is reduced.</p><p>Researchers have identified two forms of inherited thyroxine-binding globulin deficiency: the complete form (TBG-CD), which results in a total loss of thyroxine-binding globulin, and the partial form (TBG-PD), which reduces the amount of this protein or alters its structure. Neither of these conditions causes any problems with thyroid function. They are usually identified during routine blood tests that measure thyroid hormones.</p><p>Although inherited thyroxine-binding globulin deficiency does not cause any health problems, it can be mistaken for more serious thyroid disorders (such as hypothyroidism). Therefore, it is important to diagnose inherited thyroxine-binding globulin deficiency to avoid unnecessary treatments.</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+related-gene/gene-symbol: SERPINA7
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SERPINA7
+synonym: TBG deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1839141
+db-key(2)/db: MeSH
+db-key(2)/key: D013959
+db-key(3)/db: OMIM
+db-key(3)/key: 314200
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 2241003
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 41300001
+reviewed: 2009-09
+published: 2018-04-17

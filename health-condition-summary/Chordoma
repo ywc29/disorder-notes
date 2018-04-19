@@ -1,0 +1,29 @@
+name: Chordoma
+ghr-page: https://ghr.nlm.nih.gov/condition/chordoma
+text/text-role: description
+text/html: <p>A chordoma is a rare type of cancerous tumor that can occur anywhere along the spine, from the base of the skull to the tailbone. Chordomas grow slowly, gradually extending into the bone and soft tissue around them. They often recur after treatment, and in about 40 percent of cases the cancer spreads (metastasizes) to other areas of the body, such as the lungs.</p><p>Approximately half of all chordomas occur at the base of the spine (sacrum), about one third occur in the base of the skull (occiput), and the rest occur in the cervical (neck), thoracic (upper back), or lumbar (lower back) vertebrae of the spine. As the chordoma grows, it puts pressure on the adjacent areas of the brain or spinal cord, leading to the signs and symptoms of the disorder. A chordoma anywhere along the spine may cause pain, weakness, or numbness in the back, arms, or legs. A chordoma at the base of the skull (occipital chordoma) may lead to double vision (diplopia) and headaches. A chordoma that occurs in the tailbone (coccygeal chordoma) may result in a lump large enough to be felt through the skin and may cause problems with bladder or bowel function.</p><p>Chordomas typically occur in adults between ages 40 and 70. About 5 percent of chordomas are diagnosed in children. For reasons that are unclear, males are affected about twice as often as females.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: n
+inheritance-pattern(2)/memo: not inherited
+related-gene/gene-symbol: TBXT
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TBXT
+synonym(1): CHDM
+synonym(2): chordocarcinoma
+synonym(3): chordoepithelioma
+synonym(4): notochordal sarcoma
+synonym(5): notochordoma
+db-key(1)/db: GTR
+db-key(1)/key: C0008487
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: C41.2
+db-key(3)/db: MeSH
+db-key(3)/key: D002817
+db-key(4)/db: OMIM
+db-key(4)/key: 215400
+db-key(5)/db: Orphanet
+db-key(5)/key: 178
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 50007008
+reviewed: 2015-05
+published: 2018-04-17

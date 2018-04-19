@@ -1,0 +1,32 @@
+name: Lafora progressive myoclonus epilepsy
+ghr-page: https://ghr.nlm.nih.gov/condition/lafora-progressive-myoclonus-epilepsy
+text/text-role: description
+text/html: <p>Lafora progressive myoclonus epilepsy is a brain disorder characterized by recurrent seizures (epilepsy) and a decline in intellectual function. The signs and symptoms of the disorder usually appear in late childhood or adolescence and worsen with time.</p><p>Myoclonus is a term used to describe episodes of sudden, involuntary muscle jerking or twitching that can affect part of the body or the entire body. Myoclonus can occur when an affected person is at rest, and it is made worse by motion, excitement, or flashing light (photic stimulation). In the later stages of Lafora progressive myoclonus epilepsy, myoclonus often occurs continuously and affects the entire body.</p><p>Several types of seizures commonly occur in people with Lafora progressive myoclonus epilepsy. Generalized tonic-clonic seizures (also known as grand mal seizures) affect the entire body, causing muscle rigidity, convulsions, and loss of consciousness. Affected individuals may also experience occipital seizures, which can cause temporary blindness and visual hallucinations. Over time, the seizures worsen and become more difficult to treat. A life-threatening seizure condition called status epilepticus may also develop. Status epilepticus is a continuous state of seizure activity lasting longer than several minutes.</p><p>About the same time seizures begin, intellectual function starts to decline. Behavioral changes, depression, confusion, and speech difficulties (dysarthria) are among the early signs and symptoms of this disorder. As the condition worsens, a continued loss of intellectual function (dementia) impairs memory, judgment, and thought. Affected people lose the ability to perform the activities of daily living by their mid-twenties, and they ultimately require comprehensive care. People with Lafora progressive myoclonus epilepsy generally survive up to 10 years after symptoms first appear.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: EPM2A
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/EPM2A
+related-gene(2)/gene-symbol: NHLRC1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/NHLRC1
+synonym(1): epilepsy, progressive myoclonic, Lafora
+synonym(2): Lafora body disease
+synonym(3): Lafora disease
+synonym(4): Lafora progressive myoclonic epilepsy
+synonym(5): Lafora type progressive myoclonic epilepsy
+synonym(6): myoclonic epilepsy of Lafora
+synonym(7): progressive myoclonic epilepsy type 2
+synonym(8): progressive myoclonus epilepsy, Lafora type
+db-key(1)/db: GTR
+db-key(1)/key: C0751783
+db-key(2)/db: GeneReviews
+db-key(2)/key: lafora
+db-key(3)/db: MeSH
+db-key(3)/key: D020192
+db-key(4)/db: OMIM
+db-key(4)/key: 254780
+db-key(5)/db: Orphanet
+db-key(5)/key: 501
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 230425004
+reviewed: 2016-08
+published: 2018-04-17

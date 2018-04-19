@@ -1,0 +1,26 @@
+gene-symbol: SF3B4
+name: splicing factor 3b subunit 4
+ghr-page: https://ghr.nlm.nih.gov/gene/SF3B4
+text/text-role: function
+text/html: <p>The <i>SF3B4</i> gene provides instructions for making the SAP49 protein, which is part of a complex called a spliceosome. Spliceosomes help process messenger RNA (mRNA), which is a chemical cousin of DNA that serves as a genetic blueprint for making proteins. The spliceosomes recognize and then remove regions from mRNA molecules that are not used in the blueprint (which are called introns).</p><p>The SAP49 protein may also be involved in a chemical signaling pathway known as the bone morphogenic protein (BMP) pathway. This signaling pathway regulates various cellular processes and is involved in the growth of cells. The SAP49 protein is particularly important for the maturation of cells that build bones and cartilage (osteoblasts and chondrocytes).</p>
+related-health-condition/name: Nager syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nager-syndrome
+synonym(1): AFD1
+synonym(2): Hsh49
+synonym(3): pre-mRNA-splicing factor SF3b 49 kDa subunit
+synonym(4): SAP 49
+synonym(5): SAP49
+synonym(6): SF3b49
+synonym(7): SF3b50
+synonym(8): spliceosomal protein
+synonym(9): spliceosome-associated protein (U2 snRNP)
+synonym(10): spliceosome-associated protein 49
+synonym(11): splicing factor 3B subunit 4
+synonym(12): splicing factor 3b, subunit 4, 49kD
+synonym(13): splicing factor 3b, subunit 4, 49kDa
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10262
+db-key(2)/db: OMIM
+db-key(2)/key: 605593
+reviewed: 2017-08
+published: 2018-04-17

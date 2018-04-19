@@ -1,0 +1,26 @@
+gene-symbol: WDR35
+name: WD repeat domain 35
+ghr-page: https://ghr.nlm.nih.gov/gene/WDR35
+text/text-role: function
+text/html: <p>The <i>WDR35</i> gene (also known as <i>IFT121</i>) provides instructions for making a protein that is involved in the formation and maintenance of cilia, which are microscopic, finger-like projections that stick out from the surface of cells. Cilia participate in signaling pathways that transmit information within and between cells and are important for the development and function of many types of cells and tissues, including cells in the kidneys and liver and the light-sensitive tissue at the back of the eye (the retina). Cilia also play a role in the development of the bones, although the mechanism is not well understood.</p><p>The movement of substances within cilia and similar structures called flagella is known as intraflagellar transport. This process is essential for the assembly and maintenance of these cell structures. During intraflagellar transport, cells use molecules called IFT particles to carry materials to and from the tips of cilia. Each IFT particle is made up of two groups of IFT proteins: complex A and complex B. The protein produced from the <i>WDR35</i> gene forms part of IFT complex A (IFT-A). During intraflagellar transport, this complex carries materials from the tip to the base of cilia.</p><p>The IFT-A complex is essential for proper regulation of the Sonic Hedgehog signaling pathway, which is important for the growth and maturation (differentiation) of cells and the normal shaping (patterning) of many parts of the body, especially during embryonic development. The exact role of the complex in this pathway is unclear.</p>
+related-health-condition(1)/name: asphyxiating thoracic dystrophy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/asphyxiating-thoracic-dystrophy
+related-health-condition(2)/name: cranioectodermal dysplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cranioectodermal-dysplasia
+synonym(1): CED2
+synonym(2): IFT121
+synonym(3): IFTA1
+synonym(4): intraflagellar transport protein 121 homolog
+synonym(5): KIAA1336
+synonym(6): MGC33196
+synonym(7): naofen
+synonym(8): WD repeat-containing protein 35
+synonym(9): WDR35_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57539
+db-key(2)/db: OMIM
+db-key(2)/key: 613602
+db-key(3)/db: OMIM
+db-key(3)/key: 614091
+reviewed: 2013-11
+published: 2018-04-17

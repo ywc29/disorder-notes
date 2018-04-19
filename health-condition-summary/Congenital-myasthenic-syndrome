@@ -1,0 +1,89 @@
+name: Congenital myasthenic syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-myasthenic-syndrome
+text/text-role: description
+text/html: <p>Congenital myasthenic syndrome is a group of conditions characterized by muscle weakness (myasthenia) that worsens with physical exertion. The muscle weakness typically begins in early childhood but can also appear in adolescence or adulthood. Facial muscles, including muscles that control the eyelids, muscles that move the eyes, and muscles used for chewing and swallowing, are most commonly affected. However, any of the muscles used for movement (skeletal muscles) can be affected in this condition. Due to muscle weakness, affected infants may have feeding difficulties. Development of motor skills such as crawling or walking may be delayed. The severity of the myasthenia varies greatly, with some people experiencing minor weakness and others having such severe weakness that they are unable to walk.</p><p>Some individuals have episodes of breathing problems that may be triggered by fevers or infection. Severely affected individuals may also experience short pauses in breathing (apnea) that can lead to a bluish appearance of the skin or lips (cyanosis).</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: AGRN
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AGRN
+related-gene(2)/gene-symbol: CHAT
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CHAT
+related-gene(3)/gene-symbol: CHRNA1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CHRNA1
+related-gene(4)/gene-symbol: CHRNB1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/CHRNB1
+related-gene(5)/gene-symbol: CHRND
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/CHRND
+related-gene(6)/gene-symbol: CHRNE
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/CHRNE
+related-gene(7)/gene-symbol: COLQ
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/COLQ
+related-gene(8)/gene-symbol: DOK7
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/DOK7
+related-gene(9)/gene-symbol: GFPT1
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/GFPT1
+related-gene(10)/gene-symbol: MUSK
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/MUSK
+related-gene(11)/gene-symbol: PLEC
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/PLEC
+related-gene(12)/gene-symbol: RAPSN
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/RAPSN
+related-gene(13)/gene-symbol: SCN4A
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN4A
+synonym(1): CMS
+synonym(2): congenital myasthenia
+synonym(3): congenital myasthenic syndromes
+db-key(1)/db: GTR
+db-key(1)/key: C0393929
+db-key(2)/db: GTR
+db-key(2)/key: C0751882
+db-key(3)/db: GTR
+db-key(3)/key: C0751885
+db-key(4)/db: GTR
+db-key(4)/key: C1837091
+db-key(5)/db: GTR
+db-key(5)/key: C1837122
+db-key(6)/db: GTR
+db-key(6)/key: C1850792
+db-key(7)/db: GTR
+db-key(7)/key: C1864233
+db-key(8)/db: GTR
+db-key(8)/key: C3502630
+db-key(9)/db: GTR
+db-key(9)/key: CN119608
+db-key(10)/db: GTR
+db-key(10)/key: CN228621
+db-key(11)/db: GeneReviews
+db-key(11)/key: cms
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: G70.2
+db-key(13)/db: MeSH
+db-key(13)/key: D020294
+db-key(14)/db: OMIM
+db-key(14)/key: 254210
+db-key(15)/db: OMIM
+db-key(15)/key: 254300
+db-key(16)/db: OMIM
+db-key(16)/key: 601462
+db-key(17)/db: OMIM
+db-key(17)/key: 603034
+db-key(18)/db: OMIM
+db-key(18)/key: 608930
+db-key(19)/db: OMIM
+db-key(19)/key: 608931
+db-key(20)/db: OMIM
+db-key(20)/key: 610542
+db-key(21)/db: OMIM
+db-key(21)/key: 614198
+db-key(22)/db: OMIM
+db-key(22)/key: 614198
+db-key(23)/db: Orphanet
+db-key(23)/key: 590
+db-key(24)/db: SNOMED CT
+db-key(24)/key: 230670003
+db-key(25)/db: SNOMED CT
+db-key(25)/key: 230672006
+reviewed: 2011-11
+published: 2018-04-17

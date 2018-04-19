@@ -1,0 +1,18 @@
+gene-symbol: CREBBP
+name: CREB binding protein
+ghr-page: https://ghr.nlm.nih.gov/gene/CREBBP
+text/text-role: function
+text/html: <p>The <i>CREBBP</i> gene provides instructions for making CREB binding protein, which regulates the activity of many genes in tissues throughout the body.  This protein plays an essential role in controlling cell growth and division and prompting cells to mature and assume specialized functions (differentiate).  Studies in animals suggest that this protein may also be involved in the formation of long-term memories.  CREB binding protein appears to be critical for normal development before and after birth.</p><p>CREB binding protein carries out its function by activating transcription, the process of making a blueprint of a gene for protein production.  Specifically, CREB binding protein connects transcription factors, which are proteins that start the transcription process, with the complex of proteins that carries out transcription.  On the basis of this function, CREB binding protein is called a transcriptional coactivator.</p>
+related-health-condition/name: Rubinstein-Taybi syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/rubinstein-taybi-syndrome
+synonym(1): CBP
+synonym(2): CBP_HUMAN
+synonym(3): CREB binding protein (Rubinstein-Taybi syndrome)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1387
+db-key(2)/db: OMIM
+db-key(2)/key: 600140
+db-key(3)/db: OMIM
+db-key(3)/key: 601626
+reviewed: 2007-01
+published: 2018-04-17

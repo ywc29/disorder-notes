@@ -1,0 +1,19 @@
+gene-symbol: IRAK4
+name: interleukin 1 receptor associated kinase 4
+ghr-page: https://ghr.nlm.nih.gov/gene/IRAK4
+text/text-role: function
+text/html: <p>The <i>IRAK4</i> gene provides instructions for making a protein that plays an important role in innate immunity, which is the body's early, nonspecific response to foreign invaders (pathogens). The IRAK-4 protein is part of a signaling pathway that is involved in early recognition of pathogens and the initiation of inflammation to fight infection.</p><p>In particular, the IRAK-4 protein relays signals from proteins called Toll-like receptors and IL-1 receptor-related proteins. As one of the first lines of defense against infection, Toll-like receptors recognize patterns that are common to many pathogens, rather than recognizing specific pathogens, and stimulate a quick immune response. The IL-1 receptor and related proteins recognize immune system proteins called cytokines that signal the need for an immune response. The resulting signaling pathway triggers inflammation, a nonspecific immune response that helps fight infection.</p>
+related-health-condition/name: IRAK-4 deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/irak-4-deficiency
+synonym(1): interleukin-1 receptor-associated kinase 4
+synonym(2): IPD1
+synonym(3): IRAK-4
+synonym(4): IRAK4_HUMAN
+synonym(5): NY-REN-64
+synonym(6): REN64
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51135
+db-key(2)/db: OMIM
+db-key(2)/key: 606883
+reviewed: 2011-11
+published: 2018-04-17

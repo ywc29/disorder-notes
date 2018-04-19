@@ -1,0 +1,36 @@
+name: Autosomal recessive congenital methemoglobinemia
+ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-congenital-methemoglobinemia
+text/text-role: description
+text/html: <p>Autosomal recessive congenital methemoglobinemia is an inherited condition that mainly affects the function of red blood cells. Specifically, it alters a molecule within these cells called hemoglobin. Hemoglobin carries oxygen to cells and tissues throughout the body. In people with autosomal recessive congenital methemoglobinemia, some of the normal hemoglobin is replaced by an abnormal form called methemoglobin, which is unable to deliver oxygen to the body's tissues. As a result, tissues in the body become oxygen deprived, leading to a bluish appearance of the skin, lips, and nails (cyanosis).</p><p>There are two forms of autosomal recessive congenital methemoglobinemia: types I and II. People with type I have cyanosis from birth and may experience weakness or shortness of breath related to the shortage of oxygen in their tissues. People with type II have cyanosis as well as severe neurological problems. After a few months of apparently normal development, children with type II develop severe brain dysfunction (encephalopathy), uncontrolled muscle tensing (dystonia), and involuntary limb movements (choreoathetosis); also, the size of their head remains small and does not grow in proportion with their body (microcephaly). People with type II have severe intellectual disability; they can recognize faces and usually babble but speak no words. They can sit unassisted and grip objects but have impaired motor skills that leave them unable to walk. In type II, growth is often slowed. Abnormal facial muscle movements can interfere with swallowing, which can lead to feeding difficulties and further slow growth.</p><p>People with autosomal recessive congenital methemoglobinemia type I have a normal life expectancy, but people with type II often do not survive past early adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CYB5R3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CYB5R3
+synonym(1): chronic familial methemoglobin reductase deficiency
+synonym(2): congenital methemoglobinemia due to NADH-cytochrome b5 reductase 3 deficiency
+synonym(3): congenital NADH-methemoglobin reductase deficiency
+synonym(4): cytochrome b5 reductase deficiency
+synonym(5): deficiency of cytochrome-b5 reductase
+synonym(6): diaphorase deficiency
+synonym(7): NADH-CYB5R deficiency
+synonym(8): NADH-cytochrome b5 reductase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C2749559
+db-key(2)/db: GTR
+db-key(2)/key: C2749560
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: D74.0
+db-key(4)/db: MeSH
+db-key(4)/key: D008708
+db-key(5)/db: OMIM
+db-key(5)/key: 250800
+db-key(6)/db: Orphanet
+db-key(6)/key: 621
+db-key(7)/db: Orphanet
+db-key(7)/key: 139373
+db-key(8)/db: Orphanet
+db-key(8)/key: 139380
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 234395000
+reviewed: 2015-05
+published: 2018-04-17

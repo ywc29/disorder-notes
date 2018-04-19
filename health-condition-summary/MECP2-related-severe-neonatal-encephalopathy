@@ -1,0 +1,23 @@
+name: MECP2-related severe neonatal encephalopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/mecp2-related-severe-neonatal-encephalopathy
+text/text-role: description
+text/html: <p><i>MECP2</i>-related severe neonatal encephalopathy is a neurological disorder that primarily affects males and causes brain dysfunction (encephalopathy). Affected males have a small head size (microcephaly), poor muscle tone (hypotonia) in infancy, movement disorders, rigidity, and seizures. Infants with this condition appear normal at birth but then develop severe encephalopathy within the first week of life. These babies experience poor feeding, leading to a failure to gain weight and grow at the expected rate (failure to thrive). Individuals with <i>MECP2</i>-related severe neonatal encephalopathy have severe to profound intellectual disability. Affected males have breathing problems, with some having episodes in which breathing slows or stops for short periods (apnea). As the child ages, the apnea episodes tend to last longer, especially during sleep, and affected babies often require use of a machine to help regulate their breathing (mechanical ventilation). Most males with <i>MECP2</i>-related severe neonatal encephalopathy do not live past the age of 2 because of respiratory failure.</p><p><i>MECP2</i>-related severe neonatal encephalopathy is the most severe condition in a spectrum of disorders with the same genetic cause. The mildest is PPM-X syndrome, followed by <i>MECP2</i> duplication syndrome, then Rett syndrome (which exclusively affects females), and finally <i>MECP2</i>-related severe neonatal encephalopathy.</p>
+inheritance-pattern/code: x
+inheritance-pattern/memo: X-linked
+related-gene/gene-symbol: MECP2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MECP2
+synonym(1): methyl-cytosine phosphate guanine binding protein 2 related severe neonatal encephalopathy
+synonym(2): severe congenital encephalopathy due to MECP2 mutation
+synonym(3): severe neonatal encephalopathy due to MECP2 mutations
+db-key(1)/db: GTR
+db-key(1)/key: C1968556
+db-key(2)/db: GeneReviews
+db-key(2)/key: rett
+db-key(3)/db: MeSH
+db-key(3)/key: D001925
+db-key(4)/db: Orphanet
+db-key(4)/key: 209370
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 711487002
+reviewed: 2016-02
+published: 2018-04-17

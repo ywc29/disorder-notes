@@ -1,0 +1,25 @@
+name: Rapid-onset dystonia parkinsonism
+ghr-page: https://ghr.nlm.nih.gov/condition/rapid-onset-dystonia-parkinsonism
+text/text-role: description
+text/html: <p>Rapid-onset dystonia parkinsonism is a rare movement disorder. "Rapid-onset" refers to the abrupt appearance of signs and symptoms over a period of hours to days. Dystonia is a condition characterized by involuntary, sustained muscle contractions. Parkinsonism can include tremors, unusually slow movement (bradykinesia), rigidity, an inability to hold the body upright and balanced (postural instability), and a shuffling walk that can cause recurrent falls.</p><p>Rapid-onset dystonia parkinsonism causes movement abnormalities that can make it difficult to walk, talk, and carry out other activities of daily life. In this disorder, dystonia affects the arms and legs, causing muscle cramping and spasms. Facial muscles are often affected, resulting in problems with speech and swallowing. The movement abnormalities associated with rapid-onset dystonia parkinsonism tend to begin near the top of the body and move downward, first affecting the facial muscles, then the arms, and finally the legs.</p><p>The signs and symptoms of rapid-onset dystonia parkinsonism most commonly appear in adolescence or young adulthood. In some affected individuals, signs and symptoms can be triggered by an infection, physical stress (such as prolonged exercise), emotional stress, or alcohol consumption. The signs and symptoms tend to stabilize within about a month, but they typically do not improve much after that. In some people with this condition, the movement abnormalities abruptly worsen during a second episode several years later.</p><p>Some people with rapid-onset dystonia parkinsonism have been diagnosed with anxiety, social phobias, depression, and seizures. It is unclear whether these disorders are related to the genetic changes that cause rapid-onset dystonia parkinsonism.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: ATP1A3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ATP1A3
+synonym(1): DYT12
+synonym(2): RDP
+synonym(3): RODP
+db-key(1)/db: GTR
+db-key(1)/key: C1868681
+db-key(2)/db: GeneReviews
+db-key(2)/key: rapid-odp
+db-key(3)/db: MeSH
+db-key(3)/key: D020821
+db-key(4)/db: OMIM
+db-key(4)/key: 128235
+db-key(5)/db: Orphanet
+db-key(5)/key: 71517
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702323008
+reviewed: 2009-07
+published: 2018-04-17

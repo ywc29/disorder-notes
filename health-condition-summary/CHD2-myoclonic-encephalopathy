@@ -1,0 +1,22 @@
+name: CHD2 myoclonic encephalopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/chd2-myoclonic-encephalopathy
+text/text-role: description
+text/html: <p><i>CHD2</i> myoclonic encephalopathy is a condition characterized by recurrent seizures (epilepsy), abnormal brain function (encephalopathy), and intellectual disability. Epilepsy begins in childhood, typically between ages 6 months and 4 years. Each individual may experience a variety of seizure types. The most common are myoclonic seizures, which involve involuntary muscle twitches. Other seizure types include sudden episodes of weak muscle tone (atonic seizures); partial or complete loss of consciousness (absence seizures); seizures brought on by high body temperature (febrile seizure); or tonic-clonic seizures, which involve loss of consciousness, muscle rigidity, and convulsions. Some people with <i>CHD2</i> myoclonic encephalopathy have photosensitive epilepsy, in which seizures are triggered by flashing lights. Some people with <i>CHD2</i> myoclonic encephalopathy experience a type of seizure called atonic-myoclonic-absence seizure, which begins with a drop of the head, followed by loss of consciousness, then rigid movements of the arms. Epilepsy can worsen, causing prolonged episodes of seizure activity that last several minutes, known as status epilepticus. The seizures associated with <i>CHD2</i> myoclonic encephalopathy are called refractory because they usually do not respond to therapy with anti-epileptic medications.</p><p>Other signs and symptoms of <i>CHD2</i> myoclonic encephalopathy include intellectual disability that ranges from mild to severe and delayed development of speech. Rarely, individuals can have a loss of acquired skills (developmental regression) following the onset of epilepsy. Some people with <i>CHD2</i> myoclonic encephalopathy have autism spectrum disorders, which are conditions characterized by impaired communication and social interaction. In some instances, areas with a loss of brain tissue (atrophy) have been found with medical imaging.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: CHD2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CHD2
+synonym(1): CHD2 encephalopathy
+synonym(2): CHD2-related neurodevelopmental disorders
+db-key(1)/db: GTR
+db-key(1)/key: C3809278
+db-key(2)/db: GeneReviews
+db-key(2)/key: chd2-dis
+db-key(3)/db: MeSH
+db-key(3)/key: D004831
+db-key(4)/db: OMIM
+db-key(4)/key: 615369
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 192845009
+reviewed: 2016-12
+published: 2018-04-17

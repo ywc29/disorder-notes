@@ -1,0 +1,46 @@
+name: Nephrogenic diabetes insipidus
+ghr-page: https://ghr.nlm.nih.gov/condition/nephrogenic-diabetes-insipidus
+text/text-role: description
+text/html: <p>Nephrogenic diabetes insipidus is a disorder of water balance. The body normally balances fluid intake with the excretion of fluid in urine. However, people with nephrogenic diabetes insipidus produce too much urine (polyuria), which causes them to be excessively thirsty (polydipsia). Affected individuals can quickly become dehydrated if they do not drink enough water, especially in hot weather or when they are sick.</p><p>Nephrogenic diabetes insipidus can be either acquired or hereditary. The acquired form is brought on by certain drugs and chronic diseases and can occur at any time during life. The hereditary form is caused by genetic mutations, and its signs and symptoms usually become apparent within the first few months of life.</p><p>Infants with hereditary nephrogenic diabetes insipidus may eat poorly and fail to gain weight and grow at the expected rate (failure to thrive). They may also be irritable and experience fevers, diarrhea, and vomiting. Recurrent episodes of dehydration can lead to slow growth and delayed development. If the condition is not well-managed, over time it can damage the bladder and kidneys leading to pain, infections, and kidney failure. With appropriate treatment, affected individuals usually have few complications and a normal lifespan.</p><p>Nephrogenic diabetes insipidus should not be confused with diabetes mellitus, which is much more common. Diabetes mellitus is characterized by high blood sugar levels resulting from a shortage of the hormone insulin or an insensitivity to this hormone. Although nephrogenic diabetes insipidus and diabetes mellitus have some features in common, they are separate disorders with different causes.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xr
+inheritance-pattern(3)/memo: X-linked recessive
+related-gene(1)/gene-symbol: AQP2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AQP2
+related-gene(2)/gene-symbol: AVPR2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/AVPR2
+synonym(1): ADH-resistant diabetes insipidus
+synonym(2): congenital nephrogenic diabetes insipidus
+synonym(3): diabetes insipidus renalis
+synonym(4): diabetes insipidus, nephrogenic
+synonym(5): NDI
+synonym(6): vasopressin-resistant diabetes insipidus
+db-key(1)/db: GTR
+db-key(1)/key: C0162283
+db-key(2)/db: GTR
+db-key(2)/key: C1563705
+db-key(3)/db: GTR
+db-key(3)/key: C1563706
+db-key(4)/db: GeneReviews
+db-key(4)/key: ndi
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: N25.1
+db-key(6)/db: MeSH
+db-key(6)/key: D018500
+db-key(7)/db: OMIM
+db-key(7)/key: 125800
+db-key(8)/db: OMIM
+db-key(8)/key: 304800
+db-key(9)/db: Orphanet
+db-key(9)/key: 223
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 111395007
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 61165007
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 81475007
+reviewed: 2010-04
+published: 2018-04-17

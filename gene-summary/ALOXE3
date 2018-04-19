@@ -1,0 +1,21 @@
+gene-symbol: ALOXE3
+name: arachidonate lipoxygenase 3
+ghr-page: https://ghr.nlm.nih.gov/gene/ALOXE3
+text/text-role: function
+text/html: <p>The <i>ALOXE3</i> gene provides instructions for making an enzyme called eLOX3. This enzyme is part of a family of enzymes called arachidonate lipoxygenases. Most enzymes in this family help add an oxygen molecule to certain fatty acids to produce substances called fatty acid hydroperoxides.</p><p>Unlike other lipoxygenases, the eLOX3 enzyme does not act directly on fatty acids. Instead, it is involved in the step following the creation of fatty acid hydroperoxides. The eLOX3 enzyme processes fatty acid hydroperoxides, which are later converted to signaling molecules that are involved in the formation of the layers of fats (lipids) within the outermost layer of the skin (the epidermis). The lipid layers are necessary to prevent water loss (dehydration) through the skin.</p>
+related-health-condition/name: nonbullous congenital ichthyosiform erythroderma
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nonbullous-congenital-ichthyosiform-erythroderma
+synonym(1): E-LOX
+synonym(2): e-LOX-3
+synonym(3): eLOX3
+synonym(4): epidermal lipoxygenase
+synonym(5): LOXE3_HUMAN
+synonym(6): MGC119694
+synonym(7): MGC119695
+synonym(8): MGC119696
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 59344
+db-key(2)/db: OMIM
+db-key(2)/key: 607206
+reviewed: 2017-07
+published: 2018-04-17

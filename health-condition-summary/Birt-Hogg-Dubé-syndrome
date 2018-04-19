@@ -1,0 +1,26 @@
+name: Birt-Hogg-Dubé syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/birt-hogg-dube-syndrome
+text/text-role: description
+text/html: <p>Birt-Hogg-Dubé syndrome is a rare disorder that affects the skin and lungs and increases the risk of certain types of tumors. Its signs and symptoms vary among affected individuals.</p><p>Birt-Hogg-Dubé syndrome is characterized by multiple noncancerous (benign) skin tumors, particularly on the face, neck, and upper chest. These growths typically first appear in a person's twenties or thirties and become larger and more numerous over time. Affected individuals also have an increased chance of developing cysts in the lungs and an abnormal accumulation of air in the chest cavity (pneumothorax) that may result in the collapse of a lung. Additionally, Birt-Hogg-Dubé syndrome is associated with an elevated risk of developing cancerous or noncancerous kidney tumors. Other types of cancer have also been reported in affected individuals, but it is unclear whether these tumors are actually a feature of Birt-Hogg-Dubé syndrome.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FLCN
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FLCN
+synonym(1): BHD
+synonym(2): fibrofolliculomas with trichodiscomas and acrochordons
+synonym(3): Hornstein-Birt-Hogg-Dubé syndrome
+synonym(4): Hornstein-Knickenberg syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0346010
+db-key(2)/db: GeneReviews
+db-key(2)/key: bhd
+db-key(3)/db: MeSH
+db-key(3)/key: D058249
+db-key(4)/db: OMIM
+db-key(4)/key: 135150
+db-key(5)/db: Orphanet
+db-key(5)/key: 122
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 110985001
+reviewed: 2013-01
+published: 2018-04-17

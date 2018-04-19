@@ -1,0 +1,37 @@
+name: Krabbe disease
+ghr-page: https://ghr.nlm.nih.gov/condition/krabbe-disease
+text/text-role: description
+text/html: <p>Krabbe disease (also called globoid cell leukodystrophy) is a severe neurological condition. It is part of a group of disorders known as leukodystrophies, which result from the loss of myelin (demyelination) in the nervous system. Myelin is the protective covering around nerve cells that ensures the rapid transmission of nerve signals. Krabbe disease is also characterized by abnormal cells in the brain called globoid cells, which are large cells that usually have more than one nucleus.</p><p>The most common form of Krabbe disease, called the infantile form, usually begins before the age of 1. Initial signs and symptoms typically include irritability, muscle weakness, feeding difficulties, episodes of fever without any sign of infection, stiff posture, and delayed mental and physical development. As the disease progresses, muscles continue to weaken, affecting the infant's ability to move, chew, swallow, and breathe. Affected infants also experience vision loss and seizures. Because of the severity of the condition, individuals with the infantile form of Krabbe disease rarely survive beyond the age of 2.</p><p>Less commonly, Krabbe disease begins in childhood, adolescence, or adulthood (late-onset forms). Vision problems and walking difficulties are the most common initial symptoms in these forms of the disorder, however, signs and symptoms vary considerably among affected individuals. Individuals with late-onset Krabbe disease may survive many years after the condition begins.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: GALC
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GALC
+synonym(1): diffuse globoid body sclerosis
+synonym(2): galactosylceramidase deficiency disease
+synonym(3): galactosylceramide lipidosis
+synonym(4): galactosylcerebrosidase deficiency
+synonym(5): galactosylsphingosine lipidosis
+synonym(6): GALC deficiency
+synonym(7): GCL
+synonym(8): GLD
+synonym(9): psychosine lipidosis
+db-key(1)/db: GTR
+db-key(1)/key: C0023521
+db-key(2)/db: GeneReviews
+db-key(2)/key: krabbe
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E75.23
+db-key(4)/db: MeSH
+db-key(4)/key: D007965
+db-key(5)/db: OMIM
+db-key(5)/key: 245200
+db-key(6)/db: Orphanet
+db-key(6)/key: 487
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 189979005
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 192782005
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 41142009
+reviewed: 2018-01
+published: 2018-04-17

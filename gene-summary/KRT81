@@ -1,0 +1,26 @@
+gene-symbol: KRT81
+name: keratin 81
+ghr-page: https://ghr.nlm.nih.gov/gene/KRT81
+text/text-role: function
+text/html: <p>The <i>KRT81</i> gene provides instructions for making the type II hair keratin K81 protein (K81). This protein belongs to a group of proteins known as keratins, which are tough, fibrous proteins that form the structural framework of cells that make up the hair, skin, and nails. Each keratin protein partners with another keratin protein to form molecules called intermediate filaments. These filaments assemble into strong networks that provide strength and resiliency to the tissues and protect them from being damaged by everyday physical stresses. The K81 protein is found in cells that make up the inner compartment of the hair shaft known as the cortex, and this protein helps give hair its strength and elasticity.</p>
+related-health-condition/name: monilethrix
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/monilethrix
+synonym(1): ghHb1
+synonym(2): hair keratin K2.9
+synonym(3): hard keratin, type II, 1
+synonym(4): Hb-1
+synonym(5): HB1
+synonym(6): hHAKB2-1
+synonym(7): hHb1
+synonym(8): keratin-81
+synonym(9): keratin 81, type II
+synonym(10): keratin, hair, basic, 1
+synonym(11): KRT81_HUMAN
+synonym(12): KRTHB1
+synonym(13): type II hair keratin Hb1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3887
+db-key(2)/db: OMIM
+db-key(2)/key: 602153
+reviewed: 2012-03
+published: 2018-04-17

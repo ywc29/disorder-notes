@@ -1,0 +1,39 @@
+name: Molybdenum cofactor deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/molybdenum-cofactor-deficiency
+text/text-role: description
+text/html: <p>Molybdenum cofactor deficiency is a rare condition characterized by brain dysfunction (encephalopathy) that worsens over time. Babies with this condition appear normal at birth, but within a week they have difficulty feeding and develop seizures that do not improve with treatment (intractable seizures). Brain abnormalities, including deterioration (atrophy) of brain tissue, lead to severe developmental delay; affected individuals usually do not learn to sit unassisted or to speak. A small percentage of affected individuals have an exaggerated startle reaction (hyperekplexia) to unexpected stimuli such as loud noises. Other features of molybdenum cofactor deficiency can include a small head size (microcephaly) and facial features that are described as "coarse."</p><p>Tests reveal that affected individuals have high levels of chemicals called sulfite, S-sulfocysteine, xanthine, and hypoxanthine in the urine and low levels of a chemical called uric acid in the blood.</p><p>Because of the serious health problems caused by molybdenum cofactor deficiency, affected individuals usually do not survive past early childhood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: GPHN
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GPHN
+related-gene(2)/gene-symbol: MOCS1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MOCS1
+related-gene(3)/gene-symbol: MOCS2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/MOCS2
+synonym(1): combined deficiency of sulfite oxidase, xanthine dehydrogenase, and aldehyde oxidase
+synonym(2): combined molybdoflavoprotein enzyme deficiency
+synonym(3): combined xanthine oxidase and sulfite oxidase and aldehyde oxidase deficiency
+synonym(4): deficiency of molybdenum cofactor
+synonym(5): MOCOD
+db-key(1)/db: GTR
+db-key(1)/key: C0268119
+db-key(2)/db: GTR
+db-key(2)/key: C1854988
+db-key(3)/db: GTR
+db-key(3)/key: C1854989
+db-key(4)/db: GTR
+db-key(4)/key: C1854990
+db-key(5)/db: MeSH
+db-key(5)/key: D020739
+db-key(6)/db: OMIM
+db-key(6)/key: 252150
+db-key(7)/db: OMIM
+db-key(7)/key: 252160
+db-key(8)/db: OMIM
+db-key(8)/key: 615501
+db-key(9)/db: Orphanet
+db-key(9)/key: 99732
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 29692004
+reviewed: 2014-03
+published: 2018-04-17

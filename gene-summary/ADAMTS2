@@ -1,0 +1,26 @@
+gene-symbol: ADAMTS2
+name: ADAM metallopeptidase with thrombospondin type 1 motif 2
+ghr-page: https://ghr.nlm.nih.gov/gene/ADAMTS2
+text/text-role: function
+text/html: <p>The <i>ADAMTS2</i> gene provides instructions for making an enzyme that processes several types of procollagen molecules. Procollagens are the precursors of collagens, which are complex molecules found in the spaces between cells that add strength, support, and stretchiness (elasticity) to many body tissues. The ADAMTS2 enzyme cuts a short chain of protein building blocks (amino acids) off one end of procollagens. This clipping step is necessary for the resulting collagen molecules to assemble into strong, slender fibrils.</p>
+related-health-condition/name: Ehlers-Danlos syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ehlers-danlos-syndrome
+synonym(1): a disintegrin and metalloproteinase with thrombospondin motifs 2
+synonym(2): a disintegrin-like and metalloprotease (reprolysin type) with thrombospondin type 1 motif, 2
+synonym(3): ADAM metallopeptidase with thrombospondin type 1 motif, 2
+synonym(4): ADAM-TS2
+synonym(5): ATS2_HUMAN
+synonym(6): hPCPNI
+synonym(7): NPI
+synonym(8): PCINP
+synonym(9): PCPNI
+synonym(10): pNPI
+synonym(11): procollagen I N-proteinase
+synonym(12): procollagen I/II amino-propeptide processing enzyme
+synonym(13): procollagen N-endopeptidase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9509
+db-key(2)/db: OMIM
+db-key(2)/key: 604539
+reviewed: 2017-11
+published: 2018-04-17

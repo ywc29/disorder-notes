@@ -1,0 +1,29 @@
+gene-symbol: PRKAR1A
+name: protein kinase cAMP-dependent type I regulatory subunit alpha
+ghr-page: https://ghr.nlm.nih.gov/gene/PRKAR1A
+text/text-role: function
+text/html: <p>The <i>PRKAR1A</i> gene provides instructions for making one part (subunit) of an enzyme called protein kinase A. This enzyme promotes cell growth and division (proliferation). Protein kinase A is made up of four protein subunits, two of which are called regulatory subunits because they control whether this enzyme is turned on or off. The <i>PRKAR1A</i> gene provides instructions for making one of these regulatory subunits, called type 1 alpha. Protein kinase A remains turned off when the regulatory subunits are attached to the other two subunits of the enzyme. In order to turn on protein kinase A, the regulatory subunits must break away from the enzyme.</p>
+related-health-condition/name: Carney complex
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/carney-complex
+synonym(1): cAMP-dependent protein kinase regulatory subunit RIalpha
+synonym(2): cAMP-dependent protein kinase type I-alpha regulatory chain
+synonym(3): CAR
+synonym(4): CNC1
+synonym(5): DKFZp779L0468
+synonym(6): KAP0_HUMAN
+synonym(7): MGC17251
+synonym(8): PKR1
+synonym(9): PPNAD1
+synonym(10): PRKAR1
+synonym(11): protein kinase A type 1a regulatory subunit
+synonym(12): protein kinase, cAMP-dependent, regulatory subunit type I alpha
+synonym(13): protein kinase, cAMP-dependent, regulatory, type I, alpha
+synonym(14): protein kinase, cAMP-dependent, regulatory, type I, alpha (tissue specific extinguisher 1)
+synonym(15): tissue-specific extinguisher 1
+synonym(16): TSE1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5573
+db-key(2)/db: OMIM
+db-key(2)/key: 188830
+reviewed: 2010-01
+published: 2018-04-17

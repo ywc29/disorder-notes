@@ -1,0 +1,34 @@
+gene-symbol: KIT
+name: KIT proto-oncogene receptor tyrosine kinase
+ghr-page: https://ghr.nlm.nih.gov/gene/KIT
+text/text-role: function
+text/html: <p>The <i>KIT</i> gene provides instructions for making a protein that belongs to a family of proteins called receptor tyrosine kinases. Receptor tyrosine kinases transmit signals from the cell surface into the cell through a process called signal transduction. The KIT protein is found in the cell membrane of certain cell types where a specific protein, called stem cell factor, attaches (binds) to it. This binding turns on (activates) the KIT protein, which then activates other proteins inside the cell by adding a cluster of oxygen and phosphorus atoms (a phosphate group) at specific positions. This process, called phosphorylation, leads to the activation of a series of proteins in multiple signaling pathways.</p><p>The signaling pathways stimulated by the KIT protein control many important cellular processes such as cell growth and division (proliferation), survival, and movement (migration). KIT protein signaling is important for the development of certain cell types, including reproductive cells (germ cells), early blood cells (hematopoietic stem cells), immune cells called mast cells, cells in the gastrointestinal tract called interstitial cells of Cajal (ICCs), and cells called melanocytes. Melanocytes produce the pigment melanin, which contributes to hair, eye, and skin color.</p>
+related-health-condition(1)/name: core binding factor acute myeloid leukemia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/core-binding-factor-acute-myeloid-leukemia
+related-health-condition(2)/name: gastrointestinal stromal tumor
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/gastrointestinal-stromal-tumor
+related-health-condition(3)/name: piebaldism
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/piebaldism
+synonym(1): C-Kit
+synonym(2): CD117
+synonym(3): KIT_HUMAN
+synonym(4): mast/stem cell growth factor receptor Kit
+synonym(5): p145 c-kit
+synonym(6): PBT
+synonym(7): piebald trait protein
+synonym(8): proto-oncogene c-Kit
+synonym(9): proto-oncogene tyrosine-protein kinase Kit
+synonym(10): SCFR
+synonym(11): tyrosine-protein kinase Kit
+synonym(12): v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog
+synonym(13): v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene-like protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3815
+db-key(2)/db: OMIM
+db-key(2)/key: 154800
+db-key(3)/db: OMIM
+db-key(3)/key: 164920
+db-key(4)/db: OMIM
+db-key(4)/key: 601626
+reviewed: 2014-09
+published: 2018-04-17

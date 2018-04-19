@@ -1,0 +1,12 @@
+gene-symbol: ABCB1
+name: ATP binding cassette subfamily B member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ABCB1
+related-health-condition(1)/name: opioid addiction
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/opioid-addiction
+related-health-condition(2)/name: ulcerative colitis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/ulcerative-colitis
+related-health-condition(3)/name: warfarin resistance
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/warfarin-resistance
+db-key/db: NCBI Gene
+db-key/key: 5243
+published: 2018-04-17

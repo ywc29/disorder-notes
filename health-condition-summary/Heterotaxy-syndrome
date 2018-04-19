@@ -1,0 +1,112 @@
+name: Heterotaxy syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/heterotaxy-syndrome
+text/text-role: description
+text/html: <p>Heterotaxy syndrome is a condition in which the internal organs are abnormally arranged in the chest and abdomen. The term "heterotaxy" is from the Greek words "heteros," meaning "other than," and "taxis," meaning "arrangement." Individuals with this condition have complex birth defects affecting the heart, lungs, liver, spleen, intestines, and other organs.</p><p>In the normal body, most of the organs in the chest and abdomen have a particular location on the right or left side. For example, the heart, spleen, and pancreas are on the left side of the body, and most of the liver is on the right. This normal arrangement of the organs is known as "situs solitus." Rarely, the orientation of the internal organs is completely flipped from right to left, a situation known as "situs inversus." This mirror-image orientation usually does not cause any health problems, unless it occurs as part of a syndrome affecting other parts of the body. Heterotaxy syndrome is an arrangement of internal organs somewhere between situs solitus and situs inversus; this condition is also known as "situs ambiguus." Unlike situs inversus, the abnormal arrangement of organs in heterotaxy syndrome often causes serious health problems.</p><p>Heterotaxy syndrome alters the structure of the heart, including the attachment of the large blood vessels that carry blood to and from the rest of the body. It can also affect the structure of the lungs, such as the number of lobes in each lung and the length of the tubes (called bronchi) that lead from the windpipe to the lungs. In the abdomen, the condition can cause a person to have no spleen (asplenia) or multiple small, poorly functioning spleens (polysplenia). The liver may lie across the middle of the body instead of being in its normal position to the right of the stomach. Some affected individuals also have intestinal malrotation, which is an abnormal twisting of the intestines that occurs in the early stages of development before birth.</p><p>Depending on the organs involved, signs and symptoms of heterotaxy syndrome can include a bluish appearance of the skin or lips (cyanosis, which is due to a shortage of oxygen), breathing difficulties, an increased risk of infections, and problems with digesting food. The most serious complications are generally caused by critical congenital heart disease, a group of complex heart defects that are present from birth. Biliary atresia, a problem with the bile ducts in the liver, can also cause severe health problems in infancy. Heterotaxy syndrome is often life-threatening in infancy or childhood, even with treatment, although its severity depends on the specific abnormalities involved.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: n
+inheritance-pattern(3)/memo: not inherited
+inheritance-pattern(4)/code: x
+inheritance-pattern(4)/memo: X-linked
+related-gene(1)/gene-symbol: ACVR2B
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ACVR2B
+related-gene(2)/gene-symbol: CFAP53
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CFAP53
+related-gene(3)/gene-symbol: CFC1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CFC1
+related-gene(4)/gene-symbol: CITED2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/CITED2
+related-gene(5)/gene-symbol: CRELD1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/CRELD1
+related-gene(6)/gene-symbol: DNAH5
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/DNAH5
+related-gene(7)/gene-symbol: DNAH11
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/DNAH11
+related-gene(8)/gene-symbol: DNAI1
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/DNAI1
+related-gene(9)/gene-symbol: FOXH1
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/FOXH1
+related-gene(10)/gene-symbol: GATA4
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/GATA4
+related-gene(11)/gene-symbol: GDF1
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/GDF1
+related-gene(12)/gene-symbol: GJA1
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/GJA1
+related-gene(13)/gene-symbol: LEFTY2
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/LEFTY2
+related-gene(14)/gene-symbol: MMP21
+related-gene(14)/ghr-page: https://ghr.nlm.nih.gov/gene/MMP21
+related-gene(15)/gene-symbol: NAT10
+related-gene(15)/ghr-page: https://ghr.nlm.nih.gov/gene/NAT10
+related-gene(16)/gene-symbol: NKX2-5
+related-gene(16)/ghr-page: https://ghr.nlm.nih.gov/gene/NKX2-5
+related-gene(17)/gene-symbol: NODAL
+related-gene(17)/ghr-page: https://ghr.nlm.nih.gov/gene/NODAL
+related-gene(18)/gene-symbol: SESN1
+related-gene(18)/ghr-page: https://ghr.nlm.nih.gov/gene/SESN1
+related-gene(19)/gene-symbol: SHROOM3
+related-gene(19)/ghr-page: https://ghr.nlm.nih.gov/gene/SHROOM3
+related-gene(20)/gene-symbol: SMAD2
+related-gene(20)/ghr-page: https://ghr.nlm.nih.gov/gene/SMAD2
+related-gene(21)/gene-symbol: ZIC3
+related-gene(21)/ghr-page: https://ghr.nlm.nih.gov/gene/ZIC3
+synonym(1): heterotaxy
+synonym(2): HTX
+synonym(3): Ivemark syndrome
+synonym(4): left isomerism
+synonym(5): right isomerism
+synonym(6): situs ambiguus
+synonym(7): situs ambiguus viscerum
+synonym(8): visceral heterotaxy
+db-key(1)/db: GTR
+db-key(1)/key: C1415817
+db-key(2)/db: GTR
+db-key(2)/key: C1844020
+db-key(3)/db: GTR
+db-key(3)/key: C1853444
+db-key(4)/db: GTR
+db-key(4)/key: C1853509
+db-key(5)/db: GTR
+db-key(5)/key: C3151057
+db-key(6)/db: GTR
+db-key(6)/key: C3178805
+db-key(7)/db: GTR
+db-key(7)/key: C3495537
+db-key(8)/db: GTR
+db-key(8)/key: C3553676
+db-key(9)/db: GeneReviews
+db-key(9)/key: pcd
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: Q89.3
+db-key(11)/db: MeSH
+db-key(11)/key: D059446
+db-key(12)/db: OMIM
+db-key(12)/key: 208530
+db-key(13)/db: OMIM
+db-key(13)/key: 270100
+db-key(14)/db: OMIM
+db-key(14)/key: 306955
+db-key(15)/db: OMIM
+db-key(15)/key: 605376
+db-key(16)/db: OMIM
+db-key(16)/key: 606217
+db-key(17)/db: OMIM
+db-key(17)/key: 606325
+db-key(18)/db: OMIM
+db-key(18)/key: 613751
+db-key(19)/db: OMIM
+db-key(19)/key: 614779
+db-key(20)/db: Orphanet
+db-key(20)/key: 137628
+db-key(21)/db: Orphanet
+db-key(21)/key: 157769
+db-key(22)/db: Orphanet
+db-key(22)/key: 97548
+db-key(23)/db: SNOMED CT
+db-key(23)/key: 14821001
+db-key(24)/db: SNOMED CT
+db-key(24)/key: 8641000119101
+reviewed: 2016-01
+published: 2018-04-17

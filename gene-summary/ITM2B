@@ -1,0 +1,18 @@
+gene-symbol: ITM2B
+name: integral membrane protein 2B
+ghr-page: https://ghr.nlm.nih.gov/gene/ITM2B
+text/text-role: function
+text/html: <p>The <i>ITM2B</i> gene provides instructions for producing a protein called the integral membrane protein 2B (ITM2B), which is found in all tissues. The function of the ITM2B protein is unclear. It is thought to play a role in triggering the self-destruction of cells (apoptosis) and in keeping cells from growing and dividing too fast or in an uncontrolled way (suppressing tumor formation). Additionally, the ITM2B protein may be involved in processing the amyloid precursor protein, which is produced by the <i>APP</i> gene. Not much is known about amyloid precursor protein function, but it is thought to be involved in nerve cell function in the brain in early development. Processing this protein creates different forms of the protein that can carry out various functions. Research suggests that the ITM2B protein is also involved in preventing (inhibiting) a form of the amyloid precursor protein from accumulating in the body's cells and tissues.</p>
+related-health-condition/name: hereditary cerebral amyloid angiopathy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-cerebral-amyloid-angiopathy
+synonym(1): ABRI
+synonym(2): BRI2
+synonym(3): BRICD2B
+synonym(4): E25B
+synonym(5): ITM2B_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9445
+db-key(2)/db: OMIM
+db-key(2)/key: 603904
+reviewed: 2012-05
+published: 2018-04-17

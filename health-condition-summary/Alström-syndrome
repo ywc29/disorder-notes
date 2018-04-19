@@ -1,0 +1,25 @@
+name: Alström syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/alstrom-syndrome
+text/text-role: description
+text/html: <p>Alström syndrome is a rare condition that affects many body systems. Many of the signs and symptoms of this condition begin in infancy or early childhood, although some appear later in life.</p><p>Alström syndrome is characterized by a progressive loss of vision and hearing, a form of heart disease that enlarges and weakens the heart muscle (dilated cardiomyopathy), obesity, type 2 diabetes (the most common form of diabetes), and short stature. This disorder can also cause serious or life-threatening medical problems involving the liver, kidneys, bladder, and lungs.  Some individuals with Alström syndrome have a skin condition called acanthosis nigricans, which causes the skin in body folds and creases to become thick, dark, and velvety. The signs and symptoms of Alström syndrome vary in severity, and not all affected individuals have all of the characteristic features of the disorder.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ALMS1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ALMS1
+synonym(1): ALMS
+synonym(2): Alstrom-Hallgren syndrome
+synonym(3): Alstrom syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0268425
+db-key(2)/db: GeneReviews
+db-key(2)/key: alstrom
+db-key(3)/db: MeSH
+db-key(3)/key: D056769
+db-key(4)/db: OMIM
+db-key(4)/key: 203800
+db-key(5)/db: Orphanet
+db-key(5)/key: 64
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 63702009
+reviewed: 2014-09
+published: 2018-04-17

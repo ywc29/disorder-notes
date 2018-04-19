@@ -1,0 +1,23 @@
+gene-symbol: SLC25A1
+name: solute carrier family 25 member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC25A1
+text/text-role: function
+text/html: <p>The <i>SLC25A1</i> gene provides instructions for making a protein that is found in mitochondria, which are the energy-producing centers in cells. The SLC25A1 protein transports a molecule called citrate out of mitochondria in exchange for another molecule called malate, which is transported in. Within mitochondria, both citrate and malate participate in reactions that produce energy for cell activities. Citrate is transported out of mitochondria because it also has important functions in other parts of the cell. In particular, citrate is involved in the production of fats (lipids) and the regulation of glycolysis, which is another critical energy-producing process within cells.</p>
+related-health-condition/name: 2-hydroxyglutaric aciduria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/2-hydroxyglutaric-aciduria
+synonym(1): citrate transport protein
+synonym(2): CTP
+synonym(3): D2L2AD
+synonym(4): SEA
+synonym(5): SLC20A3
+synonym(6): solute carrier family 20 (mitochondrial citrate transporter), member 3
+synonym(7): solute carrier family 25 (mitochondrial carrier; citrate transporter), member 1
+synonym(8): tricarboxylate carrier protein
+synonym(9): tricarboxylate transport protein, mitochondrial
+synonym(10): TXTP_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6576
+db-key(2)/db: OMIM
+db-key(2)/key: 190315
+reviewed: 2013-08
+published: 2018-04-17

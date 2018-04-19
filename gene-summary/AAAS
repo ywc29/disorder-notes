@@ -1,0 +1,23 @@
+gene-symbol: AAAS
+name: aladin WD repeat nucleoporin
+ghr-page: https://ghr.nlm.nih.gov/gene/AAAS
+text/text-role: function
+text/html: <p>The <i>AAAS</i> gene provides instructions for making a protein called ALADIN whose function is not well understood. Within cells, ALADIN is found in the nuclear envelope, the structure that surrounds the nucleus and separates it from the rest of the cell. Based on its location, ALADIN is thought to be involved in the movement of molecules into and out of the nucleus.</p>
+related-health-condition/name: triple A syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/triple-a-syndrome
+synonym(1): AAA
+synonym(2): AAAS_HUMAN
+synonym(3): AAASb
+synonym(4): achalasia, adrenocortical insufficiency, alacrimia
+synonym(5): achalasia, adrenocortical insufficiency, alacrimia (Allgrove, triple-A)
+synonym(6): ADRACALA
+synonym(7): ADRACALIN
+synonym(8): ALADIN
+synonym(9): DKFZp586G1624
+synonym(10): GL003
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8086
+db-key(2)/db: OMIM
+db-key(2)/key: 605378
+reviewed: 2010-02
+published: 2018-04-17

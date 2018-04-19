@@ -1,0 +1,39 @@
+name: Progressive supranuclear palsy
+ghr-page: https://ghr.nlm.nih.gov/condition/progressive-supranuclear-palsy
+text/text-role: description
+text/html: <p>Progressive supranuclear palsy is a brain disorder that affects movement, vision, speech, and thinking ability (cognition). The signs and symptoms of this disorder usually become apparent in mid- to late adulthood, most often in a person's 60s. Most people with progressive supranuclear palsy survive 5 to 9 years after the disease first appears, although a few affected individuals have lived for more than a decade.</p><p>Loss of balance and frequent falls are the most common early signs of progressive supranuclear palsy. Affected individuals have problems with walking, including poor coordination and an unsteady, lurching gait. Other movement abnormalities develop as the disease progresses, including unusually slow movements (bradykinesia), clumsiness, and stiffness of the trunk muscles. These problems worsen with time, and most affected people ultimately require wheelchair assistance.</p><p>Progressive supranuclear palsy is also characterized by abnormal eye movements, which typically develop several years after the other movement problems first appear. Restricted up-and-down eye movement (vertical gaze palsy) is a hallmark of this disease. Other eye movement problems include difficulty opening and closing the eyelids, infrequent blinking, and pulling back (retraction) of the eyelids. These abnormalities can lead to blurred vision, an increased sensitivity to light (photophobia), and a staring gaze.</p><p>Additional features of progressive supranuclear palsy include slow and slurred speech (dysarthria) and trouble swallowing (dysphagia). Most affected individuals also experience changes in personality and behavior, such as a general loss of interest and enthusiasm (apathy). They develop problems with cognition, including difficulties with attention, planning, and problem solving. As the cognitive and behavioral problems worsen, affected individuals increasingly require help with personal care and other activities of daily living.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: u
+inheritance-pattern(2)/memo: pattern unknown
+related-gene/gene-symbol: MAPT
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MAPT
+synonym(1): progressive supranuclear ophthalmoplegia
+synonym(2): PSP
+synonym(3): Richardson's syndrome
+synonym(4): Steele-Richardson-Olszewski syndrome
+synonym(5): supranuclear palsy, progressive
+db-key(1)/db: GTR
+db-key(1)/key: C0038868
+db-key(2)/db: GTR
+db-key(2)/key: C1836148
+db-key(3)/db: GTR
+db-key(3)/key: C1970476
+db-key(4)/db: GeneReviews
+db-key(4)/key: ftdp-17
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: G23.1
+db-key(6)/db: MeSH
+db-key(6)/key: D013494
+db-key(7)/db: OMIM
+db-key(7)/key: 601104
+db-key(8)/db: OMIM
+db-key(8)/key: 609454
+db-key(9)/db: OMIM
+db-key(9)/key: 610898
+db-key(10)/db: Orphanet
+db-key(10)/key: 683
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 28978003
+reviewed: 2015-05
+published: 2018-04-17

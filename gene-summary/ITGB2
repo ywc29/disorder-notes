@@ -1,0 +1,28 @@
+gene-symbol: ITGB2
+name: integrin subunit beta 2
+ghr-page: https://ghr.nlm.nih.gov/gene/ITGB2
+text/text-role: function
+text/html: <p>The <i>ITGB2</i> gene provides instructions for making one part (the β2 subunit) of at least four different proteins known as β2 integrins. The other subunit can be one of a variety of alpha (α) subunits that are produced from different genes. Integrins are a group of proteins that regulate the attachment of cells to one another (cell-cell adhesion) and to the surrounding network of proteins and other molecules (cell-matrix adhesion). Integrins also transmit signals that regulate cell growth and the activity of certain genes.</p><p>Integrins that contain the β2 subunit are found embedded in the membrane that surrounds white blood cells (leukocytes). β2 integrins help leukocytes gather at sites of infection or injury, where they are needed to contribute to the immune response. β2 integrins recognize signs of inflammation and attach (bind) to proteins called ligands on the lining of blood vessels. This binding leads to linkage (adhesion) of the leukocyte to the blood vessel wall. Signaling through the β2 integrins triggers the transport of the attached leukocyte across the blood vessel wall to the site of infection or injury.</p>
+related-health-condition/name: leukocyte adhesion deficiency type 1
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/leukocyte-adhesion-deficiency-type-1
+synonym(1): CD11b/ CD18
+synonym(2): CD11c/CD18
+synonym(3): CD11d/CD18
+synonym(4): CD18
+synonym(5): complement receptor C3 beta-subunit
+synonym(6): complement receptor C3 subunit beta
+synonym(7): CR3
+synonym(8): integrin beta-2
+synonym(9): integrin beta 2
+synonym(10): integrin beta chain, beta 2
+synonym(11): integrin, beta 2 (complement component 3 receptor 3 and 4 subunit)
+synonym(12): LFA-1 (αLβ2)
+synonym(13): Mac-1 (αMβ2)
+synonym(14): p150/95 (αXβ2)
+synonym(15): αDβ2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3689
+db-key(2)/db: OMIM
+db-key(2)/key: 600065
+reviewed: 2014-04
+published: 2018-04-17

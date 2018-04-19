@@ -1,0 +1,70 @@
+name: Polycystic ovary syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/polycystic-ovary-syndrome
+text/text-role: description
+text/html: <p>Polycystic ovary syndrome is a condition that affects women in their child-bearing years and alters the levels of multiple hormones, resulting in problems affecting many body systems.</p><p>Most women with polycystic ovary syndrome produce excess male sex hormones (androgens), a condition called hyperandrogenism. Having too much of these hormones typically leads to excessive body hair growth (hirsutism), acne, and male pattern baldness.</p><p>Hyperandrogenism and abnormal levels of other sex hormones prevent normal release of egg cells from the ovaries (ovulation) and regular menstrual periods, leading to difficulty conceiving a child (subfertility) or a complete inability to conceive (infertility). For those who achieve pregnancy, there is an increased risk of complications and pregnancy loss. Due to irregular and infrequent menstruation and hormone abnormalities, affected women have an increased risk of cancer of the uterine lining (endometrial cancer).</p><p>In polycystic ovary syndrome, multiple cysts in each ovary can be seen with medical imaging. These cysts are small, immature ovarian follicles. Normally, ovarian follicles contain egg cells, which are released during ovulation. In polycystic ovary syndrome, abnormal hormone levels prevent follicles from growing and maturing to release egg cells. Instead, these immature follicles accumulate in the ovaries. Affected women can have 12 or more of these follicles. The number of these follicles usually decreases with age.</p><p>About half of all women with polycystic ovary syndrome are overweight or obese and are at increased risk of a fatty liver. Additionally, many women with polycystic ovary syndrome have elevated levels of insulin, which is a hormone that helps control blood sugar levels. By age 40, about 10 percent of overweight women with polycystic ovary syndrome develop abnormally high blood sugar levels (type 2 diabetes), and up to 35 percent develop prediabetes (higher-than-normal blood sugar levels that do not reach the cutoff for diabetes). Obesity and increased insulin levels (hyperinsulinemia) further increase the production of androgens in polycystic ovary syndrome.</p><p>Women with polycystic ovary syndrome are also at increased risk for developing metabolic syndrome, which is a group of conditions that include high blood pressure (hypertension), increased belly fat, high levels of unhealthy fats and low levels of healthy fats in the blood, and high blood sugar levels. About 20 percent of affected adults experience pauses in breathing during sleep (sleep apnea). Women with polycystic ovary syndrome are more likely to have mood disorders such as depression compared to the general population.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: AR
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AR
+related-gene(2)/gene-symbol: C9orf3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/C9orf3
+related-gene(3)/gene-symbol: DENND1A
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/DENND1A
+related-gene(4)/gene-symbol: ERBB4
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/ERBB4
+related-gene(5)/gene-symbol: FSHB
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/FSHB
+related-gene(6)/gene-symbol: FSHR
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/FSHR
+related-gene(7)/gene-symbol: FTO
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/FTO
+related-gene(8)/gene-symbol: GATA4
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/GATA4
+related-gene(9)/gene-symbol: HMGA2
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/HMGA2
+related-gene(10)/gene-symbol: INSR
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/INSR
+related-gene(11)/gene-symbol: KRR1
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/KRR1
+related-gene(12)/gene-symbol: LHCGR
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/LHCGR
+related-gene(13)/gene-symbol: RAB5B
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/RAB5B
+related-gene(14)/gene-symbol: RAD50
+related-gene(14)/ghr-page: https://ghr.nlm.nih.gov/gene/RAD50
+related-gene(15)/gene-symbol: SUMO1P1
+related-gene(15)/ghr-page: https://ghr.nlm.nih.gov/gene/SUMO1P1
+related-gene(16)/gene-symbol: SUOX
+related-gene(16)/ghr-page: https://ghr.nlm.nih.gov/gene/SUOX
+related-gene(17)/gene-symbol: THADA
+related-gene(17)/ghr-page: https://ghr.nlm.nih.gov/gene/THADA
+related-gene(18)/gene-symbol: TOX3
+related-gene(18)/ghr-page: https://ghr.nlm.nih.gov/gene/TOX3
+related-gene(19)/gene-symbol: YAP1
+related-gene(19)/ghr-page: https://ghr.nlm.nih.gov/gene/YAP1
+synonym(1): cystic disease of ovaries
+synonym(2): cystic disease of ovary
+synonym(3): multicystic ovaries
+synonym(4): PCO
+synonym(5): PCOD
+synonym(6): PCOS
+synonym(7): polycystic ovarian disease
+synonym(8): polycystic ovarian syndrome
+synonym(9): sclerocystic ovarian degeneration
+synonym(10): sclerocystic ovaries
+synonym(11): sclerocystic ovary syndrome
+synonym(12): Stein-Leventhal syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0032460
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E28.2
+db-key(3)/db: MeSH
+db-key(3)/key: D011085
+db-key(4)/db: OMIM
+db-key(4)/key: 184700
+db-key(5)/db: Orphanet
+db-key(5)/key: 3185
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 69878008
+reviewed: 2018-02
+published: 2018-04-17

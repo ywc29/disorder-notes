@@ -1,0 +1,31 @@
+name: Keratitis-ichthyosis-deafness syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/keratitis-ichthyosis-deafness-syndrome
+text/text-role: description
+text/html: <p>Keratitis-ichthyosis-deafness (KID) syndrome is characterized by eye problems, skin abnormalities, and hearing loss.</p><p>People with KID syndrome usually have keratitis, which is inflammation of the front surface of the eye (the cornea). The keratitis may cause pain, increased sensitivity to light (photophobia), abnormal blood vessel growth over the cornea (neovascularization), and scarring. Over time, affected individuals experience a loss of sharp vision (reduced visual acuity); in severe cases the keratitis can lead to blindness.</p><p>Most people with KID syndrome have thick, hard skin on the palms of the hands and soles of the feet (palmoplantar keratoderma). Affected individuals also have thick, reddened patches of skin (erythrokeratoderma) that are dry and scaly (ichthyosis). These dry patches can occur anywhere on the body, although they most commonly affect the neck, groin, and armpits. Breaks in the skin often occur and may lead to infections. In severe cases these infections can be life-threatening, especially in infancy. Approximately 12 percent of people with KID syndrome develop a type of skin cancer called squamous cell carcinoma, which may also affect mucous membranes such as the lining of the mouth.</p><p>Partial hair loss is a common feature of KID syndrome, and often affects the eyebrows and eyelashes. Affected individuals may also have small, abnormally formed nails.</p><p>Hearing loss in this condition is usually profound, but occasionally is less severe.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: GJB2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GJB2
+synonym(1): ichthyosiform erythroderma, corneal involvement, and deafness
+synonym(2): keratitis, ichthyosis, and deafness
+synonym(3): KID syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1275089
+db-key(2)/db: GTR
+db-key(2)/key: C1835678
+db-key(3)/db: MeSH
+db-key(3)/key: D007634
+db-key(4)/db: OMIM
+db-key(4)/key: 148210
+db-key(5)/db: OMIM
+db-key(5)/key: 242150
+db-key(6)/db: Orphanet
+db-key(6)/key: 477
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 239059004
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 403780007
+reviewed: 2012-11
+published: 2018-04-17

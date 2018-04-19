@@ -1,0 +1,23 @@
+gene-symbol: PHYH
+name: phytanoyl-CoA 2-hydroxylase
+ghr-page: https://ghr.nlm.nih.gov/gene/PHYH
+text/text-role: function
+text/html: <p>The <i>PHYH</i> gene provides instructions for making an enzyme called phytanoyl-CoA hydroxylase. This enzyme is critical for the normal function of cell structures called peroxisomes. These sac-like compartments contain enzymes needed to break down many different substances, including fatty acids and certain toxic compounds.</p><p>One substance that is broken down in peroxisomes is phytanic acid, a type of fatty acid obtained from the diet (particularly from beef and dairy products). Phytanoyl-CoA hydroxylase is responsible for one of the first steps in breaking down phytanic acid as part of a process known as alpha-oxidation. In subsequent steps, additional enzymes in peroxisomes and other parts of the cell further process this compound into smaller molecules that the body can use for energy.</p><p>Researchers suspect that phytanoyl-CoA hydroxylase may have other functions in addition to its role in breaking down phytanic acid. For example, this enzyme appears to help determine the number of peroxisomes within cells and is involved in regulating their activity.</p>
+related-health-condition/name: Refsum disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/refsum-disease
+synonym(1): LN1
+synonym(2): LNAP1
+synonym(3): PAHX
+synonym(4): PAHX_HUMAN
+synonym(5): PHYH1
+synonym(6): phytanic acid oxidase
+synonym(7): phytanoil-CoA alpha hydroxylase
+synonym(8): phytanoyl-CoA 2 oxoglutarate dioxygenase
+synonym(9): phytanoyl-CoA alpha-hydroxylase
+synonym(10): phytanoyl-CoA dioxygenase, peroxisomal
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5264
+db-key(2)/db: OMIM
+db-key(2)/key: 602026
+reviewed: 2010-01
+published: 2018-04-17

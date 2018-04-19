@@ -1,0 +1,28 @@
+gene-symbol: CAV1
+name: caveolin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/CAV1
+text/text-role: function
+text/html: <p>The <i>CAV1</i> gene provides instructions for making a protein called caveolin-1. This protein appears to have diverse functions in cells and tissues throughout the body.</p><p>Caveolin-1 is the major component of caveolae, which are small pouches in the membrane that surrounds cells. Caveolae have multiple functions, some of which are not well understood. They are known to be involved in the transport of molecules from the cell membrane to the interior of the cell (endocytosis), processing of molecules on their way into the cell, maintaining the cell structure, and regulating chemical signaling pathways. Studies suggest that caveolae are particularly numerous in adipocytes, which are cells that store fats for energy. Adipocytes make up most of the body's fatty (adipose) tissue. In these cells, caveolae appear to be essential for the normal transport, processing, and storage of fats.</p><p>Caveolin-1 is also found in many other parts of cells, where it regulates various chemical signaling pathways. Through these pathways, caveolin-1 is involved in regulating cell growth and division (proliferation), the process by which cells mature to perform specific functions (differentiation), cell survival and the self-destruction of cells (apoptosis), and cell movement. The functions of caveolin-1 likely differ depending on the type of cell and the part of the cell where the protein is found.</p>
+related-health-condition(1)/name: congenital generalized lipodystrophy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-generalized-lipodystrophy
+related-health-condition(2)/name: pulmonary arterial hypertension
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pulmonary-arterial-hypertension
+synonym(1): BSCL3
+synonym(2): CAV
+synonym(3): caveolin-1 isoform alpha
+synonym(4): caveolin-1 isoform beta
+synonym(5): caveolin 1, caveolae protein, 22kDa
+synonym(6): cell growth-inhibiting protein 32
+synonym(7): CGL3
+synonym(8): LCCNS
+synonym(9): MSTP085
+synonym(10): PPH3
+synonym(11): VIP21
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 857
+db-key(2)/db: OMIM
+db-key(2)/key: 601047
+db-key(3)/db: OMIM
+db-key(3)/key: 606721
+reviewed: 2016-01
+published: 2018-04-17

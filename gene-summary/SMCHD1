@@ -1,0 +1,18 @@
+gene-symbol: SMCHD1
+name: structural maintenance of chromosomes flexible hinge domain containing 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SMCHD1
+text/text-role: function
+text/html: <p>The <i>SMCHD1</i> gene provides instructions for making a protein that is involved in regulating gene activity by altering the structure of DNA. Specifically, the SMCHD1 protein is associated with DNA methylation, which is the addition of methyl groups (consisting of one carbon atom and three hydrogen atoms) to DNA molecules. The addition of methyl groups is associated with the turning off (silencing) of genes, so regions of DNA with many methyl groups (hypermethylated regions) tend to have fewer genes that are turned on (active).</p><p>The SMCHD1 protein is involved in a process called X-inactivation. Early in embryonic development in females, one of the two X chromosomes is randomly and permanently inactivated in cells other than egg cells. X-inactivation ensures that females, like males, have only one active copy of the X chromosome in each body cell. The SMCHD1 protein appears to be involved in the hypermethylation of certain areas of DNA called CpG islands, although the mechanism is unclear. This hypermethylation is critical for inactivation of the X chromosome. The SMCHD1 protein then remains attached (bound) to the inactive X chromosome to help keep it inactivated.</p><p>The SMCHD1 protein also plays a role in hypermethylation of a region near the end of chromosome 4 called D4Z4. This region consists of 11 to more than 100 repeated segments, each of which is about 3,300 DNA building blocks (3.3 kb) long. The segment closest to the end of chromosome 4 contains a gene called <i>DUX4</i>. Because the D4Z4 region is hypermethylated, the <i>DUX4</i> gene is silenced in most adult cells and tissues. Little is known about the function of the protein produced from the <i>DUX4</i> gene; it appears to help control the activity of other genes.</p><p>The SMCHD1 protein appears to play a role in normal development of the nose, eyes, and other structures of the head and face and seems to be involved in repairing damaged DNA. However, little is known about its roles in these processes.</p>
+related-health-condition(1)/name: Bosma arhinia microphthalmia syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/bosma-arhinia-microphthalmia-syndrome
+related-health-condition(2)/name: facioscapulohumeral muscular dystrophy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/facioscapulohumeral-muscular-dystrophy
+synonym(1): KIAA0650
+synonym(2): SMC hinge domain-containing protein 1
+synonym(3): structural maintenance of chromosomes flexible hinge domain-containing protein 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23347
+db-key(2)/db: OMIM
+db-key(2)/key: 614982
+reviewed: 2017-07
+published: 2018-04-17

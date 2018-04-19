@@ -1,0 +1,23 @@
+name: Familial pityriasis rubra pilaris
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-pityriasis-rubra-pilaris
+text/text-role: description
+text/html: <p>Familial pityriasis rubra pilaris is a rare genetic condition that affects the skin. The name of the condition reflects its major features: The term "pityriasis" refers to scaling; "rubra" means redness; and "pilaris" suggests the involvement of hair follicles in this disorder. Affected individuals have a salmon-colored skin rash covered in fine scales. This rash occurs in patches all over the body, with distinct areas of unaffected skin between the patches. Affected individuals also develop bumps called follicular keratoses that occur around hair follicles. The skin on the palms of the hands and soles of the feet often becomes thick, hard, and callused, a condition known as palmoplantar keratoderma.</p><p>Researchers have distinguished six types of pityriasis rubra pilaris based on the features of the disorder and the age at which signs and symptoms appear. The familial form is usually considered part of type V, which is also known as the atypical juvenile type. People with familial pityriasis rubra pilaris typically have skin abnormalities from birth or early childhood, and these skin problems persist throughout life.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: CARD14
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CARD14
+synonym: familial PRP
+db-key(1)/db: GTR
+db-key(1)/key: C0032027
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: L44.0
+db-key(3)/db: MeSH
+db-key(3)/key: D010916
+db-key(4)/db: OMIM
+db-key(4)/key: 173200
+db-key(5)/db: Orphanet
+db-key(5)/key: 2897
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 238622008
+reviewed: 2013-03
+published: 2018-04-17

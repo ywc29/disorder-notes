@@ -1,0 +1,8 @@
+gene-symbol: OPTN
+name: optineurin
+ghr-page: https://ghr.nlm.nih.gov/gene/OPTN
+related-health-condition/name: amyotrophic lateral sclerosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
+db-key/db: NCBI Gene
+db-key/key: 10133
+published: 2018-04-17

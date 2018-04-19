@@ -1,0 +1,41 @@
+name: Primary myelofibrosis
+ghr-page: https://ghr.nlm.nih.gov/condition/primary-myelofibrosis
+text/text-role: description
+text/html: <p>Primary myelofibrosis is a condition characterized by the buildup of scar tissue (fibrosis) in the bone marrow, the tissue that produces blood cells. Because of the fibrosis, the bone marrow is unable to make enough normal blood cells. The shortage of blood cells causes many of the signs and symptoms of primary myelofibrosis.</p><p>Initially, most people with primary myelofibrosis have no signs or symptoms. Eventually, fibrosis can lead to a reduction in the number of red blood cells, white blood cells, and platelets. A shortage of red blood cells (anemia) often causes extreme tiredness (fatigue) or shortness of breath. A loss of white blood cells can lead to an increased number of infections, and a reduction of platelets can cause easy bleeding or bruising.</p><p>Because blood cell formation (hematopoiesis) in the bone marrow is disrupted, other organs such as the spleen or liver may begin to produce blood cells. This process, called extramedullary hematopoiesis, often leads to an enlarged spleen (splenomegaly) or an enlarged liver (hepatomegaly). People with splenomegaly may feel pain or fullness in the abdomen, especially below the ribs on the left side. Other common signs and symptoms of primary myelofibrosis include fever, night sweats, and bone pain.</p><p>Primary myelofibrosis is most commonly diagnosed in people aged 50 to 80 but can occur at any age.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: CALR
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CALR
+related-gene(2)/gene-symbol: IDH1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/IDH1
+related-gene(3)/gene-symbol: IDH2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/IDH2
+related-gene(4)/gene-symbol: JAK2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/JAK2
+related-gene(5)/gene-symbol: MPL
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/MPL
+related-gene(6)/gene-symbol: TET2
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/TET2
+synonym(1): agnogenic myeloid metaplasia
+synonym(2): chronic idiopathic myelofibrosis
+synonym(3): idiopathic myelofibrosis
+synonym(4): myelofibrosis with myeloid metaplasia
+synonym(5): myeloid metaplasia
+db-key(1)/db: GTR
+db-key(1)/key: C0001815
+db-key(2)/db: MeSH
+db-key(2)/key: D055728
+db-key(3)/db: OMIM
+db-key(3)/key: 254450
+db-key(4)/db: Orphanet
+db-key(4)/key: 824
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 128843003
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 307651005
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 443230004
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 52967002
+reviewed: 2014-09
+published: 2018-04-17

@@ -1,0 +1,43 @@
+name: Core binding factor acute myeloid leukemia
+ghr-page: https://ghr.nlm.nih.gov/condition/core-binding-factor-acute-myeloid-leukemia
+text/text-role: description
+text/html: <p>Core binding factor acute myeloid leukemia (CBF-AML) is one form of a cancer of the blood-forming tissue (bone marrow) called acute myeloid leukemia. In normal bone marrow, early blood cells called hematopoietic stem cells develop into several types of blood cells: white blood cells (leukocytes) that protect the body from infection, red blood cells (erythrocytes) that carry oxygen, and blood cell fragments called platelets (thrombocytes) that are involved in blood clotting. In acute myeloid leukemia, the bone marrow makes large numbers of abnormal, immature white blood cells called myeloid blasts. Instead of developing into normal white blood cells, the myeloid blasts develop into cancerous leukemia cells. The large number of abnormal cells in the bone marrow interferes with the production of functional white blood cells, red blood cells, and platelets.</p><p>People with CBF-AML have a shortage of all types of mature blood cells: a shortage of white blood cells (leukopenia) leads to increased susceptibility to infections, a low number of red blood cells (anemia) causes fatigue and weakness, and a reduction in the amount of platelets (thrombocytopenia) can result in easy bruising and abnormal bleeding. Other symptoms of CBF-AML may include fever and weight loss.</p><p>While acute myeloid leukemia is generally a disease of older adults, CBF-AML often begins in young adulthood and can occur in childhood. Compared to other forms of acute myeloid leukemia, CBF-AML has a relatively good prognosis: about 90 percent of individuals with CBF-AML recover from their disease following treatment, compared with 25 to 40 percent of those with other forms of acute myeloid leukemia. However, the disease recurs in approximately half of them after successful treatment of the initial occurrence.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: CBFB
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CBFB
+related-gene(2)/gene-symbol: FLT3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FLT3
+related-gene(3)/gene-symbol: KIT
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/KIT
+related-gene(4)/gene-symbol: KRAS
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/KRAS
+related-gene(5)/gene-symbol: MYH11
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/MYH11
+related-gene(6)/gene-symbol: NRAS
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/NRAS
+related-gene(7)/gene-symbol: RUNX1
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/RUNX1
+related-gene(8)/gene-symbol: RUNX1T1
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/RUNX1T1
+related-chromosome(1)/name: 8
+related-chromosome(1)/ghr-page: https://ghr.nlm.nih.gov/chromosome/8
+related-chromosome(2)/name: 16
+related-chromosome(2)/ghr-page: https://ghr.nlm.nih.gov/chromosome/16
+related-chromosome(3)/name: 21
+related-chromosome(3)/ghr-page: https://ghr.nlm.nih.gov/chromosome/21
+synonym(1): CBF acute myeloid leukemia
+synonym(2): CBF-AML
+synonym(3): core-binding factor AML
+db-key(1)/db: GTR
+db-key(1)/key: C0023467
+db-key(2)/db: MeSH
+db-key(2)/key: D015470
+db-key(3)/db: OMIM
+db-key(3)/key: 601626
+db-key(4)/db: Orphanet
+db-key(4)/key: 519
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 702446006
+reviewed: 2013-11
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: GABRA1
+name: gamma-aminobutyric acid type A receptor alpha1 subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/GABRA1
+text/text-role: function
+text/html: <p>The <i>GABRA1</i> gene provides instructions for making one piece, the alpha-1 (α1) subunit, of the GABA<sub>A</sub> receptor protein. GABA<sub>A</sub> receptors are made up of different combinations of five protein subunits, each produced from a different gene. (Nineteen different genes provide instructions for GABA<sub>A</sub> receptor subunits.) These subunits form a hole (pore) in the cell membrane through which negatively charged chlorine atoms (chloride ions) can flow.</p><p>A chemical that transmits signals in the brain (a neurotransmitter) called gamma-amino butyric acid (GABA) attaches to GABA<sub>A</sub> receptors. Once GABA attaches, the pore formed by the subunits opens, and chloride ions flow across the cell membrane. After infancy, chloride ions flow into the cell through the open pore, which creates an environment in the cell that blocks (inhibits) signaling between neurons. The primary role of GABA in children and adults is to prevent the brain from being overloaded with too many signals. In contrast, in newborns and infants, chloride ions flow out of the cell when the pore is opened, creating an environment that allows signaling between neurons.</p>
+related-health-condition/name: juvenile myoclonic epilepsy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-myoclonic-epilepsy
+synonym(1): ECA4
+synonym(2): EJM
+synonym(3): EJM5
+synonym(4): GABA(A) receptor subunit alpha-1
+synonym(5): GABA(A) receptor, alpha 1
+synonym(6): gamma-aminobutyric acid (GABA) A receptor, alpha 1
+synonym(7): gamma-aminobutyric acid receptor subunit alpha-1
+synonym(8): gamma-aminobutyric acid receptor subunit alpha-1 precursor
+synonym(9): GBRA1_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2554
+db-key(2)/db: OMIM
+db-key(2)/key: 137160
+reviewed: 2012-06
+published: 2018-04-17

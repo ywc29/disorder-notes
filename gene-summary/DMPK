@@ -1,0 +1,30 @@
+gene-symbol: DMPK
+name: DM1 protein kinase
+ghr-page: https://ghr.nlm.nih.gov/gene/DMPK
+text/text-role: function
+text/html: <p>The <i>DMPK</i> gene provides instructions for making a protein called myotonic dystrophy protein kinase. Although the specific function of this protein is unknown, it appears to play an important role in muscle, heart, and brain cells. This protein may be involved in communication within cells. It also appears to regulate the production and function of important structures inside muscle cells by interacting with other proteins. For example, myotonic dystrophy protein kinase has been shown to turn off (inhibit) part of a muscle protein called myosin phosphatase. Myosin phosphatase is an enzyme that plays a role in muscle tensing (contraction) and relaxation.</p><p>One region of the <i>DMPK</i> gene contains a segment of three DNA building blocks (nucleotides) that is repeated multiple times. This sequence, which is written as CTG, is called a triplet or trinucleotide repeat. In most people, the number of CTG repeats in this gene ranges from 5 to 34.</p>
+related-health-condition/name: myotonic dystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/myotonic-dystrophy
+synonym(1): DM-kinase
+synonym(2): DM-PK
+synonym(3): DM protein kinase
+synonym(4): DM1
+synonym(5): DM1PK
+synonym(6): Dm15
+synonym(7): DMK
+synonym(8): DMPK_HUMAN
+synonym(9): dystrophia myotonica 1
+synonym(10): dystrophia myotonica kinase, B15
+synonym(11): dystrophia myotonica protein kinase
+synonym(12): dystrophia myotonica-protein kinase
+synonym(13): MDPK
+synonym(14): MT-PK
+synonym(15): myotonic dystrophy protein kinase
+synonym(16): myotonin
+synonym(17): myotonin-protein kinase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1760
+db-key(2)/db: OMIM
+db-key(2)/key: 605377
+reviewed: 2010-11
+published: 2018-04-17

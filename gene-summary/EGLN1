@@ -1,0 +1,30 @@
+gene-symbol: EGLN1
+name: egl-9 family hypoxia inducible factor 1
+ghr-page: https://ghr.nlm.nih.gov/gene/EGLN1
+text/text-role: function
+text/html: <p>The <i>EGLN1</i> gene, often known as <i>PHD2</i>, provides instructions for making an enzyme called prolyl hydroxylase domain 2 (PHD2). The PHD2 enzyme interacts with a protein called hypoxia-inducible factor 2-alpha (HIF-2α). This protein is one part (subunit) of a larger HIF protein complex that plays a critical role in the body's ability to adapt to changing oxygen levels. HIF controls several important genes involved in cell division, the formation of new blood vessels, and the production of red blood cells. It is the major regulator of a hormone called erythropoietin, which controls red blood cell production.</p><p>The PHD2 enzyme's primary job is to target HIF-2α to be broken down (degraded) so it does not build up when it is not needed. When enough oxygen is available, the PHD2 enzyme is highly active to stimulate the breakdown of HIF-2α. However, when oxygen levels are lower than normal (hypoxia), the PHD2 enzyme becomes less active. As a result, HIF-2α is degraded more slowly, leaving more HIF available to stimulate the formation of new blood vessels and red blood cells. These activities help maximize the amount of oxygen that can be delivered to the body's organs and tissues.</p><p>Studies suggest that the <i>EGLN1</i> gene is involved in the body's adaptation to high altitude. At higher altitudes, such as in mountainous regions, air pressure is lower and less oxygen enters the body through the lungs. Over time, the body compensates for the lower oxygen levels by changing breathing patterns and producing more red blood cells and blood vessels.</p><p>Researchers suspect that the <i>EGLN1</i> gene may also act as a tumor suppressor gene because of its role in regulating cell division and other processes through its interaction with HIF. Tumor suppressors prevent cells from growing and dividing too fast or in an uncontrolled way, which could lead to the development of a tumor.</p>
+related-health-condition/name: familial erythrocytosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-erythrocytosis
+synonym(1): ECYT3
+synonym(2): egl-9 family hypoxia-inducible factor 1
+synonym(3): egl nine homolog 1
+synonym(4): egl nine homolog 1 (C. elegans)
+synonym(5): egl nine-like protein 1
+synonym(6): EGLN1_HUMAN
+synonym(7): HIF-PH2
+synonym(8): HIF-prolyl hydroxylase 2
+synonym(9): HIF prolyl hydroxylase 2
+synonym(10): HIFPH2
+synonym(11): HPH-2
+synonym(12): HPH2
+synonym(13): hypoxia-inducible factor prolyl hydroxylase 2
+synonym(14): PHD2
+synonym(15): prolyl hydroxylase domain-containing protein 2
+synonym(16): zinc finger MYND domain-containing protein 6
+synonym(17): ZMYND6
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 54583
+db-key(2)/db: OMIM
+db-key(2)/key: 606425
+reviewed: 2012-08
+published: 2018-04-17

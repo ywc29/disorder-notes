@@ -1,0 +1,27 @@
+gene-symbol: GTF2H5
+name: general transcription factor IIH subunit 5
+ghr-page: https://ghr.nlm.nih.gov/gene/GTF2H5
+text/text-role: function
+text/html: <p>The <i>GTF2H5</i> gene provides instructions for making a protein called p8 or TTDA. This protein is one part (subunit) of a group of related proteins known as the general transcription factor IIH (TFIIH) complex. The TFIIH complex has two major functions: it is involved in the process of gene transcription, which is the first step in protein production, and it helps repair damaged DNA.</p><p>DNA can be damaged by ultraviolet (UV) rays from the sun and by toxic chemicals, radiation, and unstable molecules called free radicals. DNA damage occurs frequently, but normal cells are usually able to fix it before it can cause problems. One of the major mechanisms that cells use to fix DNA is known as nucleotide excision repair (NER). As part of this repair mechanism, the TFIIH complex opens up the section of double-stranded DNA that surrounds the damage. The TTDA protein helps with this process by stabilizing the TFIIH complex and maintaining its structure. Once the damaged region has been exposed, other proteins snip out (excise) the abnormal section and replace the damaged area with the correct DNA.</p>
+related-health-condition/name: trichothiodystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/trichothiodystrophy
+synonym(1): bA120J8.2
+synonym(2): C6orf175
+synonym(3): FLJ30544
+synonym(4): general transcription factor IIH, polypeptide 5
+synonym(5): p8
+synonym(6): TF2H5_HUMAN
+synonym(7): TFB5
+synonym(8): TFB5 ortholog
+synonym(9): TFIIH basal transcription factor complex TTD-A subunit
+synonym(10): TFIIH basal transcription factor complex TTDA subunit
+synonym(11): TGF2H5
+synonym(12): TTD
+synonym(13): TTD-A
+synonym(14): TTDA
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 404672
+db-key(2)/db: OMIM
+db-key(2)/key: 608780
+reviewed: 2010-05
+published: 2018-04-17

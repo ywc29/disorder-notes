@@ -1,0 +1,8 @@
+gene-symbol: VEGFA
+name: vascular endothelial growth factor A
+ghr-page: https://ghr.nlm.nih.gov/gene/VEGFA
+related-health-condition/name: age-related macular degeneration
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
+db-key/db: NCBI Gene
+db-key/key: 7422
+published: 2018-04-17

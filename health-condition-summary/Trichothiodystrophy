@@ -1,0 +1,40 @@
+name: Trichothiodystrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/trichothiodystrophy
+text/text-role: description
+text/html: <p>Trichothiodystrophy, which is commonly called TTD, is a rare inherited condition that affects many parts of the body. The hallmark of this condition is brittle hair that is sparse and easily broken. Tests show that the hair is lacking sulfur, an element that normally gives hair its strength.</p><p>The signs and symptoms of trichothiodystrophy vary widely. Mild cases may involve only the hair. More severe cases also cause delayed development, significant intellectual disability, and recurrent infections; severely affected individuals may survive only into infancy or early childhood.</p><p>Mothers of children with trichothiodystrophy may experience problems during pregnancy including pregnancy-induced high blood pressure (preeclampsia) and a related condition called HELLP syndrome that can damage the liver. Babies with trichothiodystrophy are at increased risk of premature birth, low birth weight, and slow growth.</p><p>Most affected children have short stature compared to others their age. Intellectual disability and delayed development are common, although most affected individuals are highly social with an outgoing and engaging personality. Some have brain abnormalities that can be seen with imaging tests. Trichothiodystrophy is also associated with recurrent infections, particularly respiratory infections, which can be life-threatening. Other features of trichothiodystrophy can include dry, scaly skin (ichthyosis); abnormalities of the fingernails and toenails; clouding of the lens in both eyes from birth (congenital cataracts); poor coordination; and skeletal abnormalities.</p><p>About half of all people with trichothiodystrophy have a photosensitive form of the disorder, which causes them to be extremely sensitive to ultraviolet (UV) rays from sunlight. They develop a severe sunburn after spending just a few minutes in the sun. However, for reasons that are unclear, they do not develop other sun-related problems such as excessive freckling of the skin or an increased risk of skin cancer. Many people with trichothiodystrophy report that they do not sweat.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: ERCC2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ERCC2
+related-gene(2)/gene-symbol: ERCC3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ERCC3
+related-gene(3)/gene-symbol: GTF2H5
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/GTF2H5
+related-gene(4)/gene-symbol: MPLKIP
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/MPLKIP
+synonym(1): Amish brittle hair syndrome
+synonym(2): BIDS syndrome
+synonym(3): brittle hair-intellectual impairment-decreased fertility-short stature syndrome
+synonym(4): IBIDS
+synonym(5): PIBIDS
+synonym(6): TTD
+db-key(1)/db: GTR
+db-key(1)/key: C0740342
+db-key(2)/db: GTR
+db-key(2)/key: C1866504
+db-key(3)/db: GTR
+db-key(3)/key: C1961117
+db-key(4)/db: MeSH
+db-key(4)/key: D054463
+db-key(5)/db: OMIM
+db-key(5)/key: 234050
+db-key(6)/db: OMIM
+db-key(6)/key: 601675
+db-key(7)/db: Orphanet
+db-key(7)/key: 33364
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 254128006
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 403796005
+reviewed: 2010-05
+published: 2018-04-17

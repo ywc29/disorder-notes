@@ -1,0 +1,23 @@
+name: Pulmonary alveolar microlithiasis
+ghr-page: https://ghr.nlm.nih.gov/condition/pulmonary-alveolar-microlithiasis
+text/text-role: description
+text/html: <p>Pulmonary alveolar microlithiasis is a disorder in which many tiny fragments (microliths) of a compound called calcium phosphate gradually accumulate in the small air sacs (alveoli) located throughout the lungs. These deposits eventually cause widespread damage to the alveoli and surrounding lung tissue (interstitial lung disease) that leads to breathing problems. People with this disorder can develop a persistent cough and difficulty breathing (dyspnea), especially during physical exertion. Affected individuals may also experience chest pain that worsens when coughing, sneezing, or taking deep breaths.</p><p>Pulmonary alveolar microlithiasis is usually diagnosed before age 40. Often the disorder is discovered before symptoms develop, when medical imaging is done for other reasons. The condition typically worsens slowly over many years, although some affected individuals have signs and symptoms that remain stable for long periods of time.</p><p>People with pulmonary alveolar microlithiasis can also develop calcium phosphate deposits in other organs and tissues of the body, including the kidneys, gallbladder, testes, and the valve that connects a large blood vessel called the aorta with the heart (the aortic valve). In rare cases, affected individuals have complications related to accumulation of these deposits, such as a narrowing (stenosis) of the aortic valve that can impede normal blood flow.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SLC34A2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SLC34A2
+synonym: PAM
+db-key(1)/db: GTR
+db-key(1)/key: C0155912
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: J84.02
+db-key(3)/db: MeSH
+db-key(3)/key: D017563
+db-key(4)/db: OMIM
+db-key(4)/key: 265100
+db-key(5)/db: Orphanet
+db-key(5)/key: 60025
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 87153008
+reviewed: 2018-01
+published: 2018-04-17

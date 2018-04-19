@@ -1,0 +1,22 @@
+gene-symbol: FOLR1
+name: folate receptor 1
+ghr-page: https://ghr.nlm.nih.gov/gene/FOLR1
+text/text-role: function
+text/html: <p>The <i>FOLR1</i> gene provides instructions for making a protein called folate receptor alpha. This protein helps regulate transport of the B-vitamin folate into cells. Folate (also called vitamin B9) is needed for many processes, including the production and repair of DNA, regulation of gene activity (expression), and protein production. Folate from food is absorbed in the intestines and then released in a form called 5-methyl-tetrahydrofolate (5-MTHF) into the bloodstream, where it can be taken in by cells in various tissues.</p><p>Folate receptor alpha is found within the cell membrane, where it attaches (binds) to 5-MTHF, allowing the vitamin to be brought into the cell. Folate receptor alpha is produced in largest amounts in the brain, specifically in an area of the brain called the choroid plexus. This region releases cerebrospinal fluid (CSF), which surrounds and protects the brain and spinal cord. Folate receptor alpha is thought to play a major role in transporting folate from the bloodstream into brain cells. It transports folate across the choroid plexus and into the CSF, ultimately reaching the brain. In the brain, folate is needed for making chemical messengers called neurotransmitters and a fatty substance called myelin, which insulates nerve fibers and promotes the rapid transmission of nerve impulses. Both of these substances play essential roles in transmitting signals in the nervous system.</p>
+related-health-condition/name: cerebral folate transport deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cerebral-folate-transport-deficiency
+synonym(1): adult folate-binding protein
+synonym(2): FBP
+synonym(3): folate binding protein
+synonym(4): folate receptor 1 (adult)
+synonym(5): folate receptor alpha
+synonym(6): folate receptor, adult
+synonym(7): FOLR
+synonym(8): FR-alpha
+synonym(9): KB cells FBP
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2348
+db-key(2)/db: OMIM
+db-key(2)/key: 136430
+reviewed: 2014-09
+published: 2018-04-17

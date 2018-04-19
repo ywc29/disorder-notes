@@ -1,0 +1,24 @@
+name: Sialuria
+ghr-page: https://ghr.nlm.nih.gov/condition/sialuria
+text/text-role: description
+text/html: <p>Sialuria is a rare disorder that has variable effects on development.  Affected infants are often born with a yellow tint to the skin and the whites of the eyes (neonatal jaundice), an enlarged liver and spleen (hepatosplenomegaly), and unusually small red blood cells (microcytic anemia).  They may develop a somewhat flat face and distinctive-looking facial features that are described as "coarse." Temporarily delayed development and weak muscle tone (hypotonia) have also been reported.</p><p>Young children with sialuria tend to have frequent upper respiratory infections and episodes of dehydration and stomach upset (gastroenteritis).  Older children may have seizures and learning difficulties.  In some affected children, intellectual development is nearly normal.</p><p>The features of sialuria vary widely among affected people.  Many of the problems associated with this disorder appear to improve with age, although little is known about the long-term effects of the disease.  It is likely that some adults with sialuria never come to medical attention because they have very mild signs and symptoms or no health problems related to the condition.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: GNE
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GNE
+synonym(1): French type sialuria
+synonym(2): Sialuria, French type
+db-key(1)/db: GTR
+db-key(1)/key: C0342853
+db-key(2)/db: GeneReviews
+db-key(2)/key: sft
+db-key(3)/db: MeSH
+db-key(3)/key: D008661
+db-key(4)/db: OMIM
+db-key(4)/key: 269921
+db-key(5)/db: Orphanet
+db-key(5)/key: 3166
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 238051008
+reviewed: 2008-12
+published: 2018-04-17

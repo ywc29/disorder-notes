@@ -1,0 +1,29 @@
+name: Lowe syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/lowe-syndrome
+text/text-role: description
+text/html: <p>Lowe syndrome is a condition that primarily affects the eyes, brain, and kidneys. This disorder occurs almost exclusively in males.</p><p>Infants with Lowe syndrome are born with thick clouding of the lenses in both eyes (congenital cataracts), often with other eye abnormalities that can impair vision. About half of affected infants develop an eye disease called infantile glaucoma, which is characterized by increased pressure within the eyes.</p><p>Many individuals with Lowe syndrome have delayed development, and intellectual ability ranges from normal to severely impaired.  Behavioral problems and seizures have also been reported in children with this condition.  Most affected children have weak muscle tone from birth (neonatal hypotonia), which can contribute to feeding difficulties, problems with breathing, and delayed development of motor skills such as sitting, standing, and walking.</p><p>Kidney (renal) abnormalities, most commonly a condition known as renal Fanconi syndrome, frequently develop in individuals with Lowe syndrome. The kidneys play an essential role in maintaining the right amounts of minerals, salts, water, and other substances in the body. In individuals with renal Fanconi syndrome, the kidneys are unable to reabsorb important nutrients into the bloodstream.  Instead, the nutrients are excreted in the urine. These kidney problems lead to increased urination, dehydration, and abnormally acidic blood (metabolic acidosis). A loss of salts and nutrients may also impair growth and result in soft, bowed bones (hypophosphatemic rickets), especially in the legs. Progressive kidney problems in older children and adults with Lowe syndrome can lead to life-threatening renal failure and end-stage renal disease (ESRD).</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: OCRL
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/OCRL
+synonym(1): cerebrooculorenal syndrome
+synonym(2): Lowe oculocerebrorenal syndrome
+synonym(3): oculocerebrorenal syndrome
+synonym(4): oculocerebrorenal syndrome of Lowe
+synonym(5): phosphatidylinositol-4,5-bisphosphate-5-phosphatase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0028860
+db-key(2)/db: GeneReviews
+db-key(2)/key: lowe
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E72.03
+db-key(4)/db: MeSH
+db-key(4)/key: D009800
+db-key(5)/db: OMIM
+db-key(5)/key: 309000
+db-key(6)/db: Orphanet
+db-key(6)/key: 534
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 79385002
+reviewed: 2013-11
+published: 2018-04-17

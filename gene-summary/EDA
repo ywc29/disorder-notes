@@ -1,0 +1,25 @@
+gene-symbol: EDA
+name: ectodysplasin A
+ghr-page: https://ghr.nlm.nih.gov/gene/EDA
+text/text-role: function
+text/html: <p>The <i>EDA</i> gene provides instructions for making a protein called ectodysplasin A.  This protein is part of a signaling pathway that plays an important role in development before birth.  Specifically, it is critical for interactions between two embryonic cell layers called the ectoderm and the mesoderm.  In the early embryo, these cell layers form the basis for many of the body's organs and tissues. Ectoderm-mesoderm interactions are essential for the formation of several structures that arise from the ectoderm, including the skin, hair, nails, teeth, and sweat glands.</p><p>The <i>EDA</i> gene provides instructions for producing many slightly different versions of ectodysplasin A.  One version, ectodysplasin A1, interacts with a protein called the ectodysplasin A receptor (produced from the <i>EDAR</i> gene).  On the cell surface, ectodysplasin A1 attaches to this receptor like a key in a lock.  When these two proteins are connected, they trigger a series of chemical signals that affect cell activities such as division, growth, and maturation.  Before birth, this signaling pathway controls the formation of ectodermal structures such as hair follicles, sweat glands, and teeth.</p>
+related-health-condition/name: hypohidrotic ectodermal dysplasia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hypohidrotic-ectodermal-dysplasia
+synonym(1): Ectodermal dysplasia protein
+synonym(2): ectodysplasin
+synonym(3): ectodysplasin-A
+synonym(4): ED1
+synonym(5): ED1-A1
+synonym(6): EDA-A1
+synonym(7): EDA-A2
+synonym(8): EDA1
+synonym(9): EDA_HUMAN
+synonym(10): HED
+synonym(11): XHED
+synonym(12): XLHED
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1896
+db-key(2)/db: OMIM
+db-key(2)/key: 300451
+reviewed: 2006-08
+published: 2018-04-17

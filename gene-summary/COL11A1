@@ -1,0 +1,27 @@
+gene-symbol: COL11A1
+name: collagen type XI alpha 1 chain
+ghr-page: https://ghr.nlm.nih.gov/gene/COL11A1
+text/text-role: function
+text/html: <p>The <i>COL11A1</i> gene provides instructions for making a component of type XI collagen called the pro-alpha1(XI) chain. Collagens are molecules that provide structure and strength to the connective tissues that support the body's muscles, joints, organs, and skin. Type XI collagen is normally found in cartilage, a tough but flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears. Type XI collagen is also part of the inner ear; the vitreous, which is the clear gel that fills the eyeball; and the nucleus pulposus, which is the center portion of the discs between the bones of the spine (vertebrae).</p><p>Collagens begin as rope-like procollagen molecules that are each made up of three chains. The pro-alpha1(XI) chain combines with two other collagen chains, pro-alpha2(XI) and pro-alpha1(II), to form a triple-stranded procollagen molecule. Then the ropelike procollagen is processed by enzymes to create mature collagen. Mature collagen molecules arrange themselves into long, thin fibrils that form stable interactions (cross-links) with one another in the spaces between cells (the extracellular matrix). The cross-links result in the formation of very strong type XI collagen fibers.</p><p>Type XI collagen also helps maintain the spacing and width (diameter) of another type of collagen molecule, type II collagen. Type II collagen is an important component of the vitreous and cartilage. The arrangement and size of type II collagen fibrils is essential for the normal structure of these tissues.</p>
+related-health-condition(1)/name: fibrochondrogenesis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/fibrochondrogenesis
+related-health-condition(2)/name: intervertebral disc disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/intervertebral-disc-disease
+related-health-condition(3)/name: osteoarthritis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/osteoarthritis
+related-health-condition(4)/name: Stickler syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/stickler-syndrome
+synonym(1): COBA1_HUMAN
+synonym(2): COLL6
+synonym(3): collagen type XI alpha 1
+synonym(4): collagen XI, alpha-1 polypeptide
+synonym(5): collagen, type XI, alpha 1
+synonym(6): STL2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1301
+db-key(2)/db: OMIM
+db-key(2)/key: 120280
+db-key(3)/db: OMIM
+db-key(3)/key: 165720
+reviewed: 2016-04
+published: 2018-04-17

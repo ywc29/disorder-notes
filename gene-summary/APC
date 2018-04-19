@@ -1,0 +1,31 @@
+gene-symbol: APC
+name: APC, WNT signaling pathway regulator
+ghr-page: https://ghr.nlm.nih.gov/gene/APC
+text/text-role: function
+text/html: <p>The <i>APC</i> gene provides instructions for making the APC protein, which plays a critical role in several cellular processes. The APC protein acts as a tumor suppressor, which means that it keeps cells from growing and dividing too fast or in an uncontrolled way. It helps control how often a cell divides, how it attaches to other cells within a tissue, and whether a cell moves within or away from a tissue. This protein also helps ensure that the number of chromosomes in a cell is correct following cell division. The APC protein accomplishes these tasks mainly through association with other proteins, especially those that are involved in cell attachment and signaling.</p><p>One protein with which APC associates is beta-catenin. Beta-catenin helps control the activity (expression) of particular genes and promotes the growth and division (proliferation) of cells and the process by which cells mature to carry out specific functions (differentiation). Beta-catenin also helps cells attach to one another and is important for tissue formation. Association of APC with beta-catenin signals for beta-catenin to be broken down when it is no longer needed.</p>
+related-health-condition(1)/name: desmoid tumor
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/desmoid-tumor
+related-health-condition(2)/name: familial adenomatous polyposis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-adenomatous-polyposis
+related-health-condition(3)/name: primary macronodular adrenal hyperplasia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/primary-macronodular-adrenal-hyperplasia
+synonym(1): adenomatous polyposis coli
+synonym(2): APC_HUMAN
+synonym(3): DP2
+synonym(4): DP2.5
+synonym(5): DP3
+synonym(6): FAP
+synonym(7): FPC
+synonym(8): GS
+synonym(9): PPP1R46
+synonym(10): WNT signaling pathway regulator
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 324
+db-key(2)/db: OMIM
+db-key(2)/key: 137215
+db-key(3)/db: OMIM
+db-key(3)/key: 276300
+db-key(4)/db: OMIM
+db-key(4)/key: 611731
+reviewed: 2013-03
+published: 2018-04-17

@@ -1,0 +1,20 @@
+gene-symbol: ORC1
+name: origin recognition complex subunit 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ORC1
+text/text-role: function
+text/html: <p>The <i>ORC1</i> gene provides instructions for making a protein that is important in the copying of a cell's DNA before the cell divides (a process known as DNA replication). The protein produced from this gene is one of a group of proteins known as the origin recognition complex (ORC). (The complex is made up of the proteins ORC1 to ORC6, which are produced from different genes.) ORC attaches (binds) to certain regions of DNA known as origins of replication (or origins), where the process of DNA copying begins. This complex attracts additional proteins to bind to it, forming a larger group of proteins called the pre-replication complex. When the pre-replication complex is attached to the origin, replication is able to begin at that location. This tightly controlled process, called replication licensing, helps ensure that DNA replication occurs only once per cell division and is required for cells to divide.</p><p>ORC also attaches to a form of DNA called heterochromatin. Heterochromatin is densely packed DNA that contains few functional genes, but it is important for controlling gene activity and maintaining the structure of chromosomes. It is unclear what effect ORC binding has on heterochromatin.</p><p>In addition to its roles as part of ORC, the ORC1 protein is involved in the copying of cell structures called centrosomes and centrioles, which are important for the process of cell division. ORC1 blocks centrosomes and centrioles from being copied more than once, which is key to normal cell division. In addition, some research suggests that ORC1 is involved in the function of cilia, which are microscopic, finger-like projections that stick out from the surface of cells. Cilia participate in signaling pathways that transmit information within and between cells and are important for the development and function of many types of cells and tissues, including bone.</p>
+related-health-condition/name: Meier-Gorlin syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/meier-gorlin-syndrome
+synonym(1): HSORC1
+synonym(2): ORC1_HUMAN
+synonym(3): ORC1L
+synonym(4): origin recognition complex, subunit 1
+synonym(5): origin recognition complex, subunit 1 homolog
+synonym(6): PARC1
+synonym(7): replication control protein 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4998
+db-key(2)/db: OMIM
+db-key(2)/key: 601902
+reviewed: 2014-02
+published: 2018-04-17

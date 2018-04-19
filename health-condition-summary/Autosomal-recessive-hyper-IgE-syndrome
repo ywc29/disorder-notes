@@ -1,0 +1,33 @@
+name: Autosomal recessive hyper-IgE syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-hyper-ige-syndrome
+text/text-role: description
+text/html: <p>Autosomal recessive hyper-IgE syndrome (AR-HIES) is a disorder of the immune system.  A hallmark feature of the condition is recurrent infections that are severe and can be life-threatening. Skin infections can be caused by bacteria, viruses, or fungi. These infections cause rashes, blisters, accumulations of pus (abscesses), open sores, and scaling. People with AR-HIES also tend to have frequent bouts of pneumonia and other respiratory tract infections.</p><p>Other immune system-related problems in people with AR-HIES include an inflammatory skin disorder called eczema, food or environmental allergies, and asthma. In some affected individuals, the immune system malfunctions and attacks the body's own tissues and organs, causing autoimmune disease. For example, autoimmunity can lead to abnormal destruction of red blood cells (hemolytic anemia) in people with AR-HIES.</p><p>AR-HIES is characterized by abnormally high levels of an immune system protein called immunoglobulin E (IgE) in the blood; the levels are more than 10 times higher than normal. IgE normally triggers an immune response against foreign invaders in the body, particularly parasitic worms, and plays a role in allergies. It is unclear why people with AR-HIES have such high levels of this protein. People with AR-HIES also have highly elevated numbers of certain white blood cells called eosinophils (hypereosinophilia). Eosinophils aid in the immune response and are involved in allergic reactions.</p><p>Some people with AR-HIES have neurological problems, such as paralysis that affects the face or one side of the body (hemiplegia). Blockage of blood flow in the brain or abnormal bleeding in the brain, both of which can lead to stroke, can also occur in AR-HIES.</p><p>People with AR-HIES have a greater-than-average risk of developing cancer, particularly cancers of the blood or skin.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: DOCK8
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DOCK8
+synonym(1): AR-HIES
+synonym(2): autosomal recessive HIES
+synonym(3): CID due to DOCK8 deficiency
+synonym(4): combined immunodeficiency due to DOCK8 deficiency
+synonym(5): DOCK8 deficiency
+synonym(6): DOCK8 immunodeficiency syndrome
+synonym(7): hyper IgE recurrent infection syndrome, autosomal recessive
+synonym(8): hyper immunoglobulin E syndrome, autosomal recessive
+synonym(9): hyperimmunoglobulin E recurrent infection syndrome, autosomal recessive
+synonym(10): hyperimmunoglobulin E syndrome type 2
+synonym(11): non-skeletal hyper-IgE syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C3489795
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D82.4
+db-key(3)/db: MeSH
+db-key(3)/key: D007589
+db-key(4)/db: OMIM
+db-key(4)/key: 243700
+db-key(5)/db: Orphanet
+db-key(5)/key: 169446
+db-key(6)/db: Orphanet
+db-key(6)/key: 217390
+reviewed: 2015-10
+published: 2018-04-17

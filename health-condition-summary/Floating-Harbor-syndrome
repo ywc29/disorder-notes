@@ -1,0 +1,26 @@
+name: Floating-Harbor syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/floating-harbor-syndrome
+text/text-role: description
+text/html: <p>Floating-Harbor syndrome is a disorder involving short stature, slowing of the mineralization of the bones (delayed bone age), delayed speech development, and characteristic facial features. The condition is named for the hospitals where it was first described, the Boston Floating Hospital and Harbor General Hospital in Torrance, California.</p><p>Growth deficiency in people with Floating-Harbor syndrome generally becomes apparent in the first year of life, and affected individuals are usually among the shortest 5 percent of their age group. Bone age is delayed in early childhood; for example, an affected 3-year-old child may have bones more typical of a child of 2. However, bone age is usually normal by age 6 to 12.</p><p>Delay in speech development (expressive language delay) may be severe in Floating-Harbor syndrome, and language impairment can lead to problems in verbal communication. Most affected individuals also have mild intellectual disability. Their development of motor skills, such as sitting and crawling, is similar to that of other children their age.</p><p>Typical facial features in people with Floating-Harbor syndrome include a triangular face; a low hairline; deep-set eyes; long eyelashes;  a large, distinctive nose with a low-hanging separation (overhanging columella) between large nostrils; a shortened distance between the nose and upper lip (a short philtrum); and thin lips. As affected children grow and mature, the nose becomes more prominent.</p><p>Additional features that have occurred in some affected individuals include short fingers and toes (brachydactyly); widened and rounded tips of the fingers (clubbing); curved pinky fingers (fifth finger clinodactyly); an unusually high-pitched voice; and, in males, undescended testes (cryptorchidism).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SRCAP
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SRCAP
+synonym(1): FHS
+synonym(2): FLHS
+synonym(3): Leisti-Hollander-Rimoin syndrome
+synonym(4): Pelletier-Leisti syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0729582
+db-key(2)/db: GeneReviews
+db-key(2)/key: fhs
+db-key(3)/db: MeSH
+db-key(3)/key: D000015
+db-key(4)/db: OMIM
+db-key(4)/key: 136140
+db-key(5)/db: Orphanet
+db-key(5)/key: 2044
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 312214005
+reviewed: 2012-12
+published: 2018-04-17

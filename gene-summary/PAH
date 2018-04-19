@@ -1,0 +1,19 @@
+gene-symbol: PAH
+name: phenylalanine hydroxylase
+ghr-page: https://ghr.nlm.nih.gov/gene/PAH
+text/text-role: function
+text/html: <p>The <i>PAH</i> gene provides instructions for making an enzyme called phenylalanine hydroxylase. This enzyme is responsible for the first step in processing phenylalanine, which is a building block of proteins (an amino acid) obtained through the diet.  Phenylalanine is found in all proteins and in some artificial sweeteners.</p><p>Phenylalanine hydroxylase is responsible for the conversion of phenylalanine to another amino acid, tyrosine.  The enzyme works with a molecule called tetrahydrobiopterin (BH4) to carry out this chemical reaction.   Tyrosine is used to make several types of hormones, certain chemicals that transmit signals in the brain (neurotransmitters), and a pigment called melanin, which gives hair and skin their color.  Tyrosine can also be broken down into smaller molecules that are used to produce energy.</p>
+related-health-condition/name: phenylketonuria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/phenylketonuria
+synonym(1): L-Phenylalanine,tetrahydrobiopterin:oxygen oxidoreductase (4-hydroxylating)
+synonym(2): PH4H_HUMAN
+synonym(3): Phenylalaninase
+synonym(4): Phenylalanine 4-Hydroxylase
+synonym(5): Phenylalanine 4-Monooxygenase
+synonym(6): PKU1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5053
+db-key(2)/db: OMIM
+db-key(2)/key: 612349
+reviewed: 2008-01
+published: 2018-04-17

@@ -1,0 +1,24 @@
+gene-symbol: YWHAE
+name: tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon
+ghr-page: https://ghr.nlm.nih.gov/gene/YWHAE
+text/text-role: function
+text/html: <p>The <i>YWHAE</i> gene provides instructions for making the 14-3-3 epsilon (ε) protein, which is part of the large 14-3-3 protein family. Proteins in this family attach (bind) to other proteins involved in cell signaling.  14-3-3 proteins either turn on (activate) or turn off (inactivate) these other proteins.   The 14-3-3ε protein helps to regulate a variety of processes including cell division and sensitivity to insulin, a hormone that helps control blood sugar levels.</p><p>The 14-3-3ε protein is active in tissues throughout the body, although its function is sometimes unclear.  In the brain, this protein is involved in directing the movement of nerve cells (neuronal migration) by binding to other proteins involved in this process.  It is thought that the 14-3-3ε protein is critical for proper neuronal migration and normal brain development.</p>
+related-health-condition(1)/name: Miller-Dieker syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/miller-dieker-syndrome
+related-health-condition(2)/name: schizophrenia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/schizophrenia
+synonym(1): 14-3-3 epsilon
+synonym(2): 14-3-3E
+synonym(3): 1433E_HUMAN
+synonym(4): KCIP-1
+synonym(5): mitochondrial import stimulation factor L subunit
+synonym(6): protein kinase C inhibitor protein-1
+synonym(7): tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon
+synonym(8): tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide
+synonym(9): tyrosine 3/tryptophan 5 -monooxygenase activation protein, epsilon polypeptide
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7531
+db-key(2)/db: OMIM
+db-key(2)/key: 605066
+reviewed: 2009-11
+published: 2018-04-17

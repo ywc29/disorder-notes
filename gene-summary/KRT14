@@ -1,0 +1,25 @@
+gene-symbol: KRT14
+name: keratin 14
+ghr-page: https://ghr.nlm.nih.gov/gene/KRT14
+text/text-role: function
+text/html: <p>The <i>KRT14</i> gene provides instructions for making a protein called keratin 14. Keratins are a group of tough, fibrous proteins that form the structural framework of certain cells, particularly cells that make up the skin, hair, and nails. Keratin 14 is specifically produced in cells called keratinocytes in the outer layer of the skin (the epidermis).</p><p>Keratin 14 partners with a similar protein, keratin 5 (produced from the <i>KRT5</i> gene), to form molecules called keratin intermediate filaments. These filaments assemble into strong networks that help attach keratinocytes together and anchor the epidermis to underlying layers of skin. The network of keratin intermediate filaments provides strength and resiliency to the skin and protects it from being damaged by friction and other everyday physical stresses.</p><p>Researchers believe that keratin 14 may also play a role in the formation of sweat glands and the development of patterned ridges on the skin of the hands and feet.  These ridges, called dermatoglyphs, are the basis for each person's unique fingerprints.</p>
+related-health-condition(1)/name: epidermolysis bullosa simplex
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/epidermolysis-bullosa-simplex
+related-health-condition(2)/name: Naegeli-Franceschetti-Jadassohn syndrome/dermatopathia pigmentosa reticularis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/naegeli-franceschetti-jadassohn-syndrome-dermatopathia-pigmentosa-reticularis
+synonym(1): CK14
+synonym(2): cytokeratin 14
+synonym(3): EBS3
+synonym(4): EBS4
+synonym(5): K1C14_HUMAN
+synonym(6): K14
+synonym(7): Keratin-14
+synonym(8): keratin 14 (epidermolysis bullosa simplex, Dowling-Meara, Koebner)
+synonym(9): keratin 14, type I
+synonym(10): Keratin, type I cytoskeletal 14
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3861
+db-key(2)/db: OMIM
+db-key(2)/key: 148066
+reviewed: 2013-05
+published: 2018-04-17

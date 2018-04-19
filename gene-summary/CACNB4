@@ -1,0 +1,24 @@
+gene-symbol: CACNB4
+name: calcium voltage-gated channel auxiliary subunit beta 4
+ghr-page: https://ghr.nlm.nih.gov/gene/CACNB4
+text/text-role: function
+text/html: <p>The <i>CACNB4</i> gene belongs to a family of genes that provide instructions for making calcium channels.  These channels, which transport positively charged calcium atoms (calcium ions) into cells, play a key role in a cell's ability to generate and transmit electrical signals.  Calcium ions are involved in many different cellular functions, including cell-to-cell communication, the tensing of muscle fibers (muscle contraction), and the regulation of certain genes.</p><p>Calcium channels are each made up of a large alpha-1 (α1) subunit, which forms the hole (pore) through which calcium ions can flow.  Each channel also includes several smaller subunits, which regulate the channel's activity and interact with various proteins inside and outside the cell.  The <i>CACNB4</i> gene provides instructions for making a regulatory subunit called beta-4 (β4).   This subunit is most often associated with calcium channels in the brain, particularly the part of the brain that is involved in coordinating movements (the cerebellum).</p><p>In the brain, calcium channels play an essential role in communication between nerve cells (neurons). These channels help control the release of neurotransmitters, which are chemicals that relay signals from one neuron to another. Researchers believe that calcium channels are also involved in the survival of neurons and the ability of these cells to change and adapt over time (plasticity).</p>
+related-health-condition(1)/name: episodic ataxia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/episodic-ataxia
+related-health-condition(2)/name: juvenile myoclonic epilepsy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-myoclonic-epilepsy
+synonym(1): CAB4
+synonym(2): CACB4_HUMAN
+synonym(3): CACNLB4
+synonym(4): calcium channel, voltage-dependent, beta 4 subunit
+synonym(5): dihydropyridine-sensitive L-type, calcium channel beta-4 subunit
+synonym(6): EA5
+synonym(7): EJM
+synonym(8): EJM4
+synonym(9): voltage dependent calcium channel beta 4 subunit
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 785
+db-key(2)/db: OMIM
+db-key(2)/key: 601949
+reviewed: 2012-06
+published: 2018-04-17

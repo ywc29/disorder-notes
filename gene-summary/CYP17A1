@@ -1,0 +1,27 @@
+gene-symbol: CYP17A1
+name: cytochrome P450 family 17 subfamily A member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/CYP17A1
+text/text-role: function
+text/html: <p>The <i>CYP17A1</i> gene provides instructions for making a member of the cytochrome P450 enzyme family. Like other cytochrome P450 enzymes, CYP17A1 is involved in the formation (synthesis) of steroid hormones. This group of hormones includes sex hormones such as testosterone and estrogen, which are needed for normal sexual development and reproduction; mineralocorticoids, which help regulate the body's salt and water balance; and glucocorticoids, which are involved in maintaining blood sugar levels and regulating the body's response to stress.</p><p>Steroid hormones are synthesized through a series of chemical reactions. The CYP17A1 enzyme performs two important reactions in this process. The enzyme has 17 alpha(α)-hydroxylase activity, converting pregnenalone  to 17-hydroxypregnenolone and progesterone to 17-hydroxyprogesterone. These hormone precursors are further processed to produce glucocorticoids and sex hormones. CYP17A1 also has 17,20-lyase activity, which converts 17-hydroxypregnenolone to dehydroepiandrosterone (DHEA). This reaction is integral to the production of sex hormones.</p>
+related-health-condition/name: 17 alpha-hydroxylase/17,20-lyase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/17-alpha-hydroxylase-17-20-lyase-deficiency
+synonym(1): 17-alpha-hydroxyprogesterone aldolase
+synonym(2): CPT7
+synonym(3): CYP17
+synonym(4): CYPXVII
+synonym(5): cytochrome P450 17A1
+synonym(6): cytochrome P450-C17
+synonym(7): cytochrome p450 XVIIA1
+synonym(8): cytochrome P450, family 17, subfamily A, polypeptide 1
+synonym(9): cytochrome P450, subfamily XVII (steroid 17-alpha-hydroxylase), adrenal hyperplasia
+synonym(10): cytochrome P450c17
+synonym(11): P450C17
+synonym(12): S17AH
+synonym(13): steroid 17-alpha-hydroxylase/17,20 lyase precursor
+synonym(14): steroid 17-alpha-monooxygenase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1586
+db-key(2)/db: OMIM
+db-key(2)/key: 609300
+reviewed: 2016-03
+published: 2018-04-17

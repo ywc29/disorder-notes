@@ -1,0 +1,26 @@
+gene-symbol: H19
+name: H19, imprinted maternally expressed transcript (non-protein coding)
+ghr-page: https://ghr.nlm.nih.gov/gene/H19
+text/text-role: function
+text/html: <p>The <i>H19</i> gene provides instructions for making a molecule called a noncoding RNA.  (RNA is a chemical cousin of DNA.)  Unlike many genes, the <i>H19</i> gene does not contain instructions for making a protein.  The function of the gene is unknown, but researchers believe that it may act as a tumor suppressor, keeping cells from growing and dividing too fast or in an uncontrolled way.  This gene is highly active in various tissues before birth and appears to play an important role in early development.</p><p>People inherit one copy of most genes from their mother and one copy from their father. Both copies are typically active, or "turned on," in cells. However, the activity of the <i>H19</i> gene depends on which parent it was inherited from. Only the copy inherited from a person's mother (the maternally inherited copy) is active; the copy inherited from the father (the paternally inherited copy) is not active. This sort of parent-specific difference in gene activation is caused by a phenomenon called genomic imprinting.</p><p><i>H19</i> is part of a cluster of genes on the short (p) arm of chromosome 11 that undergo genomic imprinting. Another gene in this cluster, <i>IGF2</i>, is also involved in growth and development. A nearby region of DNA known as imprinting center 1 (IC1) or the H19 differentially methylated region (H19 DMR) controls the parent-specific genomic imprinting of both the <i>H19</i> and <i>IGF2</i> genes. The IC1 region undergoes a process called methylation, which is a chemical reaction that attaches small molecules called methyl groups to certain segments of DNA. Methylation, which occurs during the formation of an egg or sperm cell, is a way of marking or "stamping" the parent of origin. The IC1 region is normally methylated only on the paternally inherited copy of chromosome 11.</p>
+related-health-condition(1)/name: Beckwith-Wiedemann syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/beckwith-wiedemann-syndrome
+related-health-condition(2)/name: breast cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
+related-health-condition(3)/name: Russell-Silver syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/russell-silver-syndrome
+synonym(1): ASM
+synonym(2): ASM1
+synonym(3): D11S813E
+synonym(4): H19, imprinted maternally expressed transcript
+synonym(5): LINC00008
+synonym(6): MGC4485
+synonym(7): PRO2605
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 283120
+db-key(2)/db: OMIM
+db-key(2)/key: 103280
+db-key(3)/db: OMIM
+db-key(3)/key: 616186
+reviewed: 2015-06
+published: 2018-04-17

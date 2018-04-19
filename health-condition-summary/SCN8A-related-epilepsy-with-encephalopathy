@@ -1,0 +1,27 @@
+name: SCN8A-related epilepsy with encephalopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/scn8a-related-epilepsy-with-encephalopathy
+text/text-role: description
+text/html: <p><i>SCN8A</i>-related epilepsy with encephalopathy is a condition characterized by recurrent seizures (epilepsy), abnormal brain function (encephalopathy), and intellectual disability. The signs and symptoms of this condition typically begin in infancy.</p><p>The seizures in <i>SCN8A</i>-related epilepsy with encephalopathy include involuntary muscle contractions that occur before age 1 (infantile spasms),  partial or complete loss of consciousness (absence seizures), involuntary muscle twitches (myoclonic seizures), or loss of consciousness with muscle rigidity and convulsions (tonic-clonic seizures). Most people with <i>SCN8A</i>-related epilepsy with encephalopathy have more than one type of seizure. The frequency of seizures in different individuals with this condition ranges from hundreds per day to fewer than one per month. In many individuals, the seizures are described as refractory because they do not respond to therapy with anti-epileptic medications.</p><p>Other signs and symptoms of <i>SCN8A</i>-related epilepsy with encephalopathy include intellectual disability that may be mild to severe. Some affected infants have normal early development but begin to lose previously acquired skills (developmental regression) and have a gradual loss in thinking ability (cognitive decline) when epilepsy develops. Problems with movement are common, and about half of affected infants cannot perform intentional movements. Behavior disorders may also occur.</p><p>In rare cases, individuals with this condition die unexpectedly for no known reason (sudden unexpected death in epilepsy or SUDEP).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SCN8A
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SCN8A
+synonym(1): early infantile epileptic encephalopathy 13
+synonym(2): EIEE13
+synonym(3): SCN8A encephalopathy
+db-key(1)/db: GTR
+db-key(1)/key: C3281191
+db-key(2)/db: GeneReviews
+db-key(2)/key: scn8a-ee
+db-key(3)/db: MeSH
+db-key(3)/key: D001925
+db-key(4)/db: MeSH
+db-key(4)/key: D004831
+db-key(5)/db: OMIM
+db-key(5)/key: 614558
+db-key(6)/db: Orphanet
+db-key(6)/key: 1934
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 431071000124107
+reviewed: 2017-08
+published: 2018-04-17

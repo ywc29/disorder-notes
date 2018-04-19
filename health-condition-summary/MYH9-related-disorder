@@ -1,0 +1,39 @@
+name: MYH9-related disorder
+ghr-page: https://ghr.nlm.nih.gov/condition/myh9-related-disorder
+text/text-role: description
+text/html: <p><i>MYH9</i>-related disorder is a condition that can have many signs and symptoms, including bleeding problems, hearing loss, kidney (renal) disease, and clouding of the lens of the eyes (cataracts).</p><p>The bleeding problems in people with <i>MYH9</i>-related disorder are due to thrombocytopenia. Thrombocytopenia is a reduced level of circulating platelets, which are cell fragments that normally assist with blood clotting. People with <i>MYH9</i>-related disorder typically experience easy bruising, and affected women have excessive bleeding during menstruation (menorrhagia). The platelets in people with <i>MYH9</i>-related disorder are larger than normal. These enlarged platelets have difficulty moving into tiny blood vessels like capillaries. As a result, the platelet level is even lower in these small vessels, further impairing clotting.</p><p>Some people with <i>MYH9</i>-related disorder develop hearing loss caused by abnormalities of the inner ear (sensorineural hearing loss). Hearing loss may be present from birth or can develop anytime into late adulthood.</p><p>An estimated 30 to 70 percent of people with <i>MYH9</i>-related disorder develop renal disease, usually beginning in early adulthood. The first sign of renal disease in <i>MYH9</i>-related disorder is typically protein or blood in the urine. Renal disease in these individuals particularly affects structures called glomeruli, which are clusters of tiny blood vessels that help filter waste products from the blood. The resulting damage to the kidneys can lead to kidney failure and end-stage renal disease (ESRD).</p><p>Some affected individuals develop cataracts in early adulthood that worsen over time.</p><p>Not everyone with <i>MYH9</i>-related disorder has all of the major features. All individuals with <i>MYH9</i>-related disorder have thrombocytopenia and enlarged platelets. Most commonly, affected individuals will also have hearing loss and renal disease. Cataracts are the least common sign of this disorder.</p><p><i>MYH9</i>-related disorder was previously thought to be four separate disorders: May-Hegglin anomaly, Epstein syndrome, Fechtner syndrome, and Sebastian syndrome. All of these disorders involved thrombocytopenia and enlarged platelets and were distinguished by some combination of hearing loss, renal disease, and cataracts. When it was discovered that these four conditions all had the same genetic cause, they were combined and renamed <i>MYH9</i>-related disorder.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: MYH9
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MYH9
+synonym(1): autosomal dominant MYH9 spectrum disorders
+synonym(2): MYH9-related macrothrombocytopenias
+synonym(3): MYH9RD
+db-key(1)/db: GTR
+db-key(1)/key: CN073381
+db-key(2)/db: GeneReviews
+db-key(2)/key: myh9
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: D72.0
+db-key(4)/db: MeSH
+db-key(4)/key: D013921
+db-key(5)/db: OMIM
+db-key(5)/key: 153640
+db-key(6)/db: OMIM
+db-key(6)/key: 153650
+db-key(7)/db: OMIM
+db-key(7)/key: 155100
+db-key(8)/db: OMIM
+db-key(8)/key: 600208
+db-key(9)/db: OMIM
+db-key(9)/key: 605249
+db-key(10)/db: Orphanet
+db-key(10)/key: 182050
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 234484005
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 234485006
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 236422008
+reviewed: 2011-04
+published: 2018-04-17

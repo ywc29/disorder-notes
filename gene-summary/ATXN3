@@ -1,0 +1,17 @@
+gene-symbol: ATXN3
+name: ataxin 3
+ghr-page: https://ghr.nlm.nih.gov/gene/ATXN3
+text/text-role: function
+text/html: <p>The ATXN3 gene provides instructions for making an enzyme called ataxin-3, which is found in cells throughout the body. Ataxin-3 is involved in a mechanism called the ubiquitin-proteasome system that destroys and gets rid of excess or damaged proteins. The molecule ubiquitin attaches (binds) to unneeded proteins and tags them to be broken down (degraded) within cells. Ataxin-3 removes (cleaves) the ubiquitin from these unwanted proteins just before they are degraded so that the ubiquitin can be used again. Due to its role in cleaving ubiquitin from proteins, ataxin-3 is known as a deubiquitinating enzyme.</p><p>Researchers believe that ataxin-3 also may be involved in regulating the first stage of protein production (transcription).</p>
+related-health-condition/name: spinocerebellar ataxia type 3
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/spinocerebellar-ataxia-type-3
+synonym(1): AT3
+synonym(2): ataxin-3
+synonym(3): ATX3
+synonym(4): ATX3_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4287
+db-key(2)/db: OMIM
+db-key(2)/key: 607047
+reviewed: 2011-02
+published: 2018-04-17

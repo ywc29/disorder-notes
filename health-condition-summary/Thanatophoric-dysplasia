@@ -1,0 +1,33 @@
+name: Thanatophoric dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/thanatophoric-dysplasia
+text/text-role: description
+text/html: <p>Thanatophoric dysplasia is a severe skeletal disorder characterized by extremely short limbs and folds of extra (redundant) skin on the arms and legs.  Other features of this condition include a narrow chest, short ribs, underdeveloped lungs, and an enlarged head with a large forehead and prominent, wide-spaced eyes.</p><p>Researchers have described two major forms of thanatophoric dysplasia, type I and type II.  Type I thanatophoric dysplasia is distinguished by the presence of curved thigh bones and flattened bones of the spine (platyspondyly).  Type II thanatophoric dysplasia is characterized by straight thigh bones and a moderate to severe skull abnormality called a cloverleaf skull.</p><p>The term thanatophoric is Greek for "death bearing."  Infants with thanatophoric dysplasia are usually stillborn or die shortly after birth from respiratory failure; however, a few affected individuals have survived into childhood with extensive medical help.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FGFR3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR3
+synonym(1): Dwarf, thanatophoric
+synonym(2): thanatophoric dwarfism
+synonym(3): thanatophoric short stature
+db-key(1)/db: GTR
+db-key(1)/key: C1300257
+db-key(2)/db: GTR
+db-key(2)/key: C1868678
+db-key(3)/db: GeneReviews
+db-key(3)/key: td
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: Q77.1
+db-key(5)/db: MeSH
+db-key(5)/key: D013796
+db-key(6)/db: OMIM
+db-key(6)/key: 187600
+db-key(7)/db: OMIM
+db-key(7)/key: 187601
+db-key(8)/db: Orphanet
+db-key(8)/key: 2655
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 29352008
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 389158007
+reviewed: 2012-10
+published: 2018-04-17

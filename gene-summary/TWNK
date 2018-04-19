@@ -1,0 +1,29 @@
+gene-symbol: TWNK
+name: twinkle mtDNA helicase
+ghr-page: https://ghr.nlm.nih.gov/gene/TWNK
+text/text-role: function
+text/html: <p>The <i>TWNK</i> gene provides instructions for making two very similar proteins called Twinkle and Twinky. These proteins are found in the mitochondria, which are structures in which a process called oxidative phosphorylation occurs to convert the energy from food into a form that cells can use.</p><p>Mitochondria each contain a small amount of DNA, known as mitochondrial DNA (mtDNA), which is essential for the normal function of these structures. The Twinkle protein is involved in the production and maintenance of mtDNA. It functions as a mitochondrial DNA helicase, which means it binds to DNA and temporarily unwinds the two spiral strands (double helix) of the DNA molecule. This unwinding is necessary for copying (replicating) mtDNA. The function of the Twinky protein is unknown.</p>
+related-health-condition(1)/name: ataxia neuropathy spectrum
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/ataxia-neuropathy-spectrum
+related-health-condition(2)/name: infantile-onset spinocerebellar ataxia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/infantile-onset-spinocerebellar-ataxia
+related-health-condition(3)/name: Perrault syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/perrault-syndrome
+related-health-condition(4)/name: progressive external ophthalmoplegia
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/progressive-external-ophthalmoplegia
+synonym(1): C10orf2
+synonym(2): chromosome 10 open reading frame 2
+synonym(3): PEO1
+synonym(4): PEO1_HUMAN
+synonym(5): progressive external ophthalmoplegia 1 protein
+synonym(6): T7 gp4-like protein with intramitochondrial nucleoid localization
+synonym(7): T7-like mitochondrial DNA helicase
+synonym(8): twinkle
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 56652
+db-key(2)/db: OMIM
+db-key(2)/key: 251880
+db-key(3)/db: OMIM
+db-key(3)/key: 606075
+reviewed: 2016-05
+published: 2018-04-17

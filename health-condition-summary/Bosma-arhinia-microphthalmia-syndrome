@@ -1,0 +1,31 @@
+name: Bosma arhinia microphthalmia syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/bosma-arhinia-microphthalmia-syndrome
+text/text-role: description
+text/html: <p>Bosma arhinia microphthalmia syndrome (BAMS) is a rare condition characterized by abnormalities of the nose and eyes and problems with puberty.</p><p>The key feature of BAMS is arhinia, which is the absence of an external nose. While most people with BAMS are born without a nose, some affected individuals have a severely underdeveloped (hypoplastic) nose. Affected individuals may also be missing the brain structure involved in the sense of smell (olfactory bulb). Because of these abnormalities, people with BAMS have an impaired ability to smell and, consequently, to taste.</p><p>In most people with BAMS, the eyeballs are abnormally small (microphthalmia) or absent (anophthalmia), which causes severe vision impairment or blindness. Additional eye abnormalities common in BAMS include a gap or hole in one of several structures of the eye (coloboma) and clouding of the lenses of the eyes (cataracts).</p><p>Additional head and face abnormalities that can occur in people with BAMS include a high arch or opening in the roof of the mouth (high-arched or cleft palate), absence of the sinuses behind the nose (paranasal sinuses), blockage of the nasal passages (choanal atresia), narrowing of the tear ducts (nasolacrimal duct stenosis), or a small upper jaw (hypoplastic maxilla). Many of these abnormalities contribute to difficulty breathing, particularly in affected babies. Some affected individuals have abnormal external ears.</p><p>Individuals with BAMS also have hypogonadotropic hypogonadism, which is a condition caused by reduced production of hormones that direct sexual development. Without treatment, these hormone problems often result in delayed puberty. Affected males may also have underdeveloped reproductive tissues and undescended testes (cryptorchidism).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SMCHD1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SMCHD1
+synonym(1): arhinia choanal atresia microphthalmia
+synonym(2): arhinia, choanal atresia, and microphthalmia
+synonym(3): arhinia, choanal atresia, microphthalmia, and hypogonadotropic hypogonadism
+synonym(4): BAM syndrome
+synonym(5): BAMS
+synonym(6): Bosma syndrome
+synonym(7): Gifford-Bosma syndrome
+synonym(8): hyposmia-nasal and ocular hypoplasia-hypogonadotropic hypogonadism syndrome
+synonym(9): Ruprecht Majewski syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1863878
+db-key(2)/db: MeSH
+db-key(2)/key: D000015
+db-key(3)/db: OMIM
+db-key(3)/key: 603457
+db-key(4)/db: Orphanet
+db-key(4)/key: 1135
+db-key(5)/db: Orphanet
+db-key(5)/key: 2250
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 720511000
+reviewed: 2017-07
+published: 2018-04-17

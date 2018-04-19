@@ -1,0 +1,39 @@
+gene-symbol: FHL1
+name: four and a half LIM domains 1
+ghr-page: https://ghr.nlm.nih.gov/gene/FHL1
+text/text-role: function
+text/html: <p>The <i>FHL1</i> gene provides instructions for making three versions (isoforms) of a protein that plays an important role in muscles used for movement (skeletal muscles) and in the heart (cardiac muscle). The full-length isoform is known as FHL1A, or sometimes just FHL1. The other two isoforms, which are shorter, are called FHL1B and FHL1C.</p><p>FHL1A is the best-studied of the three FHL1 isoforms. Studies suggest that  interactions between FHL1A and other proteins play a critical role in the assembly of sarcomeres, which are structures within muscle cells that are necessary for muscle tensing (contraction). These interactions also appear to be involved in chemical signaling within muscle cells, maintaining the structure of these cells, and influencing muscle growth and size.</p><p>Less is known about the FHL1B and FHL1C isoforms. FHL1B moves in and out of the nucleus and is also part of the nuclear envelope, which is a structure that surrounds the nucleus in cells. The protein's function in this structure is unknown. FHL1B and FHL1C are suspected to play roles in the normal structure and function of skeletal and cardiac muscles.</p>
+related-health-condition/name: Emery-Dreifuss muscular dystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/emery-dreifuss-muscular-dystrophy
+synonym(1): bA535K18.1
+synonym(2): FHL-1
+synonym(3): FHL1A
+synonym(4): FHL1B
+synonym(5): FLH1A
+synonym(6): four-and-a-half Lin11, Isl-1 and Mec-3 domains 1
+synonym(7): KYO-T
+synonym(8): KYOT
+synonym(9): LIM protein SLIMMER
+synonym(10): MGC111107
+synonym(11): RBMX1A
+synonym(12): RBMX1B
+synonym(13): skeletal muscle LIM-protein 1
+synonym(14): SLIM
+synonym(15): SLIM-1
+synonym(16): SLIM1
+synonym(17): SLIMMER
+synonym(18): XMPMA
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2273
+db-key(2)/db: OMIM
+db-key(2)/key: 300163
+db-key(3)/db: OMIM
+db-key(3)/key: 300695
+db-key(4)/db: OMIM
+db-key(4)/key: 300696
+db-key(5)/db: OMIM
+db-key(5)/key: 300717
+db-key(6)/db: OMIM
+db-key(6)/key: 300718
+reviewed: 2017-06
+published: 2018-04-17

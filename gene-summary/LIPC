@@ -1,0 +1,23 @@
+gene-symbol: LIPC
+name: lipase C, hepatic type
+ghr-page: https://ghr.nlm.nih.gov/gene/LIPC
+text/text-role: function
+text/html: <p>The <i>LIPC</i> gene provides instructions for making an enzyme called hepatic lipase. This enzyme is produced by liver cells and released into the bloodstream where it helps with the conversion of fat-transporting molecules called very low-density lipoproteins (VLDLs) and intermediate-density lipoproteins (IDLs) to low-density lipoproteins (LDLs). The enzyme also assists in transporting molecules called high-density lipoproteins (HDLs) that carry cholesterol and triglycerides from the blood to the liver, where the HDLs deposit these fats so they can be redistributed to other tissues or removed from the body. Hepatic lipase helps to keep these fat-transporting molecules in balance by regulating the formation of LDLs and the transport of HDLs. Normally, high levels of HDL (known as "good cholesterol") and low levels of LDL (known as "bad cholesterol") are protective against heart disease.</p>
+related-health-condition(1)/name: age-related macular degeneration
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
+related-health-condition(2)/name: hepatic lipase deficiency
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/hepatic-lipase-deficiency
+synonym(1): HDLCQ12
+synonym(2): hepatic lipase
+synonym(3): HL
+synonym(4): HTGL
+synonym(5): lipase C, hepatic
+synonym(6): lipase member C
+synonym(7): lipase, hepatic
+synonym(8): LIPH
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3990
+db-key(2)/db: OMIM
+db-key(2)/key: 151670
+reviewed: 2015-12
+published: 2018-04-17

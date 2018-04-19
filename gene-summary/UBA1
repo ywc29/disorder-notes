@@ -1,0 +1,28 @@
+gene-symbol: UBA1
+name: ubiquitin like modifier activating enzyme 1
+ghr-page: https://ghr.nlm.nih.gov/gene/UBA1
+text/text-role: function
+text/html: <p>The <i>UBA1</i> gene (also called <i>UBE1</i>) provides instructions for making the ubiquitin-activating enzyme E1.  This enzyme is involved in a process that targets proteins to be broken down (degraded) within cells.   Protein degradation is a normal process that removes damaged or unnecessary proteins and helps maintain the normal functions of cells.</p><p>Ubiquitin-activating enzyme E1 is part of the ubiquitin-proteasome system, which is the cell machinery that breaks down unneeded proteins.  The ubiquitin-proteasome system acts as the cell's quality control system by disposing of damaged, misshapen, and excess proteins. Ubiquitin-activating enzyme E1 is responsible for the first step in the ubiquitin-proteasome system; it turns on (activates) a small protein called ubiquitin.  With the assistance of other proteins, the active ubiquitin attaches to a targeted protein. When a chain of ubiquitin proteins is attached to the targeted protein, the protein is recognized and destroyed by a complex of enzymes called a proteasome.</p>
+related-health-condition/name: spinal muscular atrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/spinal-muscular-atrophy
+synonym(1): A1S9
+synonym(2): A1S9T
+synonym(3): A1ST
+synonym(4): AMCX1
+synonym(5): CFAP124
+synonym(6): GXP1
+synonym(7): MGC4781
+synonym(8): SMAX2
+synonym(9): UBA1, ubiquitin-activating enzyme E1 homolog A
+synonym(10): UBA1_HUMAN
+synonym(11): UBA1A
+synonym(12): UBE1
+synonym(13): UBE1X
+synonym(14): ubiquitin-activating enzyme E1
+synonym(15): ubiquitin-like modifier activating enzyme 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7317
+db-key(2)/db: OMIM
+db-key(2)/key: 314370
+reviewed: 2009-12
+published: 2018-04-17

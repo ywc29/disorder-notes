@@ -1,0 +1,25 @@
+name: Autosomal recessive cerebellar ataxia type 1
+ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-cerebellar-ataxia-type-1
+text/text-role: description
+text/html: <p>Autosomal recessive cerebellar ataxia type 1 (ARCA1) is a condition characterized by progressive problems with movement due to a loss (atrophy) of nerve cells in the part of the brain that coordinates movement (the cerebellum). Signs and symptoms of the disorder first appear in early to mid-adulthood. People with this condition initially experience impaired speech (dysarthria), problems with coordination and  balance (ataxia), or both. They may also have difficulty with movements that involve judging distance or scale (dysmetria). Other features of ARCA1 include abnormal eye movements (nystagmus) and problems following the movements of objects with the eyes. The movement problems are slowly progressive, often resulting in the need for a cane, walker, or wheelchair.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SYNE1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SYNE1
+synonym(1): ARCA1
+synonym(2): autosomal recessive spinocerebellar ataxia 8
+synonym(3): recessive ataxia of Beauce
+db-key(1)/db: GTR
+db-key(1)/key: C1853116
+db-key(2)/db: GeneReviews
+db-key(2)/key: syne1ca-ar
+db-key(3)/db: MeSH
+db-key(3)/key: D002524
+db-key(4)/db: OMIM
+db-key(4)/key: 610743
+db-key(5)/db: Orphanet
+db-key(5)/key: 88644
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 230233000
+reviewed: 2015-01
+published: 2018-04-17

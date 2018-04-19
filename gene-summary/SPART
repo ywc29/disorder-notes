@@ -1,0 +1,22 @@
+gene-symbol: SPART
+name: spartin
+ghr-page: https://ghr.nlm.nih.gov/gene/SPART
+text/text-role: function
+text/html: <p>The <i>SPART</i> gene provides instructions for producing a protein called spartin, whose function is not entirely understood.  Researchers believe that spartin may be involved in a variety of cell functions, from breaking down proteins to transporting materials from the cell surface into the cell (endocytosis). Spartin is found in a wide range of body tissues, including the nervous system.</p>
+related-health-condition/name: Troyer syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/troyer-syndrome
+synonym(1): KIAA0610
+synonym(2): SPARTIN
+synonym(3): spastic paraplegia 20
+synonym(4): spastic paraplegia 20 (Troyer syndrome)
+synonym(5): spastic paraplegia 20, spartin (Troyer syndrome)
+synonym(6): SPG20
+synonym(7): SPG20_HUMAN
+synonym(8): TAHCCP1
+synonym(9): trans-activated by hepatitis C virus core protein 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23111
+db-key(2)/db: OMIM
+db-key(2)/key: 607111
+reviewed: 2008-01
+published: 2018-04-17

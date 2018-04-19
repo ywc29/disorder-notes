@@ -1,0 +1,21 @@
+gene-symbol: MTRR
+name: 5-methyltetrahydrofolate-homocysteine methyltransferase reductase
+ghr-page: https://ghr.nlm.nih.gov/gene/MTRR
+text/text-role: function
+text/html: <p>The <i>MTRR</i> gene provides instructions for making an enzyme called methionine synthase reductase. This enzyme is required for the proper function of another enzyme called methionine synthase. Methionine synthase helps process amino acids, which are the building blocks of proteins. Specifically, it converts the amino acid homocysteine to another amino acid called methionine. After a period of being turned on (active), methionine synthase turns off (becomes inactive). Methionine synthase reductase reactivates methionine synthase so the enzyme can continue to produce methionine.</p>
+related-health-condition/name: homocystinuria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/homocystinuria
+synonym(1): cblE
+synonym(2): methionine synthase reductase
+synonym(3): MSR
+synonym(4): MTRR_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4552
+db-key(2)/db: OMIM
+db-key(2)/key: 182940
+db-key(3)/db: OMIM
+db-key(3)/key: 190685
+db-key(4)/db: OMIM
+db-key(4)/key: 602568
+reviewed: 2011-07
+published: 2018-04-17

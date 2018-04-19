@@ -1,0 +1,18 @@
+gene-symbol: TPO
+name: thyroid peroxidase
+ghr-page: https://ghr.nlm.nih.gov/gene/TPO
+text/text-role: function
+text/html: <p>The <i>TPO</i> gene provides instructions for making an enzyme called thyroid peroxidase. This enzyme plays a central role in the function of the thyroid gland, a butterfly-shaped tissue in the lower neck. Thyroid peroxidase assists the chemical reaction that adds iodine to a protein called thyroglobulin, a critical step in generating thyroid hormones. Thyroid hormones play an important role in regulating growth, brain development, and the rate of chemical reactions in the body (metabolism).</p><p>To function properly, thyroid peroxidase must be located in the cell membrane of certain thyroid cells, called follicular cells. Thyroid peroxidase has several different versions (isoforms), which vary by size and location within the cell. Some versions do not function because they are not located in the cell membrane.</p>
+related-health-condition/name: congenital hypothyroidism
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-hypothyroidism
+synonym(1): MSA
+synonym(2): PERT_HUMAN
+synonym(3): thyroid microsomal antigen
+synonym(4): thyroperoxidase
+synonym(5): TPX
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7173
+db-key(2)/db: OMIM
+db-key(2)/key: 606765
+reviewed: 2015-09
+published: 2018-04-17

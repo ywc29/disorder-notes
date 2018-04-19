@@ -1,0 +1,39 @@
+name: Vitamin D-dependent rickets
+ghr-page: https://ghr.nlm.nih.gov/condition/vitamin-d-dependent-rickets
+text/text-role: description
+text/html: <p>Vitamin D-dependent rickets is a disorder of bone development that leads to softening and weakening of the bones (rickets). There are several forms of the condition that are distinguished primarily by their genetic causes: type 1A (VDDR1A), type 1B (VDDR1B), and type 2A (VDDR2A). There is also evidence of a very rare form of the condition, called type 2B (VDDR2B), although not much is known about this form.</p><p>The signs and symptoms of vitamin D-dependent rickets begin within months after birth, and most are the same for all types of the condition. The weak bones often cause bone pain and delayed growth and have a tendency to fracture. When affected children begin to walk, they may develop abnormally curved (bowed) legs because the bones are too weak to bear weight. Impaired bone development also results in widening of the areas near the ends of bones where new bone forms (metaphyses), especially in the knees, wrists, and ribs. Some people with vitamin D-dependent rickets have dental abnormalities such as thin tooth enamel and frequent cavities. Poor muscle tone (hypotonia) and muscle weakness are also common in this condition, and some affected individuals develop seizures.</p><p>In vitamin D-dependent rickets, there is an imbalance of certain substances in the blood. An early sign in all types of the condition is low levels of the mineral calcium (hypocalcemia), which is essential for the normal formation of bones and teeth. Affected individuals also develop high levels of a hormone involved in regulating calcium levels called parathyroid hormone (PTH), which leads to a condition called secondary hyperparathyroidism. Low levels of a mineral called phosphate (hypophosphatemia) also occur in affected individuals. Vitamin D-dependent rickets types 1 and 2 can be grouped by blood levels of a hormone called calcitriol, which is the active form of vitamin D; individuals with VDDR1A and VDDR1B have abnormally low levels of calcitriol and individuals with VDDR2A and VDDR2B have abnormally high levels.</p><p>Hair loss (alopecia) can occur in VDDR2A, although not everyone with this form of the condition has alopecia. Affected individuals can have sparse or patchy hair or no hair at all on their heads. Some affected individuals are missing body hair as well.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: CYP2R1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CYP2R1
+related-gene(2)/gene-symbol: CYP27B1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CYP27B1
+related-gene(3)/gene-symbol: VDR
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/VDR
+synonym: VDDR
+db-key(1)/db: GTR
+db-key(1)/key: C0268689
+db-key(2)/db: GTR
+db-key(2)/key: C0342646
+db-key(3)/db: GTR
+db-key(3)/key: C2748783
+db-key(4)/db: MeSH
+db-key(4)/key: D012279
+db-key(5)/db: OMIM
+db-key(5)/key: 264700
+db-key(6)/db: OMIM
+db-key(6)/key: 277440
+db-key(7)/db: OMIM
+db-key(7)/key: 600081
+db-key(8)/db: OMIM
+db-key(8)/key: 600785
+db-key(9)/db: Orphanet
+db-key(9)/key: 289157
+db-key(10)/db: Orphanet
+db-key(10)/key: 93160
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 68295002
+reviewed: 2017-12
+published: 2018-04-17

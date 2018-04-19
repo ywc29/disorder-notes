@@ -1,0 +1,52 @@
+name: FG syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/fg-syndrome
+text/text-role: description
+text/html: <p>FG syndrome is a genetic condition that affects many parts of the body and occurs almost exclusively in males. "FG" represents the surname initials of the first family diagnosed with the disorder.</p><p>FG syndrome affects intelligence and behavior. Almost everyone with the condition has intellectual disability, which ranges from mild to severe.  Affected individuals tend to be friendly, inquisitive, and hyperactive, with a short attention span. Compared to people with other forms of intellectual disability, their socialization and daily living skills are strong, while verbal communication and language skills tend to be weaker.</p><p>The physical features of FG syndrome include weak muscle tone (hypotonia), broad thumbs, and wide first (big) toes. Abnormalities of the tissue connecting the left and right halves of the brain (the corpus callosum) are also common. Most affected individuals have constipation, and many have abnormalities of the anus such as an obstruction of the anal opening (imperforate anus). People with FG syndrome also tend to have a distinctive facial appearance including small, underdeveloped ears; a tall, prominent forehead; and outside corners of the eyes that point downward (down-slanting palpebral fissures).</p><p>Additional features seen in some people with FG syndrome include widely set eyes (hypertelorism), an upswept frontal hairline, and a large head compared to body size (relative macrocephaly). Other health problems have also been reported, including heart defects, seizures, undescended testes (cryptorchidism) in males, and a soft out-pouching in the lower abdomen (an inguinal hernia).</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene(1)/gene-symbol: CASK
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CASK
+related-gene(2)/gene-symbol: FLNA
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FLNA
+related-gene(3)/gene-symbol: MED12
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/MED12
+related-gene(4)/gene-symbol: UPF3B
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/UPF3B
+synonym(1): FGS
+synonym(2): FGS1
+synonym(3): Keller syndrome
+synonym(4): mental retardation, large head, imperforate anus, congenital hypotonia, and partial agenesis of the corpus callosum
+synonym(5): OKS
+synonym(6): Opitz-Kaveggia syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0220769
+db-key(2)/db: GTR
+db-key(2)/key: C1845119
+db-key(3)/db: GTR
+db-key(3)/key: C1845546
+db-key(4)/db: GTR
+db-key(4)/key: C1845567
+db-key(5)/db: GTR
+db-key(5)/key: C1845902
+db-key(6)/db: GeneReviews
+db-key(6)/key: fg
+db-key(7)/db: MeSH
+db-key(7)/key: D000015
+db-key(8)/db: MeSH
+db-key(8)/key: D038901
+db-key(9)/db: OMIM
+db-key(9)/key: 300321
+db-key(10)/db: OMIM
+db-key(10)/key: 300406
+db-key(11)/db: OMIM
+db-key(11)/key: 300422
+db-key(12)/db: OMIM
+db-key(12)/key: 300581
+db-key(13)/db: OMIM
+db-key(13)/key: 305450
+db-key(14)/db: Orphanet
+db-key(14)/key: 323
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 49984004
+reviewed: 2012-12
+published: 2018-04-17

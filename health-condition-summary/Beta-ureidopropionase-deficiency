@@ -1,0 +1,22 @@
+name: Beta-ureidopropionase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/beta-ureidopropionase-deficiency
+text/text-role: description
+text/html: <p>Beta-ureidopropionase deficiency is a disorder that causes excessive amounts of molecules called N-carbamyl-beta-aminoisobutyric acid and N-carbamyl-beta-alanine to be released in the urine. Neurological problems ranging from mild to severe also occur in some affected individuals.</p><p>People with beta-ureidopropionase deficiency can have low muscle tone (hypotonia), seizures, speech difficulties, developmental delay, intellectual disability, and autistic behaviors that affect communication and social interaction. Some people with this condition have an abnormally small head size (microcephaly); they may also have brain abnormalities that can be seen with medical imaging. Deterioration of the optic nerve, which carries visual information from the eyes to the brain, can lead to vision loss in this condition.</p><p>In some people with beta-ureidopropionase deficiency, the disease causes no neurological problems and can only be diagnosed by laboratory testing.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: UPB1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/UPB1
+synonym(1): beta-alanine synthase deficiency
+synonym(2): deficiency of beta-ureidopropionase
+db-key(1)/db: GTR
+db-key(1)/key: C1291512
+db-key(2)/db: MeSH
+db-key(2)/key: D011686
+db-key(3)/db: OMIM
+db-key(3)/key: 613161
+db-key(4)/db: Orphanet
+db-key(4)/key: 65287
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 124511000
+reviewed: 2014-08
+published: 2018-04-17

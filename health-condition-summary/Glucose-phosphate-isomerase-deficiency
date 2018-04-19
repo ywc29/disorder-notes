@@ -1,0 +1,30 @@
+name: Glucose phosphate isomerase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/glucose-phosphate-isomerase-deficiency
+text/text-role: description
+text/html: <p>Glucose phosphate isomerase (GPI) deficiency is an inherited disorder that affects red blood cells, which carry oxygen to the body's tissues. People with this disorder have a condition known as chronic hemolytic anemia, in which red blood cells are broken down (undergo hemolysis) prematurely, resulting in a shortage of red blood cells (anemia). Chronic hemolytic anemia can lead to unusually pale skin (pallor), yellowing of the eyes and skin (jaundice), extreme tiredness (fatigue), shortness of breath (dyspnea), and a rapid heart rate (tachycardia). An enlarged spleen (splenomegaly), an excess of iron in the blood, and small pebble-like deposits in the gallbladder or bile ducts (gallstones) may also occur in this disorder.</p><p>Hemolytic anemia in GPI deficiency can range from mild to severe. In the most severe cases, affected individuals do not survive to birth. Individuals with milder disease can survive into adulthood. People with any level of severity of the disorder can have episodes of more severe hemolysis, called hemolytic crises, which can be triggered by bacterial or viral infections.</p><p>A small percentage of individuals with GPI deficiency also have neurological problems, including intellectual disability and difficulty with coordinating movements (ataxia).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: GPI
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GPI
+synonym(1): glucose-6-phosphate isomerase deficiency
+synonym(2): glucosephosphate isomerase deficiency
+synonym(3): GPI deficiency
+synonym(4): nonspherocytic hemolytic anemia due to glucose phosphate isomerase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C3150730
+db-key(2)/db: GTR
+db-key(2)/key: CN072763
+db-key(3)/db: MeSH
+db-key(3)/key: D000745
+db-key(4)/db: OMIM
+db-key(4)/key: 613470
+db-key(5)/db: Orphanet
+db-key(5)/key: 712
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 124669001
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 234404008
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 52413004
+reviewed: 2013-12
+published: 2018-04-17

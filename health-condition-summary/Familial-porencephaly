@@ -1,0 +1,27 @@
+name: Familial porencephaly
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-porencephaly
+text/text-role: description
+text/html: <p>Familial porencephaly is part of a group of conditions called the <i>COL4A1</i>-related disorders. The conditions in this group have a range of signs and symptoms that involve fragile blood vessels. In familial porencephaly, fluid-filled cysts develop in the brain (porencephaly) during fetal development or soon after birth. These cysts typically occur in only one side of the brain and vary in size. The cysts are thought to be the result of bleeding within the brain (hemorrhagic stroke). People with this condition also have leukoencephalopathy, which is a change in a type of brain tissue called white matter that can be seen with magnetic resonance imaging (MRI).</p><p>During infancy, people with familial porencephaly typically have paralysis affecting one side of the body (infantile hemiplegia). Affected individuals may also have recurrent seizures (epilepsy), migraine headaches, speech problems, intellectual disability, and uncontrolled muscle tensing (dystonia). Some people are severely affected, and others may have no symptoms related to the brain cysts.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: COL4A1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/COL4A1
+synonym(1): autosomal dominant porencephaly type 1
+synonym(2): infantile hemiplegia with porencephaly
+synonym(3): porencephaly type 1
+db-key(1)/db: GTR
+db-key(1)/key: C1867983
+db-key(2)/db: GeneReviews
+db-key(2)/key: col4a1-dis
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q04.6
+db-key(4)/db: MeSH
+db-key(4)/key: D065708
+db-key(5)/db: OMIM
+db-key(5)/key: 175780
+db-key(6)/db: Orphanet
+db-key(6)/key: 99810
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 38353004
+reviewed: 2011-09
+published: 2018-04-17

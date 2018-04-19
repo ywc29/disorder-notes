@@ -1,0 +1,25 @@
+gene-symbol: CBFB
+name: core-binding factor beta subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/CBFB
+text/text-role: function
+text/html: <p>The <i>CBFB</i> gene provides instructions for making a protein called core binding factor beta (CBFβ), which is one piece of a protein complex known as core binding factor (CBF). CBFβ attaches (binds) to one of three related RUNX proteins (RUNX1, RUNX2, or RUNX3) to form different versions of CBF. These protein complexes bind to specific regions of DNA and help turn on (activate) certain genes.</p><p>The presence of CBFβ helps the complex bind to DNA and protects the RUNX protein from being broken down. The function of CBF depends on which RUNX protein it includes. Once bound to DNA, the RUNX1 protein controls the activity of genes involved in the development of blood cells (hematopoiesis). The RUNX2 protein regulates genes important for bone cell development and formation of the skeleton. The RUNX3 protein primarily affects genes involved in the development of nerve cells.</p>
+related-health-condition/name: core binding factor acute myeloid leukemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/core-binding-factor-acute-myeloid-leukemia
+synonym(1): CBF-beta
+synonym(2): core-binding factor subunit beta
+synonym(3): core-binding factor, beta subunit
+synonym(4): PEA2-beta
+synonym(5): PEBB_HUMAN
+synonym(6): PEBP2-beta
+synonym(7): PEBP2B
+synonym(8): polyomavirus enhancer-binding protein 2 beta subunit
+synonym(9): polyomavirus enhancer binding protein 2, beta subunit
+synonym(10): SL3-3 enhancer factor 1 beta subunit
+synonym(11): SL3-3 enhancer factor 1 subunit beta
+synonym(12): SL3/AKV core-binding factor beta subunit
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 865
+db-key(2)/db: OMIM
+db-key(2)/key: 121360
+reviewed: 2013-11
+published: 2018-04-17

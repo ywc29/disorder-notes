@@ -1,0 +1,17 @@
+gene-symbol: NOP56
+name: NOP56 ribonucleoprotein
+ghr-page: https://ghr.nlm.nih.gov/gene/NOP56
+text/text-role: function
+text/html: <p>The <i>NOP56</i> gene provides instructions for making a protein called nucleolar protein 56, which is found in the nucleus of nerve cells (neurons). This protein is mostly found in neurons within an area of the brain called the cerebellum, which is involved in coordinating movements. Nucleolar protein 56 is one part (subunit) of the ribonucleoprotein complex, which is composed of proteins and molecules of RNA, DNA's chemical cousin. The ribonucleoprotein complex is needed to make cellular structures called ribosomes, which process the cell's genetic instructions to create proteins.</p><p>Located within the <i>NOP56</i> gene, in an area known as intron 1, is a string of six DNA building blocks (nucleotides); this string, known as a hexanucleotide, is represented by the letters GGCCTG and is typically repeated 3 to 14 times within intron 1. The function of this repeated hexanucleotide is unclear.</p>
+related-health-condition/name: spinocerebellar ataxia type 36
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/spinocerebellar-ataxia-type-36
+synonym(1): NOL5A
+synonym(2): NOP56 ribonucleoprotein homolog
+synonym(3): nucleolar protein 5A (56kDa with KKE/D repeat)
+synonym(4): nucleolar protein 56
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10528
+db-key(2)/db: OMIM
+db-key(2)/key: 614154
+reviewed: 2014-12
+published: 2018-04-17

@@ -1,0 +1,52 @@
+name: Autoimmune lymphoproliferative syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/autoimmune-lymphoproliferative-syndrome
+text/text-role: description
+text/html: <p>Autoimmune lymphoproliferative syndrome (ALPS) is an inherited disorder in which the body cannot properly regulate the number of immune system cells (lymphocytes). ALPS is characterized by the production of an abnormally large number of lymphocytes (lymphoproliferation). Accumulation of excess lymphocytes results in enlargement of the lymph nodes (lymphadenopathy), the liver (hepatomegaly), and the spleen (splenomegaly).</p><p>People with ALPS have an increased risk of developing cancer of the immune system cells (lymphoma) and may also be at increased risk of developing other cancers.</p><p>Autoimmune disorders are also common in ALPS. Autoimmune disorders occur when the immune system malfunctions and attacks the body's own tissues and organs. Most of the autoimmune disorders associated with ALPS target and damage blood cells. For example, the immune system may attack red blood cells (autoimmune hemolytic anemia), white blood cells (autoimmune neutropenia), or platelets  (autoimmune thrombocytopenia). Less commonly, autoimmune disorders that affect other organs and tissues occur in people with ALPS. These disorders can damage the kidneys (glomerulonephritis), liver (autoimmune hepatitis), eyes (uveitis), nerves (Guillain-Barre syndrome), or the connective tissues (systemic lupus erythematosus) that provide strength and flexibility to structures throughout the body.</p><p>Skin problems, usually rashes or hives (urticaria), can occur in ALPS. Occasionally, affected individuals develop hardened skin with painful lumps or patches (panniculitis). Other rare signs and symptoms of ALPS include joint inflammation (arthritis), inflammation of blood vessels (vasculitis), mouth sores (oral ulcers), or an early loss of ovarian function (premature ovarian failure) may also occur in this disorder. Affected individuals can also develop neurological damage (organic brain syndrome) with symptoms that may include headaches, seizures, or a decline in intellectual functions (dementia).</p><p>ALPS can have different patterns of signs and symptoms, which are sometimes considered separate forms of the disorder. In the most common form, lymphoproliferation generally becomes apparent during childhood. Enlargement of the lymph nodes and spleen frequently occur in affected individuals. Autoimmune disorders typically develop several years later, most frequently as a combination of hemolytic anemia and thrombocytopenia, also called Evans syndrome. People with this classic form of ALPS have a greatly increased risk of developing lymphoma compared with the general population.</p><p>Other types of ALPS are very rare. In some affected individuals, severe lymphoproliferation begins around the time of birth, and autoimmune disorders and lymphoma develop at an early age. People with this pattern of signs and symptoms generally do not live beyond childhood. Another form of ALPS involves lymphoproliferation and the tendency to develop systemic lupus erythematosus. Individuals with this form of the disorder do not have an enlarged spleen.</p><p>Some people have signs and symptoms that resemble those of ALPS, but the specific pattern of these signs and symptoms or the genetic cause may be different than in other forms. Researchers disagree whether individuals with these non-classic forms should be considered to have ALPS or a separate condition.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: CASP8
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CASP8
+related-gene(2)/gene-symbol: CASP10
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CASP10
+related-gene(3)/gene-symbol: FAS
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/FAS
+related-gene(4)/gene-symbol: FASLG
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/FASLG
+related-gene(5)/gene-symbol: KRAS
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/KRAS
+related-gene(6)/gene-symbol: NRAS
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/NRAS
+synonym(1): ALPS
+synonym(2): Canale-Smith syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1328840
+db-key(2)/db: GTR
+db-key(2)/key: C1858968
+db-key(3)/db: GTR
+db-key(3)/key: C1866119
+db-key(4)/db: GTR
+db-key(4)/key: C1866120
+db-key(5)/db: GTR
+db-key(5)/key: C1866121
+db-key(6)/db: GTR
+db-key(6)/key: C2674723
+db-key(7)/db: GeneReviews
+db-key(7)/key: alps
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: D89.82
+db-key(9)/db: MeSH
+db-key(9)/key: D056735
+db-key(10)/db: OMIM
+db-key(10)/key: 601859
+db-key(11)/db: OMIM
+db-key(11)/key: 603909
+db-key(12)/db: OMIM
+db-key(12)/key: 607271
+db-key(13)/db: OMIM
+db-key(13)/key: 614470
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 702444009
+reviewed: 2014-07
+published: 2018-04-17

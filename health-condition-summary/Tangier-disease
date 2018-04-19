@@ -1,0 +1,30 @@
+name: Tangier disease
+ghr-page: https://ghr.nlm.nih.gov/condition/tangier-disease
+text/text-role: description
+text/html: <p>Tangier disease is an inherited disorder characterized by significantly reduced levels of high-density lipoprotein (HDL) in the blood. HDL transports cholesterol and certain fats called phospholipids from the body's tissues to the liver, where they are removed from the blood. HDL is often referred to as "good cholesterol" because high levels of this substance reduce the chances of developing heart and blood vessel (cardiovascular) disease. Because people with Tangier disease have very low levels of HDL, they have a moderately increased risk of cardiovascular disease.</p><p>Additional signs and symptoms of Tangier disease include a slightly elevated amount of fat in the blood (mild hypertriglyceridemia); disturbances in nerve function (neuropathy); and enlarged, orange-colored tonsils. Affected individuals often develop atherosclerosis, which is an accumulation of fatty deposits and scar-like tissue in the lining of the arteries. Other features of this condition may include an enlarged spleen (splenomegaly), an enlarged liver (hepatomegaly), clouding of the clear covering of the eye (corneal clouding), and type 2 diabetes.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ABCA1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ABCA1
+synonym(1): A-alphalipoprotein Neuropathy
+synonym(2): alpha High Density Lipoprotein Deficiency Disease
+synonym(3): Analphalipoproteinemia
+synonym(4): Cholesterol thesaurismosis
+synonym(5): Familial High Density Lipoprotein Deficiency Disease
+synonym(6): Familial Hypoalphalipoproteinemia
+synonym(7): HDL Lipoprotein Deficiency Disease
+synonym(8): Lipoprotein Deficiency Disease, HDL, Familial
+synonym(9): Tangier Disease Neuropathy
+synonym(10): Tangier Hereditary Neuropathy
+db-key(1)/db: GTR
+db-key(1)/key: C0039292
+db-key(2)/db: MeSH
+db-key(2)/key: D013631
+db-key(3)/db: OMIM
+db-key(3)/key: 205400
+db-key(4)/db: Orphanet
+db-key(4)/key: 31150
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 15346004
+reviewed: 2010-03
+published: 2018-04-17

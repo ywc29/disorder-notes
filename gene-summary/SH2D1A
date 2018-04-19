@@ -1,0 +1,24 @@
+gene-symbol: SH2D1A
+name: SH2 domain containing 1A
+ghr-page: https://ghr.nlm.nih.gov/gene/SH2D1A
+text/text-role: function
+text/html: <p>The <i>SH2D1A</i> gene provides instructions for making a protein called signaling lymphocyte activation molecule (SLAM) associated protein (SAP). SAP interacts with other proteins called SLAM family receptors to activate signaling pathways that are involved in the control of immune cells (lymphocytes). In particular, it helps regulate lymphocytes that destroy other cells (cytotoxic lymphocytes) and is necessary for the development of specialized lymphocytes called natural killer T cells. SAP also helps control immune reactions by triggering self-destruction (apoptosis) of lymphocytes when they are no longer needed.</p>
+related-health-condition/name: X-linked lymphoproliferative disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-lymphoproliferative-disease
+synonym(1): DSHP
+synonym(2): Duncan disease SH2-protein
+synonym(3): EBVS
+synonym(4): MTCP1
+synonym(5): SAP
+synonym(6): SH2 domain-containing protein 1A
+synonym(7): SH21A_HUMAN
+synonym(8): signaling lymphocyte activation molecule-associated protein
+synonym(9): SLAM-associated protein
+synonym(10): XLP
+synonym(11): XLPD
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4068
+db-key(2)/db: OMIM
+db-key(2)/key: 300490
+reviewed: 2010-08
+published: 2018-04-17

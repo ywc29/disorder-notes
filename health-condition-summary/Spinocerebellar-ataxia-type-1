@@ -1,0 +1,26 @@
+name: Spinocerebellar ataxia type 1
+ghr-page: https://ghr.nlm.nih.gov/condition/spinocerebellar-ataxia-type-1
+text/text-role: description
+text/html: <p>Spinocerebellar ataxia type 1 (SCA1) is a condition characterized by progressive problems with movement. People with this condition initially experience problems with coordination and balance (ataxia). Other signs and symptoms of SCA1 include speech and swallowing difficulties, muscle stiffness (spasticity), and weakness in the muscles that control eye movement (ophthalmoplegia). Eye muscle weakness leads to rapid, involuntary eye movements (nystagmus). Individuals with SCA1 may have difficulty processing, learning, and remembering information (cognitive impairment).</p><p>Over time, individuals with SCA1 may develop numbness, tingling, or pain in the arms and legs (sensory neuropathy); uncontrolled muscle tensing (dystonia); muscle wasting (atrophy); and muscle twitches (fasciculations). Rarely, rigidity, tremors, and involuntary jerking movements (chorea) have been reported in people who have been affected for many years.</p><p>Signs and symptoms of the disorder typically begin in early adulthood but can appear anytime from childhood to late adulthood. People with SCA1 typically survive 10 to 20 years after symptoms first appear.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: ATXN1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ATXN1
+synonym(1): olivopontocerebellar atrophy I
+synonym(2): SCA1
+synonym(3): spinocerebellar atrophy I
+synonym(4): type 1 spinocerebellar ataxia
+db-key(1)/db: GTR
+db-key(1)/key: C0752120
+db-key(2)/db: GeneReviews
+db-key(2)/key: sca1
+db-key(3)/db: MeSH
+db-key(3)/key: D020754
+db-key(4)/db: OMIM
+db-key(4)/key: 164400
+db-key(5)/db: Orphanet
+db-key(5)/key: 98755
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 715748006
+reviewed: 2011-02
+published: 2018-04-17

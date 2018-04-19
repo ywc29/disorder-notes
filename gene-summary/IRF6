@@ -1,0 +1,24 @@
+gene-symbol: IRF6
+name: interferon regulatory factor 6
+ghr-page: https://ghr.nlm.nih.gov/gene/IRF6
+text/text-role: function
+text/html: <p>The <i>IRF6</i> gene provides instructions for making a protein that plays an important role in early development. This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of particular genes.</p><p>The IRF6 protein is active in cells that give rise to tissues in the head and face. It is also involved in the development of other parts of the body, including the skin and genitals.</p>
+related-health-condition(1)/name: popliteal pterygium syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/popliteal-pterygium-syndrome
+related-health-condition(2)/name: van der Woude syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/van-der-woude-syndrome
+synonym(1): IRF6_HUMAN
+synonym(2): LPS
+synonym(3): OFC6
+synonym(4): PIT
+synonym(5): PPS
+synonym(6): VWS
+synonym(7): VWS1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3664
+db-key(2)/db: OMIM
+db-key(2)/key: 607199
+db-key(3)/db: OMIM
+db-key(3)/key: 608864
+reviewed: 2008-04
+published: 2018-04-17

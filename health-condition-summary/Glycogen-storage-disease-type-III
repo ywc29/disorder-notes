@@ -1,0 +1,33 @@
+name: Glycogen storage disease type III
+ghr-page: https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-iii
+text/text-role: description
+text/html: <p>Glycogen storage disease type III (also known as GSDIII or Cori disease) is an inherited disorder caused by the buildup of a complex sugar called glycogen in the body's cells. The accumulated glycogen is structurally abnormal and impairs the function of certain organs and tissues, especially the liver and muscles.</p><p>GSDIII is divided into types IIIa, IIIb, IIIc, and IIId, which are distinguished by their pattern of signs and symptoms. GSD types IIIa and IIIc mainly affect the liver and muscles, and GSD types IIIb and IIId typically affect only the liver. It is very difficult to distinguish between the types of GSDIII that affect the same tissues. GSD types IIIa and IIIb are the most common forms of this condition.</p><p>Beginning in infancy, individuals with any type of GSDIII may have low blood sugar (hypoglycemia), excess amounts of fats in the blood (hyperlipidemia), and elevated blood levels of liver enzymes. As they get older, children with this condition typically develop an enlarged liver (hepatomegaly). Liver size usually returns to normal during adolescence, but some affected individuals develop chronic liver disease (cirrhosis) and liver failure later in life. People with GSDIII often have slow growth because of their liver problems, which can lead to short stature. In a small percentage of people with GSDIII, noncancerous (benign) tumors called adenomas may form in the liver.</p><p>Individuals with GSDIIIa may develop muscle weakness (myopathy) later in life. These muscle problems can affect both heart (cardiac) muscle and the muscles that are used for movement (skeletal muscles). Muscle involvement varies greatly among affected individuals. The first signs and symptoms are typically poor muscle tone (hypotonia) and mild myopathy in early childhood. The myopathy may become severe by early to mid-adulthood. Some people with GSDIIIa have a weakened heart muscle (cardiomyopathy), but affected individuals usually do not experience heart failure. Other people affected with GSDIIIa have no cardiac muscle problems.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: AGL
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/AGL
+synonym(1): AGL deficiency
+synonym(2): Cori disease
+synonym(3): Cori's disease
+synonym(4): debrancher deficiency
+synonym(5): Forbes disease
+synonym(6): glycogen debrancher deficiency
+synonym(7): GSD III
+synonym(8): GSD3
+synonym(9): limit dextrinosis
+db-key(1)/db: GTR
+db-key(1)/key: C0017922
+db-key(2)/db: GeneReviews
+db-key(2)/key: gsd3
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E74.03
+db-key(4)/db: MeSH
+db-key(4)/key: D006010
+db-key(5)/db: OMIM
+db-key(5)/key: 232400
+db-key(6)/db: Orphanet
+db-key(6)/key: 366
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 66937008
+reviewed: 2014-12
+published: 2018-04-17

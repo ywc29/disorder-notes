@@ -1,0 +1,24 @@
+gene-symbol: EXOSC3
+name: exosome component 3
+ghr-page: https://ghr.nlm.nih.gov/gene/EXOSC3
+text/text-role: function
+text/html: <p>The <i>EXOSC3</i> gene provides instructions for making a protein known as exosome component 3. As its name suggests, this protein forms one part (subunit) of a large, multi-protein complex known as the RNA exosome. Within cells, this complex helps to process multiple types of RNA, which are chemical cousins of DNA, by cutting (cleaving) RNA molecules in certain places. The RNA exosome also breaks down (degrades) molecules of RNA when they are no longer needed. Appropriate processing and breakdown of RNA molecules is essential for the normal functioning of all cells.</p><p>Studies suggest that the activity of exosome component 3 is necessary for the normal development and growth of certain areas of the brain, particularly the cerebellum, which is the part of the brain that coordinates movement. Exosome component 3 also appears to be important for the survival of specialized nerve cells in the spinal cord called motor neurons, which play an essential role in muscle movement.</p>
+related-health-condition/name: pontocerebellar hypoplasia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pontocerebellar-hypoplasia
+synonym(1): bA3J10.7
+synonym(2): CGI-102
+synonym(3): exosome complex component RRP40
+synonym(4): exosome complex exonuclease RRP40
+synonym(5): hRrp-40
+synonym(6): hRrp40p
+synonym(7): p10
+synonym(8): PCH1B
+synonym(9): ribosomal RNA-processing protein 40
+synonym(10): RRP40
+synonym(11): Rrp40p
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51010
+db-key(2)/db: OMIM
+db-key(2)/key: 606489
+reviewed: 2014-11
+published: 2018-04-17

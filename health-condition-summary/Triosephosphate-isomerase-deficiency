@@ -1,0 +1,27 @@
+name: Triosephosphate isomerase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/triosephosphate-isomerase-deficiency
+text/text-role: description
+text/html: <p>Triosephosphate isomerase deficiency is a disorder characterized by a shortage of red blood cells (anemia), movement problems, increased susceptibility to infection, and muscle weakness that can affect breathing and heart function.</p><p>The anemia in this condition begins in infancy. Since the anemia results from the premature breakdown of red blood cells (hemolysis), it is known as hemolytic anemia. A shortage of red blood cells to carry oxygen throughout the body leads to extreme tiredness (fatigue), pale skin (pallor), and shortness of breath. When the red cells are broken down, iron and a molecule called bilirubin are released; individuals with triosephosphate isomerase deficiency have an excess of these substances circulating in the blood. Excess bilirubin in the blood causes jaundice, which is a yellowing of the skin and the whites of the eyes.</p><p>Movement problems typically become apparent by age 2 in people with triosephosphate isomerase deficiency. The movement problems are caused by impairment of motor neurons, which are specialized nerve cells in the brain and spinal cord that control muscle movement. This impairment leads to muscle weakness and wasting (atrophy) and causes the movement problems typical of triosephosphate isomerase deficiency, including involuntary muscle tensing (dystonia), tremors, and weak muscle tone (hypotonia). Affected individuals may also develop seizures.</p><p>Weakness of other muscles, such as the heart (a condition known as cardiomyopathy) and the muscle that separates the abdomen from the chest cavity (the diaphragm) can also occur in triosephosphate isomerase deficiency. Diaphragm weakness can cause breathing problems and ultimately leads to respiratory failure.</p><p>Individuals with triosephosphate isomerase deficiency are at increased risk of developing infections because they have poorly functioning white blood cells. These immune system cells normally recognize and attack foreign invaders, such as viruses and bacteria, to prevent infection. The most common infections in people with triosephosphate isomerase deficiency are bacterial infections of the respiratory tract.</p><p>People with triosephosphate isomerase deficiency often do not survive past childhood due to respiratory failure. In a few rare cases, affected individuals without severe nerve damage or muscle weakness have lived into adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: TPI1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TPI1
+synonym(1): deficiency of phosphotriose isomerase
+synonym(2): hereditary nonspherocytic hemolytic anemia due to triosephosphate isomerase deficiency
+synonym(3): TPI deficiency
+synonym(4): TPID
+synonym(5): triose phosphate isomerase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1860808
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D55.2
+db-key(3)/db: MeSH
+db-key(3)/key: D002239
+db-key(4)/db: OMIM
+db-key(4)/key: 615512
+db-key(5)/db: Orphanet
+db-key(5)/key: 868
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 44641000
+reviewed: 2014-08
+published: 2018-04-17

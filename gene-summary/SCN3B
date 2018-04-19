@@ -1,0 +1,10 @@
+gene-symbol: SCN3B
+name: sodium voltage-gated channel beta subunit 3
+ghr-page: https://ghr.nlm.nih.gov/gene/SCN3B
+related-health-condition(1)/name: Brugada syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/brugada-syndrome
+related-health-condition(2)/name: familial atrial fibrillation
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-atrial-fibrillation
+db-key/db: NCBI Gene
+db-key/key: 55800
+published: 2018-04-17

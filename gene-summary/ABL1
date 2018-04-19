@@ -1,0 +1,30 @@
+gene-symbol: ABL1
+name: ABL proto-oncogene 1, non-receptor tyrosine kinase
+ghr-page: https://ghr.nlm.nih.gov/gene/ABL1
+text/text-role: function
+text/html: <p>The <i>ABL1</i> gene provides instructions for making a protein involved in many processes in cells throughout the body. The ABL1 protein functions as a kinase, which is an enzyme that changes the activity of other proteins by adding a cluster of oxygen and phosphorus atoms (a phosphate group) at specific positions. The ABL1 kinase is normally turned off (inactive) and must be turned on (activated) to perform its functions.</p><p>The ABL1 kinase can be turned on by a number of different triggers and can add a phosphate group to many different proteins (also called substrates). This diversity allows ABL1 to be involved in a wide variety of cellular processes, including cell growth and division (proliferation), maturation (differentiation), and movement (migration). It can either aid in cell survival or trigger controlled cell death (apoptosis), depending on cellular conditions. The ABL1 kinase interacts with several proteins involved in the network of fibers called the actin cytoskeleton, which makes up the structural framework inside cells. These interactions help control cell migration and the attachment of cells to one another (adhesion), among many other processes. ABL1 can also help regulate the activity of other genes.</p><p>The <i>ABL1</i> gene belongs to a class of genes known as oncogenes. When mutated, oncogenes have the potential to cause normal cells to become cancerous.</p>
+related-health-condition/name: chronic myeloid leukemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/chronic-myeloid-leukemia
+synonym(1): Abelson tyrosine-protein kinase 1
+synonym(2): ABL
+synonym(3): bcr/abl
+synonym(4): bcr/c-abl oncogene protein
+synonym(5): c-ABL
+synonym(6): c-abl oncogene 1, receptor tyrosine kinase
+synonym(7): c-ABL1
+synonym(8): JTK7
+synonym(9): p150
+synonym(10): proto-oncogene c-Abl
+synonym(11): proto-oncogene tyrosine-protein kinase ABL1
+synonym(12): tyrosine-protein kinase ABL1 isoform a
+synonym(13): tyrosine-protein kinase ABL1 isoform b
+synonym(14): v-abl
+synonym(15): v-abl Abelson murine leukemia viral oncogene homolog 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 25
+db-key(2)/db: OMIM
+db-key(2)/key: 189980
+db-key(3)/db: OMIM
+db-key(3)/key: 613065
+reviewed: 2016-09
+published: 2018-04-17

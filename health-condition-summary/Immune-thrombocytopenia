@@ -1,0 +1,28 @@
+name: Immune thrombocytopenia
+ghr-page: https://ghr.nlm.nih.gov/condition/immune-thrombocytopenia
+text/text-role: description
+text/html: <p>Immune thrombocytopenia is a disorder characterized by a blood abnormality called thrombocytopenia, which is a shortage of blood cell fragments called platelets that are needed for normal blood clotting.</p><p>Affected individuals can develop red or purple spots on the skin caused by bleeding just under the skin's surface. Small spots of bleeding under the skin are called purpura and larger spots are called ecchymoses. People with immune thrombocytopenia can have significant bleeding episodes, such as nose bleeds (epistaxis) or bleeding in the moist lining (mucosae) of the mouth. In severe cases, individuals may have gastrointestinal bleeding or blood in the urine or stool, or heavy and prolonged menstrual bleeding (menorrhagia). In very rare instances, bleeding inside the skull (intracranial hemorrhage) can occur, which can be life-threatening. A greater reduction in platelet numbers is often associated with more frequent bleeding episodes and an increased risk of severe bleeding.</p><p>While immune thrombocytopenia can be diagnosed at any age, there are two periods when the condition is most likely to develop: early childhood and late adulthood. In children, the reduction in platelets is often sudden, but platelet levels usually return to normal levels within weeks to months. Immune thrombocytopenia in children is often preceded by a minor infection, such as an upper respiratory infection, but the relationship between the infection and immune thrombocytopenia is not clear. In adults, the development of immune thrombocytopenia is usually gradual and the condition tends to persist throughout life.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+synonym(1): autoimmune thrombocytopenia
+synonym(2): autoimmune thrombocytopenic purpura
+synonym(3): idiopathic thrombocytopenic purpura
+synonym(4): immune thrombocytopenic purpura
+synonym(5): ITP
+synonym(6): Werlhof disease
+db-key(1)/db: GTR
+db-key(1)/key: C0398650
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D69.3
+db-key(3)/db: MeSH
+db-key(3)/key: D016553
+db-key(4)/db: OMIM
+db-key(4)/key: 188030
+db-key(5)/db: Orphanet
+db-key(5)/key: 3002
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 234490009
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 2897005
+reviewed: 2017-06
+published: 2018-04-17

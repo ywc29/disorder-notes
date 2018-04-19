@@ -1,0 +1,30 @@
+name: Thrombotic thrombocytopenic purpura
+ghr-page: https://ghr.nlm.nih.gov/condition/thrombotic-thrombocytopenic-purpura
+text/text-role: description
+text/html: <p>Thrombotic thrombocytopenic purpura is a rare disorder that causes blood clots (thrombi) to form in small blood vessels throughout the body. These clots can cause serious medical problems if they block vessels and restrict blood flow to organs such as the brain, kidneys, and heart. Resulting complications can include neurological problems (such as personality changes, headaches, confusion, and slurred speech), fever, abnormal kidney function, abdominal pain, and heart problems.</p><p>Blood clots normally form to prevent excess blood loss at the site of an injury. In people with thrombotic thrombocytopenic purpura, clots develop in blood vessels even in the absence of injury. Blood clots are formed from clumps of cell fragments called platelets, which circulate in the blood and assist with clotting. Because a large number of platelets are used to make clots in people with thrombotic thrombocytopenic purpura, fewer platelets are available in the bloodstream. A reduced level of circulating platelets is known as thrombocytopenia. Thrombocytopenia can lead to small areas of bleeding just under the surface of the skin, resulting in purplish spots called purpura.</p><p>This disorder also causes red blood cells to break down (undergo hemolysis) prematurely. As blood squeezes past clots within blood vessels, red blood cells can break apart. A condition called hemolytic anemia occurs when red blood cells are destroyed faster than the body can replace them. This type of anemia leads to paleness, yellowing of the eyes and skin (jaundice), fatigue, shortness of breath, and a rapid heart rate.</p><p>There are two major forms of thrombotic thrombocytopenic purpura, an acquired (noninherited) form and a familial form. The acquired form usually appears in late childhood or adulthood. Affected individuals may have a single episode of signs and symptoms, or they may recur over time. The familial form of this disorder is much rarer and typically appears in infancy or early childhood. In people with the familial form, signs and symptoms often recur on a regular basis.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ADAMTS13
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ADAMTS13
+synonym(1): Familial Thrombotic Thrombocytopenia Purpura
+synonym(2): Microangiopathic hemolytic anemia
+synonym(3): Moschkowitz Disease
+synonym(4): Purpura, Thrombotic Thrombocytopenic
+synonym(5): Thrombotic microangiopathy, familial
+synonym(6): TTP
+db-key(1)/db: GTR
+db-key(1)/key: C1268935
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D69.42
+db-key(3)/db: MeSH
+db-key(3)/key: D011697
+db-key(4)/db: OMIM
+db-key(4)/key: 274150
+db-key(5)/db: Orphanet
+db-key(5)/key: 54057
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 373420004
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 78129009
+reviewed: 2008-10
+published: 2018-04-17

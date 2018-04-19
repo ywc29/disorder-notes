@@ -1,0 +1,22 @@
+gene-symbol: FLI1
+name: Fli-1 proto-oncogene, ETS transcription factor
+ghr-page: https://ghr.nlm.nih.gov/gene/FLI1
+text/text-role: function
+text/html: <p>The <i>FLI1</i> gene provides instructions for making the FLI protein, which controls the activity (transcription) of genes. Transcription is the first step in the process of producing proteins. The FLI protein is part of a group of related proteins, called the Ets family of transcription factors, that control transcription. The FLI protein attaches (binds) to certain regions of DNA and turns on (activates) the transcription of nearby genes. The proteins produced from these genes control many important cellular processes, such as cell growth and division (proliferation), maturation (differentiation), and survival. The FLI protein is found primarily in blood cells and is thought to regulate their development.</p>
+related-health-condition(1)/name: Ewing sarcoma
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/ewing-sarcoma
+related-health-condition(2)/name: Jacobsen syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/jacobsen-syndrome
+synonym(1): EWSR2
+synonym(2): FLI1_HUMAN
+synonym(3): Friend leukemia integration 1 transcription factor
+synonym(4): Friend leukemia virus integration 1
+synonym(5): proto-oncogene Fli-1
+synonym(6): SIC-1
+synonym(7): transcription factor ERGB
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2313
+db-key(2)/db: OMIM
+db-key(2)/key: 193067
+reviewed: 2012-05
+published: 2018-04-17

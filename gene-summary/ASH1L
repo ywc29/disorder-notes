@@ -1,0 +1,23 @@
+gene-symbol: ASH1L
+name: ASH1 like histone lysine methyltransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/ASH1L
+text/text-role: function
+text/html: <p>The <i>ASH1L</i> gene, also known as <i>KMT2H</i>, provides instructions for making an enzyme, called lysine-specific methyltransferase 2H, that is found in many organs and tissues of the body. Lysine-specific methyltransferase 2H functions as a histone methyltransferase. Histone methyltransferases are enzymes that modify proteins called histones. Histones are structural proteins that attach (bind) to DNA and give chromosomes their shape. By adding a molecule called a methyl group to histones (a process called methylation), histone methyltransferases control (regulate) the activity of certain genes. Lysine-specific methyltransferase 2H appears to turn on (activate) certain genes that are especially important for development of the brain.</p>
+related-health-condition/name: autism spectrum disorder
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autism-spectrum-disorder
+synonym(1): absent small and homeotic disks protein 1 homolog
+synonym(2): ASH1
+synonym(3): ash1 (absent, small, or homeotic)-like
+synonym(4): ASH1-like protein
+synonym(5): ASH1L1
+synonym(6): histone-lysine N-methyltransferase ASH1L
+synonym(7): huASH1
+synonym(8): KMT2H
+synonym(9): lysine N-methyltransferase 2H
+synonym(10): probable histone-lysine N-methyltransferase ASH1L
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 55870
+db-key(2)/db: OMIM
+db-key(2)/key: 607999
+reviewed: 2017-06
+published: 2018-04-17

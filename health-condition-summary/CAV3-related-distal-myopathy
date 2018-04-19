@@ -1,0 +1,22 @@
+name: CAV3-related distal myopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/cav3-related-distal-myopathy
+text/text-role: description
+text/html: <p><i>CAV3</i>-related distal myopathy is one form of distal myopathy, a group of disorders characterized by weakness and loss of function affecting the muscles farthest from the center of the body (distal muscles), such as those of the hands and feet. People with <i>CAV3</i>-related distal myopathy experience wasting (atrophy) and weakness of the small muscles in the hands and feet that generally become noticeable in adulthood. A bump or other sudden impact on the muscles, especially those in the forearms, may cause them to exhibit repetitive tensing (percussion-induced rapid contraction). The rapid contractions can continue for up to 30 seconds and may be painful. Overgrowth (hypertrophy) of the calf muscles can also occur in <i>CAV3</i>-related distal myopathy. The muscles closer to the center of the body (proximal muscles) such as the thighs and upper arms are normal in this condition.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: CAV3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CAV3
+synonym(1): distal myopathy, Tateyama type
+synonym(2): MPDT
+db-key(1)/db: GTR
+db-key(1)/key: C3280443
+db-key(2)/db: GeneReviews
+db-key(2)/key: cav
+db-key(3)/db: MeSH
+db-key(3)/key: D049310
+db-key(4)/db: OMIM
+db-key(4)/key: 614321
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 711265009
+reviewed: 2014-05
+published: 2018-04-17

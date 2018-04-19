@@ -1,0 +1,54 @@
+name: Chronic granulomatous disease
+ghr-page: https://ghr.nlm.nih.gov/condition/chronic-granulomatous-disease
+text/text-role: description
+text/html: <p>Chronic granulomatous disease is a disorder that causes the immune system to malfunction, resulting in a form of immunodeficiency. Immunodeficiencies are conditions in which the immune system is not able to protect the body from foreign invaders such as bacteria and fungi. Individuals with chronic granulomatous disease may have recurrent bacterial and fungal infections. People with this condition may also have areas of inflammation (granulomas) in various tissues that can result in damage to those tissues. The features of chronic granulomatous disease usually first appear in childhood, although some individuals do not show symptoms until later in life.</p><p>People with chronic granulomatous disease typically have at least one serious bacterial or fungal infection every 3 to 4 years. The lungs are the most frequent area of infection; pneumonia is a common feature of this condition. Individuals with chronic granulomatous disease may develop a type of fungal pneumonia, called mulch pneumonitis, which causes fever and shortness of breath after exposure to decaying organic materials such as mulch, hay, or dead leaves. Exposure to these organic materials and the numerous fungi involved in their decomposition causes people with chronic granulomatous disease to develop fungal infections in their lungs. Other common areas of infection in people with chronic granulomatous disease include the skin, liver, and lymph nodes.</p><p>Inflammation can occur in many different areas of the body in people with chronic granulomatous disease. Most commonly, granulomas occur in the gastrointestinal tract and the genitourinary tract. In many cases the intestinal wall is inflamed, causing a form of inflammatory bowel disease that varies in severity but can lead to stomach pain, diarrhea, bloody stool, nausea, and vomiting. Other common areas of inflammation in people with chronic granulomatous disease include the stomach, colon, and rectum, as well as the mouth, throat, and skin. Additionally, granulomas within the gastrointestinal tract can lead to tissue breakdown and pus production (abscesses). Inflammation in the stomach can prevent food from passing through to the intestines (gastric outlet obstruction), leading to an inability to digest food. These digestive problems cause vomiting after eating and weight loss. In the genitourinary tract, inflammation can occur in the kidneys and bladder. Inflammation of the lymph nodes (lymphadenitis) and bone marrow (osteomyelitis), which both produce immune cells, can lead to further impairment of the immune system.</p><p>Rarely, people with chronic granulomatous disease develop autoimmune disorders, which occur when the immune system malfunctions and attacks the body's own tissues and organs.</p><p>Repeated episodes of infection and inflammation reduce the life expectancy of individuals with chronic granulomatous disease; however, with treatment, most affected individuals live into mid- to late adulthood.</p>
+inheritance-pattern(1)/code: ar
+inheritance-pattern(1)/memo: autosomal recessive
+inheritance-pattern(2)/code: xr
+inheritance-pattern(2)/memo: X-linked recessive
+related-gene(1)/gene-symbol: CYBA
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CYBA
+related-gene(2)/gene-symbol: CYBB
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CYBB
+related-gene(3)/gene-symbol: NCF1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/NCF1
+related-gene(4)/gene-symbol: NCF2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/NCF2
+related-gene(5)/gene-symbol: NCF4
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/NCF4
+synonym(1): autosomal recessive chronic granulomatous disease
+synonym(2): CGD
+synonym(3): granulomatous disease, chronic
+synonym(4): X-linked chronic granulomatous disease
+db-key(1)/db: GTR
+db-key(1)/key: C1844376
+db-key(2)/db: GTR
+db-key(2)/key: C1856245
+db-key(3)/db: GTR
+db-key(3)/key: C1856251
+db-key(4)/db: GTR
+db-key(4)/key: C1856255
+db-key(5)/db: GTR
+db-key(5)/key: C3151409
+db-key(6)/db: GeneReviews
+db-key(6)/key: cgd
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: D71
+db-key(8)/db: MeSH
+db-key(8)/key: D006105
+db-key(9)/db: OMIM
+db-key(9)/key: 233690
+db-key(10)/db: OMIM
+db-key(10)/key: 233700
+db-key(11)/db: OMIM
+db-key(11)/key: 233710
+db-key(12)/db: OMIM
+db-key(12)/key: 306400
+db-key(13)/db: OMIM
+db-key(13)/key: 613960
+db-key(14)/db: Orphanet
+db-key(14)/key: 379
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 387759001
+reviewed: 2016-01
+published: 2018-04-17

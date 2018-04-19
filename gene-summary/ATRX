@@ -1,0 +1,31 @@
+gene-symbol: ATRX
+name: ATRX, chromatin remodeler
+ghr-page: https://ghr.nlm.nih.gov/gene/ATRX
+text/text-role: function
+text/html: <p>The <i>ATRX</i> gene provides instructions for making a protein that plays an essential role in normal development. Although the specific function of the ATRX protein is unknown, studies suggest that it helps regulate the activity (expression) of other genes through a process known as chromatin remodeling. Chromatin is the complex of DNA and protein that packages DNA into chromosomes. The structure of chromatin can be changed (remodeled) to alter how tightly DNA is packaged. Chromatin remodeling is one way gene expression is regulated during development. When DNA is tightly packed, gene expression is lower than when DNA is loosely packed.</p><p>The ATRX protein appears to regulate the expression of two genes, <i>HBA1</i> and <i>HBA2</i>, that are necessary for the production of hemoglobin. Hemoglobin is the protein in red blood cells that carries oxygen to cells throughout the body. Other genes regulated by the ATRX protein have not been identified.</p>
+related-health-condition/name: alpha thalassemia X-linked intellectual disability syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/alpha-thalassemia-x-linked-intellectual-disability-syndrome
+synonym(1): alpha thalassemia/mental retardation syndrome X-linked
+synonym(2): alpha thalassemia/mental retardation syndrome X-linked (RAD54 homolog, S. cerevisiae)
+synonym(3): ATR2
+synonym(4): ATRX_HUMAN
+synonym(5): DNA dependent ATPase and helicase
+synonym(6): helicase 2, X-linked
+synonym(7): MGC2094
+synonym(8): MRXHF1
+synonym(9): RAD54
+synonym(10): RAD54L
+synonym(11): SFM1
+synonym(12): SHS
+synonym(13): transcriptional regulator ATRX
+synonym(14): X-linked nuclear protein
+synonym(15): XH2
+synonym(16): XNP
+synonym(17): Zinc finger helicase
+synonym(18): ZNF-HX
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 546
+db-key(2)/db: OMIM
+db-key(2)/key: 300032
+reviewed: 2009-08
+published: 2018-04-17

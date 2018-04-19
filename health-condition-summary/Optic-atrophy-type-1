@@ -1,0 +1,45 @@
+name: Optic atrophy type 1
+ghr-page: https://ghr.nlm.nih.gov/condition/optic-atrophy-type-1
+text/text-role: description
+text/html: <p>Optic atrophy type 1 is a condition that often causes slowly worsening vision, usually beginning in childhood. People with optic atrophy type 1 typically experience a narrowing of their field of vision (tunnel vision). Affected individuals gradually lose their sight as their field of vision becomes smaller. Both eyes are usually affected equally, but the severity of the vision loss varies widely, even among affected members of the same family, ranging from nearly normal vision to complete blindness.</p><p>In addition to vision loss, people with optic atrophy type 1 frequently have problems with color vision (color vision deficiency) that make it difficult or impossible to distinguish between shades of blue and green.</p><p>In the early stages of the condition, individuals with optic atrophy type 1 experience a progressive loss of certain cells within the retina, which is a specialized light-sensitive tissue that lines the back of the eye. The loss of these cells (known as retinal ganglion cells) is followed by the degeneration (atrophy) of the nerves that relay visual information from the eye to the brain (optic nerves), which results in further vision loss. Atrophy causes these nerves to have an abnormally pale appearance (pallor), which can be seen during an eye examination.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: OPA1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/OPA1
+synonym(1): ADOA
+synonym(2): autosomal dominant optic atrophy
+synonym(3): autosomal dominant optic atrophy Kjer type
+synonym(4): DOA
+synonym(5): dominant optic atrophy
+synonym(6): Kjer type optic atrophy
+synonym(7): Kjer's optic atrophy
+synonym(8): optic atrophy, autosomal dominant
+synonym(9): optic atrophy, hereditary, autosomal dominant
+synonym(10): optic atrophy, juvenile
+synonym(11): optic atrophy, Kjer type
+db-key(1)/db: GTR
+db-key(1)/key: C0338508
+db-key(2)/db: GeneReviews
+db-key(2)/key: opa
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: H47.21
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: H47.22
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: H47.211
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: H47.212
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: H47.213
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: H47.219
+db-key(9)/db: MeSH
+db-key(9)/key: D029241
+db-key(10)/db: OMIM
+db-key(10)/key: 165500
+db-key(11)/db: Orphanet
+db-key(11)/key: 103
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 2065009
+reviewed: 2017-08
+published: 2018-04-17

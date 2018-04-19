@@ -1,0 +1,28 @@
+name: Familial male-limited precocious puberty
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-male-limited-precocious-puberty
+text/text-role: description
+text/html: <p>Familial male-limited precocious puberty is a condition that causes early sexual development in males; females are not affected. Boys with this disorder begin exhibiting the signs of puberty in early childhood, between the ages of 2 and 5. Signs of male puberty include a deepening voice, acne, increased body hair, underarm odor, growth of the penis and testes, and spontaneous erections. Changes in behavior, such as increased aggression and early interest in sex, may also occur. Without treatment, affected boys grow quickly at first, but they stop growing earlier than usual. As a result, they tend to be shorter in adulthood compared with other members of their family.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: LHCGR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LHCGR
+synonym(1): familial gonadotrophin-independent sexual precocity
+synonym(2): GIPP
+synonym(3): gonadotrophin-independent precocious puberty
+synonym(4): precocious pseudopuberty
+synonym(5): pubertas praecox
+synonym(6): testotoxicosis
+db-key(1)/db: GTR
+db-key(1)/key: C0342549
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E29.0
+db-key(3)/db: MeSH
+db-key(3)/key: D011629
+db-key(4)/db: OMIM
+db-key(4)/key: 176410
+db-key(5)/db: Orphanet
+db-key(5)/key: 3000
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 237818003
+reviewed: 2012-08
+published: 2018-04-17

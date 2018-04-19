@@ -1,0 +1,77 @@
+name: Walker-Warburg syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/walker-warburg-syndrome
+text/text-role: description
+text/html: <p>Walker-Warburg syndrome is an inherited disorder that affects development of the muscles, brain, and eyes. It is the most severe of a group of genetic conditions known as congenital muscular dystrophies, which cause muscle weakness and wasting (atrophy) beginning very early in life. The signs and symptoms of Walker-Warburg syndrome are present at birth or in early infancy. Because of the severity of the problems caused by Walker-Warburg syndrome, most affected individuals do not survive past age 3.</p><p>Walker-Warburg syndrome affects the skeletal muscles, which are muscles the body uses for movement. Affected babies have weak muscle tone (hypotonia) and are sometimes described as "floppy." The muscle weakness worsens over time.</p><p>Walker-Warburg syndrome also affects the brain; individuals with this condition typically have a brain abnormality called cobblestone lissencephaly, in which the surface of the brain lacks the normal folds and grooves and instead develops a bumpy, irregular appearance (like that of cobblestones). These individuals may also have a buildup of fluid in the brain (hydrocephalus) or abnormalities of certain parts of the brain, including a region called the cerebellum and the part of the brain that connects to the spinal cord (the brainstem). These changes in the structure of the brain lead to significantly delayed development and intellectual disability. Some individuals with Walker-Warburg syndrome experience seizures.</p><p>Eye abnormalities are also characteristic of Walker-Warburg syndrome. These can include unusually small eyeballs (microphthalmia), enlarged eyeballs caused by increased pressure in the eyes (buphthalmos), clouding of the lenses of the eyes (cataracts), and problems with the nerve that relays visual information from the eyes to the brain (the optic nerve). These eye problems lead to vision impairment in affected individuals.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: B3GALNT2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/B3GALNT2
+related-gene(2)/gene-symbol: B4GAT1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/B4GAT1
+related-gene(3)/gene-symbol: DAG1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/DAG1
+related-gene(4)/gene-symbol: FKRP
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/FKRP
+related-gene(5)/gene-symbol: FKTN
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/FKTN
+related-gene(6)/gene-symbol: ISPD
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/ISPD
+related-gene(7)/gene-symbol: LARGE1
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/LARGE1
+related-gene(8)/gene-symbol: POMGNT1
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/POMGNT1
+related-gene(9)/gene-symbol: POMGNT2
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/POMGNT2
+related-gene(10)/gene-symbol: POMK
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/POMK
+related-gene(11)/gene-symbol: POMT1
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/POMT1
+related-gene(12)/gene-symbol: POMT2
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/POMT2
+related-gene(13)/gene-symbol: RXYLT1
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/RXYLT1
+synonym(1): cerebroocular dysplasia-muscular dystrophy syndrome
+synonym(2): Chemke syndrome
+synonym(3): COD-MD syndrome
+synonym(4): HARD syndrome
+synonym(5): hydrocephalus, agyria, and retinal dysplasia
+synonym(6): MDDGA
+synonym(7): muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type A
+synonym(8): muscular dystrophy-dystroglycanopathy [with brain and eye anomalies], type A
+synonym(9): Walker-Warburg congenital muscular dystrophy
+db-key(1)/db: GTR
+db-key(1)/key: C0265221
+db-key(2)/db: GeneReviews
+db-key(2)/key: cmd-overview
+db-key(3)/db: MeSH
+db-key(3)/key: D058494
+db-key(4)/db: OMIM
+db-key(4)/key: 236670
+db-key(5)/db: OMIM
+db-key(5)/key: 253800
+db-key(6)/db: OMIM
+db-key(6)/key: 613150
+db-key(7)/db: OMIM
+db-key(7)/key: 613153
+db-key(8)/db: OMIM
+db-key(8)/key: 613154
+db-key(9)/db: OMIM
+db-key(9)/key: 614643
+db-key(10)/db: OMIM
+db-key(10)/key: 614830
+db-key(11)/db: OMIM
+db-key(11)/key: 615041
+db-key(12)/db: OMIM
+db-key(12)/key: 615181
+db-key(13)/db: OMIM
+db-key(13)/key: 615249
+db-key(14)/db: OMIM
+db-key(14)/key: 615287
+db-key(15)/db: OMIM
+db-key(15)/key: 616538
+db-key(16)/db: Orphanet
+db-key(16)/key: 899
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 111504002
+reviewed: 2017-01
+published: 2018-04-17

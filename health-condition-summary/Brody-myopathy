@@ -1,0 +1,21 @@
+name: Brody myopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/brody-myopathy
+text/text-role: description
+text/html: <p>Brody myopathy is a condition that affects the skeletal muscles, which are the muscles used for movement. Affected individuals experience muscle cramping and stiffening after exercise or other strenuous activity, especially in cold temperatures. These symptoms typically begin in childhood. They are usually painless, but in some cases can cause mild discomfort. The muscles usually relax after a few minutes of rest. Most commonly affected are the muscles of the arms, legs, and face (particularly the eyelids).</p><p>In some people with Brody myopathy, exercise leads to the breakdown of muscle tissue (rhabdomyolysis). The destruction of muscle tissue releases a protein called myoglobin, which is processed by the kidneys and released in the urine (myoglobinuria). Myoglobin causes the urine to be red or brown.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: ATP2A1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ATP2A1
+synonym: Brody disease
+db-key(1)/db: GTR
+db-key(1)/key: C1832918
+db-key(2)/db: MeSH
+db-key(2)/key: D009135
+db-key(3)/db: OMIM
+db-key(3)/key: 601003
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 703530005
+reviewed: 2012-01
+published: 2018-04-17

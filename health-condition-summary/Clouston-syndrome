@@ -1,0 +1,28 @@
+name: Clouston syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/clouston-syndrome
+text/text-role: description
+text/html: <p>Clouston syndrome is a form of ectodermal dysplasia, a group of about 150 conditions characterized by abnormal development of some or all of the ectodermal structures, which include the skin, hair, nails, teeth, and sweat glands. Specifically, Clouston syndrome is characterized by abnormalities of the hair, nails, and skin, with the teeth and sweat glands being unaffected.</p><p>In infants with Clouston syndrome, scalp hair is sparse, patchy, and lighter in color than the hair of other family members; it is also fragile and easily broken. By puberty, the hair problems may worsen until all the hair on the scalp is lost (total alopecia). The eyelashes, eyebrows, underarm (axillary) hair, and pubic hair are also sparse or absent.</p><p>Abnormal growth of fingernails and toenails (nail dystrophy) is also characteristic of Clouston syndrome. The nails may appear white in the first years of life. They grow slowly and gradually become thick and misshapen. In some people with Clouston syndrome, nail dystrophy is the most noticeable feature of the disorder.</p><p>Many people with Clouston syndrome have thick skin on the palms of the hands and soles of the feet (palmoplantar hyperkeratosis); areas of the skin, especially over the joints, that are darker in color than the surrounding skin (hyperpigmentation); and widened and rounded tips of the fingers (clubbing).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: GJB6
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GJB6
+synonym(1): Clouston hidrotic ectodermal dysplasia
+synonym(2): Clouston's syndrome
+synonym(3): ECTD2
+synonym(4): ectodermal dysplasia 2, Clouston type
+synonym(5): HED2
+synonym(6): hidrotic ectodermal dysplasia 2
+db-key(1)/db: GTR
+db-key(1)/key: C0162361
+db-key(2)/db: GeneReviews
+db-key(2)/key: ed2
+db-key(3)/db: MeSH
+db-key(3)/key: D004476
+db-key(4)/db: OMIM
+db-key(4)/key: 129500
+db-key(5)/db: Orphanet
+db-key(5)/key: 189
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 54209007
+reviewed: 2014-03
+published: 2018-04-17

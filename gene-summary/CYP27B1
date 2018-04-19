@@ -1,0 +1,30 @@
+gene-symbol: CYP27B1
+name: cytochrome P450 family 27 subfamily B member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/CYP27B1
+text/text-role: function
+text/html: <p>The <i>CYP27B1</i> gene provides instructions for making an enzyme called 1-alpha-hydroxylase (1α-hydroxylase). This enzyme carries out the second of two reactions to convert vitamin D to its active form, 1,25-dihydroxyvitamin D<sub>3</sub>, also known as calcitriol. Vitamin D can be acquired from foods in the diet or can be made in the body with the help of sunlight exposure. When active, this vitamin is involved in maintaining the proper balance of several minerals in the body, including calcium and phosphate, which are essential for the normal formation of bones and teeth. One of vitamin D's major roles is to control the absorption of calcium and phosphate from the intestines into the bloodstream. Vitamin D is also involved in several processes unrelated to bone and tooth formation.</p>
+related-health-condition(1)/name: autoimmune Addison disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autoimmune-addison-disease
+related-health-condition(2)/name: multiple sclerosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-sclerosis
+related-health-condition(3)/name: vitamin D-dependent rickets
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/vitamin-d-dependent-rickets
+synonym(1): 1alpha(OH)ase
+synonym(2): 25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial
+synonym(3): 25 hydroxyvitamin D3-1-alpha hydroxylase
+synonym(4): 25-OHD-1 alpha-hydroxylase
+synonym(5): CYP1alpha
+synonym(6): CYP27B
+synonym(7): cytochrome p450 27B1
+synonym(8): cytochrome P450 subfamily XXVIIB polypeptide 1
+synonym(9): cytochrome P450, family 27, subfamily B, polypeptide 1
+synonym(10): cytochrome P450C1 alpha
+synonym(11): cytochrome P450VD1-alpha
+synonym(12): P450c1
+synonym(13): VD3 1A hydroxylase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1594
+db-key(2)/db: OMIM
+db-key(2)/key: 609506
+reviewed: 2017-12
+published: 2018-04-17

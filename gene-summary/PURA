@@ -1,0 +1,21 @@
+gene-symbol: PURA
+name: purine rich element binding protein A
+ghr-page: https://ghr.nlm.nih.gov/gene/PURA
+text/text-role: function
+text/html: <p>The <i>PURA</i> gene provides instructions for making a protein called Pur-alpha (Purα), which is able to attach (bind) to DNA and RNA (a molecular cousin of DNA). This protein has multiple roles in cells, including controlling the activity of genes (gene transcription) and aiding in the copying (replication) of DNA.</p><p>The Purα protein is important for normal brain development. The protein helps direct the growth and division of nerve cells (neurons). It may also be involved in the formation or maturation of myelin, the protective substance that covers nerves and promotes the efficient transmission of nerve impulses.</p>
+related-health-condition(1)/name: 5q31.3 microdeletion syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/5q313-microdeletion-syndrome
+related-health-condition(2)/name: PURA syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pura-syndrome
+synonym(1): MRD31
+synonym(2): PUR-ALPHA
+synonym(3): PUR1
+synonym(4): PURALPHA
+synonym(5): purine-rich single-stranded DNA-binding protein alpha
+synonym(6): transcriptional activator protein Pur-alpha
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5813
+db-key(2)/db: OMIM
+db-key(2)/key: 600473
+reviewed: 2017-08
+published: 2018-04-17

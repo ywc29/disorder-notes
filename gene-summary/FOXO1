@@ -1,0 +1,8 @@
+gene-symbol: FOXO1
+name: forkhead box O1
+ghr-page: https://ghr.nlm.nih.gov/gene/FOXO1
+related-health-condition/name: keratoconus
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/keratoconus
+db-key/db: NCBI Gene
+db-key/key: 2308
+published: 2018-04-17

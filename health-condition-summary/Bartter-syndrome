@@ -1,0 +1,52 @@
+name: Bartter syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/bartter-syndrome
+text/text-role: description
+text/html: <p>Bartter syndrome is a group of very similar kidney disorders that cause an imbalance of potassium, sodium, chloride, and related molecules in the body.</p><p>In some cases, Bartter syndrome becomes apparent before birth. The disorder can cause polyhydramnios, which is an increased volume of fluid surrounding the fetus (amniotic fluid). Polyhydramnios increases the risk of premature birth.</p><p>Beginning in infancy, affected individuals often fail to grow and gain weight at the expected rate (failure to thrive). They lose excess amounts of salt (sodium chloride) in their urine, which leads to dehydration, constipation, and increased urine production (polyuria). In addition, large amounts of calcium are lost through the urine (hypercalciuria), which can cause weakening of the bones (osteopenia). Some of the calcium is deposited in the kidneys as they are concentrating urine, leading to hardening of the kidney tissue (nephrocalcinosis). Bartter syndrome is also characterized by low levels of potassium in the blood (hypokalemia), which can result in muscle weakness, cramping, and fatigue. Rarely, affected children develop hearing loss caused by abnormalities in the inner ear (sensorineural deafness).</p><p>Two major forms of Bartter syndrome are distinguished by their age of onset and severity. One form begins before birth (antenatal) and is often life-threatening. The other form, often called the classical form, begins in early childhood and tends to be less severe. Once the genetic causes of Bartter syndrome were identified, researchers also split the disorder into different types based on the genes involved. Types I, II, and IV have the features of antenatal Bartter syndrome. Because type IV is also associated with hearing loss, it is sometimes called antenatal Bartter syndrome with sensorineural deafness. Type III usually has the features of classical Bartter syndrome.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: BSND
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BSND
+related-gene(2)/gene-symbol: CLCNKA
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CLCNKA
+related-gene(3)/gene-symbol: CLCNKB
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CLCNKB
+related-gene(4)/gene-symbol: KCNJ1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNJ1
+related-gene(5)/gene-symbol: SLC12A1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC12A1
+synonym(1): aldosteronism with hyperplasia of the adrenal cortex
+synonym(2): Bartter disease
+synonym(3): Bartter's syndrome
+synonym(4): juxtaglomerular hyperplasia with secondary aldosteronism
+db-key(1)/db: GTR
+db-key(1)/key: C0004775
+db-key(2)/db: GTR
+db-key(2)/key: C1846343
+db-key(3)/db: GTR
+db-key(3)/key: C1865270
+db-key(4)/db: GTR
+db-key(4)/key: C2751312
+db-key(5)/db: GTR
+db-key(5)/key: CN239220
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: E26.81
+db-key(7)/db: MeSH
+db-key(7)/key: D001477
+db-key(8)/db: OMIM
+db-key(8)/key: 241200
+db-key(9)/db: OMIM
+db-key(9)/key: 601678
+db-key(10)/db: OMIM
+db-key(10)/key: 602522
+db-key(11)/db: OMIM
+db-key(11)/key: 607364
+db-key(12)/db: OMIM
+db-key(12)/key: 613090
+db-key(13)/db: Orphanet
+db-key(13)/key: 112
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 69194003
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 707742001
+reviewed: 2011-02
+published: 2018-04-17

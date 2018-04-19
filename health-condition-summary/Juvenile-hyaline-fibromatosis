@@ -1,0 +1,28 @@
+name: Juvenile hyaline fibromatosis
+ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-hyaline-fibromatosis
+text/text-role: description
+text/html: <p>Juvenile hyaline fibromatosis is a disorder that affects the skin, joints, and bones. Individuals with this condition typically begin to develop signs and symptoms within the first few years of life. Juvenile hyaline fibromatosis is characterized by skin bumps that frequently appear on the hands, neck, scalp, ears, and nose. These skin bumps can also develop in joint creases and the genital region. They vary in size and are sometimes painful. Affected individuals usually develop more skin bumps over time.</p><p>Juvenile hyaline fibromatosis is also characterized by overgrowth of the gums (gingival hypertrophy) and joint deformities (contractures) that can impair movement. In addition, affected individuals may grow slowly and have bone abnormalities. People with juvenile hyaline fibromatosis typically have severe physical limitations, but most individuals have normal intelligence and live into adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ANTXR2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ANTXR2
+synonym(1): inherited systemic hyalinosis
+synonym(2): juvenile hyalinosis
+synonym(3): molluscum fibrosum
+synonym(4): Murray syndrome
+synonym(5): Puretic syndrome
+synonym(6): Systemic hyalinosis
+db-key(1)/db: GTR
+db-key(1)/key: C2745948
+db-key(2)/db: GeneReviews
+db-key(2)/key: sys-h
+db-key(3)/db: MeSH
+db-key(3)/key: D057770
+db-key(4)/db: OMIM
+db-key(4)/key: 228600
+db-key(5)/db: Orphanet
+db-key(5)/key: 2028
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 238861002
+reviewed: 2008-12
+published: 2018-04-17

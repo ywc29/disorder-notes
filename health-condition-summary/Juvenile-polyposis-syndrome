@@ -1,0 +1,29 @@
+name: Juvenile polyposis syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-polyposis-syndrome
+text/text-role: description
+text/html: <p>Juvenile polyposis syndrome is a disorder characterized by multiple noncancerous (benign) growths called juvenile polyps. People with juvenile polyposis syndrome typically develop polyps before age 20; however, in the name of this condition "juvenile" refers to the characteristics of the tissues that make up the polyp, not the age of the affected individual. These growths occur in the gastrointestinal tract, typically in the large intestine (colon). The number of polyps varies from only a few to hundreds, even among affected members of the same family.  Polyps may cause gastrointestinal bleeding, a shortage of red blood cells (anemia), abdominal pain, and diarrhea.  Approximately 15 percent of people with juvenile polyposis syndrome have other abnormalities, such as a twisting of the intestines (intestinal malrotation), heart or brain abnormalities, an opening in the roof of the mouth (cleft palate), extra fingers or toes (polydactyly), and abnormalities of the genitalia or urinary tract.</p><p>Juvenile polyposis syndrome is diagnosed when a person has any one of the following: (1) more than five juvenile polyps of the colon or rectum; (2) juvenile polyps in other parts of the gastrointestinal tract; or (3) any number of juvenile polyps and one or more affected family members. Single juvenile polyps are relatively common in children and are not characteristic of juvenile polyposis syndrome.</p><p>Three types of juvenile polyposis syndrome have been described, based on the signs and symptoms of the disorder. Juvenile polyposis of infancy is characterized by polyps that occur throughout the gastrointestinal tract during infancy. Juvenile polyposis of infancy is the most severe form of the disorder and is associated with the poorest outcome. Children with this type may develop a condition called protein-losing enteropathy. This condition results in severe diarrhea, failure to gain weight and grow at the expected rate (failure to thrive), and general wasting and weight loss (cachexia). Another type called generalized juvenile polyposis is diagnosed when polyps develop throughout the gastrointestinal tract. In the third type, known as juvenile polyposis coli, affected individuals develop polyps only in their colon. People with generalized juvenile polyposis and juvenile polyposis coli typically develop polyps during childhood.</p><p>Most juvenile polyps are benign, but there is a chance that polyps can become  cancerous (malignant).  It is estimated that people with juvenile polyposis syndrome have a 10 to 50 percent risk of developing a cancer of the gastrointestinal tract.  The most common type of cancer seen in people with juvenile polyposis syndrome is colorectal cancer.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: BMPR1A
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BMPR1A
+related-gene(2)/gene-symbol: SMAD4
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SMAD4
+synonym(1): JIP
+synonym(2): JPS
+synonym(3): juvenile intestinal polyposis
+db-key(1)/db: GTR
+db-key(1)/key: C0345893
+db-key(2)/db: GeneReviews
+db-key(2)/key: jps
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: D12.6
+db-key(4)/db: MeSH
+db-key(4)/key: D044483
+db-key(5)/db: OMIM
+db-key(5)/key: 174900
+db-key(6)/db: Orphanet
+db-key(6)/key: 2929
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 9273005
+reviewed: 2013-10
+published: 2018-04-17

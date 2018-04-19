@@ -1,0 +1,25 @@
+gene-symbol: FERMT1
+name: fermitin family member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/FERMT1
+text/text-role: function
+text/html: <p>The <i>FERMT1</i> gene provides instructions for making a protein called kindlin-1. This protein is found in epithelial cells, which are the cells that line the surfaces and cavities of the body. In the skin, kindlin-1 plays a critical role in specialized cells called keratinocytes, which are the major component of the outer layer of the skin (the epidermis).</p><p>Kindlin-1 is part of cell structures called focal adhesions. These structures contain many different kinds of proteins, which are involved in linking the cell's internal framework (the cytoskeleton) to the intricate lattice of proteins and other molecules that surrounds cells (the extracellular matrix). This linking is known as cell-matrix adhesion. Kindlin-1 attaches (binds) to and turns on (activates) proteins called integrins, which directly connect the cytoskeleton with the extracellular matrix and help transmit chemical signals into the cell.</p><p>As part of focal adhesions, Kindlin-1 is involved in several important cell functions, including cell growth and division (proliferation) and the movement (migration) of cells.</p>
+related-health-condition/name: Kindler syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/kindler-syndrome
+synonym(1): C20orf42
+synonym(2): DTGCU2
+synonym(3): fermitin family homolog 1
+synonym(4): FLJ20116
+synonym(5): KIND1
+synonym(6): kindlerin
+synonym(7): kindlin 1
+synonym(8): kindlin syndrome protein
+synonym(9): unc-112-related protein 1
+synonym(10): UNC112 related protein 1
+synonym(11): UNC112A
+synonym(12): URP1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 55612
+db-key(2)/db: OMIM
+db-key(2)/key: 607900
+reviewed: 2016-06
+published: 2018-04-17

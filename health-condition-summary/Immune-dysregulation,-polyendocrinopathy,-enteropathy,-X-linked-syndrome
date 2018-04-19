@@ -1,0 +1,33 @@
+name: Immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/immune-dysregulation-polyendocrinopathy-enteropathy-x-linked-syndrome
+text/text-role: description
+text/html: <p>Immune dysregulation, polyendocrinopathy, enteropathy, X-linked (IPEX) syndrome primarily affects males and is caused by problems with the immune system. The immune system normally protects the body from foreign invaders, such as bacteria and viruses, by recognizing and attacking these invaders and clearing them from the body. However, the immune system can malfunction and attack the body's own tissues and organs instead, which is known as autoimmunity. IPEX syndrome is characterized by the development of multiple autoimmune disorders in affected individuals. Although IPEX syndrome can affect many different areas of the body, autoimmune disorders involving the intestines, skin, and hormone-producing (endocrine) glands occur most often. IPEX syndrome can be life-threatening in early childhood.</p><p>Almost all individuals with IPEX syndrome develop a disorder of the intestines called autoimmune enteropathy. Autoimmune enteropathy occurs when certain cells in the intestines are destroyed by a person's immune system. It causes severe diarrhea, which is usually the first symptom of IPEX syndrome. Autoimmune enteropathy typically begins in the first few months of life. It can cause failure to gain weight and grow at the expected rate (failure to thrive) and general wasting and weight loss (cachexia).</p><p>People with IPEX syndrome frequently develop inflammation of the skin, called dermatitis. Eczema is the most common type of dermatitis that occurs in this syndrome, and it causes abnormal patches of red, irritated skin. Other skin disorders that cause similar symptoms are sometimes present in IPEX syndrome.</p><p>The term polyendocrinopathy is used in IPEX syndrome because individuals can develop multiple disorders of the endocrine glands. Type 1 diabetes mellitus is an autoimmune condition involving the pancreas and is the most common endocrine disorder present in people with IPEX syndrome. It usually develops within the first few months of life and prevents the body from properly controlling the amount of sugar in the blood. Autoimmune thyroid disease may also develop in people with IPEX syndrome. The thyroid gland is a butterfly-shaped organ in the lower neck that produces hormones. This gland is commonly underactive (hypothyroidism) in individuals with this disorder, but may become overactive (hyperthyroidism).</p><p>Individuals with IPEX syndrome typically develop other types of autoimmune disorders in addition to those that involve the intestines, skin, and endocrine glands. Autoimmune blood disorders are common; about half of affected individuals have low levels of red blood cells (anemia), platelets (thrombocytopenia), or certain white blood cells (neutropenia) because these cells are attacked by the immune system. In some individuals, IPEX syndrome involves the liver and kidneys.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: FOXP3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FOXP3
+synonym(1): autoimmunity-immunodeficiency syndrome, X-linked
+synonym(2): diabetes mellitus, congenital insulin-dependent, with fatal secretory diarrhea
+synonym(3): diarrhea, polyendocrinopathy, fatal infection syndrome, X-linked
+synonym(4): enteropathy, autoimmune, with hemolytic anemia and polyendocrinopathy
+synonym(5): IDDM-secretory diarrhea syndrome
+synonym(6): immunodeficiency, polyendocrinopathy, and enteropathy, X-linked
+synonym(7): insulin-dependent diabetes mellitus secretory diarrhea syndrome
+synonym(8): IPEX syndrome
+synonym(9): polyendocrinopathy, immune dysfunction, and diarrhea, X-linked
+synonym(10): X-linked autoimmunity-allergic dysregulation syndrome
+synonym(11): XLAAD
+db-key(1)/db: GTR
+db-key(1)/key: C0342288
+db-key(2)/db: GeneReviews
+db-key(2)/key: ipex
+db-key(3)/db: MeSH
+db-key(3)/key: D040181
+db-key(4)/db: OMIM
+db-key(4)/key: 304790
+db-key(5)/db: Orphanet
+db-key(5)/key: 37042
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 237618001
+reviewed: 2017-05
+published: 2018-04-17

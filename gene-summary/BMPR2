@@ -1,0 +1,27 @@
+gene-symbol: BMPR2
+name: bone morphogenetic protein receptor type 2
+ghr-page: https://ghr.nlm.nih.gov/gene/BMPR2
+text/text-role: function
+text/html: <p>The <i>BMPR2</i> gene provides instructions for making a protein called bone morphogenetic protein receptor type 2. The <i>BMPR2</i> gene belongs to a family of genes originally identified for its role in regulating the growth and maturation (differentiation) of bone and cartilage. Recently, researchers have found that this gene family plays a broader role in regulating the growth and differentiation of numerous types of cells.</p><p>Bone morphogenetic protein receptor type 2 spans the cell membrane, so that one end of the protein is on the outer surface of the cell and the other end remains inside the cell. This positioning allows the protein to receive and transmit signals that help the cell respond to its environment by growing and dividing (cell proliferation) or by undergoing controlled cell death (apoptosis). This balance of cell proliferation and apoptosis regulates the number of cells in tissues.</p>
+related-health-condition(1)/name: pulmonary arterial hypertension
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/pulmonary-arterial-hypertension
+related-health-condition(2)/name: pulmonary veno-occlusive disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pulmonary-veno-occlusive-disease
+synonym(1): BMPR-II
+synonym(2): BMPR2_HUMAN
+synonym(3): BMPR3
+synonym(4): BMR2
+synonym(5): bone morphogenetic protein receptor type II
+synonym(6): bone morphogenetic protein receptor, type II (serine/threonine kinase)
+synonym(7): BRK-3
+synonym(8): PPH1
+synonym(9): Receptor, Type II BMP
+synonym(10): serine/threonine kinase
+synonym(11): T-ALK
+synonym(12): type II activin receptor-like kinase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 659
+db-key(2)/db: OMIM
+db-key(2)/key: 600799
+reviewed: 2016-01
+published: 2018-04-17

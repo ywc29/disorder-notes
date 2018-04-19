@@ -1,0 +1,18 @@
+gene-symbol: GYS2
+name: glycogen synthase 2
+ghr-page: https://ghr.nlm.nih.gov/gene/GYS2
+text/text-role: function
+text/html: <p>The <i>GYS2</i> gene provides instructions for making an enzyme called liver glycogen synthase. Liver glycogen synthase is produced solely in liver cells, where it helps form the complex sugar glycogen by linking together molecules of the simple sugar glucose. Glucose that is taken in from food is stored in the body as glycogen, which is a major source of energy. Glycogen that is stored in the liver can be broken down rapidly when glucose is needed to maintain normal blood sugar levels between meals.</p>
+related-health-condition/name: glycogen storage disease type 0
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-0
+synonym(1): glycogen [starch] synthase, liver
+synonym(2): glycogen synthase 2 (liver)
+synonym(3): GYS2_HUMAN
+synonym(4): liver glycogen synthase
+synonym(5): liver glycogen synthase 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2998
+db-key(2)/db: OMIM
+db-key(2)/key: 138571
+reviewed: 2014-01
+published: 2018-04-17

@@ -1,0 +1,32 @@
+name: Glanzmann thrombasthenia
+ghr-page: https://ghr.nlm.nih.gov/condition/glanzmann-thrombasthenia
+text/text-role: description
+text/html: <p>Glanzmann thrombasthenia is a bleeding disorder that is characterized by prolonged or spontaneous bleeding starting from birth. People with Glanzmann thrombasthenia tend to bruise easily, have frequent nosebleeds (epistaxis), and may bleed from the gums. They may also develop red or purple spots on the skin caused by bleeding underneath the skin (petechiae) or swelling caused by bleeding within tissues (hematoma). Glanzmann thrombasthenia can also cause prolonged bleeding following injury, trauma, or surgery (including dental work). Women with this condition can have prolonged and sometimes abnormally heavy menstrual bleeding. Affected women also have an increased risk of excessive blood loss during pregnancy and childbirth.</p><p>About a quarter of individuals with Glanzmann thrombasthenia have bleeding in the gastrointestinal tract, which often occurs later in life. Rarely, affected individuals have bleeding inside the skull (intracranial hemorrhage) or joints (hemarthrosis).</p><p>The severity and frequency of the bleeding episodes in Glanzmann thrombasthenia can vary greatly among affected individuals, even in the same family. Spontaneous bleeding tends to become less frequent with age.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: ITGA2B
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ITGA2B
+related-gene(2)/gene-symbol: ITGB3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ITGB3
+synonym(1): deficiency of glycoprotein complex IIb-IIIa
+synonym(2): deficiency of platelet fibrinogen receptor
+synonym(3): Glanzmann disease
+synonym(4): Glanzmann-Naegeli disorder
+synonym(5): glycoprotein IIb/IIIa defect
+synonym(6): hereditary hemorrhagic thrombasthenia
+synonym(7): hereditary thrombasthenia
+synonym(8): platelet fibrinogen receptor deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0040015
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D69.1
+db-key(3)/db: MeSH
+db-key(3)/key: D013915
+db-key(4)/db: OMIM
+db-key(4)/key: 273800
+db-key(5)/db: Orphanet
+db-key(5)/key: 849
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 32942005
+reviewed: 2015-09
+published: 2018-04-17

@@ -1,0 +1,60 @@
+name: Amelogenesis imperfecta
+ghr-page: https://ghr.nlm.nih.gov/condition/amelogenesis-imperfecta
+text/text-role: description
+text/html: <p>Amelogenesis imperfecta is a disorder of tooth development. This condition causes teeth to be unusually small, discolored, pitted or grooved, and prone to rapid wear and breakage. Other dental abnormalities are also possible. These defects, which vary among affected individuals, can affect both primary (baby) teeth and permanent (adult) teeth.</p><p>Researchers have described at least 14 forms of amelogenesis imperfecta. These types are distinguished by their specific dental abnormalities and by their pattern of inheritance. Additionally, amelogenesis imperfecta can occur alone without any other signs and symptoms or it can occur as part of a syndrome that affects multiple parts of the body.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xr
+inheritance-pattern(3)/memo: X-linked recessive
+related-gene(1)/gene-symbol: AMELX
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AMELX
+related-gene(2)/gene-symbol: ENAM
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ENAM
+related-gene(3)/gene-symbol: FAM83H
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/FAM83H
+related-gene(4)/gene-symbol: ITGB6
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/ITGB6
+related-gene(5)/gene-symbol: KLK4
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/KLK4
+related-gene(6)/gene-symbol: LAMB3
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/LAMB3
+related-gene(7)/gene-symbol: MMP20
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/MMP20
+related-gene(8)/gene-symbol: ODAPH
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/ODAPH
+related-gene(9)/gene-symbol: SLC24A4
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC24A4
+related-gene(10)/gene-symbol: WDR72
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/WDR72
+synonym(1): AI
+synonym(2): congenital enamel hypoplasia
+db-key(1)/db: GTR
+db-key(1)/key: C0399368
+db-key(2)/db: GTR
+db-key(2)/key: C0399376
+db-key(3)/db: GTR
+db-key(3)/key: C1845052
+db-key(4)/db: GTR
+db-key(4)/key: C2673923
+db-key(5)/db: MeSH
+db-key(5)/key: D000567
+db-key(6)/db: OMIM
+db-key(6)/key: 104500
+db-key(7)/db: OMIM
+db-key(7)/key: 130900
+db-key(8)/db: OMIM
+db-key(8)/key: 204650
+db-key(9)/db: OMIM
+db-key(9)/key: 301200
+db-key(10)/db: OMIM
+db-key(10)/key: 612529
+db-key(11)/db: Orphanet
+db-key(11)/key: 88661
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 234961008
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 78494001
+reviewed: 2015-05
+published: 2018-04-17

@@ -1,0 +1,23 @@
+gene-symbol: PHKG2
+name: phosphorylase kinase catalytic subunit gamma 2
+ghr-page: https://ghr.nlm.nih.gov/gene/PHKG2
+text/text-role: function
+text/html: <p>The <i>PHKG2</i> gene provides instructions for making one piece, the gamma subunit, of the phosphorylase b kinase enzyme. This enzyme is made up of 16 subunits, four each of the alpha, beta, gamma, and delta subunits. (Each subunit is produced from a different gene.) The gamma subunit performs the function of phosphorylase b kinase enzyme, and the other subunits help regulate its activity. This enzyme is found in various tissues, although it is most abundant in the liver and muscles. One version of the enzyme is found in liver cells and another in muscle cells. The gamma-2 subunit produced from the <i>PHKG2</i> gene is part of the enzyme found in the liver.</p><p>Phosphorylase b kinase plays an important role in providing energy for cells. The main source of cellular energy is a simple sugar called glucose. Glucose is stored in muscle and liver cells in a form called glycogen. Glycogen can be broken down rapidly when glucose is needed, for instance to maintain normal levels of glucose in the blood between meals. Phosphorylase b kinase turns on (activates) another enzyme called glycogen phosphorylase b by converting it to the more active form, glycogen phosphorylase a. When active, this enzyme breaks down glycogen.</p>
+related-health-condition/name: glycogen storage disease type IX
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-ix
+synonym(1): GSD9C
+synonym(2): PHK-gamma-T
+synonym(3): PHKG2_HUMAN
+synonym(4): phosphorylase b kinase gamma catalytic chain, testis/liver isoform
+synonym(5): phosphorylase kinase gamma subunit 2
+synonym(6): phosphorylase kinase subunit gamma-2
+synonym(7): phosphorylase kinase, gamma 2 (testis)
+synonym(8): phosphorylase kinase, gamma 2 (testis/liver)
+synonym(9): PSK-C3
+synonym(10): serine/threonine-protein kinase PHKG2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5261
+db-key(2)/db: OMIM
+db-key(2)/key: 172471
+reviewed: 2015-08
+published: 2018-04-17

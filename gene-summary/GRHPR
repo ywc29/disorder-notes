@@ -1,0 +1,18 @@
+gene-symbol: GRHPR
+name: glyoxylate and hydroxypyruvate reductase
+ghr-page: https://ghr.nlm.nih.gov/gene/GRHPR
+text/text-role: function
+text/html: <p>The <i>GRHPR</i> gene provides instructions for making an enzyme called glyoxylate and hydroxypyruvate reductase. This enzyme plays a role in preventing the buildup of a potentially harmful substance called glyoxylate by converting it to a substance called glycolate, which is easily excreted from the body. Additionally, this enzyme can convert a compound called hydroxypyruvate to D-glycerate, which is eventually converted to the simple sugar glucose (by other enzymes) and used for energy.</p>
+related-health-condition/name: primary hyperoxaluria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/primary-hyperoxaluria
+synonym(1): D-glycerate dehydrogenase
+synonym(2): GLXR
+synonym(3): glyoxylate reductase/hydroxypyruvate reductase
+synonym(4): GRHPR_HUMAN
+synonym(5): PH2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9380
+db-key(2)/db: OMIM
+db-key(2)/key: 604296
+reviewed: 2015-12
+published: 2018-04-17

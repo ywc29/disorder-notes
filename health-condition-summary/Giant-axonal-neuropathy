@@ -1,0 +1,24 @@
+name: Giant axonal neuropathy
+ghr-page: https://ghr.nlm.nih.gov/condition/giant-axonal-neuropathy
+text/text-role: description
+text/html: <p>Giant axonal neuropathy is an inherited condition characterized by abnormally large and dysfunctional axons called giant axons. Axons are specialized extensions of nerve cells (neurons) that transmit nerve impulses. Symptoms of the disorder first become apparent in the peripheral nervous system, in which long axons connect the brain and spinal cord (central nervous system) to muscles and to sensory cells that detect sensations such as touch, pain, heat, and sound. However, axons in the central nervous system are affected as well.</p><p>The signs and symptoms of giant axonal neuropathy generally begin in early childhood and get worse over time. Most affected individuals first have problems with walking. Later they may lose sensation, strength, and reflexes in their limbs; experience difficulty coordinating movements (ataxia); and require wheelchair assistance. Visual and hearing problems may also occur. Many individuals with this condition have extremely kinky hair as compared to others in their family.</p><p>Giant axonal neuropathy can also impact the autonomic nervous system, which controls involuntary body processes. Affected individuals may experience problems with the release of urine (neurogenic bladder), constipation, heat intolerance, and reduction in or loss of the ability to sweat.</p><p>As the disorder worsens, paralysis, seizures, and a gradual decline in mental function (dementia) can also occur. Most people with giant axonal neuropathy do not survive past their twenties.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: GAN
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GAN
+synonym(1): GAN
+synonym(2): giant axonal disease
+db-key(1)/db: GTR
+db-key(1)/key: C1850386
+db-key(2)/db: GeneReviews
+db-key(2)/key: gan
+db-key(3)/db: MeSH
+db-key(3)/key: D056768
+db-key(4)/db: OMIM
+db-key(4)/key: 256850
+db-key(5)/db: Orphanet
+db-key(5)/key: 643
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 128207002
+reviewed: 2016-09
+published: 2018-04-17

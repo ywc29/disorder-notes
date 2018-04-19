@@ -1,0 +1,21 @@
+name: Frasier syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/frasier-syndrome
+text/text-role: description
+text/html: <p>Frasier syndrome is a condition that affects the kidneys and genitalia.</p><p>Frasier syndrome is characterized by kidney disease that begins in early childhood. Affected individuals have a condition called focal segmental glomerulosclerosis, in which scar tissue forms in some glomeruli, which are the tiny blood vessels in the kidneys that filter waste from blood. In people with Frasier syndrome, this condition often leads to kidney failure by adolescence.</p><p>Although males with Frasier syndrome have the typical male chromosome pattern (46,XY), they have gonadal dysgenesis, in which external genitalia do not look clearly male or clearly female (ambiguous genitalia) or the genitalia appear completely female. The internal reproductive organs (gonads) are typically undeveloped and referred to as streak gonads. These abnormal gonads are nonfunctional and often become cancerous, so they are usually removed surgically early in life.</p><p>Affected females usually have normal genitalia and gonads and have only the kidney features of the condition. Because they do not have all the features of the condition, females are usually given the diagnosis of isolated nephrotic syndrome.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: WT1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/WT1
+synonym: FS
+db-key(1)/db: GTR
+db-key(1)/key: C0950122
+db-key(2)/db: MeSH
+db-key(2)/key: D052159
+db-key(3)/db: OMIM
+db-key(3)/key: 136680
+db-key(4)/db: Orphanet
+db-key(4)/key: 347
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 445431000
+reviewed: 2013-03
+published: 2018-04-17

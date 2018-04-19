@@ -1,0 +1,31 @@
+gene-symbol: CHRNA4
+name: cholinergic receptor nicotinic alpha 4 subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/CHRNA4
+text/text-role: function
+text/html: <p>The <i>CHRNA4</i> gene provides instructions for making one part (subunit) of a larger protein called a neuronal nicotinic acetylcholine receptor (nAChR). Each nAChR protein is made up of a combination of five subunits, usually two alpha (α) and three beta (β) subunits. Many different combinations are possible, and the characteristics of each nAChR protein depend on which subunits it contains.  In the brain, nAChR proteins most commonly consist of two α4 subunits and three β2 subunits.  The <i>CHRNA4</i> gene is responsible for producing the α4 subunit.</p><p>In the brain, nAChR proteins are widely distributed and play an important role in chemical signaling between nerve cells (neurons). The nAChR proteins act as channels, allowing charged atoms (ions) including calcium, sodium, and potassium to cross the cell membrane. These channels open when attached to a brain chemical (neurotransmitter) called acetylcholine. The channels also open in response to nicotine, the addictive substance in tobacco.</p><p>Communication between neurons depends on neurotransmitters, which are released from one neuron and taken up by neighboring neurons. The release and uptake of these chemicals are tightly regulated to ensure that signals are passed efficiently and accurately between neurons. Researchers believe that nAChR channels play an important role in controlling the normal release and uptake of neurotransmitters.</p><p>A wide range of brain functions depend on nAChR channels, including sleep and arousal, fatigue, anxiety, attention, pain perception, and memory. The channels are also active before birth, which suggests that they are involved in early brain development. At least one drug that targets nAChR channels in the brain has been developed to help people quit smoking;  other medications targeting these channels are under study for the treatment of schizophrenia, Alzheimer disease, and pain.</p>
+related-health-condition/name: autosomal dominant nocturnal frontal lobe epilepsy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-nocturnal-frontal-lobe-epilepsy
+synonym(1): Acetylcholine receptor, neuronal nicotonic, alpha-4 subunit
+synonym(2): ACHA4_HUMAN
+synonym(3): BFNC
+synonym(4): Cholinergic receptor, neuronal nicotinic, alpha polypeptide 4
+synonym(5): cholinergic receptor, nicotinic alpha 4
+synonym(6): cholinergic receptor, nicotinic, alpha 4
+synonym(7): cholinergic receptor, nicotinic, alpha 4 (neuronal)
+synonym(8): cholinergic receptor, nicotinic, alpha 4 subunit
+synonym(9): cholinergic receptor, nicotinic, alpha polypeptide 4
+synonym(10): EBN
+synonym(11): EBN1
+synonym(12): FLJ95812
+synonym(13): NACHR
+synonym(14): NACHRA4
+synonym(15): NACRA4
+synonym(16): neuronal nicotinic acetylcholine receptor alpha-4 subunit
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1137
+db-key(2)/db: OMIM
+db-key(2)/key: 118504
+db-key(3)/db: OMIM
+db-key(3)/key: 188890
+reviewed: 2009-04
+published: 2018-04-17

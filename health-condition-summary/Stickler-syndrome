@@ -1,0 +1,65 @@
+name: Stickler syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/stickler-syndrome
+text/text-role: description
+text/html: <p>Stickler syndrome is a group of hereditary conditions characterized by a distinctive facial appearance, eye abnormalities, hearing loss, and joint problems. These signs and symptoms vary widely among affected individuals.</p><p>A characteristic feature of Stickler syndrome is a somewhat flattened facial appearance. This appearance results from underdeveloped bones in the middle of the face, including the cheekbones and the bridge of the nose. A particular group of physical features called Pierre Robin sequence is also common in people with Stickler syndrome. Pierre Robin sequence includes an opening in the roof of the mouth (a cleft palate), a tongue that is placed further back than normal (glossoptosis), and a small lower jaw (micrognathia). This combination of features can lead to feeding problems and difficulty breathing.</p><p>Many people with Stickler syndrome have severe nearsightedness (high myopia). In some cases, the clear gel that fills the eyeball (the vitreous) has an abnormal appearance, which is noticeable during an eye examination. Other eye problems are also common, including increased pressure within the eye (glaucoma), clouding of the lens of the eyes (cataracts), and tearing of the lining of the eye (retinal detachment). These eye abnormalities cause impaired vision or blindness in some cases.</p><p>In people with Stickler syndrome, hearing loss varies in degree and may become more severe over time. The hearing loss may be sensorineural, meaning that it results from changes in the inner ear, or conductive, meaning that it is caused by abnormalities of the middle ear.</p><p>Most people with Stickler syndrome have skeletal abnormalities that affect the joints. The joints of affected children and young adults may be loose and very flexible (hypermobile), though joints become less flexible with age. Arthritis often appears early in life and may cause joint pain or stiffness. Problems with the bones of the spine (vertebrae) can also occur, including abnormal curvature of the spine (scoliosis or kyphosis) and flattened vertebrae (platyspondyly). These spinal abnormalities may cause back pain.</p><p>Researchers have described several types of Stickler syndrome, which are distinguished by their genetic causes and their patterns of signs and symptoms. In particular, the eye abnormalities and severity of hearing loss differ among the types. Type I has the highest risk of retinal detachment. Type II also includes eye abnormalities, but type III does not (and is often called non-ocular Stickler syndrome). Types II and III are more likely than type I to have significant hearing loss. Types IV, V, and VI are very rare and have each been diagnosed in only a few individuals.</p><p>A condition similar to Stickler syndrome, called Marshall syndrome, is characterized by a distinctive facial appearance, eye abnormalities, hearing loss, and early-onset arthritis. Marshall syndrome can also include short stature. Some researchers have classified Marshall syndrome as a variant of Stickler syndrome, while others consider it to be a separate disorder.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: COL2A1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/COL2A1
+related-gene(2)/gene-symbol: COL9A1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/COL9A1
+related-gene(3)/gene-symbol: COL9A2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/COL9A2
+related-gene(4)/gene-symbol: COL9A3
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/COL9A3
+related-gene(5)/gene-symbol: COL11A1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/COL11A1
+related-gene(6)/gene-symbol: COL11A2
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/COL11A2
+synonym(1): hereditary arthro-ophthalmo-dystrophy
+synonym(2): hereditary arthro-ophthalmopathy
+synonym(3): Stickler dysplasia
+db-key(1)/db: GTR
+db-key(1)/key: C0265235
+db-key(2)/db: GTR
+db-key(2)/key: C0265253
+db-key(3)/db: GTR
+db-key(3)/key: C1858084
+db-key(4)/db: GTR
+db-key(4)/key: C1861481
+db-key(5)/db: GTR
+db-key(5)/key: C2020284
+db-key(6)/db: GTR
+db-key(6)/key: C3279941
+db-key(7)/db: GTR
+db-key(7)/key: C3280342
+db-key(8)/db: GeneReviews
+db-key(8)/key: stickler
+db-key(9)/db: MeSH
+db-key(9)/key: D003095
+db-key(10)/db: OMIM
+db-key(10)/key: 108300
+db-key(11)/db: OMIM
+db-key(11)/key: 154780
+db-key(12)/db: OMIM
+db-key(12)/key: 184840
+db-key(13)/db: OMIM
+db-key(13)/key: 604841
+db-key(14)/db: OMIM
+db-key(14)/key: 609508
+db-key(15)/db: OMIM
+db-key(15)/key: 614134
+db-key(16)/db: OMIM
+db-key(16)/key: 614284
+db-key(17)/db: Orphanet
+db-key(17)/key: 560
+db-key(18)/db: Orphanet
+db-key(18)/key: 828
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 33410002
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 78675000
+reviewed: 2016-03
+published: 2018-04-17

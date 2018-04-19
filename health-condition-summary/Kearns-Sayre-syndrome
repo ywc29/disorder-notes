@@ -1,0 +1,34 @@
+name: Kearns-Sayre syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/kearns-sayre-syndrome
+text/text-role: description
+text/html: <p>Kearns-Sayre syndrome is a condition that affects many parts of the body, especially the eyes. The features of Kearns-Sayre syndrome usually appear before age 20, and the condition is diagnosed by a few characteristic signs and symptoms. People with Kearns-Sayre syndrome have progressive external ophthalmoplegia, which is weakness or paralysis of the eye muscles that impairs eye movement and causes drooping eyelids (ptosis). Affected individuals also have an eye condition called pigmentary retinopathy, which results from breakdown (degeneration) of the light-sensing tissue at the back of the eye (the retina) that gives it a speckled and streaked appearance. The retinopathy may cause loss of vision. In addition, people with Kearns-Sayre syndrome have at least one of the following signs or symptoms: abnormalities of the electrical signals that control the heartbeat (cardiac conduction defects), problems with coordination and balance that cause unsteadiness while walking (ataxia), or abnormally high levels of protein in the fluid that surrounds and protects the brain and spinal cord (the cerebrospinal fluid or CSF).</p><p>People with Kearns-Sayre syndrome may also experience muscle weakness in their limbs, deafness, kidney problems, or a deterioration of cognitive functions (dementia). Affected individuals often have short stature. In addition, diabetes mellitus is occasionally seen in people with Kearns-Sayre syndrome.</p><p>When the muscle cells of affected individuals are stained and viewed under a microscope, these cells usually appear abnormal. The abnormal muscle cells contain an excess of structures called mitochondria and are known as ragged-red fibers.</p><p>A related condition called ophthalmoplegia-plus may be diagnosed if an individual has many of the signs and symptoms of Kearns-Sayre syndrome but not all the criteria are met.</p>
+inheritance-pattern/code: m
+inheritance-pattern/memo: mitochondrial
+related-mitochondrial-dna/name: mitochondrial DNA
+related-mitochondrial-dna/ghr-page: https://ghr.nlm.nih.gov/mitochondrial-dna
+synonym(1): Kearns-Sayre mitochondrial cytopathy
+synonym(2): KSS
+db-key(1)/db: GTR
+db-key(1)/key: C0022541
+db-key(2)/db: GeneReviews
+db-key(2)/key: kss
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: H49.81
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: H49.811
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: H49.812
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: H49.813
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: H49.819
+db-key(8)/db: MeSH
+db-key(8)/key: D007625
+db-key(9)/db: OMIM
+db-key(9)/key: 530000
+db-key(10)/db: Orphanet
+db-key(10)/key: 480
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 25792000
+reviewed: 2011-12
+published: 2018-04-17

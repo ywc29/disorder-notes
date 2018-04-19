@@ -1,0 +1,27 @@
+name: Achondroplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/achondroplasia
+text/text-role: description
+text/html: <p>Achondroplasia is a form of short-limbed dwarfism. The word achondroplasia literally means "without cartilage formation." Cartilage is a tough but flexible tissue that makes up much of the skeleton during early development. However, in achondroplasia the problem is not in forming cartilage but in converting it to bone (a process called ossification), particularly in the long bones of the arms and legs. Achondroplasia is similar to another skeletal disorder called hypochondroplasia, but the features of achondroplasia tend to be more severe.</p><p>All people with achondroplasia have short stature. The average height of an adult male with achondroplasia is 131 centimeters (4 feet, 4 inches), and the average height for adult females is 124 centimeters (4 feet, 1 inch). Characteristic features of achondroplasia include an average-size trunk, short arms and legs with particularly short upper arms and thighs, limited range of motion at the elbows, and an enlarged head (macrocephaly) with a prominent forehead. Fingers are typically short and the ring finger and middle finger may diverge, giving the hand a three-pronged (trident) appearance. People with achondroplasia are generally of normal intelligence.</p><p>Health problems commonly associated with achondroplasia include episodes in which breathing slows or stops for short periods (apnea), obesity, and recurrent ear infections. In childhood, individuals with the condition usually develop a pronounced and permanent sway of the lower back (lordosis) and bowed legs. Some affected people also develop abnormal front-to-back curvature of the spine (kyphosis) and back pain. A potentially serious complication of achondroplasia is spinal stenosis, which is a narrowing of the spinal canal that can pinch (compress) the upper part of the spinal cord. Spinal stenosis is associated with pain, tingling, and weakness in the legs that can cause difficulty with walking. Another uncommon but serious complication of achondroplasia is hydrocephalus, which is a buildup of fluid in the brain in affected children that can lead to increased head size and related brain abnormalities.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FGFR3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR3
+synonym(1): ACH
+synonym(2): achondroplastic dwarfism
+synonym(3): dwarf, achondroplastic
+db-key(1)/db: GTR
+db-key(1)/key: C0001080
+db-key(2)/db: GeneReviews
+db-key(2)/key: achondroplasia
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q77.4
+db-key(4)/db: MeSH
+db-key(4)/key: D000130
+db-key(5)/db: OMIM
+db-key(5)/key: 100800
+db-key(6)/db: Orphanet
+db-key(6)/key: 15
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 86268005
+reviewed: 2012-05
+published: 2018-04-17

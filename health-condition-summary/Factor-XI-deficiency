@@ -1,0 +1,33 @@
+name: Factor XI deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/factor-xi-deficiency
+text/text-role: description
+text/html: <p>Factor XI deficiency is a disorder that can cause abnormal bleeding due to a shortage (deficiency) of the factor XI protein, which is involved in blood clotting. This condition is classified as either partial or severe based on the degree of deficiency of the factor XI protein. However, regardless of the severity of the protein deficiency, most affected individuals have relatively mild bleeding problems, and some people with this disorder have few if any symptoms. The most common feature of factor XI deficiency is prolonged bleeding after trauma or surgery, especially involving the inside of the mouth and nose (oral and nasal cavities) or the urinary tract. If the bleeding is left untreated after surgery, solid swellings consisting of congealed blood (hematomas) can develop in the surgical area.</p><p>Other signs and symptoms of this disorder can include frequent nosebleeds, easy bruising, bleeding under the skin, and bleeding of the gums. Women with this disorder can have heavy or prolonged menstrual bleeding (menorrhagia) or prolonged bleeding after childbirth. In contrast to some other bleeding disorders, spontaneous bleeding into the urine (hematuria), gastrointestinal tract, or skull cavity are not common in factor XI deficiency, although they can occur in severely affected individuals. Bleeding into the muscles or joints, which can cause long-term disability in other bleeding disorders, generally does not occur in this condition.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: F11
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/F11
+synonym(1): F11 deficiency
+synonym(2): factor 11 deficiency
+synonym(3): haemophilia C
+synonym(4): hemophilia C
+synonym(5): plasma thromboplastin antecedent deficiency
+synonym(6): PTA deficiency
+synonym(7): Rosenthal factor deficiency
+synonym(8): Rosenthal syndrome
+synonym(9): Rosenthal's disease
+db-key(1)/db: GTR
+db-key(1)/key: C0015523
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D68.1
+db-key(3)/db: MeSH
+db-key(3)/key: D005173
+db-key(4)/db: OMIM
+db-key(4)/key: 612416
+db-key(5)/db: Orphanet
+db-key(5)/key: 329
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 49762007
+reviewed: 2017-05
+published: 2018-04-17

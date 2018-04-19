@@ -1,0 +1,21 @@
+gene-symbol: SLC25A15
+name: solute carrier family 25 member 15
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC25A15
+text/text-role: function
+text/html: <p>The <i>SLC25A15</i> gene provides instructions for making a protein called a mitochondrial ornithine transporter. This transporter protein is needed for the urea cycle, a series of reactions that occurs in liver cells. The urea cycle processes excess nitrogen, generated when protein is used by the body, into a compound called urea that is excreted by the kidneys. Excreting the excess nitrogen prevents it from accumulating in the form of ammonia, which is toxic, especially to the nervous system.</p><p>The mitochondrial ornithine transporter protein moves a molecule called ornithine within the mitochondria (the energy-producing centers in cells). Specifically, this protein transports ornithine across the inner membrane of mitochondria to the region called the mitochondrial matrix, where it participates in the urea cycle.</p>
+related-health-condition/name: ornithine translocase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ornithine-translocase-deficiency
+synonym(1): D13S327
+synonym(2): HHH
+synonym(3): ORC1
+synonym(4): ornithine transporter 1
+synonym(5): ORNT1
+synonym(6): ORNT1_HUMAN
+synonym(7): OTTHUMP00000042249
+synonym(8): solute carrier family 25 (mitochondrial carrier; ornithine transporter) member 15
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10166
+db-key(2)/db: OMIM
+db-key(2)/key: 603861
+reviewed: 2006-11
+published: 2018-04-17

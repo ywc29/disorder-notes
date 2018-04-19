@@ -1,0 +1,61 @@
+name: Cholangiocarcinoma
+ghr-page: https://ghr.nlm.nih.gov/condition/cholangiocarcinoma
+text/text-role: description
+text/html: <p>Cholangiocarcinoma is a group of cancers that begin in the bile ducts. Bile ducts are branched tubes that connect the liver and gallbladder to the small intestine. They carry bile, which is a fluid that helps the body digest the fats in food. Bile is produced in the liver and stored in the gallbladder before being released in the small intestine after a person eats.</p><p>Cholangiocarcinoma is classified by its location in relation to the liver. Intrahepatic cholangiocarcinoma begins in the small bile ducts within the liver. This is the least common form of the disease, accounting for less than 10 percent of all cases. Perihilar cholangiocarcinoma (also known as a Klatskin tumor) begins in an area called the hilum, where two major bile ducts join and leave the liver. It is the most common form of the disease, accounting for more than half of all cases. The remaining cases are classified as distal cholangiocarcinomas, which begin in bile ducts outside the liver. The perihilar and distal forms of the disease, which both occur outside the liver, are sometimes grouped together and called extrahepatic cholangiocarcinoma.</p><p>The three types of cholangiocarcinoma do not usually cause any symptoms in their early stages, and this cancer is usually not diagnosed until it has already spread beyond the bile ducts to other tissues. Symptoms often result when bile ducts become blocked by the tumor. The most common symptom is jaundice, which is a yellowing of the skin and the whites of the eyes. Other symptoms can include itching, dark-colored urine, loss of appetite, unintentional weight loss, abdominal pain, and light-colored and greasy stools. These symptoms are described as "nonspecific" because they can be features of many different diseases.</p><p>Most people who develop cholangiocarcinoma are older than 65. Because this cancer is often not discovered until it has already spread, it can be challenging to treat effectively. Affected individuals can survive for several months to several years after diagnosis.</p>
+inheritance-pattern(1)/code: n
+inheritance-pattern(1)/memo: not inherited
+inheritance-pattern(2)/code: u
+inheritance-pattern(2)/memo: pattern unknown
+related-gene(1)/gene-symbol: ARID1A
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ARID1A
+related-gene(2)/gene-symbol: BAP1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/BAP1
+related-gene(3)/gene-symbol: BRAF
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/BRAF
+related-gene(4)/gene-symbol: FGFR2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR2
+related-gene(5)/gene-symbol: IDH1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/IDH1
+related-gene(6)/gene-symbol: IDH2
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/IDH2
+related-gene(7)/gene-symbol: KMT2C
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/KMT2C
+related-gene(8)/gene-symbol: KRAS
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/KRAS
+related-gene(9)/gene-symbol: PBRM1
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/PBRM1
+related-gene(10)/gene-symbol: PEG3
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/PEG3
+related-gene(11)/gene-symbol: PTPN3
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/PTPN3
+related-gene(12)/gene-symbol: RNF43
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/RNF43
+related-gene(13)/gene-symbol: ROBO2
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/ROBO2
+related-gene(14)/gene-symbol: SMAD4
+related-gene(14)/ghr-page: https://ghr.nlm.nih.gov/gene/SMAD4
+related-gene(15)/gene-symbol: TERT
+related-gene(15)/ghr-page: https://ghr.nlm.nih.gov/gene/TERT
+related-gene(16)/gene-symbol: TP53
+related-gene(16)/ghr-page: https://ghr.nlm.nih.gov/gene/TP53
+synonym(1): CC
+synonym(2): cholangiocarcinoma of biliary tract
+synonym(3): cholangiocellular carcinoma
+synonym(4): extrahepatic cholangiocarcinoma
+synonym(5): intrahepatic cholangiocarcinoma
+db-key(1)/db: GTR
+db-key(1)/key: C3810156
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: C22.1
+db-key(3)/db: MeSH
+db-key(3)/key: D018281
+db-key(4)/db: OMIM
+db-key(4)/key: 615619
+db-key(5)/db: Orphanet
+db-key(5)/key: 70567
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 312104005
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 70179006
+reviewed: 2016-08
+published: 2018-04-17

@@ -1,0 +1,45 @@
+name: Bare lymphocyte syndrome type II
+ghr-page: https://ghr.nlm.nih.gov/condition/bare-lymphocyte-syndrome-type-ii
+text/text-role: description
+text/html: <p>Bare lymphocyte syndrome type II (BLS II) is an inherited disorder of the immune system categorized as a form of combined immunodeficiency (CID). People with BLS II lack virtually all immune protection from bacteria, viruses, and fungi. They are prone to repeated and persistent infections that can be very serious or life-threatening. These infections are often caused by "opportunistic" organisms that ordinarily do not cause illness in people with a normal immune system.</p><p>BLS II is typically diagnosed in the first year of life. Most affected infants have persistent infections in the respiratory, gastrointestinal, and urinary tracts. Because of the infections, affected infants have difficulty absorbing nutrients (malabsorption), and they grow more slowly than their peers. Eventually, the persistent infections lead to organ failure. Without treatment, individuals with BLS II usually do not survive past early childhood.</p><p>In people with BLS II, infection-fighting white blood cells (lymphocytes) are missing specialized proteins on their surface called major histocompatibility complex (MHC) class II proteins, which is where the condition got its name. Because BLS II is the most common and best studied form of a group of related conditions, it is often referred to as simply bare lymphocyte syndrome (BLS).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: CIITA
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CIITA
+related-gene(2)/gene-symbol: RFX5
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/RFX5
+related-gene(3)/gene-symbol: RFXANK
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/RFXANK
+related-gene(4)/gene-symbol: RFXAP
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/RFXAP
+synonym(1): bare lymphocyte syndrome type 2
+synonym(2): BLS type II
+synonym(3): major histocompatibility complex class II deficiency
+synonym(4): MHC class II deficiency
+synonym(5): SCID due to absence of class II HLA antigens
+synonym(6): SCID, HLA class 2-negative
+synonym(7): SCID, HLA class II-negative
+synonym(8): severe combined immunodeficiency due to absent class II human leukocyte antigens
+synonym(9): severe combined immunodeficiency, HLA class II-negative
+db-key(1)/db: GTR
+db-key(1)/key: C1859534
+db-key(2)/db: GTR
+db-key(2)/key: C1859535
+db-key(3)/db: GTR
+db-key(3)/key: C1859536
+db-key(4)/db: GTR
+db-key(4)/key: C1859537
+db-key(5)/db: GTR
+db-key(5)/key: C1859538
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: D81.7
+db-key(7)/db: MeSH
+db-key(7)/key: D007153
+db-key(8)/db: OMIM
+db-key(8)/key: 209920
+db-key(9)/db: Orphanet
+db-key(9)/key: 572
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 71904008
+reviewed: 2017-06
+published: 2018-04-17

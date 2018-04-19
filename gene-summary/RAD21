@@ -1,0 +1,30 @@
+gene-symbol: RAD21
+name: RAD21 cohesin complex component
+ghr-page: https://ghr.nlm.nih.gov/gene/RAD21
+text/text-role: function
+text/html: <p>The <i>RAD21</i> gene provides instructions for making a protein that is involved in regulating the structure and organization of chromosomes during cell division.</p><p>Before cells divide, they must copy all of their chromosomes. The copied DNA from each chromosome is arranged into two identical structures, called sister chromatids, which are attached to one another during the early stages of cell division. The RAD21 protein is part of a protein group called the cohesin complex that holds the sister chromatids together.</p><p>Researchers believe that the RAD21 protein, as a structural component of the cohesin complex, also plays important roles in stabilizing cells' genetic information, repairing damaged DNA, and regulating the activity of certain genes that are essential for normal development.</p>
+related-health-condition(1)/name: Cornelia de Lange syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cornelia-de-lange-syndrome
+related-health-condition(2)/name: trichorhinophalangeal syndrome type II
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/trichorhinophalangeal-syndrome-type-ii
+synonym(1): CDLS4
+synonym(2): double-strand-break repair protein rad21 homolog
+synonym(3): hHR21
+synonym(4): HR21
+synonym(5): HRAD21
+synonym(6): KIAA0078
+synonym(7): kleisin
+synonym(8): MCD1
+synonym(9): nuclear matrix protein 1
+synonym(10): NXP-1
+synonym(11): NXP1
+synonym(12): RAD21 homolog
+synonym(13): SCC1
+synonym(14): SCC1 homolog
+synonym(15): sister chromatid cohesion 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5885
+db-key(2)/db: OMIM
+db-key(2)/key: 606462
+reviewed: 2017-06
+published: 2018-04-17

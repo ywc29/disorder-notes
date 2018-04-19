@@ -1,0 +1,26 @@
+name: Diastrophic dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/diastrophic-dysplasia
+text/text-role: description
+text/html: <p>Diastrophic dysplasia is a disorder of cartilage and bone development.  Affected individuals have short stature with very short arms and legs.  Most also have early-onset joint pain (osteoarthritis) and joint deformities called contractures, which restrict movement.  These joint problems often make it difficult to walk and tend to worsen with age. Additional features of diastrophic dysplasia include an inward- and upward-turning foot (clubfoot), progressive abnormal curvature of the spine, and unusually positioned thumbs (hitchhiker thumbs).  About half of infants with diastrophic dysplasia are born with an opening in the roof of the mouth (a cleft palate).  Swelling of the external ears is also common in newborns and can lead to thickened, deformed ears.</p><p>The signs and symptoms of diastrophic dysplasia are similar to those of another skeletal disorder called atelosteogenesis type 2; however, diastrophic dysplasia tends to be less severe.  Although some affected infants have breathing problems, most people with diastrophic dysplasia live into adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SLC26A2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SLC26A2
+synonym(1): Diastrophic dwarfism
+synonym(2): DTD
+db-key(1)/db: GTR
+db-key(1)/key: C0220726
+db-key(2)/db: GeneReviews
+db-key(2)/key: diastrophic-d
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q77.5
+db-key(4)/db: MeSH
+db-key(4)/key: D010009
+db-key(5)/db: OMIM
+db-key(5)/key: 222600
+db-key(6)/db: Orphanet
+db-key(6)/key: 628
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 58561002
+reviewed: 2008-02
+published: 2018-04-17

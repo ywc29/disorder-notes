@@ -1,0 +1,36 @@
+name: Cockayne syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/cockayne-syndrome
+text/text-role: description
+text/html: <p>Cockayne syndrome is a rare disorder characterized by an abnormally small head size (microcephaly), a failure to gain weight and grow at the expected rate (failure to thrive) leading to very short stature, and delayed development. The signs and symptoms of this condition are usually apparent from infancy, and they worsen over time. Most affected individuals have an increased sensitivity to sunlight (photosensitivity), and in some cases even a small amount of sun exposure can cause a sunburn or blistering of the skin. Other signs and symptoms often include hearing loss, vision loss, severe tooth decay, bone abnormalities, hands and feet that are cold all the time, and changes in the brain that can be seen on brain scans.</p><p>People with Cockayne syndrome have a serious reaction to an antibiotic medication called metronidazole. If affected individuals take this medication, it can cause life-threatening liver failure.</p><p>Cockayne syndrome is sometimes divided into types I, II, and III based on the severity and age of onset of symptoms. However, the differences between the types are not always clear-cut, and some researchers believe the signs and symptoms reflect a spectrum instead of distinct types. Cockayne syndrome type II is also known as cerebro-oculo-facio-skeletal (COFS) syndrome, and while some researchers consider it to be a separate but similar condition, others classify it as part of the Cockayne syndrome disease spectrum.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: ERCC6
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ERCC6
+related-gene(2)/gene-symbol: ERCC8
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ERCC8
+synonym(1): CS
+synonym(2): dwarfism-retinal atrophy-deafness syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0009207
+db-key(2)/db: GTR
+db-key(2)/key: C0751037
+db-key(3)/db: GTR
+db-key(3)/key: C0751039
+db-key(4)/db: GTR
+db-key(4)/key: C2931277
+db-key(5)/db: GeneReviews
+db-key(5)/key: cockayne
+db-key(6)/db: MeSH
+db-key(6)/key: D003057
+db-key(7)/db: OMIM
+db-key(7)/key: 133540
+db-key(8)/db: OMIM
+db-key(8)/key: 214150
+db-key(9)/db: OMIM
+db-key(9)/key: 216400
+db-key(10)/db: Orphanet
+db-key(10)/key: 191
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 21086008
+reviewed: 2016-06
+published: 2018-04-17

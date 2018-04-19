@@ -1,0 +1,40 @@
+gene-symbol: FGFR1
+name: fibroblast growth factor receptor 1
+ghr-page: https://ghr.nlm.nih.gov/gene/FGFR1
+text/text-role: function
+text/html: <p>The <i>FGFR1</i> gene provides instructions for making a protein called fibroblast growth factor receptor 1. This protein is one of four fibroblast growth factor receptors, which are related proteins that are involved in processes such as cell division, regulation of cell growth and maturation, formation of blood vessels, wound healing, and embryonic development.</p><p>The FGFR1 protein spans the cell membrane, so that one end of the protein is inside the cell and the other end projects from the outer surface of the cell.  This positioning allows the FGFR1 protein to interact with other proteins called fibroblast growth factors (FGFs) outside the cell and to receive signals that help the cell respond to its environment. When an FGF attaches to the FGFR1 protein, the receptor triggers a cascade of chemical reactions inside the cell that instruct the cell to undergo certain changes, such as maturing to take on specialized functions. This signaling is thought to play an important role in the development and growth of several parts of the body, including the brain, bones of the head and face (craniofacial bones), bones in the hands and feet, and the long bones in the arms and legs.</p><p>Signaling through the FGFR1 protein plays a critical role in the formation, survival, and movement (migration) of nerve cells (neurons) in several areas of in the brain. In particular, this signaling appears to be essential for neurons that produce a hormone called gonadotropin-releasing hormone (GnRH). GnRH controls the production of several other hormones that direct sexual development before birth and during puberty. These hormones are important for the normal function of the ovaries in women and the testes in men. FGFR1 also appears to play a role in a group of nerve cells that are specialized to process smells (olfactory neurons).  These neurons migrate from the developing nose to a structure at the front of the brain called the olfactory bulb, which is critical for the perception of odors.</p>
+related-health-condition(1)/name: 8p11 myeloproliferative syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/8p11-myeloproliferative-syndrome
+related-health-condition(2)/name: encephalocraniocutaneous lipomatosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/encephalocraniocutaneous-lipomatosis
+related-health-condition(3)/name: Hartsfield syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/hartsfield-syndrome
+related-health-condition(4)/name: Kallmann syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/kallmann-syndrome
+related-health-condition(5)/name: osteoglophonic dysplasia
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/osteoglophonic-dysplasia
+related-health-condition(6)/name: Pfeiffer syndrome
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/pfeiffer-syndrome
+synonym(1): BFGFR
+synonym(2): C-FGR
+synonym(3): CD331
+synonym(4): CEK
+synonym(5): FGFR1_HUMAN
+synonym(6): fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)
+synonym(7): FLG
+synonym(8): FLJ14326
+synonym(9): FLT2
+synonym(10): FMS-like gene
+synonym(11): FMS-like tyrosine kinase 2
+synonym(12): heparin-binding growth factor receptor 1
+synonym(13): hydroxyaryl-protein kinase
+synonym(14): KAL2
+synonym(15): N-SAM tyrosine kinase
+synonym(16): protein-tyrosine kinase
+synonym(17): tyrosyl protein kinase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2260
+db-key(2)/db: OMIM
+db-key(2)/key: 136350
+reviewed: 2016-12
+published: 2018-04-17

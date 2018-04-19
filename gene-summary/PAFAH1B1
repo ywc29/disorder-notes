@@ -1,0 +1,23 @@
+gene-symbol: PAFAH1B1
+name: platelet activating factor acetylhydrolase 1b regulatory subunit 1
+ghr-page: https://ghr.nlm.nih.gov/gene/PAFAH1B1
+text/text-role: function
+text/html: <p>The <i>PAFAH1B1</i> gene (also known as <i>LIS1</i>) provides instructions for making a protein that is one part (subunit) of a complex called platelet activating factor acetyl hydrolase 1B (PAFAH1B). In the brain, this complex regulates the level of a molecule called platelet activating factor (PAF). PAF is thought to be involved in directing the movement of nerve cells in the brain, a process known as neuronal migration. Proper neuronal migration is essential for normal brain development and function.</p><p>Separate from its role in the PAFAH1B complex, the PAFAH1B1 protein is also likely involved in the organization of the cell's structural framework (the cytoskeleton). This protein interacts with microtubules and regulates a variety of proteins that are involved in their function. Microtubules are rigid, hollow fibers that make up the cytoskeleton, and they are involved in cell division and movement.</p>
+related-health-condition(1)/name: isolated lissencephaly sequence
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/isolated-lissencephaly-sequence
+related-health-condition(2)/name: Miller-Dieker syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/miller-dieker-syndrome
+synonym(1): LIS1
+synonym(2): LIS1_HUMAN
+synonym(3): LIS2
+synonym(4): lissencephaly 1 protein
+synonym(5): MDCR
+synonym(6): platelet-activating factor acetylhydrolase 1b, regulatory subunit 1 (45kDa)
+synonym(7): platelet-activating factor acetylhydrolase, isoform Ib, alpha subunit
+synonym(8): platelet-activating factor acetylhydrolase, isoform Ib, subunit 1 (45kDa)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5048
+db-key(2)/db: OMIM
+db-key(2)/key: 601545
+reviewed: 2013-07
+published: 2018-04-17

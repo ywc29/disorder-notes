@@ -1,0 +1,16 @@
+gene-symbol: MEOX1
+name: mesenchyme homeobox 1
+ghr-page: https://ghr.nlm.nih.gov/gene/MEOX1
+text/text-role: function
+text/html: <p>The <i>MEOX1</i> gene provides instructions for making a protein called homeobox protein MOX-1, which is a member of the homeobox protein family. Homeobox proteins direct the formation of body structures during early embryonic development. Homeobox protein MOX-1 regulates the process that begins separating vertebrae from one another, a process called somite segmentation. The protein functions as a transcription factor, which means it attaches to DNA and controls the activity (expression) of other genes. Homeobox protein MOX-1 likely controls the expression of genes that regulate somite segmentation. Homeobox protein MOX-1 also ensures that the developing vertebral bone is maintained in its correct position for proper formation. Additionally, the homeobox protein MOX-1 plays a role in the formation of the joints that connect the base of the skull and the top of spine (cranio-cervical joints).</p>
+related-health-condition/name: Klippel-Feil syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/klippel-feil-syndrome
+synonym(1): homeobox protein MOX-1
+synonym(2): MEOX1_HUMAN
+synonym(3): MOX1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4222
+db-key(2)/db: OMIM
+db-key(2)/key: 600147
+reviewed: 2015-05
+published: 2018-04-17

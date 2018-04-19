@@ -1,0 +1,51 @@
+name: Ataxia with oculomotor apraxia
+ghr-page: https://ghr.nlm.nih.gov/condition/ataxia-with-oculomotor-apraxia
+text/text-role: description
+text/html: <p>Ataxia with oculomotor apraxia is a condition characterized by progressive problems with movement. The hallmark of this condition is difficulty coordinating movements (ataxia), which is often the first symptom. Most affected people also have oculomotor apraxia, which makes it difficult to move their eyes side-to-side. People with oculomotor apraxia have to turn their head to see things in their side (peripheral) vision.</p><p>There are multiple types of ataxia with oculomotor apraxia. The types are very similar but are caused by mutations in different genes. The two most common types (types 1 and 2) share features, in addition to ataxia and oculomotor apraxia, that include involuntary jerking movements (chorea), muscle twitches (myoclonus), and disturbances in nerve function (neuropathy). In type 1, ataxia beings around age 4; in type 2, ataxia begins around age 15. Chorea and myoclonus tend to disappear gradually in type 1; these movement problems persist throughout life in type 2. Individuals with type 1 often develop wasting (atrophy) in their hands and feet, which further impairs movement. Nearly all individuals with ataxia with oculomotor apraxia develop neuropathy, which leads to absent reflexes and weakness. Neuropathy causes many individuals with this condition to require wheelchair assistance, typically 10 to 15 years after the start of movement problems. Intelligence is usually not affected by this condition, but some people have intellectual disability.</p><p>People with ataxia with oculomotor apraxia type 1 tend to have decreased amounts of a protein called albumin, which transports molecules in the blood. This decrease in albumin likely causes an increase in the amount of cholesterol circulating in the bloodstream. Increased cholesterol levels may raise a person's risk of developing heart disease. People with ataxia with oculomotor apraxia type 2 have increased blood cholesterol, but they have normal albumin levels. Individuals with type 2 tend to have high amounts of a protein called alpha-fetoprotein (AFP) in their blood. (An increase in the level of this protein is normally seen in the bloodstream of pregnant women.) Affected individuals may also have high amounts of a protein called creatine phosphokinase (CPK) in their blood. This protein is found mainly in muscle tissue. The effect of abnormally high levels of AFP or CPK in people with ataxia with oculomotor apraxia type 2 is unknown.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: APTX
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/APTX
+related-gene(2)/gene-symbol: PIK3R5
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PIK3R5
+related-gene(3)/gene-symbol: PNKP
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PNKP
+related-gene(4)/gene-symbol: SETX
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SETX
+synonym(1): adult onset ataxia with oculomotor apraxia
+synonym(2): EAOH
+synonym(3): early-onset ataxia with ocular motor apraxia and hypoalbuminemia
+synonym(4): SCAN2
+synonym(5): SCAR1
+synonym(6): spinocerebellar ataxia with axonal neuropathy type 2
+synonym(7): spinocerebellar ataxia, recessive, non-Friedreich type 1
+db-key(1)/db: GTR
+db-key(1)/key: C1853761
+db-key(2)/db: GTR
+db-key(2)/key: C1859598
+db-key(3)/db: GTR
+db-key(3)/key: C3554690
+db-key(4)/db: GTR
+db-key(4)/key: C4225397
+db-key(5)/db: GeneReviews
+db-key(5)/key: aoa
+db-key(6)/db: GeneReviews
+db-key(6)/key: aoa2
+db-key(7)/db: MeSH
+db-key(7)/key: D002524
+db-key(8)/db: OMIM
+db-key(8)/key: 208920
+db-key(9)/db: OMIM
+db-key(9)/key: 606002
+db-key(10)/db: OMIM
+db-key(10)/key: 615217
+db-key(11)/db: OMIM
+db-key(11)/key: 616267
+db-key(12)/db: Orphanet
+db-key(12)/key: 1168
+db-key(13)/db: Orphanet
+db-key(13)/key: 64753
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 715366004
+reviewed: 2015-04
+published: 2018-04-17

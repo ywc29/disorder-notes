@@ -1,0 +1,23 @@
+gene-symbol: BCHE
+name: butyrylcholinesterase
+ghr-page: https://ghr.nlm.nih.gov/gene/BCHE
+text/text-role: function
+text/html: <p>The <i>BCHE</i> gene provides instructions for making the pseudocholinesterase enzyme, also known as butyrylcholinesterase, which is produced by the liver and circulates in the blood. The pseudocholinesterase enzyme is involved in the breakdown of certain drugs, including muscle relaxant drugs called choline esters that are used during general anesthesia. These drugs are given to relax the muscles used for movement (skeletal muscles), including the muscles involved in breathing, and are often employed in emergencies when a breathing tube must be inserted quickly.</p><p>Pseudocholinesterase also helps protect the body by breaking down certain toxic substances before they reach the nerves. These substances include certain pesticides, poisons that attack the nerves, and specific natural toxins including a compound called solanine found in green potato skin. It is likely that the enzyme has other functions in the body, but these functions are not well understood. Studies suggest that the enzyme may be involved in the transmission of nerve signals.</p>
+related-health-condition/name: pseudocholinesterase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pseudocholinesterase-deficiency
+synonym(1): acylcholine acylhydrolase
+synonym(2): butyrylcholine esterase
+synonym(3): CHE1
+synonym(4): CHLE_HUMAN
+synonym(5): choline esterase II
+synonym(6): cholinesterase
+synonym(7): cholinesterase 1
+synonym(8): cholinesterase precursor
+synonym(9): E1
+synonym(10): pseudocholinesterase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 590
+db-key(2)/db: OMIM
+db-key(2)/key: 177400
+reviewed: 2012-04
+published: 2018-04-17

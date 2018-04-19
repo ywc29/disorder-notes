@@ -1,0 +1,24 @@
+gene-symbol: EGFR
+name: epidermal growth factor receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/EGFR
+text/text-role: function
+text/html: <p>The <i>EGFR</i> gene provides instructions for making a receptor protein called the epidermal growth factor receptor, which spans the cell membrane so that one end of the protein remains inside the cell and the other end projects from the outer surface of the cell. This positioning allows the receptor to attach (bind) to other proteins, called ligands, outside the cell and to receive signals that help the cell respond to its environment. Ligands and receptors fit together like keys into locks. Epidermal growth factor receptor binds to at least seven different ligands. The binding of a ligand to epidermal growth factor receptor allows the receptor to attach to another nearby epidermal growth factor receptor protein (dimerize), turning on (activating) the receptor complex. As a result, signaling pathways within the cell are triggered that promote cell growth and division (proliferation) and cell survival.</p>
+related-health-condition/name: lung cancer
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/lung-cancer
+synonym(1): cell growth inhibiting protein 40
+synonym(2): cell proliferation-inducing protein 61
+synonym(3): erb-b2 receptor tyrosine kinase 1
+synonym(4): ERBB
+synonym(5): ERBB1
+synonym(6): HER1
+synonym(7): mENA
+synonym(8): NISBD2
+synonym(9): PIG61
+synonym(10): proto-oncogene c-ErbB-1
+synonym(11): receptor tyrosine-protein kinase erbB-1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1956
+db-key(2)/db: OMIM
+db-key(2)/key: 131550
+reviewed: 2017-12
+published: 2018-04-17

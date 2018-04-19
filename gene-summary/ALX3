@@ -1,0 +1,19 @@
+gene-symbol: ALX3
+name: ALX homeobox 3
+ghr-page: https://ghr.nlm.nih.gov/gene/ALX3
+text/text-role: function
+text/html: <p>The <i>ALX3</i> gene provides instructions for making a protein that is a member of the homeobox protein family. Homeobox proteins direct the formation of body structures during early embryonic development. The ALX3 protein is necessary for normal development of the head and face, particularly the formation of the nose, which begins around the fourth week of development. The ALX3 protein is a transcription factor, which means that it attaches (binds) to DNA and controls the activity of certain genes. Specifically, the protein controls the activity of genes that regulate cell growth and division (proliferation) and movement (migration), ensuring that cells grow and stop growing at specific times and that they are positioned correctly during development.</p>
+related-health-condition/name: frontonasal dysplasia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/frontonasal-dysplasia
+synonym(1): aristaless-like homeobox 3
+synonym(2): FND
+synonym(3): FND1
+synonym(4): frontonasal dysplasia
+synonym(5): homeobox protein aristaless-like 3
+synonym(6): proline-rich transcription factor ALX3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 257
+db-key(2)/db: OMIM
+db-key(2)/key: 606014
+reviewed: 2014-04
+published: 2018-04-17

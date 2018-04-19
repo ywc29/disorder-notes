@@ -1,0 +1,21 @@
+gene-symbol: CUBN
+name: cubilin
+ghr-page: https://ghr.nlm.nih.gov/gene/CUBN
+text/text-role: function
+text/html: <p>The <i>CUBN</i> gene provides instructions for making a protein called cubilin. This protein is involved in the uptake of vitamin B12 (also called cobalamin) from food into the body. Vitamin B12, which cannot be made in the body and can only be obtained from food, is essential for the formation of DNA and proteins, the production of cellular energy, and the breakdown of fats. This vitamin is involved in the formation of red blood cells and maintenance of the brain and spinal cord (central nervous system).</p><p>The cubilin protein is primarily found associated with kidney cells and cells that line the small intestine. Cubilin is anchored to the outer membrane of these cells by its attachment to another protein called amnionless. Cubilin can interact with molecules and proteins passing through the small intestine and kidneys, including vitamin B12. During digestion, vitamin B12 is released from food. As the vitamin passes through the small intestine, cubilin attaches (binds) to it. Amnionless helps  transfer the cubilin-vitamin B12 complex into the intestinal cell. From there, the vitamin is released into the blood and transported throughout the body. In the kidneys, cubilin and amnionless are involved in the reabsorption of certain proteins that would otherwise be released in urine.</p>
+related-health-condition/name: Imerslund-Gräsbeck syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/imerslund-grasbeck-syndrome
+synonym(1): 460 kDa receptor
+synonym(2): cubilin (intrinsic factor-cobalamin receptor)
+synonym(3): cubilin precursor
+synonym(4): gp280
+synonym(5): IFCR
+synonym(6): intestinal intrinsic factor receptor
+synonym(7): intrinsic factor-vitamin B12 receptor
+synonym(8): MGA1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8029
+db-key(2)/db: OMIM
+db-key(2)/key: 602997
+reviewed: 2014-04
+published: 2018-04-17

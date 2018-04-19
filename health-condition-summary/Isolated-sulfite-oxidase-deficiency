@@ -1,0 +1,25 @@
+name: Isolated sulfite oxidase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/isolated-sulfite-oxidase-deficiency
+text/text-role: description
+text/html: <p>Isolated sulfite oxidase deficiency (ISOD) is a disorder of the nervous system, with a severe "classic" form that starts in the newborn period and a milder, late-onset form that begins later in infancy or early childhood.</p><p>Classic ISOD appears within the first few days after birth with signs and symptoms of brain dysfunction (encephalopathy) that quickly get worse. Babies with classic ISOD have seizures that are difficult to treat and feeding difficulties. They have muscle stiffness that results in paralysis of the arms and legs (spastic quadriplegia) and episodes of muscle spasms that cause backward arching of the spine (opisthotonus). Because development of the brain is impaired, the head does not grow at the same rate as the body, so it appears that the head is getting smaller as the body grows (progressive microcephaly). Abnormalities in facial features also become increasingly pronounced with lack of normal head growth. These facial differences include a relatively long and narrow face; deep-set, widely-spaced eyes; elongated openings of the eyes (palpebral fissures); puffy cheeks; a small nose; a large space between the nose and upper lip (a long philtrum); and thick lips.</p><p>Babies with classic ISOD do not respond to their environment except to startle easily in response to noises, and they do not develop any motor skills such as turning over or sitting up. They usually do not live for more than a few months. Affected individuals who survive past infancy usually develop displacement of the lenses of the eyes (ectopia lentis). Because these individuals do not react to visual stimuli (are behaviorally blind) due to the brain damage associated with classic ISOD, the ectopia lentis has no further impact on their vision.</p><p>Late-onset ISOD usually begins between the ages of 6 and 18 months, often after an illness involving fever. Individuals with this form of the disorder may not have the seizures and ectopia lentis that usually occur in the classic form. They have developmental delay and may lose skills that they had already developed (developmental regression). Movement problems occur in this form of the disorder, including muscle tensing (dystonia), uncontrolled movements of the limbs (choreoathetosis), and difficulty with coordination (ataxia). The signs and symptoms of late-onset ISOD can gradually get worse (progress), or they can be episodic, which means that they come and go. Some individuals with this form of ISOD survive into childhood or adolescence; because of the rarity of this disorder, their life expectancy is unknown.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SUOX
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SUOX
+synonym(1): encephalopathy due to sulfite oxidase deficiency
+synonym(2): ISOD
+synonym(3): sulfocysteinuria
+db-key(1)/db: GeneReviews
+db-key(1)/key: iso-def
+db-key(2)/db: MeSH
+db-key(2)/key: D000592
+db-key(3)/db: OMIM
+db-key(3)/key: 272300
+db-key(4)/db: Orphanet
+db-key(4)/key: 833
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 40873003
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 715980003
+reviewed: 2018-01
+published: 2018-04-17

@@ -1,0 +1,24 @@
+gene-symbol: EDAR
+name: ectodysplasin A receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/EDAR
+text/text-role: function
+text/html: <p>The <i>EDAR</i> gene provides instructions for making a protein called the ectodysplasin A receptor.  This protein is part of a signaling pathway that plays an important role in development before birth. Specifically, it is critical for interactions between two embryonic cell layers called the ectoderm and the mesoderm. In the early embryo, these cell layers form the basis for many of the body's organs and tissues.  Ectoderm-mesoderm interactions are essential for the formation of several structures that arise from the ectoderm, including the skin, hair, nails, teeth, and sweat glands.</p><p>The ectodysplasin A receptor interacts with a protein called ectodysplasin A1 (produced from the <i>EDA</i> gene).  On the cell surface, ectodysplasin A1 attaches to this receptor like a key in a lock.  When these two proteins are connected, they trigger a series of chemical signals that affect cell activities such as division, growth, and maturation.  Before birth, this signaling pathway controls the formation of ectodermal structures such as hair follicles, sweat glands, and teeth.</p>
+related-health-condition/name: hypohidrotic ectodermal dysplasia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hypohidrotic-ectodermal-dysplasia
+synonym(1): DL
+synonym(2): ectodysplasin 1, anhidrotic receptor
+synonym(3): ectodysplasin A1 isoform receptor
+synonym(4): ectodysplasin receptor
+synonym(5): ED1R
+synonym(6): ED3
+synonym(7): ED5
+synonym(8): EDA-A1R
+synonym(9): EDA1R
+synonym(10): EDA3
+synonym(11): EDAR_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10913
+db-key(2)/db: OMIM
+db-key(2)/key: 604095
+reviewed: 2006-08
+published: 2018-04-17

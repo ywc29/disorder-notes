@@ -1,0 +1,18 @@
+gene-symbol: ABCD1
+name: ATP binding cassette subfamily D member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ABCD1
+text/text-role: function
+text/html: <p>The <i>ABCD1</i> gene provides instructions for producing the adrenoleukodystrophy protein (ALDP). ALDP is located in the membranes of cell structures called peroxisomes. Peroxisomes are small sacs within cells that process many types of molecules. ALDP brings a group of fats called very long-chain fatty acids (VLCFAs) into peroxisomes, where they are broken down.</p>
+related-health-condition/name: X-linked adrenoleukodystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-adrenoleukodystrophy
+synonym(1): ABCD1_HUMAN
+synonym(2): ALD
+synonym(3): ALDP
+synonym(4): AMN
+synonym(5): ATP-binding cassette, sub-family D (ALD), member 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 215
+db-key(2)/db: OMIM
+db-key(2)/key: 300371
+reviewed: 2013-07
+published: 2018-04-17

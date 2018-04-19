@@ -1,0 +1,16 @@
+gene-symbol: IDS
+name: iduronate 2-sulfatase
+ghr-page: https://ghr.nlm.nih.gov/gene/IDS
+text/text-role: function
+text/html: <p>The <i>IDS</i> gene provides instructions for producing an enzyme called iduronate 2-sulfatase (I2S), which is essential for the breakdown of large sugar molecules called glycosaminoglycans (GAGs). Specifically, I2S removes a chemical group known as a sulfate from a molecule called sulfated alpha-L-iduronic acid, which is present in two GAGs called heparan sulfate and dermatan sulfate. I2S is located in lysosomes, compartments within cells that digest and recycle different types of molecules.</p>
+related-health-condition/name: mucopolysaccharidosis type II
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-ii
+synonym(1): IDS_HUMAN
+synonym(2): iduronate-2-sulfatase
+synonym(3): iduronate 2-sulfatase (Hunter syndrome)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3423
+db-key(2)/db: OMIM
+db-key(2)/key: 309900
+reviewed: 2008-12
+published: 2018-04-17

@@ -1,0 +1,35 @@
+name: Seasonal affective disorder
+ghr-page: https://ghr.nlm.nih.gov/condition/seasonal-affective-disorder
+text/text-role: description
+text/html: <p>Seasonal affective disorder is a mental health condition that is triggered by the changing of the seasons. This condition is a subtype of major depressive disorder and bipolar disorder. Major depressive disorder is characterized by prolonged sadness and a general lack of interest, while bipolar disorder is characterized by similar depressive episodes alternating with periods of abnormally high energy and activity (hypomania or mania). People with seasonal affective disorder have signs and symptoms of either major depressive disorder or bipolar disorder only during certain months of the year. Major depressive disorder is more common than bipolar disorder among people with seasonal affective disorder. This condition usually begins in a person's twenties or thirties.</p><p>The signs and symptoms that occur during depressive episodes in people with seasonal affective disorder are similar to those of major depressive disorder, including a loss of interest or enjoyment in activities, a decrease in energy, a depressed mood, and low self-esteem. In most people with seasonal affective disorder, depression and other features appear in the fall and winter months and subside in the spring and summer months. In these individuals, additional symptoms often include weight gain due to increased intake of carbohydrates and an increase in sleep (hypersomnia). Affected individuals with underlying bipolar disorder typically have alternating episodes of depression in the fall and winter months and mania during the spring and summer months.</p><p>In about 10 percent of people with seasonal affective disorder, the condition has the opposite seasonal pattern, occurring in the spring and summer months and stopping during the fall and winter months. These individuals usually have a loss of appetite and sleep, unlike those with symptoms in the fall and winter.</p><p>For those affected, it is estimated that symptoms of seasonal affective disorder are present during 40 percent of the year. In some individuals, seasonal affective disorder does not recur every year. Thirty to 50 percent of affected individuals do not show symptoms of the disorder in consecutive winters. In about 40 percent of individuals with seasonal affective disorder, depressive episodes continue after winter and do not alleviate in the summer months, leading to a change in diagnosis to either major depressive disorder or bipolar disorder.</p><p>Individuals with seasonal affective disorder tend to have another psychological condition, such as attention deficit hyperactivity disorder (ADHD), an eating disorder, anxiety disorder, or panic disorder.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: ARNTL
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ARNTL
+related-gene(2)/gene-symbol: CLOCK
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CLOCK
+related-gene(3)/gene-symbol: CRY2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CRY2
+related-gene(4)/gene-symbol: HTR2A
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/HTR2A
+related-gene(5)/gene-symbol: NPAS2
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/NPAS2
+related-gene(6)/gene-symbol: OPN4
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/OPN4
+related-gene(7)/gene-symbol: PER2
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/PER2
+synonym(1): affective disorder, seasonal
+synonym(2): depression in a seasonal pattern
+synonym(3): depression; seasonal
+synonym(4): major depressive disorder with a seasonal pattern
+synonym(5): SAD
+synonym(6): seasonal depression
+synonym(7): seasonal mood disorder
+db-key(1)/db: MeSH
+db-key(1)/key: D016574
+db-key(2)/db: OMIM
+db-key(2)/key: 608516
+db-key(3)/db: SNOMED CT
+db-key(3)/key: 247803002
+reviewed: 2017-12
+published: 2018-04-17

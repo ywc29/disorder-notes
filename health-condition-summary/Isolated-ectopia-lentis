@@ -1,0 +1,46 @@
+name: Isolated ectopia lentis
+ghr-page: https://ghr.nlm.nih.gov/condition/isolated-ectopia-lentis
+text/text-role: description
+text/html: <p>Isolated ectopia lentis is a condition that affects the eyes, specifically the positioning of the lens. The lens is a clear structure at the front of the eye that helps focus light. In people with isolated ectopia lentis, the lens in one or both eyes is not centrally positioned as it should be but is off-center (displaced). Isolated ectopia lentis usually becomes apparent in childhood. The lens may drift further off-center over time.</p><p>Vision problems are common in isolated ectopia lentis. Affected individuals often have nearsightedness (myopia) and can have an irregular curvature of the lens or a structure that covers the front of the eye (the cornea), which causes blurred vision (astigmatism). They may also develop clouding of the lenses (cataracts) or increased pressure in the eyes (glaucoma) at an earlier age than other adults. In a small number of people with isolated ectopia lentis, tearing of the back lining of the eye (retinal detachment) occurs, which can lead to further vision problems and possible blindness.</p><p>In individuals with isolated ectopia lentis, each eye can be affected differently. In addition, the eye problems vary among affected individuals, even those within the same family.</p><p>Ectopia lentis is classified as isolated when it occurs alone without signs and symptoms affecting other body systems. Ectopia lentis can also be classified as syndromic, when it is part of a syndrome that affects multiple parts of the body. Ectopia lentis is a common feature of genetic syndromes such as Marfan syndrome and Weill-Marchesani syndrome.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: ADAMTSL4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ADAMTSL4
+related-gene(2)/gene-symbol: FBN1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FBN1
+synonym(1): congenital ectopia lentis
+synonym(2): ectopia lentis
+synonym(3): lens subluxation
+synonym(4): subluxation of lens
+db-key(1)/db: GTR
+db-key(1)/key: C1851286
+db-key(2)/db: GTR
+db-key(2)/key: C2673634
+db-key(3)/db: GeneReviews
+db-key(3)/key: adamtsl4-eyes
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: H27.11
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: H27.111
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: H27.112
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: H27.113
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: H27.119
+db-key(9)/db: MeSH
+db-key(9)/key: D004479
+db-key(10)/db: OMIM
+db-key(10)/key: 129600
+db-key(11)/db: OMIM
+db-key(11)/key: 225100
+db-key(12)/db: Orphanet
+db-key(12)/key: 1885
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 65814009
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 74969002
+reviewed: 2015-03
+published: 2018-04-17

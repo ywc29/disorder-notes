@@ -1,0 +1,38 @@
+gene-symbol: ERCC2
+name: ERCC excision repair 2, TFIIH core complex helicase subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/ERCC2
+text/text-role: function
+text/html: <p>The <i>ERCC2</i> gene provides instructions for making a protein called XPD. This protein is an essential part (subunit) of a group of proteins known as the general transcription factor IIH (TFIIH) complex. The TFIIH complex has two major functions: it is involved in a process called gene transcription, and it helps repair damaged DNA.</p><p>Gene transcription is the first step in protein production. By controlling gene transcription, the TFIIH complex helps regulate the activity of many different genes. The XPD protein appears to stabilize the TFIIH complex. Studies suggest that the XPD protein works together with XPB, another protein in the TFIIH complex that is produced from the <i>ERCC3</i> gene, to start (initiate) gene transcription.</p><p>The TFIIH complex also plays an important role in repairing damaged DNA. DNA can be damaged by ultraviolet (UV) rays from the sun and by toxic chemicals, radiation, and unstable molecules called free radicals. DNA damage occurs frequently, but normal cells are usually able to fix it before it can cause problems. One of the major mechanisms that cells use to fix DNA is known as nucleotide excision repair (NER). As part of this repair mechanism, the TFIIH complex separates the section of double-stranded DNA that surrounds the damage. The XPD protein helps with this process by acting as a helicase, which is an enzyme that attaches to particular regions of DNA and temporarily unwinds the two spiral strands. Once the damaged region has been exposed, other proteins snip out (excise) the abnormal section and replace the damaged area with the correct DNA.</p>
+related-health-condition(1)/name: trichothiodystrophy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/trichothiodystrophy
+related-health-condition(2)/name: xeroderma pigmentosum
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/xeroderma-pigmentosum
+synonym(1): basic transcription factor 2 80 kDa subunit
+synonym(2): BTF2 p80
+synonym(3): COFS2
+synonym(4): CXPD
+synonym(5): DNA excision repair protein ERCC-2
+synonym(6): DNA repair protein complementing XP-D cells
+synonym(7): EM9
+synonym(8): ERCC2_HUMAN
+synonym(9): excision repair cross-complementation group 2
+synonym(10): excision repair cross-complementing rodent repair deficiency, complementation group 2
+synonym(11): MAG
+synonym(12): MGC102762
+synonym(13): MGC126218
+synonym(14): MGC126219
+synonym(15): TFIIH
+synonym(16): TFIIH 80 kDa subunit
+synonym(17): TFIIH basal transcription factor complex 80 kDa subunit
+synonym(18): TFIIH basal transcription factor complex helicase subunit
+synonym(19): TFIIH p80
+synonym(20): TTD
+synonym(21): xeroderma pigmentosum complementary group D
+synonym(22): xeroderma pigmentosum group D-complementing protein
+synonym(23): XPD
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2068
+db-key(2)/db: OMIM
+db-key(2)/key: 126340
+reviewed: 2010-05
+published: 2018-04-17

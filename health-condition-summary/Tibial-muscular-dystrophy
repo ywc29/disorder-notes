@@ -1,0 +1,27 @@
+name: Tibial muscular dystrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/tibial-muscular-dystrophy
+text/text-role: description
+text/html: <p>Tibial muscular dystrophy is a condition that affects the muscles at the front of the lower leg. The signs and symptoms of this condition typically appear after age 35. The first sign is usually weakness and wasting (atrophy) of a muscle in the lower leg called the tibialis anterior. This muscle helps control up-and-down movement of the foot. Weakness in the tibialis anterior muscle makes it difficult or impossible to walk on the heels, but it usually does not interfere significantly with regular walking.</p><p>Muscle weakness worsens very slowly in people with tibial muscular dystrophy.  Ten to 20 years after the onset of symptoms, weakness may develop in muscles that help extend the toes (long-toe extensors). Weakness in these muscles makes it difficult to lift the toes while walking, a condition known as foot drop. Later in life, about one third of people with tibial muscular dystrophy experience mild to moderate difficulty with walking because of weakness in other leg muscles. However, most affected individuals remain able to walk throughout their lives.</p><p>A small percentage of people with tibial muscular dystrophy have a somewhat different pattern of signs and symptoms than those described above. Starting in childhood, these individuals may have generalized muscle weakness, weakness and atrophy of the thigh muscles (quadriceps) or other muscles in the legs, and weakness affecting muscles in the arms.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: TTN
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TTN
+synonym(1): tardive tibial muscular dystrophy
+synonym(2): TMD
+synonym(3): Udd distal myopathy
+synonym(4): Udd-Markesbery muscular dystrophy
+synonym(5): Udd myopathy
+db-key(1)/db: GTR
+db-key(1)/key: C1838244
+db-key(2)/db: GeneReviews
+db-key(2)/key: udd
+db-key(3)/db: MeSH
+db-key(3)/key: D049310
+db-key(4)/db: OMIM
+db-key(4)/key: 600334
+db-key(5)/db: Orphanet
+db-key(5)/key: 609
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 698846009
+reviewed: 2012-02
+published: 2018-04-17

@@ -1,0 +1,29 @@
+gene-symbol: GJB2
+name: gap junction protein beta 2
+ghr-page: https://ghr.nlm.nih.gov/gene/GJB2
+text/text-role: function
+text/html: <p>The <i>GJB2</i> gene provides instructions for making a protein called gap junction beta 2, more commonly known as connexin 26.  Connexin 26 is a member of the connexin protein family. Connexin proteins form channels called gap junctions that permit the transport of nutrients, charged atoms (ions), and signaling molecules between adjoining cells. The size of the gap junction and the types of particles that move through it are determined by the particular connexin proteins that make up the channel. Gap junctions made with connexin 26 transport potassium ions and certain small molecules.</p><p>Connexin 26 is found in cells throughout the body, including the inner ear. Because of its presence in the inner ear, especially the snail-shaped structure called the cochlea, researchers are interested in this protein's role in hearing. Hearing requires the conversion of sound waves to electrical nerve impulses. This conversion involves many processes, including maintenance of the proper level of potassium ions in the inner ear. Some studies indicate that channels made with connexin 26 help to maintain the correct level of potassium ions. Other research suggests that connexin 26 is required for the maturation of certain cells in the cochlea.</p><p>Connexin 26 is also found in the skin. It is thought to play a role in the growth, maturation, and stability of the skin's outermost layer, the epidermis.</p>
+related-health-condition(1)/name: Bart-Pumphrey syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/bart-pumphrey-syndrome
+related-health-condition(2)/name: hystrix-like ichthyosis with deafness
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/hystrix-like-ichthyosis-with-deafness
+related-health-condition(3)/name: keratitis-ichthyosis-deafness syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/keratitis-ichthyosis-deafness-syndrome
+related-health-condition(4)/name: nonsyndromic hearing loss
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-hearing-loss
+related-health-condition(5)/name: palmoplantar keratoderma with deafness
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/palmoplantar-keratoderma-with-deafness
+related-health-condition(6)/name: Vohwinkel syndrome
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/vohwinkel-syndrome
+synonym(1): CX26
+synonym(2): CXB2_HUMAN
+synonym(3): DFNA3
+synonym(4): DFNB1
+synonym(5): gap junction protein, beta 2, 26kDa
+synonym(6): NSRD1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2706
+db-key(2)/db: OMIM
+db-key(2)/key: 121011
+reviewed: 2016-02
+published: 2018-04-17

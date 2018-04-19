@@ -1,0 +1,24 @@
+gene-symbol: MEGF8
+name: multiple EGF like domains 8
+ghr-page: https://ghr.nlm.nih.gov/gene/MEGF8
+text/text-role: function
+text/html: <p>The <i>MEGF8</i> gene provides instructions for making a protein whose function is unclear. Based on its structure, the Megf8 protein may be involved in cell processes such as attaching cells to one another (cell adhesion) and helping proteins interact with each other. Researchers also suspect that the Megf8 protein plays a role in the normal shaping (patterning) of many parts of the body during embryonic development.</p>
+related-health-condition/name: Carpenter syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/carpenter-syndrome
+synonym(1): C19orf49
+synonym(2): EGF-like domain-containing protein 4
+synonym(3): EGF-like-domain, multiple 4
+synonym(4): EGFL4
+synonym(5): epidermal growth factor-like protein 4
+synonym(6): FLJ22365
+synonym(7): HBV pre-s2 binding protein 1
+synonym(8): MEGF8_HUMAN
+synonym(9): multiple EGF-like-domains 8
+synonym(10): multiple epidermal growth factor-like domains protein 8
+synonym(11): SBP1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1954
+db-key(2)/db: OMIM
+db-key(2)/key: 604267
+reviewed: 2013-05
+published: 2018-04-17

@@ -1,0 +1,19 @@
+gene-symbol: HEXA
+name: hexosaminidase subunit alpha
+ghr-page: https://ghr.nlm.nih.gov/gene/HEXA
+text/text-role: function
+text/html: <p>The <i>HEXA</i> gene provides instructions for making one part (subunit) of an enzyme called beta-hexosaminidase A. Specifically, the protein produced from the <i>HEXA</i> gene forms the alpha subunit of this enzyme. One alpha subunit joins with one beta subunit (produced from the <i>HEXB</i> gene) to form a functioning enzyme.</p><p>Beta-hexosaminidase A plays a critical role in the brain and spinal cord (central nervous system).  This enzyme is found in lysosomes, which are structures in cells that break down toxic substances and act as recycling centers. Within lysosomes, beta-hexosaminidase A forms part of a complex that breaks down a fatty substance called GM2 ganglioside.</p>
+related-health-condition/name: Tay-Sachs disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/tay-sachs-disease
+synonym(1): Beta-hexosaminidase A
+synonym(2): beta-N-Acetylhexosaminidase A
+synonym(3): Hex A
+synonym(4): HEXA_HUMAN
+synonym(5): hexosaminidase A (alpha polypeptide)
+synonym(6): N-acetyl-beta-glucosaminidase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3073
+db-key(2)/db: OMIM
+db-key(2)/key: 606869
+reviewed: 2008-09
+published: 2018-04-17

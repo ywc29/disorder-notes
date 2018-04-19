@@ -1,0 +1,20 @@
+gene-symbol: SERPINI1
+name: serpin family I member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SERPINI1
+text/text-role: function
+text/html: <p>The <i>SERPINI1</i> gene provides instructions for making a protein called neuroserpin, which is a type of serine protease inhibitor (serpin). Serpins help control several kinds of chemical reactions by blocking (inhibiting) the activity of certain proteins. Neuroserpin inhibits the activity of an enzyme called tissue plasminogen activator (tPA), which plays a role in cell movement (migration), blood clotting, and inflammation.</p><p>As its name suggests, neuroserpin is involved in the development and function of the nervous system. This protein helps control the growth of nerve cells (neurons), particularly specialized extensions called axons that are required for the transmission of nerve impulses. Neuroserpin also plays a role in the development of synapses, which are the connections between neurons where cell-to-cell communication occurs. Synapses can change and adapt over time in response to experience, a characteristic called synaptic plasticity. Neuroserpin helps regulate synaptic plasticity, which suggests that it may be important for learning and memory.</p>
+related-health-condition/name: familial encephalopathy with neuroserpin inclusion bodies
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-encephalopathy-with-neuroserpin-inclusion-bodies
+synonym(1): neuroserpin
+synonym(2): NEUS_HUMAN
+synonym(3): PI12
+synonym(4): protease inhibitor 12 (neuroserpin)
+synonym(5): serine (or cysteine) proteinase inhibitor, clade I (neuroserpin), member 1
+synonym(6): Serpin I1
+synonym(7): serpin peptidase inhibitor, clade I (neuroserpin), member 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5274
+db-key(2)/db: OMIM
+db-key(2)/key: 602445
+reviewed: 2009-04
+published: 2018-04-17

@@ -1,0 +1,21 @@
+gene-symbol: RFXANK
+name: regulatory factor X associated ankyrin containing protein
+ghr-page: https://ghr.nlm.nih.gov/gene/RFXANK
+text/text-role: function
+text/html: <p>The <i>RFXANK</i> gene provides instructions for making a protein that primarily helps control the activity (transcription) of genes called major histocompatibility complex (MHC) class II genes. Transcription is the first step in the production of proteins, and RFXANK is critical for the production of specialized immune proteins called MHC class II proteins from these genes.</p><p>The RFXANK protein is part of a group of proteins called the regulatory factor X (RFX) complex. This complex attaches to a specific region of DNA involved in the regulation of MHC class II gene activity. RFXANK helps the complex attach to the correct region of DNA. The RFX complex attracts other necessary proteins to this region and helps turn on MHC class II gene transcription, allowing production of MHC class II proteins.</p><p>MHC class II proteins are found on the surface of several types of immune cells, including white blood cells (lymphocytes) that are involved in immune reactions. These proteins play an important role in the body's immune response to foreign invaders, such as bacteria, viruses, and fungi. To help the body recognize and fight infections, MHC class II proteins bind to fragments of proteins (peptides) from foreign invaders so that other specialized immune system cells can interact with them. When these immune system cells recognize the peptides as harmful, they trigger the lymphocytes and other immune cells to launch immune responses to get rid of the foreign invaders.</p><p>The RFX complex also appears to play a role in the transcription of MHC class I genes, which provide instructions for making immune system proteins called MHC class I proteins. Like MHC class II proteins, MHC class I proteins attach to peptides from foreign invaders and present them to specific immune system cells. These cells then attack the foreign invaders to rid them from the body. While the RFX complex is able to help control MHC class I gene activity, it is not the primary regulator of these genes. Other proteins play a more prominent role in their transcription.</p>
+related-health-condition/name: bare lymphocyte syndrome type II
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/bare-lymphocyte-syndrome-type-ii
+synonym(1): ANKRA1
+synonym(2): ankyrin repeat-containing regulatory factor X-associated protein
+synonym(3): ankyrin repeat family A protein 1
+synonym(4): F14150_1
+synonym(5): MGC138628
+synonym(6): regulatory factor X subunit B
+synonym(7): RFX-B
+synonym(8): RFX-Bdelta4
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8625
+db-key(2)/db: OMIM
+db-key(2)/key: 603200
+reviewed: 2017-06
+published: 2018-04-17

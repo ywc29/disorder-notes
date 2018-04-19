@@ -1,0 +1,40 @@
+name: Familial restrictive cardiomyopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-restrictive-cardiomyopathy
+text/text-role: description
+text/html: <p>Familial restrictive cardiomyopathy is a genetic form of heart disease. For the heart to beat normally, the heart (cardiac) muscle must contract and relax in a coordinated way. Oxygen-rich blood from the lungs travels first through the upper chambers of the heart (the atria), and then to the lower chambers of the heart (the ventricles).</p><p>In people with familial restrictive cardiomyopathy, the heart muscle is stiff and cannot fully relax after each contraction. Impaired muscle relaxation causes blood to back up in the atria and lungs, which reduces the amount of blood in the ventricles.</p><p>Familial restrictive cardiomyopathy can appear anytime from childhood to adulthood. The first signs and symptoms of this condition in children are failure to gain weight and grow at the expected rate (failure to thrive), extreme tiredness (fatigue), and fainting. Children who are severely affected may also have abnormal swelling or puffiness (edema), increased blood pressure, an enlarged liver, an abnormal buildup of fluid in the abdominal cavity (ascites), and lung congestion. Some children with familial restrictive cardiomyopathy do not have any obvious signs or symptoms, but they may die suddenly due to heart failure. Without treatment, the majority of affected children survive only a few years after they are diagnosed.</p><p>Adults with familial restrictive cardiomyopathy typically first develop shortness of breath, fatigue, and a reduced ability to exercise. Some individuals have an irregular heart beat (arrhythmia) and may also experience a sensation of fluttering or pounding in the chest (palpitations) and dizziness. Abnormal blood clots are commonly seen in adults with this condition. Without treatment, approximately one-third of adults with familial restrictive cardiomyopathy do not survive more than five years after diagnosis.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: ACTC1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ACTC1
+related-gene(2)/gene-symbol: MYH7
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MYH7
+related-gene(3)/gene-symbol: TNNI3
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/TNNI3
+related-gene(4)/gene-symbol: TNNT2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/TNNT2
+synonym(1): cardiomyopathy, restrictive
+synonym(2): RCM
+db-key(1)/db: GTR
+db-key(1)/key: C0340429
+db-key(2)/db: GTR
+db-key(2)/key: C1861861
+db-key(3)/db: GTR
+db-key(3)/key: C1865071
+db-key(4)/db: GTR
+db-key(4)/key: C2676271
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: I42.5
+db-key(6)/db: MeSH
+db-key(6)/key: D002313
+db-key(7)/db: OMIM
+db-key(7)/key: 115210
+db-key(8)/db: OMIM
+db-key(8)/key: 609578
+db-key(9)/db: OMIM
+db-key(9)/key: 612422
+db-key(10)/db: Orphanet
+db-key(10)/key: 217635
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 233878008
+reviewed: 2011-01
+published: 2018-04-17

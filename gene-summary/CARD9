@@ -1,0 +1,15 @@
+gene-symbol: CARD9
+name: caspase recruitment domain family member 9
+ghr-page: https://ghr.nlm.nih.gov/gene/CARD9
+text/text-role: function
+text/html: <p>The <i>CARD9</i> gene provides instructions for making an immune system protein that is involved in the body's defense against fungal infections and is particularly important for fighting infection by a fungus called <i>Candida</i>. When the immune system recognizes <i>Candida</i>, it generates cells called Th17 cells. These cells produce signaling molecules (cytokines) called the interleukin-17 (IL-17) family as part of an immune process called the IL-17 pathway. The IL-17 pathway creates inflammation, sending other cytokines and white blood cells that fight foreign invaders and promote tissue repair. In addition, the IL-17 pathway promotes the production of certain antimicrobial protein segments (peptides) that control growth of <i>Candida</i> on the surface of mucous membranes.</p><p>In its role in defending against <i>Candida</i> on the mucous membranes and skin, the CARD9 protein passes along signals from other types of immune system proteins. Each of these proteins recognizes a different component of the <i>Candida</i> cell wall to trigger the production of Th17 cells and launch the immune response.</p><p>In addition to its role in protecting mucous membranes from fungal infection, the CARD9 protein is also important in recruiting neutrophils (immune cells that have strong anti-fungal activity) from the blood to protect the brain and other organs from fungal infection.</p>
+related-health-condition/name: familial candidiasis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-candidiasis
+synonym(1): caspase recruitment domain family, member 9
+synonym(2): hCARD9
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 64170
+db-key(2)/db: OMIM
+db-key(2)/key: 607212
+reviewed: 2016-09
+published: 2018-04-17

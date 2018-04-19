@@ -1,0 +1,10 @@
+gene-symbol: CHRNA1
+name: cholinergic receptor nicotinic alpha 1 subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/CHRNA1
+related-health-condition(1)/name: congenital myasthenic syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-myasthenic-syndrome
+related-health-condition(2)/name: multiple pterygium syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-pterygium-syndrome
+db-key/db: NCBI Gene
+db-key/key: 1134
+published: 2018-04-17

@@ -1,0 +1,21 @@
+gene-symbol: MCOLN1
+name: mucolipin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/MCOLN1
+text/text-role: function
+text/html: <p>The <i>MCOLN1</i> gene provides instructions for making a protein called mucolipin-1. This protein is located in the membranes of lysosomes and endosomes, compartments within the cell that digest and recycle materials. While its function is not completely understood, mucolipin-1 plays a role in the transport (trafficking) of fats (lipids) and proteins between lysosomes and endosomes.</p><p>Mucolipin-1 acts as a channel, allowing positively charged atoms (cations) to cross the membranes of lysosomes and endosomes. It remains unclear which cations are allowed to flow through this channel. Mucolipin-1 appears to be important for the development and maintenance of the brain and light-sensitive tissue at the back of the eye (retina). In addition, this protein is likely critical for normal functioning of the cells in the stomach that produce digestive acids.</p>
+related-health-condition/name: mucolipidosis type IV
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mucolipidosis-type-iv
+synonym(1): MCLN1_HUMAN
+synonym(2): ML4
+synonym(3): MLIV
+synonym(4): MST080
+synonym(5): MSTP080
+synonym(6): mucolipidin
+synonym(7): TRP-ML1
+synonym(8): TRPML1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57192
+db-key(2)/db: OMIM
+db-key(2)/key: 605248
+reviewed: 2009-05
+published: 2018-04-17

@@ -1,0 +1,18 @@
+name: 4
+ghr-page: https://ghr.nlm.nih.gov/chromosome/4
+text/text-role: description
+text/html: <p>Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 4, one copy inherited from each parent, form one of the pairs. Chromosome 4 spans about 191 million DNA building blocks (base pairs) and represents more than 6 percent of the total DNA in cells.</p><p>Identifying genes on each chromosome is an active area of genetic research. Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 4 likely contains 1,000 to 1,100 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.</p>
+related-health-condition(1)/name: facioscapulohumeral muscular dystrophy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/facioscapulohumeral-muscular-dystrophy
+related-health-condition(2)/name: PDGFRA-associated chronic eosinophilic leukemia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pdgfra-associated-chronic-eosinophilic-leukemia
+related-health-condition(3)/name: Wolf-Hirschhorn syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/wolf-hirschhorn-syndrome
+db-key(1)/db: GeneReviews
+db-key(1)/key: fsh
+db-key(2)/db: GeneReviews
+db-key(2)/key: whs
+db-key(3)/db: OMIM
+db-key(3)/key: 254500
+reviewed: 2012-02
+published: 2018-04-17

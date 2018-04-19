@@ -1,0 +1,49 @@
+name: Achondrogenesis
+ghr-page: https://ghr.nlm.nih.gov/condition/achondrogenesis
+text/text-role: description
+text/html: <p>Achondrogenesis is a group of severe disorders that affect cartilage and bone development. These conditions are characterized by a small body, short limbs, and other skeletal abnormalities. As a result of serious health problems, infants with achondrogenesis usually die before birth, are stillborn, or die soon after birth from respiratory failure. However, some infants have lived for a short time with intensive medical support.</p><p>Researchers have described at least three forms of achondrogenesis, designated as type 1A, type 1B, and type 2. The types are distinguished by their signs and symptoms, inheritance pattern, and genetic cause. However, types 1A and 1B are often hard to tell apart without genetic testing.</p><p>Achondrogenesis type 1A, which is also called the Houston-Harris type, is the least well understood of the three forms. Affected infants have extremely short limbs, a narrow chest, short ribs that fracture easily, and a lack of normal bone formation (ossification) in the skull, spine, and pelvis.</p><p>Achondrogenesis type 1B, also known as the Parenti-Fraccaro type, is characterized by extremely short limbs, a narrow chest, and a prominent, rounded abdomen. The fingers and toes are short and the feet may turn inward and upward (clubfeet). Affected infants frequently have a soft out-pouching around the belly-button (an umbilical hernia) or near the groin (an inguinal hernia).</p><p>Infants with achondrogenesis type 2, which is sometimes called the Langer-Saldino type, have short arms and legs, a narrow chest with short ribs, and underdeveloped lungs. This condition is also associated with a lack of ossification in the spine and pelvis. Distinctive facial features include a prominent forehead, a small chin, and, in some cases, an opening in the roof of the mouth (a cleft palate). The abdomen is enlarged, and affected infants often have a condition called hydrops fetalis, in which excess fluid builds up in the body before birth.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: COL2A1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/COL2A1
+related-gene(2)/gene-symbol: SLC26A2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC26A2
+related-gene(3)/gene-symbol: TRIP11
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/TRIP11
+synonym: achondrogenesis syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0220685
+db-key(2)/db: GTR
+db-key(2)/key: C0265273
+db-key(3)/db: GTR
+db-key(3)/key: C0265274
+db-key(4)/db: GeneReviews
+db-key(4)/key: achon1b
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: Q77.0
+db-key(6)/db: MeSH
+db-key(6)/key: D010009
+db-key(7)/db: OMIM
+db-key(7)/key: 200600
+db-key(8)/db: OMIM
+db-key(8)/key: 200610
+db-key(9)/db: OMIM
+db-key(9)/key: 600972
+db-key(10)/db: Orphanet
+db-key(10)/key: 932
+db-key(11)/db: Orphanet
+db-key(11)/key: 93296
+db-key(12)/db: Orphanet
+db-key(12)/key: 93298
+db-key(13)/db: Orphanet
+db-key(13)/key: 93299
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 14870002
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 2391001
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 254061001
+reviewed: 2015-03
+published: 2018-04-17

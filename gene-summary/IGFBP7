@@ -1,0 +1,30 @@
+gene-symbol: IGFBP7
+name: insulin like growth factor binding protein 7
+ghr-page: https://ghr.nlm.nih.gov/gene/IGFBP7
+text/text-role: function
+text/html: <p>The <i>IGFBP7</i> gene provides instructions for making a protein called insulin-like growth factor-binding protein 7 (IGFBP7). Insulin-like growth factors (IGFs) are molecules that are involved in promoting cell growth and division and preventing cells from self-destructing (undergoing apoptosis) prematurely. The IGFBP7 protein is one of a group of proteins that help control the availability of IGFs in body fluids and tissues and increase or decrease the attachment (binding) of IGFs to other molecules called receptors. The binding of IGFs and their receptors activates the cell signaling processes in which they are involved.</p><p>The IGFBP7 protein is active in the lining of blood vessels (the vascular endothelium). Its interactions with IGFs and their receptors are thought to help stop a pathway called BRAF signaling, which is involved in directing cell growth.</p>
+related-health-condition/name: retinal arterial macroaneurysm with supravalvular pulmonic stenosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/retinal-arterial-macroaneurysm-with-supravalvular-pulmonic-stenosis
+synonym(1): AGM
+synonym(2): angiomodulin
+synonym(3): FSTL2
+synonym(4): IBP-7
+synonym(5): IGF-binding protein 7
+synonym(6): IGFBP-7
+synonym(7): IGFBP-7v
+synonym(8): IGFBP-rP1
+synonym(9): IGFBPRP1
+synonym(10): insulin-like growth factor binding protein 7
+synonym(11): MAC25
+synonym(12): PGI2-stimulating factor
+synonym(13): prostacyclin-stimulating factor
+synonym(14): PSF
+synonym(15): RAMSVPS
+synonym(16): TAF
+synonym(17): tumor-derived adhesion factor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3490
+db-key(2)/db: OMIM
+db-key(2)/key: 602867
+reviewed: 2015-08
+published: 2018-04-17

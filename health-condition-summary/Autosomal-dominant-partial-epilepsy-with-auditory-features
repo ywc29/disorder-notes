@@ -1,0 +1,27 @@
+name: Autosomal dominant partial epilepsy with auditory features
+ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-partial-epilepsy-with-auditory-features
+text/text-role: description
+text/html: <p>Autosomal dominant partial epilepsy with auditory features (ADPEAF) is an uncommon form of epilepsy that runs in families.  This disorder causes seizures  usually characterized by sound-related (auditory) symptoms such as buzzing, humming, or ringing.  Some people experience more complex sounds during a seizure, such as specific voices or music, or changes in the volume of sounds.  Some people with ADPEAF suddenly become unable to understand language before losing consciousness during a seizure.  This inability to understand speech is known as receptive aphasia.  Less commonly, seizures may cause visual hallucinations, a disturbance in the sense of smell, a feeling of dizziness or spinning (vertigo), or other symptoms affecting the senses.</p><p>Seizures associated with ADPEAF usually begin in adolescence or young adulthood.  They may be triggered by specific sounds, such as a ringing telephone or speech, but in most cases the seizures do not have any recognized triggers.   In most affected people, seizures are infrequent and effectively controlled with medication.</p><p>Most people with ADPEAF have seizures described as simple partial seizures, which do not cause a loss of consciousness.  These seizures are thought to begin in a part of the brain called the lateral temporal lobe.  In some people, seizure activity may spread from the lateral temporal lobe to affect other regions of the brain.  If seizure activity spreads to affect the entire brain, it causes a loss of consciousness, muscle stiffening, and rhythmic jerking. Episodes that begin as partial seizures and spread throughout the brain are known as secondarily generalized seizures.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: LGI1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LGI1
+synonym(1): ADLTE
+synonym(2): ADPEAF
+synonym(3): Autosomal dominant lateral temporal lobe epilepsy
+synonym(4): Epilepsy, partial, with auditory features
+synonym(5): ETL1
+db-key(1)/db: GTR
+db-key(1)/key: C1838062
+db-key(2)/db: GeneReviews
+db-key(2)/key: peaf
+db-key(3)/db: MeSH
+db-key(3)/key: D004828
+db-key(4)/db: OMIM
+db-key(4)/key: 600512
+db-key(5)/db: Orphanet
+db-key(5)/key: 98820
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 72103000
+reviewed: 2008-07
+published: 2018-04-17

@@ -1,0 +1,43 @@
+name: Weill-Marchesani syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/weill-marchesani-syndrome
+text/text-role: description
+text/html: <p>Weill-Marchesani syndrome is a disorder of connective tissue. Connective tissue forms the body's supportive framework, providing structure and strength to the muscles, joints, organs, and skin.</p><p>The major signs and symptoms of Weill-Marchesani syndrome include short stature, eye abnormalities, unusually short fingers and toes (brachydactyly), and joint stiffness. Adult height for men with Weill-Marchesani syndrome ranges from 4 feet, 8 inches to 5 feet, 6 inches. Adult height for women with this condition ranges from 4 feet, 3 inches to 5 feet, 2 inches.</p><p>An eye abnormality called microspherophakia is characteristic of Weill-Marchesani syndrome. This term refers to a small, sphere-shaped lens, which is associated with nearsightedness (myopia) that worsens over time. The lens also may be positioned abnormally within the eye (ectopia lentis). Many people with Weill-Marchesani syndrome develop glaucoma, an eye disease that increases the pressure in the eye and can lead to blindness.</p><p>Occasionally, heart defects or an abnormal heart rhythm can occur in people with Weill-Marchesani syndrome.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: ADAMTS10
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ADAMTS10
+related-gene(2)/gene-symbol: FBN1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FBN1
+synonym(1): brachydactyly-spherophakia syndrome
+synonym(2): brachymorphy with spherophakia syndrome
+synonym(3): congenital mesodermal dysmorphodystrophy
+synonym(4): Marchesani syndrome
+synonym(5): Marchesani-Weill Syndrome
+synonym(6): spherophakia-brachymorphia syndrome
+synonym(7): WMS
+db-key(1)/db: GTR
+db-key(1)/key: C0265313
+db-key(2)/db: GTR
+db-key(2)/key: C1869114
+db-key(3)/db: GTR
+db-key(3)/key: C1869115
+db-key(4)/db: GTR
+db-key(4)/key: C3553785
+db-key(5)/db: GeneReviews
+db-key(5)/key: weill-ms
+db-key(6)/db: MeSH
+db-key(6)/key: D056846
+db-key(7)/db: OMIM
+db-key(7)/key: 277600
+db-key(8)/db: OMIM
+db-key(8)/key: 608328
+db-key(9)/db: OMIM
+db-key(9)/key: 614819
+db-key(10)/db: Orphanet
+db-key(10)/key: 3449
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 2884008
+reviewed: 2015-02
+published: 2018-04-17

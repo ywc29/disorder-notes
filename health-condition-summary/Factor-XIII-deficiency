@@ -1,0 +1,29 @@
+name: Factor XIII deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/factor-xiii-deficiency
+text/text-role: description
+text/html: <p>Factor XIII deficiency is a rare bleeding disorder. Researchers have identified an inherited form and a less severe form that is acquired during a person's lifetime.</p><p>Signs and symptoms of inherited factor XIII deficiency begin soon after birth, usually with abnormal bleeding from the umbilical cord stump. If the condition is not treated, affected individuals may have episodes of excessive and prolonged bleeding that can be life-threatening. Abnormal bleeding can occur after surgery or minor trauma. The condition can also cause spontaneous bleeding into the joints or muscles, leading to pain and disability. Women with inherited factor XIII deficiency tend to have heavy or prolonged menstrual bleeding (menorrhagia) and may experience recurrent pregnancy losses (miscarriages). Other signs and symptoms of inherited factor XIII deficiency include nosebleeds, bleeding of the gums, easy bruising, problems with wound healing, and abnormal scar formation. Inherited factor XIII deficiency also  increases the risk of spontaneous bleeding inside the skull (intracranial hemorrhage), which is the leading cause of death in people with this condition.</p><p>Acquired factor XIII deficiency becomes apparent later in life. People with the acquired form are less likely to have severe or life-threatening episodes of abnormal bleeding than those with the inherited form.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: F13A1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/F13A1
+related-gene(2)/gene-symbol: F13B
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/F13B
+synonym(1): deficiency of factor XIII
+synonym(2): deficiency, Laki-Lorand factor
+synonym(3): fibrin stabilizing factor deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C2750481
+db-key(2)/db: GTR
+db-key(2)/key: C2750514
+db-key(3)/db: MeSH
+db-key(3)/key: D005177
+db-key(4)/db: OMIM
+db-key(4)/key: 613225
+db-key(5)/db: OMIM
+db-key(5)/key: 613235
+db-key(6)/db: Orphanet
+db-key(6)/key: 331
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 18604004
+reviewed: 2015-09
+published: 2018-04-17

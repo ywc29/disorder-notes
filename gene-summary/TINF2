@@ -1,0 +1,21 @@
+gene-symbol: TINF2
+name: TERF1 interacting nuclear factor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/TINF2
+text/text-role: function
+text/html: <p>The <i>TINF2</i> gene provides instructions for making part of the shelterin protein complex. This complex consists of a group of proteins that work together to help maintain structures known as telomeres, which are found at the ends of chromosomes. Telomeres help protect chromosomes from abnormally sticking together or breaking down (degrading).</p><p>The shelterin complex helps protect telomeres from the cell's DNA repair process. Without the protection of shelterin, the repair mechanism would sense the chromosome ends as abnormal breaks in the DNA sequence and either attempt to join the ends together or initiate cellular self-destruction (apoptosis).</p>
+related-health-condition/name: dyskeratosis congenita
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/dyskeratosis-congenita
+synonym(1): (TRF1)-interacting nuclear factor 2 variant 1
+synonym(2): TERF1 (TRF1)-interacting nuclear factor 2
+synonym(3): TERF1-interacting nuclear factor 2
+synonym(4): TERF1-interacting nuclear factor 2 isoform 1
+synonym(5): TERF1-interacting nuclear factor 2 isoform 2
+synonym(6): TIN2
+synonym(7): TINF2_HUMAN
+synonym(8): TRF1-interacting nuclear protein 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 26277
+db-key(2)/db: OMIM
+db-key(2)/key: 604319
+reviewed: 2014-03
+published: 2018-04-17

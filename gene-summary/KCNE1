@@ -1,0 +1,23 @@
+gene-symbol: KCNE1
+name: potassium voltage-gated channel subfamily E regulatory subunit 1
+ghr-page: https://ghr.nlm.nih.gov/gene/KCNE1
+text/text-role: function
+text/html: <p>The <i>KCNE1</i> gene provides instructions for making a protein that regulates the activity of potassium channels. These channels, which transport positively charged potassium atoms (ions) into and out of cells, play a key role in a cell's ability to generate and transmit electrical signals.</p><p>The specific function of a potassium channel depends on its protein components and its location in the body. The KCNE1 protein regulates a channel made up of four parts, called alpha subunits, which are produced from the <i>KCNQ1</i> gene. One beta subunit, produced from the <i>KCNE1</i> gene, binds to the channel and regulates its activity.</p><p>These channels are active in the inner ear and in heart (cardiac) muscle, where they transport potassium ions out of cells. In the inner ear, the channels play a role in maintaining the proper ion balance needed for normal hearing. In the heart, the channels are involved in recharging the cardiac muscle after each heartbeat to maintain a regular rhythm. The KCNE1 protein is also produced in the kidneys, testes, and uterus, where it probably regulates the activity of other channels.</p>
+related-health-condition/name: Jervell and Lange-Nielsen syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/jervell-and-lange-nielsen-syndrome
+synonym(1): delayed rectifier potassium channel subunit IsK
+synonym(2): IKs producing slow voltage-gated potassium channel beta subunit Mink
+synonym(3): ISK
+synonym(4): JLNS2
+synonym(5): KCNE1_HUMAN
+synonym(6): LQT5
+synonym(7): minimal potassium channel
+synonym(8): minK
+synonym(9): potassium channel, voltage gated subfamily E regulatory beta subunit 1
+synonym(10): potassium voltage-gated channel, Isk-related family, member 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3753
+db-key(2)/db: OMIM
+db-key(2)/key: 176261
+reviewed: 2017-09
+published: 2018-04-17

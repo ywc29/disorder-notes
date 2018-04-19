@@ -1,0 +1,32 @@
+name: 7q11.23 duplication syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/7q1123-duplication-syndrome
+text/text-role: description
+text/html: <p>7q11.23 duplication syndrome is a condition that can cause a variety of neurological and behavioral problems as well as other abnormalities.</p><p>People with 7q11.23 duplication syndrome typically have delayed development of speech and motor skills such as crawling and walking. Speech problems and abnormalities in the way affected individuals walk and stand may persist throughout life. People with this condition may also have weak muscle tone (hypotonia) and abnormal movements, such as involuntary movements of one side of the body that mirror intentional movements of the other side. About one-fifth of people with 7q11.23 duplication syndrome experience seizures.</p><p>Intellectual development varies widely in 7q11.23 duplication syndrome. The majority of people with this condition have low-average to average intelligence. Intellectual disability or borderline intellectual ability occur in about one-third of affected individuals. Rarely, people with this disorder have above-average intelligence.</p><p>Behavioral problems associated with this condition include anxiety disorders (such as social phobias and selective mutism, which is an inability to speak in certain circumstances), attention deficit hyperactivity disorder (ADHD), physical aggression, excessively defiant behavior (oppositional disorder), and autistic behaviors that affect communication and social interaction.</p><p>Approximately half of individuals with 7q11.23 duplication syndrome have enlargement (dilatation) of the blood vessel that carries blood from the heart to the rest of the body (the aorta); this enlargement can get worse over time. Aortic dilatation can lead to life-threatening complications if the wall of the aorta separates into layers (aortic dissection) or breaks open (ruptures).</p><p>People with 7q11.23 duplication syndrome can have characteristic features of the head and face, including a large head (macrocephaly) that is flattened in the back (brachycephaly), a broad forehead, straight eyebrows, and deep-set eyes with long eyelashes. The nose may be broad at the tip with the area separating the nostrils attaching lower than usual on the face (low insertion of the columella), resulting in a shortened area between the nose and the upper lip (philtrum). A high arch in the roof of the mouth (high-arched palate) and ear abnormalities may also occur. These features may be mild and not recognized in some affected individuals.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: ELN
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ELN
+related-gene(2)/gene-symbol: GTF2I
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GTF2I
+related-chromosome/name: 7
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/7
+synonym(1): 7q11.23 microduplication syndrome
+synonym(2): chromosome 7q11.23 duplication
+synonym(3): chromosome 7q11.23 duplication syndrome
+synonym(4): dup(7)(q11.23)
+synonym(5): Somerville-Van der Aa syndrome
+synonym(6): trisomy 7q11.23
+synonym(7): WBS duplication syndrome
+synonym(8): Williams-Beuren region duplication syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1857844
+db-key(2)/db: GeneReviews
+db-key(2)/key: dup7q11_23
+db-key(3)/db: MeSH
+db-key(3)/key: D058674
+db-key(4)/db: OMIM
+db-key(4)/key: 609757
+db-key(5)/db: Orphanet
+db-key(5)/key: 96121
+reviewed: 2017-07
+published: 2018-04-17

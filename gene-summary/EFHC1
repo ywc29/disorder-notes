@@ -1,0 +1,17 @@
+gene-symbol: EFHC1
+name: EF-hand domain containing 1
+ghr-page: https://ghr.nlm.nih.gov/gene/EFHC1
+text/text-role: function
+text/html: <p>The <i>EFHC1</i> gene provides instructions for making a protein called EF-hand domain containing protein 1 (EFHC1). The EFHC1 protein interacts with another protein that acts as a calcium channel, allowing positively charged calcium atoms (calcium ions) to cross the cell membrane. The movement of these ions is critical for normal signaling between nerve cells (neurons) in the brain and other parts of the nervous system. The role of the EFHC1 protein is not well understood, although it is thought to help regulate the balance of calcium ions inside the cell (calcium homeostasis). Studies also show that the EFHC1 protein may stimulate the self-destruction of cells (apoptosis).</p>
+related-health-condition/name: juvenile myoclonic epilepsy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-myoclonic-epilepsy
+synonym(1): EF-hand domain (C-terminal) containing 1
+synonym(2): EF-hand domain-containing protein 1
+synonym(3): EFHC1_HUMAN
+synonym(4): myoclonin-1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 114327
+db-key(2)/db: OMIM
+db-key(2)/key: 608815
+reviewed: 2012-06
+published: 2018-04-17

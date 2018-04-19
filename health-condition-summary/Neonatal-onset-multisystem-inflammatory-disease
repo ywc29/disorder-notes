@@ -1,0 +1,31 @@
+name: Neonatal onset multisystem inflammatory disease
+ghr-page: https://ghr.nlm.nih.gov/condition/neonatal-onset-multisystem-inflammatory-disease
+text/text-role: description
+text/html: <p>Neonatal onset multisystem inflammatory disease (NOMID) is a disorder that causes persistent inflammation and tissue damage primarily affecting the nervous system, skin, and joints. Recurrent episodes of mild fever may also occur in this disorder.</p><p>People with NOMID have a skin rash that is usually present from birth. The rash persists throughout life, although it changes in size and location.</p><p>Affected individuals often have headaches, seizures, and vomiting resulting from chronic meningitis, which is inflammation of the tissue that covers and protects the brain and spinal cord (meninges). Intellectual disability may occur in some people with this disorder. Hearing and vision problems may result from nerve damage and inflammation in various tissues of the eyes.</p><p>People with NOMID experience joint inflammation, swelling, and cartilage overgrowth, causing characteristic prominent knees and other skeletal abnormalities that worsen over time.  Joint deformities called contractures may restrict the movement of certain joints.</p><p>Other features of this disorder include short stature with shortening of the lower legs and forearms, and characteristic facial features such as a prominent forehead and protruding eyes. Abnormal deposits of a protein called amyloid (amyloidosis) may cause progressive kidney damage.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: NLRP3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NLRP3
+synonym(1): chronic infantile neurologic, cutaneous, and articular syndrome
+synonym(2): chronic infantile neurological, cutaneous and articular syndrome
+synonym(3): chronic neurologic, cutaneous, and articular syndrome
+synonym(4): CINCA
+synonym(5): CINCA syndrome
+synonym(6): infantile onset multisystem inflammatory disease
+synonym(7): IOMID syndrome
+synonym(8): NOMID
+synonym(9): Prieur-Griscelli syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0409818
+db-key(2)/db: MeSH
+db-key(2)/key: D056587
+db-key(3)/db: OMIM
+db-key(3)/key: 607115
+db-key(4)/db: Orphanet
+db-key(4)/key: 1451
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 239826001
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 430079001
+reviewed: 2008-09
+published: 2018-04-17

@@ -1,0 +1,27 @@
+gene-symbol: RANBP2
+name: RAN binding protein 2
+ghr-page: https://ghr.nlm.nih.gov/gene/RANBP2
+text/text-role: function
+text/html: <p>The <i>RANBP2</i> gene provides instructions for making a protein that typically associates with a protein complex known as the nuclear pore. The nuclear pore is embedded within the membrane that surrounds the cell's nucleus (called the nuclear envelope), forming a channel that allows transport of molecules in and out of the nucleus. The RANBP2 protein is attached to the nuclear pore outside of the nucleus, where it helps regulate the transport of proteins and other molecules through the nuclear pore and also helps modify proteins coming into or out of the nucleus.</p><p>When found elsewhere in the cell, the RANBP2 protein plays multiple roles during cell division, including breaking down and forming the nuclear envelope and dividing chromosomes. The RANBP2 protein is thought to associate with cell structures called microtubules, which form scaffolding within the cell to help cells maintain their shape. In conjunction with microtubules, the RANBP2 protein helps transport materials within cells.</p><p>In nerve cells in the brain, the RANBP2 protein is likely involved in the regulation of energy and the maintenance of the protective barrier that allows only certain substances to pass between blood vessels and the brain (the blood-brain barrier).</p>
+related-health-condition/name: acute necrotizing encephalopathy type 1
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/acute-necrotizing-encephalopathy-type-1
+synonym(1): 358 kDa nucleoporin
+synonym(2): ADANE
+synonym(3): ANE1
+synonym(4): E3 SUMO-protein ligase RanBP2
+synonym(5): IIAE3
+synonym(6): nuclear pore complex protein Nup358
+synonym(7): nucleoporin 358
+synonym(8): nucleoporin Nup358
+synonym(9): NUP358
+synonym(10): P270
+synonym(11): ran-binding protein 2
+synonym(12): transformation-related protein 2
+synonym(13): TRP1
+synonym(14): TRP2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5903
+db-key(2)/db: OMIM
+db-key(2)/key: 601181
+reviewed: 2016-07
+published: 2018-04-17

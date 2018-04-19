@@ -1,0 +1,50 @@
+name: mitochondrial DNA
+ghr-page: https://ghr.nlm.nih.gov/mitochondrial-dna
+text/text-role: description
+text/html: <p>Mitochondria are structures within cells that convert the energy from food into a form that cells can use. Although most DNA is packaged in chromosomes within the nucleus, mitochondria also have a small amount of their own DNA. This genetic material is known as mitochondrial DNA or mtDNA. In humans, mitochondrial DNA spans about 16,500 DNA building blocks (base pairs), representing a small fraction of the total DNA in cells.</p><p>Mitochondrial DNA contains 37 genes, all of which are essential for normal mitochondrial function. Thirteen of these genes provide instructions for making enzymes involved in oxidative phosphorylation. Oxidative phosphorylation is a process that uses oxygen and simple sugars to create adenosine triphosphate (ATP), the cell's main energy source. The remaining genes provide instructions for making molecules called transfer RNA (tRNA) and ribosomal RNA (rRNA), which are chemical cousins of DNA. These types of RNA help assemble protein building blocks (amino acids) into functioning proteins.</p>
+related-health-condition(1)/name: age-related hearing loss
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-hearing-loss
+related-health-condition(2)/name: cyclic vomiting syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cyclic-vomiting-syndrome
+related-health-condition(3)/name: cytochrome c oxidase deficiency
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/cytochrome-c-oxidase-deficiency
+related-health-condition(4)/name: Kearns-Sayre syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/kearns-sayre-syndrome
+related-health-condition(5)/name: Leber hereditary optic neuropathy
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/leber-hereditary-optic-neuropathy
+related-health-condition(6)/name: Leigh syndrome
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+related-health-condition(7)/name: maternally inherited diabetes and deafness
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/maternally-inherited-diabetes-and-deafness
+related-health-condition(8)/name: mitochondrial complex III deficiency
+related-health-condition(8)/ghr-page: https://ghr.nlm.nih.gov/condition/mitochondrial-complex-iii-deficiency
+related-health-condition(9)/name: mitochondrial encephalomyopathy, lactic acidosis, and stroke-like episodes
+related-health-condition(9)/ghr-page: https://ghr.nlm.nih.gov/condition/mitochondrial-encephalomyopathy-lactic-acidosis-and-stroke-like-episodes
+related-health-condition(10)/name: myoclonic epilepsy with ragged-red fibers
+related-health-condition(10)/ghr-page: https://ghr.nlm.nih.gov/condition/myoclonic-epilepsy-with-ragged-red-fibers
+related-health-condition(11)/name: neuropathy, ataxia, and retinitis pigmentosa
+related-health-condition(11)/ghr-page: https://ghr.nlm.nih.gov/condition/neuropathy-ataxia-and-retinitis-pigmentosa
+related-health-condition(12)/name: nonsyndromic hearing loss
+related-health-condition(12)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-hearing-loss
+related-health-condition(13)/name: Pearson marrow-pancreas syndrome
+related-health-condition(13)/ghr-page: https://ghr.nlm.nih.gov/condition/pearson-marrow-pancreas-syndrome
+related-health-condition(14)/name: progressive external ophthalmoplegia
+related-health-condition(14)/ghr-page: https://ghr.nlm.nih.gov/condition/progressive-external-ophthalmoplegia
+db-key(1)/db: GeneReviews
+db-key(1)/key: kss
+db-key(2)/db: GeneReviews
+db-key(2)/key: lhon
+db-key(3)/db: GeneReviews
+db-key(3)/key: merrf
+db-key(4)/db: GeneReviews
+db-key(4)/key: mt-deafness
+db-key(5)/db: GeneReviews
+db-key(5)/key: mt-overview
+db-key(6)/db: GeneReviews
+db-key(6)/key: narp
+db-key(7)/db: OMIM
+db-key(7)/key: 502500
+db-key(8)/db: OMIM
+db-key(8)/key: 556500
+reviewed: 2017-10
+published: 2018-04-17

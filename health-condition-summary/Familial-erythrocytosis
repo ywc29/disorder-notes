@@ -1,0 +1,49 @@
+name: Familial erythrocytosis
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-erythrocytosis
+text/text-role: description
+text/html: <p>Familial erythrocytosis is an inherited condition characterized by an increased number of red blood cells (erythrocytes). The primary function of these cells is to carry oxygen from the lungs to tissues and organs throughout the body. Signs and symptoms of familial erythrocytosis can include headaches, dizziness, nosebleeds, and shortness of breath. The excess red blood cells also increase the risk of developing abnormal blood clots that can block the flow of blood through arteries and veins. If these clots restrict blood flow to essential organs and tissues (particularly the heart, lungs, or brain), they can cause life-threatening complications such as a heart attack or stroke. However, many people with familial erythrocytosis experience only mild signs and symptoms or never have any problems related to their extra red blood cells.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: EGLN1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/EGLN1
+related-gene(2)/gene-symbol: EPAS1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/EPAS1
+related-gene(3)/gene-symbol: EPOR
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/EPOR
+related-gene(4)/gene-symbol: VHL
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/VHL
+synonym(1): benign familial polycythemia
+synonym(2): congenital erythrocytosis
+synonym(3): familial polycythemia
+synonym(4): hereditary erythrocytosis
+synonym(5): primary familial polycythemia
+db-key(1)/db: GTR
+db-key(1)/key: C1837915
+db-key(2)/db: GTR
+db-key(2)/key: C1851490
+db-key(3)/db: GTR
+db-key(3)/key: C1853286
+db-key(4)/db: GTR
+db-key(4)/key: C2673187
+db-key(5)/db: GeneReviews
+db-key(5)/key: pfcp
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: D75.0
+db-key(7)/db: MeSH
+db-key(7)/key: D011086
+db-key(8)/db: OMIM
+db-key(8)/key: 133100
+db-key(9)/db: OMIM
+db-key(9)/key: 263400
+db-key(10)/db: OMIM
+db-key(10)/key: 609820
+db-key(11)/db: OMIM
+db-key(11)/key: 611783
+db-key(12)/db: Orphanet
+db-key(12)/key: 90042
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 17342003
+reviewed: 2012-08
+published: 2018-04-17

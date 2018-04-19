@@ -1,0 +1,48 @@
+name: Psoriatic arthritis
+ghr-page: https://ghr.nlm.nih.gov/condition/psoriatic-arthritis
+text/text-role: description
+text/html: <p>Psoriatic arthritis is a condition involving joint inflammation (arthritis) that usually occurs in combination with a skin disorder called psoriasis. Psoriasis is a chronic inflammatory condition characterized by patches of red, irritated skin that are often covered by flaky white scales. People with psoriasis may also have changes in their fingernails and toenails, such as nails that become pitted or ridged, crumble, or separate from the nail beds.</p><p>Signs and symptoms of psoriatic arthritis include stiff, painful joints with redness, heat, and swelling in the surrounding tissues. When the hands and feet are affected, swelling and redness may result in a "sausage-like" appearance of the fingers or toes (dactylitis).</p><p>In most people with psoriatic arthritis, psoriasis appears before joint problems develop. Psoriasis typically begins during adolescence or young adulthood, and psoriatic arthritis usually occurs between the ages of 30 and 50. However, both conditions may occur at any age. In a small number of cases, psoriatic arthritis develops in the absence of noticeable skin changes.</p><p>Psoriatic arthritis may be difficult to distinguish from other forms of arthritis, particularly when skin changes are minimal or absent. Nail changes and dactylitis are two features that are characteristic of psoriatic arthritis, although they do not occur in all cases.</p><p>Psoriatic arthritis is categorized into five types: distal interphalangeal predominant, asymmetric oligoarticular, symmetric polyarthritis, spondylitis, and arthritis mutilans.</p><p>The distal interphalangeal predominant type affects mainly the ends of the fingers and toes. The distal interphalangeal joints are those closest to the nails. Nail changes are especially frequent with this form of psoriatic arthritis.</p><p>The asymmetric oligoarticular and symmetric polyarthritis types are the most common forms of psoriatic arthritis. The asymmetric oligoarticular type of psoriatic arthritis involves different joints on each side of the body, while the symmetric polyarthritis form affects the same joints on each side. Any joint in the body may be affected in these forms of the disorder, and symptoms range from mild to severe.</p><p>Some individuals with psoriatic arthritis have joint involvement that primarily involves spondylitis, which is inflammation in the joints between the vertebrae in the spine. Symptoms of this form of the disorder involve pain and stiffness in the back or neck, and movement is often impaired. Joints in the arms, legs, hands, and feet may also be involved.</p><p>The most severe and least common type of psoriatic arthritis is called arthritis mutilans. Fewer than 5 percent of individuals with psoriatic arthritis have this form of the disorder. Arthritis mutilans involves severe inflammation that damages the joints in the hands and feet, resulting in deformation and movement problems. Bone loss (osteolysis) at the joints may lead to shortening (telescoping) of the fingers and toes. Neck and back pain may also occur.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: CARD14
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CARD14
+related-gene(2)/gene-symbol: HLA-B
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-B
+related-gene(3)/gene-symbol: HLA-C
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-C
+related-gene(4)/gene-symbol: HLA-DRB1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-DRB1
+related-gene(5)/gene-symbol: IL12B
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/IL12B
+related-gene(6)/gene-symbol: IL13
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/IL13
+related-gene(7)/gene-symbol: IL23R
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/IL23R
+related-gene(8)/gene-symbol: TRAF3IP2
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/TRAF3IP2
+synonym(1): arthropathic psoriasis
+synonym(2): psoriatic arthropathy
+db-key(1)/db: GTR
+db-key(1)/key: C1835223
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: L40.5
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: L40.50
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: L40.51
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: L40.52
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: L40.53
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: L40.54
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: L40.59
+db-key(9)/db: MeSH
+db-key(9)/key: D015535
+db-key(10)/db: OMIM
+db-key(10)/key: 607507
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 33339001
+reviewed: 2014-08
+published: 2018-04-17

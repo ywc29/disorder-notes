@@ -1,0 +1,22 @@
+gene-symbol: HCN4
+name: hyperpolarization activated cyclic nucleotide gated potassium channel 4
+ghr-page: https://ghr.nlm.nih.gov/gene/HCN4
+text/text-role: function
+text/html: <p>The <i>HCN4</i> gene provides instructions for making a channel that transports positively charged atoms (ions) into heart muscle cells. This channel is located primarily in the sino-atrial (SA) node, which is an area of specialized cells in the heart that functions as a natural pacemaker. The HCN4 channel allows potassium and sodium ions to flow into cells of the SA node. This ion flow is often called the "pacemaker current" because it generates electrical impulses that start each heartbeat and is involved in maintaining a regular heart rhythm.</p>
+related-health-condition(1)/name: Brugada syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/brugada-syndrome
+related-health-condition(2)/name: left ventricular noncompaction
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/left-ventricular-noncompaction
+related-health-condition(3)/name: sick sinus syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/sick-sinus-syndrome
+synonym(1): HCN4_HUMAN
+synonym(2): hyperpolarization activated cyclic nucleotide-gated cation channel 4
+synonym(3): hyperpolarization activated cyclic nucleotide-gated potassium channel 4
+synonym(4): potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4
+synonym(5): SSS2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10021
+db-key(2)/db: OMIM
+db-key(2)/key: 605206
+reviewed: 2013-08
+published: 2018-04-17

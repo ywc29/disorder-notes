@@ -1,0 +1,18 @@
+gene-symbol: LEPR
+name: leptin receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/LEPR
+text/text-role: function
+text/html: <p>The <i>LEPR</i> gene  provides instructions for making a protein called the leptin receptor, which is involved in the regulation of body weight. The leptin receptor protein is found on the surface of cells in many organs and tissues of the body, including a part of the brain called the hypothalamus. The hypothalamus controls hunger and thirst as well as other functions such as sleep, moods, and body temperature. It also regulates the release of many hormones that have functions throughout the body.</p><p>The leptin receptor is turned on (activated) by a hormone called leptin that attaches (binds) to the receptor, fitting into it like a key into a lock. Normally, the body's fat cells release leptin in proportion to their size. As fat cells become larger, they produce more leptin. This rise in leptin indicates that fat stores are increasing. In the hypothalamus, the binding of leptin to its receptor triggers a series of chemical signals that affect hunger and help produce a feeling of fullness (satiety).</p>
+related-health-condition/name: leptin receptor deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/leptin-receptor-deficiency
+synonym(1): LEP-R
+synonym(2): LEPR_HUMAN
+synonym(3): OB-R
+synonym(4): OB receptor
+synonym(5): OBR
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3953
+db-key(2)/db: OMIM
+db-key(2)/key: 601007
+reviewed: 2016-07
+published: 2018-04-17

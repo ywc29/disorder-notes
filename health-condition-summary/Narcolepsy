@@ -1,0 +1,70 @@
+name: Narcolepsy
+ghr-page: https://ghr.nlm.nih.gov/condition/narcolepsy
+text/text-role: description
+text/html: <p>Narcolepsy is a chronic sleep disorder that disrupts the normal sleep-wake cycle. Although this condition can appear at any age, it most often begins in adolescence.</p><p>Narcolepsy is characterized by excessive daytime sleepiness. Affected individuals feel tired during the day, and several times a day they may experience an overwhelming urge to sleep. "Sleep attacks" can occur at unusual times, such as during a meal or in the middle of a conversation. They last from a few seconds to a few minutes and often lead to a longer nap, after which affected individuals wake up feeling refreshed.</p><p>Another common feature of narcolepsy is cataplexy, which is a sudden loss of muscle tone in response to strong emotion (such as laughing, surprise, or anger). These episodes of muscle weakness can cause an affected person to slump over or fall, which occasionally leads to injury. Episodes of cataplexy usually last just a few seconds, and they may occur from several times a day to a few times a year. Most people diagnosed with narcolepsy also have cataplexy. However, some do not, which has led researchers to distinguish two major forms of the condition: narcolepsy with cataplexy and narcolepsy without cataplexy.</p><p>Narcolepsy also affects nighttime sleep. Most affected individuals have trouble sleeping for more than a few hours at night. They often experience vivid hallucinations while falling asleep (hypnogogic hallucinations) or while waking up (hypnopompic hallucinations). Affected individuals often have realistic and distressing dreams, and they may act out their dreams by moving excessively or talking in their sleep. Many people with narcolepsy also experience sleep paralysis, which is an inability to move or speak for a short period while falling asleep or awakening. The combination of hallucinations, vivid dreams, and sleep paralysis is often frightening and unpleasant for affected individuals.</p><p>Some people with narcolepsy have all of the major features of the disorder, while others have only one or two. Most of the signs and symptoms persist throughout life, although episodes of cataplexy may become less frequent with age and treatment.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: CHKB
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CHKB
+related-gene(2)/gene-symbol: CPT1B
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CPT1B
+related-gene(3)/gene-symbol: HLA-DQA1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-DQA1
+related-gene(4)/gene-symbol: HLA-DQB1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-DQB1
+related-gene(5)/gene-symbol: HLA-DRB1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-DRB1
+related-gene(6)/gene-symbol: TNF
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/TNF
+related-gene(7)/gene-symbol: TNFRSF1B
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/TNFRSF1B
+related-gene(8)/gene-symbol: TRA
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/TRA
+synonym(1): Gelineau syndrome
+synonym(2): narcoleptic syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1834372
+db-key(2)/db: GTR
+db-key(2)/key: C1836907
+db-key(3)/db: GTR
+db-key(3)/key: C1853901
+db-key(4)/db: GTR
+db-key(4)/key: C2676275
+db-key(5)/db: GTR
+db-key(5)/key: C2748508
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: G47.4
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: G47.41
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: G47.42
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: G47.411
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: G47.419
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: G47.421
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: G47.429
+db-key(13)/db: MeSH
+db-key(13)/key: D009290
+db-key(14)/db: OMIM
+db-key(14)/key: 161400
+db-key(15)/db: OMIM
+db-key(15)/key: 605841
+db-key(16)/db: OMIM
+db-key(16)/key: 609039
+db-key(17)/db: OMIM
+db-key(17)/key: 612417
+db-key(18)/db: OMIM
+db-key(18)/key: 612851
+db-key(19)/db: Orphanet
+db-key(19)/key: 2073
+db-key(20)/db: Orphanet
+db-key(20)/key: 83465
+db-key(21)/db: SNOMED CT
+db-key(21)/key: 193042000
+db-key(22)/db: SNOMED CT
+db-key(22)/key: 60380001
+reviewed: 2010-12
+published: 2018-04-17

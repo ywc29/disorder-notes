@@ -1,0 +1,19 @@
+gene-symbol: CATSPER1
+name: cation channel sperm associated 1
+ghr-page: https://ghr.nlm.nih.gov/gene/CATSPER1
+text/text-role: function
+text/html: <p>The <i>CATSPER1</i> gene provides instructions for producing a protein that is found in the tail (flagellum) of sperm cells.  The CATSPER1 protein plays a role in sperm cell movement (motility) and is required for sperm cells to push through the outside membrane of the egg cell during fertilization.  The CATSPER1 protein is embedded in the membrane of sperm cells and is necessary for positively charged calcium atoms (calcium cations) to enter the cell.  Calcium cations are required for a type of sperm motility called hyperactivation. Hyperactivation is characterized by vigorous movements of the sperm tail, which are necessary for the sperm to push through the membrane of the egg cell during fertilization.</p>
+related-health-condition/name: CATSPER1-related nonsyndromic male infertility
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/catsper1-related-nonsyndromic-male-infertility
+synonym(1): cation channel sperm-associated protein 1
+synonym(2): cation channel, sperm associated 1
+synonym(3): CATSPER
+synonym(4): CTSR1_HUMAN
+synonym(5): sperm-associated cation channel 1
+synonym(6): sperm ion channel
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 117144
+db-key(2)/db: OMIM
+db-key(2)/key: 606389
+reviewed: 2010-04
+published: 2018-04-17

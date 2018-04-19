@@ -1,0 +1,53 @@
+name: Achromatopsia
+ghr-page: https://ghr.nlm.nih.gov/condition/achromatopsia
+text/text-role: description
+text/html: <p>Achromatopsia is a condition characterized by a partial or total absence of color vision. People with complete achromatopsia cannot perceive any colors; they see only black, white, and shades of gray. Incomplete achromatopsia is a milder form of the condition that allows some color discrimination.</p><p>Achromatopsia also involves other problems with vision, including an increased sensitivity to light and glare (photophobia), involuntary back-and-forth eye movements (nystagmus), and significantly reduced sharpness of vision (low visual acuity). Affected individuals can also have farsightedness (hyperopia) or, less commonly, nearsightedness (myopia). These vision problems develop in the first few months of life.</p><p>Achromatopsia is different from the more common forms of color vision deficiency (also called color blindness), in which people can perceive color but have difficulty distinguishing between certain colors, such as red and green.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: CNGA3
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CNGA3
+related-gene(2)/gene-symbol: CNGB3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CNGB3
+related-gene(3)/gene-symbol: GNAT2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/GNAT2
+related-gene(4)/gene-symbol: PDE6C
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/PDE6C
+related-gene(5)/gene-symbol: PDE6H
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/PDE6H
+synonym(1): achromatism
+synonym(2): rod monochromatism
+synonym(3): total color blindness
+db-key(1)/db: GTR
+db-key(1)/key: C0152200
+db-key(2)/db: GTR
+db-key(2)/key: C1841721
+db-key(3)/db: GTR
+db-key(3)/key: C1849792
+db-key(4)/db: GTR
+db-key(4)/key: C1857618
+db-key(5)/db: GTR
+db-key(5)/key: C2751309
+db-key(6)/db: GTR
+db-key(6)/key: CN158542
+db-key(7)/db: GeneReviews
+db-key(7)/key: achm
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: H53.51
+db-key(9)/db: MeSH
+db-key(9)/key: D003117
+db-key(10)/db: OMIM
+db-key(10)/key: 216900
+db-key(11)/db: OMIM
+db-key(11)/key: 262300
+db-key(12)/db: OMIM
+db-key(12)/key: 610024
+db-key(13)/db: OMIM
+db-key(13)/key: 613093
+db-key(14)/db: OMIM
+db-key(14)/key: 613856
+db-key(15)/db: Orphanet
+db-key(15)/key: 49382
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 56852002
+reviewed: 2015-01
+published: 2018-04-17

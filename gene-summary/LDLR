@@ -1,0 +1,19 @@
+gene-symbol: LDLR
+name: low density lipoprotein receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/LDLR
+text/text-role: function
+text/html: <p>The <i>LDLR</i> gene provides instructions for making a protein called a low-density lipoprotein receptor.  This receptor binds to particles called low-density lipoproteins (LDLs), which are the primary carriers of cholesterol in the blood.  Cholesterol is a waxy, fat-like substance that is produced in the body and obtained from foods that come from animals.</p><p>Low-density lipoprotein receptors sit on the outer surface of many types of cells, where they pick up low-density lipoproteins circulating in the bloodstream and transport them into the cell.  Once inside the cell, the low-density lipoprotein is broken down to release cholesterol.  The cholesterol is then used by the cell, stored, or removed from the body.  After low-density lipoprotein receptors drop off their cargo, they are recycled back to the cell surface to pick up more low-density lipoproteins.</p><p>Low-density lipoprotein receptors play a critical role in regulating the amount of cholesterol in the blood.  They are particularly abundant in the liver, which is the organ responsible for removing most excess cholesterol from the body.  The number of low-density lipoprotein receptors on the surface of liver cells determines how quickly cholesterol (in the form of low-density lipoproteins) is removed from the bloodstream.</p>
+related-health-condition/name: hypercholesterolemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hypercholesterolemia
+synonym(1): FHC
+synonym(2): LDL receptor
+synonym(3): LDLCQ2
+synonym(4): LDLR_HUMAN
+synonym(5): Low density lipoprotein (LDL) receptor
+synonym(6): low density lipoprotein receptor (familial hypercholesterolemia)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3949
+db-key(2)/db: OMIM
+db-key(2)/key: 606945
+reviewed: 2007-03
+published: 2018-04-17

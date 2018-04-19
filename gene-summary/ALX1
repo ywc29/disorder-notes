@@ -1,0 +1,20 @@
+gene-symbol: ALX1
+name: ALX homeobox 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ALX1
+text/text-role: function
+text/html: <p>The <i>ALX1</i> gene provides instructions for making a protein that is a member of the homeobox protein family. Homeobox proteins direct the formation of body structures during early embryonic development. The ALX1 protein is necessary for normal development of the head and face, particularly the formation of the eyes, nose, and mouth, which begins around the fourth week of development. The ALX1 protein is a transcription factor, which means that it attaches (binds) to DNA and controls the activity of certain genes. Specifically, the protein controls the activity of genes that regulate cell growth and division (proliferation) and movement (migration), ensuring that cells grow and stop growing at specific times and that they are positioned correctly during development.</p>
+related-health-condition/name: frontonasal dysplasia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/frontonasal-dysplasia
+synonym(1): ALX homeobox protein 1
+synonym(2): CART-1
+synonym(3): CART1
+synonym(4): cartilage paired-class homeoprotein 1
+synonym(5): epididymis luminal protein 23
+synonym(6): FND3
+synonym(7): HEL23
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8092
+db-key(2)/db: OMIM
+db-key(2)/key: 601527
+reviewed: 2014-04
+published: 2018-04-17

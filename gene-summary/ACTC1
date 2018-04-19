@@ -1,0 +1,14 @@
+gene-symbol: ACTC1
+name: actin, alpha, cardiac muscle 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ACTC1
+related-health-condition(1)/name: familial dilated cardiomyopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+related-health-condition(2)/name: familial hypertrophic cardiomyopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hypertrophic-cardiomyopathy
+related-health-condition(3)/name: familial restrictive cardiomyopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-restrictive-cardiomyopathy
+related-health-condition(4)/name: left ventricular noncompaction
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/left-ventricular-noncompaction
+db-key/db: NCBI Gene
+db-key/key: 70
+published: 2018-04-17

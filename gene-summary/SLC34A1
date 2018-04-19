@@ -1,0 +1,38 @@
+gene-symbol: SLC34A1
+name: solute carrier family 34 member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC34A1
+text/text-role: function
+text/html: <p>The <i>SLC34A1</i> gene provides instructions for making a protein called sodium-dependent phosphate transporter 2A (NaPi-IIa), which plays a role in the regulation of phosphate levels in the body (phosphate homeostasis). Phosphate is needed for many functions including the breakdown of substances (metabolic processes), signaling between cells, and the production of DNA building blocks (nucleotides) and fats. The NaPi-IIa protein is located in the membrane surrounding kidney cells, where it transports phosphate across the cell membrane. NaPi-IIa reabsorbs phosphate from urine back into the body when more of the mineral is needed.</p>
+related-health-condition/name: idiopathic infantile hypercalcemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/idiopathic-infantile-hypercalcemia
+synonym(1): FRTS2
+synonym(2): HCINF2
+synonym(3): Na(+)-dependent phosphate cotransporter 2A
+synonym(4): Na(+)/Pi cotransporter 2A
+synonym(5): Na+-phosphate cotransporter type II
+synonym(6): naPi-2a
+synonym(7): NAPI-3
+synonym(8): NPHLOP1
+synonym(9): NPT2
+synonym(10): NPTIIa
+synonym(11): renal sodium-dependent phosphate transporter
+synonym(12): SLC11
+synonym(13): SLC17A2
+synonym(14): sodium-dependent phosphate transport protein 2A isoform 1
+synonym(15): sodium-dependent phosphate transport protein 2A isoform 2
+synonym(16): sodium-phosphate transport protein 2A
+synonym(17): sodium/phosphate co-transporter
+synonym(18): sodium/phosphate cotransporter 2A
+synonym(19): solute carrier family 17 (sodium phosphate), member 2
+synonym(20): solute carrier family 34 (sodium phosphate), member 1
+synonym(21): solute carrier family 34 (type II sodium/phosphate cotransporter), member 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6569
+db-key(2)/db: OMIM
+db-key(2)/key: 182309
+db-key(3)/db: OMIM
+db-key(3)/key: 612286
+db-key(4)/db: OMIM
+db-key(4)/key: 613388
+reviewed: 2017-12
+published: 2018-04-17

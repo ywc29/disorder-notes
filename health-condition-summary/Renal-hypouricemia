@@ -1,0 +1,30 @@
+name: Renal hypouricemia
+ghr-page: https://ghr.nlm.nih.gov/condition/renal-hypouricemia
+text/text-role: description
+text/html: <p>Renal hypouricemia is a kidney (renal) disorder that results in a reduced amount of uric acid in the blood. Uric acid is a byproduct of certain normal chemical reactions in the body. In the bloodstream it acts as an antioxidant, protecting cells from the damaging effects of unstable molecules called free radicals. However, having too much uric acid in the body is toxic, so excess uric acid is removed from the body in urine.</p><p>People with renal hypouricemia have little to no uric acid in their blood; they release an excessive amount of it in the urine. In many affected individuals, renal hypouricemia causes no signs or symptoms. However, some people with this condition develop kidney problems. After strenuous exercise, they can develop exercise-induced acute kidney injury, which causes pain in their sides and lower back as well as nausea and vomiting that can last several hours.</p><p>Because an excessive amount of uric acid passes through the kidneys to be excreted in urine in people with renal hypouricemia, they have an increased risk of developing kidney stones (nephrolithiasis) formed from uric acid crystals. These uric acid stones can damage the kidneys and lead to episodes of blood in the urine (hematuria). Rarely, people with renal hypouricemia develop life-threatening kidney failure.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: SLC2A9
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC2A9
+related-gene(2)/gene-symbol: SLC22A12
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC22A12
+synonym(1): familial renal hypouricaemia
+synonym(2): familial renal hypouricemia
+synonym(3): hereditary renal hypouricemia
+synonym(4): RHUC
+db-key(1)/db: GTR
+db-key(1)/key: C0473219
+db-key(2)/db: GTR
+db-key(2)/key: C2677549
+db-key(3)/db: MeSH
+db-key(3)/key: D015499
+db-key(4)/db: OMIM
+db-key(4)/key: 220150
+db-key(5)/db: OMIM
+db-key(5)/key: 612076
+db-key(6)/db: Orphanet
+db-key(6)/key: 94088
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 236478009
+reviewed: 2015-01
+published: 2018-04-17

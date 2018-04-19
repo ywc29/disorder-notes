@@ -1,0 +1,18 @@
+gene-symbol: FREM2
+name: FRAS1 related extracellular matrix protein 2
+ghr-page: https://ghr.nlm.nih.gov/gene/FREM2
+text/text-role: function
+text/html: <p>The <i>FREM2</i> gene provides instructions for making a protein that is part of a group of proteins called the FRAS/FREM complex; in addition to being part of the complex, FREM2 regulates the complex's formation. The FRAS/FREM complex is found in basement membranes, which are thin, sheet-like structures that separate and support cells in many tissues. The complex is particularly important during development before birth. One of its roles is to anchor the top layer of skin by connecting the basement membrane of the top layer to the layer of skin below. The FRAS/FREM complex is also involved in the proper development of certain other organs and tissues, including the kidneys, although the mechanism is unclear.</p>
+related-health-condition/name: Fraser syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/fraser-syndrome
+synonym(1): DKFZp686J0811
+synonym(2): ECM3 homolog
+synonym(3): FRAS1-related extracellular matrix protein 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 341640
+db-key(2)/db: OMIM
+db-key(2)/key: 608945
+db-key(3)/db: OMIM
+db-key(3)/key: 610805
+reviewed: 2014-06
+published: 2018-04-17

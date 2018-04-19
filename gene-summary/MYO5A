@@ -1,0 +1,25 @@
+gene-symbol: MYO5A
+name: myosin VA
+ghr-page: https://ghr.nlm.nih.gov/gene/MYO5A
+text/text-role: function
+text/html: <p>The <i>MYO5A</i> gene provides instructions for making a protein called myosin Va, which is part of a group of proteins called unconventional myosins. These proteins, which have similar structures, each play a role in transporting molecules within cells. Myosins interact with actin, a protein that is important for cell movement and shape. Researchers believe that myosins use long filaments of actin as tracks along which to transport other molecules.</p><p>Myosin Va is found in pigment-producing cells called melanocytes, where it helps transport structures called melanosomes. These structures produce a pigment called melanin, which is the substance that gives skin, hair, and eyes their color (pigmentation). Myosin Va interacts with proteins produced from the <i>MLPH</i> and <i>RAB27A</i> genes to form a complex that transports melanosomes to the outer edges of melanocytes. From there, the melanosomes are transferred to other types of cells, where they provide the pigment needed for normal hair, skin, and eye coloring.</p><p>Myosin Va also plays an important role in nerve cells (neurons) in the brain. Studies suggest that myosin Va transports various proteins and other molecules within neurons. It is also involved in the release of certain substances from these cells (exocytosis). The movement of these materials appears to be critical for normal brain function.</p>
+related-health-condition/name: Griscelli syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/griscelli-syndrome
+synonym(1): dilute myosin heavy chain, non-muscle
+synonym(2): GS1
+synonym(3): MYH12
+synonym(4): MYO5
+synonym(5): MYO5A_HUMAN
+synonym(6): myosin-12
+synonym(7): myosin-Va
+synonym(8): myosin VA (heavy chain 12, myoxin)
+synonym(9): myosin, heavy polypeptide kinase
+synonym(10): myoxin
+synonym(11): MYR12
+synonym(12): unconventional myosin-Va
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4644
+db-key(2)/db: OMIM
+db-key(2)/key: 160777
+reviewed: 2013-09
+published: 2018-04-17

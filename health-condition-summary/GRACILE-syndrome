@@ -1,0 +1,24 @@
+name: GRACILE syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/gracile-syndrome
+text/text-role: description
+text/html: <p>GRACILE syndrome is a severe disorder that begins before birth. GRACILE stands for the condition's characteristic features: growth retardation, aminoaciduria, cholestasis, iron overload, lactic acidosis, and early death.</p><p>In GRACILE syndrome, growth before birth is slow (intrauterine growth retardation). Affected newborns are smaller than average and have an inability to grow and gain weight at the expected rate (failure to thrive). A characteristic of GRACILE syndrome is excess iron in the liver, which likely begins before birth. Iron levels may begin to improve after birth, although they typically remain elevated. Within the first day of life, infants with GRACILE syndrome have a buildup of a chemical called lactic acid in the body (lactic acidosis). They also have kidney problems that lead to an excess of molecules called amino acids in the urine (aminoaciduria). Babies with GRACILE syndrome have cholestasis, which is a reduced ability to produce and release a digestive fluid called bile. Cholestasis leads to irreversible liver disease (cirrhosis) in the first few months of life.</p><p>Because of the severe health problems caused by GRACILE syndrome, infants with this condition do not survive for more than a few months, and about half die within a few days of birth.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: BCS1L
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/BCS1L
+synonym(1): Fellman syndrome
+synonym(2): Finnish lactic acidosis with hepatic hemosiderosis
+synonym(3): Finnish lethal neonatal metabolic syndrome
+synonym(4): growth retardation, amino aciduria, cholestasis, iron overload, lactic acidosis, and early death
+db-key(1)/db: GTR
+db-key(1)/key: C1864002
+db-key(2)/db: MeSH
+db-key(2)/key: D008661
+db-key(3)/db: OMIM
+db-key(3)/key: 603358
+db-key(4)/db: Orphanet
+db-key(4)/key: 53693
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 703388005
+reviewed: 2014-03
+published: 2018-04-17

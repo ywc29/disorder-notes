@@ -1,0 +1,30 @@
+name: Mainzer-Saldino syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/mainzer-saldino-syndrome
+text/text-role: description
+text/html: <p>Mainzer-Saldino syndrome is a disorder characterized by kidney disease, eye problems, and skeletal abnormalities.</p><p>People with Mainzer-Saldino syndrome have chronic kidney disease that begins in childhood and gets worse over time. The rate at which the kidney disease worsens is variable, but the condition eventually leads to kidney failure in most affected individuals.</p><p>Degeneration of the light-sensitive tissue at the back of the eye (the retina) almost always occurs in this disorder, but the age at which this feature develops varies. Some affected individuals are blind or have severe vision impairment beginning in infancy, with the pattern of vision loss resembling a condition called Leber congenital amaurosis. In other people with Mainzer-Saldino syndrome, the retinal degeneration begins in childhood, but some vision is retained into early adulthood. The vision loss in these affected individuals resembles a category of retinal disorders called rod-cone dystrophies. The most common rod-cone dystrophy is called retinitis pigmentosa, and the vision problems in Mainzer-Saldino syndrome are sometimes referred to as such. However, the abnormal deposits of pigment in the retina from which retinitis pigmentosa gets its name are often not found in Mainzer-Saldino syndrome. As a result, some researchers use terms such as "atypical retinitis pigmentosa without pigment" to describe the retinal degeneration that occurs in Mainzer-Saldino syndrome.</p><p>The skeletal abnormality most characteristic of Mainzer-Saldino syndrome consists of cone-shaped ends of the bones (epiphyses) in the fingers (phalanges) that can be seen on x-ray images after the first year of life. Affected individuals may also have abnormalities of the thigh bones that occur in the epiphyses and adjacent areas where bone growth occurs (the metaphyses). Occasionally, other skeletal abnormalities occur, including short stature and premature fusion of certain skull bones (craniosynostosis) that affects the shape of the head and face. Affected individuals may also have a small rib cage, which sometimes causes breathing problems in infancy, but the breathing problems are usually mild.</p><p>A small number of individuals with this disorder have additional problems affecting other organs. These can include liver disease resulting in a buildup of scar tissue in the liver (hepatic fibrosis); cerebellar ataxia, which is difficulty with coordination and balance arising from problems with a part of the brain called the cerebellum; and mild intellectual disability.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: IFT140
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/IFT140
+synonym(1): conorenal dysplasia
+synonym(2): conorenal syndrome
+synonym(3): Mainzer-Saldino chondrodysplasia
+synonym(4): Mainzer-Saldino disease
+synonym(5): MZSDS
+synonym(6): renal dysplasia, retinal pigmentary dystrophy, cerebellar ataxia, and skeletal dysplasia
+synonym(7): Saldino-Mainzer dysplasia
+synonym(8): Saldino-Mainzer syndrome
+synonym(9): short-rib thoracic dysplasia 9
+synonym(10): SRTD9
+db-key(1)/db: GTR
+db-key(1)/key: C1849437
+db-key(2)/db: MeSH
+db-key(2)/key: D052177
+db-key(3)/db: OMIM
+db-key(3)/key: 266920
+db-key(4)/db: Orphanet
+db-key(4)/key: 140969
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 254092004
+reviewed: 2013-05
+published: 2018-04-17

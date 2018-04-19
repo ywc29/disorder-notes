@@ -1,0 +1,33 @@
+gene-symbol: CYP11B1
+name: cytochrome P450 family 11 subfamily B member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/CYP11B1
+text/text-role: function
+text/html: <p>The <i>CYP11B1</i> gene provides instructions for making an enzyme called 11-beta-hydroxylase. This enzyme is found in the adrenal glands, which are located on top of the kidneys. The 11-beta-hydroxylase enzyme is a member of the cytochrome P450 family of enzymes. These enzymes are involved in the formation and breakdown of various molecules within cells.</p><p>The 11-beta-hydroxylase enzyme helps produce hormones called cortisol and corticosterone. Specifically, the enzyme helps convert a molecule called 11-deoxycortisol to cortisol, and helps convert another molecule called 11-deoxycorticosterone to corticosterone. These processes are triggered by the release of a hormone called adrenocorticotropic hormone (ACTH) by the pituitary gland, located at the base of the brain.</p><p>Cortisol helps maintain blood sugar levels, protects the body from physical stress, and suppresses inflammation. Corticosterone is converted to the hormone aldosterone by the aldosterone synthase enzyme, which is produced from the nearby <i>CYP11B2</i> gene. Aldosterone helps control blood pressure by maintaining proper salt and fluid levels in the body.</p>
+related-health-condition(1)/name: congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-adrenal-hyperplasia-due-to-11-beta-hydroxylase-deficiency
+related-health-condition(2)/name: familial hyperaldosteronism
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hyperaldosteronism
+synonym(1): C11B1_HUMAN
+synonym(2): CPN1
+synonym(3): CYP11B
+synonym(4): CYPXIB1
+synonym(5): cytochrome P-450c11
+synonym(6): cytochrome P450 11B1, mitochondrial
+synonym(7): cytochrome P450 11B1, mitochondrial isoform 1 precursor
+synonym(8): cytochrome P450 11B1, mitochondrial isoform 2 precursor
+synonym(9): cytochrome p450 XIB1
+synonym(10): cytochrome P450, family 11, subfamily B, polypeptide 1
+synonym(11): cytochrome P450, subfamily XIB (steroid 11-beta-hydroxylase), polypeptide 1
+synonym(12): cytochrome P450C11
+synonym(13): DKFZp686B05283
+synonym(14): FHI
+synonym(15): FLJ36771
+synonym(16): P450C11
+synonym(17): steroid 11-beta-hydroxylase
+synonym(18): steroid 11-beta-monooxygenase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1584
+db-key(2)/db: OMIM
+db-key(2)/key: 610613
+reviewed: 2014-04
+published: 2018-04-17

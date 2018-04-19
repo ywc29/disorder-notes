@@ -1,0 +1,25 @@
+name: Phosphoglycerate kinase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/phosphoglycerate-kinase-deficiency
+text/text-role: description
+text/html: <p>Phosphoglycerate kinase deficiency is a genetic disorder that affects the body's ability to break down the simple sugar glucose, which is the primary energy source for most cells. Researchers have described two major forms of the condition. The most common form is sometimes called the hemolytic form. It is characterized by a condition known as chronic hemolytic anemia, in which red blood cells are broken down (undergo hemolysis) prematurely. Chronic hemolytic anemia can lead to unusually pale skin (pallor), yellowing of the eyes and skin (jaundice), fatigue, shortness of breath, and a rapid heart rate. Some people with the hemolytic form also have symptoms related to abnormal brain function, including intellectual disability, seizures, and stroke.</p><p>The other form of phosphoglycerate kinase deficiency is often called the myopathic form. It primarily affects muscles, causing progressive weakness, pain, and cramping, particularly with exercise. During exercise, muscle tissue can be broken down, releasing a protein called myoglobin. This protein is processed by the kidneys and released in the urine (myoglobinuria). If untreated, myoglobinuria can lead to kidney failure.</p><p>Most people with phosphoglycerate kinase deficiency have either the hemolytic form or the myopathic form. However, other combinations of signs and symptoms (such as muscle weakness with neurologic symptoms) have also been reported.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: PGK1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PGK1
+synonym(1): PGK deficiency
+synonym(2): PGK1 deficiency
+synonym(3): phosphoglycerate kinase 1 deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0684324
+db-key(2)/db: GTR
+db-key(2)/key: C1970848
+db-key(3)/db: MeSH
+db-key(3)/key: D008661
+db-key(4)/db: OMIM
+db-key(4)/key: 300653
+db-key(5)/db: Orphanet
+db-key(5)/key: 713
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 124335006
+reviewed: 2011-12
+published: 2018-04-17

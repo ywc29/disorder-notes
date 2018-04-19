@@ -1,0 +1,31 @@
+gene-symbol: CYLD
+name: CYLD lysine 63 deubiquitinase
+ghr-page: https://ghr.nlm.nih.gov/gene/CYLD
+text/text-role: function
+text/html: <p>The <i>CYLD</i> gene provides instructions for making a protein that helps regulate nuclear factor-kappa-B. Nuclear factor-kappa-B is a group of related proteins that help protect cells from self-destruction (apoptosis) in response to certain signals. In regulating the action of nuclear factor-kappa-B, the CYLD protein allows cells to respond properly to signals to self-destruct when appropriate, such as when the cells become abnormal. By this mechanism, the CYLD protein acts as a tumor suppressor, which means that it helps prevent cells from growing and dividing too fast or in an uncontrolled way.</p>
+related-health-condition(1)/name: Brooke-Spiegler syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/brooke-spiegler-syndrome
+related-health-condition(2)/name: familial cylindromatosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-cylindromatosis
+related-health-condition(3)/name: multiple familial trichoepithelioma
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-familial-trichoepithelioma
+synonym(1): BRSS
+synonym(2): CDMT
+synonym(3): CYLD1
+synonym(4): CYLD_HUMAN
+synonym(5): CYLDI
+synonym(6): cylindromatosis (turban tumor syndrome)
+synonym(7): EAC
+synonym(8): HSPC057
+synonym(9): KIAA0849
+synonym(10): MFT
+synonym(11): MFT1
+synonym(12): SBS
+synonym(13): TEM
+synonym(14): USPL2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1540
+db-key(2)/db: OMIM
+db-key(2)/key: 605018
+reviewed: 2012-06
+published: 2018-04-17

@@ -1,0 +1,24 @@
+name: Fragile X-associated primary ovarian insufficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/fragile-x-associated-primary-ovarian-insufficiency
+text/text-role: description
+text/html: <p>Fragile X-associated primary ovarian insufficiency (FXPOI) is a condition that affects women and is characterized by reduced function of the ovaries. The ovaries are the female reproductive organs in which egg cells are produced. As a form of primary ovarian insufficiency, FXPOI can cause irregular menstrual cycles, early menopause, an inability to have children (infertility), and elevated levels of a hormone known as follicle stimulating hormone (FSH). FSH is produced in both males and females and helps regulate the development of reproductive cells (eggs in females and sperm in males). In females, the level of FSH rises and falls, but overall it increases as a woman ages. In younger women, elevated levels may indicate early menopause and fertility problems.</p><p>The severity of FXPOI is variable. The most severely affected women have overt POI (formerly called premature ovarian failure). These women have irregular or absent menstrual periods and elevated FSH levels before age 40. Overt POI often causes infertility. Other women have occult POI; they have normal menstrual periods but reduced fertility, and they may have elevated levels of FSH (in which case, it is called biochemical POI). The reduction in ovarian function caused by FXPOI results in low levels of the hormone estrogen, which leads to many of the common signs and symptoms of menopause, such as hot flashes, insomnia, and thinning of the bones (osteoporosis). Women with FXPOI undergo menopause an average of 5 years earlier than women without the condition.</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+related-gene/gene-symbol: FMR1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FMR1
+synonym(1): FMR1-related primary ovarian insufficiency
+synonym(2): FXPOI
+synonym(3): premature ovarian failure 1
+synonym(4): X-linked hypergonadotropic ovarian failure
+db-key(1)/db: GTR
+db-key(1)/key: C3494522
+db-key(2)/db: GeneReviews
+db-key(2)/key: fragilex
+db-key(3)/db: MeSH
+db-key(3)/key: D016649
+db-key(4)/db: OMIM
+db-key(4)/key: 311360
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 237788002
+reviewed: 2012-08
+published: 2018-04-17

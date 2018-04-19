@@ -1,0 +1,15 @@
+gene-symbol: EPOR
+name: erythropoietin receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/EPOR
+text/text-role: function
+text/html: <p>The <i>EPOR</i> gene provides instructions for making a protein called the erythropoietin receptor. Erythropoietin is a hormone that directs the production of new red blood cells (erythrocytes) in the bone marrow. Red blood cells make up about half of total blood volume, and their primary function is to carry oxygen from the lungs to tissues and organs throughout the body. New red blood cells are constantly being produced by the body as worn-out red blood cells are broken down. To trigger the production of red blood cells, erythropoietin attaches (binds) to the erythropoietin receptor. This binding turns on (activates) the receptor, which stimulates several signaling pathways (particularly a cascade of signals known as the JAK/STAT pathway) that lead to the formation and maturation of red blood cells.</p>
+related-health-condition/name: familial erythrocytosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-erythrocytosis
+synonym(1): EPO-R
+synonym(2): EPOR_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2057
+db-key(2)/db: OMIM
+db-key(2)/key: 133171
+reviewed: 2012-08
+published: 2018-04-17

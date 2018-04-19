@@ -1,0 +1,33 @@
+name: Short QT syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/short-qt-syndrome
+text/text-role: description
+text/html: <p>Short QT syndrome is a condition that can cause a disruption of the heart's normal rhythm (arrhythmia). In people with this condition, the heart (cardiac) muscle takes less time than usual to recharge between beats. The term "short QT" refers to a specific pattern of heart activity that is detected with an electrocardiogram (EKG), which is a test used to measure the electrical activity of the heart. In people with this condition, the part of the heartbeat known as the QT interval is abnormally short.</p><p>If untreated, the arrhythmia associated with short QT syndrome can lead to a variety of signs and symptoms, from dizziness and fainting (syncope) to cardiac arrest and sudden death. These signs and symptoms can occur any time from early infancy to old age. This condition may explain some cases of sudden infant death syndrome (SIDS), which is a major cause of unexplained death in babies younger than 1 year. However, some people with short QT syndrome never experience any health problems associated with the condition.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: KCNH2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNH2
+related-gene(2)/gene-symbol: KCNJ2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNJ2
+related-gene(3)/gene-symbol: KCNQ1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNQ1
+synonym: SQTS
+db-key(1)/db: GTR
+db-key(1)/key: C1865018
+db-key(2)/db: GTR
+db-key(2)/key: C1865019
+db-key(3)/db: GTR
+db-key(3)/key: C1865020
+db-key(4)/db: MeSH
+db-key(4)/key: D001145
+db-key(5)/db: OMIM
+db-key(5)/key: 609620
+db-key(6)/db: OMIM
+db-key(6)/key: 609621
+db-key(7)/db: OMIM
+db-key(7)/key: 609622
+db-key(8)/db: Orphanet
+db-key(8)/key: 51083
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 698272007
+reviewed: 2013-06
+published: 2018-04-17

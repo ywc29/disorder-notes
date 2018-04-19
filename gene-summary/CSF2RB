@@ -1,0 +1,8 @@
+gene-symbol: CSF2RB
+name: colony stimulating factor 2 receptor beta common subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/CSF2RB
+related-health-condition/name: surfactant dysfunction
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/surfactant-dysfunction
+db-key/db: NCBI Gene
+db-key/key: 1439
+published: 2018-04-17

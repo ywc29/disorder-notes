@@ -1,0 +1,8 @@
+gene-symbol: FCGR2A
+name: Fc fragment of IgG receptor IIa
+ghr-page: https://ghr.nlm.nih.gov/gene/FCGR2A
+related-health-condition/name: rheumatoid arthritis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/rheumatoid-arthritis
+db-key/db: NCBI Gene
+db-key/key: 2212
+published: 2018-04-17

@@ -1,0 +1,19 @@
+gene-symbol: ARSA
+name: arylsulfatase A
+ghr-page: https://ghr.nlm.nih.gov/gene/ARSA
+text/text-role: function
+text/html: <p>The <i>ARSA</i> gene provides instructions for making the enzyme arylsulfatase A. This enzyme is located in cellular structures called lysosomes, which are the cell's recycling centers. Within lysosomes, arylsulfatase A helps process substances known as sulfatides. Sulfatides are a subgroup of sphingolipids, a category of fats that are important components of cell membranes. Sulfatides are abundant in the nervous system's white matter, consisting of nerve fibers covered by myelin. Myelin, made up of multiple layers of membranes, insulates and protects nerves.</p>
+related-health-condition/name: metachromatic leukodystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/metachromatic-leukodystrophy
+synonym(1): ARSA_HUMAN
+synonym(2): cerebroside 3-sulfatase
+synonym(3): Cerebroside-3-sulfate 3-sulfohydrolase
+synonym(4): Cerebroside-Sulfatase
+synonym(5): MLD
+synonym(6): sulfatidase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 410
+db-key(2)/db: OMIM
+db-key(2)/key: 607574
+reviewed: 2013-02
+published: 2018-04-17

@@ -1,0 +1,24 @@
+name: Iron-refractory iron deficiency anemia
+ghr-page: https://ghr.nlm.nih.gov/condition/iron-refractory-iron-deficiency-anemia
+text/text-role: description
+text/html: <p>Iron-refractory iron deficiency anemia is one of many types of anemia, which is a group of conditions characterized by a shortage of healthy red blood cells. This shortage prevents the blood from carrying an adequate supply of oxygen to the body's tissues.</p><p>Iron-refractory iron deficiency anemia results from an inadequate amount (deficiency) of iron in the bloodstream. It is described as "iron-refractory" because the condition is totally resistant (refractory) to treatment with iron given orally and partially resistant to iron given in other ways, such as intravenously (by IV). In people with this form of anemia, red blood cells are abnormally small (microcytic) and pale (hypochromic). The symptoms of iron-refractory iron deficiency anemia can include tiredness (fatigue), weakness, pale skin, and other complications. These symptoms are most pronounced during childhood, although they tend to be mild. Affected individuals usually have normal growth and development.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: TMPRSS6
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TMPRSS6
+synonym(1): anemia, hypochromic microcytic, with defect in iron metabolism
+synonym(2): IRIDA
+synonym(3): IRIDA syndrome
+synonym(4): iron-handling disorder, hereditary
+db-key(1)/db: GTR
+db-key(1)/key: C0085576
+db-key(2)/db: MeSH
+db-key(2)/key: D018798
+db-key(3)/db: OMIM
+db-key(3)/key: 206200
+db-key(4)/db: Orphanet
+db-key(4)/key: 209981
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 722005000
+reviewed: 2014-07
+published: 2018-04-17

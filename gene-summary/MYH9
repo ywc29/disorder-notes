@@ -1,0 +1,28 @@
+gene-symbol: MYH9
+name: myosin heavy chain 9
+ghr-page: https://ghr.nlm.nih.gov/gene/MYH9
+text/text-role: function
+text/html: <p>The <i>MYH9</i> gene provides instructions for making a protein called myosin-9. This protein is one part (subunit) of the myosin IIA protein.</p><p>There are three forms of myosin II, called myosin IIA, myosin IIB and myosin IIC. They play roles in cell movement (cell motility); maintenance of cell shape; and cytokinesis, which is the step in cell division when the fluid surrounding the nucleus (the cytoplasm) divides to form two separate cells. While some cells use more than one type of myosin II, certain blood cells such as platelets and white blood cells (leukocytes) use only myosin IIA.</p><p>Each type of myosin II protein consists of two heavy chains and four light chains. The heavy chains each have two parts: a head region and a tail region. The head region interacts with actin, a protein that is important for cell movement and shape. The long tail region interacts with other proteins, including the tail regions of other myosin proteins.</p>
+related-health-condition(1)/name: MYH9-related disorder
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/myh9-related-disorder
+related-health-condition(2)/name: nonsyndromic hearing loss
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-hearing-loss
+synonym(1): cellular myosin heavy chain, type A
+synonym(2): MYH9_HUMAN
+synonym(3): myosin-9
+synonym(4): myosin heavy chain, non-muscle IIa
+synonym(5): myosin, heavy chain 9, non-muscle
+synonym(6): NMHC-II-A
+synonym(7): NMMHC-A
+synonym(8): NMMHC II-a
+synonym(9): NMMHC-IIA
+synonym(10): NMMHCA
+synonym(11): non-muscle myosin heavy chain A
+synonym(12): non-muscle myosin heavy chain IIa
+synonym(13): nonmuscle myosin heavy chain II-A
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4627
+db-key(2)/db: OMIM
+db-key(2)/key: 160775
+reviewed: 2011-04
+published: 2018-04-17

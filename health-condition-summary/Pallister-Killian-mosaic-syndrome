@@ -1,0 +1,25 @@
+name: Pallister-Killian mosaic syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/pallister-killian-mosaic-syndrome
+text/text-role: description
+text/html: <p>Pallister-Killian mosaic syndrome is a developmental disorder that affects many parts of the body. This condition is characterized by extremely weak muscle tone (hypotonia) in infancy and early childhood, intellectual disability, distinctive facial features, sparse hair, areas of unusual skin coloring (pigmentation), and other birth defects.</p><p>Most babies with Pallister-Killian mosaic syndrome are born with significant hypotonia, which can cause difficulty breathing and problems with feeding. Hypotonia also interferes with the normal development of motor skills such as sitting, standing, and walking. About 30 percent of affected individuals are ultimately able to walk without assistance. Additional developmental delays result from intellectual disability, which is usually severe to profound. Speech is often limited or absent in people with this condition.</p><p>Pallister-Killian mosaic syndrome is associated with a distinctive facial appearance that is often described as "coarse." Characteristic facial features include a high, rounded forehead; a broad nasal bridge; a short nose; widely spaced eyes; low-set ears; rounded cheeks; and a wide mouth with a thin upper lip and a large tongue. Some affected children are born with an opening in the roof of the mouth (cleft palate) or a high arched palate.</p><p>Most children with Pallister-Killian mosaic syndrome have sparse hair on their heads, particularly around the temples. These areas may fill in as affected children get older. Many affected individuals also have streaks or patches of skin that are darker or lighter than the surrounding skin. These skin changes can occur anywhere on the body, and they may be apparent at birth or occur later in life.</p><p>Additional features of Pallister-Killian mosaic syndrome can include hearing loss, vision impairment, seizures, extra nipples, genital abnormalities, and heart defects. Affected individuals may also have skeletal abnormalities such as extra fingers and/or toes, large big toes (halluces), and unusually short arms and legs. About 40 percent of affected infants are born with a congenital diaphragmatic hernia, which is a hole in the muscle that separates the abdomen from the chest cavity (the diaphragm). This potentially serious birth defect allows the stomach and intestines to move into the chest, where they can crowd the developing heart and lungs.</p><p>The signs and symptoms of Pallister-Killian mosaic syndrome vary, although most people with this disorder have severe to profound intellectual disability and other serious health problems. The most severe cases involve birth defects that are life-threatening in early infancy. However, several affected people have had milder features, including mild intellectual disability and less noticeable physical abnormalities.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-chromosome/name: 12
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/12
+synonym(1): isochromosome 12p syndrome
+synonym(2): Pallister-Killian syndrome
+synonym(3): PKS
+synonym(4): Teschler-Nicola/Killian syndrome
+synonym(5): tetrasomy 12p, mosaic
+db-key(1)/db: GTR
+db-key(1)/key: C0265449
+db-key(2)/db: MeSH
+db-key(2)/key: D025063
+db-key(3)/db: OMIM
+db-key(3)/key: 601803
+db-key(4)/db: Orphanet
+db-key(4)/key: 884
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 9527009
+reviewed: 2015-06
+published: 2018-04-17

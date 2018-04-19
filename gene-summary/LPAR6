@@ -1,0 +1,25 @@
+gene-symbol: LPAR6
+name: lysophosphatidic acid receptor 6
+ghr-page: https://ghr.nlm.nih.gov/gene/LPAR6
+text/text-role: function
+text/html: <p>The <i>LPAR6</i> gene provides instructions for making a protein called lysophosphatidic acid receptor 6 (LPA<sub>6</sub>). This protein functions as a receptor. Receptor proteins have particular sites into which certain other proteins, called ligands, fit like keys into locks. A specific fat called lysophosphatidic acid (LPA) is the ligand for the LPA<sub>6</sub> protein. LPA can attach to many receptors, but LPA<sub>6</sub> is the only LPA receptor found in hair follicles. Hair follicles are specialized structures in the skin where hair growth occurs. As the cells in the hair follicle divide, the hair strand (shaft) is pushed upward and extends beyond the skin, causing the hair to grow. The LPA<sub>6</sub> protein is also found in the outermost layer of skin (the epidermis). Attachment of LPA to LPA<sub>6</sub> helps regulate the growth and division (proliferation) and maturation (differentiation) of cells in the hair follicle.</p>
+related-health-condition/name: autosomal recessive hypotrichosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-hypotrichosis
+synonym(1): G-protein coupled purinergic receptor P2Y5
+synonym(2): LPA-6
+synonym(3): LPA receptor 6
+synonym(4): LPAR6_HUMAN
+synonym(5): oleoyl-L-alpha-lysophosphatidic acid receptor
+synonym(6): P2RY5
+synonym(7): P2Y purinoceptor 5
+synonym(8): P2Y5
+synonym(9): purinergic receptor 5
+synonym(10): purinergic receptor P2Y G protein-coupled protein 5
+synonym(11): purinergic receptor P2Y, G-protein coupled, 5
+synonym(12): RB intron encoded G-protein coupled receptor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10161
+db-key(2)/db: OMIM
+db-key(2)/key: 609239
+reviewed: 2013-04
+published: 2018-04-17

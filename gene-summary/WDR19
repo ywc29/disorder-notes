@@ -1,0 +1,35 @@
+gene-symbol: WDR19
+name: WD repeat domain 19
+ghr-page: https://ghr.nlm.nih.gov/gene/WDR19
+text/text-role: function
+text/html: <p>The <i>WDR19</i> gene (also known as <i>IFT144</i>) provides instructions for making a protein that is involved in the formation and maintenance of cilia, which are microscopic, finger-like projections that stick out from the surface of cells. Cilia participate in signaling pathways that transmit information within and between cells and are important for the development and function of many types of cells and tissues, including cells in the kidneys and liver and the light-sensitive tissue at the back of the eye (the retina). Cilia also play a role in the development of the bones, although the mechanism is not well understood.</p><p>The movement of substances within cilia and similar structures called flagella is known as intraflagellar transport. This process is essential for the assembly and maintenance of these cell structures. During intraflagellar transport, cells use molecules called IFT particles to carry materials to and from the tips of cilia. Each IFT particle is made up of two groups of IFT proteins: complex A and complex B. The protein produced from the <i>WDR19</i> gene forms part of IFT complex A (IFT-A). During intraflagellar transport, this complex carries materials from the tip to the base of cilia.</p><p>The IFT-A complex is essential for proper regulation of the Sonic Hedgehog signaling pathway, which is important for the growth and maturation (differentiation) of cells and the normal shaping (patterning) of many parts of the body, especially during embryonic development. The exact role of the complex in this pathway is unclear.</p>
+related-health-condition(1)/name: asphyxiating thoracic dystrophy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/asphyxiating-thoracic-dystrophy
+related-health-condition(2)/name: cranioectodermal dysplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cranioectodermal-dysplasia
+related-health-condition(3)/name: nephronophthisis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/nephronophthisis
+related-health-condition(4)/name: retinitis pigmentosa
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/retinitis-pigmentosa
+related-health-condition(5)/name: Senior-Løken syndrome
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/senior-loken-syndrome
+synonym(1): ATD5
+synonym(2): CED4
+synonym(3): DYF-2
+synonym(4): FLJ23127
+synonym(5): IFT144
+synonym(6): intraflagellar transport 144 homolog
+synonym(7): KIAA1638
+synonym(8): NPHP13
+synonym(9): ORF26
+synonym(10): Oseg6
+synonym(11): PWDMP
+synonym(12): WD repeat-containing protein 19
+synonym(13): WD repeat membrane protein PWDMP
+synonym(14): WDR19_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57728
+db-key(2)/db: OMIM
+db-key(2)/key: 608151
+reviewed: 2013-11
+published: 2018-04-17

@@ -1,0 +1,64 @@
+name: Coloboma
+ghr-page: https://ghr.nlm.nih.gov/condition/coloboma
+text/text-role: description
+text/html: <p>Coloboma is an eye abnormality that occurs before birth. Colobomas are missing pieces of tissue in structures that form the eye. They may appear as notches or gaps in one of several parts of the eye, including the colored part of the eye called the iris; the retina, which is the specialized light-sensitive tissue that lines the back of the eye; the blood vessel layer under the retina called the choroid; or the optic nerves, which carry information from the eyes to the brain.</p><p>Colobomas may be present in one or both eyes and, depending on their size and location, can affect a person's vision. Colobomas affecting the iris, which result in a "keyhole" appearance of the pupil, generally do not lead to vision loss. Colobomas involving the retina result in vision loss in specific parts of the visual field, generally the upper part. Large retinal colobomas or those affecting the optic nerve can cause low vision, which means vision loss that cannot be completely corrected with glasses or contact lenses.</p><p>Some people with coloboma also have a condition called microphthalmia. In this condition, one or both eyeballs are abnormally small. In some affected individuals, the eyeball may appear to be completely missing; however, even in these cases some remaining eye tissue is generally present. Such severe microphthalmia should be distinguished from another condition called anophthalmia, in which no eyeball forms at all. However, the terms anophthalmia and severe microphthalmia are often used interchangeably. Microphthalmia may or may not result in significant vision loss.</p><p>People with coloboma may also have other eye abnormalities, including clouding of the lens of the eye (cataract), increased pressure inside the eye (glaucoma) that can damage the optic nerve, vision problems such as nearsightedness (myopia), involuntary back-and-forth eye movements (nystagmus), or separation of the retina from the back of the eye (retinal detachment).</p><p>Some individuals have coloboma as part of a syndrome that affects other organs and tissues in the body. These forms of the condition are described as syndromic. When coloboma occurs by itself, it is described as nonsyndromic or isolated.</p><p>Colobomas involving the eyeball should be distinguished from gaps that occur in the eyelids. While these eyelid gaps are also called colobomas, they arise from abnormalities in different structures during early development.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: n
+inheritance-pattern(3)/memo: not inherited
+inheritance-pattern(4)/code: xd
+inheritance-pattern(4)/memo: X-linked dominant
+inheritance-pattern(5)/code: xr
+inheritance-pattern(5)/memo: X-linked recessive
+related-gene(1)/gene-symbol: GDF3
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GDF3
+related-gene(2)/gene-symbol: GDF6
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GDF6
+related-gene(3)/gene-symbol: MAF
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/MAF
+related-gene(4)/gene-symbol: OTX2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/OTX2
+related-gene(5)/gene-symbol: PAX6
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/PAX6
+related-gene(6)/gene-symbol: SHH
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/SHH
+related-gene(7)/gene-symbol: VSX2
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/VSX2
+synonym(1): congenital ocular coloboma
+synonym(2): microphthalmia, isolated, with coloboma
+synonym(3): ocular coloboma
+synonym(4): uveoretinal coloboma
+db-key(1)/db: GTR
+db-key(1)/key: C0009363
+db-key(2)/db: GTR
+db-key(2)/key: C4011974
+db-key(3)/db: GeneReviews
+db-key(3)/key: anophthalmia-ov
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: H47.31
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: H47.311
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: H47.312
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: H47.313
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: H47.319
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: Q12.2
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: Q13.0
+db-key(11)/db: MeSH
+db-key(11)/key: D003103
+db-key(12)/db: OMIM
+db-key(12)/key: 120200
+db-key(13)/db: OMIM
+db-key(13)/key: 216820
+db-key(14)/db: Orphanet
+db-key(14)/key: 194
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 93390002
+reviewed: 2011-11
+published: 2018-04-17

@@ -1,0 +1,17 @@
+gene-symbol: SELENON
+name: selenoprotein N
+ghr-page: https://ghr.nlm.nih.gov/gene/SELENON
+text/text-role: function
+text/html: <p>The <i>SELENON</i> gene (also called <i>SEPN1</i>) provides instructions for making a protein called selenoprotein N. This protein is part of a family of selenoproteins, which have several critical functions within the body. Selenoproteins are primarily involved in chemical reactions called oxidation-reduction reactions, which are essential for protecting cells from damage caused by unstable oxygen-containing molecules. Selenoprotein N is likely involved in protecting cells against oxidative stress. Oxidative stress occurs when unstable molecules called free radicals accumulate to levels that damage or kill cells.</p><p>The exact function of selenoprotein N is unknown. This protein is highly active in many tissues before birth and may be involved in the formation of muscle tissue (myogenesis). Selenoprotein N may also be important for normal muscle function after birth, although it is active at much lower levels in adult tissues. This protein  contains a region that likely allows it to bind to calcium. This region is of interest because calcium plays an important role in triggering muscle contractions, which allow the body to move.</p>
+related-health-condition/name: multiminicore disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/multiminicore-disease
+synonym(1): selenoprotein N, 1
+synonym(2): SELN
+synonym(3): SEPN1
+synonym(4): SEPN1_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57190
+db-key(2)/db: OMIM
+db-key(2)/key: 606210
+reviewed: 2010-07
+published: 2018-04-17

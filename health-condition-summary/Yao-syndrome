@@ -1,0 +1,20 @@
+name: Yao syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/yao-syndrome
+text/text-role: description
+text/html: <p>Yao syndrome (formerly called <i>NOD2</i>-associated autoinflammatory disease) is a disorder involving episodes of fever and abnormal inflammation affecting many parts of the body, particularly the skin, joints, and gastrointestinal system. Inflammation is a normal immune system response to injury and foreign invaders (such as bacteria). In people with Yao syndrome, part of the immune system called the innate immune response is turned on (activated) abnormally, which causes fevers and inflammation-related damage to tissues and organs. Based on this process, Yao syndrome is classified as an autoinflammatory disease. Autoinflammatory diseases are distinct from autoimmune diseases; these two groups of diseases involve abnormalities in different parts of the immune system.</p><p>The episodes of fever and inflammation associated with Yao syndrome can last for several days and occur weeks to months apart. During these episodes, most affected individuals develop reddened, inflamed areas on the skin called erythematous patches or plaques. This reddening occurs most commonly on the face, chest, and back but can also affect the arms and legs. Episodes of joint pain and inflammation similar to arthritis are common, particularly in the legs, as is swelling of the ankles and feet. Inflammation also affects the gastrointestinal system, causing attacks of abdominal pain, bloating, and cramping with diarrhea in more than half of affected individuals. Dry eyes and dry mouth (described as "sicca-like" symptoms, which refers to dryness) are reported in about half of people with this disease. Other potential signs and symptoms of Yao syndrome include mouth sores, chest pain, and enlargement of various glands.</p><p>Yao syndrome is usually diagnosed in adulthood. It is a long-lasting (chronic) disease, and episodes can recur for many years.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene/gene-symbol: NOD2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NOD2
+synonym(1): NAID
+synonym(2): NOD2-associated AID
+synonym(3): NOD2-associated autoinflammatory disease
+synonym(4): YAOS
+db-key(1)/db: GTR
+db-key(1)/key: C4310620
+db-key(2)/db: MeSH
+db-key(2)/key: D056660
+db-key(3)/db: OMIM
+db-key(3)/key: 617321
+reviewed: 2017-12
+published: 2018-04-17

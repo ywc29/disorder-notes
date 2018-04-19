@@ -1,0 +1,30 @@
+gene-symbol: NDRG1
+name: N-myc downstream regulated 1
+ghr-page: https://ghr.nlm.nih.gov/gene/NDRG1
+text/text-role: function
+text/html: <p>The <i>NDRG1</i> gene provides instructions for making a protein whose function is not well understood. The NDRG1 protein may play a role in stopping cell growth and prompting cells to mature and take on specialized functions (differentiate).  It probably performs these roles by transmitting signals between the nucleus and other parts of the cell.  The NDRG1 protein also interacts with other proteins that help regulate the distribution of fats (lipids) in the body.</p><p>The <i>NDRG1</i> gene is active in cells throughout the body, but its activity is particularly high in specialized cells called Schwann cells.  Schwann cells nourish and protect nerve cells, especially the cell extensions (axons) that transmit nerve impulses.  Schwann cells also produce myelin, a fatty substance that covers axons and promotes the efficient transmission of nerve impulses.  Scientists speculate that the NDRG1 protein is involved in Schwann cell differentiation, myelin maintenance, and the signaling necessary for the survival of nerve axons.</p>
+related-health-condition/name: Charcot-Marie-Tooth disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+synonym(1): CAP43
+synonym(2): CMT4D
+synonym(3): differentiation-related gene 1 (nickel-specific induction protein)
+synonym(4): DRG1
+synonym(5): GC4
+synonym(6): HMSNL
+synonym(7): N-myc downstream regulated gene 1
+synonym(8): NDR1
+synonym(9): NDRG1_HUMAN
+synonym(10): NMSL
+synonym(11): protein regulated by oxygen 1
+synonym(12): PROXY1
+synonym(13): reducing agents and tunicamycin-responsive protein
+synonym(14): RIT42
+synonym(15): RTP
+synonym(16): TARG1
+synonym(17): TDD5
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10397
+db-key(2)/db: OMIM
+db-key(2)/key: 605262
+reviewed: 2010-01
+published: 2018-04-17

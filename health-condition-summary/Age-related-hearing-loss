@@ -1,0 +1,68 @@
+name: Age-related hearing loss
+ghr-page: https://ghr.nlm.nih.gov/condition/age-related-hearing-loss
+text/text-role: description
+text/html: <p>Age-related hearing loss (also known as presbycusis) is a decrease in hearing ability that happens with age. In most cases, the hearing loss affects both ears. It can begin as early as a person's thirties or forties and worsens gradually over time.</p><p>Age-related hearing loss first affects the ability to hear high-frequency sounds, such as speech. Affected people find it increasingly difficult to understand what others are saying, particularly when there is background noise (such as at a party). However, because the hearing loss is gradual, many people do not realize they cannot hear as well as they used to. They may turn up the television volume or start speaking louder without being aware of it.</p><p>As the hearing loss worsens, it affects more frequencies of sound, making it difficult to hear more than just speech. Determining where a sound is coming from (localization) and identifying its source become more challenging. Some affected individuals also experience a ringing sensation in the ears (tinnitus) or dizziness and problems with balance (presbystasis).</p><p>Age-related hearing loss often impacts a person's quality of life. Because affected individuals have trouble understanding speech, the condition affects their ability to communicate. It can contribute to social isolation, depression, and loss of self-esteem. Age-related hearing loss also causes safety issues if individuals become unable to hear smoke alarms, car horns, and other sounds that alert people to dangerous situations.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: APOE
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/APOE
+related-gene(2)/gene-symbol: CDH23
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CDH23
+related-gene(3)/gene-symbol: EDN1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/EDN1
+related-gene(4)/gene-symbol: ESRRG
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/ESRRG
+related-gene(5)/gene-symbol: GIPC3
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/GIPC3
+related-gene(6)/gene-symbol: GRHL2
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/GRHL2
+related-gene(7)/gene-symbol: GRM7
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/GRM7
+related-gene(8)/gene-symbol: GRM8
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/GRM8
+related-gene(9)/gene-symbol: KCNQ4
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNQ4
+related-gene(10)/gene-symbol: MTHFR
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/MTHFR
+related-gene(11)/gene-symbol: MYO6
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/MYO6
+related-gene(12)/gene-symbol: MYO7A
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/MYO7A
+related-gene(13)/gene-symbol: NAT2
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/NAT2
+related-gene(14)/gene-symbol: SLC26A4
+related-gene(14)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC26A4
+related-gene(15)/gene-symbol: UCP2
+related-gene(15)/ghr-page: https://ghr.nlm.nih.gov/gene/UCP2
+related-mitochondrial-dna/name: mitochondrial DNA
+related-mitochondrial-dna/ghr-page: https://ghr.nlm.nih.gov/mitochondrial-dna
+synonym(1): age-related hearing impairment
+synonym(2): deafness due to old age
+synonym(3): hearing loss, age-related
+synonym(4): old-aged sensorineural hearing impairment
+synonym(5): presbyacusia
+synonym(6): presbycusis
+db-key(1)/db: GTR
+db-key(1)/key: C2676230
+db-key(2)/db: GTR
+db-key(2)/key: C2751814
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: H91.1
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: H91.10
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: H91.11
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: H91.12
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: H91.13
+db-key(8)/db: MeSH
+db-key(8)/key: D011304
+db-key(9)/db: OMIM
+db-key(9)/key: 612448
+db-key(10)/db: OMIM
+db-key(10)/key: 612976
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 49526009
+reviewed: 2017-10
+published: 2018-04-17

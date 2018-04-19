@@ -1,0 +1,59 @@
+name: Juvenile myoclonic epilepsy
+ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-myoclonic-epilepsy
+text/text-role: description
+text/html: <p>Juvenile myoclonic epilepsy is a condition characterized by recurrent seizures (epilepsy). This condition begins in childhood or adolescence, usually between ages 12 and 18, and lasts into adulthood. The most common type of seizure in people with this condition is myoclonic seizures, which cause rapid, uncontrolled muscle jerks. People with this condition may also have generalized tonic-clonic seizures (also known as grand mal seizures), which cause muscle rigidity, convulsions, and loss of consciousness. Sometimes, affected individuals have absence seizures, which cause loss of consciousness for a short period that appears as a staring spell. Typically, people with juvenile myoclonic epilepsy develop the characteristic myoclonic seizures in adolescence, then develop generalized tonic-clonic seizures a few years later. Although seizures can happen at any time, they occur most commonly in the morning, shortly after awakening. Seizures can be triggered by a lack of sleep, extreme tiredness, stress, or alcohol consumption.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: CACNB4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CACNB4
+related-gene(2)/gene-symbol: CLCN2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CLCN2
+related-gene(3)/gene-symbol: EFHC1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/EFHC1
+related-gene(4)/gene-symbol: GABRA1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/GABRA1
+related-gene(5)/gene-symbol: GABRD
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/GABRD
+synonym(1): adolescent myoclonic epilepsy
+synonym(2): Janz syndrome
+synonym(3): petit mal, impulsive
+db-key(1)/db: GTR
+db-key(1)/key: C0393697
+db-key(2)/db: GTR
+db-key(2)/key: C1850778
+db-key(3)/db: GTR
+db-key(3)/key: C2749942
+db-key(4)/db: GTR
+db-key(4)/key: C2750887
+db-key(5)/db: GTR
+db-key(5)/key: C2751603
+db-key(6)/db: GTR
+db-key(6)/key: C3280332
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: G40.B01
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: G40.B09
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: G40.B11
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: G40.B19
+db-key(11)/db: MeSH
+db-key(11)/key: D020190
+db-key(12)/db: OMIM
+db-key(12)/key: 254770
+db-key(13)/db: OMIM
+db-key(13)/key: 607628
+db-key(14)/db: OMIM
+db-key(14)/key: 607682
+db-key(15)/db: OMIM
+db-key(15)/key: 611136
+db-key(16)/db: OMIM
+db-key(16)/key: 613060
+db-key(17)/db: OMIM
+db-key(17)/key: 614280
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 6204001
+reviewed: 2015-09
+published: 2018-04-17

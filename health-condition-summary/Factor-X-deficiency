@@ -1,0 +1,27 @@
+name: Factor X deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/factor-x-deficiency
+text/text-role: description
+text/html: <p>Factor X deficiency is a rare bleeding disorder that varies in severity among affected individuals. The signs and symptoms of this condition can begin at any age, although the most severe cases are apparent in childhood. Factor X deficiency commonly causes nosebleeds, easy bruising, bleeding under the skin, bleeding of the gums, blood in the urine (hematuria), and prolonged or excessive bleeding following surgery or trauma. Women with factor X deficiency can have heavy or prolonged menstrual bleeding (menorrhagia) or excessive bleeding in childbirth, and may be at increased risk of pregnancy loss (miscarriage). Bleeding into joint spaces (hemarthrosis) occasionally occurs. Severely affected individuals have an increased risk of bleeding inside the skull (intracranial hemorrhage), in the lungs (pulmonary hemorrhage), or in the gastrointestinal tract, which can be life-threatening.</p>
+inheritance-pattern(1)/code: ar
+inheritance-pattern(1)/memo: autosomal recessive
+inheritance-pattern(2)/code: n
+inheritance-pattern(2)/memo: not inherited
+related-gene/gene-symbol: F10
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/F10
+synonym(1): congenital Stuart factor deficiency
+synonym(2): F10 deficiency
+synonym(3): Stuart-Prower factor deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0015519
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D68.2
+db-key(3)/db: MeSH
+db-key(3)/key: D005171
+db-key(4)/db: OMIM
+db-key(4)/key: 227600
+db-key(5)/db: Orphanet
+db-key(5)/key: 328
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 76642003
+reviewed: 2015-01
+published: 2018-04-17

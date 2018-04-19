@@ -1,0 +1,23 @@
+name: Craniofacial-deafness-hand syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/craniofacial-deafness-hand-syndrome
+text/text-role: description
+text/html: <p>Craniofacial-deafness-hand syndrome is characterized by distinctive facial features, profound hearing loss, and hand abnormalities.</p><p>The distinctive facial features of people with craniofacial-deafness-hand syndrome result from a variety of developmental abnormalities involving the skull (cranium) and face. Affected individuals often have underdeveloped or absent nasal bones resulting in a small nose, thin nostrils, and a flattened mid-face with a flat nasal bridge. Individuals with this condition typically also have widely spaced eyes (ocular hypertelorism), narrowed openings of the eyes (narrowed palpebral fissures), a small upper jaw (hypoplastic maxilla),  and a small mouth with pursed lips.</p><p>People with this condition also have profound hearing loss that is caused by abnormalities in the inner ear (sensorineural deafness).  Hearing loss in these individuals is present from birth.</p><p>In affected individuals, a common abnormality of the muscles in the hand is a malformation in which all of the fingers are angled outward toward the fifth finger (ulnar deviation). People with craniofacial-deafness-hand syndrome may also have permanently bent third, fourth, and fifth fingers (camptodactyly), which can limit finger movement and lead to joint deformities called contractures. Contractures in the wrist can further impair hand movements.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: PAX3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PAX3
+synonym: CDHS
+db-key(1)/db: GTR
+db-key(1)/key: C1852510
+db-key(2)/db: MeSH
+db-key(2)/key: D006319
+db-key(3)/db: MeSH
+db-key(3)/key: D019465
+db-key(4)/db: OMIM
+db-key(4)/key: 122880
+db-key(5)/db: Orphanet
+db-key(5)/key: 1529
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702362004
+reviewed: 2012-08
+published: 2018-04-17

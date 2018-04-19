@@ -1,0 +1,27 @@
+name: Methemoglobinemia, beta-globin type
+ghr-page: https://ghr.nlm.nih.gov/condition/methemoglobinemia-beta-globin-type
+text/text-role: description
+text/html: <p>Methemoglobinemia, beta-globin type is a condition that affects the function of red blood cells. Specifically, it alters a molecule called hemoglobin within these cells. Hemoglobin within red blood cells attaches (binds) to oxygen molecules in the lungs, which it carries through the bloodstream, then releases in tissues throughout the body. Instead of normal hemoglobin, people with methemoglobinemia, beta-globin type have an abnormal form called methemoglobin, which is unable to efficiently deliver oxygen to the body's tissues. In methemoglobinemia, beta-globin type, the abnormal hemoglobin gives the blood a brown color. It also causes a bluish appearance of the skin, lips, and nails (cyanosis), which usually first appears around the age of 6 months. The signs and symptoms of methemoglobinemia, beta-globin type are generally limited to cyanosis, which does not cause any health problems. However, in rare cases, severe methemoglobinemia, beta-globin type can cause headaches, weakness, and fatigue.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: HBB
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HBB
+synonym(1): blue baby syndrome
+synonym(2): congenital methemoglobinemia
+synonym(3): hemoglobin M disease
+db-key(1)/db: GTR
+db-key(1)/key: C1840779
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D74.0
+db-key(3)/db: MeSH
+db-key(3)/key: D008708
+db-key(4)/db: OMIM
+db-key(4)/key: 141900
+db-key(5)/db: Orphanet
+db-key(5)/key: 621
+db-key(6)/db: Orphanet
+db-key(6)/key: 330041
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 267550008
+reviewed: 2015-07
+published: 2018-04-17

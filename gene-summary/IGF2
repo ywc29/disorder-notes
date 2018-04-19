@@ -1,0 +1,33 @@
+gene-symbol: IGF2
+name: insulin like growth factor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/IGF2
+text/text-role: function
+text/html: <p>The <i>IGF2</i> gene provides instructions for making a protein called insulin-like growth factor 2.  This protein plays an essential role in growth and development before birth.  Studies suggest that insulin-like growth factor 2 promotes the growth and division (proliferation) of cells in many different tissues.  Although the <i>IGF2</i> gene is highly active during fetal development, it is much less active after birth.</p><p>People inherit one copy of most genes from their mother and one copy from their father. Both copies are typically active, or "turned on," in cells. However, the activity of the <i>IGF2</i> gene depends on which parent it was inherited from. In most tissues, only the copy inherited from a person's father (the paternally inherited copy) is active; the copy inherited from the mother (the maternally inherited copy) is not active.  This sort of parent-specific difference in gene activation is caused by a phenomenon called genomic imprinting.</p><p><i>IGF2</i> is part of a cluster of genes on the short (p) arm of chromosome 11 that undergo genomic imprinting. Another gene in this cluster, <i>H19</i>, is also involved in growth and development. A nearby region of DNA known as imprinting center 1 (IC1) or the H19 differentially methylated region (H19 DMR) controls the parent-specific genomic imprinting of both the <i>IGF2</i> and <i>H19</i> genes. The IC1 region undergoes a process called methylation, which is a chemical reaction that attaches small molecules called methyl groups to certain segments of DNA. Methylation, which occurs during the formation of an egg or sperm cell, is a way of marking or "stamping" the parent of origin. The IC1 region is normally methylated only on the paternally inherited copy of chromosome 11.</p>
+related-health-condition(1)/name: Beckwith-Wiedemann syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/beckwith-wiedemann-syndrome
+related-health-condition(2)/name: prostate cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+related-health-condition(3)/name: Russell-Silver syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/russell-silver-syndrome
+synonym(1): C11orf43
+synonym(2): FLJ22066
+synonym(3): FLJ44734
+synonym(4): IGF-2
+synonym(5): IGF-II
+synonym(6): IGF2_HUMAN
+synonym(7): INSIGF
+synonym(8): insulin-like growth factor 2
+synonym(9): insulin-like growth factor 2 (somatomedin A)
+synonym(10): insulin-like growth factor II
+synonym(11): insulin-like growth factor type 2
+synonym(12): pp9974
+synonym(13): putative insulin-like growth factor II associated protein
+synonym(14): somatomedin A
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3481
+db-key(2)/db: OMIM
+db-key(2)/key: 147470
+db-key(3)/db: OMIM
+db-key(3)/key: 616186
+reviewed: 2015-06
+published: 2018-04-17

@@ -1,0 +1,28 @@
+name: Hereditary myopathy with early respiratory failure
+ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-myopathy-with-early-respiratory-failure
+text/text-role: description
+text/html: <p>Hereditary myopathy with early respiratory failure (HMERF) is an inherited muscle disease that predominantly affects muscles close to the center of the body (proximal muscles) and muscles that are needed for breathing.</p><p>The major signs and symptoms of HMERF usually appear in adulthood, on average around age 35. Among the earliest muscles affected in HMERF are the neck flexors, which are muscles at the front of the neck that help hold the head up. Other proximal muscles that become weak in people with HMERF include those of the hips, thighs, and upper arms. Some affected individuals have also reported weakness in muscles of the lower leg and foot called the dorsal foot extensors.</p><p>HMERF also causes severe weakness in muscles of the chest that are involved in breathing, particularly the diaphragm. This weakness leads to breathing problems and life-threatening respiratory failure.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: TTN
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TTN
+synonym(1): Edstrom myopathy
+synonym(2): HMERF
+synonym(3): MPRM
+synonym(4): myopathy, proximal, with early respiratory muscle involvement
+db-key(1)/db: GTR
+db-key(1)/key: C1863599
+db-key(2)/db: GeneReviews
+db-key(2)/key: hmerf
+db-key(3)/db: MeSH
+db-key(3)/key: D009135
+db-key(4)/db: MeSH
+db-key(4)/key: D012131
+db-key(5)/db: OMIM
+db-key(5)/key: 603689
+db-key(6)/db: Orphanet
+db-key(6)/key: 178464
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 702373006
+reviewed: 2012-02
+published: 2018-04-17

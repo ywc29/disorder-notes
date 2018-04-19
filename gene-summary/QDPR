@@ -1,0 +1,18 @@
+gene-symbol: QDPR
+name: quinoid dihydropteridine reductase
+ghr-page: https://ghr.nlm.nih.gov/gene/QDPR
+text/text-role: function
+text/html: <p>The <i>QDPR</i> gene provides instructions for making an enzyme called quinoid dihydropteridine reductase. This enzyme helps carry out one step in the chemical pathway that recycles a molecule called tetrahydrobiopterin (BH4).</p><p>Tetrahydrobiopterin plays a critical role in processing several protein building blocks (amino acids) in the body. For example, it works with the enzyme phenylalanine hydroxylase to convert an amino acid called phenylalanine into another amino acid, tyrosine. Tetrahydrobiopterin is also involved in reactions that produce chemicals called neurotransmitters, which transmit signals between nerve cells in the brain. Because it helps enzymes carry out chemical reactions, tetrahydrobiopterin is known as a cofactor.</p><p>When tetrahydrobiopterin interacts with enzymes during chemical reactions, the cofactor is altered and must be recycled to a usable form.  Quinoid dihydropteridine reductase is one of two enzymes that help recycle tetrahydrobiopterin in the body.</p>
+related-health-condition/name: tetrahydrobiopterin deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/tetrahydrobiopterin-deficiency
+synonym(1): DHPR
+synonym(2): DHPR_HUMAN
+synonym(3): Dihydropteridine reductase
+synonym(4): PKU2
+synonym(5): SDR33C1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5860
+db-key(2)/db: OMIM
+db-key(2)/key: 612676
+reviewed: 2011-07
+published: 2018-04-17

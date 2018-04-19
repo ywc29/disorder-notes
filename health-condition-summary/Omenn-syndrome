@@ -1,0 +1,37 @@
+name: Omenn syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/omenn-syndrome
+text/text-role: description
+text/html: <p>Omenn syndrome is an inherited disorder of the immune system (immunodeficiency). Omenn syndrome is one of several forms of severe combined immunodeficiency (SCID), a group of disorders that cause individuals to have virtually no immune protection from bacteria, viruses, and fungi. Individuals with SCID are prone to repeated and persistent infections that can be very serious or life-threatening. Infants with Omenn syndrome typically experience pneumonia and chronic diarrhea. Often the organisms that cause infection in people with this disorder are described as opportunistic because they ordinarily do not cause illness in healthy people.</p><p>In addition to immunodeficiency, children with Omenn syndrome develop autoimmunity, in which the immune system attacks the body's own tissues and organs. This abnormal immune reaction can cause very red skin (erythroderma), hair loss (alopecia), and an enlarged liver and spleen (hepatosplenomegaly). In addition, affected individuals have enlargement of tissues that produce infection-fighting white blood cells called lymphocytes. These include the thymus, which is a gland located behind the breastbone, and lymph nodes, which are found throughout the body.</p><p>If not treated in a way that restores immune function, children with Omenn syndrome usually survive only until age 1 or 2.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: CARD11
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CARD11
+related-gene(2)/gene-symbol: DCLRE1C
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/DCLRE1C
+related-gene(3)/gene-symbol: IL7R
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/IL7R
+related-gene(4)/gene-symbol: LIG4
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/LIG4
+related-gene(5)/gene-symbol: RAG1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/RAG1
+related-gene(6)/gene-symbol: RAG2
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/RAG2
+synonym(1): familial reticuloendotheliosis
+synonym(2): histiocytic medullary reticulosis
+synonym(3): Omenn's syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1801959
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D81.2
+db-key(3)/db: MeSH
+db-key(3)/key: D016511
+db-key(4)/db: OMIM
+db-key(4)/key: 603554
+db-key(5)/db: Orphanet
+db-key(5)/key: 39041
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 307650006
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 722067005
+reviewed: 2017-02
+published: 2018-04-17

@@ -1,0 +1,34 @@
+gene-symbol: MAPT
+name: microtubule associated protein tau
+ghr-page: https://ghr.nlm.nih.gov/gene/MAPT
+text/text-role: function
+text/html: <p>The <i>MAPT</i> gene provides instructions for making a protein called tau. This protein is found throughout the nervous system, including in nerve cells (neurons) in the brain. It is involved in assembling and stabilizing microtubules, which are rigid, hollow fibers that make up the cell's structural framework (the cytoskeleton). Microtubules help cells maintain their shape, assist in the process of cell division, and are essential for the transport of materials within cells.</p><p>Six different versions (isoforms) of the tau protein are produced in the adult brain. The isoforms vary in length from 352 to 441 protein building blocks (amino acids). A region of the protein called the microtubule-binding domain, which is the part of the protein that attaches (binds) to microtubules, also varies among the isoforms. In three of the isoforms, the microtubule-binding domain contains three repeated segments. In the other three isoforms, this domain contains four repeated segments. Typically, the brain has approximately the same amount of three-repeat isoforms and four-repeat isoforms. This balance appears to be essential for the normal function of neurons.</p>
+related-health-condition(1)/name: frontotemporal dementia with parkinsonism-17
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/frontotemporal-dementia-with-parkinsonism-17
+related-health-condition(2)/name: progressive supranuclear palsy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/progressive-supranuclear-palsy
+synonym(1): DDPAC
+synonym(2): FLJ31424
+synonym(3): FTDP-17
+synonym(4): G protein beta1/gamma2 subunit-interacting factor 1
+synonym(5): MAPTL
+synonym(6): MGC138549
+synonym(7): microtubule-associated protein tau
+synonym(8): MSTD
+synonym(9): MTBT1
+synonym(10): MTBT2
+synonym(11): neurofibrillary tangle protein
+synonym(12): paired helical filament-tau
+synonym(13): PHF-tau
+synonym(14): PPND
+synonym(15): PPP1R103
+synonym(16): TAU
+synonym(17): TAU_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4137
+db-key(2)/db: OMIM
+db-key(2)/key: 157140
+db-key(3)/db: OMIM
+db-key(3)/key: 600274
+reviewed: 2011-03
+published: 2018-04-17

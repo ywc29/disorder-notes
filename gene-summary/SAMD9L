@@ -1,0 +1,21 @@
+gene-symbol: SAMD9L
+name: sterile alpha motif domain containing 9 like
+ghr-page: https://ghr.nlm.nih.gov/gene/SAMD9L
+text/text-role: function
+text/html: <p>The <i>SAMD9L</i> gene provides instructions for making a protein that is active in cells throughout the body. The protein is involved in regulating the growth and division (proliferation) and maturation (differentiation) of cells, particularly cells in the bone marrow that give rise to blood cells. Studies suggest that the SAMD9L protein acts as a tumor suppressor, keeping cells from growing and dividing too rapidly or in an uncontrolled way. The SAMD9L protein also appears to play an important role in the brain, particularly the part of the brain that coordinates movement (the cerebellum), although less is known about the protein's function there.</p>
+related-health-condition/name: ataxia-pancytopenia syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ataxia-pancytopenia-syndrome
+synonym(1): ATXPC
+synonym(2): C7orf6
+synonym(3): DRIF2
+synonym(4): FLJ39885
+synonym(5): KIAA2005
+synonym(6): SAM domain-containing protein 9-like
+synonym(7): sterile alpha motif domain-containing protein 9-like
+synonym(8): UEF1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 219285
+db-key(2)/db: OMIM
+db-key(2)/key: 611170
+reviewed: 2017-09
+published: 2018-04-17

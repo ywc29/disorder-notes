@@ -1,0 +1,19 @@
+gene-symbol: SLITRK6
+name: SLIT and NTRK like family member 6
+ghr-page: https://ghr.nlm.nih.gov/gene/SLITRK6
+text/text-role: function
+text/html: <p>The <i>SLITRK6</i> gene provides instructions for making a protein that is found primarily in the inner ear and the eye.  This protein promotes growth and survival of nerve cells (neurons) in the inner ear that transmit sound (auditory) signals. It also controls (regulates) the growth of the eye after birth. In particular, the SLITRK6 protein influences the length of the eyeball (axial length), which affects whether a person will be nearsighted or farsighted, or will have normal vision. The SLITRK6 protein spans the cell membrane, where it is anchored in the proper position to perform its function.</p>
+related-health-condition/name: deafness and myopia syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/deafness-and-myopia-syndrome
+synonym(1): 4832410J21Rik
+synonym(2): DFNMYP
+synonym(3): FLJ22774
+synonym(4): SLIT and NTRK-like family, member 6
+synonym(5): SLIT and NTRK-like protein 6 precursor
+synonym(6): slit and trk like gene 6
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 84189
+db-key(2)/db: OMIM
+db-key(2)/key: 609681
+reviewed: 2015-11
+published: 2018-04-17

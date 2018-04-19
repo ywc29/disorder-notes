@@ -1,0 +1,32 @@
+name: Kabuki syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/kabuki-syndrome
+text/text-role: description
+text/html: <p>Kabuki syndrome is a disorder that affects many parts of the body. It is characterized by distinctive facial features including arched eyebrows; long eyelashes; long openings of the eyelids (long palpebral fissures) with the lower lids turned out (everted) at the outside edges; a flat, broadened tip of the nose; and large protruding earlobes. The name of this disorder comes from the resemblance of its characteristic facial appearance to stage makeup used in traditional Japanese Kabuki theater.</p><p>People with Kabuki syndrome have mild to severe developmental delay and intellectual disability. Affected individuals may also have seizures, an unusually small head size (microcephaly), or weak muscle tone (hypotonia). Some have eye problems such as rapid, involuntary eye movements (nystagmus) or eyes that do not look in the same direction (strabismus).</p><p>Other characteristic features of Kabuki syndrome include short stature and skeletal abnormalities such as abnormal side-to-side curvature of the spine (scoliosis), short fifth (pinky) fingers, or problems with the hip and knee joints. The roof of the mouth may have an abnormal opening (cleft palate) or be high and arched, and dental problems are common in affected individuals. People with Kabuki syndrome may also have fingerprints with unusual features and fleshy pads at the tips of the fingers. These prominent finger pads are called fetal finger pads because they normally occur in human fetuses; in most people they disappear before birth.</p><p>A wide variety of other health problems occur in some people with Kabuki syndrome. Among the most commonly reported are heart abnormalities, frequent ear infections (otitis media), hearing loss, and early puberty.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: KDM6A
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/KDM6A
+related-gene(2)/gene-symbol: KMT2D
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/KMT2D
+synonym(1): Kabuki make-up syndrome
+synonym(2): Kabuki makeup syndrome
+synonym(3): KMS
+synonym(4): Niikawa-Kuroki syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C3275495
+db-key(2)/db: GTR
+db-key(2)/key: CN030661
+db-key(3)/db: GeneReviews
+db-key(3)/key: kabuki
+db-key(4)/db: MeSH
+db-key(4)/key: D000015
+db-key(5)/db: OMIM
+db-key(5)/key: 147920
+db-key(6)/db: OMIM
+db-key(6)/key: 300867
+db-key(7)/db: Orphanet
+db-key(7)/key: 2322
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 313426007
+reviewed: 2017-01
+published: 2018-04-17

@@ -1,0 +1,97 @@
+name: Noonan syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/noonan-syndrome
+text/text-role: description
+text/html: <p>Noonan syndrome is a condition that affects many areas of the body. It is characterized by mildly unusual facial features, short stature, heart defects, bleeding problems, skeletal malformations, and many other signs and symptoms.</p><p>People with Noonan syndrome have distinctive facial features such as a deep groove in the area between the nose and mouth (philtrum), widely spaced eyes that are usually pale blue or blue-green in color, and low-set ears that are rotated backward. Affected individuals may have a high arch in the roof of the mouth (high-arched palate), poor teeth alignment, and a small lower jaw (micrognathia). Many children with Noonan syndrome have a short neck, and both children and adults may have excess neck skin (also called webbing) and a low hairline at the back of the neck.</p><p>Between 50 and 70 percent of individuals with Noonan syndrome have short stature. At birth, they are usually a normal length and weight, but growth slows over time. Abnormal levels of growth hormone, a protein that is necessary for the normal growth of the body's bones and tissues, may contribute to the slow growth.</p><p>Individuals with Noonan syndrome often have either a sunken chest (pectus excavatum) or a protruding chest (pectus carinatum). Some affected people may also have an abnormal side-to-side curvature of the spine (scoliosis).</p><p>Most people with Noonan syndrome have some form of critical congenital heart disease. The most common heart defect in these individuals is a narrowing of the valve that controls blood flow from the heart to the lungs (pulmonary valve stenosis). Some have hypertrophic cardiomyopathy, which enlarges and weakens the heart muscle.</p><p>A variety of bleeding disorders have been associated with Noonan syndrome. Some affected individuals have excessive bruising, nosebleeds, or prolonged bleeding following injury or surgery. Rarely, women with Noonan syndrome who have a bleeding disorder have excessive bleeding during menstruation (menorrhagia) or childbirth.</p><p>Adolescent males with Noonan syndrome typically experience delayed puberty. They go through puberty starting at age 13 or 14 and have a reduced pubertal growth spurt that results in shortened stature. Most males with Noonan syndrome have undescended testes (cryptorchidism), which may contribute to infertility (inability to father a child) later in life. Females with Noonan syndrome can experience delayed puberty but most have normal puberty and fertility.</p><p>Noonan syndrome can cause a variety of other signs and symptoms. Most children diagnosed with Noonan syndrome have normal intelligence, but a few have special educational needs, and some have intellectual disability. Some affected individuals have vision or hearing problems. Affected infants may have feeding problems, which typically get better by age 1 or 2 years. Infants with Noonan syndrome may be born with puffy hands and feet caused by a buildup of fluid (lymphedema), which can go away on its own. Older individuals can also develop lymphedema, usually in the ankles and lower legs.</p><p>Some people with Noonan syndrome develop cancer, particularly those involving the blood-forming cells (leukemia). It has been estimated that children with Noonan syndrome have an eightfold increased risk of developing leukemia or other cancers over age-matched peers.</p><p>Noonan syndrome is one of a group of related conditions, collectively known as RASopathies. These conditions all have similar signs and symptoms and are caused by changes in the same cell signaling pathway. In addition to Noonan syndrome, the RASopathies include cardiofaciocutaneous syndrome, Costello syndrome, neurofibromatosis type 1, Legius syndrome, and Noonan syndrome with multiple lentigines.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: A2ML1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/A2ML1
+related-gene(2)/gene-symbol: BRAF
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/BRAF
+related-gene(3)/gene-symbol: KRAS
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/KRAS
+related-gene(4)/gene-symbol: LZTR1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/LZTR1
+related-gene(5)/gene-symbol: MAP2K1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/MAP2K1
+related-gene(6)/gene-symbol: NRAS
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/NRAS
+related-gene(7)/gene-symbol: PTPN11
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/PTPN11
+related-gene(8)/gene-symbol: RAF1
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/RAF1
+related-gene(9)/gene-symbol: RASA2
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/RASA2
+related-gene(10)/gene-symbol: RIT1
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/RIT1
+related-gene(11)/gene-symbol: RRAS
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/RRAS
+related-gene(12)/gene-symbol: SOS1
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/SOS1
+related-gene(13)/gene-symbol: SOS2
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/SOS2
+synonym(1): familial Turner syndrome
+synonym(2): female pseudo-Turner syndrome
+synonym(3): male Turner syndrome
+synonym(4): Noonan-Ehmke syndrome
+synonym(5): Noonan's syndrome
+synonym(6): NS
+synonym(7): pseudo-Ullrich-Turner syndrome
+synonym(8): Turner-like syndrome
+synonym(9): Turner phenotype with normal karyotype
+synonym(10): Turner syndrome in female with X chromosome
+synonym(11): Ullrich-Noonan syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0028326
+db-key(2)/db: GTR
+db-key(2)/key: C0041409
+db-key(3)/db: GTR
+db-key(3)/key: C1853120
+db-key(4)/db: GTR
+db-key(4)/key: C1854469
+db-key(5)/db: GTR
+db-key(5)/key: C1860991
+db-key(6)/db: GTR
+db-key(6)/key: C1969057
+db-key(7)/db: GTR
+db-key(7)/key: C2750732
+db-key(8)/db: GTR
+db-key(8)/key: C3150970
+db-key(9)/db: GTR
+db-key(9)/key: C3809233
+db-key(10)/db: GTR
+db-key(10)/key: C4225280
+db-key(11)/db: GTR
+db-key(11)/key: C4225282
+db-key(12)/db: GeneReviews
+db-key(12)/key: noonan
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: Q87.1
+db-key(14)/db: MeSH
+db-key(14)/key: D009634
+db-key(15)/db: OMIM
+db-key(15)/key: 163950
+db-key(16)/db: OMIM
+db-key(16)/key: 605275
+db-key(17)/db: OMIM
+db-key(17)/key: 609942
+db-key(18)/db: OMIM
+db-key(18)/key: 610733
+db-key(19)/db: OMIM
+db-key(19)/key: 611553
+db-key(20)/db: OMIM
+db-key(20)/key: 613224
+db-key(21)/db: OMIM
+db-key(21)/key: 613706
+db-key(22)/db: OMIM
+db-key(22)/key: 615355
+db-key(23)/db: OMIM
+db-key(23)/key: 616559
+db-key(24)/db: OMIM
+db-key(24)/key: 616564
+db-key(25)/db: Orphanet
+db-key(25)/key: 648
+db-key(26)/db: SNOMED CT
+db-key(26)/key: 205824006
+reviewed: 2016-05
+published: 2018-04-17

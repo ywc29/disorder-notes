@@ -1,0 +1,37 @@
+name: Darier disease
+ghr-page: https://ghr.nlm.nih.gov/condition/darier-disease
+text/text-role: description
+text/html: <p>Darier disease is a skin condition characterized by wart-like blemishes on the body.  The blemishes are usually yellowish in color, hard to the touch, mildly greasy, and can emit a strong odor.  The most common sites for blemishes are the scalp, forehead, upper arms, chest, back, knees, elbows, and behind the ear.  The mucous membranes can also be affected, with blemishes on the roof of the mouth (palate), tongue, inside of the cheek, gums, and throat.  Other features of Darier disease include nail abnormalities, such as red and white streaks in the nails with an irregular texture, and small pits in the palms of the hands and soles of the feet.</p><p>The wart-like blemishes characteristic of Darier disease usually appear in late childhood to early adulthood.  The severity of the disease varies over time; affected people experience flare-ups alternating with periods when they have fewer blemishes.  The appearance of the blemishes is influenced by environmental factors.  Most people with Darier disease will develop more blemishes during the summertime when they are exposed to heat and humidity.  UV light; minor injury or friction, such as rubbing or scratching; and ingestion of certain medications can also cause an increase in blemishes.</p><p>On occasion, people with Darier disease may have neurological disorders such as mild intellectual disability, epilepsy, and depression.  Learning and behavior difficulties have also been reported in people with Darier disease.  Researchers do not know if these conditions, which are common in the general population, are associated with the genetic changes that cause Darier disease, or if they are coincidental.  Some researchers believe that behavioral problems might be linked to the social stigma experienced by people with numerous skin blemishes.</p><p>A form of Darier disease known as the linear or segmental form is characterized by blemishes on localized areas of the skin.  The blemishes are not as widespread as they are in typical Darier disease.  Some people with the linear form of this condition have the nail abnormalities that are seen in people with classic Darier disease, but these abnormalities occur only on one side of the body.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: ATP2A2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ATP2A2
+synonym(1): Darier-White disease
+synonym(2): Darier's Disease
+synonym(3): Keratosis Follicularis
+db-key(1)/db: GTR
+db-key(1)/key: C0022595
+db-key(2)/db: MeSH
+db-key(2)/key: D007644
+db-key(3)/db: OMIM
+db-key(3)/key: 124200
+db-key(4)/db: Orphanet
+db-key(4)/key: 218
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 239110000
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 400018004
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 403783009
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 403784003
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 403785002
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 403786001
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 403787005
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 48611009
+reviewed: 2008-03
+published: 2018-04-17

@@ -1,0 +1,30 @@
+name: Adenosine monophosphate deaminase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/adenosine-monophosphate-deaminase-deficiency
+text/text-role: description
+text/html: <p>Adenosine monophosphate (AMP) deaminase deficiency is a condition that can affect the muscles used for movement (skeletal muscles). In many affected individuals, AMP deaminase deficiency does not cause any symptoms. People who do experience symptoms typically have fatigue, muscle pain (myalgia), or cramps after exercise or prolonged physical activity (exercise intolerance). Following strenuous activity, they often get tired more quickly and stay tired longer than would normally be expected. In rare cases, affected individuals have more severe symptoms including severe muscle weakness, low muscle tone (hypotonia), and muscle wasting (atrophy), but it is unclear whether these symptoms are due solely to AMP deaminase deficiency or additional health conditions. Exercise intolerance associated with AMP deaminase deficiency usually becomes apparent in childhood or early adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: AMPD1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/AMPD1
+synonym(1): AMP deaminase deficiency
+synonym(2): exercise-induced myopathy
+synonym(3): MAD deficiency
+synonym(4): MADA deficiency
+synonym(5): muscle AMP deaminase deficiency
+synonym(6): myoadenylate deaminase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0268123
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E79.2
+db-key(3)/db: MeSH
+db-key(3)/key: D011686
+db-key(4)/db: OMIM
+db-key(4)/key: 615511
+db-key(5)/db: Orphanet
+db-key(5)/key: 45
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 124525004
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 9105005
+reviewed: 2016-07
+published: 2018-04-17

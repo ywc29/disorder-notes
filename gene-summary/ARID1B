@@ -1,0 +1,31 @@
+gene-symbol: ARID1B
+name: AT-rich interaction domain 1B
+ghr-page: https://ghr.nlm.nih.gov/gene/ARID1B
+text/text-role: function
+text/html: <p>The <i>ARID1B</i> gene provides instructions for making a protein that forms one piece (subunit) of several different SWI/SNF protein complexes. SWI/SNF complexes regulate gene activity (expression) by a process known as chromatin remodeling. Chromatin is the network of DNA and proteins that packages DNA into chromosomes. The structure of chromatin can be changed (remodeled) to alter how tightly DNA is packaged. Chromatin remodeling is one way gene expression is regulated during development; when DNA is tightly packed, gene expression is lower than when DNA is loosely packed.</p><p>Through their ability to regulate gene activity, SWI/SNF complexes are involved in many processes, including repairing damaged DNA; copying (replicating) DNA; and controlling the growth, division, and maturation (differentiation) of cells. The ARID1B protein and other SWI/SNF subunits are thought to act as tumor suppressors, which keep cells from growing and dividing too rapidly or in an uncontrolled way.</p><p>The ARID1B subunit is able to attach (bind) to DNA and is thought to help target SWI/SNF complexes to the chromatin location that needs to be remodeled.</p>
+related-health-condition(1)/name: autism spectrum disorder
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autism-spectrum-disorder
+related-health-condition(2)/name: Coffin-Siris syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/coffin-siris-syndrome
+synonym(1): 6A3-5
+synonym(2): ARI1B_HUMAN
+synonym(3): ARID domain-containing protein 1B
+synonym(4): AT rich interactive domain 1B (SWI1-like)
+synonym(5): AT-rich interactive domain-containing protein 1B
+synonym(6): BAF250B
+synonym(7): BRG1-associated factor 250b
+synonym(8): BRG1-binding protein ELD/OSA1
+synonym(9): BRIGHT
+synonym(10): DAN15
+synonym(11): ELD (eyelid)/OSA protein
+synonym(12): ELD/OSA1
+synonym(13): KIAA1235
+synonym(14): MRD12
+synonym(15): OSA2
+synonym(16): P250R
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57492
+db-key(2)/db: OMIM
+db-key(2)/key: 614556
+reviewed: 2017-06
+published: 2018-04-17

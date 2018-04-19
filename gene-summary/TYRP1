@@ -1,0 +1,25 @@
+gene-symbol: TYRP1
+name: tyrosinase related protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TYRP1
+text/text-role: function
+text/html: <p>The <i>TYRP1</i> gene provides instructions for making an enzyme called tyrosinase-related protein 1. This enzyme is located in melanocytes, which are specialized cells that produce a pigment called melanin. Melanin is the substance that gives skin, hair, and eyes their color. Melanin is also found in the light-sensitive tissue at the back of the eye (the retina), where it plays a role in normal vision.</p><p>Tyrosinase-related protein 1 is involved in the production of melanin, although its exact functions are unclear. Studies suggest that this enzyme may help stabilize tyrosinase, which is the enzyme responsible for the first step in melanin production.  Tyrosinase-related protein 1 may also help determine the shape of melanosomes, which are the structures in melanocytes where melanin is produced.</p>
+related-health-condition/name: oculocutaneous albinism
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/oculocutaneous-albinism
+synonym(1): b-PROTEIN
+synonym(2): CAS2
+synonym(3): Catalase B
+synonym(4): CATB
+synonym(5): DHICA oxidase
+synonym(6): Glycoprotein 75
+synonym(7): GP75
+synonym(8): TRP
+synonym(9): TRP-1
+synonym(10): tyrosinase-related protein 1
+synonym(11): TYRP
+synonym(12): TYRP1_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7306
+db-key(2)/db: OMIM
+db-key(2)/key: 115501
+reviewed: 2007-03
+published: 2018-04-17

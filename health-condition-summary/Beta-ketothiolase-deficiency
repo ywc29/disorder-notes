@@ -1,0 +1,37 @@
+name: Beta-ketothiolase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/beta-ketothiolase-deficiency
+text/text-role: description
+text/html: <p>Beta-ketothiolase deficiency is an inherited disorder in which the body cannot effectively process a protein building block (amino acid) called isoleucine.  This disorder also impairs the body's ability to process ketones, which are molecules produced during the breakdown of fats.</p><p>The signs and symptoms of beta-ketothiolase deficiency typically appear between the ages of 6 months and 24 months.  Affected children experience episodes of vomiting, dehydration, difficulty breathing, extreme tiredness (lethargy), and, occasionally, seizures.  These episodes, which are called ketoacidotic attacks, sometimes lead to coma.  Ketoacidotic attacks are frequently triggered by infections, periods without food (fasting), or increased intake of protein-rich foods.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ACAT1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ACAT1
+synonym(1): 2-alpha-methyl-3-hydroxybutyricacidemia
+synonym(2): 3-alpha-ketothiolase deficiency
+synonym(3): 3-alpha-ktd deficiency
+synonym(4): 3-alpha-oxothiolase deficiency
+synonym(5): 3-Ketothiolase deficiency
+synonym(6): 3-Methylhydroxybutyric acidemia
+synonym(7): alpha-Methylacetoacetic aciduria
+synonym(8): BKT
+synonym(9): MAT deficiency
+synonym(10): Mitochondrial 2-methylacetoacetyl-CoA thiolase deficiency - potassium stimulated
+synonym(11): Mitochondrial acetoacetyl-CoA thiolase deficiency
+synonym(12): T2 deficiency
+synonym(13): β-ketothiolase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1536500
+db-key(2)/db: MeSH
+db-key(2)/key: D018901
+db-key(3)/db: OMIM
+db-key(3)/key: 203750
+db-key(4)/db: Orphanet
+db-key(4)/key: 134
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 124258007
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 124265004
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 237953006
+reviewed: 2008-01
+published: 2018-04-17

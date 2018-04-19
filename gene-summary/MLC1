@@ -1,0 +1,19 @@
+gene-symbol: MLC1
+name: megalencephalic leukoencephalopathy with subcortical cysts 1
+ghr-page: https://ghr.nlm.nih.gov/gene/MLC1
+text/text-role: function
+text/html: <p>The <i>MLC1</i> gene provides instructions for making a protein that is found primarily in the brain but also in the spleen and white blood cells (leukocytes). Within the brain, the MLC1 protein is found in astroglial cells, which are a specialized form of brain cells called glial cells. Glial cells protect and maintain other nerve cells (neurons). The MLC1 protein functions at junctions that connect neighboring astroglial cells. The role of the MLC1 protein at the cell junction is unknown, but research suggests that it may control the flow of fluids into cells or the strength of cells' attachment to one another (cell adhesion). Studies indicate that the MLC1 protein may be involved in transporting molecules across the blood-brain barrier and the brain-cerebrospinal fluid barrier. These barriers protect the brain's delicate nerve tissue by allowing only certain substances to pass into the brain.</p>
+related-health-condition/name: megalencephalic leukoencephalopathy with subcortical cysts
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/megalencephalic-leukoencephalopathy-with-subcortical-cysts
+synonym(1): KIAA0027
+synonym(2): LVM
+synonym(3): megalencephalic leukoencephalopathy with subcortical cysts 1 gene product
+synonym(4): MLC
+synonym(5): MLC1_HUMAN
+synonym(6): VL
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23209
+db-key(2)/db: OMIM
+db-key(2)/key: 605908
+reviewed: 2015-03
+published: 2018-04-17

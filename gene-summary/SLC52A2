@@ -1,0 +1,29 @@
+gene-symbol: SLC52A2
+name: solute carrier family 52 member 2
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC52A2
+text/text-role: function
+text/html: <p>The <i>SLC52A2</i> gene provides instructions for making a riboflavin transporter protein called RFVT2 (formerly known as RFT3). This protein moves (transports) a vitamin called riboflavin (also called vitamin B<sub>2</sub>) across the cell membrane. The RFVT2 protein is found at especially high levels in cells of the brain and spinal cord and is important for absorbing riboflavin from the bloodstream into these tissues.</p><p>In the cells of the body, including those in the brain and spinal cord, riboflavin is the core component of molecules called flavin adenine dinucleotide (FAD) and flavin mononucleotide (FMN). These molecules function as coenzymes, which means they help enzymes carry out chemical reactions. FAD and FMN are involved in many different chemical reactions and are required for a variety of cellular processes. One important role of these coenzymes is in the production of energy for cells. FAD and FMN are also involved in the breakdown (metabolism) of carbohydrates, fats, and proteins.</p>
+related-health-condition/name: riboflavin transporter deficiency neuronopathy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/riboflavin-transporter-deficiency-neuronopathy
+synonym(1): BVVLS2
+synonym(2): D15Ertd747e
+synonym(3): FLJ11856
+synonym(4): G protein-coupled receptor 172A
+synonym(5): GPCR41
+synonym(6): GPR172A
+synonym(7): hRFT3
+synonym(8): PAR1
+synonym(9): PERV-A receptor 1
+synonym(10): porcine endogenous retrovirus A receptor 1
+synonym(11): putative G-protein coupled receptor GPCR41
+synonym(12): RFT3
+synonym(13): RFVT2
+synonym(14): riboflavin transporter 3
+synonym(15): solute carrier family 52 (riboflavin transporter), member 2
+synonym(16): solute carrier family 52, riboflavin transporter, member 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 79581
+db-key(2)/db: OMIM
+db-key(2)/key: 607882
+reviewed: 2016-01
+published: 2018-04-17

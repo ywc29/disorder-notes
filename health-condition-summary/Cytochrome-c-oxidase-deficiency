@@ -1,0 +1,60 @@
+name: Cytochrome c oxidase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/cytochrome-c-oxidase-deficiency
+text/text-role: description
+text/html: <p>Cytochrome <i>c</i> oxidase deficiency is a genetic condition that can affect several parts of the body, including the muscles used for movement (skeletal muscles), the heart, the brain, or the liver. Signs and symptoms of cytochrome <i>c</i> oxidase deficiency usually begin before age 2 but can appear later in mildly affected individuals.</p><p>The severity of cytochrome <i>c</i> oxidase deficiency varies widely among affected individuals, even among those in the same family. People who are mildly affected tend to have muscle weakness (myopathy) and poor muscle tone (hypotonia) with no other health problems. More severely affected people have myopathy along with severe brain dysfunction (encephalomyopathy). Approximately one quarter of individuals with cytochrome <i>c</i> oxidase deficiency have a type of heart disease that enlarges and weakens the heart muscle (hypertrophic cardiomyopathy). Another possible feature of this condition is an enlarged liver, which may lead to liver failure. Most individuals with cytochrome <i>c</i> oxidase deficiency have a buildup of a chemical called lactic acid in the body (lactic acidosis), which can cause nausea and an irregular heart rate, and can be life-threatening.</p><p>Many people with cytochrome <i>c</i> oxidase deficiency have a specific group of features known as Leigh syndrome. The signs and symptoms of Leigh syndrome include loss of mental function, movement problems, hypertrophic cardiomyopathy, eating difficulties, and brain abnormalities. Cytochrome <i>c</i> oxidase deficiency is one of the many causes of Leigh syndrome.</p><p>Cytochrome <i>c</i> oxidase deficiency is frequently fatal in childhood, although some individuals with mild signs and symptoms survive into adolescence or adulthood.</p>
+inheritance-pattern(1)/code: ar
+inheritance-pattern(1)/memo: autosomal recessive
+inheritance-pattern(2)/code: m
+inheritance-pattern(2)/memo: mitochondrial
+related-gene(1)/gene-symbol: COA5
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/COA5
+related-gene(2)/gene-symbol: COX6B1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/COX6B1
+related-gene(3)/gene-symbol: COX10
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/COX10
+related-gene(4)/gene-symbol: COX14
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/COX14
+related-gene(5)/gene-symbol: COX15
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/COX15
+related-gene(6)/gene-symbol: FASTKD2
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/FASTKD2
+related-gene(7)/gene-symbol: LRPPRC
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/LRPPRC
+related-gene(8)/gene-symbol: MT-CO1
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/MT-CO1
+related-gene(9)/gene-symbol: MT-CO2
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/MT-CO2
+related-gene(10)/gene-symbol: MT-CO3
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/MT-CO3
+related-gene(11)/gene-symbol: SCO1
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/SCO1
+related-gene(12)/gene-symbol: SCO2
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/SCO2
+related-gene(13)/gene-symbol: SURF1
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/SURF1
+related-gene(14)/gene-symbol: TACO1
+related-gene(14)/ghr-page: https://ghr.nlm.nih.gov/gene/TACO1
+related-mitochondrial-dna/name: mitochondrial DNA
+related-mitochondrial-dna/ghr-page: https://ghr.nlm.nih.gov/mitochondrial-dna
+synonym(1): complex IV deficiency
+synonym(2): COX deficiency
+synonym(3): cytochrome-c oxidase deficiency
+synonym(4): mitochondrial complex IV deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0268237
+db-key(2)/db: GTR
+db-key(2)/key: C1858424
+db-key(3)/db: MeSH
+db-key(3)/key: D030401
+db-key(4)/db: OMIM
+db-key(4)/key: 220110
+db-key(5)/db: OMIM
+db-key(5)/key: 604377
+db-key(6)/db: Orphanet
+db-key(6)/key: 1561
+db-key(7)/db: Orphanet
+db-key(7)/key: 254905
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 67434000
+reviewed: 2012-10
+published: 2018-04-17

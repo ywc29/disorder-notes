@@ -1,0 +1,26 @@
+name: Tietz syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/tietz-syndrome
+text/text-role: description
+text/html: <p>Tietz syndrome is a disorder characterized by profound hearing loss from birth, fair skin, and light-colored hair. The hearing loss in affected individuals is caused by abnormalities of the inner ear (sensorineural hearing loss) and is present from birth. Although people with Tietz syndrome are born with white hair and very pale skin, their hair color often darkens over time to blond or red. The skin of affected individuals, which sunburns very easily, may tan slightly or develop reddish freckles with limited sun exposure; however, their skin and hair color remain lighter than those of other members of their family.</p><p>Tietz syndrome also affects the eyes. The colored part of the eye (the iris) in affected individuals is blue, and specialized cells in the eye called retinal pigment epithelial cells lack their normal pigment. The retinal pigment epithelium nourishes the retina, the part of the eye that detects light and color. The changes to the retinal pigment epithelium are generally detectable only by an eye examination; it is unclear whether the changes affect vision.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: MITF
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MITF
+synonym(1): albinism and complete nerve deafness
+synonym(2): albinism-deafness of Tietz
+synonym(3): hypopigmentation-deafness syndrome
+synonym(4): hypopigmentation/deafness of Tietz
+synonym(5): Tietz albinism-deafness syndrome
+synonym(6): Tietz's syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0391816
+db-key(2)/db: MeSH
+db-key(2)/key: D017496
+db-key(3)/db: OMIM
+db-key(3)/key: 103500
+db-key(4)/db: Orphanet
+db-key(4)/key: 42665
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 403805009
+reviewed: 2015-12
+published: 2018-04-17

@@ -1,0 +1,26 @@
+name: Short stature, hyperextensibility, hernia, ocular depression, Rieger anomaly, and teething delay
+ghr-page: https://ghr.nlm.nih.gov/condition/short-stature-hyperextensibility-hernia-ocular-depression-rieger-anomaly-and-teething-delay
+text/text-role: description
+text/html: <p>Short stature, hyperextensibility, hernia, ocular depression, Rieger anomaly, and teething delay, commonly known by the acronym SHORT syndrome, is a rare disorder that affects many parts of the body.</p><p>Most people with SHORT syndrome are small at birth and gain weight slowly in childhood. Affected adults tend to have short stature compared with others in their family. Many have a lack of fatty tissue under the skin (lipoatrophy), primarily in the face, arms, and chest.  This lack of fat, together with thin, wrinkled skin and veins visible beneath the skin, makes affected individuals look older than their biological age. This appearance of premature aging is sometimes described as progeroid.</p><p>Most people with SHORT syndrome have distinctive facial features. These include a triangular face shape with a prominent forehead and deep-set eyes (ocular depression), thin nostrils, a downturned mouth, and a small chin. Eye abnormalities are common in affected individuals, particularly Rieger anomaly, which affects structures at the front of the eye. Rieger anomaly can be associated with increased pressure in the eye (glaucoma) and vision loss. Some people with SHORT syndrome also have dental abnormalities such as delayed appearance (eruption) of teeth in early childhood, small teeth, fewer teeth than normal (hypodontia), and a lack of protective covering (enamel) on the surface of the teeth.</p><p>Other signs and symptoms that have been reported in people with SHORT syndrome include immune system abnormalities, a kidney disorder known as nephrocalcinosis, hearing loss, loose (hyperextensible) joints, and a soft out-pouching in the lower abdomen called an inguinal hernia. A few affected individuals have developed problems with blood sugar regulation including insulin resistance and diabetes. Most people with SHORT syndrome have normal intelligence, although a few have been reported with mild cognitive impairment or delayed development of speech in childhood.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: PIK3R1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PIK3R1
+synonym(1): growth retardation-Rieger anomaly
+synonym(2): lipodystrophy, partial, with Rieger anomaly and short stature
+synonym(3): short stature-hyperextensibility-Rieger anomaly-teething delay
+synonym(4): SHORT syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0878684
+db-key(2)/db: GeneReviews
+db-key(2)/key: short
+db-key(3)/db: MeSH
+db-key(3)/key: D006130
+db-key(4)/db: OMIM
+db-key(4)/key: 269880
+db-key(5)/db: Orphanet
+db-key(5)/key: 3163
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 237608006
+reviewed: 2013-12
+published: 2018-04-17

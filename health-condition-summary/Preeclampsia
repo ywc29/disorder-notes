@@ -1,0 +1,82 @@
+name: Preeclampsia
+ghr-page: https://ghr.nlm.nih.gov/condition/preeclampsia
+text/text-role: description
+text/html: <p>Preeclampsia is a complication of pregnancy in which affected women develop high blood pressure (hypertension); they can also have abnormally high levels of protein in their urine (proteinuria). This condition usually occurs in the last few months of pregnancy and often requires early delivery of the infant.</p><p>Many women with mild preeclampsia do not feel ill, and the condition is often first detected through blood pressure and urine testing in their doctor's office. In addition to hypertension and proteinuria, signs and symptoms of preeclampsia can include excessive swelling (edema) of the face or hands and a weight gain of more than 3 to 5 pounds in a week due to fluid retention. Affected women may also experience headaches, dizziness, irritability, shortness of breath, a decrease in urination, upper abdominal pain, nausea, or vomiting. Vision changes may develop, including flashing lights or spots, increased sensitivity to light (photophobia), blurry vision, or temporary blindness.</p><p>In many cases, symptoms of preeclampsia go away within a few days after the baby is born. In severe cases, however, preeclampsia can damage the mother's organs, such as the heart, liver, and kidneys, and can lead to life-threatening complications. Extremely high blood pressure in the mother can cause bleeding in the brain (hemorrhagic stroke). The effects of high blood pressure on the brain (hypertensive encephalopathy) may also result in seizures. If seizures occur, the condition is considered to have worsened to eclampsia, which can result in coma. About 1 in 200 women with untreated preeclampsia develop eclampsia. Eclampsia can also develop without any obvious signs of preeclampsia.</p><p>Between 10 and 20 percent of women with severe preeclampsia develop another potentially life-threatening complication called HELLP syndrome. HELLP stands for hemolysis (premature red blood cell breakdown), elevated liver enzyme levels, and low platelets (cell fragments involved in blood clotting), which are the key features of this condition.</p><p>Severe preeclampsia can also affect the fetus, with impairment of blood and oxygen flow leading to growth problems or stillbirth. Infants delivered early due to preeclampsia may have complications associated with prematurity, such as breathing problems caused by underdeveloped lungs.</p><p>Women who have had preeclampsia have approximately twice the lifetime risk of heart disease and stroke than do women in the general population. Researchers suggest that preeclampsia, heart disease, and stroke may share common risk factors. Women who have health conditions such as obesity, hypertension, heart disease, diabetes, or kidney disease before they become pregnant have an increased risk of developing preeclampsia. Preeclampsia is most likely to occur in a woman's first pregnancy, although it can occur in subsequent pregnancies, particularly in women with other health conditions.</p>
+inheritance-pattern(1)/code: n
+inheritance-pattern(1)/memo: not inherited
+inheritance-pattern(2)/code: u
+inheritance-pattern(2)/memo: pattern unknown
+synonym(1): gestational proteinuric hypertension
+synonym(2): pre-eclampsia
+synonym(3): pregnancy-induced hypertension
+synonym(4): toxemia of pregnancy
+db-key(1)/db: GTR
+db-key(1)/key: C0032914
+db-key(2)/db: GTR
+db-key(2)/key: C1836255
+db-key(3)/db: GTR
+db-key(3)/key: C1836256
+db-key(4)/db: GTR
+db-key(4)/key: C1836257
+db-key(5)/db: GTR
+db-key(5)/key: C3281288
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: O11
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: O11.1
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: O11.2
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: O11.3
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: O11.9
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: O14.0
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: O14.00
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: O14.1
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: O14.02
+db-key(15)/db: ICD-10-CM
+db-key(15)/key: O14.2
+db-key(16)/db: ICD-10-CM
+db-key(16)/key: O14.03
+db-key(17)/db: ICD-10-CM
+db-key(17)/key: O14.9
+db-key(18)/db: ICD-10-CM
+db-key(18)/key: O14.10
+db-key(19)/db: ICD-10-CM
+db-key(19)/key: O14.12
+db-key(20)/db: ICD-10-CM
+db-key(20)/key: O14.13
+db-key(21)/db: ICD-10-CM
+db-key(21)/key: O14.20
+db-key(22)/db: ICD-10-CM
+db-key(22)/key: O14.22
+db-key(23)/db: ICD-10-CM
+db-key(23)/key: O14.23
+db-key(24)/db: ICD-10-CM
+db-key(24)/key: O14.90
+db-key(25)/db: ICD-10-CM
+db-key(25)/key: O14.92
+db-key(26)/db: ICD-10-CM
+db-key(26)/key: O14.93
+db-key(27)/db: MeSH
+db-key(27)/key: D011225
+db-key(28)/db: OMIM
+db-key(28)/key: 189800
+db-key(29)/db: OMIM
+db-key(29)/key: 609402
+db-key(30)/db: OMIM
+db-key(30)/key: 609403
+db-key(31)/db: OMIM
+db-key(31)/key: 609404
+db-key(32)/db: OMIM
+db-key(32)/key: 614595
+db-key(33)/db: Orphanet
+db-key(33)/key: 275555
+db-key(34)/db: SNOMED CT
+db-key(34)/key: 48194001
+reviewed: 2016-09
+published: 2018-04-17

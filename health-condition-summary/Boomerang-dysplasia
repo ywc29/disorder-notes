@@ -1,0 +1,23 @@
+name: Boomerang dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/boomerang-dysplasia
+text/text-role: description
+text/html: <p>Boomerang dysplasia is a disorder that affects the development of bones throughout the body. Affected individuals are born with inward- and upward-turning feet (clubfeet) and dislocations of the hips, knees, and elbows. Bones in the spine, rib cage, pelvis, and limbs may be underdeveloped or in some cases absent. As a result of the limb bone abnormalities, individuals with this condition have very short arms and legs. Pronounced bowing of the upper leg bones (femurs) gives them a "boomerang" shape.</p><p>Some individuals with boomerang dysplasia have a sac-like protrusion of the brain (encephalocele). They may also have an opening in the wall of the abdomen (an omphalocele) that allows the abdominal organs to protrude through the navel. Affected individuals typically have a distinctive nose that is broad with very small nostrils and an underdeveloped partition between the nostrils (septum).</p><p>Individuals with boomerang dysplasia typically have an underdeveloped rib cage that affects the development and functioning of the lungs. As a result, affected individuals are usually stillborn or die shortly after birth from respiratory failure.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FLNB
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FLNB
+synonym: Piepkorn dysplasia
+db-key(1)/db: GTR
+db-key(1)/key: C0432201
+db-key(2)/db: GeneReviews
+db-key(2)/key: flnb-dis
+db-key(3)/db: MeSH
+db-key(3)/key: D010009
+db-key(4)/db: OMIM
+db-key(4)/key: 112310
+db-key(5)/db: Orphanet
+db-key(5)/key: 1263
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 254054000
+reviewed: 2011-09
+published: 2018-04-17

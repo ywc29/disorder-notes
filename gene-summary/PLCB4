@@ -1,0 +1,26 @@
+gene-symbol: PLCB4
+name: phospholipase C beta 4
+ghr-page: https://ghr.nlm.nih.gov/gene/PLCB4
+text/text-role: function
+text/html: <p>The <i>PLCB4</i> gene provides instructions for making one form (the beta 4 isoform) of a protein called phospholipase C. This protein is involved in a signaling pathway within cells known as the phosphoinositide cycle, which helps transmit information from outside the cell to inside the cell. Phospholipase C carries out one particular step in the phosphoinositide cycle: the conversion of a molecule called phosphatidylinositol 4,5-bisphosphate (PIP<sub>2</sub>) to two smaller molecules, inositol 1,4,5-trisphosphate (IP<sub>3</sub>) and 1,2-diacylglycerol. These smaller molecules relay messages into the cell that ultimately influence many cell activities.</p><p>Studies suggest that the beta 4 isoform of phospholipase C contributes to the development of the first and second pharyngeal arches. These embryonic structures ultimately develop into the jawbones, facial muscles, middle ear bones, ear canals, outer ears, and related tissues. This protein is also thought to play a role in vision, particularly in the function of the retina, which is a specialized tissue at the back of the eye that detects light and color.</p>
+related-health-condition/name: auriculo-condylar syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/auriculo-condylar-syndrome
+synonym(1): 1-phosphatidyl-D-myo-inositol-4,5-bisphosphate
+synonym(2): 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase beta-4
+synonym(3): ARCND2
+synonym(4): dJ1119D9.2 (Phopholipase C, beta 4 (1-Phosphatidylinositol-4,5-Bisphosphate Phosphodiesterase Beta 4))
+synonym(5): inositoltrisphosphohydrolase
+synonym(6): monophosphatidylinositol phosphodiesterase
+synonym(7): phosphoinositidase C
+synonym(8): phosphoinositide phospholipase C-beta-4
+synonym(9): phospholipase C, beta 4
+synonym(10): PI-PLC
+synonym(11): PLC-beta-4
+synonym(12): PLCB4_HUMAN
+synonym(13): triphosphoinositide phosphodiesterase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5332
+db-key(2)/db: OMIM
+db-key(2)/key: 600810
+reviewed: 2013-01
+published: 2018-04-17

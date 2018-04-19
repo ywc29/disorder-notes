@@ -1,0 +1,33 @@
+name: Neurohypophyseal diabetes insipidus
+ghr-page: https://ghr.nlm.nih.gov/condition/neurohypophyseal-diabetes-insipidus
+text/text-role: description
+text/html: <p>Neurohypophyseal diabetes insipidus is a disorder of water balance. The body normally balances fluid intake with the excretion of fluid in urine. However, people with neurohypophyseal diabetes insipidus produce too much urine (polyuria), which causes them to be excessively thirsty (polydipsia). Affected people need to urinate frequently, which can disrupt daily activities and sleep.</p><p>People with neurohypophyseal diabetes insipidus can quickly become dehydrated if they do not drink enough water. Dehydration can lead to constipation and dry skin. If the disorder is not treated, more serious complications of dehydration can occur. These include confusion, low blood pressure, seizures, and coma.</p><p>Neurohypophyseal diabetes insipidus can be either acquired or familial. The acquired form is brought on by injuries, tumors, and other factors, and can occur at any time during life. The familial form is caused by genetic mutations; its signs and symptoms usually become apparent in childhood and worsen over time.</p><p>Neurohypophyseal diabetes insipidus should not be confused with diabetes mellitus, which is much more common. Diabetes mellitus is characterized by high blood sugar levels resulting from a shortage of the hormone insulin or an insensitivity to this hormone. Although neurohypophyseal diabetes insipidus and diabetes mellitus have some features in common, they are separate disorders with different causes.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: AVP
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/AVP
+synonym(1): central diabetes insipidus
+synonym(2): diabetes insipidus secondary to vasopressin deficiency
+synonym(3): diabetes insipidus, central
+synonym(4): diabetes insipidus, neurogenic
+synonym(5): diabetes insipidus, neurohypophyseal
+synonym(6): diabetes insipidus, pituitary
+synonym(7): pituitary diabetes insipidus
+synonym(8): vasopressin defective diabetes insipidus
+synonym(9): vasopressin deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0687720
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E23.2
+db-key(3)/db: MeSH
+db-key(3)/key: D020790
+db-key(4)/db: OMIM
+db-key(4)/key: 125700
+db-key(5)/db: Orphanet
+db-key(5)/key: 178029
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 45369008
+reviewed: 2010-04
+published: 2018-04-17

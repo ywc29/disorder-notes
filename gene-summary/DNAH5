@@ -1,0 +1,26 @@
+gene-symbol: DNAH5
+name: dynein axonemal heavy chain 5
+ghr-page: https://ghr.nlm.nih.gov/gene/DNAH5
+text/text-role: function
+text/html: <p>The <i>DNAH5</i> gene provides instructions for making a protein that is part of a group (complex) of proteins called dynein. This complex functions within cell structures called cilia. Cilia are microscopic, finger-like projections that stick out from the surface of cells. Coordinated back and forth movement of cilia can move the cell or the fluid surrounding the cell. Dynein produces the force needed for cilia to move.</p><p>Within the core of cilia (the axoneme), dynein complexes are part of structures known as inner dynein arms (IDAs) or outer dynein arms (ODAs) depending on their location. Coordinated movement of the dynein arms causes the entire axoneme to bend back and forth. IDAs and ODAs have different combinations of protein components (subunits) that are classified by weight as heavy, intermediate, or light chains. The <i>DNAH5</i> gene provides instructions for making heavy chain 5, which is found in ODAs. Other subunits are produced from different genes.</p>
+related-health-condition(1)/name: heterotaxy syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/heterotaxy-syndrome
+related-health-condition(2)/name: primary ciliary dyskinesia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/primary-ciliary-dyskinesia
+synonym(1): axonemal beta dynein heavy chain 5
+synonym(2): CILD3
+synonym(3): ciliary dynein heavy chain 5
+synonym(4): DNAHC5
+synonym(5): DYH5_HUMAN
+synonym(6): dynein heavy chain 5, axonemal
+synonym(7): dynein, axonemal, heavy chain 5
+synonym(8): dynein, axonemal, heavy polypeptide 5
+synonym(9): FLJ46759
+synonym(10): HL1
+synonym(11): KIAA1603
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1767
+db-key(2)/db: OMIM
+db-key(2)/key: 603335
+reviewed: 2014-04
+published: 2018-04-17

@@ -1,0 +1,36 @@
+gene-symbol: CYP11B2
+name: cytochrome P450 family 11 subfamily B member 2
+ghr-page: https://ghr.nlm.nih.gov/gene/CYP11B2
+text/text-role: function
+text/html: <p>The <i>CYP11B2</i> gene provides instructions for making an enzyme called aldosterone synthase (previously known as corticosterone methyloxidase). This enzyme is found in the adrenal glands, which are located on top of the kidneys. Aldosterone synthase is a member of the cytochrome P450 family of enzymes. These enzymes are involved in the formation and breakdown of various molecules within cells.</p><p>Aldosterone synthase helps produce a hormone called aldosterone. Aldosterone helps control blood pressure by maintaining proper salt and fluid levels in the body. The aldosterone synthase enzyme is involved in a series of three chemical reactions that produce aldosterone from other (precursor) molecules: the conversion of 11-deoxycorticosterone to corticosterone, the conversion of corticosterone to 18-hydroxycorticosterone, and the conversion of 18-hydroxycorticosterone to aldosterone.</p>
+related-health-condition(1)/name: corticosterone methyloxidase deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/corticosterone-methyloxidase-deficiency
+related-health-condition(2)/name: familial hyperaldosteronism
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hyperaldosteronism
+synonym(1): ALDOS
+synonym(2): aldosterone synthase
+synonym(3): aldosterone-synthesizing enzyme
+synonym(4): C11B2_HUMAN
+synonym(5): CPN2
+synonym(6): CYP11B
+synonym(7): CYP11BL
+synonym(8): CYPXIB2
+synonym(9): cytochrome P-450Aldo
+synonym(10): cytochrome P-450C18
+synonym(11): cytochrome P450 11B2, mitochondrial
+synonym(12): cytochrome P450 11B2, mitochondrial precursor
+synonym(13): cytochrome P450, family 11, subfamily B, polypeptide 2
+synonym(14): cytochrome P450, subfamily XIB (steroid 11-beta-hydroxylase), polypeptide 2
+synonym(15): mitochondrial cytochrome P450, family 11, subfamily B, polypeptide 2
+synonym(16): P-450C18
+synonym(17): P450aldo
+synonym(18): P450C18
+synonym(19): steroid 11-beta-monooxygenase
+synonym(20): steroid 11-beta/18-hydroxylase
+synonym(21): steroid 18-hydroxylase, aldosterone synthase, P450C18, P450aldo
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1585
+db-key(2)/db: OMIM
+db-key(2)/key: 124080
+reviewed: 2014-04
+published: 2018-04-17

@@ -1,0 +1,24 @@
+gene-symbol: PNPLA6
+name: patatin like phospholipase domain containing 6
+ghr-page: https://ghr.nlm.nih.gov/gene/PNPLA6
+text/text-role: function
+text/html: <p>The <i>PNPLA6</i> gene provides instructions for making a protein called neuropathy target esterase (NTE). The NTE protein is involved in the breakdown of certain fats (lipids). Specifically, NTE breaks down a lipid called lysophosphatidylcholine, which is one of several compounds found in the outer membranes surrounding cells. The correct levels of these compounds are critical to the stability of the cell membranes.</p><p>The NTE protein is found most abundantly in the nervous system. It plays an important role in maintaining the stability of the membranes surrounding nerve cells (neurons) and of these cells' specialized extensions, called axons, that transmit nerve impulses. NTE may also play a role in the release of hormones from the pituitary gland, a process that requires particular changes in the cell membrane and appears to involve the lipids found there. The pituitary gland is located at the base of the brain and produces several hormones, including those that help direct sexual development and growth.</p>
+related-health-condition(1)/name: Boucher-Neuhäuser syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/boucher-neuhauser-syndrome
+related-health-condition(2)/name: Gordon Holmes syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/gordon-holmes-syndrome
+synonym(1): BNHS
+synonym(2): iPLA2delta
+synonym(3): LNMS
+synonym(4): NTE
+synonym(5): NTEMND
+synonym(6): OMCS
+synonym(7): patatin-like phospholipase domain-containing protein 6
+synonym(8): SPG39
+synonym(9): sws
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10908
+db-key(2)/db: OMIM
+db-key(2)/key: 603197
+reviewed: 2017-07
+published: 2018-04-17

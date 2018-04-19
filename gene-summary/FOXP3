@@ -1,0 +1,27 @@
+gene-symbol: FOXP3
+name: forkhead box P3
+ghr-page: https://ghr.nlm.nih.gov/gene/FOXP3
+text/text-role: function
+text/html: <p>The <i>FOXP3</i> gene provides instructions for producing the forkhead box P3 (FOXP3) protein. The FOXP3 protein attaches (binds) to specific regions of DNA and helps control the activity of genes that are involved in regulating the immune system. The immune system normally protects the body from foreign invaders, such as bacteria and viruses, by recognizing and attacking these invaders and clearing them from the body.</p><p>On the basis of its role in controlling gene activity, the FOXP3 protein is called a transcription factor. This protein is essential for the production and normal function of certain immune cells called regulatory T cells, which play an important role in preventing autoimmunity. Autoimmunity occurs when the body attacks its own tissues and organs by mistake. The FOXP3 protein is found primarily in an immune system gland called the thymus, where these regulatory T cells are produced.</p>
+related-health-condition(1)/name: immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/immune-dysregulation-polyendocrinopathy-enteropathy-x-linked-syndrome
+related-health-condition(2)/name: type 1 diabetes
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/type-1-diabetes
+synonym(1): AIID
+synonym(2): DIETER
+synonym(3): FOXP3_HUMAN
+synonym(4): immune dysregulation, polyendocrinopathy, enteropathy, X-linked
+synonym(5): immunodeficiency, polyendocrinopathy, enteropathy, X-linked
+synonym(6): IPEX
+synonym(7): JM2
+synonym(8): MGC141961
+synonym(9): MGC141963
+synonym(10): PIDX
+synonym(11): scurfin
+synonym(12): XPID
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 50943
+db-key(2)/db: OMIM
+db-key(2)/key: 300292
+reviewed: 2017-05
+published: 2018-04-17

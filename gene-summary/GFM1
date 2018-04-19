@@ -1,0 +1,24 @@
+gene-symbol: GFM1
+name: G elongation factor mitochondrial 1
+ghr-page: https://ghr.nlm.nih.gov/gene/GFM1
+text/text-role: function
+text/html: <p>The <i>GFM1</i> gene provides instructions for making an enzyme called mitochondrial translation elongation factor G1. This enzyme is found in cell structures called mitochondria, which are the energy-producing centers within cells. While instructions for making most of the body's proteins are found in DNA that is stored in the nucleus of cells (nuclear DNA), a few proteins and other molecules are produced from DNA that is stored in mitochondria (mtDNA). Mitochondrial translation elongation factor G1 is involved in the production of proteins from mtDNA through a process called translation. The mtDNA genes provide instructions for products that are involved in protein production and the process of turning energy taken in from food into a form that cells can use (oxidative phosphorylation).</p><p>During translation, mtRNA molecules, which are the protein blueprints created from mtDNA, interact with specialized complexes called ribosomes to assemble protein building blocks (amino acids) into a fully formed protein. The role of mitochondrial translation elongation factor G1 is to coordinate the movements of mtRNA molecules with ribosomes to allow assembly of the protein to continue until it is complete.</p>
+related-health-condition(1)/name: combined oxidative phosphorylation deficiency 1
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/combined-oxidative-phosphorylation-deficiency-1
+related-health-condition(2)/name: Leigh syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+synonym(1): EFG
+synonym(2): EFG1
+synonym(3): EFGM
+synonym(4): EGF1
+synonym(5): G translation elongation factor, mitochondrial
+synonym(6): GFM
+synonym(7): hEFG1
+synonym(8): mitochondrial elongation factor G
+synonym(9): mitochondrial elongation factor G1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 85476
+db-key(2)/db: OMIM
+db-key(2)/key: 606639
+reviewed: 2017-09
+published: 2018-04-17

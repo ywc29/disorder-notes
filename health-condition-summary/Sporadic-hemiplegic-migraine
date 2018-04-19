@@ -1,0 +1,38 @@
+name: Sporadic hemiplegic migraine
+ghr-page: https://ghr.nlm.nih.gov/condition/sporadic-hemiplegic-migraine
+text/text-role: description
+text/html: <p>Sporadic hemiplegic migraine is a rare form of migraine headache. Migraines typically cause intense, throbbing pain in one area of the head. Some people with migraines also experience nausea, vomiting, and sensitivity to light and sound. These recurrent headaches typically begin in childhood or adolescence and can be triggered by certain foods, emotional stress, and minor head trauma. Each headache may last from a few hours to a few days.</p><p>In sporadic hemiplegic migraine and some other types of migraine, a pattern of neurological symptoms called an aura occurs before onset of the headache. An aura commonly includes temporary visual changes such as blind spots (scotomas), flashing lights, zig-zagging lines, and double vision. In people with sporadic hemiplegic migraine, auras are also characterized by temporary numbness or weakness, often affecting one side of the body (hemiparesis). Additional features of an aura can include difficulty with speech, confusion, and drowsiness. An aura typically develops gradually over a few minutes and lasts about an hour.</p><p>Some people with sporadic hemiplegic migraine experience unusually severe migraine episodes. These episodes can include fever, prolonged weakness, seizures, and coma. Although most people with sporadic hemiplegic migraine recover completely between episodes, neurological symptoms such as memory loss and problems with attention can last for weeks or months. Some affected individuals develop mild but permanent difficulty coordinating movements (ataxia), which may worsen with time, and rapid, involuntary eye movements called nystagmus. Mild to severe intellectual disability has been reported in some people with sporadic hemiplegic migraine.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: n
+inheritance-pattern(2)/memo: not inherited
+related-gene(1)/gene-symbol: ATP1A2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ATP1A2
+related-gene(2)/gene-symbol: CACNA1A
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CACNA1A
+synonym(1): non-familial hemiplegic migraine
+synonym(2): SHM
+db-key(1)/db: GTR
+db-key(1)/key: C1832903
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: G43.4
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: G43.40
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: G43.41
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: G43.401
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: G43.409
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: G43.411
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: G43.419
+db-key(9)/db: MeSH
+db-key(9)/key: D020325
+db-key(10)/db: Orphanet
+db-key(10)/key: 569
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 230464001
+reviewed: 2017-10
+published: 2018-04-17

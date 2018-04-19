@@ -1,0 +1,25 @@
+gene-symbol: PHEX
+name: phosphate regulating endopeptidase homolog X-linked
+ghr-page: https://ghr.nlm.nih.gov/gene/PHEX
+text/text-role: function
+text/html: <p>The <i>PHEX</i> gene provides instructions for making an enzyme that is active primarily in bones and teeth. Studies suggest that it cuts (cleaves) other proteins into smaller pieces; however, the proteins cleaved by the PHEX enzyme have not been identified.</p><p>The PHEX enzyme could be involved in regulating the balance of phosphate in the body. Among its many functions, phosphate plays a critical role in the formation and growth of bones in childhood and helps maintain bone strength in adults. Phosphate levels are controlled in large part by the kidneys. The kidneys normally excrete excess phosphate in urine, and they reabsorb this mineral into the bloodstream when more is needed.</p><p>Studies suggest that the PHEX enzyme may be involved in the regulation of a protein called fibroblast growth factor 23 (which is produced from the <i>FGF23</i> gene). This protein normally inhibits the kidneys' ability to reabsorb phosphate into the bloodstream. Although the PHEX enzyme is thought to have some effect on the activity of fibroblast growth factor 23, no direct link has been established. It remains unclear how the PHEX enzyme helps control phosphate reabsorption and what role it plays in the formation and growth of bones.</p>
+related-health-condition/name: hereditary hypophosphatemic rickets
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hypophosphatemic-rickets
+synonym(1): HPDR
+synonym(2): HPDR1
+synonym(3): HYP
+synonym(4): HYP1
+synonym(5): metalloendopeptidase homolog PEX
+synonym(6): PEX
+synonym(7): PHEX_HUMAN
+synonym(8): phosphate regulating endopeptidase homolog, X-linked
+synonym(9): phosphate-regulating neutral endopeptidase
+synonym(10): vitamin D-resistant hypophosphatemic rickets protein
+synonym(11): X-linked hypophosphatemia protein
+synonym(12): XLH
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5251
+db-key(2)/db: OMIM
+db-key(2)/key: 300550
+reviewed: 2010-09
+published: 2018-04-17

@@ -1,0 +1,24 @@
+gene-symbol: SLURP1
+name: secreted LY6/PLAUR domain containing 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SLURP1
+text/text-role: function
+text/html: <p>The <i>SLURP1</i> gene provides instructions for making a protein called secreted Ly6/uPAR-related protein-1 (SLURP-1). This protein is found in skin cells and other cells that line the surfaces and cavities of the body. Like other Ly6/uPAR-related proteins, SLURP-1 folds into a particular shape and is thought to attach (bind) to other proteins called receptors to carry out signaling within cells. However, SLURP-1's role in the skin and the rest of the body is not completely understood.</p><p>Laboratory studies show that SLURP-1 can bind to nicotinic acetylcholine receptors (nAChRs). SLURP-1 specifically interacts with the alpha7 (α7) subunit, which is a piece of some nAChRs. Nicotinic acetylcholine receptors are best known for their role in chemical signaling between nerve cells, but they are also found in other tissues. In the skin, nAChRs regulate the activity of genes involved in the growth and division (proliferation), maturation (differentiation), and survival of cells. Through its interaction with these receptors, SLURP-1 may be involved in skin growth and development.</p>
+related-health-condition/name: mal de Meleda
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mal-de-meleda
+synonym(1): anti-neoplastic urinary protein
+synonym(2): ANUP
+synonym(3): ARS
+synonym(4): ARS(component B)-81/S
+synonym(5): ArsB
+synonym(6): LY6LS
+synonym(7): lymphocyte antigen 6-like secreted
+synonym(8): MDM
+synonym(9): secreted Ly-6/uPAR-related protein 1
+synonym(10): secreted Ly-6/uPAR-related protein 1 precursor
+synonym(11): secreted Ly6/uPAR related protein 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57152
+db-key(2)/db: OMIM
+db-key(2)/key: 606119
+reviewed: 2014-11
+published: 2018-04-17

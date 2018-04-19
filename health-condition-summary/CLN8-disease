@@ -1,0 +1,31 @@
+name: CLN8 disease
+ghr-page: https://ghr.nlm.nih.gov/condition/cln8-disease
+text/text-role: description
+text/html: <p>CLN8 disease is an inherited disorder that varies in severity and primarily affects the nervous system. The condition is generally separated into less-severe and more-severe forms, based on the types of signs and symptoms that develop and life expectancy.</p><p>The less-severe form of CLN8 disease, sometimes referred to as Northern epilepsy, is characterized by recurrent seizures (epilepsy) and a decline in intellectual function that begins between ages 5 and 10. The seizures in this form may be resistant to treatment and are often the generalized tonic-clonic type, which involve muscle rigidity, convulsions, and loss of consciousness. Some people with this form of CLN8 disease also experience partial seizures, which do not cause a loss of consciousness. The seizures occur approximately one to two times per month until adolescence; by early adulthood the frequency decreases to about four to six times per year. By middle age, seizures become even less frequent. In addition to seizures, affected individuals experience a gradual decline in intellectual function and develop problems with coordination and balance. Vision problems may occur in early to mid-adulthood. Individuals with the less-severe form of CLN8 disease often live into late adulthood.</p><p>The more-severe form of CLN8 disease typically begins between ages 2 and 7.The seizures in this form involve uncontrollable muscle jerks (myoclonic epilepsy). Individuals with the more-severe form have a more pronounced decline in intellectual function and usually lose the ability to speak. Vision loss is also common. People with this form of CLN8 disease have increasing difficulty walking and coordinating movements (ataxia), eventually becoming immobile. Individuals with the more-severe form of CLN8 disease usually survive only into late childhood or adolescence.</p><p>CLN8 disease is one of a group of disorders known as neuronal ceroid lipofuscinoses (NCLs), which may also be collectively referred to as Batten disease. All these disorders affect the nervous system and typically cause worsening problems with vision, movement, and thinking ability. The different NCLs are distinguished by their genetic cause. Each disease type is given the designation "CLN," meaning ceroid lipofuscinosis, neuronal, and then a number to indicate its subtype.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CLN8
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CLN8
+synonym: neuronal ceroid lipofuscinosis 8
+db-key(1)/db: GTR
+db-key(1)/key: C1838570
+db-key(2)/db: GTR
+db-key(2)/key: C1864923
+db-key(3)/db: GeneReviews
+db-key(3)/key: ncl
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: E75.4
+db-key(5)/db: MeSH
+db-key(5)/key: D009472
+db-key(6)/db: MeSH
+db-key(6)/key: D020191
+db-key(7)/db: OMIM
+db-key(7)/key: 600143
+db-key(8)/db: OMIM
+db-key(8)/key: 610003
+db-key(9)/db: Orphanet
+db-key(9)/key: 216
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 703526007
+reviewed: 2016-12
+published: 2018-04-17

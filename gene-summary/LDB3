@@ -1,0 +1,24 @@
+gene-symbol: LDB3
+name: LIM domain binding 3
+ghr-page: https://ghr.nlm.nih.gov/gene/LDB3
+text/text-role: function
+text/html: <p>The <i>LDB3</i> gene provides instructions for making a protein called LIM domain binding 3 (LDB3). The LDB3 protein is found in heart (cardiac) muscle and muscles used for movement (skeletal muscle). Within muscle fibers, LDB3 proteins are found in structures called sarcomeres, which are necessary for muscles to tense (contract). This protein attaches (binds) to other proteins and is involved in maintaining the stability of rod-like structures within sarcomeres called Z-discs. Z-discs link neighboring sarcomeres together to form myofibrils, the basic unit of muscle fibers. The linking of sarcomeres and formation of myofibrils provide strength for muscle fibers during repeated cycles of muscle contraction and relaxation.</p><p>Several different versions (isoforms) of the LDB3 protein are produced from the <i>LDB3</i> gene.</p>
+related-health-condition(1)/name: familial dilated cardiomyopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+related-health-condition(2)/name: left ventricular noncompaction
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/left-ventricular-noncompaction
+related-health-condition(3)/name: myofibrillar myopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/myofibrillar-myopathy
+synonym(1): LDB3_HUMAN
+synonym(2): LDB3Z1
+synonym(3): LDB3Z4
+synonym(4): LIM domain-binding protein 3
+synonym(5): ZASP
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 11155
+db-key(2)/db: OMIM
+db-key(2)/key: 601493
+db-key(3)/db: OMIM
+db-key(3)/key: 605906
+reviewed: 2011-01
+published: 2018-04-17

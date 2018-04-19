@@ -1,0 +1,20 @@
+gene-symbol: AIRE
+name: autoimmune regulator
+ghr-page: https://ghr.nlm.nih.gov/gene/AIRE
+text/text-role: function
+text/html: <p>The <i>AIRE</i> gene provides instructions for making a protein called the autoimmune regulator. This protein is active primarily in the thymus, which is an organ located behind the breastbone that plays an important role in immune system function. The thymus prepares immune cells called T cells for their role in fighting infection; this process is called thymic education.</p><p>For a person to remain healthy, immune system cells such as T cells must be able to identify and destroy potentially harmful invaders (such as bacteria, fungi, and viruses) while sparing the body's normal tissues. The autoimmune regulator protein plays an important role in this process by helping T cells distinguish the body's own proteins from those of foreign invaders. When this system malfunctions, the immune system's ability to distinguish between the body's proteins and foreign invaders is impaired, and it may attack the body's own tissues and organs. This abnormal reaction is called autoimmunity. In the thymus, the autoimmune regulator protein destroys T cells that otherwise would cause autoimmune damage.</p>
+related-health-condition/name: autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autoimmune-polyendocrinopathy-candidiasis-ectodermal-dystrophy
+synonym(1): AIRE1
+synonym(2): AIRE_HUMAN
+synonym(3): APECED
+synonym(4): APS1
+synonym(5): APSI
+synonym(6): Autoimmune polyendocrinopathy candidiasis ectodermal dystrophy protein
+synonym(7): PGA1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 326
+db-key(2)/db: OMIM
+db-key(2)/key: 607358
+reviewed: 2016-10
+published: 2018-04-17

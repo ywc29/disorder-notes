@@ -1,0 +1,25 @@
+name: Baller-Gerold syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/baller-gerold-syndrome
+text/text-role: description
+text/html: <p>Baller-Gerold syndrome is a rare condition characterized by the premature fusion of certain skull bones (craniosynostosis) and abnormalities of bones in the arms and hands.</p><p>People with Baller-Gerold syndrome have prematurely fused skull bones, most often along the coronal suture, the growth line that goes over the head from ear to ear. Other sutures of the skull may be fused as well. These changes result in an abnormally shaped head, a prominent forehead, and bulging eyes with shallow eye sockets (ocular proptosis). Other distinctive facial features can include widely spaced eyes (hypertelorism), a small mouth, and a saddle-shaped or underdeveloped nose.</p><p>Bone abnormalities in the hands include missing fingers (oligodactyly) and malformed or absent thumbs. Partial or complete absence of bones in the forearm is also common. Together, these hand and arm abnormalities are called radial ray malformations.</p><p>People with Baller-Gerold syndrome may have a variety of additional signs and symptoms including slow growth beginning in infancy, small stature, and malformed or missing kneecaps (patellae). A skin rash often appears on the arms and legs a few months after birth. This rash spreads over time, causing patchy changes in skin coloring, areas of thinning skin (atrophy), and small clusters of blood vessels just under the skin (telangiectases). These chronic skin problems are collectively known as poikiloderma.</p><p>The varied signs and symptoms of Baller-Gerold syndrome overlap with features of other disorders, namely Rothmund-Thomson syndrome and RAPADILINO syndrome. These syndromes are also characterized by radial ray defects, skeletal abnormalities, and slow growth. All of these conditions can be caused by mutations in the same gene. Based on these similarities, researchers are investigating whether Baller-Gerold syndrome, Rothmund-Thomson syndrome, and RAPADILINO syndrome are separate disorders or part of a single syndrome with overlapping signs and symptoms.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: RECQL4
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/RECQL4
+synonym(1): BGS
+synonym(2): craniosynostosis-radial aplasia syndrome
+synonym(3): craniosynostosis with radial defects
+db-key(1)/db: GTR
+db-key(1)/key: C0265308
+db-key(2)/db: GeneReviews
+db-key(2)/key: bgs
+db-key(3)/db: MeSH
+db-key(3)/key: D019465
+db-key(4)/db: OMIM
+db-key(4)/key: 218600
+db-key(5)/db: Orphanet
+db-key(5)/key: 1225
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 77608001
+reviewed: 2013-08
+published: 2018-04-17

@@ -1,0 +1,26 @@
+gene-symbol: JAK2
+name: Janus kinase 2
+ghr-page: https://ghr.nlm.nih.gov/gene/JAK2
+text/text-role: function
+text/html: <p>The <i>JAK2</i> gene provides instructions for making a protein that promotes the growth and division (proliferation) of cells. This protein is part of a signaling pathway called the JAK/STAT pathway, which transmits chemical signals from outside the cell to the cell's nucleus. The JAK2 protein is especially important for controlling the production of blood cells from hematopoietic stem cells. These stem cells are located within the bone marrow and have the potential to develop into red blood cells, white blood cells, and platelets.</p>
+related-health-condition(1)/name: Crohn disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/crohn-disease
+related-health-condition(2)/name: essential thrombocythemia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/essential-thrombocythemia
+related-health-condition(3)/name: polycythemia vera
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/polycythemia-vera
+related-health-condition(4)/name: primary myelofibrosis
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/primary-myelofibrosis
+synonym(1): JAK-2
+synonym(2): JAK2_HUMAN
+synonym(3): Janus kinase 2 (a protein tyrosine kinase)
+synonym(4): JTK10
+synonym(5): tyrosine-protein kinase JAK2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3717
+db-key(2)/db: OMIM
+db-key(2)/key: 147796
+db-key(3)/db: OMIM
+db-key(3)/key: 600880
+reviewed: 2014-09
+published: 2018-04-17

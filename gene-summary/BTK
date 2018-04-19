@@ -1,0 +1,29 @@
+gene-symbol: BTK
+name: Bruton tyrosine kinase
+ghr-page: https://ghr.nlm.nih.gov/gene/BTK
+text/text-role: function
+text/html: <p>The <i>BTK</i> gene provides instructions for making a protein called Bruton tyrosine kinase (BTK), which is essential for the development and maturation of B cells. B cells are specialized white blood cells that help protect the body against infection. These cells can mature into cells that produce special proteins called antibodies or immunoglobulins. Antibodies attach to specific foreign particles and germs, marking them for destruction. The BTK protein transmits important chemical signals that instruct B cells to mature and produce antibodies.</p>
+related-health-condition(1)/name: isolated growth hormone deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/isolated-growth-hormone-deficiency
+related-health-condition(2)/name: X-linked agammaglobulinemia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-agammaglobulinemia
+synonym(1): AGMX1
+synonym(2): AT
+synonym(3): ATK
+synonym(4): BPK
+synonym(5): Bruton agammaglobulinemia tyrosine kinase
+synonym(6): Bruton's tyrosine kinase
+synonym(7): BTK_HUMAN
+synonym(8): dominant-negative kinase-deficient Bruton's tyrosine kinase
+synonym(9): IMD1
+synonym(10): MGC126261
+synonym(11): MGC126262
+synonym(12): PSCTK1
+synonym(13): tyrosine-protein kinase BTK
+synonym(14): XLA
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 695
+db-key(2)/db: OMIM
+db-key(2)/key: 300300
+reviewed: 2012-02
+published: 2018-04-17

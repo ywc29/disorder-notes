@@ -1,0 +1,18 @@
+gene-symbol: BCKDHB
+name: branched chain keto acid dehydrogenase E1 subunit beta
+ghr-page: https://ghr.nlm.nih.gov/gene/BCKDHB
+text/text-role: function
+text/html: <p>The <i>BCKDHB</i> gene provides instructions for making one part, the beta subunit, of a group of enzymes called the branched-chain alpha-keto acid dehydrogenase (BCKD) enzyme complex. Two beta subunits connect with two alpha subunits, which are produced from the <i>BCKDHA</i> gene, to form a critical piece of the enzyme complex called the E1 component.</p><p>The BCKD enzyme complex is responsible for one step in the normal breakdown of three protein building blocks (amino acids). These amino acids—leucine, isoleucine, and valine—are obtained from the diet. They are present in many kinds of food, particularly protein-rich foods such as milk, meat, and eggs. The BCKD enzyme complex is active in mitochondria, which are specialized structures inside cells that serve as energy-producing centers. The breakdown of leucine, isoleucine, and valine produces molecules that can be used for energy.</p>
+related-health-condition/name: maple syrup urine disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+synonym(1): 2-oxoisovalerate dehydrogenase beta subunit
+synonym(2): BCKDH E1-beta
+synonym(3): branched chain keto acid dehydrogenase E1, beta polypeptide
+synonym(4): branched chain keto acid dehydrogenase E1, beta polypeptide (maple syrup urine disease)
+synonym(5): ODBB_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 594
+db-key(2)/db: OMIM
+db-key(2)/key: 248611
+reviewed: 2017-07
+published: 2018-04-17

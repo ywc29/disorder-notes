@@ -1,0 +1,10 @@
+gene-symbol: HLA-A
+name: major histocompatibility complex, class I, A
+ghr-page: https://ghr.nlm.nih.gov/gene/HLA-A
+related-health-condition(1)/name: juvenile idiopathic arthritis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-idiopathic-arthritis
+related-health-condition(2)/name: shingles
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/shingles
+db-key/db: NCBI Gene
+db-key/key: 3105
+published: 2018-04-17

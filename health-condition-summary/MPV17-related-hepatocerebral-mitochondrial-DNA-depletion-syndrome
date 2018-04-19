@@ -1,0 +1,29 @@
+name: MPV17-related hepatocerebral mitochondrial DNA depletion syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/mpv17-related-hepatocerebral-mitochondrial-dna-depletion-syndrome
+text/text-role: description
+text/html: <p><i>MPV17</i>-related hepatocerebral mitochondrial DNA depletion syndrome is an inherited disorder that can cause liver disease and neurological problems. The signs and symptoms of this condition begin in infancy and typically include vomiting, diarrhea, and an inability to grow or gain weight at the expected rate (failure to thrive). Many affected infants have a buildup of a chemical called lactic acid in the body (lactic acidosis) and low blood sugar (hypoglycemia). Within the first weeks of life, infants develop liver disease that quickly progresses to liver failure. The liver is frequently enlarged (hepatomegaly) and liver cells often have a reduced ability to release a digestive fluid called bile (cholestasis). Rarely, affected children develop liver cancer. After the onset of liver disease, many affected infants develop neurological problems, which can include developmental delay, weak muscle tone (hypotonia), and reduced sensation in the limbs (peripheral neuropathy). Individuals with <i>MPV17</i>-related hepatocerebral mitochondrial DNA depletion syndrome typically survive only into infancy or early childhood.</p><p><i>MPV17</i>-related hepatocerebral mitochondrial DNA depletion syndrome is most frequently seen in the Navajo population of the southwestern United States. In this population, the condition is known as Navajo neurohepatopathy. People with Navajo neurohepatopathy tend to have a longer life expectancy than those with <i>MPV17</i>-related hepatocerebral mitochondrial DNA depletion syndrome. In addition to the signs and symptoms described above, people with Navajo neurohepatopathy may have problems with sensing pain that can lead to painless bone fractures and self-mutilation of the fingers or toes. Individuals with Navajo neurohepatopathy may lack feeling in the clear front covering of the eye (corneal anesthesia), which can lead to open sores and scarring on the cornea, resulting in impaired vision. The cause of these additional features is unknown.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: MPV17
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MPV17
+synonym(1): mitochondrial DNA depletion syndrome 6
+synonym(2): MPV17-associated hepatocerebral MDS
+synonym(3): MTDPS6
+synonym(4): Navajo familial neurogenic arthropathy
+synonym(5): Navajo neurohepatopathy
+synonym(6): Navajo neuropathy
+synonym(7): NNH
+db-key(1)/db: GTR
+db-key(1)/key: C1850406
+db-key(2)/db: GeneReviews
+db-key(2)/key: mpv17-mtdep
+db-key(3)/db: MeSH
+db-key(3)/key: D028361
+db-key(4)/db: OMIM
+db-key(4)/key: 256810
+db-key(5)/db: Orphanet
+db-key(5)/key: 255229
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 237995002
+reviewed: 2013-01
+published: 2018-04-17

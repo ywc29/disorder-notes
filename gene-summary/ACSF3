@@ -1,0 +1,16 @@
+gene-symbol: ACSF3
+name: acyl-CoA synthetase family member 3
+ghr-page: https://ghr.nlm.nih.gov/gene/ACSF3
+text/text-role: function
+text/html: <p>The <i>ACSF3</i> gene provides instructions for making an enzyme involved in the formation (synthesis) of fatty acids, which are building blocks used to make fats (lipids). The ACSF3 enzyme performs a chemical reaction that converts malonic acid to malonyl-CoA, which is the first step of fatty acid synthesis. Based on this activity, the enzyme is classified as a malonyl-CoA synthetase. The ACSF3 enzyme also converts methylmalonic acid to methylmalonyl-CoA, making it a methylmalonyl-CoA synthetase as well.</p><p>Fatty acid synthesis occurs through two pathways, one of which takes place in cellular structures called mitochondria. Mitochondria convert the energy from food into a form that cells can use, and fatty acid synthesis in these structures is thought to be important for their proper functioning. The ACSF3 enzyme is found only in mitochondria and is involved in mitochondrial fatty acid synthesis.</p>
+related-health-condition/name: combined malonic and methylmalonic aciduria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/combined-malonic-and-methylmalonic-aciduria
+synonym(1): ACSF3_HUMAN
+synonym(2): acyl-CoA synthetase family member 3, mitochondrial
+synonym(3): acyl-CoA synthetase family member 3, mitochondrial precursor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 197322
+db-key(2)/db: OMIM
+db-key(2)/key: 614245
+reviewed: 2013-01
+published: 2018-04-17

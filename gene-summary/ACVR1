@@ -1,0 +1,26 @@
+gene-symbol: ACVR1
+name: activin A receptor type 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ACVR1
+text/text-role: function
+text/html: <p>The <i>ACVR1</i> gene provides instructions for making the activin receptor type I protein, which is a member of a protein family called bone morphogenetic protein (BMP) type I receptors. BMP receptors span the cell membrane, so that one end of the protein remains inside the cell and the other end projects from the outer surface of the cell. This arrangement allows receptors to receive signals from outside the cell and transmit them inside to affect cell development and function.</p><p>Activin receptor type I is found in many tissues of the body including skeletal muscle and cartilage. It helps to control the growth and development of the bones and muscles, including the gradual replacement of cartilage by bone (ossification). This process occurs in normal skeletal maturation from birth to young adulthood.</p><p>Activin receptor type I is normally activated at appropriate times by molecules called ligands. Activation may occur when these ligands, such as BMPs, attach (bind) to the receptor or to other proteins with which it forms a complex. A protein called FKBP12 can inhibit activin receptor type I by binding to the receptor and preventing inappropriate (leaky) activation in the absence of ligand.</p>
+related-health-condition/name: fibrodysplasia ossificans progressiva
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/fibrodysplasia-ossificans-progressiva
+synonym(1): activin A receptor type I
+synonym(2): activin A receptor, type I
+synonym(3): activin A receptor, type II-like kinase 2
+synonym(4): activin A type I receptor
+synonym(5): activin A type I receptor precursor
+synonym(6): ActR-IA protein, human
+synonym(7): ACTRI
+synonym(8): ACVR1_HUMAN
+synonym(9): ACVR1A
+synonym(10): ACVRLK2
+synonym(11): ALK2
+synonym(12): hydroxyalkyl-protein kinase
+synonym(13): SKR1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 90
+db-key(2)/db: OMIM
+db-key(2)/key: 102576
+reviewed: 2007-08
+published: 2018-04-17

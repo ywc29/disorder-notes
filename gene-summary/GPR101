@@ -1,0 +1,15 @@
+gene-symbol: GPR101
+name: G protein-coupled receptor 101
+ghr-page: https://ghr.nlm.nih.gov/gene/GPR101
+text/text-role: function
+text/html: <p>The <i>GPR101</i> gene provides instructions for making a type of protein called a G protein-coupled receptor. G protein-coupled receptors are embedded in the outer membrane of cells, where they relay chemical signals from outside the cell to the interior of the cell. However, the specific function of the GPR101 protein is unknown. The protein is found primarily in the brain, and studies suggest that it has a role in the pituitary gland. This gland, located at the base of the brain, produces hormones that control many important body functions. One of these hormones, called growth hormone, helps direct normal growth of the body's bones and tissues. The GPR101 protein is predominantly expressed in the pituitary gland during development before birth and again at adolescence, stages when the body grows the most. The protein is thought to be involved in the growth of cells in the pituitary gland, in the release of growth hormone from the gland, or in both processes.</p>
+related-health-condition/name: X-linked acrogigantism
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-acrogigantism
+synonym(1): GPCR6
+synonym(2): PAGH2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 83550
+db-key(2)/db: OMIM
+db-key(2)/key: 300393
+reviewed: 2017-11
+published: 2018-04-17

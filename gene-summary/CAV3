@@ -1,0 +1,33 @@
+gene-symbol: CAV3
+name: caveolin 3
+ghr-page: https://ghr.nlm.nih.gov/gene/CAV3
+text/text-role: function
+text/html: <p>The <i>CAV3</i> gene provides instructions for making a protein called caveolin-3, which is found in the membrane surrounding muscle cells. This protein is the main component of caveolae, which are small pouches in the muscle cell membrane. Within the caveolae, the caveolin-3 protein acts as a scaffold to organize other molecules that are important for cell signaling and maintenance of the cell structure. These molecules include the proteins that make up sodium channels, which transport positively charged sodium atoms (sodium ions) into cells. Sodium channels play a key role in a cell's ability to generate and transmit electrical signals. In cardiac muscle, sodium channels are involved in maintaining the heart's normal rhythm. Caveolin-3 may also help regulate calcium levels in the muscle cell, which control muscle contraction and relaxation.</p>
+related-health-condition(1)/name: CAV3-related distal myopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cav3-related-distal-myopathy
+related-health-condition(2)/name: isolated hyperCKemia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/isolated-hyperckemia
+related-health-condition(3)/name: limb-girdle muscular dystrophy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/limb-girdle-muscular-dystrophy
+related-health-condition(4)/name: rippling muscle disease
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/rippling-muscle-disease
+related-health-condition(5)/name: Romano-Ward syndrome
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/romano-ward-syndrome
+synonym(1): CAV3_HUMAN
+synonym(2): caveolin-3
+synonym(3): LGMD1C
+synonym(4): LQT9
+synonym(5): M-caveolin
+synonym(6): MGC126100
+synonym(7): MGC126101
+synonym(8): MGC126129
+synonym(9): VIP-21
+synonym(10): VIP21
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 859
+db-key(2)/db: OMIM
+db-key(2)/key: 601253
+db-key(3)/db: OMIM
+db-key(3)/key: 611818
+reviewed: 2014-05
+published: 2018-04-17

@@ -1,0 +1,20 @@
+gene-symbol: CLN3
+name: CLN3, battenin
+ghr-page: https://ghr.nlm.nih.gov/gene/CLN3
+text/text-role: function
+text/html: <p>The <i>CLN3</i> gene provides instructions for making a protein called battenin. This protein is primarily located in the membranes of lysosomes and endosomes, which are compartments within the cell that digest and recycle materials. The protein can also be found in the membrane that surrounds the cell and in the membrane of the Golgi apparatus, which is a cell structure that modifies newly produced enzymes and other proteins. The function of battenin in these cellular structures is unclear.</p><p>Studies have associated battenin with many cellular processes, including recycling of worn-out cell parts and unneeded proteins (autophagy), maintenance of the relative acidity (pH) of lysosomes, the movement of molecules from the cell surface into the cell (endocytosis), transportation (trafficking) of proteins to where they are needed in the cell, self-destruction of cells (apoptosis), cell growth and division (proliferation), and maintenance of the body's water balance (osmoregulation). It is uncertain whether any of these varied functions is the primary role of battenin, or if they represent downstream effects.</p>
+related-health-condition/name: CLN3 disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cln3-disease
+synonym(1): BATTENIN
+synonym(2): BTN1
+synonym(3): BTS
+synonym(4): ceroid-lipofuscinosis, neuronal 3
+synonym(5): CLN3_HUMAN
+synonym(6): JNCL
+synonym(7): MGC102840
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1201
+db-key(2)/db: OMIM
+db-key(2)/key: 607042
+reviewed: 2017-01
+published: 2018-04-17

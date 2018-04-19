@@ -1,0 +1,30 @@
+name: Shingles
+ghr-page: https://ghr.nlm.nih.gov/condition/shingles
+text/text-role: description
+text/html: <p>Shingles (also known as herpes zoster) results from infection by the varicella zoster virus. This common virus causes chickenpox (also known as varicella), which is characterized by itchy spots on the skin that cover the  whole body and usually occurs in childhood or adolescence. After the body fights the initial infection, the varicella zoster virus remains in nerve cells for the rest of a person's life. Because the virus is controlled by immune system cells called T cells, it is generally inactive (latent) and typically causes no health problems. However, in some people, the virus becomes active again (reactivates) and causes shingles. Shingles can occur at any age, although it is rare in childhood and becomes more common after age 50.</p><p>Shingles is characterized by a severely painful, itchy, or tingling rash, most commonly on one side of the torso, although it can occur anywhere on the body. Reactivation of the virus usually occurs in a single nerve, leading to the symptoms of shingles in just the region of skin connected to that nerve. When the nerve connected to the eye and the skin surrounding it is affected, the condition is called herpes zoster ophthalmicus. This form of shingles, which accounts for about 20 percent of cases, can cause permanent vision impairment.</p><p>Some individuals with shingles feel throbbing or tingling in the affected region shortly before the rash appears. Blisters form in the rash area, break open, and scab over in a few days. Healing usually takes 2 to 4 weeks. Most people have only one episode of shingles, although it can recur in rare cases.</p><p>In 5 to 20 percent of people with shingles, severe pain continues in the affected region after healing of the rash, which is known as postherpetic neuralgia (PHN). PHN is the most common complication of shingles. It can also involve severe itchiness or an overactive pain response to things that do not usually cause pain (allodynia), such as a light touch. PHN can last weeks, months, or even years. The likelihood of developing PHN after shingles and its severity increase with age. The pain caused by shingles and PHN can disrupt day-to-day activities and reduce a person's quality of life.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: HLA-A
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-A
+related-gene(2)/gene-symbol: HLA-B
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-B
+related-gene(3)/gene-symbol: IL10
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/IL10
+related-gene(4)/gene-symbol: POLR3A
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/POLR3A
+related-gene(5)/gene-symbol: POLR3C
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/POLR3C
+related-gene(6)/gene-symbol: STAT1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/STAT1
+related-gene(7)/gene-symbol: STAT3
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/STAT3
+synonym(1): herpes zoster
+synonym(2): zoster
+db-key(1)/db: ICD-10-CM
+db-key(1)/key: B02
+db-key(2)/db: MeSH
+db-key(2)/key: D006562
+db-key(3)/db: SNOMED CT
+db-key(3)/key: 4740000
+reviewed: 2018-01
+published: 2018-04-17

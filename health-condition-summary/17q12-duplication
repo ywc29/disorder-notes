@@ -1,0 +1,32 @@
+name: 17q12 duplication
+ghr-page: https://ghr.nlm.nih.gov/condition/17q12-duplication
+text/text-role: description
+text/html: <p>17q12 duplication is a chromosomal change in which a small piece of chromosome 17 is copied (duplicated) abnormally in each cell. The duplication occurs on the long (q) arm of the chromosome at a position designated q12.</p><p>Signs and symptoms related to 17q12 duplications vary significantly, even among members of the same family. Some individuals with the duplication have no apparent signs or symptoms, or the features are very mild. Other individuals can have intellectual disability, delayed development, and a wide range of physical abnormalities.</p><p>Intellectual and learning ability in people with 17q12 duplications ranges from normal to severely impaired. Many affected individuals have delayed development, particularly involving speech and language skills and gross motor skills such sitting, standing, and walking. Seizures are also common. Behavioral and psychiatric conditions that have been reported in people with 17q12 duplications include autism spectrum disorder (which affects social interaction and communication), schizophrenia, aggression, and self-injury. About half of affected individuals have an unusually small head (microcephaly).</p><p>Less commonly, 17q12 duplications have been associated with abnormalities of the eyes, heart, kidneys, and brain. Some individuals with this chromosomal change have subtle differences in facial features, although these are not consistent.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-chromosome/name: 17
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/17
+synonym(1): 17q12 duplication syndrome
+synonym(2): 17q12 microduplication
+synonym(3): 17q12 microduplication syndrome
+synonym(4): 17q12 recurrent duplication
+synonym(5): chromosome 17q12 duplication syndrome
+synonym(6): recurrent duplication of 17q12
+db-key(1)/db: GTR
+db-key(1)/key: C3281137
+db-key(2)/db: GeneReviews
+db-key(2)/key: dup17q12
+db-key(3)/db: MeSH
+db-key(3)/key: D002658
+db-key(4)/db: MeSH
+db-key(4)/key: D008607
+db-key(5)/db: MeSH
+db-key(5)/key: D012640
+db-key(6)/db: MeSH
+db-key(6)/key: D058674
+db-key(7)/db: OMIM
+db-key(7)/key: 614526
+db-key(8)/db: Orphanet
+db-key(8)/key: 261272
+reviewed: 2017-04
+published: 2018-04-17

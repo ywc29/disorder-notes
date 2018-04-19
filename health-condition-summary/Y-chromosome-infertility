@@ -1,0 +1,30 @@
+name: Y chromosome infertility
+ghr-page: https://ghr.nlm.nih.gov/condition/y-chromosome-infertility
+text/text-role: description
+text/html: <p>Y chromosome infertility is a condition that affects the production of sperm, making it difficult or impossible for affected men to father children. An affected man's body may produce no sperm cells (azoospermia), a smaller than usual number of sperm cells (oligospermia), or sperm cells that are abnormally shaped or that do not move properly.</p><p>Some men with Y chromosome infertility who have mild to moderate oligospermia may eventually father a child naturally. Assisted reproductive technologies may help other affected men; most men with Y chromosome infertility have some sperm cells in the testes that can be extracted for this purpose. The most severely affected men do not have any mature sperm cells in the testes. This form of Y chromosome infertility is called Sertoli cell-only syndrome.</p><p>Men with Y chromosome infertility usually do not have any other signs or symptoms. Occasionally they may have unusually small testes or undescended testes (cryptorchidism).</p>
+inheritance-pattern(1)/code: n
+inheritance-pattern(1)/memo: not inherited
+inheritance-pattern(2)/code: y
+inheritance-pattern(2)/memo: Y-linked
+related-gene/gene-symbol: USP9Y
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/USP9Y
+related-chromosome/name: Y
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/Y
+synonym(1): spermatogenic failure, Y-linked
+synonym(2): Y chromosome-related azoospermia
+db-key(1)/db: GTR
+db-key(1)/key: C1839071
+db-key(2)/db: GTR
+db-key(2)/key: C1839073
+db-key(3)/db: GeneReviews
+db-key(3)/key: yci
+db-key(4)/db: MeSH
+db-key(4)/key: D007248
+db-key(5)/db: OMIM
+db-key(5)/key: 400042
+db-key(6)/db: OMIM
+db-key(6)/key: 415000
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 236791009
+reviewed: 2009-01
+published: 2018-04-17

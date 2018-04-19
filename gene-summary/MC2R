@@ -1,0 +1,23 @@
+gene-symbol: MC2R
+name: melanocortin 2 receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/MC2R
+text/text-role: function
+text/html: <p>The <i>MC2R</i> gene provides instructions for making a protein called adrenocorticotropic hormone (ACTH) receptor. This protein is found primarily in the adrenal glands, which are hormone-producing glands located on top of each kidney. The ACTH receptor is embedded in the membrane of cells where it attaches (binds) to ACTH. ACTH is a hormone that is released by the pituitary gland, located at the base of the brain. The binding of ACTH to its receptor triggers the adrenal glands to produce a group of hormones called glucocorticoids. These hormones, which include cortisol and corticosterone, aid in immune system function, play a role in maintaining normal blood sugar levels, help trigger nerve cell signaling in the brain, and serve many other purposes in the body.</p><p>The ACTH receptor also likely plays a role in the development of the adrenal glands before birth.</p>
+related-health-condition(1)/name: familial glucocorticoid deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-glucocorticoid-deficiency
+related-health-condition(2)/name: primary macronodular adrenal hyperplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/primary-macronodular-adrenal-hyperplasia
+synonym(1): ACTH receptor
+synonym(2): ACTHR
+synonym(3): ACTHR_HUMAN
+synonym(4): adrenocorticotropic hormone receptor
+synonym(5): adrenocorticotropin receptor
+synonym(6): corticotropin receptor
+synonym(7): MC2 receptor
+synonym(8): melanocortin 2 receptor (adrenocorticotropic hormone)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4158
+db-key(2)/db: OMIM
+db-key(2)/key: 607397
+reviewed: 2015-02
+published: 2018-04-17

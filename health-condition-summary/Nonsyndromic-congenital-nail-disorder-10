@@ -1,0 +1,30 @@
+name: Nonsyndromic congenital nail disorder 10
+ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-congenital-nail-disorder-10
+text/text-role: description
+text/html: <p>Nonsyndromic congenital nail disorder 10 is a condition that affects the fingernails and toenails. Affected individuals have extremely thick nails (onychauxis) that separate from the underlying nail bed (onycholysis) and can appear claw-like. Some fingers and toes may be missing part of the nail (hyponychia).</p><p>In affected individuals, the nails are often abnormal from birth. However, the abnormalities may not be noticeable until later in childhood because the nails tend to grow more slowly than normal.</p><p>Individuals with nonsyndromic congenital nail disorder 10 do not have any other health problems related to the condition.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: FZD6
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FZD6
+synonym(1): claw-shaped nails
+synonym(2): nail disorder, nonsyndromic congenital, 10
+synonym(3): NDNC10
+synonym(4): onychauxis, hyponychia, and onycholysis
+db-key(1)/db: GTR
+db-key(1)/key: C3279974
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: L60.1
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q84.5
+db-key(4)/db: MeSH
+db-key(4)/key: D054039
+db-key(5)/db: OMIM
+db-key(5)/key: 614157
+db-key(6)/db: Orphanet
+db-key(6)/key: 280654
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 75789001
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 88103004
+reviewed: 2017-03
+published: 2018-04-17

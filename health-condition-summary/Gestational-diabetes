@@ -1,0 +1,72 @@
+name: Gestational diabetes
+ghr-page: https://ghr.nlm.nih.gov/condition/gestational-diabetes
+text/text-role: description
+text/html: <p>Gestational diabetes is a disorder characterized by abnormally high blood sugar levels during pregnancy. Affected women do not have diabetes before they are pregnant, and most of these women go back to being nondiabetic soon after the baby is born. The disease has a 30 to 70 percent chance of recurring in subsequent pregnancies. Additionally, about half of women with gestational diabetes develop another form of diabetes, known as type 2 diabetes, within a few years after their pregnancy.</p><p>Gestational diabetes is often discovered during the second trimester of pregnancy. Most affected women have no symptoms, and the disease is discovered through routine screening at their obstetrician's office. If untreated, gestational diabetes increases the risk of pregnancy-associated high blood pressure (called preeclampsia) and early (premature) delivery of the baby.</p><p>Babies of mothers with gestational diabetes tend to be large (macrosomia), which can cause complications during birth. Infants whose mothers have gestational diabetes are also more likely to develop dangerously low blood sugar levels soon after birth. Later in life, these individuals have an increased risk of developing obesity, heart disease, and type 2 diabetes.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: CDKAL1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CDKAL1
+related-gene(2)/gene-symbol: GCK
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GCK
+related-gene(3)/gene-symbol: IGF2BP2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/IGF2BP2
+related-gene(4)/gene-symbol: IRS1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/IRS1
+related-gene(5)/gene-symbol: KCNJ11
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNJ11
+related-gene(6)/gene-symbol: KCNQ1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNQ1
+related-gene(7)/gene-symbol: MTNR1B
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/MTNR1B
+related-gene(8)/gene-symbol: TCF7L2
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/TCF7L2
+synonym(1): diabetes mellitus arising in pregnancy
+synonym(2): diabetes mellitus, gestational
+synonym(3): diabetes mellitus, pregnancy related
+synonym(4): diabetes, pregnancy-induced
+synonym(5): GDM
+synonym(6): gestational diabetes mellitus
+db-key(1)/db: GTR
+db-key(1)/key: C0085207
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: O24.4
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: O24.41
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: O24.42
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: O24.43
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: O24.410
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: O24.414
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: O24.415
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: O24.419
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: O24.420
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: O24.424
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: O24.425
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: O24.429
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: O24.430
+db-key(15)/db: ICD-10-CM
+db-key(15)/key: O24.434
+db-key(16)/db: ICD-10-CM
+db-key(16)/key: O24.435
+db-key(17)/db: ICD-10-CM
+db-key(17)/key: O24.439
+db-key(18)/db: ICD-10-CM
+db-key(18)/key: Z86.32
+db-key(19)/db: MeSH
+db-key(19)/key: D016640
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 11687002
+db-key(21)/db: SNOMED CT
+db-key(21)/key: 472699005
+reviewed: 2018-01
+published: 2018-04-17

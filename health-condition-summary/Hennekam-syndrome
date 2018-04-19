@@ -1,0 +1,30 @@
+name: Hennekam syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/hennekam-syndrome
+text/text-role: description
+text/html: <p>Hennekam syndrome is an inherited disorder resulting from malformation of the lymphatic system, which is part of both the circulatory system and immune system. The lymphatic system consists of a network of vessels that transport lymph fluid and immune cells throughout the body.</p><p>The characteristic signs and symptoms of Hennekam syndrome are lymphatic vessels that are abnormally expanded (lymphangiectasia), particularly the vessels that transport lymph fluid to and from the intestines; puffiness or swelling caused by a buildup of fluid (lymphedema); and unusual facial features.</p><p>Lymphangiectasia often impedes the flow of lymph fluid and can cause the affected vessels to break open (rupture). In the intestines, ruptured vessels can lead to accumulation of lymph fluid, which interferes with the absorption of nutrients, fats, and proteins. Accumulation of lymph fluid in the abdomen can cause swelling (chylous ascites). Lymphangiectasia can also affect the kidneys, thyroid gland, the outer covering of the lungs (the pleura), the membrane covering the heart (pericardium), or the skin.</p><p>The lymphedema in Hennekam syndrome is often noticeable at birth and usually affects the face and limbs. Severely affected infants may have extensive swelling caused by fluid accumulation before birth (hydrops fetalis). The lymphedema usually affects one side of the body more severely than the other (asymmetric) and slowly worsens over time.</p><p>Facial features of people with Hennekam syndrome may include a flattened appearance to the middle of the face and the bridge of the nose, puffy eyelids, widely spaced eyes (hypertelorism), small ears, and a small mouth with overgrowth of the gums (gingival hypertrophy). Affected individuals may also have an unusually small head (microcephaly) and premature fusion of the skull bones (craniosynostosis).</p><p>Individuals with Hennekam syndrome often have intellectual disability that ranges from mild to severe, although most are on the mild end of the range and some have normal intellect. Many individuals with Hennekam syndrome have growth delay, respiratory problems, permanently bent fingers and toes (camptodactyly), or fusion of the skin between the fingers and toes (cutaneous syndactyly).</p><p>Abnormalities found in a few individuals with Hennekam syndrome include a moderate to severe shortage of red blood cells (anemia) resulting from an inadequate amount (deficiency) of iron in the bloodstream, multiple spleens (polysplenia), misplaced kidneys, genital anomalies, a soft out-pouching around the belly-button (umbilical hernia), heart abnormalities, hearing loss, excessive body hair growth (hirsutism), a narrow upper chest that may have a sunken appearance (pectus excavatum), an abnormal side-to-side curvature of the spine (scoliosis), and inward- and upward-turning feet (clubfeet).</p><p>The signs and symptoms of Hennekam syndrome vary widely among affected individuals, even those within the same family. Life expectancy depends on the severity of the condition and can vary from death in childhood to survival into adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: CCBE1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CCBE1
+related-gene(2)/gene-symbol: FAT4
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FAT4
+synonym(1): generalized lymphatic dysplasia
+synonym(2): Hennekam lymphangiectasia-lymphedema syndrome
+synonym(3): intestinal lymphagiectasia-lymphedema-mental retardation syndrome
+synonym(4): lymphedema-lymphangiectasia-intellectual disability syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0340834
+db-key(2)/db: GTR
+db-key(2)/key: C4014939
+db-key(3)/db: MeSH
+db-key(3)/key: D008201
+db-key(4)/db: OMIM
+db-key(4)/key: 235510
+db-key(5)/db: OMIM
+db-key(5)/key: 616006
+db-key(6)/db: Orphanet
+db-key(6)/key: 2136
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 234146006
+reviewed: 2014-07
+published: 2018-04-17

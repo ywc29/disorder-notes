@@ -1,0 +1,18 @@
+gene-symbol: SMN2
+name: survival of motor neuron 2, centromeric
+ghr-page: https://ghr.nlm.nih.gov/gene/SMN2
+text/text-role: function
+text/html: <p>The <i>SMN2</i> gene provides instructions for making the survival motor neuron (SMN) protein.  The SMN protein is found throughout the body, with high levels in the spinal cord.  This protein is particularly important for the maintenance of specialized nerve cells called motor neurons, which are located in the spinal cord and the part of the brain that is connected to the spinal cord (the brainstem).  Motor neurons control muscle movements.</p><p>Several different versions of the SMN protein are produced from the <i>SMN2</i> gene, but only one version (called isoform d) is full size and fully functional.  The other versions are smaller and easily broken down.  The full-size protein made from the <i>SMN2</i> gene is identical to the protein made from a similar gene called <i>SMN1</i>; however, much less full-size SMN protein is produced from the <i>SMN2</i> gene compared with the <i>SMN1</i> gene.</p><p>In cells, the SMN protein plays an important role in processing molecules called messenger RNA (mRNA), which serve as genetic blueprints for making proteins.  Messenger RNA begins as a rough draft (pre-mRNA) and goes through several processing steps to become a final, mature form.  The SMN protein helps to assemble the cellular machinery needed to process pre-mRNA.  The SMN protein may have additional functions in nerve cells. Research findings indicate that the SMN protein is important for the development of specialized outgrowths from nerve cells called dendrites and axons. Dendrites and axons are required for the transmission of impulses from nerve to nerve and from nerves to muscles.</p>
+related-health-condition/name: spinal muscular atrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/spinal-muscular-atrophy
+synonym(1): BCD541
+synonym(2): C-BCD541
+synonym(3): centromeric SMN
+synonym(4): SMN_HUMAN
+synonym(5): SMNC
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6607
+db-key(2)/db: OMIM
+db-key(2)/key: 601627
+reviewed: 2009-12
+published: 2018-04-17

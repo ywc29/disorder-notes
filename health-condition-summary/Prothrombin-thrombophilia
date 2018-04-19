@@ -1,0 +1,30 @@
+name: Prothrombin thrombophilia
+ghr-page: https://ghr.nlm.nih.gov/condition/prothrombin-thrombophilia
+text/text-role: description
+text/html: <p>Prothrombin thrombophilia is an inherited disorder of blood clotting. Thrombophilia is an increased tendency to form abnormal blood clots in blood vessels.  People who have prothrombin thrombophilia are at somewhat higher than average risk for a type of clot called a deep venous thrombosis, which typically occurs in the deep veins of the legs.  Affected people also have an increased risk of developing a pulmonary embolism, which is a clot that travels through the bloodstream and lodges in the lungs.  Most people with prothrombin thrombophilia never develop abnormal blood clots, however.</p><p>Some research suggests that prothrombin thrombophilia is associated with a somewhat increased risk of pregnancy loss (miscarriage) and may also increase the risk of other complications during pregnancy. These complications may include pregnancy-induced high blood pressure (preeclampsia), slow fetal growth, and early separation of the placenta from the uterine wall (placental abruption). It is important to note, however, that most women with prothrombin thrombophilia have normal pregnancies.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene/gene-symbol: F2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/F2
+synonym(1): hyperprothrombinemia
+synonym(2): Prothrombin G20210A Thrombophilia
+db-key(1)/db: GTR
+db-key(1)/key: C0398623
+db-key(2)/db: GeneReviews
+db-key(2)/key: ptt
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: D68.52
+db-key(4)/db: MeSH
+db-key(4)/key: D019851
+db-key(5)/db: OMIM
+db-key(5)/key: 176930
+db-key(6)/db: OMIM
+db-key(6)/key: 188050
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 440989002
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 441420000
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 441421001
+reviewed: 2008-08
+published: 2018-04-17

@@ -1,0 +1,33 @@
+name: Congenital mirror movement disorder
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-mirror-movement-disorder
+text/text-role: description
+text/html: <p>Congenital mirror movement disorder is a condition in which intentional movements of one side of the body are mirrored by involuntary movements of the other side. For example, when an affected individual makes a fist with the right hand, the left hand makes a similar movement. The mirror movements in this disorder primarily involve the upper limbs, especially the hands and fingers. This pattern of movements is present from infancy or early childhood and usually persists throughout life, without other associated signs and symptoms. Intelligence and lifespan are not affected.</p><p>People with congenital mirror movement disorder can have some difficulty with certain activities of daily living, particularly with those requiring different movements in each hand, such as typing on a keyboard. They may experience discomfort or pain in the upper limbs during prolonged use of the hands.</p><p>The extent of the mirror movements in this disorder can vary, even within the same family. In most cases, the involuntary movements are noticeable but less pronounced than the corresponding voluntary movements. The extent of the movements typically stay the same throughout the lifetime of an affected individual.</p><p>Mirror movements can also occur in people who do not have congenital mirror movement disorder. Mild mirror movements are common during the normal development of young children and typically disappear before age 7. They can also develop later in life in people with neurodegenerative disorders such as Parkinson disease. Mirror movements may also be present in certain other conditions with a wider range of signs and symptoms (syndromes).</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: DCC
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/DCC
+related-gene(2)/gene-symbol: RAD51
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/RAD51
+synonym(1): bimanual synergia
+synonym(2): bimanual synkinesis
+synonym(3): CMM
+synonym(4): congenital mirror movements
+synonym(5): mirror movements
+db-key(1)/db: GTR
+db-key(1)/key: CN201638
+db-key(2)/db: GeneReviews
+db-key(2)/key: mirror
+db-key(3)/db: MeSH
+db-key(3)/key: D009069
+db-key(4)/db: OMIM
+db-key(4)/key: 157600
+db-key(5)/db: OMIM
+db-key(5)/key: 614508
+db-key(6)/db: Orphanet
+db-key(6)/key: 238722
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 229247004
+reviewed: 2015-04
+published: 2018-04-17

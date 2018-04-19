@@ -1,0 +1,17 @@
+gene-symbol: ATXN1
+name: ataxin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ATXN1
+text/text-role: function
+text/html: <p>The <i>ATXN1</i> gene provides instructions for making a protein called ataxin-1. This protein is found throughout the body, but its function is unknown. Within cells, ataxin-1 is located in the nucleus. Researchers believe that ataxin-1 may be involved in regulating various aspects of producing proteins, including the first stage of protein production (transcription) and processing RNA, a chemical cousin of DNA.</p><p>One region of the <i>ATXN1</i> gene contains a DNA segment known as a CAG trinucleotide repeat. This segment is made up of a series of three DNA building blocks (cytosine, adenine, and guanine) that appear multiple times in a row. Normally, the CAG segment is repeated 4 to 39 times within the gene.</p>
+related-health-condition/name: spinocerebellar ataxia type 1
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/spinocerebellar-ataxia-type-1
+synonym(1): ataxin-1
+synonym(2): ATX1
+synonym(3): ATX1_HUMAN
+synonym(4): SCA1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6310
+db-key(2)/db: OMIM
+db-key(2)/key: 601556
+reviewed: 2011-02
+published: 2018-04-17

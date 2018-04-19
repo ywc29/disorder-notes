@@ -1,0 +1,35 @@
+name: Congenital nephrotic syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-nephrotic-syndrome
+text/text-role: description
+text/html: <p>Congenital nephrotic syndrome is a kidney condition that begins in infancy and typically leads to irreversible kidney failure (end-stage renal disease) by early childhood. Children with congenital nephrotic syndrome begin to have symptoms of the condition between birth and 3 months.</p><p>The features of congenital nephrotic syndrome are caused by failure of the kidneys to filter waste products from the blood and remove them in urine. Signs and symptoms of this condition are excessive protein in the urine (proteinuria), increased cholesterol in the blood (hypercholesterolemia), an abnormal buildup of fluid in the abdominal cavity (ascites), and swelling (edema). Affected individuals may also have blood in the urine (hematuria), which can lead to a reduced number of red blood cells (anemia) in the body, abnormal blood clotting, or reduced amounts of certain white blood cells. Low white blood cell counts can lead to a weakened immune system and frequent infections in people with congenital nephrotic syndrome.</p><p>Children with congenital nephrotic syndrome typically develop end-stage renal disease between ages 2 and 8, although with treatment, some may not have kidney failure until adolescence or early adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: LAMB2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/LAMB2
+related-gene(2)/gene-symbol: NPHS1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/NPHS1
+related-gene(3)/gene-symbol: NPHS2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/NPHS2
+related-gene(4)/gene-symbol: PLCE1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/PLCE1
+related-gene(5)/gene-symbol: WT1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/WT1
+synonym: familial nephrotic syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0403399
+db-key(2)/db: GTR
+db-key(2)/key: C1868672
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: N04
+db-key(4)/db: MeSH
+db-key(4)/key: D009404
+db-key(5)/db: OMIM
+db-key(5)/key: 256300
+db-key(6)/db: OMIM
+db-key(6)/key: 600995
+db-key(7)/db: Orphanet
+db-key(7)/key: 839
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 48796009
+reviewed: 2016-07
+published: 2018-04-17

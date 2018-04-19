@@ -1,0 +1,20 @@
+gene-symbol: HJV
+name: hemojuvelin BMP co-receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/HJV
+text/text-role: function
+text/html: <p>The <i>HJV</i> gene provides instructions for making a protein called hemojuvelin.  This protein is made in the liver, heart, and muscles used for movement (skeletal muscles). Researchers recently discovered that hemojuvelin plays a role in maintaining iron balance in the body. Although its exact function is unclear, hemojuvelin appears to regulate the levels of another protein called hepcidin.  Hepcidin also plays a key role in maintaining proper iron levels in the body.</p>
+related-health-condition/name: hereditary hemochromatosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hemochromatosis
+synonym(1): hemochromatosis type 2 (juvenile)
+synonym(2): HFE2
+synonym(3): HFE2A
+synonym(4): JH
+synonym(5): RGM domain family, member C
+synonym(6): RGMC
+synonym(7): RGMC_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 148738
+db-key(2)/db: OMIM
+db-key(2)/key: 608374
+reviewed: 2006-10
+published: 2018-04-17

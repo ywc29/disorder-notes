@@ -1,0 +1,60 @@
+name: Beta thalassemia
+ghr-page: https://ghr.nlm.nih.gov/condition/beta-thalassemia
+text/text-role: description
+text/html: <p>Beta thalassemia is a blood disorder that reduces the production of hemoglobin.  Hemoglobin is the iron-containing protein in red blood cells that carries oxygen to cells throughout the body.</p><p>In people with beta thalassemia, low levels of hemoglobin lead to a lack of oxygen in many parts of the body.  Affected individuals also have a shortage of red blood cells (anemia), which can cause pale skin, weakness, fatigue, and more serious complications.  People with beta thalassemia are at an increased risk of developing abnormal blood clots.</p><p>Beta thalassemia is classified into two types depending on the severity of symptoms: thalassemia major (also known as Cooley's anemia) and thalassemia intermedia.  Of the two types, thalassemia major is more severe.</p><p>The signs and symptoms of thalassemia major appear within the first 2 years of life.  Children develop life-threatening anemia.  They do not gain weight and grow at the expected rate (failure to thrive) and may develop yellowing of the skin and whites of the eyes (jaundice).  Affected individuals may have an enlarged spleen, liver, and heart, and their bones may be misshapen.  Some adolescents with thalassemia major experience delayed puberty.  Many people with thalassemia major have such severe symptoms that they need frequent blood transfusions to replenish their red blood cell supply.  Over time, an influx of iron-containing hemoglobin from chronic blood transfusions can lead to a buildup of iron in the body, resulting in liver, heart, and hormone problems.</p><p>Thalassemia intermedia is milder than thalassemia major.  The signs and symptoms of thalassemia intermedia appear in early childhood or later in life.  Affected individuals have mild to moderate anemia and may also have slow growth and bone abnormalities.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: HBB
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HBB
+synonym(1): erythroblastic anemia
+synonym(2): Mediterranean anemia
+synonym(3): microcytemia, beta type
+synonym(4): thalassemia, beta type
+db-key(1)/db: GTR
+db-key(1)/key: C0005283
+db-key(2)/db: GTR
+db-key(2)/key: C1858990
+db-key(3)/db: GeneReviews
+db-key(3)/key: b-thal
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: D56.1
+db-key(5)/db: MeSH
+db-key(5)/key: D017086
+db-key(6)/db: OMIM
+db-key(6)/key: 603902
+db-key(7)/db: OMIM
+db-key(7)/key: 613985
+db-key(8)/db: Orphanet
+db-key(8)/key: 848
+db-key(9)/db: Orphanet
+db-key(9)/key: 231214
+db-key(10)/db: Orphanet
+db-key(10)/key: 231222
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 111572002
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 15326009
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 191189009
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 26682008
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 27080008
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 39586009
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 47084006
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 5967006
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 61395005
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 65959000
+db-key(21)/db: SNOMED CT
+db-key(21)/key: 716682000
+db-key(22)/db: SNOMED CT
+db-key(22)/key: 79592006
+db-key(23)/db: SNOMED CT
+db-key(23)/key: 86715000
+reviewed: 2015-09
+published: 2018-04-17

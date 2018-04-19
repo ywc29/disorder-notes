@@ -1,0 +1,68 @@
+name: Intestinal pseudo-obstruction
+ghr-page: https://ghr.nlm.nih.gov/condition/intestinal-pseudo-obstruction
+text/text-role: description
+text/html: <p>Intestinal pseudo-obstruction is a condition characterized by impairment of the muscle contractions that move food through the digestive tract. It can occur at any time of life, and its symptoms range from mild to severe. The condition may arise from abnormalities of the gastrointestinal muscles themselves (myogenic) or from problems with the nerves that control the muscle contractions (neurogenic).</p><p>Intestinal pseudo-obstruction leads to a buildup of partially digested food in the intestines. This buildup can cause abdominal swelling (distention) and pain, nausea, vomiting, and constipation or diarrhea. Affected individuals experience loss of appetite and impaired ability to absorb nutrients, which may lead to malnutrition. These symptoms resemble those of an intestinal blockage (obstruction), but in intestinal pseudo-obstruction no blockage is found.</p><p>Depending on the cause of intestinal pseudo-obstruction, affected individuals can have additional signs and symptoms. Some people with intestinal pseudo-obstruction have bladder dysfunction such as an inability to pass urine. Other features may include decreased muscle tone (hypotonia) or stiffness (spasticity) of the torso and limbs, weakness in the muscles that control eye movement (ophthalmoplegia), intellectual disability, seizures, unusual facial features, or recurrent infections.</p><p>When intestinal pseudo-obstruction occurs by itself, it is called primary or idiopathic intestinal pseudo-obstruction. The disorder can also develop as a complication of another health problem; in these cases, it is called secondary intestinal pseudo-obstruction. The condition can be episodic (acute) or persistent (chronic).</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xr
+inheritance-pattern(3)/memo: X-linked recessive
+related-gene(1)/gene-symbol: ACTG2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ACTG2
+related-gene(2)/gene-symbol: FLNA
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FLNA
+related-gene(3)/gene-symbol: LMOD1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/LMOD1
+related-gene(4)/gene-symbol: MYH11
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/MYH11
+related-gene(5)/gene-symbol: MYLK
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/MYLK
+related-chromosome/name: X
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/X
+synonym(1): chronic idiopathic intestinal pseudo-obstruction
+synonym(2): CIIP
+synonym(3): CIPO
+synonym(4): congenital short bowel syndrome
+synonym(5): enteric neuropathy
+synonym(6): familial visceral myopathy
+synonym(7): familial visceral neuropathy
+synonym(8): IPO
+synonym(9): paralytic ileus
+synonym(10): pseudo-obstruction of intestine
+synonym(11): pseudointestinal obstruction syndrome
+synonym(12): pseudoobstructive syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1848586
+db-key(2)/db: GTR
+db-key(2)/key: C1855732
+db-key(3)/db: GTR
+db-key(3)/key: C1855733
+db-key(4)/db: GTR
+db-key(4)/key: C1864996
+db-key(5)/db: GTR
+db-key(5)/key: C2746068
+db-key(6)/db: GeneReviews
+db-key(6)/key: actg2-dis
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: K56.0
+db-key(8)/db: MeSH
+db-key(8)/key: D007418
+db-key(9)/db: OMIM
+db-key(9)/key: 243180
+db-key(10)/db: OMIM
+db-key(10)/key: 243185
+db-key(11)/db: OMIM
+db-key(11)/key: 277320
+db-key(12)/db: OMIM
+db-key(12)/key: 300048
+db-key(13)/db: OMIM
+db-key(13)/key: 609629
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 235825006
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 55525008
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 715201005
+reviewed: 2017-12
+published: 2018-04-17

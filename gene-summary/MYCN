@@ -1,0 +1,31 @@
+gene-symbol: MYCN
+name: MYCN proto-oncogene, bHLH transcription factor
+ghr-page: https://ghr.nlm.nih.gov/gene/MYCN
+text/text-role: function
+text/html: <p>The <i>MYCN</i> gene provides instructions for making a protein that plays an important role in the formation of tissues and organs during embryonic development. Studies in animals suggest that this protein is necessary for normal development of the limbs, heart, kidneys, nervous system, digestive system, and lungs. The MYCN protein regulates the activity of other genes by attaching (binding) to specific regions of DNA. On the basis of this action, this protein is called a transcription factor.</p><p>The <i>MYCN</i> gene belongs to a class of genes known as oncogenes. When mutated, oncogenes have the potential to cause normal cells to become cancerous. The <i>MYCN</i> gene is a member of the Myc family of oncogenes. These genes play important roles in regulating cell growth and division (proliferation) and the self-destruction of cells (apoptosis).</p>
+related-health-condition(1)/name: Feingold syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/feingold-syndrome
+related-health-condition(2)/name: neuroblastoma
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/neuroblastoma
+related-health-condition(3)/name: retinoblastoma
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/retinoblastoma
+synonym(1): bHLHe37
+synonym(2): MYCN_HUMAN
+synonym(3): MYCNOT
+synonym(4): N-myc
+synonym(5): N-myc proto-oncogene protein
+synonym(6): neuroblastoma-derived v-myc avian myelocytomatosis viral related oncogene
+synonym(7): neuroblastoma MYC oncogene
+synonym(8): NMYC
+synonym(9): oncogene NMYC
+synonym(10): pp65/67
+synonym(11): v-myc avian myelocytomatosis viral oncogene neuroblastoma derived homolog
+synonym(12): v-myc avian myelocytomatosis viral related oncogene, neuroblastoma derived
+synonym(13): v-myc myelocytomatosis viral related oncogene, neuroblastoma derived
+synonym(14): v-myc myelocytomatosis viral related oncogene, neuroblastoma derived (avian)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4613
+db-key(2)/db: OMIM
+db-key(2)/key: 164840
+reviewed: 2011-03
+published: 2018-04-17

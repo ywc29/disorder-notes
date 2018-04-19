@@ -1,0 +1,30 @@
+gene-symbol: MED12
+name: mediator complex subunit 12
+ghr-page: https://ghr.nlm.nih.gov/gene/MED12
+text/text-role: function
+text/html: <p>The <i>MED12</i> gene provides instructions for making a protein called mediator complex subunit 12. As its name suggests, this protein forms one part (subunit) of the mediator complex, which is a group of about 25 proteins that work together to regulate gene activity. The mediator complex physically links transcription factors, which are proteins that influence whether genes are turned on or off, with an enzyme called RNA polymerase II. Once transcription factors are attached, this enzyme initiates gene transcription, the process by which information stored in a gene's DNA is used to build proteins.</p><p>Researchers believe that the MED12 protein is involved in many aspects of early development, including the development of nerve cells (neurons) in the brain.  The MED12 protein is part of several chemical signaling pathways within cells.  These pathways help direct a broad range of cellular activities, such as cell growth, cell movement (migration), and the process by which cells mature to carry out specific functions (differentiation).</p>
+related-health-condition(1)/name: FG syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/fg-syndrome
+related-health-condition(2)/name: Lujan syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/lujan-syndrome
+related-health-condition(3)/name: Ohdo syndrome, Maat-Kievit-Brunner type
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/ohdo-syndrome-maat-kievit-brunner-type
+related-health-condition(4)/name: prostate cancer
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+synonym(1): CAGH45
+synonym(2): HOPA
+synonym(3): KIAA0192
+synonym(4): MED12_HUMAN
+synonym(5): mediator of RNA polymerase II transcription, subunit 12 homolog
+synonym(6): OKS
+synonym(7): OPA-containing protein
+synonym(8): OPA1
+synonym(9): thyroid hormone receptor-associated protein, 230 kDa subunit
+synonym(10): TNRC11
+synonym(11): TRAP230
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9968
+db-key(2)/db: OMIM
+db-key(2)/key: 300188
+reviewed: 2013-04
+published: 2018-04-17

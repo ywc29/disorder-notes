@@ -1,0 +1,25 @@
+name: Multiple cutaneous and mucosal venous malformations
+ghr-page: https://ghr.nlm.nih.gov/condition/multiple-cutaneous-and-mucosal-venous-malformations
+text/text-role: description
+text/html: <p>Multiple cutaneous and mucosal venous malformations (also known as VMCM) are bluish patches (lesions) on the skin (cutaneous) and the mucous membranes, such as the lining of the mouth and nose.  These lesions represent areas where the underlying veins and other blood vessels did not develop properly (venous malformations).  The lesions can be painful, especially when they extend from the skin into the muscles and joints, or when a calcium deposit forms within the lesion causing inflammation and swelling.</p><p>Most people with VMCM are born with at least one venous malformation.  As affected individuals age, the lesions present from birth usually become larger and new lesions often appear.  The size, number, and location of venous malformations vary among affected individuals, even among members of the same family.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: TEK
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TEK
+synonym(1): mucocutaneous venous malformations
+synonym(2): VMCM
+synonym(3): VMCM1
+db-key(1)/db: GTR
+db-key(1)/key: C1838437
+db-key(2)/db: GeneReviews
+db-key(2)/key: vmcm
+db-key(3)/db: MeSH
+db-key(3)/key: D017445
+db-key(4)/db: OMIM
+db-key(4)/key: 600195
+db-key(5)/db: Orphanet
+db-key(5)/key: 2451
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 699301008
+reviewed: 2009-08
+published: 2018-04-17

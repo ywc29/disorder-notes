@@ -1,0 +1,38 @@
+gene-symbol: LAMA3
+name: laminin subunit alpha 3
+ghr-page: https://ghr.nlm.nih.gov/gene/LAMA3
+text/text-role: function
+text/html: <p>The <i>LAMA3</i> gene provides instructions for making one part (subunit) of a protein called laminin 332 (formerly known as laminin 5). This protein is made up of three subunits, called alpha, beta, and gamma. The <i>LAMA3</i> gene carries instructions for the alpha subunit; the beta and gamma subunits are produced from other genes. Three versions of the alpha subunit, called alpha-3a, alpha-3b1, and alpha-3b2, are produced from the <i>LAMA3</i> gene.</p><p>Laminins are a group of proteins that regulate cell growth, cell movement (motility), and the attachment of cells to one another (adhesion). They are also involved in the formation and organization of basement membranes, which are thin, sheet-like structures that separate and support cells in many tissues. Laminin 332 has a particularly important role in the basement membrane that underlies the top layer of skin (the epidermis). This membrane gives strength and resiliency to the skin and creates an additional barrier between the body and its surrounding environment. Laminin 332 is a major component of fibers called anchoring filaments, which connect the two layers of the basement membrane and help hold the skin together.</p><p>Studies suggest that laminin 332 also has several other functions. This protein appears to be important in the formation of early wound-healing tissues. Additionally, researchers have proposed roles for laminin 332 in the clear outer covering of the eye (the cornea) and in the development of tooth enamel.</p><p>The alpha subunit produced from the <i>LAMA3</i> gene is also part of two other laminin proteins, laminin 311 and laminin 321. These laminins also appear to provide strength to the skin, although they do not play as big a role as laminin 332. In addition, laminin 311 is involved in cell signaling in the lungs and other tissues.</p>
+related-health-condition(1)/name: junctional epidermolysis bullosa
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/junctional-epidermolysis-bullosa
+related-health-condition(2)/name: laryngo-onycho-cutaneous syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/laryngo-onycho-cutaneous-syndrome
+synonym(1): BM600
+synonym(2): BM600 150kD subunit
+synonym(3): BM600-150kDa
+synonym(4): E170
+synonym(5): epiligrin
+synonym(6): epiligrin 170 kda subunit
+synonym(7): epiligrin alpha 3 subunit
+synonym(8): kalinin 165kD subunit
+synonym(9): kalinin-165kDa
+synonym(10): LAM5, alpha-3 subunit
+synonym(11): LAMA3_HUMAN
+synonym(12): lama3a
+synonym(13): laminin-5 alpha 3 chain
+synonym(14): laminin 5, alpha-3 subunit
+synonym(15): laminin A3
+synonym(16): laminin alpha 3
+synonym(17): laminin alpha 3 subunit
+synonym(18): laminin, alpha 3
+synonym(19): laminin, alpha-3
+synonym(20): LAMNA
+synonym(21): LOCS
+synonym(22): nicein 150kD subunit
+synonym(23): nicein-150kDa
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3909
+db-key(2)/db: OMIM
+db-key(2)/key: 600805
+reviewed: 2014-09
+published: 2018-04-17

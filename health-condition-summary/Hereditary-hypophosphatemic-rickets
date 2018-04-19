@@ -1,0 +1,69 @@
+name: Hereditary hypophosphatemic rickets
+ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hypophosphatemic-rickets
+text/text-role: description
+text/html: <p>Hereditary hypophosphatemic rickets is a disorder related to low levels of phosphate in the blood (hypophosphatemia). Phosphate is a mineral that is essential for the normal formation of bones and teeth.</p><p>In most cases, the signs and symptoms of hereditary hypophosphatemic rickets begin in early childhood. The features of the disorder vary widely, even among affected members of the same family. Mildly affected individuals may have hypophosphatemia without other signs and symptoms. More severely affected children experience slow growth and are shorter than their peers. They develop bone abnormalities that can interfere with movement and cause bone pain. The most noticeable of these abnormalities are bowed legs or knock knees (a condition in which the lower legs are positioned at an outward angle). These abnormalities become apparent with weight-bearing activities such as walking. If untreated, they tend to worsen with time.</p><p>Other signs and symptoms of hereditary hypophosphatemic rickets can include premature fusion of the skull bones (craniosynostosis) and dental abnormalities. The disorder may also cause abnormal bone growth where ligaments and tendons attach to joints (enthesopathy). In adults, hypophosphatemia is characterized by a softening of the bones known as osteomalacia.</p><p>Researchers have described several forms of hereditary hypophosphatemic rickets, which are distinguished by their pattern of inheritance and genetic cause. The most common form of the disorder is known as X-linked hypophosphatemic rickets (XLH). It has an X-linked dominant pattern of inheritance. X-linked recessive, autosomal dominant, and autosomal recessive forms of the disorder are much rarer.</p><p>Another rare type of the disorder is known as hereditary hypophosphatemic rickets with hypercalciuria (HHRH). In addition to hypophosphatemia, this condition is characterized by the excretion of high levels of calcium in the urine (hypercalciuria).</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xd
+inheritance-pattern(3)/memo: X-linked dominant
+inheritance-pattern(4)/code: xr
+inheritance-pattern(4)/memo: X-linked recessive
+related-gene(1)/gene-symbol: CLCN5
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CLCN5
+related-gene(2)/gene-symbol: DMP1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/DMP1
+related-gene(3)/gene-symbol: ENPP1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/ENPP1
+related-gene(4)/gene-symbol: FGF23
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/FGF23
+related-gene(5)/gene-symbol: PHEX
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/PHEX
+related-gene(6)/gene-symbol: SLC34A3
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC34A3
+synonym(1): hypophosphatemia
+synonym(2): VDRR
+synonym(3): vitamin D-resistant rickets
+db-key(1)/db: GTR
+db-key(1)/key: C0342642
+db-key(2)/db: GTR
+db-key(2)/key: C0342643
+db-key(3)/db: GTR
+db-key(3)/key: C0733682
+db-key(4)/db: GTR
+db-key(4)/key: C1853271
+db-key(5)/db: GTR
+db-key(5)/key: C2750078
+db-key(6)/db: GeneReviews
+db-key(6)/key: rickets-xlh
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: E83.31
+db-key(8)/db: MeSH
+db-key(8)/key: D053098
+db-key(9)/db: OMIM
+db-key(9)/key: 193100
+db-key(10)/db: OMIM
+db-key(10)/key: 241520
+db-key(11)/db: OMIM
+db-key(11)/key: 241530
+db-key(12)/db: OMIM
+db-key(12)/key: 300554
+db-key(13)/db: OMIM
+db-key(13)/key: 307800
+db-key(14)/db: OMIM
+db-key(14)/key: 613312
+db-key(15)/db: Orphanet
+db-key(15)/key: 89937
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 237889002
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 237891005
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 4996001
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 82236004
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 90505000
+reviewed: 2010-09
+published: 2018-04-17

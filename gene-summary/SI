@@ -1,0 +1,18 @@
+gene-symbol: SI
+name: sucrase-isomaltase
+ghr-page: https://ghr.nlm.nih.gov/gene/SI
+text/text-role: function
+text/html: <p>The <i>SI</i> gene provides instructions for producing the enzyme sucrase-isomaltase.  This enzyme is found in the intestinal tract, where it is involved in breaking down the sugars sucrose (a sugar found in fruits, and also known as table sugar) and maltose (the sugar found in grains).  Sucrose and maltose are called disaccharides because they are each made up of two simple sugar molecules.   Disaccharides must be broken down into simple sugar molecules to be digested properly.</p><p>The sucrase-isomaltase enzyme is found on the surface of the intestinal epithelial cells, which are cells that line the walls of the intestine. These cells have fingerlike projections called microvilli that absorb nutrients from food as it passes through the intestine. Based on their appearance, groups of these microvilli are known collectively as the brush border.  The role of the sucrase-isomaltase enzyme is to break down sucrose and maltose into simple sugars so that they can be absorbed by microvilli into intestinal epithelial cells.</p>
+related-health-condition/name: congenital sucrase-isomaltase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-sucrase-isomaltase-deficiency
+synonym(1): MGC131621
+synonym(2): MGC131622
+synonym(3): Oligosaccharide alpha-1,6-glucosidase
+synonym(4): sucrase-isomaltase (alpha-glucosidase)
+synonym(5): SUIS_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6476
+db-key(2)/db: OMIM
+db-key(2)/key: 609845
+reviewed: 2008-07
+published: 2018-04-17

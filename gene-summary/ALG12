@@ -1,0 +1,28 @@
+gene-symbol: ALG12
+name: ALG12, alpha-1,6-mannosyltransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/ALG12
+text/text-role: function
+text/html: <p>The <i>ALG12</i> gene provides instructions for making an enzyme that is involved in a process called glycosylation. During this process, complex chains of sugar molecules (oligosaccharides) are attached to proteins and fats (lipids). Glycosylation modifies proteins so they can fully perform their functions. Oligosaccharides are made up of many sugar molecules that are attached to one another in a stepwise process, forming a complex chain. The enzyme produced from the <i>ALG12</i> gene transfers a simple sugar called mannose to growing oligosaccharides at a particular step in the formation of the chain. Once the correct number of sugar molecules are linked together, the oligosaccharide is attached to a protein or lipid.</p>
+related-health-condition/name: ALG12-congenital disorder of glycosylation
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/alg12-congenital-disorder-of-glycosylation
+synonym(1): asparagine-linked glycosylation 12 homolog (S. cerevisiae, alpha-1,6-mannosyltransferase)
+synonym(2): asparagine-linked glycosylation 12 homolog (yeast, alpha-1,6-mannosyltransferase)
+synonym(3): asparagine-linked glycosylation 12, alpha-1,6-mannosyltransferase homolog
+synonym(4): asparagine-linked glycosylation protein 12 homolog
+synonym(5): CDG1G
+synonym(6): dol-P-Man dependent alpha-1,6-mannosyltransferase
+synonym(7): dol-P-Man:Man(7)GlcNAc(2)-PP-Dol alpha-1,6-mannosyltransferase
+synonym(8): dolichyl-P-Man:Man(7)GlcNAc(2)-PP-dolichol alpha-1,6-mannosyltransferase
+synonym(9): dolichyl-P-Man:Man(7)GlcNAc(2)-PP-dolichyl-alpha-1,6-mannosyltransferase
+synonym(10): dolichyl-P-mannose:Man-7-GlcNAc-2-PP-dolichyl-alpha-6-mannosyltransferase
+synonym(11): ECM39
+synonym(12): hALG12
+synonym(13): mannosyltransferase ALG12 homolog
+synonym(14): membrane protein SB87
+synonym(15): PP14673
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 79087
+db-key(2)/db: OMIM
+db-key(2)/key: 607144
+reviewed: 2015-01
+published: 2018-04-17

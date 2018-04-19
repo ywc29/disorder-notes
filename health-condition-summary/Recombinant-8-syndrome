@@ -1,0 +1,23 @@
+name: Recombinant 8 syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/recombinant-8-syndrome
+text/text-role: description
+text/html: <p>Recombinant 8 syndrome is a condition that involves heart and urinary tract abnormalities, moderate to severe intellectual disability, and a distinctive facial appearance.  The characteristic facial features include a wide, square face; a thin upper lip; a downturned mouth; a small chin (micrognathia); wide-set eyes (hypertelorism); and low-set or unusually shaped ears.  People with recombinant 8 syndrome may have overgrowth of the gums (gingival hyperplasia) and abnormal tooth development.  Males with this condition frequently have undescended testes (cryptorchidism).  Some affected individuals have recurrent ear infections (otitis media) or hearing loss.  Many children with recombinant 8 syndrome do not survive past early childhood, usually due to complications related to their heart abnormalities.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-chromosome/name: 8
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/8
+synonym(1): rec(8) syndrome
+synonym(2): recombinant chromosome 8 syndrome
+synonym(3): San Luis Valley syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0795822
+db-key(2)/db: MeSH
+db-key(2)/key: D025063
+db-key(3)/db: OMIM
+db-key(3)/key: 179613
+db-key(4)/db: Orphanet
+db-key(4)/key: 96167
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 718189004
+reviewed: 2009-04
+published: 2018-04-17

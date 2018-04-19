@@ -1,0 +1,32 @@
+gene-symbol: CACNA1A
+name: calcium voltage-gated channel subunit alpha1 A
+ghr-page: https://ghr.nlm.nih.gov/gene/CACNA1A
+text/text-role: function
+text/html: <p>The <i>CACNA1A</i> gene belongs to a family of genes that provide instructions for making calcium channels. These channels, which transport positively charged calcium atoms (calcium ions) across cell membranes, play a key role in a cell's ability to generate and transmit electrical signals. Calcium ions are involved in many different cellular functions, including cell-to-cell communication, the tensing of muscle fibers (muscle contraction), and the regulation of certain genes.</p><p>The <i>CACNA1A</i> gene provides instructions for making one part (the alpha-1 subunit) of a calcium channel called CaV2.1. This subunit forms the hole (pore) through which calcium ions can flow. CaV2.1 channels play an essential role in communication between nerve cells (neurons) in the brain. These channels help control the release of neurotransmitters, which are chemicals that relay signals from one neuron to another. Researchers believe that CaV2.1 channels are also involved in the survival of neurons and the ability of these cells to change and adapt over time (plasticity).</p><p>Near one end of the <i>CACNA1A</i> gene, a segment of three DNA building blocks (nucleotides) is repeated multiple times. This sequence, which is written as CAG, is called a triplet or trinucleotide repeat. In most people, the number of CAG repeats in this gene ranges from 4 to 18.</p>
+related-health-condition(1)/name: 19p13.13 deletion syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/19p1313-deletion-syndrome
+related-health-condition(2)/name: episodic ataxia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/episodic-ataxia
+related-health-condition(3)/name: familial hemiplegic migraine
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hemiplegic-migraine
+related-health-condition(4)/name: spinocerebellar ataxia type 6
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/spinocerebellar-ataxia-type-6
+related-health-condition(5)/name: sporadic hemiplegic migraine
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/sporadic-hemiplegic-migraine
+synonym(1): APCA
+synonym(2): brain calcium channel 1
+synonym(3): CAC1A_HUMAN
+synonym(4): CACNL1A4
+synonym(5): calcium channel, alpha 1A subunit
+synonym(6): calcium channel, L type, alpha-1 polypeptide, isoform 4
+synonym(7): calcium channel, voltage-dependent, P/Q type, alpha 1A subunit
+synonym(8): CAV2.1
+synonym(9): HPCA
+synonym(10): SCA6
+synonym(11): Voltage-gated calcium channel subunit alpha Cav2.1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 773
+db-key(2)/db: OMIM
+db-key(2)/key: 601011
+reviewed: 2016-06
+published: 2018-04-17

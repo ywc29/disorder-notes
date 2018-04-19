@@ -1,0 +1,21 @@
+gene-symbol: POU3F4
+name: POU class 3 homeobox 4
+ghr-page: https://ghr.nlm.nih.gov/gene/POU3F4
+text/text-role: function
+text/html: <p>The <i>POU3F4</i> gene provides instructions for making a protein that helps regulate the activity of other genes. Based on this role, the protein is called a transcription factor. The <i>POU3F4</i> gene is part of a larger family of transcription factor genes called POU domain genes. These genes play a role in determining cell types in the brain and spinal cord (the central nervous system) during early development. The proteins produced from genes in the POU domain family each include two regions, called the POU-specific domain and POU homeodomain, that bind to the DNA of other genes.</p><p>The POU3F4 protein is likely to be involved in the development of the middle and inner ear, and it is also active in certain regions of the brain before birth. Researchers are working to determine which genes are regulated by this protein.</p>
+related-health-condition/name: nonsyndromic hearing loss
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-hearing-loss
+synonym(1): BRAIN-4
+synonym(2): brain-specific homeobox/POU domain protein 4
+synonym(3): Brn-4
+synonym(4): BRN4
+synonym(5): DFN3
+synonym(6): DFNX2
+synonym(7): OTF9
+synonym(8): PO34_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5456
+db-key(2)/db: OMIM
+db-key(2)/key: 300039
+reviewed: 2016-02
+published: 2018-04-17

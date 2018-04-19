@@ -1,0 +1,49 @@
+gene-symbol: TRPV4
+name: transient receptor potential cation channel subfamily V member 4
+ghr-page: https://ghr.nlm.nih.gov/gene/TRPV4
+text/text-role: function
+text/html: <p>The <i>TRPV4</i> gene provides instructions for making a protein that acts as a calcium channel. This channel, which transports positively charged atoms of calcium (calcium ions) across cell membranes, is found in many types of cells and tissues. Studies suggest that the TRPV4 channel plays a role in a number of different functions in the body. These include the development of bones and cartilage, the tough but flexible tissue that makes up much of the skeleton during early development. It is also be involved in maintaining the body's water balance (osmoregulation) and in certain types of sensation, particularly the sensation of pain. The TRPV4 channel may also play a role in the self-destruction of cells (apoptosis). It likely has additional functions that have not been identified.</p>
+related-health-condition(1)/name: Charcot-Marie-Tooth disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+related-health-condition(2)/name: metatropic dysplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/metatropic-dysplasia
+synonym(1): osm-9-like TRP channel 4
+synonym(2): OSM9-like transient receptor potential channel 4
+synonym(3): osmosensitive transient receptor potential channel 4
+synonym(4): OTRPC4
+synonym(5): SPSMA
+synonym(6): SSQTL1
+synonym(7): transient receptor potential cation channel, subfamily V, member 4
+synonym(8): transient receptor potential protein 12
+synonym(9): TRP12
+synonym(10): TRPV4_HUMAN
+synonym(11): vanilloid receptor-like channel 2
+synonym(12): vanilloid receptor-related osmotically activated channel
+synonym(13): VR-OAC
+synonym(14): VRL-2
+synonym(15): VRL2
+synonym(16): VROAC
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 59341
+db-key(2)/db: OMIM
+db-key(2)/key: 113500
+db-key(3)/db: OMIM
+db-key(3)/key: 168400
+db-key(4)/db: OMIM
+db-key(4)/key: 181405
+db-key(5)/db: OMIM
+db-key(5)/key: 184095
+db-key(6)/db: OMIM
+db-key(6)/key: 184252
+db-key(7)/db: OMIM
+db-key(7)/key: 600175
+db-key(8)/db: OMIM
+db-key(8)/key: 605427
+db-key(9)/db: OMIM
+db-key(9)/key: 606835
+db-key(10)/db: OMIM
+db-key(10)/key: 606963
+db-key(11)/db: OMIM
+db-key(11)/key: 613678
+reviewed: 2013-03
+published: 2018-04-17

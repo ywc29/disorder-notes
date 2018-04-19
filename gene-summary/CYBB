@@ -1,0 +1,24 @@
+gene-symbol: CYBB
+name: cytochrome b-245 beta chain
+ghr-page: https://ghr.nlm.nih.gov/gene/CYBB
+text/text-role: function
+text/html: <p>The <i>CYBB</i> gene provides instructions for making a protein called cytochrome b-245, beta chain (also known as p91-phox). This protein is one part (subunit) of a group of proteins that forms an enzyme complex called NADPH oxidase, which plays an essential role in the immune system. Within this complex, the cytochrome b-245, beta chain has an alpha chain partner (produced from the <i>CYBA</i> gene). Both alpha and beta chains are required for either to function and the NADPH oxidase complex requires both chains in order to be functional. NADPH oxidase is primarily active in immune system cells called phagocytes. These cells catch and destroy foreign invaders such as bacteria and fungi. NADPH oxidase is also thought to regulate the activity of immune cells called neutrophils. These cells play a role in adjusting the inflammatory response to optimize healing and reduce injury to the body.</p><p>The presence of foreign invaders stimulates phagocytes and triggers the assembly of NADPH oxidase. This enzyme participates in a chemical reaction that converts oxygen to a toxic molecule called superoxide. Superoxide is used to generate several other compounds, including hydrogen peroxide (a strong disinfectant) and hypochlorous acid (the active ingredient in bleach). These highly reactive, toxic substances are known as reactive oxygen species. Phagocytes use these substances to kill foreign invaders, preventing them from reproducing in the body and causing illness.</p>
+related-health-condition/name: chronic granulomatous disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/chronic-granulomatous-disease
+synonym(1): CGD91-phox
+synonym(2): CY24B_HUMAN
+synonym(3): cytochrome b-245 heavy chain
+synonym(4): cytochrome b-245, beta polypeptide
+synonym(5): cytochrome b(558) subunit beta
+synonym(6): cytochrome b558 subunit beta
+synonym(7): GP91-1
+synonym(8): GP91PHOX
+synonym(9): neutrophil cytochrome b 91 kDa polypeptide
+synonym(10): p91-PHOX
+synonym(11): superoxide-generating NADPH oxidase heavy chain subunit
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1536
+db-key(2)/db: OMIM
+db-key(2)/key: 300481
+reviewed: 2012-08
+published: 2018-04-17

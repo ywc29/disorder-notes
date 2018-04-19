@@ -1,0 +1,25 @@
+name: SATB2-associated syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/satb2-associated-syndrome
+text/text-role: description
+text/html: <p><i>SATB2</i>-associated syndrome is a condition that affects several body systems. It is characterized by intellectual disability, severe speech problems, dental abnormalities, other abnormalities of the head and face (craniofacial anomalies), and behavioral problems. Some of the common features can be described using the acronym SATB2 (which is the name of the gene involved in the condition): severe speech anomalies, abnormalities of the palate, teeth anomalies, behavioral issues with or without bone or brain anomalies, and onset before age 2.</p><p>Individuals with <i>SATB2</i>-associated syndrome typically have mild to severe intellectual disability, and their ability to speak is delayed or absent. Development of motor skills, such as rolling over, sitting, and walking, can also be delayed. Many affected individuals have behavioral problems, including hyperactivity and aggression. Some exhibit autistic behaviors, such as repetitive movements. A happy or overfriendly personality is also common among individuals with <i>SATB2</i>-associated syndrome. Less common neurological problems include feeding difficulties and weak muscle tone (hypotonia) in infancy. About half of affected individuals have abnormalities in the structure of the brain.</p><p>The most common craniofacial anomalies in people with <i>SATB2</i>-associated syndrome are a high arch or an opening in the roof of the mouth (high-arched or cleft palate), a small lower jaw (micrognathia), and dental abnormalities, which can include abnormally sized or shaped teeth, extra (supernumerary) teeth, or missing teeth (oligodontia). Some people with <i>SATB2</i>-associated syndrome have other unusual facial features, such as a prominent forehead, low-set ears, or a large area between the nose and mouth (a long philtrum).</p><p>Less-commonly affected are the heart, genitals and urinary tract (genitourinary tract), skin, and hair.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene/gene-symbol: SATB2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SATB2
+related-chromosome/name: 2
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/2
+synonym(1): 2q32 deletion syndrome
+synonym(2): 2q33.1 microdeletion syndrome
+synonym(3): chromosome 2q32-q33 deletion syndrome
+synonym(4): Glass syndrome
+synonym(5): SAS
+db-key(1)/db: GTR
+db-key(1)/key: C2676739
+db-key(2)/db: GeneReviews
+db-key(2)/key: satb2-dis
+db-key(3)/db: MeSH
+db-key(3)/key: D008607
+db-key(4)/db: OMIM
+db-key(4)/key: 612313
+reviewed: 2017-02
+published: 2018-04-17

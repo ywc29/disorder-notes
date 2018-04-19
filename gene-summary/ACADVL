@@ -1,0 +1,19 @@
+gene-symbol: ACADVL
+name: acyl-CoA dehydrogenase very long chain
+ghr-page: https://ghr.nlm.nih.gov/gene/ACADVL
+text/text-role: function
+text/html: <p>The <i>ACADVL</i> gene provides instructions for making an enzyme called very long-chain acyl-CoA dehydrogenase (VLCAD). This enzyme functions within mitochondria, the energy-producing centers in cells. Very long-chain acyl-CoA dehydrogenase is essential for fatty acid oxidation, which is the multistep process that breaks down (metabolizes) fats and converts them to energy.</p><p>Very long-chain acyl-CoA dehydrogenase is required to metabolize a group of fats called very long-chain fatty acids. These fatty acids are found in food and body fat. Fatty acids are a major source of energy for the heart and muscles. During periods without food (fasting), fatty acids are also an important energy source for the liver and other tissues.</p>
+related-health-condition/name: very long-chain acyl-CoA dehydrogenase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/very-long-chain-acyl-coa-dehydrogenase-deficiency
+synonym(1): ACAD6
+synonym(2): ACADV_HUMAN
+synonym(3): acyl-CoA dehydrogenase, very long chain
+synonym(4): acyl-coenzyme A dehydrogenase, very long chain
+synonym(5): LCACD
+synonym(6): VLCAD
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 37
+db-key(2)/db: OMIM
+db-key(2)/key: 609575
+reviewed: 2009-11
+published: 2018-04-17

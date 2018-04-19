@@ -1,0 +1,25 @@
+name: Apert syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/apert-syndrome
+text/text-role: description
+text/html: <p>Apert syndrome is a genetic disorder characterized by the premature fusion of certain skull bones (craniosynostosis).  This early fusion prevents the skull from growing normally and affects the shape of the head and face. In addition, a varied number of fingers and toes are fused together (syndactyly).</p><p>Many of the characteristic facial features of Apert syndrome result from the premature fusion of the skull bones. The head is unable to grow normally, which leads to a sunken appearance in the middle of the face, bulging and wide-set eyes, a beaked nose, and an underdeveloped upper jaw leading to crowded teeth and other dental problems. Shallow eye sockets can cause vision problems. Early fusion of the skull bones also affects the development of the brain, which can disrupt intellectual development. Cognitive abilities in people with Apert syndrome range from normal to mild or moderate intellectual disability.</p><p>Individuals with Apert syndrome have webbed or fused fingers and toes. The severity of the fusion varies; at a minimum, three digits on each hand and foot are fused together. In the most severe cases, all of the fingers and toes are fused.  Less commonly, people with this condition may have extra fingers or toes (polydactyly).  Additional signs and symptoms of Apert syndrome can include hearing loss, unusually heavy sweating (hyperhidrosis), oily skin with severe acne, patches of missing hair in the eyebrows, fusion of spinal bones in the neck (cervical vertebrae), and recurrent ear infections that may be associated with an opening in the roof of the mouth (a cleft palate).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FGFR2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR2
+synonym: Acrocephalosyndactyly (Apert)
+db-key(1)/db: GTR
+db-key(1)/key: C0001193
+db-key(2)/db: GeneReviews
+db-key(2)/key: craniosynostosis
+db-key(3)/db: MeSH
+db-key(3)/key: D000168
+db-key(4)/db: OMIM
+db-key(4)/key: 101200
+db-key(5)/db: Orphanet
+db-key(5)/key: 87
+db-key(6)/db: Orphanet
+db-key(6)/key: 1531
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 205258009
+reviewed: 2008-02
+published: 2018-04-17

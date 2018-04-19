@@ -1,0 +1,22 @@
+gene-symbol: EIF2B5
+name: eukaryotic translation initiation factor 2B subunit epsilon
+ghr-page: https://ghr.nlm.nih.gov/gene/EIF2B5
+text/text-role: function
+text/html: <p>The <i>EIF2B5</i> gene provides instructions for making one of five parts of a protein called eIF2B, specifically the epsilon subunit of this protein. The eIF2B protein helps regulate overall protein production (synthesis) in the cell by interacting with another protein, eIF2. The eIF2 protein is called an initiation factor because it is involved in starting (initiating) protein synthesis.</p><p>Under some conditions, eIF2B increases protein synthesis by helping to recycle molecules called GTP, which carry energy to the initiation factor. Under other conditions, it slows protein synthesis by binding tightly to the initiation factor, which converts the eIF2B protein into an inactive form and prevents recycling of GTP.</p><p>Proper regulation of protein synthesis is vital for ensuring that the correct levels of protein are available for the cell to cope with changing conditions. For example, cells must synthesize protein much faster if they are multiplying than if they are in a resting state.</p>
+related-health-condition/name: leukoencephalopathy with vanishing white matter
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/leukoencephalopathy-with-vanishing-white-matter
+synonym(1): CACH
+synonym(2): CLE
+synonym(3): EI2BE_HUMAN
+synonym(4): EIF-2B
+synonym(5): eIF-2B GDP-GTP exchange factor
+synonym(6): EIF2Bepsilon
+synonym(7): eukaryotic translation initiation factor 2B, subunit 5 (epsilon, 82kD)
+synonym(8): eukaryotic translation initiation factor 2B, subunit 5 epsilon, 82kDa
+synonym(9): LVWM
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8893
+db-key(2)/db: OMIM
+db-key(2)/key: 603945
+reviewed: 2007-10
+published: 2018-04-17

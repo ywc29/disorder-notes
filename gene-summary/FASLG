@@ -1,0 +1,8 @@
+gene-symbol: FASLG
+name: Fas ligand
+ghr-page: https://ghr.nlm.nih.gov/gene/FASLG
+related-health-condition/name: autoimmune lymphoproliferative syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autoimmune-lymphoproliferative-syndrome
+db-key/db: NCBI Gene
+db-key/key: 356
+published: 2018-04-17

@@ -1,0 +1,25 @@
+name: Paramyotonia congenita
+ghr-page: https://ghr.nlm.nih.gov/condition/paramyotonia-congenita
+text/text-role: description
+text/html: <p>Paramyotonia congenita is a disorder that affects muscles used for movement (skeletal muscles). Beginning in infancy or early childhood, people with this condition experience bouts of sustained muscle tensing (myotonia) that prevent muscles from relaxing normally. Myotonia causes muscle stiffness that typically appears after exercise and can be induced by muscle cooling. This stiffness chiefly affects muscles in the face, neck, arms, and hands, although it can also affect muscles used for breathing and muscles in the lower body. Unlike many other forms of myotonia, the muscle stiffness associated with paramyotonia congenita tends to worsen with repeated movements.</p><p>Most people—even those without muscle disease—feel that their muscles do not work as well when they are cold. This effect is dramatic in people with paramyotonia congenita. Exposure to cold initially causes muscle stiffness in these individuals, and prolonged cold exposure leads to temporary episodes of mild to severe muscle weakness that may last for several hours at a time. Some older people with paramyotonia congenita develop permanent muscle weakness that can be disabling.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SCN4A
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SCN4A
+synonym(1): Eulenburg disease
+synonym(2): paralysis periodica paramyotonia
+synonym(3): paramyotonia congenita of von Eulenburg
+synonym(4): PMC
+synonym(5): Von Eulenberg's disease
+db-key(1)/db: GTR
+db-key(1)/key: C0221055
+db-key(2)/db: MeSH
+db-key(2)/key: D020967
+db-key(3)/db: OMIM
+db-key(3)/key: 168300
+db-key(4)/db: Orphanet
+db-key(4)/key: 684
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 41574007
+reviewed: 2015-08
+published: 2018-04-17

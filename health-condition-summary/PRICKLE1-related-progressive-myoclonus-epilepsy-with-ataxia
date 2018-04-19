@@ -1,0 +1,27 @@
+name: PRICKLE1-related progressive myoclonus epilepsy with ataxia
+ghr-page: https://ghr.nlm.nih.gov/condition/prickle1-related-progressive-myoclonus-epilepsy-with-ataxia
+text/text-role: description
+text/html: <p><i>PRICKLE1</i>-related progressive myoclonus epilepsy with ataxia is a rare inherited condition characterized by recurrent seizures (epilepsy) and problems with movement. The signs and symptoms of this disorder usually begin between the ages of 5 and 10.</p><p>Problems with balance and coordination (ataxia) are usually the first symptoms of <i>PRICKLE1</i>-related progressive myoclonus epilepsy with ataxia. Affected children often have trouble walking. Their gait is unbalanced and wide-based, and they may fall frequently. Later, children with this condition develop episodes of involuntary muscle jerking or twitching (myoclonus), which cause additional problems with movement. Myoclonus can also affect muscles in the face, leading to difficulty swallowing and slurred speech (dysarthria).</p><p>Beginning later in childhood, some affected individuals develop tonic-clonic or grand mal seizures. These seizures involve a loss of consciousness, muscle rigidity, and convulsions. They often occur at night (nocturnally) while the person is sleeping.</p><p><i>PRICKLE1</i>-related progressive myoclonus epilepsy with ataxia does not seem to affect intellectual ability. Although a few affected individuals have died in childhood, many have lived into adulthood.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: PRICKLE1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PRICKLE1
+synonym(1): EPM1B
+synonym(2): PME with ataxia
+synonym(3): PRICKLE1-related progressive myoclonic epilepsy with ataxia
+synonym(4): progressive myoclonic epilepsy 1B
+synonym(5): progressive myoclonus epilepsy with ataxia
+db-key(1)/db: GTR
+db-key(1)/key: C2676254
+db-key(2)/db: GeneReviews
+db-key(2)/key: me-ataxia
+db-key(3)/db: MeSH
+db-key(3)/key: D020191
+db-key(4)/db: OMIM
+db-key(4)/key: 612437
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 702326000
+reviewed: 2011-12
+published: 2018-04-17

@@ -1,0 +1,23 @@
+gene-symbol: KCNK9
+name: potassium two pore domain channel subfamily K member 9
+ghr-page: https://ghr.nlm.nih.gov/gene/KCNK9
+text/text-role: function
+text/html: <p>The <i>KCNK9</i> gene provides instructions for making a protein called TASK3, which functions as a potassium channel. Potassium channels transport positively charged atoms (ions) of potassium into and out of cells.</p><p>TASK3 channels are found throughout the body. They are especially abundant in nerve cells (neurons) in the brain, particularly the region of the brain that coordinates movement (cerebellum). The flow of ions through potassium channels in neurons is involved in activating (exciting) the neurons and sending electrical signals in the brain. Unlike some potassium channels that open and close in response to certain triggers, TASK3 channels are always open, although their activity can be controlled by the environment surrounding the cell. Because the channels are always open, they are often called background or leak channels. TASK3 channels maintain the cell's ability to generate electrical signals and regulate the activity (excitability) of cells. These channels also appear to play a role in the movement (migration) of certain neurons in the brain.</p><p>People inherit two copies of their genes, one from their mother and one from their father. Usually both copies of each gene are active, or "turned on," in cells. For some genes, however, only one of the two copies is normally turned on. Which copy is active depends on the parent of origin: some genes are normally active only when they are inherited from a person's father; others are active only when inherited from a person's mother. This phenomenon is known as genomic imprinting. The <i>KCNK9</i> gene is a maternally expressed imprinted gene, which means that only the copy of the gene that comes from the mother is active. The copy of the gene that comes from the father is turned off (silenced).</p>
+related-health-condition/name: KCNK9 imprinting syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/kcnk9-imprinting-syndrome
+synonym(1): acid-sensitive potassium channel protein TASK-3
+synonym(2): K2p9.1
+synonym(3): KT3.2
+synonym(4): potassium channel subfamily K member 9
+synonym(5): potassium channel, two pore domain subfamily K, member 9
+synonym(6): TASK-3
+synonym(7): TASK3
+synonym(8): TWIK-related acid-sensitive K(+) channel 3
+synonym(9): two pore K(+) channel KT3.2
+synonym(10): two pore potassium channel KT3.2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51305
+db-key(2)/db: OMIM
+db-key(2)/key: 605874
+reviewed: 2017-06
+published: 2018-04-17

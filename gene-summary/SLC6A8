@@ -1,0 +1,23 @@
+gene-symbol: SLC6A8
+name: solute carrier family 6 member 8
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC6A8
+text/text-role: function
+text/html: <p>The <i>SLC6A8</i> gene provides instructions for making a protein called sodium- and chloride-dependent creatine transporter 1. This protein transports the compound creatine into cells. Creatine is needed for the body to store and use energy properly.</p>
+related-health-condition/name: X-linked creatine deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-creatine-deficiency
+synonym(1): creatine transporter 1
+synonym(2): creatine transporter SLC6A8
+synonym(3): CRT
+synonym(4): CRTR
+synonym(5): CT1
+synonym(6): MGC87396
+synonym(7): SC6A8_HUMAN
+synonym(8): sodium- and chloride-dependent creatine transporter 1
+synonym(9): solute carrier family 6 (neurotransmitter transporter), member 8
+synonym(10): solute carrier family 6 (neurotransmitter transporter, creatine), member 8
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6535
+db-key(2)/db: OMIM
+db-key(2)/key: 300036
+reviewed: 2015-06
+published: 2018-04-17

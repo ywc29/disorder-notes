@@ -1,0 +1,33 @@
+name: Hyperkalemic periodic paralysis
+ghr-page: https://ghr.nlm.nih.gov/condition/hyperkalemic-periodic-paralysis
+text/text-role: description
+text/html: <p>Hyperkalemic periodic paralysis is a condition that causes episodes of extreme muscle weakness or paralysis, usually beginning in infancy or early childhood. Most often, these episodes involve a temporary inability to move muscles in the arms and legs. Episodes tend to increase in frequency until mid-adulthood, after which they occur less frequently. Factors that can trigger attacks include rest after exercise, potassium-rich foods such as bananas and potatoes, stress, fatigue, alcohol, pregnancy, exposure to cold temperatures, certain medications, and periods without food (fasting). Muscle strength usually returns to normal between attacks, although many affected people continue to experience mild stiffness (myotonia), particularly in muscles of the face and hands.</p><p>Most people with hyperkalemic periodic paralysis have increased levels of potassium in their blood (hyperkalemia) during attacks. Hyperkalemia results when the weak or paralyzed muscles release potassium ions into the bloodstream. In other cases, attacks are associated with normal blood potassium levels (normokalemia). Ingesting potassium can trigger attacks in affected individuals, even if blood potassium levels do not go up.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SCN4A
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SCN4A
+synonym(1): adynamia episodica hereditaria
+synonym(2): familial hyperkalemic periodic paralysis
+synonym(3): Gamstorp disease
+synonym(4): Gamstorp episodic adynamy
+synonym(5): hyperKPP
+synonym(6): hyperPP
+synonym(7): primary hyperkalemic periodic paralysis
+db-key(1)/db: GTR
+db-key(1)/key: C0238357
+db-key(2)/db: GTR
+db-key(2)/key: CN074266
+db-key(3)/db: GeneReviews
+db-key(3)/key: hyper-pp
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: G72.3
+db-key(5)/db: MeSH
+db-key(5)/key: D020513
+db-key(6)/db: OMIM
+db-key(6)/key: 170500
+db-key(7)/db: Orphanet
+db-key(7)/key: 682
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 304737009
+reviewed: 2013-08
+published: 2018-04-17

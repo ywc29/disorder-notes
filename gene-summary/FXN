@@ -1,0 +1,21 @@
+gene-symbol: FXN
+name: frataxin
+ghr-page: https://ghr.nlm.nih.gov/gene/FXN
+text/text-role: function
+text/html: <p>The <i>FXN</i> gene provides instructions for making a protein called frataxin. This protein is found in cells throughout the body, with the highest levels in the heart, spinal cord, liver, pancreas, and muscles used for voluntary movement (skeletal muscles). Within cells, frataxin is found in energy-producing structures called mitochondria. Although its function is not fully understood, frataxin appears to help assemble clusters of iron and sulfur molecules that are critical for the function of many proteins, including those needed for energy production.</p><p>One region of the <i>FXN</i> gene contains a segment of DNA known as a GAA trinucleotide repeat. This segment is made up of a series of three DNA building blocks (one guanine and two adenines) that appear multiple times in a row. In most people, the number of GAA repeats in the <i>FXN</i> gene is fewer than 12 (referred to as short normal). Sometimes, however, the GAA segment is repeated 12 to 33 times (referred to as long normal).</p>
+related-health-condition/name: Friedreich ataxia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/friedreich-ataxia
+synonym(1): CyaY
+synonym(2): FA
+synonym(3): FARR
+synonym(4): FRDA
+synonym(5): FRDA_HUMAN
+synonym(6): Friedreich ataxia
+synonym(7): MGC57199
+synonym(8): X25
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2395
+db-key(2)/db: OMIM
+db-key(2)/key: 606829
+reviewed: 2010-05
+published: 2018-04-17

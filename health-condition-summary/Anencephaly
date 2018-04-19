@@ -1,0 +1,38 @@
+name: Anencephaly
+ghr-page: https://ghr.nlm.nih.gov/condition/anencephaly
+text/text-role: description
+text/html: <p>Anencephaly is a condition that prevents the normal development of the brain and the bones of the skull. This condition results when a structure called the neural tube fails to close during the first few weeks of embryonic development. The neural tube is a layer of cells that ultimately develops into the brain and spinal cord. Because anencephaly is caused by abnormalities of the neural tube, it is classified as a neural tube defect.</p><p>Because the neural tube fails to close properly, the developing brain and spinal cord are exposed to the amniotic fluid that surrounds the fetus in the womb. This exposure causes the nervous system tissue to break down (degenerate). As a result, people with anencephaly are missing large parts of the brain called the cerebrum and cerebellum. These brain regions are necessary for thinking, hearing, vision, emotion, and coordinating movement. The bones of the skull are also missing or incompletely formed.</p><p>Because these nervous system abnormalities are so severe, almost all babies with anencephaly die before birth or within a few hours or days after birth.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene/gene-symbol: MTHFR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MTHFR
+synonym(1): anencephalia
+synonym(2): anencephalus
+synonym(3): aprosencephaly
+synonym(4): congenital absence of brain
+db-key(1)/db: GTR
+db-key(1)/key: C0002902
+db-key(2)/db: GTR
+db-key(2)/key: C0027794
+db-key(3)/db: GTR
+db-key(3)/key: C1866558
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: Q00.0
+db-key(5)/db: MeSH
+db-key(5)/key: D000757
+db-key(6)/db: OMIM
+db-key(6)/key: 182940
+db-key(7)/db: OMIM
+db-key(7)/key: 206500
+db-key(8)/db: OMIM
+db-key(8)/key: 601634
+db-key(9)/db: Orphanet
+db-key(9)/key: 1048
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 277922001
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 85641006
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 89369001
+reviewed: 2014-11
+published: 2018-04-17

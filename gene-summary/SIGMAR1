@@ -1,0 +1,8 @@
+gene-symbol: SIGMAR1
+name: sigma non-opioid intracellular receptor 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SIGMAR1
+related-health-condition/name: amyotrophic lateral sclerosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
+db-key/db: NCBI Gene
+db-key/key: 10280
+published: 2018-04-17

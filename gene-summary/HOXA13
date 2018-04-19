@@ -1,0 +1,22 @@
+gene-symbol: HOXA13
+name: homeobox A13
+ghr-page: https://ghr.nlm.nih.gov/gene/HOXA13
+text/text-role: function
+text/html: <p>The <i>HOXA13</i> gene provides instructions for producing a protein that attaches (binds) to specific regions of DNA and regulates the activity of other genes. On the basis of this role, the <i>HOXA13</i> gene is called a transcription factor. The <i>HOXA13</i> gene is part of a larger family of transcription factors called homeobox genes, which act during early embryonic development to control the formation of many body structures. Specifically, the HOXA13 protein appears to be critical for the formation and development of the limbs (particularly the hands and feet), urinary tract, and reproductive system.</p><p>The <i>HOXA13</i> gene contains three areas where a protein building block (amino acid) called alanine is repeated multiple times. These stretches of alanines are known as polyalanine tracts or poly(A) tracts. The role of polyalanine tracts in normal HOXA13 function is unknown.</p>
+related-health-condition/name: hand-foot-genital syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hand-foot-genital-syndrome
+synonym(1): homeo box 1J
+synonym(2): homeo box A13
+synonym(3): Homeobox protein Hox-A13
+synonym(4): homeobox protein HOXA13
+synonym(5): Hox-1J
+synonym(6): HOX1
+synonym(7): HOX1J
+synonym(8): HXA13_HUMAN
+synonym(9): transcription factor HOXA13
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3209
+db-key(2)/db: OMIM
+db-key(2)/key: 142959
+reviewed: 2008-04
+published: 2018-04-17

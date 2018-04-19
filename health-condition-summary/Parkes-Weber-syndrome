@@ -1,0 +1,24 @@
+name: Parkes Weber syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/parkes-weber-syndrome
+text/text-role: description
+text/html: <p>Parkes Weber syndrome is a disorder of the vascular system, which is the body's complex network of blood vessels. The vascular system consists of arteries, which carry oxygen-rich blood from the heart to the body's various organs and tissues; veins, which carry blood back to the heart; and capillaries, which are tiny blood vessels that connect arteries and veins.</p><p>Parkes Weber syndrome is characterized by vascular abnormalities known as capillary malformations and arteriovenous fistulas (AVFs), which are present from birth. The capillary malformations increase blood flow near the surface of the skin. They usually look like large, flat, pink stains on the skin, and because of their color are sometimes called "port-wine stains." In people with Parkes Weber syndrome, capillary malformations occur together with multiple micro-AVFs, which are tiny abnormal connections between arteries and veins that affect blood circulation. These AVFs can be associated with life-threatening complications including abnormal bleeding and heart failure.</p><p>Another characteristic feature of Parkes Weber syndrome is overgrowth of one limb, most commonly a leg. Abnormal growth occurs in bones and soft tissues, making one of the limbs longer and larger around than the corresponding one.</p><p>Some vascular abnormalities seen in Parkes Weber syndrome are similar to those that occur in a condition called capillary malformation-arteriovenous malformation syndrome (CM-AVM). CM-AVM and some cases of Parkes Weber syndrome have the same genetic cause.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: RASA1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/RASA1
+synonym(1): Parkes-Weber syndrome
+synonym(2): PKWS
+db-key(1)/db: GTR
+db-key(1)/key: CN074207
+db-key(2)/db: GeneReviews
+db-key(2)/key: rasa1-rel-dis
+db-key(3)/db: MeSH
+db-key(3)/key: D054079
+db-key(4)/db: OMIM
+db-key(4)/key: 608355
+db-key(5)/db: Orphanet
+db-key(5)/key: 90307
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 234143003
+reviewed: 2011-08
+published: 2018-04-17

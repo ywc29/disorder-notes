@@ -1,0 +1,28 @@
+gene-symbol: PORCN
+name: porcupine O-acyltransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/PORCN
+text/text-role: function
+text/html: <p>The <i>PORCN</i> gene provides instructions for making a protein that belongs to a group of related proteins called the porcupine (Porc) family. Although the precise function of the PORCN protein is unknown, proteins in the Porc family are involved in the process of transferring a molecule called palmitoleic acid to Wnt proteins. Wnt proteins participate in chemical signaling pathways in the body and play critical roles in development before birth. Members of the Porc family are located in the endoplasmic reticulum, which is a structure inside the cell that is involved in protein processing and transport. The transfer of palmitoleic acid to Wnt proteins facilitates the release of these proteins from the cell so they can regulate development of the skin, bones, and other structures. Researchers are working to determine the specific role of the PORCN protein within human cells.</p>
+related-health-condition/name: focal dermal hypoplasia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/focal-dermal-hypoplasia
+synonym(1): DHOF
+synonym(2): FODH
+synonym(3): MG61
+synonym(4): MGC29687
+synonym(5): por
+synonym(6): PORC
+synonym(7): PORCN_HUMAN
+synonym(8): porcupine
+synonym(9): porcupine homolog (Drosophila)
+synonym(10): porcupine isoform A
+synonym(11): porcupine isoform B
+synonym(12): porcupine isoform C
+synonym(13): porcupine isoform D
+synonym(14): porcupine isoform E
+synonym(15): PPN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 64840
+db-key(2)/db: OMIM
+db-key(2)/key: 300651
+reviewed: 2009-05
+published: 2018-04-17

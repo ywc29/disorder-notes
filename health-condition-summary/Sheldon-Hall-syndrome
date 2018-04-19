@@ -1,0 +1,32 @@
+name: Sheldon-Hall syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/sheldon-hall-syndrome
+text/text-role: description
+text/html: <p>Sheldon-Hall syndrome, also known as distal arthrogryposis type 2B, is a disorder characterized by joint deformities (contractures) that restrict movement in the hands and feet. The term "arthrogryposis" comes from the Greek words for joint (arthro-) and crooked or hooked (gryposis). "Distal" refers to areas of the body away from the center. The characteristic features of this condition include permanently bent fingers and toes (camptodactyly), overlapping fingers, and a hand deformity called ulnar deviation in which all of the fingers are angled outward toward the fifth (pinky) finger. Inward- and upward-turning feet (a condition called clubfoot) is also commonly seen in Sheldon-Hall syndrome. The specific hand and foot abnormalities vary among affected individuals; the abnormalities are present at birth and generally do not get worse over time.</p><p>People with Sheldon-Hall syndrome also usually have distinctive facial features, which include a triangular face; outside corners of the eyes that point downward (down-slanting palpebral fissures); deep folds in the skin between the nose and lips (nasolabial folds); and a small mouth with a high, arched roof of the mouth (palate). Other features that may occur in Sheldon-Hall syndrome include extra folds of skin on the neck (webbed neck) and short stature.</p><p>Sheldon-Hall syndrome does not usually affect other parts of the body, and intelligence and life expectancy are normal in this disorder.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: MYH3
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/MYH3
+related-gene(2)/gene-symbol: TNNI2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/TNNI2
+related-gene(3)/gene-symbol: TNNT3
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/TNNT3
+related-gene(4)/gene-symbol: TPM2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/TPM2
+synonym(1): arthrogryposis multiplex congenita, distal, type 2B
+synonym(2): DA2B
+synonym(3): distal arthrogryposis type 2B
+synonym(4): SHS
+db-key(1)/db: GTR
+db-key(1)/key: C1834523
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: Q74.3
+db-key(3)/db: MeSH
+db-key(3)/key: D001176
+db-key(4)/db: OMIM
+db-key(4)/key: 601680
+db-key(5)/db: Orphanet
+db-key(5)/key: 1147
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 715216008
+reviewed: 2015-06
+published: 2018-04-17

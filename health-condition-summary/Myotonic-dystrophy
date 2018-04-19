@@ -1,0 +1,41 @@
+name: Myotonic dystrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/myotonic-dystrophy
+text/text-role: description
+text/html: <p>Myotonic dystrophy is part of a group of inherited disorders called muscular dystrophies. It is the most common form of muscular dystrophy that begins in adulthood.</p><p>Myotonic dystrophy is characterized by progressive muscle wasting and weakness. People with this disorder often have prolonged muscle contractions (myotonia) and are not able to relax certain muscles after use. For example, a person may have difficulty releasing their grip on a doorknob or handle. Also, affected people may have slurred speech or temporary locking of their jaw.</p><p>Other signs and symptoms of myotonic dystrophy include clouding of the lens of the eye (cataracts) and abnormalities of the electrical signals that control the heartbeat (cardiac conduction defects). In affected men, hormonal changes may lead to early balding and an inability to father a child (infertility). The features of this disorder often develop during a person's twenties or thirties, although they can occur at any age. The severity of the condition varies widely among affected people, even among members of the same family.</p><p>There are two major types of myotonic dystrophy: type 1 and type 2. Their signs and symptoms overlap, although type 2 tends to be milder than type 1. The muscle weakness associated with type 1 particularly affects the lower legs, hands, neck, and face. Muscle weakness in type 2 primarily involves the muscles of the neck, shoulders, elbows, and hips. The two types of myotonic dystrophy are caused by mutations in different genes.</p><p>A variation of type 1 myotonic dystrophy, called congenital myotonic dystrophy, is apparent at birth. Characteristic features include weak muscle tone (hypotonia), an inward- and upward-turning foot (clubfoot), breathing problems, delayed development, and intellectual disability. Some of these health problems can be life-threatening.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CNBP
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CNBP
+related-gene(2)/gene-symbol: DMPK
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/DMPK
+synonym(1): dystrophia myotonica
+synonym(2): myotonia atrophica
+synonym(3): myotonia dystrophica
+db-key(1)/db: GTR
+db-key(1)/key: C0027126
+db-key(2)/db: GTR
+db-key(2)/key: C2931689
+db-key(3)/db: GeneReviews
+db-key(3)/key: myotonic-d
+db-key(4)/db: GeneReviews
+db-key(4)/key: myotonic-d2
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: G71.11
+db-key(6)/db: MeSH
+db-key(6)/key: D009223
+db-key(7)/db: OMIM
+db-key(7)/key: 160900
+db-key(8)/db: OMIM
+db-key(8)/key: 602668
+db-key(9)/db: Orphanet
+db-key(9)/key: 273
+db-key(10)/db: Orphanet
+db-key(10)/key: 606
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 195031006
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 240104008
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 77956009
+reviewed: 2010-11
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: POGZ
+name: pogo transposable element derived with ZNF domain
+ghr-page: https://ghr.nlm.nih.gov/gene/POGZ
+text/text-role: function
+text/html: <p>The <i>POGZ</i> gene provides instructions for making a protein that is found in the cell nucleus, including in brain cells before and just after birth. The POGZ protein is part of a group known as zinc finger proteins, which contain one or more short regions called zinc finger domains. These regions include a specific pattern of protein building blocks (amino acids) and one or more charged atoms of zinc (zinc ions). The folded configuration of the zinc finger domain stabilizes the protein and allows it to attach (bind) to other molecules.</p><p>The POGZ protein binds to complexes called chromatin, the network of DNA and proteins that packages DNA into chromosomes. Binding with the POGZ protein helps change the structure of chromatin (chromatin remodeling) to alter how tightly regions of DNA are packaged. Chromatin remodeling is one way gene activity (expression) is regulated; when DNA is tightly packed gene expression is lower than when DNA is loosely packed. Regulation of gene expression by the POGZ protein is thought to be important to brain development, but the specific role of POGZ is unknown.</p>
+related-health-condition/name: autism spectrum disorder
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autism-spectrum-disorder
+synonym(1): KIAA0461
+synonym(2): MRD37
+synonym(3): putative protein product of Nbla00003
+synonym(4): WHSUS
+synonym(5): zinc finger protein 280E
+synonym(6): zinc finger protein 635
+synonym(7): ZNF280E
+synonym(8): ZNF635
+synonym(9): ZNF635m
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23126
+db-key(2)/db: OMIM
+db-key(2)/key: 614787
+reviewed: 2017-06
+published: 2018-04-17

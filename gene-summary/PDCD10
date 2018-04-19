@@ -1,0 +1,18 @@
+gene-symbol: PDCD10
+name: programmed cell death 10
+ghr-page: https://ghr.nlm.nih.gov/gene/PDCD10
+text/text-role: function
+text/html: <p>The <i>PDCD10</i> gene (also known as <i>CCM3</i>) provides instructions for making a protein that appears to play a role in the structure of blood vessels. While the exact function of the PDCD10 protein is unclear, studies suggest that it works with other proteins to help strengthen the interactions between cells and limit leakage from blood vessels. This protein is also thought to be involved in pathways that signal cells to self-destruct (undergo apoptosis) when they have completed a certain number of cell divisions or accumulated errors in their DNA.</p>
+related-health-condition/name: cerebral cavernous malformation
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cerebral-cavernous-malformation
+synonym(1): apoptosis-related protein 15
+synonym(2): CCM3
+synonym(3): cerebral cavernous malformation 3
+synonym(4): PDC10_HUMAN
+synonym(5): TFAR15
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 11235
+db-key(2)/db: OMIM
+db-key(2)/key: 609118
+reviewed: 2012-11
+published: 2018-04-17

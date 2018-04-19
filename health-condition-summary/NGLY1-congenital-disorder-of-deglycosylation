@@ -1,0 +1,21 @@
+name: NGLY1-congenital disorder of deglycosylation
+ghr-page: https://ghr.nlm.nih.gov/condition/ngly1-congenital-disorder-of-deglycosylation
+text/text-role: description
+text/html: <p><i>NGLY1</i>-congenital disorder of deglycosylation (<i>NGLY1</i>-CDDG) is an inherited condition that affects many parts of the body. The severity of the signs and symptoms varies widely among people with the condition.</p><p>Individuals with <i>NGLY1</i>-CDDG typically develop features of the condition during infancy. They often have delayed development of speech and motor skills, such as sitting and walking, and weak muscle tone (hypotonia). Many affected individuals have movement abnormalities, such as uncontrolled movements of the limbs (choreoathetosis), and some develop seizures that are difficult to treat. Individuals with <i>NGLY1</i>-CDDG may also have problems with liver function. Some affected individuals have eye abnormalities, including degeneration of the nerves that carry information from the eyes to the brain (optic atrophy) and changes in the light-sensing tissue at the back of the eye (the retina). A reduction or absence of tears (hypolacrima or alacrima) is a common feature of <i>NGLY1</i>-CDDG.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: NGLY1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NGLY1
+synonym(1): congenital disorder of deglycosylation
+synonym(2): deficiency of N-glycanase 1
+synonym(3): NGLY1-CDDG
+db-key(1)/db: GTR
+db-key(1)/key: C3808991
+db-key(2)/db: GeneReviews
+db-key(2)/key: ngly1-cddg
+db-key(3)/db: MeSH
+db-key(3)/key: D002239
+db-key(4)/db: OMIM
+db-key(4)/key: 615273
+reviewed: 2017-08
+published: 2018-04-17

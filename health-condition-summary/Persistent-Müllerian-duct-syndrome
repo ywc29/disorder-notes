@@ -1,0 +1,24 @@
+name: Persistent Müllerian duct syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/persistent-mullerian-duct-syndrome
+text/text-role: description
+text/html: <p>Persistent Müllerian duct syndrome is a disorder of sexual development that affects males. Males with this disorder have normal male reproductive organs, though they also have a uterus and fallopian tubes, which are female reproductive organs. The uterus and fallopian tubes are derived from a structure called the Müllerian duct during development of the fetus. The Müllerian duct usually breaks down during early development in males, but it is retained in those with persistent Müllerian duct syndrome. Affected individuals have the normal chromosomes of a male (46,XY) and normal external male genitalia.</p><p>The first noted signs and symptoms in males with persistent Müllerian duct syndrome are usually undescended testes (cryptorchidism) or soft out-pouchings in the lower abdomen (inguinal hernias). The uterus and fallopian tubes are typically discovered when surgery is performed to treat these conditions.</p><p>The testes and female reproductive organs can be located in unusual positions in persistent Müllerian duct syndrome. Occasionally, both testes are undescended (bilateral cryptorchidism) and the uterus is in the pelvis. More often, one testis has descended into the scrotum normally, and one has not. Sometimes, the descended testis pulls the fallopian tube and uterus into the track through which it has descended. This creates a condition called hernia uteri inguinalis, a form of inguinal hernia. In other cases, the undescended testis from the other side of the body is also pulled into the same track, forming an inguinal hernia. This condition, called transverse testicular ectopia, is common in people with persistent Müllerian duct syndrome.</p><p>Other effects of persistent Müllerian duct syndrome may include the inability to father children (infertility) or blood in the semen (hematospermia). Also, the undescended testes may break down (degenerate) or develop cancer if left untreated.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: AMH
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AMH
+related-gene(2)/gene-symbol: AMHR2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/AMHR2
+synonym(1): persistent oviduct syndrome
+synonym(2): PMDS
+db-key(1)/db: GTR
+db-key(1)/key: C1849930
+db-key(2)/db: MeSH
+db-key(2)/key: D058490
+db-key(3)/db: OMIM
+db-key(3)/key: 261550
+db-key(4)/db: Orphanet
+db-key(4)/key: 2856
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 702358005
+reviewed: 2011-03
+published: 2018-04-17

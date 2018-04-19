@@ -1,0 +1,34 @@
+name: Argininosuccinic aciduria
+ghr-page: https://ghr.nlm.nih.gov/condition/argininosuccinic-aciduria
+text/text-role: description
+text/html: <p>Argininosuccinic aciduria is an inherited disorder that causes ammonia to accumulate in the blood. Ammonia, which is formed when proteins are broken down in the body, is toxic if the levels become too high. The nervous system is especially sensitive to the effects of excess ammonia.</p><p>Argininosuccinic aciduria usually becomes evident in the first few days of life. An infant with argininosuccinic aciduria may be lacking in energy (lethargic) or unwilling to eat, and have poorly controlled breathing rate or body temperature. Some babies with this disorder experience seizures or unusual body movements, or go into a coma. Complications from argininosuccinic aciduria may include developmental delay and intellectual disability. Progressive liver damage, skin lesions, and brittle hair may also be seen.</p><p>Occasionally, an individual may inherit a mild form of the disorder in which ammonia accumulates in the bloodstream only during periods of illness or other stress.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ASL
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ASL
+synonym(1): Argininosuccinate lyase deficiency
+synonym(2): argininosuccinic acidemia
+synonym(3): Argininosuccinicaciduria
+synonym(4): argininosuccinyl-CoA lyase deficiency
+synonym(5): arginosuccinase deficiency
+synonym(6): ASA
+synonym(7): ASAuria
+synonym(8): ASL deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0268547
+db-key(2)/db: GeneReviews
+db-key(2)/key: args-aciduria
+db-key(3)/db: GeneReviews
+db-key(3)/key: ucd-overview
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: E72.22
+db-key(5)/db: MeSH
+db-key(5)/key: D056807
+db-key(6)/db: OMIM
+db-key(6)/key: 207900
+db-key(7)/db: Orphanet
+db-key(7)/key: 23
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 41013004
+reviewed: 2007-03
+published: 2018-04-17

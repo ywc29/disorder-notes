@@ -1,0 +1,35 @@
+name: Type A insulin resistance syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/type-a-insulin-resistance-syndrome
+text/text-role: description
+text/html: <p>Type A insulin resistance syndrome is a rare disorder characterized by severe insulin resistance, a condition in which the body's tissues and organs do not respond properly to the hormone insulin. Insulin normally helps regulate blood sugar levels by controlling how much sugar (in the form of glucose) is passed from the bloodstream into cells to be used as energy. In people with type A insulin resistance syndrome, insulin resistance impairs blood sugar regulation and ultimately leads to a condition called diabetes mellitus, in which blood sugar levels can become dangerously high.</p><p>Severe insulin resistance also underlies the other signs and symptoms of type A insulin resistance syndrome. In affected females, the major features of the condition become apparent in adolescence. Many affected females do not begin menstruation by age 16 (primary amenorrhea) or their periods may be light and irregular (oligomenorrhea). They develop cysts on the ovaries and excessive body hair growth (hirsutism). Most affected females also develop a skin condition called acanthosis nigricans, in which the skin in body folds and creases becomes thick, dark, and velvety. Unlike most people with insulin resistance, females with type A insulin resistance syndrome are usually not overweight.</p><p>The features of type A insulin resistance syndrome are more subtle in affected males. Some males have low blood sugar (hypoglycemia) as the only sign; others may also have acanthosis nigricans. In many cases, males with this condition come to medical attention only when they develop diabetes mellitus in adulthood.</p><p>Type A insulin resistance syndrome is one of a group of related conditions described as inherited severe insulin resistance syndromes. These disorders, which also include Donohue syndrome and Rabson-Mendenhall syndrome, are considered part of a spectrum. Type A insulin resistance syndrome represents the mildest end of the spectrum: its features often do not become apparent until puberty or later, and it is generally not life-threatening.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: INSR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/INSR
+synonym(1): diabetes mellitus, insulin-resistant, with acanthosis nigricans
+synonym(2): extreme insulin resistance with acanthosis nigricans, hirsutism and abnormal insulin receptors
+synonym(3): insulin-resistance syndrome type A
+synonym(4): insulin resistance syndrome, type A
+synonym(5): insulin resistance - type A
+synonym(6): insulin-resistant diabetes mellitus and acanthosis nigricans
+synonym(7): type A insulin resistance
+db-key(1)/db: GTR
+db-key(1)/key: C0271690
+db-key(2)/db: GeneReviews
+db-key(2)/key: insr-ir
+db-key(3)/db: MeSH
+db-key(3)/key: D000052
+db-key(4)/db: MeSH
+db-key(4)/key: D007333
+db-key(5)/db: OMIM
+db-key(5)/key: 610549
+db-key(6)/db: Orphanet
+db-key(6)/key: 2297
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 237651005
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 24203005
+reviewed: 2014-12
+published: 2018-04-17

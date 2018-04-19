@@ -1,0 +1,26 @@
+name: Partington syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/partington-syndrome
+text/text-role: description
+text/html: <p>Partington syndrome is a neurological disorder that causes intellectual disability along with a condition called focal dystonia that particularly affects movement of the hands. Partington syndrome usually occurs in males; when it occurs in females, the signs and symptoms are often less severe.</p><p>The intellectual disability associated with Partington syndrome usually ranges from mild to moderate. Some affected individuals have characteristics of autism spectrum disorders that affect communication and social interaction. Recurrent seizures (epilepsy) may also occur in Partington syndrome.</p><p>Focal dystonia of the hands is a feature that distinguishes Partington syndrome from other intellectual disability syndromes. Dystonias are a group of movement problems characterized by involuntary, sustained muscle contractions; tremors; and other uncontrolled movements. The term "focal" refers to a type of dystonia that affects a single part of the body, in this case the hands. In Partington syndrome, focal dystonia of the hands, which is called the Partington sign, begins in early childhood and gradually gets worse. This condition typically causes difficulty with grasping movements or using a pen or pencil.</p><p>People with Partington syndrome may also have dystonia affecting other parts of the body; dystonia affecting the muscles in the face and those involved in speech may cause impaired speech (dysarthria). People with this disorder may also have an awkward way of walking (gait). Signs and symptoms can vary widely, even within the same family.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: ARX
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ARX
+synonym(1): MRX36
+synonym(2): Partington-Mulley syndrome
+synonym(3): Partington X-linked mental retardation syndrome
+synonym(4): PRTS
+synonym(5): X-linked intellectual deficit-dystonia-dysarthria
+synonym(6): X-linked mental retardation with dystonic movements, ataxia, and seizures
+db-key(1)/db: GTR
+db-key(1)/key: C0796250
+db-key(2)/db: MeSH
+db-key(2)/key: D038901
+db-key(3)/db: OMIM
+db-key(3)/key: 309510
+db-key(4)/db: Orphanet
+db-key(4)/key: 94083
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 702412005
+reviewed: 2017-08
+published: 2018-04-17

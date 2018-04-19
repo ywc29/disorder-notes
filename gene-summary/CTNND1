@@ -1,0 +1,25 @@
+gene-symbol: CTNND1
+name: catenin delta 1
+ghr-page: https://ghr.nlm.nih.gov/gene/CTNND1
+text/text-role: function
+text/html: <p>The <i>CTNND1</i> gene provides instructions for making a protein called p120-catenin, also known as delta 1 catenin. This protein and others in the catenin family interact with proteins from another family called cadherins. Catenins and cadherins form  protein complexes that help cells stick to neighboring cells (cell adhesion) to form organized tissues. In addition to their role in cell adhesion, catenin and cadherin interactions help transmit chemical signals within cells, control cell maturation and movement, and regulate the activity of certain genes.</p><p>The p120-catenin protein interacts with a protein called E-cadherin, which is produced from the <i>CDH1</i> gene. The E-cadherin protein is found within the membrane that surrounds epithelial cells, which are the cells that line the surfaces and cavities of the body, including the inside of the eyelids and the mouth. The p120-catenin protein helps keep E-cadherin in its proper place in the cell membrane, preventing it from being taken into the cell through a process called endocytosis and broken down prematurely. Interactions between the two proteins are also important for other cell processes that are involved in the development of the head and face (craniofacial development), including the eyelids and teeth.</p>
+related-health-condition/name: blepharocheilodontic syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/blepharocheilodontic-syndrome
+synonym(1): cadherin-associated Src substrate
+synonym(2): CAS
+synonym(3): catenin (cadherin-associated protein), delta 1
+synonym(4): CTNND
+synonym(5): delta catenin
+synonym(6): KIAA0384
+synonym(7): p120
+synonym(8): p120 catenin
+synonym(9): p120(CAS)
+synonym(10): p120(CTN)
+synonym(11): P120CAS
+synonym(12): P120CTN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1500
+db-key(2)/db: OMIM
+db-key(2)/key: 601045
+reviewed: 2017-08
+published: 2018-04-17

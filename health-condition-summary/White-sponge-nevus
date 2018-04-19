@@ -1,0 +1,38 @@
+name: White sponge nevus
+ghr-page: https://ghr.nlm.nih.gov/condition/white-sponge-nevus
+text/text-role: description
+text/html: <p>White sponge nevus is a condition characterized by the formation of white patches of tissue called nevi (singular: nevus) that appear as thickened, velvety, sponge-like tissue. The nevi are most commonly found on the moist lining of the mouth (oral mucosa), especially on the inside of the cheeks (buccal mucosa). Affected individuals usually develop multiple nevi. Rarely, white sponge nevi also occur on the mucosae (singular: mucosa) of the nose, esophagus, genitals, or anus. The nevi are caused by a noncancerous (benign) overgrowth of cells.</p><p>White sponge nevus can be present from birth but usually first appears during early childhood. The size and location of the nevi can change over time. In the oral mucosa, both sides of the mouth are usually affected. The nevi are generally painless, but the folds of extra tissue can promote bacterial growth, which can lead to infection that may cause discomfort. The altered texture and appearance of the affected tissue, especially the oral mucosa, can be bothersome for some affected individuals.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: KRT4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT4
+related-gene(2)/gene-symbol: KRT13
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT13
+synonym(1): Cannon's disease
+synonym(2): familial white folded mucosal dysplasia
+synonym(3): hereditary leukokeratosis
+synonym(4): hereditary mucosal leukokeratosis
+synonym(5): hereditary oral keratosis
+synonym(6): leukokeratosis of oral mucosa
+synonym(7): leukokeratosis, hereditary mucosal
+synonym(8): nevus of Cannon
+synonym(9): white folded gingivostomatosis
+synonym(10): white gingivostomatitis
+synonym(11): white sponge naevus
+synonym(12): white sponge nevus of Cannon
+synonym(13): white sponge nevus of mucosa
+synonym(14): WSN
+db-key(1)/db: GTR
+db-key(1)/key: C1721005
+db-key(2)/db: MeSH
+db-key(2)/key: D053529
+db-key(3)/db: OMIM
+db-key(3)/key: 193900
+db-key(4)/db: OMIM
+db-key(4)/key: 615785
+db-key(5)/db: Orphanet
+db-key(5)/key: 171723
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 389203001
+reviewed: 2014-02
+published: 2018-04-17

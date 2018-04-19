@@ -1,0 +1,32 @@
+name: Legg-Calvé-Perthes disease
+ghr-page: https://ghr.nlm.nih.gov/condition/legg-calve-perthes-disease
+text/text-role: description
+text/html: <p>Legg-Calvé-Perthes disease is a bone disorder that affects the hips. Usually, only one hip is involved, but in about 10 percent of cases, both hips are affected. Legg-Calvé-Perthes disease begins in childhood, typically between ages 4 and 8, and affects boys more frequently than girls.</p><p>In this condition, the upper end of the thigh bone, known as the femoral head, breaks down. As a result, the femoral head is no longer round and does not move easily in the hip socket, which leads to hip pain, limping, and restricted leg movement. The bone eventually begins to heal itself through a normal process called bone remodeling, by which old bone is removed and new bone is created to replace it. This cycle of breakdown and healing can recur multiple times. Affected individuals are often shorter than their peers due to the bone abnormalities. Many people with Legg-Calvé-Perthes disease go on to develop a painful joint disorder called osteoarthritis in the hips at an early age.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: COL2A1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/COL2A1
+synonym(1): Calve-Perthes disease
+synonym(2): coxa plana
+synonym(3): LCPD
+synonym(4): Perthes disease
+db-key(1)/db: GTR
+db-key(1)/key: C0023234
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: M91.1
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: M91.10
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: M91.11
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: M91.12
+db-key(6)/db: MeSH
+db-key(6)/key: D007873
+db-key(7)/db: OMIM
+db-key(7)/key: 150600
+db-key(8)/db: Orphanet
+db-key(8)/key: 2380
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 111255008
+reviewed: 2014-09
+published: 2018-04-17

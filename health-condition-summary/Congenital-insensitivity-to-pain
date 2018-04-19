@@ -1,0 +1,30 @@
+name: Congenital insensitivity to pain
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-insensitivity-to-pain
+text/text-role: description
+text/html: <p>Congenital insensitivity to pain is a condition that inhibits the ability to perceive physical pain. From birth, affected individuals never feel pain in any part of their body when injured. People with this condition can feel the difference between sharp and dull and hot and cold, but cannot sense, for example, that a hot beverage is burning their tongue. This lack of pain awareness often leads to an accumulation of wounds, bruises, broken bones, and other health issues that may go undetected. Young children with congenital insensitivity to pain may have mouth or finger wounds due to repeated self-biting and may also experience multiple burn-related injuries. These repeated injuries often lead to a reduced life expectancy in people with congenital insensitivity to pain. Many people with congenital insensitivity to pain also have a complete loss of the sense of smell (anosmia).</p><p>Congenital insensitivity to pain is considered a form of peripheral neuropathy because it affects the peripheral nervous system, which connects the brain and spinal cord to muscles and to cells that detect sensations such as touch, smell, and pain.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SCN9A
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SCN9A
+synonym(1): asymbolia for pain
+synonym(2): channelopathy-associated insensitivity to pain
+synonym(3): CIP
+synonym(4): congenital analgesia
+synonym(5): congenital indifference to pain
+synonym(6): congenital pain indifference
+synonym(7): indifference to pain, congenital, autosomal recessive
+synonym(8): pain insensitivity, congenital
+db-key(1)/db: GTR
+db-key(1)/key: C1855739
+db-key(2)/db: GeneReviews
+db-key(2)/key: cip-overview
+db-key(3)/db: MeSH
+db-key(3)/key: D000699
+db-key(4)/db: OMIM
+db-key(4)/key: 243000
+db-key(5)/db: Orphanet
+db-key(5)/key: 88642
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 403605007
+reviewed: 2012-11
+published: 2018-04-17

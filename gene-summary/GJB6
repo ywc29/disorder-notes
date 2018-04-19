@@ -1,0 +1,23 @@
+gene-symbol: GJB6
+name: gap junction protein beta 6
+ghr-page: https://ghr.nlm.nih.gov/gene/GJB6
+text/text-role: function
+text/html: <p>The <i>GJB6</i> gene provides instructions for making a protein called gap junction beta 6, more commonly known as connexin 30. Connexin 30 is a member of the connexin protein family. Connexin proteins form channels called gap junctions that permit the transport of nutrients, charged atoms (ions), and signaling molecules between adjoining cells. The size of the gap junction and the types of particles that move through it are determined by the particular connexin proteins that make up the channel. Gap junctions made with connexin 30 transport potassium ions and certain small molecules.</p><p>Connexin 30 is found in several different tissues throughout the body, including the brain, inner ear, skin (especially the palms of the hands and soles of the feet), hair follicles, and nail beds.  Because of its presence in the inner ear, researchers are interested in this protein's role in hearing. Hearing requires the conversion of sound waves to electrical nerve impulses. This conversion involves many processes, including maintenance of the proper level of potassium ions in the inner ear. Some studies indicate that gap junctions made with connexin 30 help to maintain the correct level of potassium ions.</p>
+related-health-condition(1)/name: Clouston syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/clouston-syndrome
+related-health-condition(2)/name: nonsyndromic hearing loss
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-hearing-loss
+synonym(1): CX30
+synonym(2): CXB6_HUMAN
+synonym(3): DFNA3
+synonym(4): ED2
+synonym(5): EDH
+synonym(6): gap junction protein, beta 6
+synonym(7): gap junction protein, beta 6, 30kDa
+synonym(8): HED
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10804
+db-key(2)/db: OMIM
+db-key(2)/key: 604418
+reviewed: 2016-02
+published: 2018-04-17

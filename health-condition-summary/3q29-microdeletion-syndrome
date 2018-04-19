@@ -1,0 +1,30 @@
+name: 3q29 microdeletion syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/3q29-microdeletion-syndrome
+text/text-role: description
+text/html: <p>3q29 microdeletion syndrome (also known as 3q29 deletion syndrome) is a condition that results from the deletion of a small piece of chromosome 3 in each cell. The deletion occurs on the long (q) arm of the chromosome at a position designated q29.</p><p>The features associated with 3q29 microdeletion syndrome vary widely. Some individuals with this chromosomal change have very mild or no related signs and symptoms, and the deletion is discovered through genetic testing only after a family member is diagnosed. However, most people with a 3q29 microdeletion have delayed development (particularly speech delay) and mild or moderate intellectual disability. They also have an increased risk of behavioral or psychiatric disorders, including autism spectrum disorder (which affects social interaction and communication), anxiety, bipolar disorder, and schizophrenia.</p><p>Infants with 3q29 microdeletion syndrome often have feeding difficulties and do not grow and gain weight at the expected rate (which is described as failure to thrive). Weak muscle tone (hypotonia), recurrent ear infections, an unusually small head (microcephaly), and yellowing of the skin and whites of the eyes (jaundice) can also occur. Some affected babies are born with a heart defect, most commonly an abnormal connection between two major arteries called patent ductus arteriosus (PDA).</p><p>Other possible features of 3q29 microdeletion syndrome include gastrointestinal disorders, such as a backflow of acidic stomach contents into the esophagus (gastroesophageal reflux), and abnormalities of the teeth. There may also be a subtle pattern of characteristic facial features, including a long, narrow face; a narrow space between the nose and upper lip (short philtrum); a high bridge of the nose; and large ears.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-chromosome/name: 3
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/3
+synonym(1): 3q subtelomere deletion syndrome
+synonym(2): 3q29 deletion syndrome
+synonym(3): 3q29 recurrent deletion
+synonym(4): chromosome 3q29 deletion syndrome
+synonym(5): microdeletion 3q29 syndrome
+synonym(6): monosomy 3q29
+db-key(1)/db: GTR
+db-key(1)/key: C2674949
+db-key(2)/db: GeneReviews
+db-key(2)/key: mdel3q29
+db-key(3)/db: MeSH
+db-key(3)/key: D002872
+db-key(4)/db: MeSH
+db-key(4)/key: D008607
+db-key(5)/db: OMIM
+db-key(5)/key: 609425
+db-key(6)/db: Orphanet
+db-key(6)/key: 65286
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 716456000
+reviewed: 2017-08
+published: 2018-04-17

@@ -1,0 +1,31 @@
+gene-symbol: PRNP
+name: prion protein
+ghr-page: https://ghr.nlm.nih.gov/gene/PRNP
+text/text-role: function
+text/html: <p>The <i>PRNP</i> gene provides instructions for making a protein called prion protein (PrP), which is active in the brain and several other tissues. Although the precise function of this protein is unknown, researchers have proposed roles in several important processes. These include the transport of copper into cells and protection of brain cells (neurons) from injury (neuroprotection). Studies have also suggested a role for PrP in the formation of synapses, which are the junctions between nerve cells (neurons) where cell-to-cell communication occurs.</p><p>Different forms of PrP have been identified. The normal version is often designated PrP<sup>C</sup> to distinguish it from abnormal forms of the protein, which are generally designated PrP<sup>Sc</sup>.</p>
+related-health-condition(1)/name: Huntington disease-like syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/huntington-disease-like-syndrome
+related-health-condition(2)/name: prion disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/prion-disease
+related-health-condition(3)/name: Wilson disease
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/wilson-disease
+synonym(1): AltPrP
+synonym(2): ASCR
+synonym(3): CD230 antigen
+synonym(4): CJD
+synonym(5): GSS
+synonym(6): MGC26679
+synonym(7): PRIO_HUMAN
+synonym(8): prion protein (p27-30) (Creutzfeldt-Jakob disease, Gerstmann-Strausler-Scheinker syndrome, fatal familial insomnia)
+synonym(9): PRIP
+synonym(10): PrP
+synonym(11): PrP27-30
+synonym(12): PrP33-35C
+synonym(13): PrPc
+synonym(14): PrPSc
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5621
+db-key(2)/db: OMIM
+db-key(2)/key: 176640
+reviewed: 2014-01
+published: 2018-04-17

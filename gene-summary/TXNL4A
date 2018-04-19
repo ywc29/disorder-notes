@@ -1,0 +1,23 @@
+gene-symbol: TXNL4A
+name: thioredoxin like 4A
+ghr-page: https://ghr.nlm.nih.gov/gene/TXNL4A
+text/text-role: function
+text/html: <p>The <i>TXNL4A</i> gene provides instructions for making one part (subunit) of a protein complex called the major spliceosome, which is the larger of two types of spliceosomes found in human cells. Spliceosomes help process messenger RNA (mRNA), which is a chemical cousin of DNA that serves as a genetic blueprint for making proteins. The spliceosomes recognize and then remove regions called introns to help produce mature mRNA molecules from immature mRNA molecules.</p>
+related-health-condition/name: Burn-McKeown syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/burn-mckeown-syndrome
+synonym(1): BMKS
+synonym(2): DIB1
+synonym(3): DIM1
+synonym(4): DIM1 protein homolog
+synonym(5): HsT161
+synonym(6): SNRNP15
+synonym(7): spliceosomal U5 snRNP-specific 15 kDa protein
+synonym(8): thioredoxin-like 4A
+synonym(9): thioredoxin-like U5 snRNP protein U5-15kD
+synonym(10): U5-15kD
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10907
+db-key(2)/db: OMIM
+db-key(2)/key: 611595
+reviewed: 2016-08
+published: 2018-04-17

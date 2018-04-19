@@ -1,0 +1,29 @@
+name: Monilethrix
+ghr-page: https://ghr.nlm.nih.gov/condition/monilethrix
+text/text-role: description
+text/html: <p>Monilethrix is a condition that affects hair growth. Its most characteristic feature is that individual strands of hair have a beaded appearance like the beads of a necklace. The name monilethrix comes from the Latin word for necklace (monile) and the Greek word for hair (thrix). Noticeable when viewed under a microscope, the beaded appearance is due to periodic narrowing of the hair shaft. People with monilethrix also have sparse hair growth (hypotrichosis) and short, brittle hair that breaks easily.</p><p>Affected individuals usually have normal hair at birth, but the hair abnormalities develop within the first few months of life. In mild cases of monilethrix, only hair on the back of the head (occiput) or nape of the neck is affected. In more severe cases, hair over the whole scalp can be affected, as well as pubic hair, underarm hair, eyebrows, eyelashes, or hair on the arms and legs.</p><p>Occasionally, the skin and nails are involved in monilethrix. Some affected individuals have a skin condition called keratosis pilaris, which causes small bumps on the skin, especially on the scalp, neck, and arms. Affected individuals may also have abnormal fingernails or toenails.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: DSG4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/DSG4
+related-gene(2)/gene-symbol: KRT81
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT81
+related-gene(3)/gene-symbol: KRT83
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT83
+related-gene(4)/gene-symbol: KRT86
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT86
+synonym: beaded hair
+db-key(1)/db: GTR
+db-key(1)/key: C0546966
+db-key(2)/db: MeSH
+db-key(2)/key: D056734
+db-key(3)/db: OMIM
+db-key(3)/key: 158000
+db-key(4)/db: Orphanet
+db-key(4)/key: 573
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 69488000
+reviewed: 2012-03
+published: 2018-04-17

@@ -1,0 +1,8 @@
+gene-symbol: TPK1
+name: thiamin pyrophosphokinase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TPK1
+related-health-condition/name: Leigh syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+db-key/db: NCBI Gene
+db-key/key: 27010
+published: 2018-04-17

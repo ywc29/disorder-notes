@@ -1,0 +1,23 @@
+name: Hepatic lipase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/hepatic-lipase-deficiency
+text/text-role: description
+text/html: <p>Hepatic lipase deficiency is a disorder that affects the body's ability to break down fats (lipids). People with this disorder have increased amounts of certain fats, known as triglycerides and cholesterol, in the blood. These individuals also have increased amounts of molecules known as high-density lipoproteins (HDLs) and decreased amounts of molecules called low-density lipoproteins (LDL). These molecules transport triglycerides and cholesterol throughout the body. In people with hepatic lipase deficiency, the LDL molecules are often abnormally large.</p><p>Normally, high levels of HDL (known as "good cholesterol") and low levels of LDL (known as "bad cholesterol") are protective against an accumulation of fatty deposits on the artery walls (atherosclerosis) and heart disease. However, some individuals with hepatic lipase deficiency, who have this imbalance of HDL and LDL, develop atherosclerosis and heart disease in mid-adulthood, while others do not. It is unknown whether people with hepatic lipase deficiency have a greater risk of developing atherosclerosis or heart disease than individuals in the general population. Similarly, it is unclear how increased blood triglycerides and cholesterol levels affect the risk of atherosclerosis and heart disease in people with hepatic lipase deficiency.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: LIPC
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LIPC
+synonym(1): HL deficiency
+synonym(2): hyperlipidemia due to hepatic triglyceride lipase deficiency
+synonym(3): LIPC deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C3151466
+db-key(2)/db: MeSH
+db-key(2)/key: D008052
+db-key(3)/db: OMIM
+db-key(3)/key: 614025
+db-key(4)/db: Orphanet
+db-key(4)/key: 140905
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 720940008
+reviewed: 2015-12
+published: 2018-04-17

@@ -1,0 +1,17 @@
+gene-symbol: ASL
+name: argininosuccinate lyase
+ghr-page: https://ghr.nlm.nih.gov/gene/ASL
+text/text-role: function
+text/html: <p>The <i>ASL</i> gene provides instructions for making the protein argininosuccinate lyase. This enzyme participates in the urea cycle, a series of reactions that occur in liver cells. The urea cycle processes excess nitrogen, generated when protein is used by the body, to make a compound called urea that is excreted by the kidneys. Excreting the excess nitrogen prevents it from accumulating in the form of ammonia.</p><p>The specific role of the ASL enzyme is to start the reaction in which the amino acid arginine, a building block of proteins, is produced from argininosuccinate, the molecule that carries the waste nitrogen collected earlier in the urea cycle. The arginine is later broken down into urea, which is excreted, and ornithine, which restarts the urea cycle.</p>
+related-health-condition/name: argininosuccinic aciduria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/argininosuccinic-aciduria
+synonym(1): Argininosuccinase
+synonym(2): Arginosuccinase
+synonym(3): arginosuccinate lyase
+synonym(4): ARLY_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 435
+db-key(2)/db: OMIM
+db-key(2)/key: 608310
+reviewed: 2007-03
+published: 2018-04-17

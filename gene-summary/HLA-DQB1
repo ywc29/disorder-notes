@@ -1,0 +1,39 @@
+gene-symbol: HLA-DQB1
+name: major histocompatibility complex, class II, DQ beta 1
+ghr-page: https://ghr.nlm.nih.gov/gene/HLA-DQB1
+text/text-role: function
+text/html: <p>The <i>HLA-DQB1</i> gene provides instructions for making a protein that plays a critical role in the immune system. The <i>HLA-DQB1</i> gene is part of a family of genes called the human leukocyte antigen (HLA) complex. The HLA complex helps the immune system distinguish the body's own proteins from proteins made by foreign invaders such as viruses and bacteria.</p><p>The HLA complex is the human version of the major histocompatibility complex (MHC), a gene family that occurs in many species. The <i>HLA-DQB1</i> gene belongs to a group of MHC genes called MHC class II. MHC class II genes provide instructions for making proteins that are present on the surface of certain immune system cells. These proteins attach to protein fragments (peptides) outside the cell. MHC class II proteins display these peptides to the immune system. If the immune system recognizes the peptides as foreign (such as viral or bacterial peptides), it triggers a response to attack the invading viruses or bacteria.</p><p>The protein produced from the <i>HLA-DQB1</i> gene attaches (binds) to the protein produced from another MHC class II gene, <i>HLA-DQA1</i>. Together, they form a functional protein complex called an antigen-binding DQαβ heterodimer. This complex displays foreign peptides to the immune system to trigger the body's immune response.</p><p>Each MHC class II gene has many possible variations, allowing the immune system to react to a wide range of foreign invaders. Researchers have identified hundreds of different versions (alleles) of the <i>HLA-DQB1</i> gene, each of which is given a particular number (such as <i>HLA-DQB1*06:02</i>).</p>
+related-health-condition(1)/name: autoimmune Addison disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autoimmune-addison-disease
+related-health-condition(2)/name: celiac disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/celiac-disease
+related-health-condition(3)/name: juvenile idiopathic arthritis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-idiopathic-arthritis
+related-health-condition(4)/name: narcolepsy
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/narcolepsy
+related-health-condition(5)/name: type 1 diabetes
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/type-1-diabetes
+synonym(1): CELIAC1
+synonym(2): DQB1_HUMAN
+synonym(3): HLA class II histocompatibility antigen, DQ beta 1 chain
+synonym(4): HLA-DQB
+synonym(5): IDDM1
+synonym(6): major histocompatibility complex class II beta
+synonym(7): MHC class II antigen DQB1
+synonym(8): MHC class II antigen HLA-DQ-beta-1
+synonym(9): MHC class II DQ beta chain
+synonym(10): MHC class II HLA-DQ beta glycoprotein
+synonym(11): MHC class2 antigen
+synonym(12): MHC DQ beta
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3119
+db-key(2)/db: OMIM
+db-key(2)/key: 126200
+db-key(3)/db: OMIM
+db-key(3)/key: 164185
+db-key(4)/db: OMIM
+db-key(4)/key: 169610
+db-key(5)/db: OMIM
+db-key(5)/key: 604305
+reviewed: 2013-03
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: KRT13
+name: keratin 13
+ghr-page: https://ghr.nlm.nih.gov/gene/KRT13
+text/text-role: function
+text/html: <p>The <i>KRT13</i> gene provides instructions for making a protein called keratin 13. Keratins are a group of tough, fibrous proteins that form the structural framework of epithelial cells, which are cells that line the surfaces and cavities of the body. Keratin 13 is found in the moist lining (mucosae) of the mouth, nose, esophagus, genitals, and anus.</p><p>Keratin 13 partners with a similar protein, keratin 4 (produced from the <i>KRT4</i> gene), to form molecules known as intermediate filaments. These filaments assemble into strong networks that provide strength and resilience to the different mucosae. Networks of intermediate filaments protect the mucosae from being damaged by friction or other everyday physical stresses.</p>
+related-health-condition/name: white sponge nevus
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/white-sponge-nevus
+synonym(1): CK-13
+synonym(2): CK13
+synonym(3): cytokeratin-13
+synonym(4): cytokeratin 13
+synonym(5): K1C13_HUMAN
+synonym(6): K13
+synonym(7): keratin-13
+synonym(8): keratin 13, type I
+synonym(9): keratin, type I cytoskeletal 13
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3860
+db-key(2)/db: OMIM
+db-key(2)/key: 148065
+reviewed: 2014-02
+published: 2018-04-17

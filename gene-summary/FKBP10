@@ -1,0 +1,38 @@
+gene-symbol: FKBP10
+name: FK506 binding protein 10
+ghr-page: https://ghr.nlm.nih.gov/gene/FKBP10
+text/text-role: function
+text/html: <p>The <i>FKBP10</i> gene provides instructions for making a protein that is found in a cell structure called the endoplasmic reticulum, which is involved in protein production, processing, and transport. The FKBP10 protein (formerly known as FKBP65) is important for the correct processing of complex molecules called collagen and elastin, which are part of the intricate lattice of proteins and other molecules that forms in the spaces between cells (the extracellular matrix). This matrix provides structure and strength to connective tissues that support the body's joints and organs.</p><p>In the extracellular matrix, collagen molecules are cross-linked to one another to form long, thin fibrils. The formation of cross-links results in very strong collagen fibrils. The FKBP10 protein attaches to collagen molecules and plays a role in their cross-linking. It is thought to be involved in a reaction called hydroxylation that modifies a particular region of the collagen molecule and is necessary for cross-linking of the molecules.</p><p>The FKBP10 protein is also involved in the formation of elastin. In particular, FKBP10 helps with the proper folding of a protein called tropoelastin. Multiple copies of tropoelastin attach to one another to make elastin. Elastin is the major component of elastic fibers, which provide strength and elasticity to connective tissues as part of the extracellular matrix.</p>
+related-health-condition/name: Kuskokwim syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/kuskokwim-syndrome
+synonym(1): 65 kDa FK506-binding protein
+synonym(2): 65 kDa FKBP
+synonym(3): FK506-binding protein 10
+synonym(4): FK506 binding protein 10, 65 kDa
+synonym(5): FKB10_HUMAN
+synonym(6): FKBP-10
+synonym(7): FKBP-65
+synonym(8): FKBP6
+synonym(9): FKBP65
+synonym(10): FLJ20683
+synonym(11): FLJ22041
+synonym(12): FLJ23833
+synonym(13): hFKBP65
+synonym(14): immunophilin FKBP65
+synonym(15): OI6
+synonym(16): OI11
+synonym(17): peptidyl-prolyl cis-trans isomerase FKBP10
+synonym(18): peptidyl-prolyl cis-trans isomerase FKBP10 precursor
+synonym(19): PPIASE
+synonym(20): PPIase FKBP10
+synonym(21): rotamase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 60681
+db-key(2)/db: OMIM
+db-key(2)/key: 259450
+db-key(3)/db: OMIM
+db-key(3)/key: 607063
+db-key(4)/db: OMIM
+db-key(4)/key: 610968
+reviewed: 2013-11
+published: 2018-04-17

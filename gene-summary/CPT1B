@@ -1,0 +1,8 @@
+gene-symbol: CPT1B
+name: carnitine palmitoyltransferase 1B
+ghr-page: https://ghr.nlm.nih.gov/gene/CPT1B
+related-health-condition/name: narcolepsy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/narcolepsy
+db-key/db: NCBI Gene
+db-key/key: 1375
+published: 2018-04-17

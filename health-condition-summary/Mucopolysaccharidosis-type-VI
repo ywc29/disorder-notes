@@ -1,0 +1,27 @@
+name: Mucopolysaccharidosis type VI
+ghr-page: https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-vi
+text/text-role: description
+text/html: <p>Mucopolysaccharidosis type VI (MPS VI), also known as Maroteaux-Lamy syndrome, is a progressive condition that causes many tissues and organs to enlarge and become inflamed or scarred. Skeletal abnormalities are also common in this condition. The rate at which symptoms worsen varies among affected individuals.</p><p>People with MPS VI generally do not display any features of the condition at birth. They often begin to show signs and symptoms of MPS VI during early childhood. The features of MPS VI include a large head (macrocephaly), a buildup of fluid in the brain (hydrocephalus), distinctive-looking facial features that are described as "coarse," and a large tongue (macroglossia). Affected individuals also frequently develop heart valve abnormalities, an enlarged liver and spleen (hepatosplenomegaly), and a soft out-pouching around the belly-button (umbilical hernia) or lower abdomen (inguinal hernia). The airway may become narrow in some people with MPS VI, leading to frequent upper respiratory infections and short pauses in breathing during sleep (sleep apnea). The clear covering of the eye (cornea) typically becomes cloudy, which can cause significant vision loss. People with MPS VI may also have recurrent ear infections and hearing loss. Unlike other types of mucopolysaccharidosis, MPS VI does not affect intelligence.</p><p>MPS VI causes various skeletal abnormalities, including short stature and joint deformities (contractures) that affect mobility. Individuals with this condition may also have dysostosis multiplex, which refers to multiple skeletal abnormalities seen on x-ray. Carpal tunnel syndrome develops in many children with MPS VI and is characterized by numbness, tingling, and weakness in the hands and fingers. People with MPS VI may develop a narrowing of the spinal canal (spinal stenosis) in the neck, which can compress and damage the spinal cord.</p><p>The life expectancy of individuals with MPS VI depends on the severity of symptoms. Without treatment, severely affected individuals may survive only until late childhood or adolescence. Those with milder forms of the disorder usually live into adulthood, although their life expectancy may be reduced. Heart disease and airway obstruction are major causes of death in people with MPS VI.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ARSB
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ARSB
+synonym(1): Arylsulfatase B deficiency
+synonym(2): Maroteaux-Lamy Syndrome
+synonym(3): MPS VI
+synonym(4): MPS6
+synonym(5): Mucopolysaccharidosis 6
+synonym(6): Mucopolysaccharidosis VI
+synonym(7): Polydystrophic Dwarfism
+db-key(1)/db: GTR
+db-key(1)/key: C0026709
+db-key(2)/db: MeSH
+db-key(2)/key: D009087
+db-key(3)/db: OMIM
+db-key(3)/key: 253200
+db-key(4)/db: Orphanet
+db-key(4)/key: 583
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 52677002
+reviewed: 2010-06
+published: 2018-04-17

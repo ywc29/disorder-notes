@@ -1,0 +1,41 @@
+name: Uromodulin-associated kidney disease
+ghr-page: https://ghr.nlm.nih.gov/condition/uromodulin-associated-kidney-disease
+text/text-role: description
+text/html: <p>Uromodulin-associated kidney disease is an inherited condition that affects the kidneys. The signs and symptoms of this condition vary, even among members of the same family.</p><p>Many individuals with uromodulin-associated kidney disease develop high blood levels of a waste product called uric acid. Normally, the kidneys remove uric acid from the blood and transfer it to urine. In this condition, the kidneys are unable to remove uric acid from the blood effectively. A buildup of uric acid can cause gout, which is a form of arthritis resulting from uric acid crystals in the joints. The signs and symptoms of gout may appear as early as a person's teens in uromodulin-associated kidney disease.</p><p>Uromodulin-associated kidney disease causes slowly progressive kidney disease, with the signs and symptoms usually beginning during the teenage years. The kidneys become less able to filter fluids and waste products from the body as this condition progresses, resulting in kidney failure. Individuals with uromodulin-associated kidney disease typically require either dialysis to remove wastes from the blood or a kidney transplant between the ages of 30 and 70. Occasionally, affected individuals are found to have small kidneys or kidney cysts (medullary cysts).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: UMOD
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/UMOD
+synonym(1): Familial gout-kidney disease
+synonym(2): Familial gouty nephropathy
+synonym(3): Familial juvenile hyperuricemic nephropathy
+synonym(4): FJHN
+synonym(5): MCKD2
+synonym(6): Medullary cystic kidney disease type 2
+synonym(7): UMAK
+synonym(8): UMOD-related kidney disease
+synonym(9): Uromodulin storage disease
+db-key(1)/db: GTR
+db-key(1)/key: C0268113
+db-key(2)/db: GTR
+db-key(2)/key: C1835934
+db-key(3)/db: GTR
+db-key(3)/key: C1859040
+db-key(4)/db: GeneReviews
+db-key(4)/key: mckd2
+db-key(5)/db: MeSH
+db-key(5)/key: D007674
+db-key(6)/db: OMIM
+db-key(6)/key: 162000
+db-key(7)/db: OMIM
+db-key(7)/key: 603860
+db-key(8)/db: OMIM
+db-key(8)/key: 609886
+db-key(9)/db: Orphanet
+db-key(9)/key: 34149
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 445503007
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 46785007
+reviewed: 2009-12
+published: 2018-04-17

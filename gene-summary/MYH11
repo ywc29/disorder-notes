@@ -1,0 +1,32 @@
+gene-symbol: MYH11
+name: myosin heavy chain 11
+ghr-page: https://ghr.nlm.nih.gov/gene/MYH11
+text/text-role: function
+text/html: <p>The <i>MYH11</i> gene provides instructions for making a protein called smooth muscle myosin heavy chain 11. It belongs to a group of proteins called myosins, which are involved in cell movement and the transport of materials within and between cells. Thick filaments made of myosin, along with thin filaments of another protein called actin, are the primary components of muscle fibers and are important for muscle tensing (contraction). Smooth muscle myosin heavy chain 11 forms part of a myosin protein complex found in smooth muscles. Smooth muscles are the muscles that line the internal organs of the body, including the blood vessels, stomach, and intestines; as part of their normal function in the body, these muscles contract and relax involuntarily.</p><p>Each myosin protein complex consists of two pairs of light chains, which regulate the complex and are produced from several other genes, and two heavy chains such as that produced from the <i>MYH11</i> gene. The heavy chains each have two parts: a head region and a tail region. The head region interacts with actin and includes a segment that attaches (binds) to ATP. ATP is a molecule that supplies energy for the cells' activities, including muscle contraction. The long tail region of the myosin heavy chain interacts with other proteins, including the tail regions of other myosins, enabling them to form thick filaments.</p>
+related-health-condition(1)/name: core binding factor acute myeloid leukemia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/core-binding-factor-acute-myeloid-leukemia
+related-health-condition(2)/name: familial thoracic aortic aneurysm and dissection
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-thoracic-aortic-aneurysm-and-dissection
+related-health-condition(3)/name: intestinal pseudo-obstruction
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/intestinal-pseudo-obstruction
+related-health-condition(4)/name: megacystis-microcolon-intestinal hypoperistalsis syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/megacystis-microcolon-intestinal-hypoperistalsis-syndrome
+synonym(1): AAT4
+synonym(2): FAA4
+synonym(3): MYH11_HUMAN
+synonym(4): myosin-11
+synonym(5): myosin-11 isoform SM1A
+synonym(6): myosin-11 isoform SM1B
+synonym(7): myosin-11 isoform SM2A
+synonym(8): myosin-11 isoform SM2B
+synonym(9): myosin heavy chain, smooth muscle isoform
+synonym(10): myosin, heavy chain 11, smooth muscle
+synonym(11): myosin, heavy polypeptide 11, smooth muscle
+synonym(12): SMHC
+synonym(13): SMMHC
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4629
+db-key(2)/db: OMIM
+db-key(2)/key: 160745
+reviewed: 2013-11
+published: 2018-04-17

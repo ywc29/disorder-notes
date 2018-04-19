@@ -1,0 +1,19 @@
+gene-symbol: PHF8
+name: PHD finger protein 8
+ghr-page: https://ghr.nlm.nih.gov/gene/PHF8
+text/text-role: function
+text/html: <p>The <i>PHF8</i> gene provides instructions for making a protein that is found in the cell nucleus, particularly in brain cells before and just after birth. The PHF8 protein is part of a group known as zinc finger proteins, which contain one or more short regions called zinc finger domains. These regions include a specific pattern of protein building blocks (amino acids) and one or more charged atoms of zinc (zinc ions). The folded configuration of the zinc finger domain stabilizes the protein and allows it to attach (bind) to other molecules.</p><p>The PHF8 protein contains a specific zinc finger domain called a PHD domain, which binds to complexes called chromatin, the network of DNA and proteins (called histones) that packages DNA into chromosomes. Binding with the PHF8 protein is part of the process that changes the structure of chromatin (chromatin remodeling) to alter how tightly regions of DNA are packaged. Chromatin remodeling is one way gene activity (expression) is regulated; when DNA is tightly packed genes tend to be turned off, compared to when DNA is loosely packed and genes are usually turned on. While the PHF8 protein is bound to chromatin, another domain of the PHF8 protein, called Jumonji C (JmjC), removes molecules called methyl groups from histones. Removing these methyl groups (demethylation) causes the chromatin to become loosely packed and increases the expression of specific genes.</p>
+related-health-condition/name: X-linked intellectual disability, Siderius type
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-intellectual-disability-siderius-type
+synonym(1): histone lysine demethylase PHF8
+synonym(2): JHDM1F
+synonym(3): jumonji C domain-containing histone demethylase 1F
+synonym(4): KIAA1111
+synonym(5): PHF8_HUMAN
+synonym(6): ZNF422
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23133
+db-key(2)/db: OMIM
+db-key(2)/key: 300560
+reviewed: 2015-06
+published: 2018-04-17

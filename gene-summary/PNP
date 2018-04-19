@@ -1,0 +1,19 @@
+gene-symbol: PNP
+name: purine nucleoside phosphorylase
+ghr-page: https://ghr.nlm.nih.gov/gene/PNP
+text/text-role: function
+text/html: <p>The <i>PNP</i> gene provides instructions for making an enzyme called purine nucleoside phosphorylase. This enzyme is found throughout the body but is most active in specialized white blood cells called lymphocytes. These cells protect the body against potentially harmful invaders by making immune proteins called antibodies that tag foreign particles and germs for destruction or by directly attacking virus-infected cells. Lymphocytes are produced in specialized lymphoid tissues including the thymus and lymph nodes, and then released into the blood. The thymus is a gland located behind the breastbone; lymph nodes are found throughout the body. Lymphocytes in the blood and in lymphoid tissues make up the immune system.</p><p>Purine nucleoside phosphorylase is known as a housekeeping enzyme because it clears away waste molecules called deoxyinosine and deoxyguanosine, which are generated when DNA is broken down. Specifically, purine nucleoside phosphorylase converts deoxyinosine to another molecule called hypoxanthine, and converts deoxyguanosine to another molecule called guanine.</p>
+related-health-condition/name: purine nucleoside phosphorylase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/purine-nucleoside-phosphorylase-deficiency
+synonym(1): inosine phosphorylase
+synonym(2): NP
+synonym(3): PNPH_HUMAN
+synonym(4): PRO1837
+synonym(5): PUNP
+synonym(6): purine-nucleoside:orthophosphate ribosyltransferase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4860
+db-key(2)/db: OMIM
+db-key(2)/key: 164050
+reviewed: 2012-04
+published: 2018-04-17

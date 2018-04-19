@@ -1,0 +1,39 @@
+name: Hashimoto thyroiditis
+ghr-page: https://ghr.nlm.nih.gov/condition/hashimoto-thyroiditis
+text/text-role: description
+text/html: <p>Hashimoto thyroiditis is a condition that affects the function of the thyroid, which is a butterfly-shaped gland in the lower neck. The thyroid makes hormones that help regulate a wide variety of critical body functions. For example, thyroid hormones influence growth and development, body temperature, heart rate, menstrual cycles, and weight. Hashimoto thyroiditis is a form of chronic inflammation that can damage the thyroid, reducing its ability to produce hormones.</p><p>One of the first signs of Hashimoto thyroiditis is an enlargement of the thyroid called a goiter. Depending on its size, the enlarged thyroid can cause the neck to look swollen and may interfere with breathing and swallowing. As damage to the thyroid continues, the gland can shrink over a period of years and the goiter may eventually disappear.</p><p>Other signs and symptoms resulting from an underactive thyroid can include excessive tiredness (fatigue), weight gain or difficulty losing weight, hair that is thin and dry, a slow heart rate, joint or muscle pain, and constipation. People with this condition may also have a pale, puffy face and feel cold even when others around them are warm. Affected women can have heavy or irregular menstrual periods and difficulty conceiving a child (impaired fertility). Difficulty concentrating and depression can also be signs of a shortage of thyroid hormones.</p><p>Hashimoto thyroiditis usually appears in mid-adulthood, although it can occur earlier or later in life. Its signs and symptoms tend to develop gradually over months or years.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: CTLA4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CTLA4
+related-gene(2)/gene-symbol: HLA-DRB1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-DRB1
+related-gene(3)/gene-symbol: PTPN22
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PTPN22
+related-gene(4)/gene-symbol: SLC26A4
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC26A4
+related-gene(5)/gene-symbol: TG
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/TG
+synonym(1): autoimmune chronic lymphocytic thyroiditis
+synonym(2): autoimmune thyroiditis
+synonym(3): chronic lymphocytic thyroiditides
+synonym(4): chronic lymphocytic thyroiditis
+synonym(5): Hashimoto disease
+synonym(6): Hashimoto struma
+synonym(7): Hashimoto syndrome
+synonym(8): Hashimoto's disease
+synonym(9): lymphocytic thyroiditis
+db-key(1)/db: GTR
+db-key(1)/key: C0677607
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E06.3
+db-key(3)/db: MeSH
+db-key(3)/key: D050031
+db-key(4)/db: OMIM
+db-key(4)/key: 140300
+db-key(5)/db: Orphanet
+db-key(5)/key: 855
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 21983002
+reviewed: 2018-02
+published: 2018-04-17

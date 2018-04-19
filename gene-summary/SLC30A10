@@ -1,0 +1,21 @@
+gene-symbol: SLC30A10
+name: solute carrier family 30 member 10
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC30A10
+text/text-role: function
+text/html: <p>The <i>SLC30A10</i> gene provides instructions for making a protein that transports the element manganese across cell membranes. Manganese is important for many cellular functions, but large amounts are toxic, particularly to brain and liver cells. Excess amounts of the element are normally removed from the body through bile, which is a fluid produced in the liver that is important for digestion and the removal of waste materials.</p><p>The SLC30A10 protein is found in the membranes surrounding liver cells and nerve cells in the brain, as well as in the membranes of structures within these cells. It protects cells from high concentrations of manganese by removing manganese when levels become elevated. In the liver, the SLC30A10 protein transports manganese out of cells into bile so that the element can be removed from the body.</p>
+related-health-condition/name: hypermanganesemia with dystonia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hypermanganesemia-with-dystonia
+synonym(1): DKFZp547M236
+synonym(2): HMDPC
+synonym(3): solute carrier family 30, member 10
+synonym(4): zinc transporter 10
+synonym(5): ZnT-10
+synonym(6): ZNT10
+synonym(7): ZNT10_HUMAN
+synonym(8): ZRC1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 55532
+db-key(2)/db: OMIM
+db-key(2)/key: 611146
+reviewed: 2017-10
+published: 2018-04-17

@@ -1,0 +1,18 @@
+name: SYNGAP1-related intellectual disability
+ghr-page: https://ghr.nlm.nih.gov/condition/syngap1-related-intellectual-disability
+text/text-role: description
+text/html: <p><i>SYNGAP1</i>-related intellectual disability is a neurological disorder characterized by moderate to severe intellectual disability that is evident in early childhood. The earliest features are typically delayed development of speech and motor skills, such as sitting, standing, and walking. Many people with this condition have weak muscle tone (hypotonia), which contributes to the difficulty with motor skills. Some affected individuals lose skills they had already acquired (developmental regression). Other features of <i>SYNGAP1</i>-related intellectual disability include recurrent seizures (epilepsy), hyperactivity, and autism spectrum disorder, which is characterized by impaired communication and social interaction; almost everyone with <i>SYNGAP1</i>-related intellectual disability develops epilepsy, and about half have autism spectrum disorder.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SYNGAP1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SYNGAP1
+synonym(1): mental retardation, autosomal dominant 5
+synonym(2): MRD5
+db-key(1)/db: GTR
+db-key(1)/key: C2675473
+db-key(2)/db: MeSH
+db-key(2)/key: D008607
+db-key(3)/db: OMIM
+db-key(3)/key: 612621
+reviewed: 2016-05
+published: 2018-04-17

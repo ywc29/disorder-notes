@@ -1,0 +1,26 @@
+gene-symbol: GDF6
+name: growth differentiation factor 6
+ghr-page: https://ghr.nlm.nih.gov/gene/GDF6
+text/text-role: function
+text/html: <p>The <i>GDF6</i> gene provides instructions for making a protein that is part of the transforming growth factor beta (TGFβ) superfamily, which is a group of proteins that help control the growth and development of tissues throughout the body. Within the TGFβ superfamily, the GDF6 protein belongs to the bone morphogenetic protein family, which is involved in regulating the growth and maturation (differentiation) of bone and cartilage. Cartilage is a tough but flexible tissue that makes up much of the skeleton during early development. The proteins in this family are regulators of cell growth and differentiation both before and after birth. The GDF6 protein is necessary for the formation of bones and joints in the limbs, skull, spine, chest, and ribs. The protein is involved in setting up boundaries between bones during skeletal development.</p><p>The GDF6 protein has also been found to be involved in the development of the eyes, specifically the specialized light-sensitive tissue that lines the back of the eye called the retina. The GDF6 protein likely plays a role in the survival of specialized cells within the retina that detect light and color (photoreceptor cells).</p>
+related-health-condition(1)/name: coloboma
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/coloboma
+related-health-condition(2)/name: Klippel-Feil syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/klippel-feil-syndrome
+related-health-condition(3)/name: microphthalmia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/microphthalmia
+synonym(1): BMP13
+synonym(2): CDMP2
+synonym(3): GDF-6
+synonym(4): GDF6_HUMAN
+synonym(5): growth/differentiation factor 6
+synonym(6): KFS
+synonym(7): KFS1
+synonym(8): SCDO4
+synonym(9): SGM1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 392255
+db-key(2)/db: OMIM
+db-key(2)/key: 601147
+reviewed: 2015-05
+published: 2018-04-17

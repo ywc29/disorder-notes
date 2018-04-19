@@ -1,0 +1,27 @@
+gene-symbol: CDH23
+name: cadherin related 23
+ghr-page: https://ghr.nlm.nih.gov/gene/CDH23
+text/text-role: function
+text/html: <p>The <i>CDH23</i> gene provides instructions for making cadherin 23, a type of protein that helps cells stick together. Different versions of this protein are made in different cell types, including a short version in the retina, which is the light-sensitive layer in the back of the eye, and a longer version in the inner ear. Cadherin 23 interacts with other proteins in the cell membrane as part of a protein complex that is involved in cell attachment.</p><p>Research suggests that the cadherin 23 protein complex helps to shape structures in the inner ear called hair bundles. These structures are made of stereocilia, which are hairlike projections that bend in response to sound waves. This bending motion is critical for converting sound waves to nerve impulses, which are then transmitted to the brain. Stereocilia are also elements of the vestibular system, the part of the inner ear that helps maintain the body's balance and orientation in space. Bending of these stereocilia is needed to transmit signals from the vestibular system to the brain.</p><p>In the retina, the role of the cadherin 23 protein complex is less well understood. Studies suggest that it plays a critical role in the function of photoreceptor cells, which are specialized cells that detect light and color.</p>
+related-health-condition(1)/name: age-related hearing loss
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-hearing-loss
+related-health-condition(2)/name: nonsyndromic hearing loss
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-hearing-loss
+related-health-condition(3)/name: Usher syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/usher-syndrome
+synonym(1): CAD23_HUMAN
+synonym(2): cadherin-23
+synonym(3): cadherin-like 23
+synonym(4): cadherin-related 23
+synonym(5): CDHR23
+synonym(6): DFNB12
+synonym(7): KIAA1774
+synonym(8): KIAA1812
+synonym(9): otocadherin
+synonym(10): USH1D
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 64072
+db-key(2)/db: OMIM
+db-key(2)/key: 605516
+reviewed: 2016-06
+published: 2018-04-17

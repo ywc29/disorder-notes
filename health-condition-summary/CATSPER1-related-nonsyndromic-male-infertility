@@ -1,0 +1,22 @@
+name: CATSPER1-related nonsyndromic male infertility
+ghr-page: https://ghr.nlm.nih.gov/condition/catsper1-related-nonsyndromic-male-infertility
+text/text-role: description
+text/html: <p><i>CATSPER1</i>-related nonsyndromic male infertility is a condition that affects the function of sperm, leading to an inability to father children. Males with this condition produce sperm that have decreased movement (motility). Affected men may also produce a smaller than usual number of sperm cells or sperm cells that are abnormally shaped. Men with <i>CATSPER1</i>-related nonsyndromic male infertility do not have any other symptoms related to this condition.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CATSPER1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CATSPER1
+synonym(1): CATSPER-related nonsyndromic male infertility
+synonym(2): CATSPER1-related male infertility
+db-key(1)/db: GTR
+db-key(1)/key: C2751811
+db-key(2)/db: GeneReviews
+db-key(2)/key: catsper-mi
+db-key(3)/db: MeSH
+db-key(3)/key: D007248
+db-key(4)/db: OMIM
+db-key(4)/key: 612997
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 236792002
+reviewed: 2010-04
+published: 2018-04-17

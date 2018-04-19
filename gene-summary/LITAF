@@ -1,0 +1,23 @@
+gene-symbol: LITAF
+name: lipopolysaccharide induced TNF factor
+ghr-page: https://ghr.nlm.nih.gov/gene/LITAF
+text/text-role: function
+text/html: <p>The <i>LITAF</i> gene (sometimes referred to as <i>SIMPLE</i>) provides instructions for making a protein called lipopolysaccharide-induced tumor necrosis factor-alpha factor.  The role of this protein is unclear, but two functions have been proposed.  The LITAF protein probably plays a role in processes that fight infection and destroy unwanted cells.  Specifically, this protein is thought to activate the production of an infection-fighting substance called tumor necrosis factor-alpha.  Tumor necrosis factor-alpha may also participate in the destruction of cancer cells.</p><p>Another function of the LITAF protein was proposed on the basis of its location within the cell. It is found in the membrane surrounding lysosomes, the sac-like compartments in cells that are filled with enzymes to break down toxic substances, digest bacteria that invade the cell, and recycle worn-out cell components.  The LITAF protein may help bring proteins and other substances into the lysosomes to be broken down.</p>
+related-health-condition/name: Charcot-Marie-Tooth disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+synonym(1): CMT1C
+synonym(2): FLJ38636
+synonym(3): lipopolysaccharide-induced TNF factor
+synonym(4): LITAF_HUMAN
+synonym(5): LPS-induced TNF-alpha factor
+synonym(6): PIG7
+synonym(7): SIMPLE
+synonym(8): small integral membrane protein of lysosome/late endosome
+synonym(9): TP5317
+synonym(10): tumor protein p53 inducible protein 7
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9516
+db-key(2)/db: OMIM
+db-key(2)/key: 603795
+reviewed: 2010-01
+published: 2018-04-17

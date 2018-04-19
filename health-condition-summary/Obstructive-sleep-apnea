@@ -1,0 +1,30 @@
+name: Obstructive sleep apnea
+ghr-page: https://ghr.nlm.nih.gov/condition/obstructive-sleep-apnea
+text/text-role: description
+text/html: <p>Obstructive sleep apnea is a condition in which individuals experience pauses in breathing (apnea) during sleep, which are associated with partial or complete closure of the throat (upper airway). Complete closure can lead to apnea while partial closure allows breathing but decrease the intake of oxygen (hypopnea).</p><p>Individuals with obstructive sleep apnea may experience interrupted sleep with frequent awakenings and loud snoring. Repeated pauses in breathing lead to episodes of lower-than-normal oxygen levels (hypoxemia) and a buildup of carbon dioxide (hypercapnia) in the bloodstream. Interrupted and poor quality sleep can lead to daytime sleepiness and fatigue, impaired attention and memory, headaches, depression, and sexual dysfunction. Daytime sleepiness leads to a higher risk of motor vehicle accidents in individuals with obstructive sleep apnea. Obstructive sleep apnea is also associated with an increased risk of developing insulin resistance, which is an inability to regulate blood sugar levels effectively; high blood pressure (hypertension); heart disease; and stroke.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+synonym(1): apnea, obstructive
+synonym(2): obstructive apnea
+synonym(3): obstructive sleep apnea syndrome
+synonym(4): OSA
+synonym(5): OSAHS
+synonym(6): OSAS
+synonym(7): SAHS
+synonym(8): sleep apnea hypopnea syndrome
+synonym(9): sleep apnea syndrome, obstructive
+synonym(10): sleep apnea, obstructive
+synonym(11): sleep apnea/hypopnea syndrome
+synonym(12): upper airway resistance sleep apnea syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0520679
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: G47.33
+db-key(3)/db: MeSH
+db-key(3)/key: D020181
+db-key(4)/db: OMIM
+db-key(4)/key: 107650
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 78275009
+reviewed: 2018-03
+published: 2018-04-17

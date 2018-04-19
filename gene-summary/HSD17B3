@@ -1,0 +1,19 @@
+gene-symbol: HSD17B3
+name: hydroxysteroid 17-beta dehydrogenase 3
+ghr-page: https://ghr.nlm.nih.gov/gene/HSD17B3
+text/text-role: function
+text/html: <p>The <i>HSD17B3</i> gene provides instructions for making an enzyme called 17-beta hydroxysteroid dehydrogenase 3. This enzyme is active in the male gonads (testes), where it helps to produce the male sex hormone testosterone from a precursor hormone called androstenedione.</p>
+related-health-condition/name: 17-beta hydroxysteroid dehydrogenase 3 deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiency
+synonym(1): 17-beta-HSD3
+synonym(2): DHB3_HUMAN
+synonym(3): EDH17B3
+synonym(4): estradiol 17 beta-dehydrogenase 3
+synonym(5): hydroxysteroid (17-beta) dehydrogenase 3
+synonym(6): SDR12C2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3293
+db-key(2)/db: OMIM
+db-key(2)/key: 605573
+reviewed: 2008-11
+published: 2018-04-17

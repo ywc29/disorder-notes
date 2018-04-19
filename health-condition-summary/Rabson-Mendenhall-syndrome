@@ -1,0 +1,26 @@
+name: Rabson-Mendenhall syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/rabson-mendenhall-syndrome
+text/text-role: description
+text/html: <p>Rabson-Mendenhall syndrome is a rare disorder characterized by severe insulin resistance, a condition in which the body's tissues and organs do not respond properly to the hormone insulin. Insulin normally helps regulate blood sugar levels by controlling how much sugar (in the form of glucose) is passed from the bloodstream into cells to be used as energy. In people with Rabson-Mendenhall syndrome, insulin resistance impairs blood sugar regulation and ultimately leads to a condition called diabetes mellitus, in which blood sugar levels can become dangerously high.</p><p>Severe insulin resistance in people with Rabson-Mendenhall syndrome  affects the development of many parts of the body. Affected individuals are unusually small starting before birth, and infants experience failure to thrive, which means they do not grow and gain weight at the expected rate. Additional features of the condition that become apparent early in life include a lack of fatty tissue under the skin (subcutaneous fat); wasting (atrophy) of muscles; dental abnormalities; excessive body hair growth (hirsutism); multiple cysts on the ovaries in females; and enlargement of the nipples, genitalia, kidneys, heart, and other organs. Most affected individuals also have a skin condition called acanthosis nigricans, in which the skin in body folds and creases becomes thick, dark, and velvety. Distinctive facial features in people with Rabson-Mendenhall syndrome include prominent, widely spaced eyes; a broad nose; and large, low-set ears.</p><p>Rabson-Mendenhall syndrome  is one of a group of related conditions described as inherited severe insulin resistance syndromes. These disorders, which also include Donohue syndrome and type A insulin resistance syndrome, are considered part of a spectrum. Rabson-Mendenhall syndrome is intermediate in severity between Donohue syndrome (which is usually fatal before age 2) and type A insulin resistance syndrome (which is often not diagnosed until adolescence). People with Rabson-Mendenhall syndrome develop signs and symptoms early in life and live into their teens or twenties. Death usually results from complications related to diabetes mellitus, such as a toxic buildup of acids called ketones in the body (diabetic ketoacidosis).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: INSR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/INSR
+synonym(1): Mendenhall syndrome
+synonym(2): pineal hyperplasia and diabetes mellitus syndrome
+synonym(3): pineal hyperplasia, insulin-resistant diabetes mellitus, and somatic abnormalities
+synonym(4): RMS
+db-key(1)/db: GTR
+db-key(1)/key: C0271695
+db-key(2)/db: GeneReviews
+db-key(2)/key: insr-ir
+db-key(3)/db: MeSH
+db-key(3)/key: D056731
+db-key(4)/db: OMIM
+db-key(4)/key: 262190
+db-key(5)/db: Orphanet
+db-key(5)/key: 769
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 33559001
+reviewed: 2014-12
+published: 2018-04-17

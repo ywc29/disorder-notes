@@ -1,0 +1,16 @@
+gene-symbol: GFAP
+name: glial fibrillary acidic protein
+ghr-page: https://ghr.nlm.nih.gov/gene/GFAP
+text/text-role: function
+text/html: <p>The <i>GFAP</i> gene provides instructions for making a protein called glial fibrillary acidic protein.  This protein is a member of the intermediate filament family of proteins.  Intermediate filaments form networks that provide support and strength to cells.  Several molecules of glial fibrillary acidic protein bind together to form the type of intermediate filament found in astroglial cells.  Astroglial cells support and nourish cells in the brain and spinal cord.  If brain or spinal cord cells are injured through trauma or disease, astroglial cells react by rapidly producing more glial fibrillary acidic protein.</p><p>Although its function is not fully understood, glial fibrillary acidic protein is probably involved in controlling the shape, movement, and function of astroglial cells. Some researchers have suggested that astroglial cells play an important role in the functioning of other cells, including specialized cells that surround nerves (oligodendrocytes) and are involved in the production and long-term maintenance of myelin.   Myelin is the fatty substance that forms a protective coating around certain nerve cells and ensures the rapid transmission of nerve impulses.  Additionally, astroglial cells may assist in maintaining the protective barrier that allows only certain substances to pass between blood vessels and the brain (the blood-brain barrier).</p>
+related-health-condition/name: Alexander disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/alexander-disease
+synonym(1): FLJ45472
+synonym(2): GFAP_HUMAN
+synonym(3): Glial Intermediate Filament Protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2670
+db-key(2)/db: OMIM
+db-key(2)/key: 137780
+reviewed: 2008-11
+published: 2018-04-17

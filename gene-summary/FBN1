@@ -1,0 +1,34 @@
+gene-symbol: FBN1
+name: fibrillin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/FBN1
+text/text-role: function
+text/html: <p>The <i>FBN1</i> gene provides instructions for making a large protein called fibrillin-1.  This protein is transported out of cells into the extracellular matrix, which is an intricate lattice of proteins and other molecules that forms in the spaces between cells.  In this matrix, molecules of fibrillin-1 attach (bind) to each other and to other proteins to form threadlike filaments called microfibrils. Microfibrils form elastic fibers, which enable the skin, ligaments, and blood vessels to stretch. Microfibrils also provide support to more rigid tissues such as bones and the tissues that support the nerves, muscles, and lenses of the eyes.</p><p>Microfibrils store a protein called transforming growth factor beta (TGF-β), a critical growth factor. TGF-β affects development by helping to control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (motility), and the self-destruction of cells (apoptosis). Microfibrils help regulate the availability of TGF-β, which is turned off (inactivated) when stored in microfibrils and turned on (activated) when released.</p>
+related-health-condition(1)/name: acromicric dysplasia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/acromicric-dysplasia
+related-health-condition(2)/name: familial thoracic aortic aneurysm and dissection
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-thoracic-aortic-aneurysm-and-dissection
+related-health-condition(3)/name: geleophysic dysplasia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/geleophysic-dysplasia
+related-health-condition(4)/name: isolated ectopia lentis
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/isolated-ectopia-lentis
+related-health-condition(5)/name: Marfan syndrome
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/marfan-syndrome
+related-health-condition(6)/name: Shprintzen-Goldberg syndrome
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/shprintzen-goldberg-syndrome
+related-health-condition(7)/name: Weill-Marchesani syndrome
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/weill-marchesani-syndrome
+synonym(1): FBN
+synonym(2): FBN1_HUMAN
+synonym(3): fibrillin 1 (Marfan syndrome)
+synonym(4): MFS1
+synonym(5): SGS
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2200
+db-key(2)/db: OMIM
+db-key(2)/key: 134797
+db-key(3)/db: OMIM
+db-key(3)/key: 184900
+db-key(4)/db: OMIM
+db-key(4)/key: 604308
+reviewed: 2015-03
+published: 2018-04-17

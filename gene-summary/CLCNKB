@@ -1,0 +1,24 @@
+gene-symbol: CLCNKB
+name: chloride voltage-gated channel Kb
+ghr-page: https://ghr.nlm.nih.gov/gene/CLCNKB
+text/text-role: function
+text/html: <p>The <i>CLCNKB</i> gene belongs to the CLC family of genes, which provide instructions for making chloride channels. These channels, which transport negatively charged chlorine atoms (chloride ions), play a key role in a cell's ability to generate and transmit electrical signals. Some CLC channels regulate the flow of chloride ions across cell membranes, while others transport chloride ions within cells.</p><p>The <i>CLCNKB</i> gene provides instructions for making a chloride channel called ClC-Kb. These channels are found predominantly in the kidneys. ClC-Kb is one of several proteins that work together to regulate the movement of ions into and out of kidney cells. The transport of chloride ions by ClC-Kb channels is part of the mechanism by which the kidneys reabsorb salt (sodium chloride or NaCl) from the urine back into the bloodstream. The retention of salt affects the body's fluid levels and helps maintain blood pressure.</p><p>ClC-Kb channels are also located in the inner ear, where they play a role in normal hearing.</p>
+related-health-condition(1)/name: Bartter syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/bartter-syndrome
+related-health-condition(2)/name: Gitelman syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/gitelman-syndrome
+synonym(1): chloride channel Kb
+synonym(2): chloride channel protein ClC-Kb
+synonym(3): chloride channel, kidney, B
+synonym(4): chloride channel, voltage-sensitive Kb
+synonym(5): ClC-K2
+synonym(6): ClC-Kb
+synonym(7): CLCKB
+synonym(8): CLCKB_HUMAN
+synonym(9): hClC-Kb
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1188
+db-key(2)/db: OMIM
+db-key(2)/key: 602023
+reviewed: 2011-02
+published: 2018-04-17

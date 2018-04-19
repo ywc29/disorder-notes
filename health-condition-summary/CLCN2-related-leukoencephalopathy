@@ -1,0 +1,25 @@
+name: CLCN2-related leukoencephalopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/clcn2-related-leukoencephalopathy
+text/text-role: description
+text/html: <p><i>CLCN2</i>-related leukoencephalopathy is a disorder that affects the brain. People with this condition have neurological problems that become apparent anytime from childhood to adulthood; the problems generally do not worsen much over time. Most affected individuals have difficulty with coordination and balance (ataxia) but can walk without support, and many have frequent headaches. Individuals diagnosed in childhood usually also have learning disabilities, while those whose symptoms begin in adulthood typically also have vision problems. These vision problems are due to breakdown of the light-sensing tissue at the back of the eyes (retinopathy) or degeneration (atrophy) of the optic nerves, which carry information from the eyes to the brain. Some affected individuals have mild muscle stiffness (spasticity). Affected males are unable to father children (infertile).</p><p>Rarely, affected individuals have dizziness (vertigo), ringing in the ears (tinnitus), hearing loss, episodes of abnormal movements (paroxysmal kinesigenic dyskinesia), or psychiatric disorders. However, it is unclear whether these are features of <i>CLCN2</i>-related leukoencephalopathy or coincidental findings.</p><p>The neurological problems in <i>CLCN2</i>-related leukoencephalopathy are caused by abnormalities in the brain. People with this condition have leukoencephalopathy, an abnormality of the brain's white matter that can be detected with medical imaging. White matter consists of nerve fibers covered by a fatty substance called myelin. Myelin insulates nerve fibers and promotes the rapid transmission of nerve impulses. In affected individuals, the myelin becomes fluid-filled (edematous), impairing nerve impulse transmission.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CLCN2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CLCN2
+synonym(1): CC2L
+synonym(2): leukoencephalopathy with ataxia
+synonym(3): leukoencephalopathy with mild cerebellar ataxia and white matter edema
+synonym(4): leukoencephalopathy with white matter edema
+synonym(5): LKPAT
+db-key(1)/db: GTR
+db-key(1)/key: C3810242
+db-key(2)/db: GeneReviews
+db-key(2)/key: cc2-leuk
+db-key(3)/db: MeSH
+db-key(3)/key: D056784
+db-key(4)/db: OMIM
+db-key(4)/key: 615651
+db-key(5)/db: Orphanet
+db-key(5)/key: 363540
+reviewed: 2017-12
+published: 2018-04-17

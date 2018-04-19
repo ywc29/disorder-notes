@@ -1,0 +1,16 @@
+gene-symbol: BBS10
+name: Bardet-Biedl syndrome 10
+ghr-page: https://ghr.nlm.nih.gov/gene/BBS10
+text/text-role: function
+text/html: <p>The <i>BBS10</i> gene provides instructions for making a protein that is found in many types of cells. The BBS10 protein is part of a group (complex) of proteins that functions as a chaperonin. Chaperonins help fold other proteins into their correct 3-dimensional shapes so they can perform their usual functions in the body.</p><p>Studies suggest that the BBS10 protein helps fold or stabilize certain proteins that are necessary for the normal formation of cilia. Cilia are microscopic, finger-like projections that stick out from the surface of many types of cells. They are involved in cell movement and many different chemical signaling pathways. Cilia are also necessary for the perception of sensory input (such as sight, hearing, and smell).</p>
+related-health-condition/name: Bardet-Biedl syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/bardet-biedl-syndrome
+synonym(1): BBS10_HUMAN
+synonym(2): C12orf58
+synonym(3): FLJ23560
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 79738
+db-key(2)/db: OMIM
+db-key(2)/key: 610148
+reviewed: 2010-05
+published: 2018-04-17

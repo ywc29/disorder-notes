@@ -1,0 +1,23 @@
+gene-symbol: WISP3
+name: WNT1 inducible signaling pathway protein 3
+ghr-page: https://ghr.nlm.nih.gov/gene/WISP3
+text/text-role: function
+text/html: <p>The <i>WISP3</i> gene provides instructions for making a protein that appears to be involved in bone growth and the maintenance of cartilage, which covers and protects the ends of bones. The function of the WISP3 protein is not well understood. It is part of a family of proteins that are involved in the growth and maintenance of connective tissues, such as bone, cartilage, and blood vessels. The WISP3 protein is made in cells called chondrocytes, which produce and maintain cartilage, and is associated with the production of certain proteins that make up cartilage, but its role in their production is unclear. WISP3 may also help control signaling pathways involved in the development of cartilage and bone and may help regulate the breakdown of cartilage components.</p>
+related-health-condition(1)/name: juvenile idiopathic arthritis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-idiopathic-arthritis
+related-health-condition(2)/name: progressive pseudorheumatoid dysplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/progressive-pseudorheumatoid-dysplasia
+synonym(1): CCN family member 6
+synonym(2): CCN6
+synonym(3): LIBC
+synonym(4): PPAC
+synonym(5): PPD
+synonym(6): WISP-3
+synonym(7): WISP3_HUMAN
+synonym(8): WNT1-inducible-signaling pathway protein 3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8838
+db-key(2)/db: OMIM
+db-key(2)/key: 603400
+reviewed: 2013-04
+published: 2018-04-17

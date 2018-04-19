@@ -1,0 +1,10 @@
+gene-symbol: CRYAB
+name: crystallin alpha B
+ghr-page: https://ghr.nlm.nih.gov/gene/CRYAB
+related-health-condition(1)/name: familial dilated cardiomyopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+related-health-condition(2)/name: myofibrillar myopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/myofibrillar-myopathy
+db-key/db: NCBI Gene
+db-key/key: 1410
+published: 2018-04-17

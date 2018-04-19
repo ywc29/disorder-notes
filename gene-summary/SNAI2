@@ -1,0 +1,25 @@
+gene-symbol: SNAI2
+name: snail family transcriptional repressor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/SNAI2
+text/text-role: function
+text/html: <p>The <i>SNAI2</i> gene (often called <i>SLUG</i>) provides the instructions for making a protein called snail 2. Snail 2 belongs to the snail protein family, which plays a role in the formation of tissues during embryonic development. The snail 2 protein is also found in most adult tissues, so it probably helps maintain the normal function of cells after birth. To carry out these roles, snail 2 attaches to critical regions of DNA and helps control the activity of particular genes. On the basis of this action, the protein is called a transcription factor.</p><p>Research indicates that the snail 2 protein is required during embryonic growth for the development of cells called neural crest cells. Neural crest cells migrate from the developing spinal cord to specific regions in the embryo and give rise to many tissues and cell types, including some nerve tissue and pigment-producing cells called melanocytes. Melanocytes produce the pigment melanin, which contributes to hair, eye, and skin color. Melanocytes are also found in certain regions of the brain and inner ear. The snail 2 protein probably plays a role in the formation and survival of melanocytes.</p>
+related-health-condition(1)/name: piebaldism
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/piebaldism
+related-health-condition(2)/name: Waardenburg syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/waardenburg-syndrome
+synonym(1): neural crest transcription factor SLUG
+synonym(2): SLUG
+synonym(3): slug homolog, zinc finger protein (chicken)
+synonym(4): SLUG_HUMAN
+synonym(5): SLUGH1
+synonym(6): snail 2
+synonym(7): snail family zinc finger 2
+synonym(8): snail homolog 2 (Drosophila)
+synonym(9): SNAIL2
+synonym(10): WS2D
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6591
+db-key(2)/db: OMIM
+db-key(2)/key: 602150
+reviewed: 2016-08
+published: 2018-04-17

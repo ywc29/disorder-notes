@@ -1,0 +1,19 @@
+gene-symbol: REEP1
+name: receptor accessory protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/REEP1
+text/text-role: function
+text/html: <p>The REEP1 gene provides instructions for making a protein called receptor expression-enhancing protein 1 (REEP1), which is found in nerve cells (neurons) in the brain and spinal cord. The REEP1 protein is located within cell compartments called mitochondria, which are the energy-producing centers in cells, and the endoplasmic reticulum, which helps with protein processing and transport.</p><p>The REEP1 protein plays a role in forming the network of tubules that make up the structure of the endoplasmic reticulum, regulating its size and determining how many proteins it can process. As part of its role in the endoplasmic reticulum, the REEP1 protein enhances the activity of certain other proteins called G protein-coupled receptors. These receptor proteins are eventually embedded within the outer membrane of cells, where they relay chemical signals from outside the cell to the interior of the cell.</p><p>The function of the REEP1 protein in the mitochondria is unknown.</p>
+related-health-condition(1)/name: distal hereditary motor neuropathy, type V
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/distal-hereditary-motor-neuropathy-type-v
+related-health-condition(2)/name: spastic paraplegia type 31
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/spastic-paraplegia-type-31
+synonym(1): C2orf23
+synonym(2): FLJ13110
+synonym(3): receptor expression-enhancing protein 1
+synonym(4): REEP1_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 65055
+db-key(2)/db: OMIM
+db-key(2)/key: 609139
+reviewed: 2015-04
+published: 2018-04-17

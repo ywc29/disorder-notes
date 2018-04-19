@@ -1,0 +1,23 @@
+gene-symbol: F8
+name: coagulation factor VIII
+ghr-page: https://ghr.nlm.nih.gov/gene/F8
+text/text-role: function
+text/html: <p>The <i>F8</i> gene provides instructions for making a protein called coagulation factor VIII. Coagulation factors are a group of related proteins that are essential for the formation of blood clots. After an injury, clots protect the body by sealing off damaged blood vessels and preventing further blood loss.</p><p>Coagulation factor VIII is made chiefly by cells in the liver. This protein circulates in the bloodstream in an inactive form, bound to another molecule called von Willebrand factor, until an injury that damages blood vessels occurs.  In response to injury, coagulation factor VIII is activated and separates from von Willebrand factor. The active protein (sometimes written as coagulation factor VIIIa) interacts with another coagulation factor called factor IX. This interaction sets off a chain of additional chemical reactions that form a blood clot.</p>
+related-health-condition/name: hemophilia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hemophilia
+synonym(1): AHF
+synonym(2): antihemophilic factor
+synonym(3): coagulation factor VIII, procoagulant component
+synonym(4): coagulation factor VIII, procoagulant component (hemophilia A)
+synonym(5): DXS1253E
+synonym(6): FA8_HUMAN
+synonym(7): Factor VIIIF8B
+synonym(8): FVIII
+synonym(9): HEMA
+synonym(10): procoagulant component
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2157
+db-key(2)/db: OMIM
+db-key(2)/key: 300841
+reviewed: 2010-05
+published: 2018-04-17

@@ -1,0 +1,23 @@
+name: Infantile systemic hyalinosis
+ghr-page: https://ghr.nlm.nih.gov/condition/infantile-systemic-hyalinosis
+text/text-role: description
+text/html: <p>Infantile systemic hyalinosis is a disorder that severely affects many areas of the body, including the skin, joints, bones, and internal organs. Hyalinosis refers to the abnormal accumulation of a clear (hyaline) substance in body tissues. The signs and symptoms of this condition are present at birth or develop within the first few months of life. Infantile systemic hyalinosis is characterized by painful skin bumps that frequently appear on the hands, neck, scalp, ears, and nose. They also develop in joint creases and the genital region. These skin bumps may be large or small and often increase in number over time.</p><p>Lumps of noncancerous tissue also form in the muscles and internal organs of children with infantile systemic hyalinosis, causing pain and severe complications. Most affected individuals develop a condition called protein-losing enteropathy due to the formation of lumps in their intestines. This condition results in severe diarrhea, failure to gain weight and grow at the expected rate (failure to thrive), and general wasting and weight loss (cachexia).</p><p>Infantile systemic hyalinosis is also characterized by overgrowth of the gums (gingival hypertrophy). Additionally, people with this condition have joint deformities (contractures) that impair movement. Affected individuals may grow slowly and have bone abnormalities.</p><p>Although children with infantile systemic hyalinosis have severe physical limitations, mental development is typically normal. Affected individuals often do not survive beyond early childhood due to chronic diarrhea and recurrent infections.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ANTXR2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ANTXR2
+synonym: inherited systemic hyalinosis
+db-key(1)/db: GTR
+db-key(1)/key: C2745948
+db-key(2)/db: GeneReviews
+db-key(2)/key: sys-h
+db-key(3)/db: MeSH
+db-key(3)/key: D057770
+db-key(4)/db: OMIM
+db-key(4)/key: 228600
+db-key(5)/db: Orphanet
+db-key(5)/key: 2176
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 238867003
+reviewed: 2008-12
+published: 2018-04-17

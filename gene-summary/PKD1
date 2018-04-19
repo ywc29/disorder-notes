@@ -1,0 +1,21 @@
+gene-symbol: PKD1
+name: polycystin 1, transient receptor potential channel interacting
+ghr-page: https://ghr.nlm.nih.gov/gene/PKD1
+text/text-role: function
+text/html: <p>The <i>PKD1</i> gene provides instructions for making a protein called polycystin-1.  This protein is most active in kidney cells before birth; much less of the protein is made in normal adult kidneys.  Although its exact function is not well understood, polycystin-1 appears to interact with a smaller, somewhat similar protein called polycystin-2.</p><p>Polycystin-1 spans the cell membrane of kidney cells, so that one end of the protein remains inside the cell and the other end projects from the outer surface of the cell. This positioning of the protein allows it to interact with other proteins, carbohydrates, and fat molecules (lipids) outside the cell and to receive signals that help the cell respond to its environment. When a molecule binds to polycystin-1 on the surface of the cell, the protein interacts with polycystin-2 to trigger a cascade of chemical reactions inside the cell. These chemical reactions instruct the cell to undergo certain changes, such as maturing to take on specialized functions.  Polycystin-1 and polycystin-2 likely work together to help regulate cell growth and division (proliferation), cell movement (migration), and interactions with other cells.</p><p>Polycystin-1 is also found in cell structures called primary cilia.  Primary cilia are tiny, fingerlike projections that line the small tubes where urine is formed (renal tubules).  Researchers believe that primary cilia sense the movement of fluid through these tubules, which appears to help maintain the tubules' size and structure.  The interaction of polycystin-1 and polycystin-2 in renal tubules promotes the normal development and function of the kidneys.</p>
+related-health-condition/name: polycystic kidney disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/polycystic-kidney-disease
+synonym(1): Lov-1
+synonym(2): PBP
+synonym(3): Pc-1
+synonym(4): PC1
+synonym(5): PKD1_HUMAN
+synonym(6): polycystic kidney disease 1 (autosomal dominant)
+synonym(7): polycystin-1
+synonym(8): TRPP1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5310
+db-key(2)/db: OMIM
+db-key(2)/key: 601313
+reviewed: 2006-06
+published: 2018-04-17

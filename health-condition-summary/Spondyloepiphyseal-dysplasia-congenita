@@ -1,0 +1,26 @@
+name: Spondyloepiphyseal dysplasia congenita
+ghr-page: https://ghr.nlm.nih.gov/condition/spondyloepiphyseal-dysplasia-congenita
+text/text-role: description
+text/html: <p>Spondyloepiphyseal dysplasia congenita is an inherited bone growth disorder that results in short stature (dwarfism), skeletal abnormalities, and problems with vision and hearing. This condition affects the bones of the spine (spondylo-) and the ends (epiphyses) of long bones in the arms and legs. Congenita indicates that the condition is present from birth.</p><p>People with spondyloepiphyseal dysplasia congenita have short stature from birth, with a very short trunk and neck and shortened limbs. Their hands and feet, however, are usually average-sized. Adult height ranges from 3 feet to just over 4 feet. Abnormal curvature of the spine (kyphoscoliosis and lordosis) becomes more severe during childhood. Instability of the spinal bones (vertebrae) in the neck may increase the risk of spinal cord damage. Other skeletal features include flattened vertebrae (platyspondyly); an abnormality of the hip joint that causes the upper leg bones to turn inward (coxa vara); a foot deformity called a clubfoot; and a broad, barrel-shaped chest. Abnormal development of the chest can cause problems with breathing. Arthritis and decreased joint mobility often develop early in life.</p><p>People with spondyloepiphyseal dysplasia congenita have mild changes in their facial features. The cheekbones close to the nose may appear flattened. Some infants are born with an opening in the roof of the mouth (a cleft palate). Severe nearsightedness (high myopia) is common, as are other eye problems that can impair vision. About one quarter of people with this condition have hearing loss.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: COL2A1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/COL2A1
+synonym(1): SED congenita
+synonym(2): SED, congenital type
+synonym(3): SEDc
+synonym(4): Spondyloepiphyseal dysplasia, congenital type
+db-key(1)/db: GTR
+db-key(1)/key: C0038015
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: Q77.7
+db-key(3)/db: MeSH
+db-key(3)/key: D010009
+db-key(4)/db: OMIM
+db-key(4)/key: 183900
+db-key(5)/db: Orphanet
+db-key(5)/key: 94068
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 278713008
+reviewed: 2016-04
+published: 2018-04-17

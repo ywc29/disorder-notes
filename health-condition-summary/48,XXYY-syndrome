@@ -1,0 +1,21 @@
+name: 48,XXYY syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/48xxyy-syndrome
+text/text-role: description
+text/html: <p>48,XXYY syndrome is a chromosomal condition that causes infertility, developmental and behavioral disorders, and other health problems in males.</p><p>48,XXYY disrupts male sexual development. Adolescent and adult males with this condition typically have small testes that do not produce enough testosterone, which is the hormone that directs male sexual development. A shortage of testosterone during puberty can lead to reduced facial and body hair, poor muscle development, low energy levels, and an increased risk for breast enlargement (gynecomastia). Because their testes do not function normally, males with 48, XXYY syndrome have an inability to father children (infertility).</p><p>48,XXYY syndrome can affect other parts of the body as well. Males with 48,XXYY syndrome are often taller than other males their age with an average adult height of 6 feet 4 inches (193 cm). They tend to develop a tremor that typically starts in adolescence and increases with age. Dental problems are frequently seen with this condition; they include delayed appearance of the primary (baby) or secondary (adult) teeth, thin tooth enamel, crowded and/or misaligned teeth, and multiple cavities. As affected males get older, they may develop a narrowing of the blood vessels in the legs, called peripheral vascular disease. Peripheral vascular disease can cause skin ulcers to form. Affected males are also at risk for developing a type of clot called a deep vein thrombosis (DVT) that occurs in the deep veins of the legs. Additionally, males with 48,XXYY syndrome may have flat feet (pes planus), elbow abnormalities, abnormal fusion of certain bones in the forearm (radioulnar synostosis), allergies, asthma, type 2 diabetes, seizures, and congenital heart defects.</p><p>Most males with 48,XXYY syndrome have an IQ that ranges from 70-80 with some degree of difficulty with speech and language development. Learning disabilities, especially those that are language-based, are very common in males with this disorder. Affected males seem to perform better at tasks focused on math, visual-spatial skills such as puzzles, and memorization of locations or directions. Some boys with 48,XXYY syndrome have delayed development of motor skills such as sitting, standing, and walking that can lead to poor coordination. Affected males have higher than average rates of behavioral disorders, such as attention deficit hyperactivity disorder (ADHD); mood disorders, including anxiety and bipolar disorder; and autism spectrum disorder, which affects communication and social interaction.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-chromosome(1)/name: X
+related-chromosome(1)/ghr-page: https://ghr.nlm.nih.gov/chromosome/X
+related-chromosome(2)/name: Y
+related-chromosome(2)/ghr-page: https://ghr.nlm.nih.gov/chromosome/Y
+synonym: XXYY syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C2936741
+db-key(2)/db: MeSH
+db-key(2)/key: D007713
+db-key(3)/db: Orphanet
+db-key(3)/key: 10
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 403760006
+reviewed: 2017-10
+published: 2018-04-17

@@ -1,0 +1,87 @@
+name: Niemann-Pick disease
+ghr-page: https://ghr.nlm.nih.gov/condition/niemann-pick-disease
+text/text-role: description
+text/html: <p>Niemann-Pick disease is a condition that affects many body systems. It has a wide range of symptoms that vary in severity. Niemann-Pick disease is divided into four main types: type A, type B, type C1, and type C2. These types are classified on the basis of genetic cause and the signs and symptoms of the condition.</p><p>Infants with Niemann-Pick disease type A usually develop an enlarged liver and spleen (hepatosplenomegaly) by age 3 months and fail to gain weight and grow at the expected rate (failure to thrive). The affected children develop normally until around age 1 year when they experience a progressive loss of mental abilities and movement (psychomotor regression). Children with Niemann-Pick disease type A also develop widespread lung damage (interstitial lung disease) that can cause recurrent lung infections and eventually lead to respiratory failure. All affected children have an eye abnormality called a cherry-red spot, which can be identified with an eye examination. Children with Niemann-Pick disease type A generally do not survive past early childhood.</p><p>Niemann-Pick disease type B usually presents in mid-childhood. The signs and symptoms of this type are similar to type A, but not as severe. People with Niemann-Pick disease type B often have hepatosplenomegaly, recurrent lung infections, and a low number of platelets in the blood (thrombocytopenia). They also have short stature and slowed mineralization of bone (delayed bone age). About one-third of affected individuals have the cherry-red spot eye abnormality or neurological impairment. People with Niemann-Pick disease type B usually survive into adulthood.</p><p>The signs and symptoms of Niemann-Pick disease types C1 and C2 are very similar; these types differ only in their genetic cause. Niemann-Pick disease types C1 and C2 usually become apparent in childhood, although signs and symptoms can develop at any time. People with these types usually develop difficulty coordinating movements (ataxia), an inability to move the eyes vertically (vertical supranuclear gaze palsy), poor muscle tone (dystonia), severe liver disease, and interstitial lung disease. Individuals with Niemann-Pick disease types C1 and C2 have problems with speech and swallowing that worsen over time, eventually interfering with feeding. Affected individuals often experience progressive decline in intellectual function and about one-third have seizures. People with these types may survive into adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: NPC1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/NPC1
+related-gene(2)/gene-symbol: NPC2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/NPC2
+related-gene(3)/gene-symbol: SMPD1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/SMPD1
+synonym(1): lipid histiocytosis
+synonym(2): neuronal cholesterol lipidosis
+synonym(3): neuronal lipidosis
+synonym(4): NPD
+synonym(5): sphingomyelin lipidosis
+synonym(6): sphingomyelin/cholesterol lipidosis
+synonym(7): sphingomyelinase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0028064
+db-key(2)/db: GTR
+db-key(2)/key: C0220756
+db-key(3)/db: GTR
+db-key(3)/key: C0268242
+db-key(4)/db: GTR
+db-key(4)/key: C0268243
+db-key(5)/db: GTR
+db-key(5)/key: C0268247
+db-key(6)/db: GTR
+db-key(6)/key: C1843366
+db-key(7)/db: GTR
+db-key(7)/key: C2675646
+db-key(8)/db: GTR
+db-key(8)/key: C3179455
+db-key(9)/db: GeneReviews
+db-key(9)/key: npab
+db-key(10)/db: GeneReviews
+db-key(10)/key: npc
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: E75.24
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: E75.240
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: E75.241
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: E75.242
+db-key(15)/db: ICD-10-CM
+db-key(15)/key: E75.243
+db-key(16)/db: ICD-10-CM
+db-key(16)/key: E75.248
+db-key(17)/db: ICD-10-CM
+db-key(17)/key: E75.249
+db-key(18)/db: MeSH
+db-key(18)/key: D009542
+db-key(19)/db: OMIM
+db-key(19)/key: 257200
+db-key(20)/db: OMIM
+db-key(20)/key: 257220
+db-key(21)/db: OMIM
+db-key(21)/key: 607616
+db-key(22)/db: OMIM
+db-key(22)/key: 607625
+db-key(23)/db: Orphanet
+db-key(23)/key: 646
+db-key(24)/db: Orphanet
+db-key(24)/key: 77292
+db-key(25)/db: Orphanet
+db-key(25)/key: 77293
+db-key(26)/db: Orphanet
+db-key(26)/key: 79289
+db-key(27)/db: Orphanet
+db-key(27)/key: 99022
+db-key(28)/db: SNOMED CT
+db-key(28)/key: 18927009
+db-key(29)/db: SNOMED CT
+db-key(29)/key: 39390005
+db-key(30)/db: SNOMED CT
+db-key(30)/key: 52165006
+db-key(31)/db: SNOMED CT
+db-key(31)/key: 58459009
+db-key(32)/db: SNOMED CT
+db-key(32)/key: 66751000
+db-key(33)/db: SNOMED CT
+db-key(33)/key: 73399005
+reviewed: 2015-01
+published: 2018-04-17

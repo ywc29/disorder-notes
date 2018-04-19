@@ -1,0 +1,18 @@
+gene-symbol: GLRA1
+name: glycine receptor alpha 1
+ghr-page: https://ghr.nlm.nih.gov/gene/GLRA1
+text/text-role: function
+text/html: <p>The <i>GLRA1</i> gene provides instructions for making one part, the alpha (α)1 subunit, of the glycine receptor protein. The glycine receptor is most abundant in nerve cells (neurons) in the spinal cord and the part of the brain that is connected to the spinal cord (the brainstem). The glycine receptor is made up of five subunits: two α1 subunits and three beta (β) subunits. The β subunit is produced from a different gene.</p><p>Receptor proteins have specific sites into which certain other molecules, called ligands, fit like keys into locks. Together, ligands and their receptors trigger signals that affect cell development and function. The ligand for the glycine receptor is the amino acid glycine. This molecule acts as a neurotransmitter, which is a chemical messenger that transmits signals in the nervous system.</p><p>When glycine attaches (binds) to the glycine receptor, the receptor opens to allow negatively charged chlorine atoms (chloride ions) to enter the cell. This influx of chloride ions reduces the cell's ability to transmit signals to other cells. Because they stop (inhibit) signaling, glycine receptors are known as inhibitory receptors.</p>
+related-health-condition/name: hereditary hyperekplexia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hyperekplexia
+synonym(1): GLRA1_HUMAN
+synonym(2): glycine receptor, alpha 1
+synonym(3): glycine receptor, alpha 1 isoform 1 precursor
+synonym(4): glycine receptor, alpha 1 isoform 2 precursor
+synonym(5): STHE
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2741
+db-key(2)/db: OMIM
+db-key(2)/key: 138491
+reviewed: 2010-04
+published: 2018-04-17

@@ -1,0 +1,57 @@
+name: Hereditary spherocytosis
+ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-spherocytosis
+text/text-role: description
+text/html: <p>Hereditary spherocytosis is a condition that affects red blood cells. People with this condition typically experience a shortage of red blood cells (anemia), yellowing of the eyes and skin (jaundice), and an enlarged spleen (splenomegaly). Most newborns with hereditary spherocytosis have severe anemia, although it improves after the first year of life. Splenomegaly can occur anytime from early childhood to adulthood. About half of affected individuals develop hard deposits in the gallbladder called gallstones, which typically occur from late childhood to mid-adulthood.</p><p>There are four forms of hereditary spherocytosis, which are distinguished by the severity of signs and symptoms. They are known as the mild form, the moderate form, the moderate/severe form, and the severe form. It is estimated that 20 to 30 percent of people with hereditary spherocytosis have the mild form, 60 to 70 percent have the moderate form, 10 percent have the moderate/severe form, and 3 to 5 percent have the severe form.</p><p>People with the mild form may have very mild anemia or sometimes have no symptoms. People with the moderate form typically have anemia, jaundice, and splenomegaly. Many also develop gallstones. The signs and symptoms of moderate hereditary spherocytosis usually appear in childhood. Individuals with the moderate/severe form have all the features of the moderate form but also have severe anemia. Those with the severe form have life-threatening anemia that requires frequent blood transfusions  to replenish their red blood cell supply. They also have severe splenomegaly, jaundice, and a high risk for developing gallstones. Some individuals with the severe form have short stature, delayed sexual development, and skeletal abnormalities.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: ANK1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ANK1
+related-gene(2)/gene-symbol: EPB42
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/EPB42
+related-gene(3)/gene-symbol: SLC4A1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC4A1
+related-gene(4)/gene-symbol: SPTA1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SPTA1
+related-gene(5)/gene-symbol: SPTB
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/SPTB
+synonym(1): congenital spherocytic hemolytic anemia
+synonym(2): congenital spherocytosis
+synonym(3): HS
+synonym(4): spherocytic anemia
+synonym(5): spherocytosis, type 1
+db-key(1)/db: GTR
+db-key(1)/key: C0037889
+db-key(2)/db: GTR
+db-key(2)/key: C2674219
+db-key(3)/db: GTR
+db-key(3)/key: C2675192
+db-key(4)/db: GTR
+db-key(4)/key: C2675212
+db-key(5)/db: GTR
+db-key(5)/key: C2678338
+db-key(6)/db: GTR
+db-key(6)/key: CN068423
+db-key(7)/db: GeneReviews
+db-key(7)/key: epb42-spherocytosis
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: D58.0
+db-key(9)/db: MeSH
+db-key(9)/key: D013103
+db-key(10)/db: OMIM
+db-key(10)/key: 182870
+db-key(11)/db: OMIM
+db-key(11)/key: 182900
+db-key(12)/db: OMIM
+db-key(12)/key: 270970
+db-key(13)/db: OMIM
+db-key(13)/key: 612653
+db-key(14)/db: OMIM
+db-key(14)/key: 612690
+db-key(15)/db: Orphanet
+db-key(15)/key: 822
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 55995005
+reviewed: 2013-09
+published: 2018-04-17

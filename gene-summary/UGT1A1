@@ -1,0 +1,37 @@
+gene-symbol: UGT1A1
+name: UDP glucuronosyltransferase family 1 member A1
+ghr-page: https://ghr.nlm.nih.gov/gene/UGT1A1
+text/text-role: function
+text/html: <p>The <i>UGT1A1</i> gene belongs to a family of genes that provide instructions for making enzymes called UDP-glucuronosyltransferases. These enzymes perform a chemical reaction called glucuronidation, in which a compound called glucuronic acid is attached (conjugated) to one of a number of different substances.</p><p>The protein produced from the <i>UGT1A1</i> gene, called the bilirubin uridine diphosphate glucuronosyl transferase (bilirubin-UGT) enzyme, is the only enzyme that glucuronidates bilirubin, a substance produced when red blood cells are broken down. This enzyme converts the toxic form of bilirubin (unconjugated bilirubin) to its nontoxic form (conjugated bilirubin), making it able to be dissolved and removed from the body.</p><p>The bilirubin-UGT enzyme is primarily found in cells of the liver, where bilirubin glucuronidation takes place. Conjugated bilirubin is dissolved in bile, a fluid produced in the liver, and excreted with solid waste.</p>
+related-health-condition(1)/name: Crigler-Najjar syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/crigler-najjar-syndrome
+related-health-condition(2)/name: Gilbert syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/gilbert-syndrome
+related-health-condition(3)/name: warfarin resistance
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/warfarin-resistance
+synonym(1): BILIQTL1
+synonym(2): bilirubin-specific UDPGT isozyme 1
+synonym(3): bilirubin UDP-glucuronosyltransferase 1-1
+synonym(4): GNT1
+synonym(5): HUG-BR1
+synonym(6): UD11_HUMAN
+synonym(7): UDP-glucuronosyltransferase 1-A
+synonym(8): UDP glucuronosyltransferase 1 family, polypeptide A1
+synonym(9): UDP-glucuronosyltransferase 1A1
+synonym(10): UDP glycosyltransferase 1 family, polypeptide A1
+synonym(11): UDPGT
+synonym(12): UDPGT 1-1
+synonym(13): UGT-1A
+synonym(14): UGT1
+synonym(15): UGT1-01
+synonym(16): UGT1*1
+synonym(17): UGT1.1
+synonym(18): UGT1A
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 54658
+db-key(2)/db: OMIM
+db-key(2)/key: 191740
+db-key(3)/db: OMIM
+db-key(3)/key: 237900
+reviewed: 2012-02
+published: 2018-04-17

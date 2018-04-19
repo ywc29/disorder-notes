@@ -1,0 +1,23 @@
+gene-symbol: TSC1
+name: TSC complex subunit 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TSC1
+text/text-role: function
+text/html: <p>The <i>TSC1</i> gene provides instructions for producing a protein called hamartin, whose function is not fully understood. Within cells, hamartin interacts with a protein called tuberin, which is produced from the <i>TSC2</i> gene. These two proteins help control cell growth and size. Proteins that normally prevent cells from growing and dividing too fast or in an uncontrolled way are known as tumor suppressors. Hamartin and tuberin carry out their tumor suppressor function by interacting with and regulating a wide variety of other proteins.</p>
+related-health-condition(1)/name: bladder cancer
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/bladder-cancer
+related-health-condition(2)/name: lymphangioleiomyomatosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/lymphangioleiomyomatosis
+related-health-condition(3)/name: tuberous sclerosis complex
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/tuberous-sclerosis-complex
+synonym(1): hamartin
+synonym(2): KIAA0243
+synonym(3): TSC1_HUMAN
+synonym(4): tuberous sclerosis 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7248
+db-key(2)/db: OMIM
+db-key(2)/key: 605284
+db-key(3)/db: OMIM
+db-key(3)/key: 607341
+reviewed: 2010-06
+published: 2018-04-17

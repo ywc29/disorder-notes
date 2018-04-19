@@ -1,0 +1,39 @@
+gene-symbol: CFH
+name: complement factor H
+ghr-page: https://ghr.nlm.nih.gov/gene/CFH
+text/text-role: function
+text/html: <p>The <i>CFH</i> gene provides instructions for making a protein called complement factor H. This protein helps regulate a part of the body's immune response known as the complement system. The complement system is a group of proteins that work together to destroy foreign invaders (such as bacteria and viruses), trigger an inflammatory response, and remove debris from cells and tissues. This system must be carefully regulated so it targets only unwanted materials and does not damage the body's healthy cells. Complement factor H, together with several related proteins, protects healthy cells by preventing the complement system from being turned on (activated) when it is not needed.</p>
+related-health-condition(1)/name: age-related macular degeneration
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
+related-health-condition(2)/name: atypical hemolytic-uremic syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/atypical-hemolytic-uremic-syndrome
+related-health-condition(3)/name: C3 glomerulopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/c3-glomerulopathy
+synonym(1): age-related maculopathy susceptibility 1
+synonym(2): AHUS1
+synonym(3): ARMD4
+synonym(4): ARMS1
+synonym(5): beta-1-H-globulin
+synonym(6): beta-1H
+synonym(7): C3b inactivator accelerator
+synonym(8): CFAH_HUMAN
+synonym(9): CFHL3
+synonym(10): factor H
+synonym(11): factor H-like 1
+synonym(12): FH
+synonym(13): FHL1
+synonym(14): H factor 1 (complement)
+synonym(15): H factor 2 (complement)
+synonym(16): HF
+synonym(17): HF1
+synonym(18): HF2
+synonym(19): HUS
+synonym(20): MGC88246
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3075
+db-key(2)/db: OMIM
+db-key(2)/key: 126700
+db-key(3)/db: OMIM
+db-key(3)/key: 134370
+reviewed: 2015-12
+published: 2018-04-17

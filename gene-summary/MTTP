@@ -1,0 +1,20 @@
+gene-symbol: MTTP
+name: microsomal triglyceride transfer protein
+ghr-page: https://ghr.nlm.nih.gov/gene/MTTP
+text/text-role: function
+text/html: <p>The <i>MTTP</i> gene provides instructions for making a protein called microsomal triglyceride transfer protein. This protein helps produce beta-lipoproteins, which are molecules that are made up of proteins (including one called apolipoprotein B), cholesterol, and particular types of fats called phospholipids and triglycerides.</p><p>Different types of beta-lipoproteins are made in the intestine and liver. In the intestine, beta-lipoproteins include chylomicrons, which are formed as food is digested after a meal to carry dietary fats and cholesterol from the intestine to the bloodstream. Chylomicrons are also necessary for the absorption of certain fat-soluble vitamins, such as vitamins E, A, and K. In the liver, beta-lipoproteins include low-density lipoproteins (LDL) and very low-density lipoproteins (VLDL). These lipoproteins transport fats, cholesterol, and fat-soluble vitamins in the bloodstream to tissues throughout the body. Sufficient levels of fats, cholesterol, and vitamins are necessary for normal growth, development, and maintenance of the body's cells and tissues.</p>
+related-health-condition/name: abetalipoproteinemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/abetalipoproteinemia
+synonym(1): ABL
+synonym(2): microsomal TG transfer protein
+synonym(3): microsomal triglyceride transfer protein (large polypeptide, 88kD)
+synonym(4): microsomal triglyceride transfer protein large subunit
+synonym(5): MTP
+synonym(6): MTP triglyceride carrier
+synonym(7): MTP_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4547
+db-key(2)/db: OMIM
+db-key(2)/key: 157147
+reviewed: 2018-02
+published: 2018-04-17

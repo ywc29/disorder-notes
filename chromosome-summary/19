@@ -1,0 +1,8 @@
+name: 19
+ghr-page: https://ghr.nlm.nih.gov/chromosome/19
+text/text-role: description
+text/html: <p>Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 19, one copy inherited from each parent, form one of the pairs. Chromosome 19 spans about 59 million base pairs (the building blocks of DNA) and represents almost 2 percent of the total DNA in cells.</p><p>Identifying genes on each chromosome is an active area of genetic research.  Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 19 likely contains about 1,500 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.</p>
+related-health-condition/name: 19p13.13 deletion syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/19p1313-deletion-syndrome
+reviewed: 2016-06
+published: 2018-04-17

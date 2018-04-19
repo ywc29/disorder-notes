@@ -1,0 +1,40 @@
+gene-symbol: TAF1
+name: TATA-box binding protein associated factor 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TAF1
+text/text-role: function
+text/html: <p>The <i>TAF1</i> gene provides instructions for making part of a protein called transcription factor IID (TFIID). This protein is active in cells and tissues throughout the body, where it attaches (binds) to DNA.  Transcription factor IID  plays an essential role in regulating the activity of most genes.</p><p>The <i>TAF1</i> gene is part of a complex region of DNA known as the <i>TAF1/DYT3</i> multiple transcript system. This region consists of short stretches of DNA from the <i>TAF1</i> gene plus some extra segments of genetic material near the gene. These stretches of DNA can be combined in different ways to create various sets of instructions for making proteins. Researchers believe that some of these variations are critical for the normal function of nerve cells (neurons) in the brain.</p>
+related-health-condition/name: X-linked dystonia-parkinsonism
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-dystonia-parkinsonism
+synonym(1): BA2R
+synonym(2): CCG1
+synonym(3): CCGS
+synonym(4): Cell cycle gene 1 protein
+synonym(5): cell cycle, G1 phase defect
+synonym(6): complementation of cell cycle block, G1-to-S
+synonym(7): DYT3
+synonym(8): DYT3/TAF1
+synonym(9): KAT4
+synonym(10): N-TAF1
+synonym(11): NSCL2
+synonym(12): P250
+synonym(13): TAF(II)250
+synonym(14): TAF1 RNA polymerase II, TATA box binding protein (TBP)-associated factor, 250kDa
+synonym(15): TAF1_HUMAN
+synonym(16): TAF2A
+synonym(17): TAFII-250
+synonym(18): TAFII250
+synonym(19): TATA box-binding protein-associated factor 1
+synonym(20): TATA box binding protein associated factor 1
+synonym(21): TATA box-binding protein-associated factor 2A
+synonym(22): TBP-associated factor 1
+synonym(23): TBP-associated factor 250 kDa
+synonym(24): TBP-associated factor, RNA polymerase II, 250-kD
+synonym(25): transcription factor TFIID p250 polypeptide
+synonym(26): Transcription initiation factor TFIID 250 kDa subunit
+synonym(27): Transcription initiation factor TFIID subunit 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6872
+db-key(2)/db: OMIM
+db-key(2)/key: 313650
+reviewed: 2008-12
+published: 2018-04-17

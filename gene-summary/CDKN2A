@@ -1,0 +1,51 @@
+gene-symbol: CDKN2A
+name: cyclin dependent kinase inhibitor 2A
+ghr-page: https://ghr.nlm.nih.gov/gene/CDKN2A
+text/text-role: function
+text/html: <p>The <i>CDKN2A</i> gene provides instructions for making several proteins. The most well-studied are the p16(INK4a) and the p14(ARF) proteins. Both function as tumor suppressors, which means they keep cells from growing and dividing too rapidly or in an uncontrolled way.</p><p>The p16(INK4a) protein attaches (binds) to two other proteins called CDK4 and CDK6. These proteins help regulate the cell cycle, which is the cell's way of replicating itself in an organized, step-by-step fashion. CDK4 and CDK6 normally stimulate the cell to continue through the cycle and divide. However, binding of p16(INK4a) blocks CDK4's or CDK6's ability to stimulate cell cycle progression. In this way, p16(INK4a) controls cell growth and division.</p><p>The p14(ARF) protein protects a different protein called p53 from being broken down. The p53 protein is an important tumor suppressor that is essential for regulating cell division and self-destruction (apoptosis). By protecting p53, p14(ARF) also helps prevent tumor formation.</p>
+related-health-condition(1)/name: head and neck squamous cell carcinoma
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/head-and-neck-squamous-cell-carcinoma
+related-health-condition(2)/name: lung cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/lung-cancer
+synonym(1): ARF
+synonym(2): CDK4 inhibitor p16-INK4
+synonym(3): CDK4I
+synonym(4): CDKN2
+synonym(5): cell cycle negative regulator beta
+synonym(6): CMM2
+synonym(7): cyclin-dependent kinase 4 inhibitor A
+synonym(8): cyclin-dependent kinase inhibitor 2A
+synonym(9): cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)
+synonym(10): cyclin-dependent kinase inhibitor 2A isoform p12
+synonym(11): cyclin-dependent kinase inhibitor 2A isoform p14ARF
+synonym(12): cyclin-dependent kinase inhibitor 2A isoform p16gamma
+synonym(13): cyclin-dependent kinase inhibitor 2A isoform p16INK4a
+synonym(14): INK4
+synonym(15): INK4A
+synonym(16): MLM
+synonym(17): MTS-1
+synonym(18): MTS1
+synonym(19): multiple tumor suppressor 1
+synonym(20): P14
+synonym(21): P14ARF
+synonym(22): P16
+synonym(23): P16-INK4A
+synonym(24): P16INK4
+synonym(25): P16INK4A
+synonym(26): P19
+synonym(27): P19ARF
+synonym(28): TP16
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1029
+db-key(2)/db: OMIM
+db-key(2)/key: 155601
+db-key(3)/db: OMIM
+db-key(3)/key: 155755
+db-key(4)/db: OMIM
+db-key(4)/key: 260350
+db-key(5)/db: OMIM
+db-key(5)/key: 600160
+db-key(6)/db: OMIM
+db-key(6)/key: 606719
+reviewed: 2015-01
+published: 2018-04-17

@@ -1,0 +1,42 @@
+name: Treacher Collins syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/treacher-collins-syndrome
+text/text-role: description
+text/html: <p>Treacher Collins syndrome is a condition that affects the development of bones and other tissues of the face. The signs and symptoms of this disorder vary greatly, ranging from almost unnoticeable to severe. Most affected individuals have underdeveloped facial bones, particularly the cheek bones, and a very small jaw and chin (micrognathia). Some people with this condition are also born with an opening in the roof of the mouth called a cleft palate. In severe cases, underdevelopment of the facial bones may restrict an affected infant's airway, causing potentially life-threatening respiratory problems.</p><p>People with Treacher Collins syndrome often have eyes that slant downward, sparse eyelashes, and a notch in the lower eyelids called an eyelid coloboma. Some affected individuals have additional eye abnormalities that can lead to vision loss. This condition is also characterized by absent, small, or unusually formed ears. Hearing loss occurs in about half of all affected individuals; hearing loss is caused by defects of the three small bones in the middle ear, which transmit sound, or by underdevelopment of the ear canal. People with Treacher Collins syndrome usually have normal intelligence.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: POLR1C
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/POLR1C
+related-gene(2)/gene-symbol: POLR1D
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/POLR1D
+related-gene(3)/gene-symbol: TCOF1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/TCOF1
+synonym(1): Franceschetti-Zwahlen-Klein syndrome
+synonym(2): mandibulofacial dysostosis (MFD1)
+synonym(3): Treacher Collins-Franceschetti syndrome
+synonym(4): zygoauromandibular dysplasia
+db-key(1)/db: GTR
+db-key(1)/key: C0242387
+db-key(2)/db: GTR
+db-key(2)/key: C1855433
+db-key(3)/db: GTR
+db-key(3)/key: C3150983
+db-key(4)/db: GTR
+db-key(4)/key: CN119605
+db-key(5)/db: GeneReviews
+db-key(5)/key: tcs
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: Q75.4
+db-key(7)/db: MeSH
+db-key(7)/key: D008342
+db-key(8)/db: OMIM
+db-key(8)/key: 154500
+db-key(9)/db: OMIM
+db-key(9)/key: 248390
+db-key(10)/db: OMIM
+db-key(10)/key: 613717
+db-key(11)/db: Orphanet
+db-key(11)/key: 861
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 82203000
+reviewed: 2012-06
+published: 2018-04-17

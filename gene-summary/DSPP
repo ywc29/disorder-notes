@@ -1,0 +1,27 @@
+gene-symbol: DSPP
+name: dentin sialophosphoprotein
+ghr-page: https://ghr.nlm.nih.gov/gene/DSPP
+text/text-role: function
+text/html: <p>The <i>DSPP</i> gene provides instructions for making a protein called dentin sialophosphoprotein. Soon after it is produced, this protein is cut into two smaller proteins: dentin sialoprotein and dentin phosphoprotein. These proteins are components of dentin, which is a bone-like substance that makes up the protective middle layer of each tooth. A third smaller protein produced from dentin sialophosphoprotein, called dentin glycoprotein, was identified in pigs but has not been found in humans.</p><p>Although the exact functions of the DSPP-derived proteins are unknown, these proteins appear to be essential for normal tooth development. Dentin phosphoprotein is thought to be involved in the normal hardening of collagen, the most abundant protein in dentin. Specifically, dentin phosphoprotein may play a role in the deposition of mineral crystals among collagen fibers (mineralization).</p><p>The <i>DSPP</i> gene is also active in the inner ear, although it is unclear whether it plays a role in normal hearing.</p>
+related-health-condition(1)/name: dentinogenesis imperfecta
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/dentinogenesis-imperfecta
+related-health-condition(2)/name: nonsyndromic hearing loss
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-hearing-loss
+synonym(1): dentin glycoprotein
+synonym(2): dentin phosphophoryn
+synonym(3): dentin phosphoprotein
+synonym(4): dentin phosphoryn
+synonym(5): dentin sialoprotein
+synonym(6): DFNA39
+synonym(7): DGI1
+synonym(8): DGP
+synonym(9): DPP
+synonym(10): DSP
+synonym(11): DSPP_HUMAN
+synonym(12): DTDP2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1834
+db-key(2)/db: OMIM
+db-key(2)/key: 125485
+reviewed: 2009-11
+published: 2018-04-17

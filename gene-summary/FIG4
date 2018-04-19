@@ -1,0 +1,26 @@
+gene-symbol: FIG4
+name: FIG4 phosphoinositide 5-phosphatase
+ghr-page: https://ghr.nlm.nih.gov/gene/FIG4
+text/text-role: function
+text/html: <p>The <i>FIG4</i> gene provides instructions for making a protein called Fig4, whose function is not well understood. Researchers believe that the Fig4 protein plays a role in regulating a compound called phosphatidylinositol-3,5-bisphosphate, or PtdIns(3,5)P(2). This compound is involved in the movement of small sac-like structures called vesicles that transport certain substances within cells (vesicle trafficking). The Fig4 protein also seems to help in the survival of nerve cells (neurons).</p>
+related-health-condition(1)/name: amyotrophic lateral sclerosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
+related-health-condition(2)/name: Charcot-Marie-Tooth disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+synonym(1): ALS11
+synonym(2): CMT4J
+synonym(3): dJ249I4.1
+synonym(4): FIG4 homolog (S. cerevisiae)
+synonym(5): FIG4 homolog, SAC1 lipid phosphatase domain containing (S. cerevisiae)
+synonym(6): hSac3
+synonym(7): KIAA0274
+synonym(8): RP1-249I4.1
+synonym(9): Sac domain-containing inositol phosphatase 3
+synonym(10): SAC3
+synonym(11): SAC3_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9896
+db-key(2)/db: OMIM
+db-key(2)/key: 609390
+reviewed: 2010-01
+published: 2018-04-17

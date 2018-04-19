@@ -1,0 +1,23 @@
+gene-symbol: F9
+name: coagulation factor IX
+ghr-page: https://ghr.nlm.nih.gov/gene/F9
+text/text-role: function
+text/html: <p>The <i>F9</i> gene provides instructions for making a protein called coagulation factor IX. Coagulation factors are a group of related proteins that are essential for the formation of blood clots. After an injury, clots protect the body by sealing off damaged blood vessels and preventing further blood loss.</p><p>Coagulation factor IX is made in the liver. This protein circulates in the bloodstream in an inactive form until an injury that damages blood vessels occurs. In response to injury, coagulation factor IX is activated by another coagulation factor called factor XIa. The active protein (sometimes written as coagulation factor IXa) interacts with coagulation factor VIII and other molecules. These interactions set off a chain of additional chemical reactions that form a blood clot.</p>
+related-health-condition(1)/name: hemophilia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/hemophilia
+related-health-condition(2)/name: warfarin sensitivity
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/warfarin-sensitivity
+synonym(1): Christmas factor
+synonym(2): coagulation factor IX (plasma thromboplastic component, Christmas disease, hemophilia B)
+synonym(3): FA9_HUMAN
+synonym(4): Factor 9
+synonym(5): FIX
+synonym(6): HEMB
+synonym(7): Plasma thromboplastin component
+synonym(8): PTC
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2158
+db-key(2)/db: OMIM
+db-key(2)/key: 300746
+reviewed: 2010-05
+published: 2018-04-17

@@ -1,0 +1,38 @@
+name: Epidermolysis bullosa with pyloric atresia
+ghr-page: https://ghr.nlm.nih.gov/condition/epidermolysis-bullosa-with-pyloric-atresia
+text/text-role: description
+text/html: <p>Epidermolysis bullosa with pyloric atresia (EB-PA) is a condition that affects the skin and digestive tract. This condition is one of several forms of epidermolysis bullosa, a group of genetic conditions that cause the skin to be fragile and to blister easily. Affected infants are often born with widespread blistering and areas of missing skin. Blisters continue to appear in response to minor injury or friction, such as rubbing or scratching. Most often, blisters occur over the whole body and affect mucous membranes such as the moist lining of the mouth and digestive tract.</p><p>People with EB-PA are also born with pyloric atresia, which is a blockage (obstruction) of the lower part of the stomach (the pylorus). This obstruction prevents food from emptying out of the stomach into the intestine. Signs of pyloric atresia include vomiting, a swollen (distended) abdomen, and an absence of stool. Pyloric atresia is life-threatening and must be repaired with surgery soon after birth.</p><p>Other complications of EB-PA can include fusion of the skin between the fingers and toes, abnormalities of the fingernails and toenails, joint deformities (contractures) that restrict movement, and hair loss (alopecia). Some affected individuals are also born with malformations of the urinary tract, including the kidneys and bladder.</p><p>Because the signs and symptoms of EB-PA are so severe, many infants with this condition do not survive beyond the first year of life. In those who survive, the condition may improve with time; some affected individuals have little or no blistering later in life. However, many affected individuals who live past infancy experience severe health problems, including blistering and the formation of red, bumpy patches called granulation tissue. Granulation tissue most often forms on the skin around the mouth, nose, fingers, and toes. It can also build up in the airway, leading to difficulty breathing.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: ITGA6
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ITGA6
+related-gene(2)/gene-symbol: ITGB4
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ITGB4
+related-gene(3)/gene-symbol: PLEC
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PLEC
+synonym(1): Carmi syndrome
+synonym(2): EB-PA
+synonym(3): junctional epidermolysis bullosa with pyloric atresia
+synonym(4): PA-JEB
+db-key(1)/db: GTR
+db-key(1)/key: C1856934
+db-key(2)/db: GTR
+db-key(2)/key: C2677349
+db-key(3)/db: GeneReviews
+db-key(3)/key: eb-pa
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: Q81.0
+db-key(5)/db: MeSH
+db-key(5)/key: D004820
+db-key(6)/db: OMIM
+db-key(6)/key: 226730
+db-key(7)/db: OMIM
+db-key(7)/key: 612138
+db-key(8)/db: Orphanet
+db-key(8)/key: 158684
+db-key(9)/db: Orphanet
+db-key(9)/key: 79403
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 53748002
+reviewed: 2018-02
+published: 2018-04-17

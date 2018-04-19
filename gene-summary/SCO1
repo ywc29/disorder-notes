@@ -1,0 +1,8 @@
+gene-symbol: SCO1
+name: SCO1, cytochrome c oxidase assembly protein
+ghr-page: https://ghr.nlm.nih.gov/gene/SCO1
+related-health-condition/name: cytochrome c oxidase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cytochrome-c-oxidase-deficiency
+db-key/db: NCBI Gene
+db-key/key: 6341
+published: 2018-04-17

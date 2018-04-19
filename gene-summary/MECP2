@@ -1,0 +1,36 @@
+gene-symbol: MECP2
+name: methyl-CpG binding protein 2
+ghr-page: https://ghr.nlm.nih.gov/gene/MECP2
+text/text-role: function
+text/html: <p>The <i>MECP2</i> gene provides instructions for making a protein called MeCP2. This protein helps regulate gene activity (expression) by modifying chromatin, the complex of DNA and protein that packages DNA into chromosomes. The MeCP2 protein is present in cells throughout the body, although it is particularly abundant in brain cells.</p><p>In the brain, the MeCP2 protein is important for the function of several types of cells, including nerve cells (neurons). The protein likely plays a role in maintaining connections (synapses) between neurons, where cell-to-cell communication occurs. Many of the genes that are known to be regulated by the MeCP2 protein play a role in normal brain function, particularly the maintenance of synapses.</p><p>Researchers believe that the MeCP2 protein may also be involved in processing molecules called messenger RNA (mRNA), which serve as genetic blueprints for making proteins. By cutting and rearranging mRNA molecules in different ways, the MeCP2 protein controls the production of different versions of certain proteins. This process is known as alternative splicing. In the brain, the alternative splicing of proteins is critical for normal communication between neurons and may also be necessary for the function of other types of brain cells.</p>
+related-health-condition(1)/name: autism spectrum disorder
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autism-spectrum-disorder
+related-health-condition(2)/name: MECP2 duplication syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/mecp2-duplication-syndrome
+related-health-condition(3)/name: MECP2-related severe neonatal encephalopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/mecp2-related-severe-neonatal-encephalopathy
+related-health-condition(4)/name: PPM-X syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/ppm-x-syndrome
+related-health-condition(5)/name: Rett syndrome
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/rett-syndrome
+synonym(1): MeCP2 protein
+synonym(2): MECP2_HUMAN
+synonym(3): methyl CpG binding protein 2
+synonym(4): methyl CpG binding protein 2 (Rett syndrome)
+synonym(5): MRX16
+synonym(6): MRX79
+synonym(7): PPMX
+synonym(8): RTS
+synonym(9): RTT
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4204
+db-key(2)/db: OMIM
+db-key(2)/key: 105830
+db-key(3)/db: OMIM
+db-key(3)/key: 209850
+db-key(4)/db: OMIM
+db-key(4)/key: 300005
+db-key(5)/db: OMIM
+db-key(5)/key: 300055
+reviewed: 2017-03
+published: 2018-04-17

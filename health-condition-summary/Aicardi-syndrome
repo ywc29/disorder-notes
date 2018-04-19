@@ -1,0 +1,25 @@
+name: Aicardi syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/aicardi-syndrome
+text/text-role: description
+text/html: <p>Aicardi syndrome is a disorder that occurs almost exclusively in females. It is characterized by three main features that occur together in most affected individuals. People with Aicardi syndrome have absent or underdeveloped tissue connecting the left and right halves of the brain (agenesis or dysgenesis of the corpus callosum). They have seizures beginning in infancy (infantile spasms), which tend to progress to recurrent seizures (epilepsy) that can be difficult to treat. Affected individuals also have chorioretinal lacunae, which are defects in the light-sensitive tissue at the back of the eye (retina).</p><p>People with Aicardi syndrome often have additional brain abnormalities, including asymmetry between the two sides of the brain, brain folds and grooves that are small in size or reduced in number, cysts, and enlargement of the fluid-filled cavities (ventricles) near the center of the brain. Some have an unusually small head (microcephaly). Most affected individuals have moderate to severe developmental delay and intellectual disability, although some people with this disorder have milder disability.</p><p>In addition to chorioretinal lacunae, people with Aicardi syndrome may have other eye abnormalities such as small or poorly developed eyes (microphthalmia) or a gap or hole (coloboma) in the optic nerve, a structure that carries information from the eye to the brain. These eye abnormalities may cause blindness in affected individuals.</p><p>Some people with Aicardi syndrome have unusual facial features including a short area between the upper lip and the nose (philtrum), a flat nose with an upturned tip, large ears, and sparse eyebrows.  Other features of this condition include small hands, hand malformations, and spinal and rib abnormalities leading to progressive abnormal curvature of the spine (scoliosis). They often have gastrointestinal problems such as constipation or diarrhea, gastroesophageal reflux, and difficulty feeding.</p><p>The severity of Aicardi syndrome varies. Some people with this disorder have very severe epilepsy and may not survive past childhood. Less severely affected individuals may live into adulthood with milder signs and symptoms.</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+synonym(1): agenesis of corpus callosum with chorioretinal abnormality
+synonym(2): agenesis of corpus callosum with infantile spasms and ocular abnormalities
+synonym(3): Aicardi's syndrome
+synonym(4): callosal agenesis and ocular abnormalities
+synonym(5): chorioretinal anomalies with ACC
+db-key(1)/db: GTR
+db-key(1)/key: C0175713
+db-key(2)/db: GeneReviews
+db-key(2)/key: aic
+db-key(3)/db: MeSH
+db-key(3)/key: D058540
+db-key(4)/db: OMIM
+db-key(4)/key: 304050
+db-key(5)/db: Orphanet
+db-key(5)/key: 50
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 80651009
+reviewed: 2010-06
+published: 2018-04-17

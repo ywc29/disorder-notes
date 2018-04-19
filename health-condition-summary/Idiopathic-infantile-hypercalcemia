@@ -1,0 +1,29 @@
+name: Idiopathic infantile hypercalcemia
+ghr-page: https://ghr.nlm.nih.gov/condition/idiopathic-infantile-hypercalcemia
+text/text-role: description
+text/html: <p>Idiopathic infantile hypercalcemia is a condition characterized by high levels of calcium in the blood (hypercalcemia). Two types of idiopathic infantile hypercalcemia have been identified and are distinguished by their genetic causes: infantile hypercalcemia 1 and infantile hypercalcemia 2. In infants with either type, hypercalcemia can cause vomiting, increased urine production (polyuria), dehydration, constipation, poor feeding, weight loss, and an inability to grow and gain weight as expected (failure to thrive). As they age, affected babies usually have delayed development of mental and movement abilities (psychomotor delay). Individuals with infantile hypercalcemia 1 or 2 may also have high levels of calcium in their urine (hypercalciuria) and deposits of calcium in their kidneys (nephrocalcinosis).</p><p>With treatment, the outward symptoms of hypercalcemia, such as vomiting, dehydration, failure to thrive, and psychomotor delay, usually improve in childhood. However, affected children still tend to have higher-than-normal amounts of calcium in their blood and urine and calcium deposits in their kidneys. By adulthood, long-term hypercalcemia and hypercalciuria can lead to the formation of kidney stones (nephrolithiasis) and may damage the kidneys and impair their function. Affected adults may also develop calcium deposits in the joints or in the clear outer covering of the eye (the cornea), and some have low bone mineral density (osteoporosis).</p><p>In rare cases, affected individuals do not have symptoms of hypercalcemia in infancy, and the condition begins in later childhood or adulthood. These individuals usually develop hypercalciuria, nephrocalcinosis, and nephrolithiasis, although the features may not cause any obvious health problems.</p><p>Although most signs and symptoms are similar between the two known types of idiopathic infantile hypercalcemia, individuals with infantile hypercalcemia 2 have low levels of a mineral called phosphate in the blood (hypophosphatemia), while phosphate levels are typically normal in people with infantile hypercalcemia 1.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: CYP24A1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CYP24A1
+related-gene(2)/gene-symbol: SLC34A1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC34A1
+synonym(1): autosomal recessive infantile hypercalcemia
+synonym(2): IIH
+synonym(3): vitamin D hypersensitivity
+db-key(1)/db: GTR
+db-key(1)/key: CN203398
+db-key(2)/db: MeSH
+db-key(2)/key: D006934
+db-key(3)/db: OMIM
+db-key(3)/key: 143880
+db-key(4)/db: OMIM
+db-key(4)/key: 616963
+db-key(5)/db: Orphanet
+db-key(5)/key: 300547
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 276645004
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 34225008
+reviewed: 2017-12
+published: 2018-04-17

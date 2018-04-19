@@ -1,0 +1,22 @@
+gene-symbol: PPP2R5D
+name: protein phosphatase 2 regulatory subunit B'delta
+ghr-page: https://ghr.nlm.nih.gov/gene/PPP2R5D
+text/text-role: function
+text/html: <p>The <i>PPP2R5D</i> gene provides instructions for making a protein called B56-delta (B56δ). This protein is one piece (the B subunit) of an enzyme called protein phosphatase 2A (PP2A). (B56δ is one of several possible B subunits.) The PP2A enzyme removes phosphate groups, consisting of three oxygen atoms and one phosphorus atom, from certain proteins. This process, called dephosphorylation, helps control whether the protein is turned on or off. The B subunit determines which proteins are dephosphorylated by PP2A and regulates the activity of the enzyme.</p><p>PP2A removes phosphate groups from proteins that are part of signaling pathways involved in cell growth and turning genes on and off. PP2A enzymes containing the B56δ protein are found mainly in the brain, where they are thought to be primarily involved in controlling the activity of signaling pathways that play roles in the normal development and function of nerve cells (neurons).</p>
+related-health-condition/name: PPP2R5D-related intellectual disability
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ppp2r5d-related-intellectual-disability
+synonym(1): B56D
+synonym(2): B56delta
+synonym(3): MRD35
+synonym(4): PP2A, B subunit, B' delta isoform
+synonym(5): PP2A, B subunit, B56 delta isoform
+synonym(6): PP2A, B subunit, PR61 delta isoform
+synonym(7): PP2A, B subunit, R5 delta isoform
+synonym(8): protein phosphatase 2, regulatory subunit B (B56), delta isoform
+synonym(9): Serine/threonine protein phosphatase 2A, 56 kDa regulatory subunit, delta isoform
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5528
+db-key(2)/db: OMIM
+db-key(2)/key: 601646
+reviewed: 2017-08
+published: 2018-04-17

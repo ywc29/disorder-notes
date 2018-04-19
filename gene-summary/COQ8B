@@ -1,0 +1,22 @@
+gene-symbol: COQ8B
+name: coenzyme Q8B
+ghr-page: https://ghr.nlm.nih.gov/gene/COQ8B
+text/text-role: function
+text/html: <p>The <i>COQ8B</i> gene provides instructions for making a protein that is involved in the production of a molecule called coenzyme Q10, which has several critical functions in cells throughout the body. In cell structures called mitochondria, coenzyme Q10 plays an essential role in a process called oxidative phosphorylation, which converts the energy from food into a form cells can use. Coenzyme Q10 is also involved in producing pyrimidines, which are building blocks of DNA, its chemical cousin RNA, and molecules such as ATP and GTP that serve as energy sources in the cell. In cell membranes, coenzyme Q10 acts as an antioxidant, protecting cells from damage caused by unstable oxygen-containing molecules (free radicals), which are byproducts of energy production.</p>
+related-health-condition/name: primary coenzyme Q10 deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/primary-coenzyme-q10-deficiency
+synonym(1): aarF domain containing kinase 4
+synonym(2): aarF domain-containing protein kinase 4
+synonym(3): ADCK4
+synonym(4): atypical kinase COQ8B, mitochondrial isoform a
+synonym(5): atypical kinase COQ8B, mitochondrial isoform b
+synonym(6): coenzyme Q protein 8B
+synonym(7): COQ8
+synonym(8): FLJ12229
+synonym(9): NPHS9
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 79934
+db-key(2)/db: OMIM
+db-key(2)/key: 615567
+reviewed: 2017-04
+published: 2018-04-17

@@ -1,0 +1,25 @@
+gene-symbol: CRB1
+name: crumbs 1, cell polarity complex component
+ghr-page: https://ghr.nlm.nih.gov/gene/CRB1
+text/text-role: function
+text/html: <p>The <i>CRB1</i> gene provides instructions for making a protein that plays an essential role in normal vision. This protein is found in the brain and the retina, which is the specialized tissue at the back of the eye that detects light and color.</p><p>In the retina, the CRB1 protein appears to be critical for the normal development of light-sensing cells called photoreceptors. Studies suggest that this protein is part of a group (complex) of proteins that help determine the structure and orientation of photoreceptors. The CRB1 protein may also be involved in forming connections between different types of cells in the retina.</p>
+related-health-condition(1)/name: cone-rod dystrophy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cone-rod-dystrophy
+related-health-condition(2)/name: Leber congenital amaurosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/leber-congenital-amaurosis
+related-health-condition(3)/name: retinitis pigmentosa
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/retinitis-pigmentosa
+synonym(1): CRUM1_HUMAN
+synonym(2): crumbs family member 1, photoreceptor morphogenesis associated
+synonym(3): crumbs homolog 1
+synonym(4): crumbs homolog 1 (Drosophila)
+synonym(5): LCA8
+synonym(6): RP12
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23418
+db-key(2)/db: OMIM
+db-key(2)/key: 600105
+db-key(3)/db: OMIM
+db-key(3)/key: 604210
+reviewed: 2010-08
+published: 2018-04-17

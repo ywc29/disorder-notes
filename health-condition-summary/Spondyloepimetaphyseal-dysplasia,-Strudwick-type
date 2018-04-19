@@ -1,0 +1,30 @@
+name: Spondyloepimetaphyseal dysplasia, Strudwick type
+ghr-page: https://ghr.nlm.nih.gov/condition/spondyloepimetaphyseal-dysplasia-strudwick-type
+text/text-role: description
+text/html: <p>Spondyloepimetaphyseal dysplasia, Strudwick type is an inherited disorder of bone growth that results in short stature (dwarfism), skeletal abnormalities, and problems with vision.  This condition affects the bones of the spine (spondylo-) and two regions (epiphyses and metaphyses) near the ends of long bones in the arms and legs.  The Strudwick type was named after the first reported patient with the disorder.</p><p>People with this condition have short stature from birth, with a very short trunk and shortened limbs. Their hands and feet, however, are usually average-sized.  Affected individuals may have an abnormally curved lower back (lordosis) or a spine that curves to the side (scoliosis).  This abnormal spinal curvature may be severe and can cause problems with breathing.  Instability of the spinal bones (vertebrae) in the neck may increase the risk of spinal cord damage. Other skeletal features include flattened vertebrae (platyspondyly), severe protrusion of the breastbone (pectus carinatum), an abnormality of the hip joint that causes the upper leg bones to turn inward (coxa vara), and an inward- and upward-turning foot (clubfoot).  Arthritis may develop early in life.</p><p>People with spondyloepimetaphyseal dysplasia, Strudwick type have mild changes in their facial features.  Some infants are born with an opening in the roof of the mouth (a cleft palate) and their cheekbones may appear flattened. Eye problems that can impair vision are common, such as severe nearsightedness (high myopia) and tearing of the lining of the eye (retinal detachment).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: COL2A1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/COL2A1
+synonym(1): Dappled metaphysis syndrome
+synonym(2): SED Strudwick
+synonym(3): SEMD, Strudwick type
+synonym(4): SMED, Strudwick type
+synonym(5): SMED, type I
+synonym(6): Spondylometaepiphyseal dysplasia congenita, Strudwick type
+synonym(7): Spondylometaphyseal dysplasia (SMD)
+synonym(8): Strudwick syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0700635
+db-key(2)/db: MeSH
+db-key(2)/key: D003095
+db-key(3)/db: MeSH
+db-key(3)/key: D010009
+db-key(4)/db: OMIM
+db-key(4)/key: 184250
+db-key(5)/db: Orphanet
+db-key(5)/key: 252
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702350003
+reviewed: 2008-07
+published: 2018-04-17

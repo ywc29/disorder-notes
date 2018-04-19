@@ -1,0 +1,20 @@
+gene-symbol: LDLRAP1
+name: low density lipoprotein receptor adaptor protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/LDLRAP1
+text/text-role: function
+text/html: <p>The <i>LDLRAP1</i> gene (also known as <i>ARH</i>) provides instructions for making a protein that helps remove cholesterol from the bloodstream.  Cholesterol is a waxy, fat-like substance that is produced in the body and obtained from foods that come from animals.  The function of the LDLRAP1 protein is particularly important in the liver, which is the organ responsible for clearing most excess cholesterol from the body.</p><p>The LDLRAP1 protein interacts with a protein called a low-density lipoprotein receptor. This type of receptor binds to particles called low-density lipoproteins (LDLs), which are the primary carriers of cholesterol in the blood. The receptors sit on the outer surface of cells, where they pick up low-density lipoproteins circulating in the bloodstream.  The LDLRAP1 protein appears to play a critical role in moving these receptors, together with their attached low-density lipoproteins, from the cell surface to the interior of the cell. Once inside the cell, low-density lipoproteins are broken down to release cholesterol. The cholesterol is then used by the cell, stored, or removed from the body.</p>
+related-health-condition/name: hypercholesterolemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hypercholesterolemia
+synonym(1): ARH
+synonym(2): ARH_HUMAN
+synonym(3): autosomal recessive hypercholesterolemia protein
+synonym(4): FHCB1
+synonym(5): FHCB2
+synonym(6): LDL receptor adaptor protein
+synonym(7): MGC34705
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 26119
+db-key(2)/db: OMIM
+db-key(2)/key: 605747
+reviewed: 2007-03
+published: 2018-04-17

@@ -1,0 +1,28 @@
+gene-symbol: PCBD1
+name: pterin-4 alpha-carbinolamine dehydratase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/PCBD1
+text/text-role: function
+text/html: <p>The <i>PCBD1</i> gene provides instructions for making an enzyme called pterin-4 alpha-carbinolamine dehydratase. This enzyme helps carry out one step in the chemical pathway that recycles a molecule called tetrahydrobiopterin (BH4).</p><p>Tetrahydrobiopterin plays a critical role in processing several protein building blocks (amino acids) in the body. For example, it works with the enzyme phenylalanine hydroxylase to convert an amino acid called phenylalanine into another amino acid, tyrosine. Tetrahydrobiopterin is also involved in reactions that produce chemicals called neurotransmitters, which transmit signals between nerve cells in the brain. Because it helps enzymes carry out chemical reactions, tetrahydrobiopterin is known as a cofactor.</p><p>When tetrahydrobiopterin interacts with enzymes during chemical reactions, the cofactor is altered and must be recycled to a usable form. Pterin-4 alpha-carbinolamine dehydratase is one of two enzymes that help recycle tetrahydrobiopterin in the body.</p>
+related-health-condition/name: tetrahydrobiopterin deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/tetrahydrobiopterin-deficiency
+synonym(1): 4-alpha-hydroxy-tetrahydropterin dehydratase
+synonym(2): 6-pyruvoyl-tetrahydropterin synthase/dimerization cofactor of hepatocyte nuclear factor 1 alpha (TCF1)
+synonym(3): Carbinolamine-4a-dehydratase
+synonym(4): DCOH
+synonym(5): Dimerization cofactor of hepatocyte nuclear factor 1-alpha
+synonym(6): Dimerization cofactor of HNF1
+synonym(7): PCBD
+synonym(8): PCD
+synonym(9): Phenylalanine hydroxylase-stimulating protein
+synonym(10): PHS_HUMAN
+synonym(11): Pterin-4-alpha-carbinolamine dehydratase
+synonym(12): pterin-4 alpha-carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha
+synonym(13): pterin-4 alpha-carbinolamine dehydratase/dimerization cofactor of hepatocyte nuclear factor 1 alpha (TCF1)
+synonym(14): Pterin-4a-carbinolamine dehydratase (dimerization cofactor of hepatic nuclear factor 1-alpha)
+synonym(15): Pterin carbinolamine dehydratase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5092
+db-key(2)/db: OMIM
+db-key(2)/key: 126090
+reviewed: 2011-07
+published: 2018-04-17

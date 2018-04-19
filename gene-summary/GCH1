@@ -1,0 +1,21 @@
+gene-symbol: GCH1
+name: GTP cyclohydrolase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/GCH1
+text/text-role: function
+text/html: <p>The <i>GCH1</i> gene provides instructions for making an enzyme called GTP cyclohydrolase 1. This enzyme is involved in the first of three steps in the production of a molecule called tetrahydrobiopterin (BH4). Other enzymes help carry out the second and third steps in this process.</p><p>Tetrahydrobiopterin plays a critical role in processing several protein building blocks (amino acids) in the body. For example, it works with the enzyme phenylalanine hydroxylase to convert an amino acid called phenylalanine into another amino acid, tyrosine. Tetrahydrobiopterin is also involved in reactions that produce chemicals called neurotransmitters, which transmit signals between nerve cells in the brain. Specifically, tetrahydrobiopterin is involved in the production of two neurotransmitters called dopamine and serotonin. Among their many functions, dopamine transmits signals within the brain to produce smooth physical movements, and serotonin regulates mood, emotion, sleep, and appetite. Because it helps enzymes carry out chemical reactions, tetrahydrobiopterin is known as a cofactor.</p>
+related-health-condition(1)/name: dopa-responsive dystonia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/dopa-responsive-dystonia
+related-health-condition(2)/name: tetrahydrobiopterin deficiency
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/tetrahydrobiopterin-deficiency
+synonym(1): DYT5
+synonym(2): DYT5a
+synonym(3): GCH
+synonym(4): GCH1_HUMAN
+synonym(5): GTP cyclohydrolase 1 (dopa-responsive dystonia)
+synonym(6): GTPCH1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2643
+db-key(2)/db: OMIM
+db-key(2)/key: 600225
+reviewed: 2012-05
+published: 2018-04-17

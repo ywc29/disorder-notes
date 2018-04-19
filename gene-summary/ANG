@@ -1,0 +1,8 @@
+gene-symbol: ANG
+name: angiogenin
+ghr-page: https://ghr.nlm.nih.gov/gene/ANG
+related-health-condition/name: amyotrophic lateral sclerosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
+db-key/db: NCBI Gene
+db-key/key: 283
+published: 2018-04-17

@@ -1,0 +1,20 @@
+gene-symbol: HSPG2
+name: heparan sulfate proteoglycan 2
+ghr-page: https://ghr.nlm.nih.gov/gene/HSPG2
+text/text-role: function
+text/html: <p>The <i>HSPG2</i> gene provides instructions for making a protein called perlecan. This protein is found in the extracellular matrix, which is the intricate lattice of proteins and other molecules that forms in the spaces between cells. Specifically, it is found in part of the extracellular matrix called the basement membrane, which is a thin, sheet-like structure that separates and supports cells in many tissues. Perlecan is also found in cartilage, a tough, flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears.</p><p>Perlecan is a heparan sulfate proteoglycan, which is a type of protein that interacts with many other proteins and has a variety of functions. In particular, perlecan is involved in cell signaling, the sticking (adhesion) of cells to one another, the formation of new blood vessels (angiogenesis), and the maintenance of basement membranes and cartilage throughout life. The protein also plays a critical role at the neuromuscular junction, which is the area between the ends of nerve cells and muscle cells where signals are relayed to trigger muscle contraction.</p>
+related-health-condition/name: Schwartz-Jampel syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/schwartz-jampel-syndrome
+synonym(1): endorepellin (domain V region)
+synonym(2): perlecan
+synonym(3): perlecan proteoglycan
+synonym(4): PLC
+synonym(5): PRCAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3339
+db-key(2)/db: OMIM
+db-key(2)/key: 142461
+db-key(3)/db: OMIM
+db-key(3)/key: 224410
+reviewed: 2016-04
+published: 2018-04-17

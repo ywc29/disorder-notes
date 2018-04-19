@@ -1,0 +1,26 @@
+gene-symbol: DYRK1A
+name: dual specificity tyrosine phosphorylation regulated kinase 1A
+ghr-page: https://ghr.nlm.nih.gov/gene/DYRK1A
+text/text-role: function
+text/html: <p>The <i>DYRK1A</i> gene provides instructions for making an enzyme that is important in the development of the nervous system. The DYRK1A enzyme is a kinase, which means that it adds a cluster of oxygen and phosphorus atoms (a phosphate group) to other proteins through a process called phosphorylation. Phosphorylation of proteins helps to control (regulate) their activity.</p><p>The proteins whose activity the DYRK1A enzyme helps regulate are involved in various processes in cells, including cell growth and division (proliferation) and the process by which cells mature to carry out specific functions (differentiation). In nerve cells (neurons), the DYRK1A enzyme is involved in the formation and maturation of dendritic spines from dendrites. Dendrites are specialized extensions from neurons that are essential for the transmission of nerve impulses. Dendritic spines are small outgrowths from dendrites that further help transmit nerve impulses and increase communication between neurons.</p>
+related-health-condition/name: autism spectrum disorder
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autism-spectrum-disorder
+synonym(1): dual specificity tyrosine-(Y)-phosphorylation regulated kinase 1A
+synonym(2): dual specificity YAK1-related kinase
+synonym(3): DYRK
+synonym(4): DYRK1
+synonym(5): HP86
+synonym(6): MNB
+synonym(7): mnb protein kinase homolog hp86
+synonym(8): MNB/DYRK protein kinase
+synonym(9): MNBH
+synonym(10): MRD7
+synonym(11): protein kinase minibrain homolog
+synonym(12): serine/threonine kinase MNB
+synonym(13): serine/threonine-specific protein kinase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1859
+db-key(2)/db: OMIM
+db-key(2)/key: 600855
+reviewed: 2017-06
+published: 2018-04-17

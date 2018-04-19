@@ -1,0 +1,115 @@
+name: Usher syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/usher-syndrome
+text/text-role: description
+text/html: <p>Usher syndrome is a condition characterized by partial or total hearing loss and vision loss that worsens over time. The hearing loss is classified as sensorineural, which means that it is caused by abnormalities of the inner ear. The loss of vision is caused by an eye disease called retinitis pigmentosa (RP), which affects the layer of light-sensitive tissue at the back of the eye (the retina). Vision loss occurs as the light-sensing cells of the retina gradually deteriorate. Night vision loss begins first, followed by blind spots that develop in the side (peripheral) vision. Over time, these blind spots enlarge and merge to produce tunnel vision. In some cases, vision is further impaired by clouding of the lens of the eye (cataracts). However, many people with retinitis pigmentosa retain some central vision throughout their lives.</p><p>Researchers have identified three major types of Usher syndrome, designated as types I, II, and III. These types are distinguished by the severity of hearing loss, the presence or absence of balance problems, and the age at which signs and symptoms appear. The types are further divided into subtypes based on their genetic cause.</p><p>Most individuals with Usher syndrome type I are born with severe to profound hearing loss. Progressive vision loss caused by retinitis pigmentosa becomes apparent in childhood. This type of Usher syndrome also causes abnormalities of the vestibular system, which is the part of the inner ear that helps maintain the body's balance and orientation in space. As a result of the vestibular abnormalities, children with the condition have trouble with balance. They begin sitting independently and walking later than usual, and they may have difficulty riding a bicycle and playing certain sports.</p><p>Usher syndrome type II is characterized by hearing loss from birth and progressive vision loss that begins in adolescence or adulthood. The hearing loss associated with this form of Usher syndrome ranges from mild to severe and mainly affects the ability to hear high-frequency sounds. For example, it is difficult for affected individuals to hear high, soft speech sounds, such as those of the letters d and t. The degree of hearing loss varies within and among families with this condition, and it may become more severe over time. Unlike the other forms of Usher syndrome, type II is not associated with vestibular abnormalities that cause difficulties with balance.</p><p>People with Usher syndrome type III experience hearing loss and vision loss beginning somewhat later in life. Unlike the other forms of Usher syndrome, type III is usually associated with normal hearing at birth. Hearing loss typically begins during late childhood or adolescence, after the development of speech, and becomes more severe over time. By middle age, most affected individuals have profound hearing loss. Vision loss caused by retinitis pigmentosa also develops in late childhood or adolescence. Some people with Usher syndrome type III develop vestibular abnormalities that cause problems with balance.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: ADGRV1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ADGRV1
+related-gene(2)/gene-symbol: CDH23
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CDH23
+related-gene(3)/gene-symbol: CIB2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CIB2
+related-gene(4)/gene-symbol: CLRN1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/CLRN1
+related-gene(5)/gene-symbol: HARS
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/HARS
+related-gene(6)/gene-symbol: MYO7A
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/MYO7A
+related-gene(7)/gene-symbol: PCDH15
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/PCDH15
+related-gene(8)/gene-symbol: USH1C
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/USH1C
+related-gene(9)/gene-symbol: USH1G
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/USH1G
+related-gene(10)/gene-symbol: USH2A
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/USH2A
+related-gene(11)/gene-symbol: WHRN
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/WHRN
+synonym(1): deafness-retinitis pigmentosa syndrome
+synonym(2): Graefe-Usher syndrome
+synonym(3): Hallgren syndrome
+synonym(4): retinitis pigmentosa-deafness syndrome
+synonym(5): Usher's syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0271097
+db-key(2)/db: GTR
+db-key(2)/key: C0339534
+db-key(3)/db: GTR
+db-key(3)/key: C1568247
+db-key(4)/db: GTR
+db-key(4)/key: C1568248
+db-key(5)/db: GTR
+db-key(5)/key: C1568249
+db-key(6)/db: GTR
+db-key(6)/key: C1832845
+db-key(7)/db: GTR
+db-key(7)/key: C1847089
+db-key(8)/db: GTR
+db-key(8)/key: C1848604
+db-key(9)/db: GTR
+db-key(9)/key: C1848634
+db-key(10)/db: GTR
+db-key(10)/key: C1848638
+db-key(11)/db: GTR
+db-key(11)/key: C1865865
+db-key(12)/db: GTR
+db-key(12)/key: C1865885
+db-key(13)/db: GTR
+db-key(13)/key: C2675458
+db-key(14)/db: GTR
+db-key(14)/key: C2931213
+db-key(15)/db: GTR
+db-key(15)/key: C3148929
+db-key(16)/db: GTR
+db-key(16)/key: C3281066
+db-key(17)/db: GTR
+db-key(17)/key: C3539124
+db-key(18)/db: GTR
+db-key(18)/key: C3553944
+db-key(19)/db: GTR
+db-key(19)/key: CN121478
+db-key(20)/db: GeneReviews
+db-key(20)/key: usher1
+db-key(21)/db: GeneReviews
+db-key(21)/key: usher2
+db-key(22)/db: MeSH
+db-key(22)/key: D052245
+db-key(23)/db: OMIM
+db-key(23)/key: 276900
+db-key(24)/db: OMIM
+db-key(24)/key: 276901
+db-key(25)/db: OMIM
+db-key(25)/key: 276902
+db-key(26)/db: OMIM
+db-key(26)/key: 276904
+db-key(27)/db: OMIM
+db-key(27)/key: 601067
+db-key(28)/db: OMIM
+db-key(28)/key: 602083
+db-key(29)/db: OMIM
+db-key(29)/key: 602097
+db-key(30)/db: OMIM
+db-key(30)/key: 605472
+db-key(31)/db: OMIM
+db-key(31)/key: 606943
+db-key(32)/db: OMIM
+db-key(32)/key: 611383
+db-key(33)/db: OMIM
+db-key(33)/key: 612632
+db-key(34)/db: OMIM
+db-key(34)/key: 614504
+db-key(35)/db: OMIM
+db-key(35)/key: 614869
+db-key(36)/db: OMIM
+db-key(36)/key: 614990
+db-key(37)/db: Orphanet
+db-key(37)/key: 886
+db-key(38)/db: SNOMED CT
+db-key(38)/key: 232057003
+db-key(39)/db: SNOMED CT
+db-key(39)/key: 57838006
+db-key(40)/db: SNOMED CT
+db-key(40)/key: 73119000
+reviewed: 2017-11
+published: 2018-04-17

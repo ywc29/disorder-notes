@@ -1,0 +1,27 @@
+gene-symbol: HBA1
+name: hemoglobin subunit alpha 1
+ghr-page: https://ghr.nlm.nih.gov/gene/HBA1
+text/text-role: function
+text/html: <p>The <i>HBA1</i> gene provides instructions for making a protein called alpha-globin. This protein is also produced from a nearly identical gene called <i>HBA2</i>. These two alpha-globin genes are located close together in a region of chromosome 16 known as the alpha-globin locus.</p><p>Alpha-globin is a component (subunit) of a larger protein called hemoglobin, which is the protein in red blood cells that carries oxygen to cells and tissues throughout the body. Hemoglobin is made up of four subunits: two subunits of alpha-globin and two subunits of another type of globin. Alpha-globin is a component of both fetal hemoglobin, which is active only before birth and in the newborn period, and adult hemoglobin, which is active throughout the rest of life.</p><p>Each of the four protein subunits of hemoglobin carries an iron-containing molecule called heme. Heme molecules are necessary for red blood cells to pick up oxygen in the lungs and deliver it to the body's tissues. A complete hemoglobin protein is capable of carrying four oxygen molecules at a time (one attached to each heme molecule). Oxygen attached to hemoglobin gives blood its bright red color.</p>
+related-health-condition/name: alpha thalassemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/alpha-thalassemia
+synonym(1): alpha-1-globin
+synonym(2): alpha 1 globin
+synonym(3): alpha-1 globin
+synonym(4): alpha one globin
+synonym(5): CD31
+synonym(6): HBA-T3
+synonym(7): HBA_HUMAN
+synonym(8): hemoglobin alpha-1 chain
+synonym(9): hemoglobin alpha 1 globin chain
+synonym(10): hemoglobin, alpha 1
+synonym(11): MGC126895
+synonym(12): MGC126897
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3039
+db-key(2)/db: OMIM
+db-key(2)/key: 141750
+db-key(3)/db: OMIM
+db-key(3)/key: 141800
+reviewed: 2009-08
+published: 2018-04-17

@@ -1,0 +1,26 @@
+name: Autosomal dominant vitreoretinochoroidopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-vitreoretinochoroidopathy
+text/text-role: description
+text/html: <p>Autosomal dominant vitreoretinochoroidopathy (ADVIRC) is a  disorder that affects several parts of the eyes, including the clear gel that fills the eye (the vitreous), the light-sensitive tissue that lines the back of the eye (the retina), and the network of blood vessels within the retina (the choroid). The eye abnormalities in ADVIRC can lead to varying degrees of vision impairment, from mild reduction to complete loss, although some people with the condition have normal vision.</p><p>The signs and symptoms of ADVIRC vary, even among members of the same family.  Many affected individuals have microcornea, in which the clear front covering of the eye (cornea) is small and abnormally curved. The area behind the cornea can also be abnormally small, which is described as a shallow anterior chamber. Individuals with ADVIRC can develop increased pressure in the eyes (glaucoma) or clouding of the lens of the eye (cataract). In addition, some people have breakdown (degeneration) of the vitreous or the choroid.</p><p>A characteristic feature of ADVIRC, visible with a special eye exam, is a circular band of excess coloring (hyperpigmentation) in the retina. This feature can help physicians diagnose the disorder. Affected individuals may also have white spots on the retina.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: BEST1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/BEST1
+synonym(1): ADVIRC
+synonym(2): vitreoretinochoroidopathy dominant
+synonym(3): vitreoretinochoroidopathy with microcornea, glaucoma, and cataract
+synonym(4): vitreoretinochoroidopathy, autosomal dominant, with nanophthalmos
+db-key(1)/db: GTR
+db-key(1)/key: C1860406
+db-key(2)/db: MeSH
+db-key(2)/key: D015785
+db-key(3)/db: MeSH
+db-key(3)/key: D058499
+db-key(4)/db: OMIM
+db-key(4)/key: 193220
+db-key(5)/db: Orphanet
+db-key(5)/key: 3086
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 711162004
+reviewed: 2014-11
+published: 2018-04-17

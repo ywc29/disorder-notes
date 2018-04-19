@@ -1,0 +1,31 @@
+name: Hajdu-Cheney syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/hajdu-cheney-syndrome
+text/text-role: description
+text/html: <p>Hajdu-Cheney syndrome is a rare disorder that can affect many parts of the body, particularly the bones. Loss of bone tissue from the hands and feet (acro-osteolysis) is a characteristic feature of the condition. The fingers and toes are short and broad, and they may become shorter over time as bone at the tips continues to break down. Bone loss in the fingers can interfere with fine motor skills, such as picking up small objects.</p><p>Bone abnormalities throughout the body are common in Hajdu-Cheney syndrome. Affected individuals develop osteoporosis, which causes the bones to be brittle and prone to fracture. Many affected individuals experience breakage (compression fractures) of the spinal bones (vertebrae). Some also develop abnormal curvature of the spine (scoliosis or kyphosis). Hajdu-Cheney syndrome also affects the shape and strength of the long bones in the arms and legs. The abnormalities associated with this condition lead to short stature.</p><p>Hajdu-Cheney syndrome also causes abnormalities of the skull bones, including the bones of the face. The shape of the skull is often described as dolichocephalic, which means it is elongated from back to front. In many affected individuals, the bone at the back of the skull bulges outward, causing a bump called a prominent occiput. Distinctive facial features associated with this condition include widely spaced and downward-slanting eyes, eyebrows that grow together in the middle (synophrys), low-set ears, a sunken appearance of the middle of the face (midface hypoplasia), and a large space between the nose and upper lip (a long philtrum). Some affected children are born with an opening in the roof of the mouth called a cleft palate or with a high arched palate. In affected adults, the facial features are often described as "coarse."</p><p>Other features of Hajdu-Cheney syndrome found in some affected individuals include joint abnormalities, particularly an unusually large range of joint movement (hypermobility); dental problems; hearing loss; a deep, gravelly voice; excess body hair; recurrent infections in childhood; heart defects; and kidney abnormalities such as the growth of multiple fluid-filled cysts (polycystic kidneys). Some people with this condition have delayed development in childhood, but the delays are usually mild.</p><p>The most serious complications of Hajdu-Cheney syndrome, which occur in about half of all affected individuals, are abnormalities known as platybasia and basilar invagination. Platybasia is a flattening of the base of the skull caused by thinning and softening of the skull bones. Basilar invagination occurs when the softened bones allow part of the spine to protrude abnormally through the opening at the bottom of the skull, pushing into the lower parts of the brain. These abnormalities can lead to severe neurological problems, including headaches, abnormal vision and balance, a buildup of fluid in the brain (hydrocephalus), abnormal breathing, and sudden death.</p><p>The signs and symptoms of Hajdu-Cheney syndrome vary greatly among affected individuals, even among members of the same family. Many of the disorder's features, such as acro-osteolysis and some of the characteristic facial features, are not present at birth but become apparent in childhood or later. The risk of developing platybasia and basilar invagination also increases over time.</p><p>The features of Hajdu-Cheney syndrome overlap significantly with those of a condition called serpentine fibula-polycystic kidney syndrome (SFPKS). Although they used to be considered separate disorders, researchers discovered that the two conditions are associated with mutations in the same gene. Based on these similarities, many researchers now consider Hajdu-Cheney syndrome and SFPKS to be variants of the same condition.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: NOTCH2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NOTCH2
+synonym(1): acroosteolysis dominant type
+synonym(2): acroosteolysis with osteoporosis and changes in skull and mandible
+synonym(3): arthro-dento-osteo dysplasia
+synonym(4): arthrodentoosteodysplasia
+synonym(5): Cheney syndrome
+synonym(6): cranioskeletal dysplasia with acro-osteolysis
+synonym(7): familial osteodysplasia
+synonym(8): hereditary osteodysplasia with acro-osteolysis
+synonym(9): HJCYS
+synonym(10): serpentine fibula-polycystic kidney syndrome
+synonym(11): SFPKS
+db-key(1)/db: GTR
+db-key(1)/key: C0917715
+db-key(2)/db: MeSH
+db-key(2)/key: D031845
+db-key(3)/db: OMIM
+db-key(3)/key: 102500
+db-key(4)/db: Orphanet
+db-key(4)/key: 955
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 63122002
+reviewed: 2015-02
+published: 2018-04-17

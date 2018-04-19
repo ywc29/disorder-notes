@@ -1,0 +1,21 @@
+gene-symbol: GJB3
+name: gap junction protein beta 3
+ghr-page: https://ghr.nlm.nih.gov/gene/GJB3
+text/text-role: function
+text/html: <p>The <i>GJB3</i> gene provides instructions for making a protein called gap junction beta 3, more commonly known as connexin 31. This protein is part of the connexin family, a group of proteins that form channels called gap junctions on the surface of cells. Gap junctions open and close to regulate the flow of nutrients, charged atoms (ions), and other signaling molecules from one cell to another. They are essential for direct communication between neighboring cells.</p><p>Connexin 31 is found in several different parts of the body, including the outermost layer of the skin (the epidermis) and structures of the inner ear. Connexin 31 plays a role in the growth and maturation of cells in the epidermis. The exact role of this protein in the inner ear is less clear, although it appears to be involved in hearing.</p>
+related-health-condition(1)/name: erythrokeratodermia variabilis et progressiva
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/erythrokeratodermia-variabilis-et-progressiva
+related-health-condition(2)/name: nonsyndromic hearing loss
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-hearing-loss
+synonym(1): connexin 31
+synonym(2): CX31
+synonym(3): CXB3_HUMAN
+synonym(4): DFNA2
+synonym(5): gap junction protein, beta 3, 31kDa
+synonym(6): PNHI
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2707
+db-key(2)/db: OMIM
+db-key(2)/key: 603324
+reviewed: 2014-01
+published: 2018-04-17

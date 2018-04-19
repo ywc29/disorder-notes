@@ -1,0 +1,30 @@
+name: Cushing disease
+ghr-page: https://ghr.nlm.nih.gov/condition/cushing-disease
+text/text-role: description
+text/html: <p>Cushing disease is caused by elevated levels of a hormone called cortisol, which leads to a wide variety of signs and symptoms. This condition usually occurs in adults between the ages of 20 and 50; however, children may also be affected. The first sign of this condition is usually weight gain around the trunk and in the face. Affected individuals may get stretch marks (striae) on their thighs and abdomen and bruise easily. Individuals with Cushing disease can develop a hump on their upper back caused by abnormal deposits of fat. People with this condition can have muscle weakness, severe tiredness, and progressively thin and brittle bones that are prone to fracture (osteoporosis). They also have a weakened immune system and are at an increased risk of infections. Cushing disease can cause mood disorders such as anxiety, irritability, and depression. This condition can also affect a person's concentration and memory. People with Cushing disease have an increased chance of developing high blood pressure (hypertension) and diabetes. Women with Cushing disease may experience irregular menstruation and have excessive hair growth (hirsutism) on their face, abdomen, and legs. Men with Cushing disease may have erectile dysfunction. Children with Cushing disease typically experience slow growth.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+synonym(1): hypercortisolism
+synonym(2): pituitary ACTH hypersecretion
+synonym(3): pituitary Cushing syndrome
+synonym(4): pituitary-dependant Cushing syndrome
+synonym(5): pituitary-dependant hypercortisolism
+synonym(6): pituitary-dependant hypercortisolism disorder
+db-key(1)/db: GTR
+db-key(1)/key: C0221406
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E24.0
+db-key(3)/db: MeSH
+db-key(3)/key: D047748
+db-key(4)/db: OMIM
+db-key(4)/key: 219090
+db-key(5)/db: Orphanet
+db-key(5)/key: 96253
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 190502001
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 237734007
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 88803002
+reviewed: 2012-06
+published: 2018-04-17

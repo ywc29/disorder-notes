@@ -1,0 +1,24 @@
+gene-symbol: VHL
+name: von Hippel-Lindau tumor suppressor
+ghr-page: https://ghr.nlm.nih.gov/gene/VHL
+text/text-role: function
+text/html: <p>The <i>VHL</i> gene provides instructions for making a protein that functions as part of a complex (a group of proteins that work together) called the VCB-CUL2 complex. This complex targets other proteins to be broken down (degraded) by the cell when they are no longer needed. Protein degradation is a normal process that removes damaged or unnecessary proteins and helps maintain the normal functions of cells.</p><p>One of the targets of the VCB-CUL2 complex is a protein called hypoxia-inducible factor 2-alpha (HIF-2α). HIF-2α is one part (subunit) of a larger protein complex called HIF, which plays a critical role in the body's ability to adapt to changing oxygen levels. HIF controls several genes involved in cell division, the formation of new blood vessels, and the production of red blood cells. It is the major regulator of a hormone called erythropoietin, which controls red blood cell production. HIF's function is particularly important when oxygen levels are lower than normal (hypoxia). However, when adequate oxygen is available, the VCB-CUL2 complex keeps HIF from building up inappropriately in cells.</p><p>The VHL protein likely plays a role in other cellular functions, including the regulation of other genes and control of cell division. Based on this function, the VHL protein is classified as a tumor suppressor, which means it prevents cells from growing and dividing too rapidly or in an uncontrolled way. The VHL protein is also involved in the formation of the extracellular matrix, which is an intricate lattice that forms in the spaces between cells and provides structural support to tissues.</p>
+related-health-condition(1)/name: familial erythrocytosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-erythrocytosis
+related-health-condition(2)/name: nonsyndromic paraganglioma
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-paraganglioma
+related-health-condition(3)/name: von Hippel-Lindau syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/von-hippel-lindau-syndrome
+synonym(1): elongin binding protein
+synonym(2): pVHL
+synonym(3): VHL1
+synonym(4): VHL_HUMAN
+synonym(5): von Hippel-Lindau tumor suppressor, E3 ubiquitin protein ligase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7428
+db-key(2)/db: OMIM
+db-key(2)/key: 144700
+db-key(3)/db: OMIM
+db-key(3)/key: 608537
+reviewed: 2012-08
+published: 2018-04-17

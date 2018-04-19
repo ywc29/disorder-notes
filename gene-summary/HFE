@@ -1,0 +1,23 @@
+gene-symbol: HFE
+name: homeostatic iron regulator
+ghr-page: https://ghr.nlm.nih.gov/gene/HFE
+text/text-role: function
+text/html: <p>The <i>HFE</i> gene provides instructions for producing a protein that is located on the surface of cells, primarily liver and intestinal cells. The HFE protein is also found on some immune system cells.</p><p>The HFE protein interacts with other proteins on the cell surface to detect the amount of iron in the body.  The HFE protein regulates the production of another protein called hepcidin, which is considered the "master" iron regulatory hormone. Hepcidin is produced by the liver, and it determines how much iron is absorbed from the diet and released from storage sites in the body.  When the proteins involved in iron sensing and absorption are functioning properly, iron absorption is tightly regulated.  On average, the body absorbs about 10 percent of the iron obtained from the diet.</p><p>The HFE protein also interacts with two proteins called transferrin receptors; however, the role of these interactions in iron regulation is unclear.</p>
+related-health-condition(1)/name: hereditary hemochromatosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hemochromatosis
+related-health-condition(2)/name: porphyria
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/porphyria
+related-health-condition(3)/name: X-linked sideroblastic anemia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-sideroblastic-anemia
+synonym(1): hemochromatosis
+synonym(2): hemochromatosis, genetic; GH
+synonym(3): Hemochromatosis, Hereditary; HH
+synonym(4): Hereditary hemochromatosis protein
+synonym(5): HFE_HUMAN
+synonym(6): HLA-H antigen
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3077
+db-key(2)/db: OMIM
+db-key(2)/key: 613609
+reviewed: 2009-07
+published: 2018-04-17

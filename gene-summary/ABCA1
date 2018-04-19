@@ -1,0 +1,26 @@
+gene-symbol: ABCA1
+name: ATP binding cassette subfamily A member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ABCA1
+text/text-role: function
+text/html: <p>The <i>ABCA1</i> gene belongs to a group of genes called the ATP-binding cassette family, which provides instructions for making proteins that transport molecules across cell membranes. The ABCA1 protein is produced in many tissues, with high amounts found in the liver and in immune system cells called macrophages. This protein moves cholesterol and certain fats called phospholipids across the cell membrane to the outside of the cell. These substances are then picked up by a protein called apolipoprotein A-I (apoA-I), which is produced from the <i>APOA1</i> gene. ApoA-I, cholesterol, and phospholipids combine to make high-density lipoprotein (HDL), often referred to as "good cholesterol" because high levels of this substance reduce the chances of developing heart and blood vessel (cardiovascular) disease. HDL is a molecule that carries cholesterol and phospholipids through the bloodstream from the body's tissues to the liver. Once in the liver, cholesterol and phospholipids are redistributed to other tissues or removed from the body. The process of removing excess cholesterol from cells is extremely important for balancing cholesterol levels and maintaining cardiovascular health.</p>
+related-health-condition(1)/name: familial HDL deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hdl-deficiency
+related-health-condition(2)/name: Tangier disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/tangier-disease
+synonym(1): ABC1
+synonym(2): ABCA1_HUMAN
+synonym(3): ATP-binding cassette 1
+synonym(4): ATP binding cassette transporter 1
+synonym(5): ATP-binding cassette, sub-family A (ABC1), member 1
+synonym(6): CERP
+synonym(7): cholesterol efflux regulatory protein
+synonym(8): FLJ14958
+synonym(9): HDLDT1
+synonym(10): high density lipoprotein deficiency, Tangier type, 1
+synonym(11): TGD
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 19
+db-key(2)/db: OMIM
+db-key(2)/key: 600046
+reviewed: 2012-11
+published: 2018-04-17

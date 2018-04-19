@@ -1,0 +1,18 @@
+gene-symbol: YARS
+name: tyrosyl-tRNA synthetase
+ghr-page: https://ghr.nlm.nih.gov/gene/YARS
+text/text-role: function
+text/html: <p>The <i>YARS</i> gene provides instructions for making an enzyme called tyrosyl-tRNA synthetase.  This enzyme is found in all cells, where it plays an important role in the production (synthesis) of proteins.  During protein synthesis, building blocks (amino acids) are connected together in a specific order, creating the chain of amino acids that makes up the protein.  Tyrosyl-tRNA synthetase plays a role in adding the amino acid tyrosine at the proper place in a protein's chain of amino acids.</p><p>In addition to its role in protein synthesis, tyrosyl-tRNA synthetase appears to have other functions.  Under certain conditions, such as inflammation, this enzyme is cut (cleaved) into two fragments called mini-tyrRS and C-tyrRS.  Research indicates that mini-tyrRS promotes the growth of new blood vessels (angiogenesis).  Both fragments appear to stimulate the movement of particular cells, such as white blood cells that help fight infection.</p>
+related-health-condition/name: Charcot-Marie-Tooth disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+synonym(1): SYYC_HUMAN
+synonym(2): Tyrosyl-tRNA Ligase
+synonym(3): tyrRS
+synonym(4): YRS
+synonym(5): YTS
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8565
+db-key(2)/db: OMIM
+db-key(2)/key: 603623
+reviewed: 2010-01
+published: 2018-04-17

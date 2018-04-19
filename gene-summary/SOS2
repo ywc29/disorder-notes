@@ -1,0 +1,8 @@
+gene-symbol: SOS2
+name: SOS Ras/Rho guanine nucleotide exchange factor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/SOS2
+related-health-condition/name: Noonan syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/noonan-syndrome
+db-key/db: NCBI Gene
+db-key/key: 6655
+published: 2018-04-17

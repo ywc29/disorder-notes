@@ -1,0 +1,22 @@
+gene-symbol: HAMP
+name: hepcidin antimicrobial peptide
+ghr-page: https://ghr.nlm.nih.gov/gene/HAMP
+text/text-role: function
+text/html: <p>The <i>HAMP</i> gene provides instructions for the production of a protein called hepcidin. Hepcidin was originally identified as having antimicrobial properties, which refers to the ability of this protein to fight bacterial infections.  Researchers have discovered that hepcidin plays a major role in maintaining iron balance in the body. They believe that hepcidin circulates in the blood and inhibits iron absorption by the small intestine when the body's supply of iron is too high.  Researchers have proposed that hepcidin production in the liver increases when iron enters liver cells from the blood. Hepcidin is then released into the bloodstream and travels throughout the body.  This protein interacts primarily with other proteins in the intestines, liver, and certain white blood cells to adjust iron absorption and storage.  In this way, iron supplies are monitored and iron absorption is adjusted to reflect the needs of an individual's body.</p>
+related-health-condition/name: hereditary hemochromatosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hemochromatosis
+synonym(1): HEPC
+synonym(2): HEPC_HUMAN
+synonym(3): Hepcidin
+synonym(4): HFE2B
+synonym(5): LEAP-1
+synonym(6): LEAP1
+synonym(7): Liver-expressed antimicrobial peptide
+synonym(8): PLTR
+synonym(9): Putative liver tumor regressor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57817
+db-key(2)/db: OMIM
+db-key(2)/key: 606464
+reviewed: 2006-10
+published: 2018-04-17

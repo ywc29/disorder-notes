@@ -1,0 +1,20 @@
+name: Spondylothoracic dysostosis
+ghr-page: https://ghr.nlm.nih.gov/condition/spondylothoracic-dysostosis
+text/text-role: description
+text/html: <p>Spondylothoracic dysostosis is a condition characterized by malformation of the bones of the spine and ribs. The bones of the spine (vertebrae) do not develop properly, which causes them to be misshapen and abnormally joined together (fused). The ribs are also fused at the part nearest the spine (posteriorly), which gives the rib cage its characteristic fan-like or "crab" appearance in x-rays.  Affected individuals have short, rigid necks and short torsos because of the bone malformations.  As a result, people with spondylothoracic dysostosis have short bodies but normal-length arms and legs, called short-trunk dwarfism.</p><p>The spine and rib abnormalities, which are present from birth, cause other signs and symptoms of spondylothoracic dysostosis. Infants with this condition have small chests that cannot expand adequately, often leading to life-threatening breathing problems. As the lungs expand in the narrow chest, the muscle that separates the abdomen from the chest cavity (the diaphragm) is forced down and the abdomen is pushed out. The increased pressure in the abdomen can cause a soft out-pouching around the lower abdomen (inguinal hernia) or belly-button (umbilical hernia).</p><p>Breathing problems can be fatal early in life; however, some affected individuals live into adulthood.</p><p>Spondylothoracic dysostosis is sometimes called spondylocostal dysostosis, a similar condition with abnormalities of the spine and ribs.  The two conditions have been grouped in the past, and both are sometimes referred to as Jarcho-Levin syndrome; however, they are now considered distinct conditions.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: MESP2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MESP2
+synonym(1): Jarcho-Levin syndrome
+synonym(2): STD
+db-key(1)/db: GTR
+db-key(1)/key: C0265343
+db-key(2)/db: GeneReviews
+db-key(2)/key: spondylocostal-d
+db-key(3)/db: MeSH
+db-key(3)/key: D004413
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 61367005
+reviewed: 2016-06
+published: 2018-04-17

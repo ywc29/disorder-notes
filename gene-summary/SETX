@@ -1,0 +1,20 @@
+gene-symbol: SETX
+name: senataxin
+ghr-page: https://ghr.nlm.nih.gov/gene/SETX
+text/text-role: function
+text/html: <p>The <i>SETX</i> gene provides instructions for making a protein called senataxin. Senataxin is produced in a wide range of tissues, including the brain, spinal cord, and muscles. Based on the structure of senataxin, researchers believe that it is one of a class of proteins called helicases that are involved in DNA repair and the production of RNA, a chemical cousin of DNA. Helicases attach to particular regions of DNA and temporarily unwind the two spiral strands of a DNA molecule. By unwinding the strands near sites of DNA damage, helicases allow other proteins to reach damaged areas and fix them. Senataxin is thought to aid in DNA repair through this helicase mechanism. This unwinding mechanism may also be involved in using the instructions encoded by RNA to create different versions of certain proteins (RNA processing).</p>
+related-health-condition(1)/name: amyotrophic lateral sclerosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
+related-health-condition(2)/name: ataxia with oculomotor apraxia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/ataxia-with-oculomotor-apraxia
+synonym(1): ALS4
+synonym(2): AOA2
+synonym(3): KIAA0625
+synonym(4): SCAR1
+synonym(5): SETX_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23064
+db-key(2)/db: OMIM
+db-key(2)/key: 608465
+reviewed: 2015-04
+published: 2018-04-17

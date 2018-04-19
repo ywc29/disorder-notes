@@ -1,0 +1,25 @@
+gene-symbol: ANOS1
+name: anosmin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ANOS1
+text/text-role: function
+text/html: <p>The <i>ANOS1</i> gene, also known as <i>KAL1</i>, provides instructions for making a protein called anosmin-1. This protein is involved in development before birth. Anosmin-1 is found in the extracellular matrix, which is the intricate lattice of proteins and other molecules that forms in the spaces between cells. Anosmin-1 is active in many parts of the developing embryo, including the respiratory tract, kidneys, digestive system, and certain regions of the brain.</p><p>Researchers are working to determine the functions of anosmin-1. They have discovered that, in the developing brain, this protein is involved in the movement (migration) of nerve cells and the outgrowth of axons, which are specialized extensions of nerve cells that transmit nerve impulses. The protein also plays a role in regulating contact between nerve cells (cell adhesion).</p><p>Anosmin-1 appears to help control the growth and migration of a group of nerve cells that are specialized to process the sense of smell (olfactory neurons). These nerve cells originate in the developing nose and then migrate together to a structure in the front of the brain called the olfactory bulb, which is critical for the perception of odors. Studies suggest that anosmin-1 is also involved in the migration of neurons that produce a hormone called gonadotropin-releasing hormone (GnRH). Like olfactory neurons, GnRH-producing neurons migrate from the developing nose to the front of the brain. GnRH controls the production of several hormones that direct sexual development before birth and during puberty. These hormones are important for the normal function of the ovaries in women and testes in men.</p>
+related-health-condition/name: Kallmann syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/kallmann-syndrome
+synonym(1): adhesion molecule-like X-linked
+synonym(2): ADMLX
+synonym(3): anosmin-1
+synonym(4): HHA
+synonym(5): KAL
+synonym(6): KAL1
+synonym(7): KALIG-1
+synonym(8): Kallmann syndrome 1 protein
+synonym(9): Kallmann syndrome protein
+synonym(10): KALM_HUMAN
+synonym(11): KMS
+synonym(12): WFDC19
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3730
+db-key(2)/db: OMIM
+db-key(2)/key: 300836
+reviewed: 2016-12
+published: 2018-04-17

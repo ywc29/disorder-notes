@@ -1,0 +1,18 @@
+gene-symbol: F5
+name: coagulation factor V
+ghr-page: https://ghr.nlm.nih.gov/gene/F5
+text/text-role: function
+text/html: <p>The <i>F5</i> gene provides instructions for making a protein called coagulation factor V. Coagulation factors are a group of related proteins that make up the coagulation system, a series of chemical reactions that form blood clots. After an injury, clots seal off blood vessels to stop bleeding and trigger blood vessel repair.</p><p>The factor V protein is made primarily by cells in the liver. The protein circulates in the bloodstream in an inactive form until the coagulation system is activated by an injury that damages blood vessels. When coagulation factor V is activated, it interacts with coagulation factor X. The active forms of these two coagulation factors (written as factor Va and factor Xa, respectively) form a complex that converts an important coagulation protein called prothrombin to its active form, thrombin. Thrombin then converts a protein called fibrinogen into fibrin, which is the material that forms the clot.</p><p>Coagulation factor V has another role in regulating the coagulation system through its interaction with activated protein C (APC). APC normally inactivates coagulation factor V by cutting (cleaving) it at specific sites. This inactivation slows down the clotting process and prevents clots from growing too large. When coagulation factor V is cleaved at a particular site (protein position 506), it can work with APC to inactivate factor VIIIa, which is another protein that is essential for normal blood clotting.</p>
+related-health-condition(1)/name: factor V deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/factor-v-deficiency
+related-health-condition(2)/name: factor V Leiden thrombophilia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/factor-v-leiden-thrombophilia
+synonym(1): blood coagulation factor V
+synonym(2): coagulation factor V (proaccelerin, labile factor)
+synonym(3): factor V
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2153
+db-key(2)/db: OMIM
+db-key(2)/key: 612309
+reviewed: 2013-05
+published: 2018-04-17

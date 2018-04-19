@@ -1,0 +1,20 @@
+gene-symbol: FLCN
+name: folliculin
+ghr-page: https://ghr.nlm.nih.gov/gene/FLCN
+text/text-role: function
+text/html: <p>The <i>FLCN</i> gene provides instructions for making a protein called folliculin.  Researchers have not determined the protein's function, but they believe it may act as a tumor suppressor.  Tumor suppressors help control the growth and division of cells.</p><p>The folliculin protein is present in many of the body's tissues, including the brain, heart, placenta, testis, skin, lung, and kidney.  Researchers have proposed several possible roles for the protein within cells.  Folliculin may be important for cells' uptake of foreign particles (endocytosis or phagocytosis).  The protein may also play a role in the structural framework that helps to define the shape, size, and movement of a cell (the cytoskeleton) and in interactions between cells. In the lung, it is thought that folliculin plays a role in repairing and re-forming lung tissue following damage.</p>
+related-health-condition(1)/name: Birt-Hogg-Dubé syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/birt-hogg-dube-syndrome
+related-health-condition(2)/name: primary spontaneous pneumothorax
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/primary-spontaneous-pneumothorax
+synonym(1): BHD
+synonym(2): FLCL
+synonym(3): FLCN_HUMAN
+synonym(4): MGC17998
+synonym(5): MGC23445
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 201163
+db-key(2)/db: OMIM
+db-key(2)/key: 607273
+reviewed: 2012-11
+published: 2018-04-17

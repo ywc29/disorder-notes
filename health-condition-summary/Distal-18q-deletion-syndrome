@@ -1,0 +1,31 @@
+name: Distal 18q deletion syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/distal-18q-deletion-syndrome
+text/text-role: description
+text/html: <p>Distal 18q deletion syndrome is a chromosomal condition that occurs when a piece of the long (q) arm of chromosome 18 is missing. The term "distal" means that the missing piece occurs near one end of the chromosome. Distal 18q deletion syndrome can lead to a wide variety of signs and symptoms among affected individuals.</p><p>Some common features of distal 18q deletion syndrome include short stature (often due to growth hormone deficiency), weak muscle tone (hypotonia), hearing loss, and foot abnormalities such as an inward or upward-turning foot (clubfoot) or feet with soles that are rounded outward (rocker-bottom feet). Eye movement disorders and other vision problems, an opening in the roof of the mouth (cleft palate), an underactive thyroid gland (hypothyroidism), heart abnormalities that are present from birth (congenital heart defects), kidney problems, genital abnormalities, and skin problems may also occur in this disorder. Some affected individuals have mild facial differences such as deep-set eyes, a flat or sunken appearance of the middle of the face (midface hypoplasia), a wide mouth, and prominent ears. These features are often not noticeable except in a detailed medical evaluation.</p><p>Distal 18q deletion syndrome can also affect the nervous system. A common neurological feature of this disorder is impaired myelin production (dysmyelination). Myelin is a fatty substance that insulates nerve cells and promotes the rapid transmission of nerve impulses. The formation of a protective myelin sheath around nerve cells (myelination) normally begins before birth and continues into adulthood. In people with distal 18q deletion syndrome, myelin production is often delayed and proceeds more slowly than normal; affected individuals may never have normal adult myelin levels. Most people with distal 18q deletion syndrome have neurological problems, although it is unclear to what extent these problems are related to the dysmyelination. These problems include delayed development, learning disabilities, and intellectual disability that can range from mild to severe. Seizures; hyperactivity; mood disorders such as anxiety, irritability, and depression; and features of autism spectrum disorders that affect communication and social interaction may also occur. Some affected individuals have an unusually small head size (microcephaly).</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: n
+inheritance-pattern(2)/memo: not inherited
+related-gene(1)/gene-symbol: TCF4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/TCF4
+related-gene(2)/gene-symbol: TSHZ1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/TSHZ1
+related-chromosome/name: 18
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/18
+synonym(1): 18q deletion syndrome
+synonym(2): 18q- syndrome
+synonym(3): chromosome 18 long arm deletion syndrome
+synonym(4): chromosome 18q deletion syndrome
+synonym(5): chromosome 18q monosomy
+synonym(6): chromosome 18q- syndrome
+synonym(7): De Grouchy syndrome
+synonym(8): del(18q) syndrome
+synonym(9): monosomy 18q
+db-key(1)/db: GTR
+db-key(1)/key: C0432443
+db-key(2)/db: MeSH
+db-key(2)/key: D025063
+db-key(3)/db: OMIM
+db-key(3)/key: 601808
+reviewed: 2017-02
+published: 2018-04-17

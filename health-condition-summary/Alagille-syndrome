@@ -1,0 +1,39 @@
+name: Alagille syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/alagille-syndrome
+text/text-role: description
+text/html: <p>Alagille syndrome is a genetic disorder that can affect the liver, heart, and other parts of the body.</p><p>One of the major features of Alagille syndrome is liver damage caused by abnormalities in the bile ducts. These ducts carry bile (which helps to digest fats) from the liver to the gallbladder and small intestine. In Alagille syndrome, the bile ducts may be narrow, malformed, and reduced in number (bile duct paucity). As a result, bile builds up in the liver and causes scarring that prevents the liver from working properly to eliminate wastes from the bloodstream. Signs and symptoms arising from liver damage in Alagille syndrome may include a yellowish tinge in the skin and the whites of the eyes (jaundice), itchy skin, and deposits of cholesterol in the skin (xanthomas).</p><p>Alagille syndrome is also associated with several heart problems, including impaired blood flow from the heart into the lungs (pulmonic stenosis). Pulmonic stenosis may occur along with a hole between the two lower chambers of the heart (ventricular septal defect) and other heart abnormalities. This combination of heart defects is called tetralogy of Fallot.</p><p>People with Alagille syndrome may have distinctive facial features including a broad, prominent forehead; deep-set eyes; and a small, pointed chin. The disorder may also affect the blood vessels within the brain and spinal cord (central nervous system) and the kidneys. Affected individuals may have an unusual butterfly shape of the bones of the spinal column (vertebrae) that can be seen in an x-ray.</p><p>Problems associated with Alagille syndrome generally become evident in infancy or early childhood. The severity of the disorder varies among affected individuals, even within the same family. Symptoms range from so mild as to go unnoticed to severe heart and/or liver disease requiring transplantation.</p><p>Some people with Alagille syndrome may have isolated signs of the disorder, such as a heart defect like tetralogy of Fallot, or a characteristic facial appearance. These individuals do not have liver disease or other features typical of the disorder.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: JAG1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/JAG1
+related-gene(2)/gene-symbol: NOTCH2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/NOTCH2
+related-chromosome/name: 20
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/20
+synonym(1): Alagille-Watson Syndrome
+synonym(2): Alagille's syndrome
+synonym(3): arteriohepatic dysplasia (AHD)
+synonym(4): cardiovertebral syndrome
+synonym(5): cholestasis with peripheral pulmonary stenosis
+synonym(6): hepatic ductular hypoplasia
+synonym(7): hepatofacioneurocardiovertebral syndrome
+synonym(8): paucity of interlobular bile ducts
+synonym(9): Watson-Miller syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1857761
+db-key(2)/db: GTR
+db-key(2)/key: C1956125
+db-key(3)/db: GeneReviews
+db-key(3)/key: alagille
+db-key(4)/db: MeSH
+db-key(4)/key: D016738
+db-key(5)/db: OMIM
+db-key(5)/key: 118450
+db-key(6)/db: OMIM
+db-key(6)/key: 610205
+db-key(7)/db: Orphanet
+db-key(7)/key: 52
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 31742004
+reviewed: 2014-12
+published: 2018-04-17

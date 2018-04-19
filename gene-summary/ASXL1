@@ -1,0 +1,18 @@
+gene-symbol: ASXL1
+name: additional sex combs like 1, transcriptional regulator
+ghr-page: https://ghr.nlm.nih.gov/gene/ASXL1
+text/text-role: function
+text/html: <p>The <i>ASXL1</i> gene provides instructions for making a protein that is involved in a process known as chromatin remodeling. Chromatin is the complex of DNA and proteins that packages DNA into chromosomes. The structure of chromatin can be changed (remodeled) to alter how tightly DNA is packaged. When DNA is tightly packed, gene activity (expression) is lower than when DNA is loosely packed.</p><p>Through its role in chromatin remodeling, the ASXL1 protein regulates the expression of many genes, including a group of genes known as HOX genes, which play important roles in development before birth. The ASXL1 protein can turn on (activate) or turn off (repress) HOX genes depending on when they are needed.</p><p>The ASXL1 protein may have an additional role in gene regulation by signaling to molecules to add a methyl group (a process called methylation) to an area near a gene called the promoter region, which controls gene activity. When a promoter region is methylated, gene activity is repressed, and when a promoter region is not methylated, the gene is active.</p>
+related-health-condition/name: Bohring-Opitz syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/bohring-opitz-syndrome
+synonym(1): additional sex combs like 1
+synonym(2): additional sex combs like transcriptional regulator 1
+synonym(3): KIAA0978
+synonym(4): putative Polycomb group protein ASXL1 isoform 1
+synonym(5): putative Polycomb group protein ASXL1 isoform 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 171023
+db-key(2)/db: OMIM
+db-key(2)/key: 612990
+reviewed: 2016-12
+published: 2018-04-17

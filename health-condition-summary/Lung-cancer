@@ -1,0 +1,130 @@
+name: Lung cancer
+ghr-page: https://ghr.nlm.nih.gov/condition/lung-cancer
+text/text-role: description
+text/html: <p>Lung cancer is a disease in which certain cells in the lungs become abnormal and multiply uncontrollably to form a tumor. Lung cancer may not cause signs or symptoms in its early stages. Some people with lung cancer have chest pain, frequent coughing, blood in the mucus, breathing problems, trouble swallowing or speaking, loss of appetite and weight loss, fatigue, or swelling in the face or neck. Additional symptoms can develop if the cancer spreads (metastasizes) into other tissues. Lung cancer occurs most often in adults in their sixties or seventies. Most people who develop lung cancer have a history of long-term tobacco smoking; however, the condition can occur in people who have never smoked.</p><p>Lung cancer is generally divided into two types, small cell lung cancer and non-small cell lung cancer, based on the size of the affected cells when viewed under a microscope. Non-small cell lung cancer accounts for 85 percent of lung cancer, while small cell lung cancer accounts for the remaining 15 percent.</p><p>Small cell lung cancer grows quickly and in more than half of cases the cancer has spread beyond the lung by the time the condition is diagnosed. Small cell lung cancer often metastasizes, most commonly to the liver, brain, bones, and  adrenal glands (small hormone-producing glands located on top of each kidney). After diagnosis, most people with small cell lung cancer survive for about 1 year; less than seven percent survive 5 years.</p><p>Non-small cell lung cancer is divided into three main subtypes: adenocarcinoma, squamous cell carcinoma, and large cell lung carcinoma. Adenocarcinoma arises from the cells that line the small air sacs (alveoli) located throughout the lungs. Squamous cell carcinoma arises from squamous cells that line the passages leading from the windpipe (trachea) to the lungs (bronchi). Large cell carcinoma arises from epithelial cells that line the lungs. Large cell carcinoma encompasses non-small cell lung cancers that do not appear to be adenocarcinomas or squamous cell carcinomas. The 5-year survival rate for people with non-small cell lung cancer is usually between 11 and 17 percent; it can be lower or higher depending on the subtype and stage of the cancer.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: n
+inheritance-pattern(2)/memo: not inherited
+related-gene(1)/gene-symbol: ALK
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ALK
+related-gene(2)/gene-symbol: BRAF
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/BRAF
+related-gene(3)/gene-symbol: CDKN2A
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CDKN2A
+related-gene(4)/gene-symbol: DDR2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/DDR2
+related-gene(5)/gene-symbol: DLEC1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/DLEC1
+related-gene(6)/gene-symbol: EGFR
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/EGFR
+related-gene(7)/gene-symbol: ERBB2
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/ERBB2
+related-gene(8)/gene-symbol: IRF1
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/IRF1
+related-gene(9)/gene-symbol: KEAP1
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/KEAP1
+related-gene(10)/gene-symbol: KRAS
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/KRAS
+related-gene(11)/gene-symbol: MAP2K1
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/MAP2K1
+related-gene(12)/gene-symbol: MAP3K8
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/MAP3K8
+related-gene(13)/gene-symbol: MET
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/MET
+related-gene(14)/gene-symbol: NF1
+related-gene(14)/ghr-page: https://ghr.nlm.nih.gov/gene/NF1
+related-gene(15)/gene-symbol: NRAS
+related-gene(15)/ghr-page: https://ghr.nlm.nih.gov/gene/NRAS
+related-gene(16)/gene-symbol: NRG1
+related-gene(16)/ghr-page: https://ghr.nlm.nih.gov/gene/NRG1
+related-gene(17)/gene-symbol: PIK3CA
+related-gene(17)/ghr-page: https://ghr.nlm.nih.gov/gene/PIK3CA
+related-gene(18)/gene-symbol: PPP2R1B
+related-gene(18)/ghr-page: https://ghr.nlm.nih.gov/gene/PPP2R1B
+related-gene(19)/gene-symbol: PRKN
+related-gene(19)/ghr-page: https://ghr.nlm.nih.gov/gene/PRKN
+related-gene(20)/gene-symbol: PTEN
+related-gene(20)/ghr-page: https://ghr.nlm.nih.gov/gene/PTEN
+related-gene(21)/gene-symbol: RASSF1
+related-gene(21)/ghr-page: https://ghr.nlm.nih.gov/gene/RASSF1
+related-gene(22)/gene-symbol: RB1
+related-gene(22)/ghr-page: https://ghr.nlm.nih.gov/gene/RB1
+related-gene(23)/gene-symbol: RET
+related-gene(23)/ghr-page: https://ghr.nlm.nih.gov/gene/RET
+related-gene(24)/gene-symbol: RIT1
+related-gene(24)/ghr-page: https://ghr.nlm.nih.gov/gene/RIT1
+related-gene(25)/gene-symbol: ROS1
+related-gene(25)/ghr-page: https://ghr.nlm.nih.gov/gene/ROS1
+related-gene(26)/gene-symbol: SLC22A18
+related-gene(26)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC22A18
+related-gene(27)/gene-symbol: SMARCA4
+related-gene(27)/ghr-page: https://ghr.nlm.nih.gov/gene/SMARCA4
+related-gene(28)/gene-symbol: STK11
+related-gene(28)/ghr-page: https://ghr.nlm.nih.gov/gene/STK11
+related-gene(29)/gene-symbol: TP53
+related-gene(29)/ghr-page: https://ghr.nlm.nih.gov/gene/TP53
+synonym(1): cancer of bronchus
+synonym(2): cancer of the lung
+synonym(3): lung malignancies
+synonym(4): lung malignant tumors
+synonym(5): lung neoplasms
+synonym(6): malignant lung tumor
+synonym(7): malignant neoplasm of lung
+synonym(8): malignant tumor of lung
+synonym(9): pulmonary cancer
+synonym(10): pulmonary carcinoma
+synonym(11): pulmonary neoplasms
+synonym(12): respiratory carcinoma
+db-key(1)/db: GTR
+db-key(1)/key: C0684249
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: C34
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: C34.0
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: C34.00
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: C34.01
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: C34.1
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: C34.02
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: C34.2
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: C34.3
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: C34.9
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: C34.10
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: C34.11
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: C34.12
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: C34.30
+db-key(15)/db: ICD-10-CM
+db-key(15)/key: C34.31
+db-key(16)/db: ICD-10-CM
+db-key(16)/key: C34.32
+db-key(17)/db: ICD-10-CM
+db-key(17)/key: C34.90
+db-key(18)/db: ICD-10-CM
+db-key(18)/key: C34.91
+db-key(19)/db: ICD-10-CM
+db-key(19)/key: C34.92
+db-key(20)/db: MeSH
+db-key(20)/key: D002289
+db-key(21)/db: MeSH
+db-key(21)/key: D008175
+db-key(22)/db: MeSH
+db-key(22)/key: D055752
+db-key(23)/db: OMIM
+db-key(23)/key: 211980
+db-key(24)/db: Orphanet
+db-key(24)/key: 70573
+db-key(25)/db: SNOMED CT
+db-key(25)/key: 363358000
+reviewed: 2017-12
+published: 2018-04-17

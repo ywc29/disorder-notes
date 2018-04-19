@@ -1,0 +1,36 @@
+gene-symbol: KRT1
+name: keratin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/KRT1
+text/text-role: function
+text/html: <p>The <i>KRT1</i> gene provides instructions for making a protein called keratin 1. Keratins are a group of tough, fibrous proteins that form the structural framework of cells called keratinocytes that make up the skin, hair, and nails. Keratin 1 is produced in keratinocytes in the outer layer of the skin (the epidermis), including the skin on the palms of the hands and soles of the feet.</p><p>The keratin 1 protein partners with another keratin protein, either keratin 9 or keratin 10, to form molecules called keratin intermediate filaments. These filaments assemble into strong networks that provide strength and resiliency to the skin and protect it from being damaged by friction and other everyday physical stresses.</p>
+related-health-condition/name: epidermolytic hyperkeratosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/epidermolytic-hyperkeratosis
+synonym(1): 67 kDa cytokeratin
+synonym(2): CK-1
+synonym(3): CK1
+synonym(4): cytokeratin 1
+synonym(5): cytokeratin-1
+synonym(6): EHK1
+synonym(7): hair alpha protein
+synonym(8): K1
+synonym(9): K2C1_HUMAN
+synonym(10): keratin 1, type II
+synonym(11): keratin, type II cytoskeletal 1
+synonym(12): KRT1A
+synonym(13): type-II keratin Kb1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3848
+db-key(2)/db: OMIM
+db-key(2)/key: 139350
+db-key(3)/db: OMIM
+db-key(3)/key: 144200
+db-key(4)/db: OMIM
+db-key(4)/key: 146590
+db-key(5)/db: OMIM
+db-key(5)/key: 600962
+db-key(6)/db: OMIM
+db-key(6)/key: 607602
+db-key(7)/db: OMIM
+db-key(7)/key: 607654
+reviewed: 2011-11
+published: 2018-04-17

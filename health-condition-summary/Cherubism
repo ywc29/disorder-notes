@@ -1,0 +1,25 @@
+name: Cherubism
+ghr-page: https://ghr.nlm.nih.gov/condition/cherubism
+text/text-role: description
+text/html: <p>Cherubism is a disorder characterized by abnormal bone tissue in the lower part of the face.  Beginning in early childhood, both the lower jaw (the mandible) and the upper jaw (the maxilla) become enlarged as bone is replaced with painless, cyst-like growths.  These growths give the cheeks a swollen, rounded appearance and often interfere with normal tooth development.  In some people the condition is so mild that it may not be noticeable, while other cases are severe enough to cause problems with vision, breathing, speech, and swallowing.  Enlargement of the jaw usually continues throughout childhood and stabilizes during puberty.  The abnormal growths are gradually replaced with normal bone in early adulthood.  As a result, many affected adults have a normal facial appearance.</p><p>Most people with cherubism have few, if any, signs and symptoms affecting other parts of the body.  Rarely, however, this condition occurs as part of another genetic disorder.  For example, cherubism can occur with Ramon syndrome, which also involves short stature, intellectual disability, and overgrowth of the gums (gingival fibrosis).  Additionally, cherubism has been reported in rare cases of Noonan syndrome (a developmental disorder characterized by unusual facial characteristics, short stature, and heart defects) and fragile X syndrome (a condition primarily affecting males that causes learning disabilities and cognitive impairment).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SH3BP2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SH3BP2
+synonym(1): Familial benign giant-cell tumor of the jaw
+synonym(2): Familial fibrous dysplasia of jaw
+synonym(3): Familial multilocular cystic disease of the jaws
+db-key(1)/db: GTR
+db-key(1)/key: C0008029
+db-key(2)/db: GeneReviews
+db-key(2)/key: cherubism
+db-key(3)/db: MeSH
+db-key(3)/key: D002636
+db-key(4)/db: OMIM
+db-key(4)/key: 118400
+db-key(5)/db: Orphanet
+db-key(5)/key: 184
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 76098004
+reviewed: 2007-04
+published: 2018-04-17

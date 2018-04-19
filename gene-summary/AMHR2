@@ -1,0 +1,25 @@
+gene-symbol: AMHR2
+name: anti-Mullerian hormone receptor type 2
+ghr-page: https://ghr.nlm.nih.gov/gene/AMHR2
+text/text-role: function
+text/html: <p>The <i>AMHR2</i> gene provides instructions for making the anti-Müllerian hormone (AMH) receptor type 2, which is involved in male sex differentiation.  The AMH receptor type 2 is found on the surface of Müllerian duct cells. The Müllerian duct, found in both male and female fetuses, is the precursor to the female reproductive organs. During development of male fetuses, cells of the testes release a protein called the AMH protein. The AMH protein attaches (binds) to the AMH receptor type 2, which signals self-destruction (apoptosis) of the Müllerian duct cells. As a result, the Müllerian duct breaks down (regresses) in males. In females, who do not produce the AMH protein during fetal development, the Müllerian duct becomes the uterus and fallopian tubes.</p>
+related-health-condition/name: persistent Müllerian duct syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/persistent-mullerian-duct-syndrome
+synonym(1): AMH type II receptor
+synonym(2): AMHR
+synonym(3): AMHR2_HUMAN
+synonym(4): anti-Muellerian hormone type-2 receptor
+synonym(5): anti-Muellerian hormone type II receptor
+synonym(6): anti-Mullerian hormone receptor type II
+synonym(7): anti-Mullerian hormone receptor, type II
+synonym(8): MIS type II receptor
+synonym(9): MISR2
+synonym(10): MISRII
+synonym(11): MRII
+synonym(12): Mullerian inhibiting substance type II receptor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 269
+db-key(2)/db: OMIM
+db-key(2)/key: 600956
+reviewed: 2011-03
+published: 2018-04-17

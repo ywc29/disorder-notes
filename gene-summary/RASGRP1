@@ -1,0 +1,10 @@
+gene-symbol: RASGRP1
+name: RAS guanyl releasing protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/RASGRP1
+related-health-condition(1)/name: rheumatoid arthritis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/rheumatoid-arthritis
+related-health-condition(2)/name: systemic lupus erythematosus
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/systemic-lupus-erythematosus
+db-key/db: NCBI Gene
+db-key/key: 10125
+published: 2018-04-17

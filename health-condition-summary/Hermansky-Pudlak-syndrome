@@ -1,0 +1,43 @@
+name: Hermansky-Pudlak syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/hermansky-pudlak-syndrome
+text/text-role: description
+text/html: <p>Hermansky-Pudlak syndrome is a disorder characterized by a condition called oculocutaneous albinism, which causes abnormally light coloring (pigmentation) of the skin, hair, and eyes. Affected individuals typically have fair skin and white or light-colored hair. People with this disorder have a higher than average risk of skin damage and skin cancers caused by long-term sun exposure. Oculocutaneous albinism reduces pigmentation of the colored part of the eye (iris) and the light-sensitive tissue at the back of the eye (retina). Reduced vision, rapid and involuntary eye movements (nystagmus), and increased sensitivity to light (photophobia) are also common in oculocutaneous albinism. In Hermansky-Pudlak syndrome, these vision problems usually remain stable after early childhood.</p><p>People with Hermansky-Pudlak syndrome also have problems with blood clotting (coagulation) that lead to easy bruising and prolonged bleeding.</p><p>Some individuals with Hermansky-Pudlak syndrome develop breathing problems due to a lung disease called pulmonary fibrosis, which causes scar tissue to form in the lungs. The symptoms of pulmonary fibrosis usually appear during an individual's early thirties and rapidly worsen. Individuals with Hermansky-Pudlak syndrome who develop pulmonary fibrosis often do not live for more than a decade after they begin to experience breathing problems.</p><p>Other, less common features of Hermansky-Pudlak syndrome include inflammation of the large intestine (granulomatous colitis) and kidney failure.</p><p>There are nine different types of Hermansky-Pudlak syndrome, which can be distinguished by their signs and symptoms and underlying genetic cause. Types 1 and 4 are the most severe forms of the disorder. Types 1, 2, and 4 are the only types associated with pulmonary fibrosis. Individuals with type 3, 5, or 6 have the mildest symptoms. Little is known about the signs, symptoms, and severity of types 7, 8, and 9.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: AP3B1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AP3B1
+related-gene(2)/gene-symbol: BLOC1S3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/BLOC1S3
+related-gene(3)/gene-symbol: BLOC1S6
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/BLOC1S6
+related-gene(4)/gene-symbol: DTNBP1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/DTNBP1
+related-gene(5)/gene-symbol: HPS1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/HPS1
+related-gene(6)/gene-symbol: HPS3
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/HPS3
+related-gene(7)/gene-symbol: HPS4
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/HPS4
+related-gene(8)/gene-symbol: HPS5
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/HPS5
+related-gene(9)/gene-symbol: HPS6
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/HPS6
+synonym: HPS
+db-key(1)/db: GTR
+db-key(1)/key: C0079504
+db-key(2)/db: GTR
+db-key(2)/key: C2931875
+db-key(3)/db: GeneReviews
+db-key(3)/key: hps
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: E70.331
+db-key(5)/db: MeSH
+db-key(5)/key: D022861
+db-key(6)/db: OMIM
+db-key(6)/key: 203300
+db-key(7)/db: Orphanet
+db-key(7)/key: 79430
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 9311003
+reviewed: 2014-05
+published: 2018-04-17

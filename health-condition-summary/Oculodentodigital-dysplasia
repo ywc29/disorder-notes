@@ -1,0 +1,34 @@
+name: Oculodentodigital dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/oculodentodigital-dysplasia
+text/text-role: description
+text/html: <p>Oculodentodigital dysplasia is a condition that affects many parts of the body, particularly the eyes (oculo-), teeth (dento-), and fingers (digital).  Common features in people with this condition are small eyes (microphthalmia) and other eye abnormalities that can lead to vision loss.  Affected individuals also frequently have tooth abnormalities, such as small or missing teeth, weak enamel, multiple cavities, and early tooth loss.  Other common features of this condition include a thin nose and webbing of the skin (syndactyly) between the fourth and fifth fingers.</p><p>Less common features of oculodentodigital dysplasia include sparse hair growth (hypotrichosis), brittle nails, an unusual curvature of the fingers (camptodactyly), syndactyly of the toes, small head size (microcephaly), and an opening in the roof of the mouth (cleft palate).  Some affected individuals experience neurological problems such as a lack of bladder or bowel control, difficulty coordinating movements (ataxia), abnormal muscle stiffness (spasticity), hearing loss, and impaired speech (dysarthria).  A few people with oculodentodigital dysplasia also have a skin condition called palmoplantar keratoderma.  Palmoplantar keratoderma causes the skin on the palms and the soles of the feet to become thick, scaly, and calloused.</p><p>Some features of oculodentodigital dysplasia are evident at birth, while others become apparent with age.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: GJA1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GJA1
+synonym(1): oculo-dento-digital dysplasia
+synonym(2): oculo-dento-osseous dysplasia
+synonym(3): oculodentodigital syndrome
+synonym(4): oculodentoosseous dysplasia
+synonym(5): ODD syndrome
+synonym(6): ODDD
+synonym(7): ODOD
+synonym(8): osseous-oculo-dental dysplasia
+db-key(1)/db: GTR
+db-key(1)/key: C0812437
+db-key(2)/db: MeSH
+db-key(2)/key: D004476
+db-key(3)/db: OMIM
+db-key(3)/key: 164200
+db-key(4)/db: Orphanet
+db-key(4)/key: 2710
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 254138001
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 254139009
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 38215007
+reviewed: 2009-02
+published: 2018-04-17

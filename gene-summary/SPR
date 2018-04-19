@@ -1,0 +1,19 @@
+gene-symbol: SPR
+name: sepiapterin reductase
+ghr-page: https://ghr.nlm.nih.gov/gene/SPR
+text/text-role: function
+text/html: <p>The <i>SPR</i> gene provides instructions for making the sepiapterin reductase enzyme. This enzyme is involved in the last of three steps in the production of a molecule called tetrahydrobiopterin (BH4). Other enzymes help carry out the first and second steps in this process. The sepiapterin reductase enzyme converts a molecule called 6-pyruvoyl-tetrahydropterin to tetrahydrobiopterin. Tetrahydrobiopterin helps process several building blocks of proteins (amino acids), and is involved in the production of chemicals called neurotransmitters, which transmit signals between nerve cells in the brain. Specifically, tetrahydrobiopterin is involved in the production of two neurotransmitters called dopamine and serotonin. Among their many functions, dopamine transmits signals within the brain to produce smooth physical movements, and serotonin regulates mood, emotion, sleep, and appetite.</p>
+related-health-condition(1)/name: dopa-responsive dystonia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/dopa-responsive-dystonia
+related-health-condition(2)/name: sepiapterin reductase deficiency
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/sepiapterin-reductase-deficiency
+synonym(1): SDR38C1
+synonym(2): sepiapterin reductase (7,8-dihydrobiopterin:NADP+ oxidoreductase)
+synonym(3): short chain dehydrogenase/reductase family 38C, member 1
+synonym(4): SPRE_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6697
+db-key(2)/db: OMIM
+db-key(2)/key: 182125
+reviewed: 2012-05
+published: 2018-04-17

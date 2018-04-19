@@ -1,0 +1,25 @@
+gene-symbol: EDNRB
+name: endothelin receptor type B
+ghr-page: https://ghr.nlm.nih.gov/gene/EDNRB
+text/text-role: function
+text/html: <p>The <i>EDNRB</i> gene provides instructions for making a protein called endothelin receptor type B. This protein is located on the surface of cells and functions as a signaling mechanism, transmitting information from outside the cell to inside the cell. The receptor interacts with proteins called endothelins to regulate several critical biological processes, including the development and function of blood vessels, the production of certain hormones, and the stimulation of cell growth and division.</p><p>Endothelin 3 (produced from the <i>EDN3</i> gene) is one of the proteins that interacts with endothelin receptor type B. During early development before birth (embryonic development), endothelin 3 and endothelin receptor type B together play an important role in neural crest cells. These cells migrate from the developing spinal cord to specific regions in the embryo, where they give rise to many different types of cells. In particular, endothelin 3 and endothelin receptor type B are essential for the formation of nerves in the intestine (enteric nerves) and for the production of specialized cells called melanocytes. Melanocytes produce melanin, a pigment that contributes to skin, hair, and eye color. Melanin is also involved in the normal function of the inner ear.</p>
+related-health-condition(1)/name: Hirschsprung disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/hirschsprung-disease
+related-health-condition(2)/name: Waardenburg syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/waardenburg-syndrome
+synonym(1): ABCDS
+synonym(2): EDNRB_HUMAN
+synonym(3): endothelin receptor, non-selective type
+synonym(4): ETB
+synonym(5): ETBR
+synonym(6): ETRB
+synonym(7): HSCR
+synonym(8): HSCR2
+synonym(9): RP11-318G21.1
+synonym(10): WS4A
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1910
+db-key(2)/db: OMIM
+db-key(2)/key: 131244
+reviewed: 2016-08
+published: 2018-04-17

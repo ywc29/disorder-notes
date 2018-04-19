@@ -1,0 +1,20 @@
+gene-symbol: NCSTN
+name: nicastrin
+ghr-page: https://ghr.nlm.nih.gov/gene/NCSTN
+text/text-role: function
+text/html: <p>The <i>NCSTN</i> gene provides instructions for making a protein called nicastrin. This protein is one part (subunit) of a complex called gamma- (γ-) secretase. Nicastrin plays a critical role in the assembly and stability of this complex.</p><p>The γ-secretase complex is located in the membrane that surrounds cells, where it cuts apart (cleaves) many different proteins that span the cell membrane (transmembrane proteins). This cleavage is an important step in several chemical signaling pathways that transmit signals from outside the cell into the nucleus. One of these pathways, known as Notch signaling, is essential for the normal maturation and division of hair follicle cells and other types of skin cells. Notch signaling is also involved in normal immune system function.</p>
+related-health-condition/name: hidradenitis suppurativa
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hidradenitis-suppurativa
+synonym(1): anterior pharynx-defective 2
+synonym(2): APH2
+synonym(3): ATAG1874
+synonym(4): KIAA0253
+synonym(5): NICA_HUMAN
+synonym(6): nicastrin precursor
+synonym(7): RP11-517F10.1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23385
+db-key(2)/db: OMIM
+db-key(2)/key: 605254
+reviewed: 2013-12
+published: 2018-04-17

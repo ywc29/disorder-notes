@@ -1,0 +1,33 @@
+name: Hereditary angioedema
+ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-angioedema
+text/text-role: description
+text/html: <p>Hereditary angioedema is a disorder characterized by recurrent episodes of severe swelling (angioedema). The most common areas of the body to develop swelling are the limbs, face, intestinal tract, and airway. Minor trauma or stress may trigger an attack, but swelling often occurs without a known trigger. Episodes involving the intestinal tract cause severe abdominal pain, nausea, and vomiting. Swelling in the airway can restrict breathing and lead to life-threatening obstruction of the airway. About one-third of people with this condition develop a non-itchy rash called erythema marginatum during an attack.</p><p>Symptoms of hereditary angioedema typically begin in childhood and worsen during puberty.  On average, untreated individuals have an attack every 1 to 2 weeks, and most episodes last for about 3 to 4 days. The frequency and duration of attacks vary greatly among people with hereditary angioedema, even among people in the same family.</p><p>There are three types of hereditary angioedema, called types I, II, and III, which can be distinguished by their underlying causes and levels of a protein called C1 inhibitor in the blood. The different types have similar signs and symptoms. Type III was originally thought to occur only in women, but families with affected males have been identified.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: F12
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/F12
+related-gene(2)/gene-symbol: SERPING1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SERPING1
+synonym(1): C1 esterase inhibitor deficiency
+synonym(2): C1 inhibitor deficiency
+synonym(3): HAE
+synonym(4): HANE
+synonym(5): hereditary angioneurotic edema
+db-key(1)/db: GTR
+db-key(1)/key: C0019243
+db-key(2)/db: GTR
+db-key(2)/key: C1857728
+db-key(3)/db: GTR
+db-key(3)/key: C1862892
+db-key(4)/db: MeSH
+db-key(4)/key: D054179
+db-key(5)/db: OMIM
+db-key(5)/key: 106100
+db-key(6)/db: OMIM
+db-key(6)/key: 610618
+db-key(7)/db: Orphanet
+db-key(7)/key: 91378
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 82966003
+reviewed: 2009-04
+published: 2018-04-17

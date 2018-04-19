@@ -1,0 +1,29 @@
+gene-symbol: FLT3
+name: fms related tyrosine kinase 3
+ghr-page: https://ghr.nlm.nih.gov/gene/FLT3
+text/text-role: function
+text/html: <p>The <i>FLT3</i> gene provides instructions for making a protein called fms-like tyrosine kinase 3 (FLT3), which is part of a family of proteins called receptor tyrosine kinases (RTKs). Receptor tyrosine kinases transmit signals from the cell surface into the cell through a process called signal transduction. The FLT3 protein is found in the outer membrane of certain cell types where a specific protein called FLT3 ligand, or FL, can attach (bind) to it. This binding turns on (activates) the FLT3 protein, which subsequently activates a series of proteins inside the cell that are part of multiple signaling pathways. The signaling pathways stimulated by the FLT3 protein control many important cellular processes such as the growth and division (proliferation) and survival of cells, particularly of early blood cells called hematopoietic progenitor cells.</p>
+related-health-condition(1)/name: core binding factor acute myeloid leukemia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/core-binding-factor-acute-myeloid-leukemia
+related-health-condition(2)/name: cytogenetically normal acute myeloid leukemia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cytogenetically-normal-acute-myeloid-leukemia
+synonym(1): CD135
+synonym(2): CD135 antigen
+synonym(3): fetal liver kinase 2
+synonym(4): FL cytokine receptor
+synonym(5): FLK-2
+synonym(6): FLK2
+synonym(7): FLT3_HUMAN
+synonym(8): fms-like tyrosine kinase 3
+synonym(9): fms-related tyrosine kinase 3
+synonym(10): growth factor receptor tyrosine kinase type III
+synonym(11): receptor-type tyrosine-protein kinase FLT3
+synonym(12): stem cell tyrosine kinase 1
+synonym(13): STK-1
+synonym(14): STK1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2322
+db-key(2)/db: OMIM
+db-key(2)/key: 136351
+reviewed: 2014-01
+published: 2018-04-17

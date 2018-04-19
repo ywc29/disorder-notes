@@ -1,0 +1,55 @@
+name: Schizophrenia
+ghr-page: https://ghr.nlm.nih.gov/condition/schizophrenia
+text/text-role: description
+text/html: <p>Schizophrenia is a brain disorder classified as a psychosis, which means that it affects a person's thinking, sense of self, and perceptions. The disorder typically becomes evident during late adolescence or early adulthood.</p><p>Signs and symptoms of schizophrenia include false perceptions called hallucinations. Auditory hallucinations of voices are the most common hallucinations in schizophrenia, but affected individuals can also experience hallucinations of visions, smells, or touch (tactile) sensations. Strongly held false beliefs (delusions) are also characteristic of schizophrenia. For example, affected individuals may be certain that they are a particular historical figure or that they are being plotted against or controlled by others.</p><p>People with schizophrenia often have decreased ability to function at school, at work, and in social settings. Disordered thinking and concentration, inappropriate emotional responses, erratic speech and behavior, and difficulty with personal hygiene and everyday tasks can also occur. People with schizophrenia may have diminished facial expression and animation (flat affect), and in some cases become unresponsive (catatonic). Substance abuse and suicidal thoughts and actions are common in people with schizophrenia.</p><p>Certain movement problems such as tremors, facial tics, rigidity, and unusually slow movement (bradykinesia) or an inability to move (akinesia) are common in people with schizophrenia. In most cases these are side effects of medicines prescribed to help control the disorder. However, some affected individuals exhibit movement abnormalities before beginning treatment with medication.</p><p>Some people with schizophrenia have mild impairment of intellectual function, but schizophrenia is not associated with the same types of physical changes in the brain that occur in people with dementias such as Alzheimer disease.</p><p>Psychotic disorders such as schizophrenia are different from mood disorders, including depression and bipolar disorder, which primarily affect emotions. However, these disorders often occur together. Individuals who exhibit strong features of both schizophrenia and mood disorders are often given the diagnosis of schizoaffective disorder.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: ABCA13
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ABCA13
+related-gene(2)/gene-symbol: AKT1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/AKT1
+related-gene(3)/gene-symbol: C4A
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/C4A
+related-gene(4)/gene-symbol: COMT
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/COMT
+related-gene(5)/gene-symbol: DGCR2
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/DGCR2
+related-gene(6)/gene-symbol: DGCR8
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/DGCR8
+related-gene(7)/gene-symbol: DRD2
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/DRD2
+related-gene(8)/gene-symbol: MIR137
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/MIR137
+related-gene(9)/gene-symbol: NOS1AP
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/NOS1AP
+related-gene(10)/gene-symbol: NRXN1
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/NRXN1
+related-gene(11)/gene-symbol: OLIG2
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/OLIG2
+related-gene(12)/gene-symbol: RTN4R
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/RTN4R
+related-gene(13)/gene-symbol: SYN2
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/SYN2
+related-gene(14)/gene-symbol: TOP3B
+related-gene(14)/ghr-page: https://ghr.nlm.nih.gov/gene/TOP3B
+related-gene(15)/gene-symbol: YWHAE
+related-gene(15)/ghr-page: https://ghr.nlm.nih.gov/gene/YWHAE
+related-gene(16)/gene-symbol: ZDHHC8
+related-gene(16)/ghr-page: https://ghr.nlm.nih.gov/gene/ZDHHC8
+related-chromosome/name: 22
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/22
+synonym: dementia praecox
+db-key(1)/db: GTR
+db-key(1)/key: C0036341
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: F20
+db-key(3)/db: MeSH
+db-key(3)/key: D012559
+db-key(4)/db: OMIM
+db-key(4)/key: 181500
+db-key(5)/db: Orphanet
+db-key(5)/key: 3140
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 58214004
+reviewed: 2018-02
+published: 2018-04-17

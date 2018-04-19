@@ -1,0 +1,20 @@
+gene-symbol: HPS3
+name: HPS3, biogenesis of lysosomal organelles complex 2 subunit 1
+ghr-page: https://ghr.nlm.nih.gov/gene/HPS3
+text/text-role: function
+text/html: <p>The <i>HPS3</i> gene provides instructions for making a protein that forms part of a complex called biogenesis of lysosome-related organelles complex-2 (BLOC-2). This complex plays a role in the formation of a group of cellular structures called lysosome-related organelles (LROs). In particular, BLOC-2 controls the sorting and transport of proteins into LROs during their formation. LROs are very similar to compartments within the cell called lysosomes, which digest and recycle materials. However, LROs perform specialized functions and are found only in certain cell types.</p><p>Within pigment-producing cells (melanocytes), LROs called melanosomes produce and distribute melanin, which is the substance that gives skin, hair, and eyes their color. A different type of LRO is found in platelets, the blood cell fragments involved in normal blood clotting. These LROs, called dense granules, release chemical signals that cause platelets to stick together and form a blood clot.</p>
+related-health-condition/name: Hermansky-Pudlak syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hermansky-pudlak-syndrome
+synonym(1): BLOC2S1
+synonym(2): DKFZp686F0413
+synonym(3): FLJ22704
+synonym(4): Hermansky-Pudlak syndrome 3
+synonym(5): Hermansky-Pudlak syndrome 3 protein
+synonym(6): HPS3_HUMAN
+synonym(7): SUTAL
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 84343
+db-key(2)/db: OMIM
+db-key(2)/key: 606118
+reviewed: 2014-05
+published: 2018-04-17

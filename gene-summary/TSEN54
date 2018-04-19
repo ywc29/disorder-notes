@@ -1,0 +1,21 @@
+gene-symbol: TSEN54
+name: tRNA splicing endonuclease subunit 54
+ghr-page: https://ghr.nlm.nih.gov/gene/TSEN54
+text/text-role: function
+text/html: <p>The <i>TSEN54</i> gene provides instructions for making one part (subunit) of an enzyme called the tRNA splicing endonuclease complex. This complex helps process several types of RNA molecules, which are chemical cousins of DNA.</p><p>The tRNA splicing endonuclease complex is particularly important for the normal processing of a form of RNA known as transfer RNA (tRNA). tRNA molecules help assemble protein building blocks called amino acids into full-length proteins. However, before they can assemble proteins, tRNAs must be processed into mature molecules. In particular, regions called introns need to be removed from some tRNAs for the molecules to be functional. The tRNA splicing endonuclease complex recognizes and then removes introns to help produce mature tRNA molecules.</p><p>Studies suggest that the tRNA splicing endonuclease complex may also be involved in processing another form of RNA known as messenger RNA (mRNA). mRNA serves as a genetic blueprint for making proteins. Researchers suspect that the tRNA splicing endonuclease complex cuts (cleaves) one end of mRNA molecules so a string of adenines (one of the building blocks of RNA) can be added. This process is known as polyadenylation, and the string of adenines is known as a poly(A) tail. The poly(A) tail signals the stopping point for protein production and protects mRNA from being broken down before protein production occurs.</p>
+related-health-condition/name: pontocerebellar hypoplasia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pontocerebellar-hypoplasia
+synonym(1): FLJ37147
+synonym(2): SEN54
+synonym(3): SEN54_HUMAN
+synonym(4): SEN54L
+synonym(5): tRNA-intron endonuclease Sen54
+synonym(6): tRNA splicing endonuclease 54 homolog
+synonym(7): tRNA splicing endonuclease 54 homolog (S. cerevisiae)
+synonym(8): TSEN54 tRNA splicing endonuclease subunit
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 283989
+db-key(2)/db: OMIM
+db-key(2)/key: 608755
+reviewed: 2014-11
+published: 2018-04-17

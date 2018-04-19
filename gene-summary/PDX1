@@ -1,0 +1,8 @@
+gene-symbol: PDX1
+name: pancreatic and duodenal homeobox 1
+ghr-page: https://ghr.nlm.nih.gov/gene/PDX1
+related-health-condition/name: permanent neonatal diabetes mellitus
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/permanent-neonatal-diabetes-mellitus
+db-key/db: NCBI Gene
+db-key/key: 3651
+published: 2018-04-17

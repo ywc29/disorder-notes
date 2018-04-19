@@ -1,0 +1,21 @@
+name: African iron overload
+ghr-page: https://ghr.nlm.nih.gov/condition/african-iron-overload
+text/text-role: description
+text/html: <p>African iron overload is a condition that involves absorption of too much iron from the diet. The excess iron is stored in the body's tissues and organs, particularly the liver, bone marrow, and spleen. Humans cannot increase the excretion of iron, although some iron is lost through bleeding or when cells of the intestine (enterocytes) are shed at the end of the cells' lifespan. Iron levels in the body are primarily regulated through control of how much iron is absorbed from the diet.</p><p>African iron overload results from a diet high in iron. It is particularly associated with consumption of a traditional African beer that contains dissolved iron from the metal drums in which it is brewed. Some evidence suggests that a genetic predisposition to absorbing too much iron may also be involved.</p><p>In African iron overload, excess iron typically accumulates primarily in certain immune cells called reticuloendothelial cells. Reticuloendothelial cells include macrophages in the bone marrow and spleen and Kupffer cells, which are specialized macrophages found in the liver that help protect the body against foreign invaders such as viruses and bacteria. Later in the course of the condition, iron also accumulates in liver cells (hepatocytes). This pattern differs from that seen in a similar iron overload disorder called hereditary hemochromatosis, in which the excess iron accumulates primarily in the hepatocytes.</p><p>When too much iron is absorbed, the resulting iron overload can eventually damage tissues and organs. Iron overload in the liver can lead to chronic liver disease (cirrhosis). Cirrhosis increases the risk of developing a type of liver cancer called hepatocellular carcinoma. Iron overload in immune cells may affect their ability to fight infections. African iron overload is associated with an increased risk of developing infections such as tuberculosis. The excess iron also leads to a faster-than-normal breakdown of vitamin C in the body, so affected individuals are at increased risk of vitamin C deficiency problems such as scurvy.</p><p>People with African iron overload may have a slightly low number of red blood cells (mild anemia), possibly because the iron that accumulates in the liver, bone marrow, and spleen is less available for production of red blood cells. Affected individuals also have high levels of a protein called ferritin in their blood, which can be detected with a blood test. Ferritin stores and releases iron in cells, and cells produce more ferritin in response to excess amounts of iron.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene/gene-symbol: SLC40A1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SLC40A1
+synonym(1): African hemochromatosis
+synonym(2): African nutritional hemochromatosis
+synonym(3): African siderosis
+db-key(1)/db: GTR
+db-key(1)/key: C0268063
+db-key(2)/db: MeSH
+db-key(2)/key: D012806
+db-key(3)/db: OMIM
+db-key(3)/key: 601195
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 66576001
+reviewed: 2016-07
+published: 2018-04-17

@@ -1,0 +1,38 @@
+gene-symbol: KAT6B
+name: lysine acetyltransferase 6B
+ghr-page: https://ghr.nlm.nih.gov/gene/KAT6B
+text/text-role: function
+text/html: <p>The <i>KAT6B</i> gene provides instructions for making a type of enzyme called a histone acetyltransferase. These enzymes modify histones, which are structural proteins that attach (bind) to DNA and give chromosomes their shape. By adding a small molecule called an acetyl group to particular locations on histones, histone acetyltransferases control the activity of certain genes.</p><p>Little is known about the function of the histone acetyltransferase produced from the <i>KAT6B</i> gene. It is active in cells and tissues throughout the body, where it interacts with many other proteins. It appears to regulate genes that are important for early development, including development of the skeleton and nervous system.</p>
+related-health-condition(1)/name: genitopatellar syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/genitopatellar-syndrome
+related-health-condition(2)/name: Ohdo syndrome, Say-Barber-Biesecker-Young-Simpson variant
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/ohdo-syndrome-say-barber-biesecker-young-simpson-variant
+synonym(1): GTPTS
+synonym(2): histone acetyltransferase KAT6B
+synonym(3): histone acetyltransferase MORF
+synonym(4): histone acetyltransferase MOZ2
+synonym(5): histone acetyltransferase MYST4
+synonym(6): K(lysine) acetyltransferase 6B
+synonym(7): KAT6B_HUMAN
+synonym(8): monocytic leukemia zinc finger protein-related factor
+synonym(9): MORF
+synonym(10): MOZ-related factor
+synonym(11): MOZ2
+synonym(12): MYST-4
+synonym(13): MYST histone acetyltransferase (monocytic leukemia) 4
+synonym(14): MYST4
+synonym(15): qkf
+synonym(16): querkopf
+synonym(17): ZC2HC6B
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23522
+db-key(2)/db: OMIM
+db-key(2)/key: 150699
+db-key(3)/db: OMIM
+db-key(3)/key: 601626
+db-key(4)/db: OMIM
+db-key(4)/key: 605880
+db-key(5)/db: OMIM
+db-key(5)/key: 614286
+reviewed: 2013-02
+published: 2018-04-17

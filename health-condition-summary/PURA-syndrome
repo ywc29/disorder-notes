@@ -1,0 +1,18 @@
+name: PURA syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/pura-syndrome
+text/text-role: description
+text/html: <p><i>PURA</i> syndrome is a condition characterized by intellectual disability and delayed development of speech and motor skills, such as walking. Expressive language skills (vocabulary and the production of speech) are generally more severely affected than receptive language skills (the ability to understand speech), and most affected individuals are unable to speak. People with <i>PURA</i> syndrome may learn to walk later than their peers; many are never able to walk. In infancy, affected infants have very weak muscle tone (hypotonia) and feeding difficulties. Problems with swallowing (dysphagia) can last throughout life. In addition, affected infants can be excessively sleepy (hypersomnolent), have a low body temperature (hypothermia), and have short pauses in breathing (apnea) or episodes of abnormally slow breathing (hypoventilation). These breathing problems usually go away after age 1.</p><p>Recurrent seizures (epilepsy) are also common in <i>PURA</i> syndrome. Seizures usually begin before age 5 with uncontrolled muscle jerks (myoclonus). Other types of seizures can develop, such as generalized tonic-clonic seizures, which involve loss of consciousness, muscle rigidity, and convulsions. In people with <i>PURA</i> syndrome, seizures are often difficult to control.</p><p>Other features in people with <i>PURA</i> syndrome can include abnormalities of the heart, eyes, urogenital tract, gastrointestinal tract, and skeleton. Some affected individuals have symptoms of a hormonal problem, such as early sexual development (precocious puberty) or low levels of vitamin D (which is a hormone).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: PURA
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PURA
+synonym(1): PURA-related neurodevelopmental disorder
+synonym(2): PURA-related severe neonatal hypotonia-seizures-encephalopathy syndrome
+db-key(1)/db: GeneReviews
+db-key(1)/key: pura-dis
+db-key(2)/db: MeSH
+db-key(2)/key: D065886
+db-key(3)/db: Orphanet
+db-key(3)/key: 438213
+reviewed: 2017-08
+published: 2018-04-17

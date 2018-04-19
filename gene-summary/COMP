@@ -1,0 +1,24 @@
+gene-symbol: COMP
+name: cartilage oligomeric matrix protein
+ghr-page: https://ghr.nlm.nih.gov/gene/COMP
+text/text-role: function
+text/html: <p>The <i>COMP</i> gene provides the instructions for making the COMP protein. This protein is found in the extracellular matrix, which is an intricate lattice of proteins and other molecules that forms in the spaces between cells. Specifically, the COMP protein is located in the extracellular matrix surrounding the cells that make up ligaments and tendons, and near cartilage-forming cells (chondrocytes). Chondrocytes play an important role in bone formation (osteogenesis). In the bones of the spine, hips, and limbs, the process of osteogenesis starts with the formation of cartilage, which is then converted into bone.</p><p>The normal function of the COMP protein is not fully known. It is believed to play a role in cell growth and division (proliferation) and the self-destruction of cells (apoptosis), as well as in the regulation of cell movement and attachment. Research has also shown that the COMP protein binds strongly to calcium.</p>
+related-health-condition(1)/name: multiple epiphyseal dysplasia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-epiphyseal-dysplasia
+related-health-condition(2)/name: pseudoachondroplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pseudoachondroplasia
+synonym(1): cartilage oligomeric matrix protein (pseudoachondroplasia, epiphyseal dysplasia 1, multiple)
+synonym(2): COMP_HUMAN
+synonym(3): EDM1
+synonym(4): EPD1
+synonym(5): MED
+synonym(6): PSACH
+synonym(7): pseudoachondroplasia (epiphyseal dysplasia 1, multiple)
+synonym(8): THBS5
+synonym(9): thrombospondin-5
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1311
+db-key(2)/db: OMIM
+db-key(2)/key: 600310
+reviewed: 2008-02
+published: 2018-04-17

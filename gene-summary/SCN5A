@@ -1,0 +1,42 @@
+gene-symbol: SCN5A
+name: sodium voltage-gated channel alpha subunit 5
+ghr-page: https://ghr.nlm.nih.gov/gene/SCN5A
+text/text-role: function
+text/html: <p>The <i>SCN5A</i> gene belongs to a family of genes that provide instructions for making sodium channels. These channels open and close at specific times to control the flow of positively charged sodium atoms (sodium ions) into cells. The sodium channels containing proteins produced from the <i>SCN5A</i> gene are abundant in heart (cardiac) muscle cells and play key roles in these cells' ability to generate and transmit electrical signals. These channels play a major role in signaling the start of each heartbeat, coordinating the contractions of the upper and lower chambers of the heart, and maintaining a normal heart rhythm.</p>
+related-health-condition(1)/name: Brugada syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/brugada-syndrome
+related-health-condition(2)/name: familial atrial fibrillation
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-atrial-fibrillation
+related-health-condition(3)/name: familial dilated cardiomyopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+related-health-condition(4)/name: left ventricular noncompaction
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/left-ventricular-noncompaction
+related-health-condition(5)/name: progressive familial heart block
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/progressive-familial-heart-block
+related-health-condition(6)/name: Romano-Ward syndrome
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/romano-ward-syndrome
+related-health-condition(7)/name: sick sinus syndrome
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/sick-sinus-syndrome
+synonym(1): HH1
+synonym(2): LQT3
+synonym(3): Nav1.5
+synonym(4): SCN5A_HUMAN
+synonym(5): Sodium channel protein, cardiac muscle alpha-subunit
+synonym(6): sodium channel, voltage gated, type V alpha subunit
+synonym(7): sodium channel, voltage-gated, type V, alpha (long QT syndrome 3)
+synonym(8): sodium channel, voltage-gated, type V, alpha subunit
+synonym(9): SSS1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6331
+db-key(2)/db: OMIM
+db-key(2)/key: 272120
+db-key(3)/db: OMIM
+db-key(3)/key: 600163
+db-key(4)/db: OMIM
+db-key(4)/key: 601154
+db-key(5)/db: OMIM
+db-key(5)/key: 603829
+db-key(6)/db: OMIM
+db-key(6)/key: 614022
+reviewed: 2017-05
+published: 2018-04-17

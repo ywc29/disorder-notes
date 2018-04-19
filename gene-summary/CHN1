@@ -1,0 +1,24 @@
+gene-symbol: CHN1
+name: chimerin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/CHN1
+text/text-role: function
+text/html: <p>The <i>CHN1</i> gene provides instructions for making two very similar proteins called α1-chimaerin and α2-chimaerin. These proteins play an important role in the early development of the nervous system. In particular, they help regulate complex chemical signaling pathways during the formation and development of nerve cells (neurons). These proteins help guide the growth of axons and dendrites, which are specialized extensions of neurons that transmit and receive nerve impulses throughout the nervous system.</p><p>The CHN1 proteins, particularly α2-chimaerin, appear to be critical for the formation of certain nerves in the head and face. Specifically, they are necessary for the development and function of cranial nerve VI and, to a lesser extent, cranial nerve III. These nerves emerge from the brain and control several of the muscles that surround the eyes (extraocular muscles). The extraocular muscles direct eye movement and determine the position of the eyes.</p>
+related-health-condition/name: isolated Duane retraction syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/isolated-duane-retraction-syndrome
+synonym(1): A-chimaerin
+synonym(2): alpha-chimerin
+synonym(3): ARHGAP2
+synonym(4): Chimerin 1 (GTPase-activating protein, rho, 2)
+synonym(5): CHIN_HUMAN
+synonym(6): CHN
+synonym(7): DURS2
+synonym(8): N-chimaerin
+synonym(9): n-chimerin
+synonym(10): Rho GTPase-activating protein 2
+synonym(11): RHOGAP2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1123
+db-key(2)/db: OMIM
+db-key(2)/key: 118423
+reviewed: 2009-03
+published: 2018-04-17

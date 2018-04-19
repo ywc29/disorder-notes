@@ -1,0 +1,26 @@
+gene-symbol: KRT86
+name: keratin 86
+ghr-page: https://ghr.nlm.nih.gov/gene/KRT86
+text/text-role: function
+text/html: <p>The <i>KRT86</i> gene provides instructions for making the type II hair keratin K86 protein (K86). This protein belongs to a group of proteins known as keratins, which are tough, fibrous proteins that form the structural framework of cells that make up the hair, skin, and nails. Each keratin protein partners with another keratin protein to form molecules called intermediate filaments. These filaments assemble into strong networks that provide strength and resiliency to the tissues and protect them from being damaged by everyday physical stresses. The K86 protein is found in cells that make up the inner compartment of the hair shaft known as the cortex, and this protein helps give hair its strength and elasticity.</p>
+related-health-condition/name: monilethrix
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/monilethrix
+synonym(1): hair keratin K2.11
+synonym(2): hard keratin, type II, 6
+synonym(3): HB6
+synonym(4): hHb6
+synonym(5): K86
+synonym(6): keratin-86
+synonym(7): keratin 86, type II
+synonym(8): keratin K-86
+synonym(9): keratin protein HB6
+synonym(10): KRT86_HUMAN
+synonym(11): KRTHB6
+synonym(12): MNX
+synonym(13): type II hair keratin Hb6
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3892
+db-key(2)/db: OMIM
+db-key(2)/key: 601928
+reviewed: 2012-03
+published: 2018-04-17

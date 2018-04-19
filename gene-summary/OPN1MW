@@ -1,0 +1,26 @@
+gene-symbol: OPN1MW
+name: opsin 1, medium wave sensitive
+ghr-page: https://ghr.nlm.nih.gov/gene/OPN1MW
+text/text-role: function
+text/html: <p>The <i>OPN1MW</i> gene provides instructions for making a protein that is essential for normal color vision. This protein is found in the retina, which is the light-sensitive tissue at the back of the eye. The retina contains two types of light receptor cells, called rods and cones, that transmit visual signals from the eye to the brain. Rods provide vision in low light. Cones provide vision in bright light, including color vision. There are three types of cones, each containing a specific pigment (a photopigment called an opsin) that is most sensitive to particular wavelengths of light.</p><p>The <i>OPN1MW</i> gene provides instructions for making an opsin pigment that is more sensitive to light in the middle of the visible spectrum (yellow/green light). Cones with this pigment are called middle-wavelength-sensitive or M cones. In response to light, the photopigment triggers a series of chemical reactions within an M cone. These reactions ultimately alter the cell's electrical charge, generating a signal that is transmitted to the brain. The brain combines input from all three types of cones to produce normal color vision.</p><p>People can have one or more copies of the <i>OPN1MW</i> gene in each cell. All copies of this gene are located in a row on the X chromosome near another opsin pigment gene, <i>OPN1LW</i>. The <i>OPN1LW</i> gene provides instructions for making a photopigment that is more sensitive to light at long wavelengths (in the orange/red part of the visible spectrum). A nearby region of DNA, known as the locus control region (LCR), regulates the activity of the <i>OPN1MW</i> and <i>OPN1LW</i> genes. Only the two opsin pigment genes nearest the LCR, generally the <i>OPN1LW</i> gene and the first copy of the <i>OPN1MW</i> gene, are active in the retina and contribute to color vision.</p>
+related-health-condition/name: color vision deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/color-vision-deficiency
+synonym(1): CBBM
+synonym(2): GCP
+synonym(3): green cone photoreceptor pigment
+synonym(4): green cone pigment
+synonym(5): green-sensitive opsin
+synonym(6): M-pigment
+synonym(7): middle-wave-sensitive pigment
+synonym(8): OPN1MW1
+synonym(9): OPSG_HUMAN
+synonym(10): opsin 1 (cone pigments), medium-wave-sensitive
+synonym(11): photopigment apoprotein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2652
+db-key(2)/db: OMIM
+db-key(2)/key: 300821
+db-key(3)/db: OMIM
+db-key(3)/key: 300824
+reviewed: 2015-01
+published: 2018-04-17

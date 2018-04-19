@@ -1,0 +1,30 @@
+name: Tourette syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/tourette-syndrome
+text/text-role: description
+text/html: <p>Tourette syndrome is a complex disorder characterized by repetitive, sudden, and involuntary movements or noises called tics.  Tics usually appear in childhood, and their severity varies over time.  In most cases, tics become milder and less frequent in late adolescence and adulthood.</p><p>Tourette syndrome involves both motor tics, which are uncontrolled body movements, and vocal or phonic tics, which are outbursts of sound. Some motor tics are simple and involve only one muscle group. Simple motor tics, such as rapid eye blinking, shoulder shrugging, or nose twitching, are usually the first signs of Tourette syndrome.  Motor tics also can be complex (involving multiple muscle groups), such as jumping, kicking, hopping, or spinning.</p><p>Vocal tics, which generally appear later than motor tics, also can be simple or complex.  Simple vocal tics include grunting, sniffing, and throat-clearing.  More complex vocalizations include repeating the words of others (echolalia) or repeating one's own words (palilalia).  The involuntary use of inappropriate or obscene language (coprolalia) is possible, but uncommon, among people with Tourette syndrome.</p><p>In addition to frequent tics, people with Tourette syndrome are at risk for associated problems including attention deficit hyperactivity disorder (ADHD), obsessive-compulsive disorder (OCD), anxiety, depression, and problems with sleep.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene/gene-symbol: SLITRK1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SLITRK1
+synonym(1): Chronic Motor and Vocal Tic Disorder
+synonym(2): Gilles de la Tourette Syndrome
+synonym(3): Gilles de la Tourette's syndrome
+synonym(4): GTS
+synonym(5): TD
+synonym(6): Tourette Disorder
+synonym(7): Tourette's Disease
+synonym(8): TS
+db-key(1)/db: GTR
+db-key(1)/key: C0040517
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: F95.2
+db-key(3)/db: MeSH
+db-key(3)/key: D005879
+db-key(4)/db: OMIM
+db-key(4)/key: 137580
+db-key(5)/db: Orphanet
+db-key(5)/key: 856
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 5158005
+reviewed: 2013-05
+published: 2018-04-17

@@ -1,0 +1,25 @@
+gene-symbol: SEPSECS
+name: Sep (O-phosphoserine) tRNA:Sec (selenocysteine) tRNA synthase
+ghr-page: https://ghr.nlm.nih.gov/gene/SEPSECS
+text/text-role: function
+text/html: <p>The <i>SEPSECS</i> gene provides instructions for making an enzyme known as SepSecS. This enzyme is involved in the formation of a molecule called a transfer RNA (tRNA), which is a chemical cousin of DNA that is needed for building proteins. This particular tRNA plays a critical role in the production of a protein building block (amino acid) called selenocysteine (Sec). Selenocysteine contains the chemical element selenium, which is an essential nutrient obtained from the diet.</p><p>Proteins that contain selenocysteine are called selenoproteins. Researchers have identified about 25 human selenoproteins with diverse functions. For example, these proteins are involved in antioxidant reactions, which protect cells against compounds called reactive oxygen species that can damage DNA, proteins, and cell membranes. Selenoproteins also play a role in turning on (activating) thyroid hormones and are involved in immune system function and the production of sperm cells. Additionally, studies suggest that selenoproteins are critical for normal brain development and for the function of nerve cells (neurons).</p>
+related-health-condition/name: pontocerebellar hypoplasia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pontocerebellar-hypoplasia
+synonym(1): liver-pancreas antigen
+synonym(2): LP
+synonym(3): O-phosphoseryl-tRNA(Sec) selenium transferase
+synonym(4): PCH2D
+synonym(5): SLA
+synonym(6): SLA-p35
+synonym(7): SLA/LP
+synonym(8): SLA/LP autoantigen
+synonym(9): soluble liver antigen
+synonym(10): soluble liver antigen/liver pancreas antigen
+synonym(11): tRNA(Ser/Sec)-associated antigenic protein
+synonym(12): UGA suppressor tRNA-associated protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51091
+db-key(2)/db: OMIM
+db-key(2)/key: 613009
+reviewed: 2014-11
+published: 2018-04-17

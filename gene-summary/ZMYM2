@@ -1,0 +1,24 @@
+gene-symbol: ZMYM2
+name: zinc finger MYM-type containing 2
+ghr-page: https://ghr.nlm.nih.gov/gene/ZMYM2
+text/text-role: function
+text/html: <p>The <i>ZMYM2</i> gene (previously known as <i>ZNF198</i>) provides instructions for making a protein whose function is not clearly understood. It is a member of a family of zinc finger proteins, which contain one or more short regions called zinc finger domains. The zinc finger domains in the ZMYM2 protein are thought to allow it to regulate interactions between other proteins. ZMYM2 is found in the nucleus of the cell, where it likely associates with other proteins. Through these associations, the ZMYM2 protein may be involved in repairing DNA errors, controlling gene activity, or forming structures in the nucleus called PML nuclear bodies that block the growth and division of cells and promote their self-destruction (apoptosis).</p>
+related-health-condition/name: 8p11 myeloproliferative syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/8p11-myeloproliferative-syndrome
+synonym(1): FIM
+synonym(2): fused in myeloproliferative disorders protein
+synonym(3): MYM
+synonym(4): RAMP
+synonym(5): rearranged in an atypical myeloproliferative disorder
+synonym(6): SCLL
+synonym(7): zinc finger MYM-type protein 2
+synonym(8): zinc finger protein 198
+synonym(9): zinc finger, MYM-type 2
+synonym(10): ZMYM2_HUMAN
+synonym(11): ZNF198
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7750
+db-key(2)/db: OMIM
+db-key(2)/key: 602221
+reviewed: 2013-07
+published: 2018-04-17

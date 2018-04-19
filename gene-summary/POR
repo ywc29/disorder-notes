@@ -1,0 +1,21 @@
+gene-symbol: POR
+name: cytochrome p450 oxidoreductase
+ghr-page: https://ghr.nlm.nih.gov/gene/POR
+text/text-role: function
+text/html: <p>The <i>POR</i> gene provides instructions for making the enzyme cytochrome P450 oxidoreductase. This enzyme is required for the normal functioning of more than 50 enzymes in the cytochrome P450 family. Cytochrome P450 enzymes are involved in the formation (synthesis) and breakdown (metabolism) of various molecules and chemicals within cells.</p><p>Cytochrome P450 enzymes are critical for the synthesis of cholesterol and steroid hormones. Cholesterol is a substance that has many essential functions both before and after birth, including roles in the production of steroid hormones and in the formation and growth of bones. Steroid hormones are needed for normal development and reproduction. This group of hormones includes testosterone and estrogen, which are essential for normal sexual development and reproduction; corticosteroids, which are involved in the body's response to stress; and aldosterone, which helps regulate the body's salt and water balance.</p><p>Additionally, cytochrome P450 enzymes are involved in the metabolism of ingested substances, such as medications, in the liver. Because cytochrome P450 oxidoreductase helps regulate the activity of these enzymes, researchers suspect that normal variations in the <i>POR</i> gene may influence a person's response to particular drugs (drug metabolism).</p>
+related-health-condition/name: cytochrome P450 oxidoreductase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cytochrome-p450-oxidoreductase-deficiency
+synonym(1): CPR
+synonym(2): CYPOR
+synonym(3): cytochrome P450 reductase
+synonym(4): FLJ26468
+synonym(5): NADPH-dependent cytochrome P450 reductase
+synonym(6): NCPR_HUMAN
+synonym(7): P450 (cytochrome) oxidoreductase
+synonym(8): P450R
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5447
+db-key(2)/db: OMIM
+db-key(2)/key: 124015
+reviewed: 2014-03
+published: 2018-04-17

@@ -1,0 +1,20 @@
+gene-symbol: SLC6A19
+name: solute carrier family 6 member 19
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC6A19
+text/text-role: function
+text/html: <p>The <i>SLC6A19</i> gene provides instructions for making a protein called system B(0) neutral amino acid transporter 1 (B<sup>0</sup>AT1). This protein transports certain protein building blocks (amino acids), namely those with a neutral charge, into cells. B<sup>0</sup>AT1 is found primarily in the membrane of intestinal cells that make up the brush border, which lines the walls of the intestine and absorbs nutrients from food. B<sup>0</sup>AT1 transports the neutral amino acids from food into intestinal cells; from there the amino acids are released into the bloodstream to be used by the body. B<sup>0</sup>AT1 is also found in the membrane of kidney cells, specifically in cells of the proximal tubules, which are structures that help to reabsorb nutrients and other materials into the blood and excrete unneeded substances into the urine. In the kidneys, B<sup>0</sup>AT1 reabsorbs neutral amino acids into the bloodstream so they are not released in urine.</p>
+related-health-condition/name: Hartnup disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hartnup-disease
+synonym(1): B0AT1
+synonym(2): HND
+synonym(3): sodium-dependent amino acid transporter system B0
+synonym(4): sodium-dependent neutral amino acid transporter B(0)AT1
+synonym(5): solute carrier family 6 (neutral amino acid transporter), member 19
+synonym(6): system B(0) neutral amino acid transporter AT1
+synonym(7): system B0 neutral amino acid transporter
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 340024
+db-key(2)/db: OMIM
+db-key(2)/key: 608893
+reviewed: 2016-05
+published: 2018-04-17

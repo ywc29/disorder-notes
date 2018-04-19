@@ -1,0 +1,19 @@
+name: Ankyrin-B syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/ankyrin-b-syndrome
+text/text-role: description
+text/html: <p>Ankyrin-B syndrome is associated with a variety of heart problems related to disruption of the heart's normal rhythm (arrhythmia). Heart rhythm is controlled by electrical signals that move through the heart in a highly coordinated way. In ankyrin-B syndrome, disruption of different steps of electrical signaling can lead to arrhythmia, and the resulting heart problems vary among affected individuals.</p><p>Individuals with ankyrin-B syndrome may have problems with the sinoatrial (SA) node, which generates the electrical impulses that start each heartbeat. If the SA node is not functioning properly, the heartbeat can be too slow (bradycardia). In a small number of people with ankyrin-B syndrome, the heart takes longer than usual to recharge between beats, which is known as a prolonged QT interval (long QT). Some affected individuals have impaired progression (conduction) of electrical impulses between the chambers of the heart, which can cause a problem called heart block. Other heart problems that occur in ankyrin-B syndrome include irregular and uncoordinated electrical activity in the heart's upper chambers (atrial fibrillation) or lower chambers (ventricular fibrillation) and an abnormality called catecholaminergic polymorphic ventricular tachycardia (CPVT), in which an increase in the heart rate can trigger an abnormally fast and irregular heartbeat called ventricular tachycardia. In people with ankyrin-B syndrome, arrhythmia can lead to fainting (syncope) or cardiac arrest and sudden death.</p><p>When associated with a prolonged QT interval, the condition is sometimes classified as long QT syndrome 4. However, because additional heart problems can result from changes in the same gene, long QT syndrome 4 is usually considered part of ankyrin-B syndrome.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: ANK2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ANK2
+synonym: cardiac arrhythmia, ankyrin-B-related
+db-key(1)/db: GTR
+db-key(1)/key: C1970119
+db-key(2)/db: GeneReviews
+db-key(2)/key: rws
+db-key(3)/db: MeSH
+db-key(3)/key: D001145
+db-key(4)/db: OMIM
+db-key(4)/key: 600919
+reviewed: 2017-03
+published: 2018-04-17

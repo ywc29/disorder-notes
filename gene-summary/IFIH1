@@ -1,0 +1,35 @@
+gene-symbol: IFIH1
+name: interferon induced with helicase C domain 1
+ghr-page: https://ghr.nlm.nih.gov/gene/IFIH1
+text/text-role: function
+text/html: <p>The <i>IFIH1</i> gene provides instructions for making the MDA5 protein, which plays an important role in innate immunity, the body's early, nonspecific response to foreign invaders (pathogens) such as viruses and bacteria. In particular, the MDA5 protein recognizes a molecule called double-stranded RNA (a chemical cousin of DNA), which certain viruses, including rhinovirus (the virus that causes the common cold), respiratory syncytial virus (RSV), and the influenza (flu) virus, have as their genetic material or produce when they infect cells and copy (replicate) themselves. (Another subset of viruses has DNA as the genetic material.) When pieces of viral RNA are present inside a cell, multiple MDA5 proteins attach to it, one after another, forming a filament. Filament formation stimulates signals that turn on the production of immune system proteins called interferons. Interferons control the activity of genes that help block the viruses from replicating themselves and stimulate the activity of certain immune system cells to fight infection. Interferons also help regulate inflammation, which is another part of the body's innate immune response.</p>
+related-health-condition(1)/name: Aicardi-Goutières syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/aicardi-goutieres-syndrome
+related-health-condition(2)/name: MDA5 deficiency
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/mda5-deficiency
+synonym(1): AGS7
+synonym(2): CADM-140 autoantigen
+synonym(3): clinically amyopathic dermatomyositis autoantigen 140 kDa
+synonym(4): DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide
+synonym(5): helicard
+synonym(6): helicase with 2 CARD domains
+synonym(7): Hlcd
+synonym(8): IDDM19
+synonym(9): interferon-induced helicase C domain-containing protein 1
+synonym(10): MDA-5
+synonym(11): MDA5
+synonym(12): melanoma differentiation-associated gene 5
+synonym(13): melanoma differentiation-associated protein 5
+synonym(14): murabutide down-regulated protein
+synonym(15): RIG-I-like receptor 2
+synonym(16): RLR-2
+synonym(17): RNA helicase-DEAD box protein 116
+synonym(18): SGMRT1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 64135
+db-key(2)/db: OMIM
+db-key(2)/key: 182250
+db-key(3)/db: OMIM
+db-key(3)/key: 606951
+reviewed: 2017-11
+published: 2018-04-17

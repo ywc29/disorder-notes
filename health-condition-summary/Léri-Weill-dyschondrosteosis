@@ -1,0 +1,28 @@
+name: Léri-Weill dyschondrosteosis
+ghr-page: https://ghr.nlm.nih.gov/condition/leri-weill-dyschondrosteosis
+text/text-role: description
+text/html: <p>Léri-Weill dyschondrosteosis is a disorder of bone growth. Affected individuals typically have shortening of the long bones in the arms and legs (mesomelia). As a result of the shortened leg bones, people with Leri-Weill dyschondrosteosis typically have short stature. Most people with the condition also have an abnormality of the wrist and forearm bones called Madelung deformity, which may cause pain and limit wrist movement. This abnormality usually appears in childhood or early adolescence. Other features of Léri-Weill dyschondrosteosis can include increased muscle mass (muscle hypertrophy); bowing of a bone in the lower leg called the tibia; a greater-than-normal angling of the elbow away from the body (increased carrying angle); and a high arched palate.</p><p>Léri-Weill dyschondrosteosis occurs in both males and females, although its signs and symptoms tend to be more severe in females. Researchers believe that the more severe features may result from hormonal differences.</p>
+inheritance-pattern(1)/code: ac
+inheritance-pattern(1)/memo: autosomal codominant
+inheritance-pattern(2)/code: xd
+inheritance-pattern(2)/memo: X-linked dominant
+related-gene/gene-symbol: SHOX
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SHOX
+synonym(1): DCO
+synonym(2): dyschondrosteosis
+synonym(3): Leri-Weill dyschondrosteosis
+synonym(4): LWD
+db-key(1)/db: GTR
+db-key(1)/key: C0265309
+db-key(2)/db: GeneReviews
+db-key(2)/key: lwd
+db-key(3)/db: MeSH
+db-key(3)/key: D009139
+db-key(4)/db: OMIM
+db-key(4)/key: 127300
+db-key(5)/db: Orphanet
+db-key(5)/key: 240
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 17818006
+reviewed: 2012-01
+published: 2018-04-17

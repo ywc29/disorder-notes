@@ -1,0 +1,22 @@
+gene-symbol: SUCLA2
+name: succinate-CoA ligase ADP-forming beta subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/SUCLA2
+text/text-role: function
+text/html: <p>The <i>SUCLA2</i> gene provides instructions for making one part (a beta subunit) of an enzyme called succinate-CoA ligase. The body makes two slightly different versions of this enzyme: ADP-forming succinate-CoA ligase (A-SUCL) and GDP-forming succinate-CoA ligase (G-SUCL). Only A-SUCL contains the beta subunit produced from the <i>SUCLA2</i> gene. This version of the enzyme is most active in tissues that require a large amount of energy, such as those of the brain and muscles.</p><p>Succinate-CoA ligase plays a critical role in mitochondria, which are structures inside cells that convert the energy from food into a form that cells can use. Within mitochondria, this enzyme is involved in a series of chemical reactions known as the citric acid cycle or Krebs cycle. These reactions allow cells to use oxygen and generate energy.</p><p>Mitochondria each contain a small amount of DNA, known as mitochondrial DNA or mtDNA. Studies suggest that succinate-CoA ligase interacts with another enzyme, nucleoside diphosphate kinase, to produce and maintain the building blocks of mitochondrial DNA. Having an adequate amount of mitochondrial DNA is essential for normal energy production within cells.</p>
+related-health-condition(1)/name: Leigh syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+related-health-condition(2)/name: succinate-CoA ligase deficiency
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/succinate-coa-ligase-deficiency
+synonym(1): A-BETA
+synonym(2): ATP-specific succinyl-CoA synthetase, beta subunit
+synonym(3): renal carcinoma antigen NY-REN-39
+synonym(4): SCS-betaA
+synonym(5): SUCB1_HUMAN
+synonym(6): succinate-CoA ligase beta subunit
+synonym(7): succinate-CoA ligase, ADP-forming, beta subunit
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8803
+db-key(2)/db: OMIM
+db-key(2)/key: 603921
+reviewed: 2009-08
+published: 2018-04-17

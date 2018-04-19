@@ -1,0 +1,20 @@
+gene-symbol: SMARCAL1
+name: SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a like 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SMARCAL1
+text/text-role: function
+text/html: <p>The <i>SMARCAL1</i> gene provides instructions for producing a protein whose specific function is unknown.  The SMARCAL1 protein can attach (bind) to chromatin, which is the complex of DNA and protein that packages DNA into chromosomes.  Based on the function of similar proteins, the SMARCAL1 protein is thought to influence the activity (expression) of other genes through a process known as chromatin remodeling.  The structure of chromatin can be changed (remodeled) to alter how tightly DNA is packaged. Chromatin remodeling is one way gene expression is regulated during development. When DNA is tightly packed, gene expression is lower than when DNA is loosely packed.</p>
+related-health-condition/name: Schimke immuno-osseous dysplasia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/schimke-immuno-osseous-dysplasia
+synonym(1): HARP
+synonym(2): HepA-related protein
+synonym(3): HHARP
+synonym(4): SMAL1_HUMAN
+synonym(5): SMARCA-like protein 1
+synonym(6): SWI/SNF-related matrix-associated actin-dependent regulator of chromatin a-like 1
+synonym(7): SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a-like 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 50485
+db-key(2)/db: OMIM
+db-key(2)/key: 606622
+reviewed: 2008-11
+published: 2018-04-17

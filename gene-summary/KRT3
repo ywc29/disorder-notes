@@ -1,0 +1,23 @@
+gene-symbol: KRT3
+name: keratin 3
+ghr-page: https://ghr.nlm.nih.gov/gene/KRT3
+text/text-role: function
+text/html: <p>The <i>KRT3</i> gene provides instructions for making a protein called keratin 3. Keratins are a group of tough, fibrous proteins that form the structural framework of epithelial cells, which are cells that line the surfaces and cavities of the body. Keratin 3 is produced in a tissue on the surface of the eye called the corneal epithelium. This tissue forms the outermost layer of the cornea, which is the clear front covering of the eye. The corneal epithelium acts as a barrier to help prevent foreign materials, such as dust and bacteria, from entering the eye.</p><p>The keratin 3 protein partners with another keratin protein, keratin 12, to form molecules known as intermediate filaments. These filaments assemble into strong networks that provide strength and resilience to the corneal epithelium.</p>
+related-health-condition/name: Meesmann corneal dystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/meesmann-corneal-dystrophy
+synonym(1): 65 kDa cytokeratin
+synonym(2): CK-3
+synonym(3): CK3
+synonym(4): cytokeratin 3
+synonym(5): cytokeratin-3
+synonym(6): K2C3_HUMAN
+synonym(7): K3
+synonym(8): keratin 3, type II
+synonym(9): keratin, type II cytoskeletal 3
+synonym(10): type-II keratin Kb3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3850
+db-key(2)/db: OMIM
+db-key(2)/key: 148043
+reviewed: 2012-08
+published: 2018-04-17

@@ -1,0 +1,35 @@
+name: Congenital diaphragmatic hernia
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-diaphragmatic-hernia
+text/text-role: description
+text/html: <p>Congenital diaphragmatic hernia is a defect in the diaphragm. The diaphragm, which is composed of muscle and other fibrous tissue, separates the organs in the abdomen from those in the chest. Abnormal development of the diaphragm before birth leads to defects ranging from a thinned area in the diaphragm to its complete absence. An absent or partially formed diaphragm results in an abnormal opening (hernia) that allows the stomach and intestines to move into the chest cavity and crowd the heart and lungs. This crowding can lead to underdevelopment of the lungs (pulmonary hypoplasia), potentially resulting in life-threatening breathing difficulties that are apparent from birth.</p><p>In 5 to 10 percent of affected individuals, signs and symptoms of congenital diaphragmatic hernia appear later in life and may include breathing problems or abdominal pain from protrusion of the intestine into the chest cavity. In about 1 percent of cases, congenital diaphragmatic hernia has no symptoms; it may be detected incidentally when medical imaging is done for other reasons.</p><p>Congenital diaphragmatic hernias are often classified by their position. A Bochdalek hernia is a defect in the side or back of the diaphragm. Between 80 and 90 percent of congenital diaphragmatic hernias are of this type. A Morgnani hernia is a defect involving the front part of the diaphragm. This type of congenital diaphragmatic hernia, which accounts for approximately 2 percent of cases, is less likely to cause severe symptoms at birth. Other types of congenital diaphragmatic hernia, such as those affecting the central region of the diaphragm, or those in which the diaphragm muscle is absent with only a thin membrane in its place, are rare.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: GATA4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GATA4
+related-gene(2)/gene-symbol: ZFPM2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ZFPM2
+synonym: congenital diaphragmatic defect
+db-key(1)/db: GTR
+db-key(1)/key: C1840644
+db-key(2)/db: GTR
+db-key(2)/key: C1857284
+db-key(3)/db: GTR
+db-key(3)/key: C1857781
+db-key(4)/db: GeneReviews
+db-key(4)/key: cdh-ov
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: Q79.0
+db-key(6)/db: MeSH
+db-key(6)/key: D006548
+db-key(7)/db: OMIM
+db-key(7)/key: 142340
+db-key(8)/db: OMIM
+db-key(8)/key: 222400
+db-key(9)/db: OMIM
+db-key(9)/key: 610187
+db-key(10)/db: Orphanet
+db-key(10)/key: 2140
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 17190001
+reviewed: 2013-09
+published: 2018-04-17

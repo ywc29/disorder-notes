@@ -1,0 +1,31 @@
+gene-symbol: KCNJ5
+name: potassium voltage-gated channel subfamily J member 5
+ghr-page: https://ghr.nlm.nih.gov/gene/KCNJ5
+text/text-role: function
+text/html: <p>The <i>KCNJ5</i> gene provides instructions for making a protein that functions as a potassium channel, which means that it transports positively charged atoms (ions) of potassium (K<sup>+</sup>) into and out of cells. Potassium channels produced from the <i>KCNJ5</i> gene are found in several tissues, including the adrenal glands, which are small hormone-producing glands located on top of each kidney. In these glands, the flow of ions creates an electrical charge across the cell membrane, which affects the triggering of certain biochemical processes that regulate aldosterone production. Aldosterone helps control blood pressure by maintaining proper salt and fluid levels in the body.</p>
+related-health-condition(1)/name: aldosterone-producing adenoma
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/aldosterone-producing-adenoma
+related-health-condition(2)/name: Andersen-Tawil syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/andersen-tawil-syndrome
+related-health-condition(3)/name: familial hyperaldosteronism
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hyperaldosteronism
+related-health-condition(4)/name: Romano-Ward syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/romano-ward-syndrome
+synonym(1): cardiac ATP-sensitive potassium channel
+synonym(2): CIR
+synonym(3): G protein-activated inward rectifier potassium channel 4
+synonym(4): GIRK4
+synonym(5): heart KATP channel
+synonym(6): inward rectifier K+ channel KIR3.4
+synonym(7): IRK-4
+synonym(8): KATP1
+synonym(9): KIR3.4
+synonym(10): LQT13
+synonym(11): potassium channel, inwardly rectifying subfamily J, member 5
+synonym(12): potassium inwardly-rectifying channel, subfamily J, member 5
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3762
+db-key(2)/db: OMIM
+db-key(2)/key: 600734
+reviewed: 2017-08
+published: 2018-04-17

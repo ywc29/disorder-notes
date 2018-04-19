@@ -1,0 +1,26 @@
+gene-symbol: RDH5
+name: retinol dehydrogenase 5
+ghr-page: https://ghr.nlm.nih.gov/gene/RDH5
+text/text-role: function
+text/html: <p>The <i>RDH5</i> gene provides instructions for making an enzyme called 11-cis retinol dehydrogenase 5, which is necessary for normal vision, especially in low-light conditions (night vision). This enzyme is found in a thin layer of cells at the back of the eye called the retinal pigment epithelium (RPE). This cell layer supports and nourishes the retina, which is the light-sensitive tissue in the inner lining of the back of the eye (the fundus).</p><p>11-cis retinol dehydrogenase 5 is involved in a multi-step process called the visual cycle, by which light entering the eye is converted into electrical signals that are interpreted as vision. An integral operation of the visual cycle is the recycling of a molecule called 11-cis retinal, which is a form of vitamin A that is needed for the conversion of light to electrical signals. The retinol dehydrogenase 5 enzyme converts a molecule called 11-cis retinol to 11-cis retinal. In light-sensing cells in the retina known as photoreceptors, 11-cis retinal combines with a protein called an opsin to form a photosensitive pigment. When light hits this pigment, 11-cis retinal is altered, forming another molecule called all-trans retinal. This conversion triggers a series of chemical reactions that create electrical signals. 11-cis retinol dehydrogenase 5 then helps convert all-trans retinal back to 11-cis retinal so the visual cycle can begin again.</p><p>The eyes contain two types of photoreceptors, rods and cones. Rods are needed for vision in low light, while cones are needed for vision in bright light, including color vision. Rods primarily use 11-cis retinol dehydrogenase 5 to generate 11-cis retinal. Cones also use 11-cis retinol dehydrogenase 5, but they are thought to have additional pathways to produce 11-cis retinal.</p>
+related-health-condition/name: fundus albipunctatus
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/fundus-albipunctatus
+synonym(1): 9-cis retinol dehydrogenase
+synonym(2): 9-cis-retinol specific dehydrogenase
+synonym(3): 9cRDH
+synonym(4): 11-cis RDH
+synonym(5): 11-cis retinol dehydrogenase precursor
+synonym(6): 11-cis RoDH
+synonym(7): HSD17B9
+synonym(8): RDH1
+synonym(9): retinol dehydrogenase 1
+synonym(10): retinol dehydrogenase 5 (11-cis and 9-cis)
+synonym(11): retinol dehydrogenase 5 (11-cis/9-cis)
+synonym(12): SDR9C5
+synonym(13): short chain dehydrogenase/reductase family 9C member 5
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5959
+db-key(2)/db: OMIM
+db-key(2)/key: 601617
+reviewed: 2017-02
+published: 2018-04-17

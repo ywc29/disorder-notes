@@ -1,0 +1,23 @@
+gene-symbol: UTP4
+name: UTP4, small subunit processome component
+ghr-page: https://ghr.nlm.nih.gov/gene/UTP4
+text/text-role: function
+text/html: <p>The <i>UTP4</i> gene provides instructions for making a protein called cirhin, whose precise function is unknown. This protein is found in many different tissues and organs. Within cells, cirhin is located in a structure called the nucleolus, which is a small region inside the nucleus where ribosomal RNA (rRNA) is produced. A chemical cousin of DNA, rRNA is a molecule that helps assemble protein building blocks (amino acids) into functioning proteins. Researchers believe that cirhin may play a role in processing rRNA.</p><p>Studies also suggest that cirhin interacts with other proteins, and it may function as part of a protein complex (a group of proteins that work together). The significance of these protein interactions is unknown.</p>
+related-health-condition/name: North American Indian childhood cirrhosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/north-american-indian-childhood-cirrhosis
+synonym(1): CIR1A_HUMAN
+synonym(2): CIRH1A
+synonym(3): cirhin
+synonym(4): cirrhosis, autosomal recessive 1A (cirhin)
+synonym(5): FLJ14728
+synonym(6): FLJ17146
+synonym(7): KIAA1988
+synonym(8): NAIC
+synonym(9): testis expressed gene 292
+synonym(10): TEX292
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 84916
+db-key(2)/db: OMIM
+db-key(2)/key: 607456
+reviewed: 2011-03
+published: 2018-04-17

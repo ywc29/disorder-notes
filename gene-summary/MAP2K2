@@ -1,0 +1,24 @@
+gene-symbol: MAP2K2
+name: mitogen-activated protein kinase kinase 2
+ghr-page: https://ghr.nlm.nih.gov/gene/MAP2K2
+text/text-role: function
+text/html: <p>The <i>MAP2K2</i> gene provides instructions for making a protein known as MEK2 protein kinase. This protein is part of a signaling pathway called the RAS/MAPK pathway, which transmits chemical signals from outside the cell to the cell's nucleus. RAS/MAPK signaling helps control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement, and the self-destruction of cells (apoptosis).</p><p>The <i>MAP2K2</i> gene is very similar to a gene called <i>MAP2K1</i>, which provides instructions for making a protein known as MEK1 protein kinase. Like MEK2 protein kinase, this protein functions as part of the RAS/MAPK signaling pathway. Together, the MEK1 and MEK2 protein kinases appear to be essential for normal development before birth and for survival after birth.</p>
+related-health-condition/name: cardiofaciocutaneous syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cardiofaciocutaneous-syndrome
+synonym(1): dual specificity mitogen-activated protein kinase kinase 2
+synonym(2): ERK activator kinase 2
+synonym(3): MAP kinase kinase 2
+synonym(4): MAPK-ERK Kinase 2
+synonym(5): MAPK/ERK kinase 2
+synonym(6): MAPKK2
+synonym(7): MEK2
+synonym(8): mitogen-activated protein kinase kinase 2, p45
+synonym(9): MKK2
+synonym(10): MP2K2_HUMAN
+synonym(11): PRKMK2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5605
+db-key(2)/db: OMIM
+db-key(2)/key: 601263
+reviewed: 2012-05
+published: 2018-04-17

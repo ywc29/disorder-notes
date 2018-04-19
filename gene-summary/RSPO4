@@ -1,0 +1,19 @@
+gene-symbol: RSPO4
+name: R-spondin 4
+ghr-page: https://ghr.nlm.nih.gov/gene/RSPO4
+text/text-role: function
+text/html: <p>The <i>RSPO4</i> gene provides instructions for making a protein called R-spondin-4. R-spondin-4 plays a role in the Wnt signaling pathway, a series of steps that affect the way cells and tissues develop. Wnt signaling is important for cell division, attachment of cells to one another (adhesion), cell movement (migration), and many other cellular activities. The role of R-spondin-4 is to increase Wnt signaling.</p><p>During early development, Wnt signaling plays a critical role in the growth and development of nails. R-spondin-4 is active in the skeleton and contributes to limb formation, particularly at the ends of the fingers and toes, where nail development occurs.</p><p>Different regions (domains) of R-spondin-4 have different functions; two regions known as furin-like domains are required for turning on (activating) and stabilizing proteins that play integral roles in the Wnt pathway.</p>
+related-health-condition/name: anonychia congenita
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/anonychia-congenita
+synonym(1): C20orf182
+synonym(2): CRISTIN4
+synonym(3): dJ824F16.3
+synonym(4): hRspo4
+synonym(5): R-spondin family, member 4
+synonym(6): roof plate-specific spondin-4
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 343637
+db-key(2)/db: OMIM
+db-key(2)/key: 610573
+reviewed: 2017-05
+published: 2018-04-17

@@ -1,0 +1,27 @@
+name: DOLK-congenital disorder of glycosylation
+ghr-page: https://ghr.nlm.nih.gov/condition/dolk-congenital-disorder-of-glycosylation
+text/text-role: description
+text/html: <p><i>DOLK</i>-congenital disorder of glycosylation (<i>DOLK</i>-CDG, formerly known as congenital disorder of glycosylation type Im) is an inherited condition that often affects the heart but can also involve other body systems. The pattern and severity of this disorder's signs and symptoms vary among affected individuals.</p><p>Individuals with <i>DOLK</i>-CDG typically develop signs and symptoms of the condition during infancy or early childhood. Nearly all individuals with <i>DOLK</i>-CDG develop a weakened and enlarged heart (dilated cardiomyopathy). Other frequent signs and symptoms include recurrent seizures; developmental delay; poor muscle tone (hypotonia); and dry, scaly skin (ichthyosis). Less commonly, affected individuals can have distinctive facial features, kidney disease, hormonal abnormalities, or eye problems.</p><p>Individuals with <i>DOLK</i>-CDG typically do not survive into adulthood, often because of complications related to dilated cardiomyopathy, and some do not survive past infancy.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: DOLK
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DOLK
+synonym(1): CDG1M
+synonym(2): congenital disorder of glycosylation, type Im
+synonym(3): DK1 deficiency
+synonym(4): dolichol kinase deficiency
+synonym(5): DOLK-CDG
+db-key(1)/db: GTR
+db-key(1)/key: C1835849
+db-key(2)/db: GeneReviews
+db-key(2)/key: cdg
+db-key(3)/db: MeSH
+db-key(3)/key: D018981
+db-key(4)/db: OMIM
+db-key(4)/key: 610768
+db-key(5)/db: Orphanet
+db-key(5)/key: 137
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 718712005
+reviewed: 2016-03
+published: 2018-04-17

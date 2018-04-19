@@ -1,0 +1,34 @@
+gene-symbol: CFI
+name: complement factor I
+ghr-page: https://ghr.nlm.nih.gov/gene/CFI
+text/text-role: function
+text/html: <p>The <i>CFI</i> gene provides instructions for making a protein called complement factor I. This protein helps regulate a part of the body's immune response known as the complement system. The complement system is a group of proteins that work together to destroy foreign invaders (such as bacteria and viruses), trigger inflammation, and remove debris from cells and tissues. This system must be carefully regulated so it targets only unwanted materials and does not attack the body's healthy cells. Complement factor I and several related proteins protect healthy cells by preventing activation of the complement system when it is not needed.</p>
+related-health-condition(1)/name: age-related macular degeneration
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
+related-health-condition(2)/name: atypical hemolytic-uremic syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/atypical-hemolytic-uremic-syndrome
+related-health-condition(3)/name: C3 glomerulopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/c3-glomerulopathy
+related-health-condition(4)/name: complement factor I deficiency
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/complement-factor-i-deficiency
+synonym(1): AHUS3
+synonym(2): C3b-INA
+synonym(3): C3b-inactivator
+synonym(4): C3B/C4B inactivator
+synonym(5): C3BINA
+synonym(6): CFAI_HUMAN
+synonym(7): complement component I
+synonym(8): complement control protein factor I
+synonym(9): complement factor I heavy chain
+synonym(10): complement factor I preproprotein
+synonym(11): FI
+synonym(12): IF
+synonym(13): KAF
+synonym(14): Konglutinogen-activating factor
+synonym(15): light chain of factor I
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3426
+db-key(2)/db: OMIM
+db-key(2)/key: 217030
+reviewed: 2010-09
+published: 2018-04-17

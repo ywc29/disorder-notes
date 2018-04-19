@@ -1,0 +1,16 @@
+gene-symbol: GAMT
+name: guanidinoacetate N-methyltransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/GAMT
+text/text-role: function
+text/html: <p>The <i>GAMT</i> gene provides instructions for making the enzyme guanidinoacetate methyltransferase, which is active (expressed) mainly in the liver. This enzyme participates in the two-step production (synthesis) of the compound creatine from the protein building blocks (amino acids) glycine, arginine, and methionine. Specifically, guanidinoacetate methyltransferase controls the second step of this process. In this step, creatine is produced from another compound called guanidinoacetate. Creatine is needed for the body to store and use energy properly. It is involved in providing energy for muscle contraction, and is also important in nervous system functioning.</p><p>In addition to its role in creatine synthesis, the guanidinoacetate methyltransferase enzyme is thought to help activate a process called fatty acid oxidation. This process provides an energy source for cells during times of stress when their normal fuel, the simple sugar glucose, is scarce.</p>
+related-health-condition/name: guanidinoacetate methyltransferase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/guanidinoacetate-methyltransferase-deficiency
+synonym(1): GAMT_HUMAN
+synonym(2): PIG2
+synonym(3): TP53I2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2593
+db-key(2)/db: OMIM
+db-key(2)/key: 601240
+reviewed: 2015-06
+published: 2018-04-17

@@ -1,0 +1,112 @@
+name: Progressive osseous heteroplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/progressive-osseous-heteroplasia
+text/text-role: description
+text/html: <p>Progressive osseous heteroplasia is a disorder in which bone forms within skin and muscle tissue. Bone that forms outside the skeleton is called heterotopic or ectopic bone. In progressive osseous heteroplasia, ectopic bone formation begins in the deep layers of the skin (dermis and subcutaneous fat) and gradually moves into other tissues such as skeletal muscle and tendons. The bony lesions within the skin may be painful and may develop into open sores (ulcers). Over time, joints can become involved, resulting in impaired mobility.</p><p>Signs and symptoms of progressive osseous heteroplasia usually become noticeable during infancy. In some affected individuals, however, the disorder may not become evident until later in childhood or in early adulthood.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: GNAS
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GNAS
+synonym(1): cutaneous ossification
+synonym(2): ectopic ossification
+synonym(3): heterotopic ossification
+synonym(4): myositis ossificans progressiva
+synonym(5): osteodermia
+synonym(6): osteoma cutis
+synonym(7): osteosis cutis
+synonym(8): POH
+db-key(1)/db: GTR
+db-key(1)/key: C0334041
+db-key(2)/db: GeneReviews
+db-key(2)/key: gnas-dis
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: M61.1
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: M61.10
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: M61.11
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: M61.12
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: M61.13
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: M61.14
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: M61.15
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: M61.16
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: M61.17
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: M61.18
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: M61.19
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: M61.111
+db-key(15)/db: ICD-10-CM
+db-key(15)/key: M61.112
+db-key(16)/db: ICD-10-CM
+db-key(16)/key: M61.119
+db-key(17)/db: ICD-10-CM
+db-key(17)/key: M61.121
+db-key(18)/db: ICD-10-CM
+db-key(18)/key: M61.122
+db-key(19)/db: ICD-10-CM
+db-key(19)/key: M61.129
+db-key(20)/db: ICD-10-CM
+db-key(20)/key: M61.131
+db-key(21)/db: ICD-10-CM
+db-key(21)/key: M61.132
+db-key(22)/db: ICD-10-CM
+db-key(22)/key: M61.139
+db-key(23)/db: ICD-10-CM
+db-key(23)/key: M61.141
+db-key(24)/db: ICD-10-CM
+db-key(24)/key: M61.142
+db-key(25)/db: ICD-10-CM
+db-key(25)/key: M61.143
+db-key(26)/db: ICD-10-CM
+db-key(26)/key: M61.144
+db-key(27)/db: ICD-10-CM
+db-key(27)/key: M61.145
+db-key(28)/db: ICD-10-CM
+db-key(28)/key: M61.146
+db-key(29)/db: ICD-10-CM
+db-key(29)/key: M61.151
+db-key(30)/db: ICD-10-CM
+db-key(30)/key: M61.152
+db-key(31)/db: ICD-10-CM
+db-key(31)/key: M61.159
+db-key(32)/db: ICD-10-CM
+db-key(32)/key: M61.161
+db-key(33)/db: ICD-10-CM
+db-key(33)/key: M61.162
+db-key(34)/db: ICD-10-CM
+db-key(34)/key: M61.169
+db-key(35)/db: ICD-10-CM
+db-key(35)/key: M61.171
+db-key(36)/db: ICD-10-CM
+db-key(36)/key: M61.172
+db-key(37)/db: ICD-10-CM
+db-key(37)/key: M61.173
+db-key(38)/db: ICD-10-CM
+db-key(38)/key: M61.174
+db-key(39)/db: ICD-10-CM
+db-key(39)/key: M61.175
+db-key(40)/db: ICD-10-CM
+db-key(40)/key: M61.176
+db-key(41)/db: ICD-10-CM
+db-key(41)/key: M61.177
+db-key(42)/db: ICD-10-CM
+db-key(42)/key: M61.178
+db-key(43)/db: ICD-10-CM
+db-key(43)/key: M61.179
+db-key(44)/db: MeSH
+db-key(44)/key: D009999
+db-key(45)/db: OMIM
+db-key(45)/key: 166350
+db-key(46)/db: Orphanet
+db-key(46)/key: 2762
+db-key(47)/db: SNOMED CT
+db-key(47)/key: 719271000
+reviewed: 2018-02
+published: 2018-04-17

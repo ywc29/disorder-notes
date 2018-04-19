@@ -1,0 +1,31 @@
+gene-symbol: ATP6V0A4
+name: ATPase H+ transporting V0 subunit a4
+ghr-page: https://ghr.nlm.nih.gov/gene/ATP6V0A4
+text/text-role: function
+text/html: <p>The <i>ATP6V0A4</i> gene provides instructions for making a part (subunit) of a large protein complex known as vacuolar H<sup>+</sup>-ATPase (V-ATPase). V-ATPases are a group of similar complexes that act as pumps to move positively charged hydrogen atoms (protons) across membranes. Because acids are substances that can "donate" protons to other molecules, this movement of protons helps regulate the relative acidity (pH) of cells and their surrounding environment. Tight control of pH is necessary for most biological reactions to proceed properly.</p><p>The V-ATPase that includes the subunit produced from the <i>ATP6V0A4</i> gene is found in the inner ear and in nephrons, which are the functional structures within the kidneys. The kidneys filter waste products from the blood and remove them in urine. They also reabsorb needed nutrients and release them back into the blood. Each nephron consists of two parts: a renal corpuscle (also known as a glomerulus) that filters the blood, and a renal tubule that reabsorbs substances that are needed and eliminates unneeded substances in urine. The V-ATPase is involved in regulating the amount of acid that is removed from the blood into the urine, and also in maintaining the proper pH of the fluid in the inner ear (endolymph).</p>
+related-health-condition/name: renal tubular acidosis with deafness
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/renal-tubular-acidosis-with-deafness
+synonym(1): A4
+synonym(2): ATP6N1B
+synonym(3): ATP6N2
+synonym(4): ATPase, H+ transporting, lysosomal (vacuolar proton pump) non-catalytic accessory protein 1B
+synonym(5): ATPase, H+ transporting, lysosomal V0 subunit a4
+synonym(6): H(+)-transporting two-sector ATPase, noncatalytic accessory protein 1B
+synonym(7): RdRTA2
+synonym(8): RTA1C
+synonym(9): RTADR
+synonym(10): STV1
+synonym(11): V-ATPase 116 kDa
+synonym(12): V-type proton ATPase 116 kDa subunit a
+synonym(13): V-type proton ATPase 116 kDa subunit a isoform 4
+synonym(14): vacuolar proton pump 116 kDa accessory subunit
+synonym(15): vacuolar proton pump, subunit 2
+synonym(16): vacuolar proton translocating ATPase 116 kDa subunit a kidney isoform
+synonym(17): VPH1
+synonym(18): VPP2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 50617
+db-key(2)/db: OMIM
+db-key(2)/key: 605239
+reviewed: 2014-03
+published: 2018-04-17

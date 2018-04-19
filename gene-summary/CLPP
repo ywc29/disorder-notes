@@ -1,0 +1,20 @@
+gene-symbol: CLPP
+name: caseinolytic mitochondrial matrix peptidase proteolytic subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/CLPP
+text/text-role: function
+text/html: <p>The <i>CLPP</i> gene provides instructions for making the ClpP subunit protein. Multiple copies of this protein interact with each other to form a barrel-shaped chamber known as the ClpP complex. This complex is one of two parts of the ClpXP protease, which breaks down abnormally folded proteins. The other part of the ClpXP protease, called the ClpX complex, unfolds the abnormal proteins and feeds them into the chamber formed by the ClpP complex, where they are broken down into small fragments.</p><p>The ClpP complex is found in structures in the cell called mitochondria, which are the energy-producing centers of cells.</p>
+related-health-condition/name: Perrault syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/perrault-syndrome
+synonym(1): ATP-dependent Clp protease proteolytic subunit, mitochondrial
+synonym(2): ATP-dependent protease ClpAP, proteolytic subunit, human
+synonym(3): ClpP caseinolytic peptidase ATP-dependent, proteolytic subunit
+synonym(4): ClpP caseinolytic protease, ATP-dependent, proteolytic subunit homolog
+synonym(5): endopeptidase Clp
+synonym(6): PRLTS3
+synonym(7): putative ATP-dependent Clp protease proteolytic subunit, mitochondrial
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8192
+db-key(2)/db: OMIM
+db-key(2)/key: 601119
+reviewed: 2014-12
+published: 2018-04-17

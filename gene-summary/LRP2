@@ -1,0 +1,23 @@
+gene-symbol: LRP2
+name: LDL receptor related protein 2
+ghr-page: https://ghr.nlm.nih.gov/gene/LRP2
+text/text-role: function
+text/html: <p>The <i>LRP2</i> gene provides instructions for making a protein called megalin, which functions as a receptor. Receptor proteins have specific sites into which certain other proteins, called ligands, fit like keys into locks. Together, ligands and their receptors trigger signals that affect cell development and function. Megalin has many ligands involved in various body processes, including the absorption of vitamins A and D, immune functioning, stress response, and the transport of fats in the bloodstream.</p><p>Megalin is embedded in the membrane of cells that line the surfaces and cavities of the body (epithelial cells). The receptor helps move its ligands from the cell surface into the cell (endocytosis), and is also involved in transporting the ligands of a related receptor called cubulin. Megalin is active in the development and function of many parts of the body, including the brain and spinal cord (central nervous system), eyes, ears, lungs, intestine, reproductive system, and the small tubes in the kidneys where urine is formed (renal tubules).</p>
+related-health-condition(1)/name: Donnai-Barrow syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/donnai-barrow-syndrome
+related-health-condition(2)/name: prostate cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+synonym(1): calcium sensor protein
+synonym(2): DBS
+synonym(3): glycoprotein 330 (gp330)
+synonym(4): gp330
+synonym(5): Heymann nephritis antigen homolog
+synonym(6): low density lipoprotein receptor-related protein 2
+synonym(7): LRP2_HUMAN
+synonym(8): megalin
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4036
+db-key(2)/db: OMIM
+db-key(2)/key: 600073
+reviewed: 2013-04
+published: 2018-04-17

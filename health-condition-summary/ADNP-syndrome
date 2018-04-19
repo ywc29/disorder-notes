@@ -1,0 +1,26 @@
+name: ADNP syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/adnp-syndrome
+text/text-role: description
+text/html: <p><i>ADNP</i> syndrome is a condition that causes a wide variety of signs and symptoms. Its hallmark features are intellectual disability and autism spectrum disorder, which is characterized by impaired communication and social interaction. Affected individuals also have distinctive facial features and abnormalities of multiple body systems.</p><p>Individuals with <i>ADNP</i> syndrome have mild to severe intellectual disability and delayed development of speech and motor skills such as sitting and walking. Some affected individuals are never able to speak. People with this disorder exhibit features typical of autism spectrum disorder, including repetitive behaviors and difficulty with social interactions. <i>ADNP</i> syndrome is also associated with mood disorders or behavioral problems, such as anxiety, temper tantrums, attention deficit-hyperactivity disorder (ADHD), obsessive-compulsive disorder, or sleep problems.</p><p>Many people with <i>ADNP</i> syndrome have distinctive facial features, which most commonly include a prominent forehead, a high hairline, outside corners of the eyes that point upward or downward (upslanting or downslanting palpebral fissures), droopy eyelids (ptosis), a broad nasal bridge, and a thin upper lip. These individuals may also have unusually shaped ears or hand and finger abnormalities. Eye and vision abnormalities, such as eyes that do not point in the same direction (strabismus) and farsightedness (hyperopia), also occur in <i>ADNP</i> syndrome. Some people with this condition have early appearance (eruption) of primary (baby) teeth.</p><p>Some people with <i>ADNP</i> syndrome have weak muscle tone (hypotonia) and feeding difficulties in infancy. They may also have digestive system problems, such as backflow of stomach acids into the esophagus (gastroesophageal reflux), vomiting, and constipation. Other features that occur in <i>ADNP</i> syndrome include obesity, seizures, and heart abnormalities.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene/gene-symbol: ADNP
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ADNP
+synonym(1): ADNP-related intellectual disability and autism spectrum disorder
+synonym(2): ADNP-related multiple congenital anomalies-intellectual disability-autism spectrum disorder
+synonym(3): Helsmoortel-van der Aa syndrome
+synonym(4): HVDAS
+synonym(5): mental retardation, autosomal dominant 28
+synonym(6): MRD28
+db-key(1)/db: GTR
+db-key(1)/key: C4014538
+db-key(2)/db: GeneReviews
+db-key(2)/key: adnp-dis
+db-key(3)/db: MeSH
+db-key(3)/key: D065886
+db-key(4)/db: OMIM
+db-key(4)/key: 615873
+db-key(5)/db: Orphanet
+db-key(5)/key: 404448
+reviewed: 2017-03
+published: 2018-04-17

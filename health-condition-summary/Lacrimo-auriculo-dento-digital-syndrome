@@ -1,0 +1,27 @@
+name: Lacrimo-auriculo-dento-digital syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/lacrimo-auriculo-dento-digital-syndrome
+text/text-role: description
+text/html: <p>Lacrimo-auriculo-dento-digital (LADD) syndrome is a genetic disorder that mainly affects the eyes, ears, mouth, and hands. LADD syndrome is characterized by defects in the tear-producing lacrimal system (lacrimo-), ear problems (auriculo-), dental abnormalities (dento-), and deformities of the fingers (digital).</p><p>The lacrimal system consists of structures in the eye that produce and secrete tears. Lacrimal system malformations that can occur with LADD syndrome include an underdeveloped or absent opening to the tear duct at the edge of the eyelid (lacrimal puncta) and blockage of the channel (nasolacrimal duct) that connects the inside corner of the eye where tears gather (tear sac) to the nasal cavity. These malformations of the lacrimal system can lead to chronic tearing (epiphora), inflammation of the tear sac (dacryocystitis), inflammation of the front surface of the eye (keratoconjunctivitis), or an inability to produce tears.</p><p>Ears that are low-set and described as cup-shaped, often accompanied by hearing loss, are a common feature of LADD syndrome. The hearing loss may be mild to severe and can be caused by changes in the inner ear (sensorineural deafness), changes in the middle ear (conductive hearing loss), or both (mixed hearing loss).</p><p>People with LADD syndrome may have underdeveloped or absent salivary glands, which impairs saliva production. A decrease in saliva leads to dry mouth (xerostomia) and a greater susceptibility to cavities. Individuals with LADD syndrome often have small, underdeveloped teeth with thin enamel and peg-shaped front teeth (incisors).</p><p>Hand deformities are also a frequent feature of LADD syndrome. Affected individuals may have abnormally small or missing thumbs. Alternatively, the thumb might be duplicated, fused with the index finger (syndactyly), abnormally placed, or have three bones instead of the normal two and resemble a finger. Abnormalities of the fingers include syndactyly of the second and third fingers, extra or missing fingers, and curved pinky fingers (fifth finger clinodactyly). Sometimes, the forearm is also affected. It can be shorter than normal with abnormal wrist and elbow joint development that limits movement.</p><p>People with LADD syndrome may also experience other signs and symptoms. They can have kidney problems that include hardening of the kidneys (nephrosclerosis) and urine accumulation in the kidneys (hydronephrosis), which can impair kidney function. Recurrent urinary tract infections and abnormalities of the genitourinary system can also occur. Some people with LADD syndrome have an opening in the roof of the mouth (cleft palate) with or without a split in the upper lip (cleft lip). The signs and symptoms of this condition vary widely, even among affected family members.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: FGF10
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/FGF10
+related-gene(2)/gene-symbol: FGFR2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR2
+related-gene(3)/gene-symbol: FGFR3
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR3
+synonym(1): lacrimoauriculodentodigital syndrome
+synonym(2): LADD syndrome
+synonym(3): Levy-Hollister syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0265269
+db-key(2)/db: MeSH
+db-key(2)/key: D019465
+db-key(3)/db: OMIM
+db-key(3)/key: 149730
+db-key(4)/db: Orphanet
+db-key(4)/key: 2363
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 23817003
+reviewed: 2013-06
+published: 2018-04-17

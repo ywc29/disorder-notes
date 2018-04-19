@@ -1,0 +1,23 @@
+gene-symbol: TBX1
+name: T-box 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TBX1
+text/text-role: function
+text/html: <p>The <i>TBX1</i> gene provides instructions for making a protein called T-box 1.  Genes in the T-box family play important roles in the formation of tissues and organs during embryonic development.  To carry out these roles, proteins produced from these genes bind to specific areas of DNA.  The proteins attach to critical regions near genes and help control the activity of those genes. T-box proteins are called transcription factors on the basis of this action.</p><p>The T-box 1 protein appears  to be necessary for the normal development of muscles and bones of the face and neck, large arteries that carry blood out of the heart, structures in the ear, and glands such as the thymus and parathyroid.  Although the T-box 1 protein acts as a transcription factor, researchers have not determined which genes are regulated by this protein.</p>
+related-health-condition/name: 22q11.2 deletion syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/22q112-deletion-syndrome
+synonym(1): CAFS
+synonym(2): CTHM
+synonym(3): DGCR
+synonym(4): DGS
+synonym(5): DORV
+synonym(6): TBX1_HUMAN
+synonym(7): TBX1C
+synonym(8): Testis-specific T-box protein
+synonym(9): TGA
+synonym(10): VCFS
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6899
+db-key(2)/db: OMIM
+db-key(2)/key: 602054
+reviewed: 2007-09
+published: 2018-04-17

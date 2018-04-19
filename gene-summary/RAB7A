@@ -1,0 +1,18 @@
+gene-symbol: RAB7A
+name: RAB7A, member RAS oncogene family
+ghr-page: https://ghr.nlm.nih.gov/gene/RAB7A
+text/text-role: function
+text/html: <p>The <i>RAB7A</i> gene provides instructions for making a protein that is involved in endocytosis, a process that brings substances into the cell. During endocytosis, the cell membrane folds around a substance outside the cell (such as a protein) to form a sac-like structure called a vesicle. The vesicle is drawn into the cell and is pinched off from the cell membrane. The RAB7A protein plays a role in vesicle trafficking, which is the movement of these vesicles within the cell.</p>
+related-health-condition/name: Charcot-Marie-Tooth disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+synonym(1): PRO2706
+synonym(2): PSN
+synonym(3): RAB7
+synonym(4): RAB7_HUMAN
+synonym(5): Ras-associated protein RAB7
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7879
+db-key(2)/db: OMIM
+db-key(2)/key: 602298
+reviewed: 2010-01
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: MCM6
+name: minichromosome maintenance complex component 6
+ghr-page: https://ghr.nlm.nih.gov/gene/MCM6
+text/text-role: function
+text/html: <p>The <i>MCM6</i> gene provides instructions for making part of the MCM complex, a group of proteins that functions as a helicase. Helicases attach to particular regions of DNA and temporarily unwind the two spiral strands of these molecules. When a cell prepares to divide to form two cells, helicases unwind the DNA so that it can be copied. The DNA that makes up the chromosomes is duplicated (replicated) so that each new cell will get a complete set of chromosomes. Helicases are also involved in the production of RNA, a chemical cousin of DNA.</p>
+related-health-condition/name: lactose intolerance
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/lactose-intolerance
+synonym(1): DNA replication licensing factor MCM6
+synonym(2): MCG40308
+synonym(3): MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe)
+synonym(4): MCM6_HUMAN
+synonym(5): minichromosome maintenance deficient (mis5, S. pombe) 6
+synonym(6): minichromosome maintenance deficient 6 homolog
+synonym(7): Mis5
+synonym(8): MIS5 homolog
+synonym(9): P105MCM
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4175
+db-key(2)/db: OMIM
+db-key(2)/key: 601806
+reviewed: 2010-05
+published: 2018-04-17

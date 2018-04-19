@@ -1,0 +1,72 @@
+name: Combined pituitary hormone deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/combined-pituitary-hormone-deficiency
+text/text-role: description
+text/html: <p>Combined pituitary hormone deficiency is a condition that causes a shortage (deficiency) of several hormones produced by the pituitary gland, which is located at the base of the brain. A lack of these hormones may affect the development of many parts of the body. The first signs of this condition include a failure to grow at the expected rate and short stature that usually becomes apparent in early childhood.</p><p>People with combined pituitary hormone deficiency may have hypothyroidism, which is underactivity of the butterfly-shaped thyroid gland in the lower neck. Hypothyroidism can cause many symptoms, including weight gain and fatigue. Other features of combined pituitary hormone deficiency include delayed or absent puberty and lack the ability to have biological children (infertility). The condition can also be associated with a deficiency of the hormone cortisol. Cortisol deficiency can impair the body's immune system, causing individuals to be more susceptible to infection.</p><p>Rarely, people with combined pituitary hormone deficiency have intellectual disability; a short, stiff neck; or underdeveloped optic nerves, which carry visual information from the eyes to the brain.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: GLI2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GLI2
+related-gene(2)/gene-symbol: HESX1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/HESX1
+related-gene(3)/gene-symbol: LHX3
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/LHX3
+related-gene(4)/gene-symbol: LHX4
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/LHX4
+related-gene(5)/gene-symbol: OTX2
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/OTX2
+related-gene(6)/gene-symbol: POU1F1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/POU1F1
+related-gene(7)/gene-symbol: PROKR2
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/PROKR2
+related-gene(8)/gene-symbol: PROP1
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/PROP1
+related-gene(9)/gene-symbol: SOX2
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/SOX2
+synonym(1): CPHD
+synonym(2): panhypopituitarism
+db-key(1)/db: GTR
+db-key(1)/key: C0878683
+db-key(2)/db: GTR
+db-key(2)/key: C2678408
+db-key(3)/db: GTR
+db-key(3)/key: C2750026
+db-key(4)/db: GTR
+db-key(4)/key: C2751608
+db-key(5)/db: GTR
+db-key(5)/key: C3151440
+db-key(6)/db: GTR
+db-key(6)/key: C3489787
+db-key(7)/db: GTR
+db-key(7)/key: CN206774
+db-key(8)/db: GeneReviews
+db-key(8)/key: prop1
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: E23.0
+db-key(10)/db: MeSH
+db-key(10)/key: D007018
+db-key(11)/db: OMIM
+db-key(11)/key: 221750
+db-key(12)/db: OMIM
+db-key(12)/key: 262600
+db-key(13)/db: OMIM
+db-key(13)/key: 262700
+db-key(14)/db: OMIM
+db-key(14)/key: 613038
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 190470005
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 237682009
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 237683004
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 32390006
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 367460001
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 71003000
+db-key(21)/db: SNOMED CT
+db-key(21)/key: 91187007
+reviewed: 2010-08
+published: 2018-04-17

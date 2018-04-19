@@ -1,0 +1,36 @@
+name: Phenylketonuria
+ghr-page: https://ghr.nlm.nih.gov/condition/phenylketonuria
+text/text-role: description
+text/html: <p>Phenylketonuria (commonly known as PKU) is an inherited disorder that increases the levels of a substance called phenylalanine in the blood. Phenylalanine is a building block of proteins (an amino acid) that is obtained through the diet.  It is found in all proteins and in some artificial sweeteners. If PKU is not treated, phenylalanine can build up to harmful levels in the body, causing intellectual disability and other serious health problems.</p><p>The signs and symptoms of PKU vary from mild to severe. The most severe form of this disorder is known as classic PKU. Infants with classic PKU appear normal until they are a few months old. Without treatment, these children develop permanent intellectual disability. Seizures, delayed development, behavioral problems, and psychiatric disorders are also common. Untreated individuals may have a musty or mouse-like odor as a side effect of excess phenylalanine in the body. Children with classic PKU tend to have lighter skin and hair than unaffected family members and are also likely to have skin disorders such as eczema.</p><p>Less severe forms of this condition, sometimes called variant PKU and non-PKU hyperphenylalaninemia, have a smaller risk of brain damage. People with very mild cases may not require treatment with a low-phenylalanine diet.</p><p>Babies born to mothers who have PKU and uncontrolled phenylalanine levels (women who no longer follow a low-phenylalanine diet) have a significant risk of intellectual disability because they are exposed to very high levels of phenylalanine before birth. These infants may also have a low birth weight and grow more slowly than other children. Other characteristic medical problems include heart defects or other heart problems, an abnormally small head size (microcephaly), and behavioral problems. Women with PKU and uncontrolled phenylalanine levels also have an increased risk of pregnancy loss.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: PAH
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PAH
+synonym(1): deficiency disease, phenylalanine hydroxylase
+synonym(2): Folling disease
+synonym(3): Folling's disease
+synonym(4): PAH deficiency
+synonym(5): Phenylalanine Hydroxylase Deficiency
+synonym(6): phenylalanine hydroxylase deficiency
+synonym(7): phenylalanine hydroxylase deficiency disease
+synonym(8): PKU
+db-key(1)/db: GTR
+db-key(1)/key: C0031485
+db-key(2)/db: GeneReviews
+db-key(2)/key: pku
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E70.0
+db-key(4)/db: MeSH
+db-key(4)/key: D010661
+db-key(5)/db: OMIM
+db-key(5)/key: 261600
+db-key(6)/db: Orphanet
+db-key(6)/key: 716
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 297225000
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 60590005
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 7573000
+reviewed: 2017-10
+published: 2018-04-17

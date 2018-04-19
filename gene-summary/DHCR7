@@ -1,0 +1,18 @@
+gene-symbol: DHCR7
+name: 7-dehydrocholesterol reductase
+ghr-page: https://ghr.nlm.nih.gov/gene/DHCR7
+text/text-role: function
+text/html: <p>The <i>DHCR7</i> gene provides instructions for making an enzyme called 7-dehydrocholesterol reductase. This enzyme is responsible for the final step in cholesterol production in many types of cells. Specifically, 7-dehydrocholesterol reductase converts a molecule called 7-dehydrocholesterol to cholesterol.</p><p>Cholesterol is a waxy, fat-like substance that is produced in the body and obtained from foods that come from animals (particularly egg yolks, meat, poultry, fish, and dairy products).  It has important functions both before and after birth. Cholesterol plays a critical role in embryonic development by interacting with signaling proteins that control early development of the brain, limbs, genital tract, and other structures. It is also a structural component of cell membranes and myelin, the fatty covering that insulates nerve cells. Additionally, cholesterol is used to make certain hormones and is important for the production of acids used in digestion (bile acids).</p>
+related-health-condition/name: Smith-Lemli-Opitz syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+synonym(1): 7-DHC reductase
+synonym(2): D7SR
+synonym(3): delta-7-dehydrocholesterol reductase
+synonym(4): DHCR7_HUMAN
+synonym(5): sterol delta-7-reductase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1717
+db-key(2)/db: OMIM
+db-key(2)/key: 602858
+reviewed: 2007-07
+published: 2018-04-17

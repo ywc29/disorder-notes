@@ -1,0 +1,38 @@
+gene-symbol: PSMB8
+name: proteasome subunit beta 8
+ghr-page: https://ghr.nlm.nih.gov/gene/PSMB8
+text/text-role: function
+text/html: <p>The <i>PSMB8</i> gene provides instructions for making one part (subunit) of cell structures called immunoproteasomes. Immunoproteasomes are specialized versions of proteasomes, which are large complexes that recognize and break down (degrade) unneeded, excess, or abnormal proteins within cells. This activity is necessary for many essential cell functions. While proteasomes are found in many types of cells, immunoproteasomes are located primarily in immune system cells. These structures play an important role in regulating the immune system's response to foreign invaders, such as viruses and bacteria. One of the primary functions of immunoproteasomes is to help the immune system distinguish the body's own proteins from proteins made by foreign invaders, so the immune system can respond appropriately to infection.</p><p>Immunoproteasomes may also have other functions in immune system cells and possibly in other types of cells. They appear to be involved in some of the same fundamental cell activities as regular proteasomes, such as regulating the amount of various proteins in cells (protein homeostasis), cell growth and division, the process by which cells mature to carry out specific functions (differentiation), chemical signaling within cells, and the activity of genes. Studies suggest that, through unknown mechanisms, the subunit produced from the <i>PSMB8</i> gene in particular may be involved in the maturation of fat cells (adipocytes).</p>
+related-health-condition/name: Nakajo-Nishimura syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nakajo-nishimura-syndrome
+synonym(1): ALDD
+synonym(2): beta5i
+synonym(3): D6S216
+synonym(4): D6S216E
+synonym(5): JMP
+synonym(6): large multifunctional peptidase 7
+synonym(7): LMP7
+synonym(8): low molecular mass protein 7
+synonym(9): low molecular weight protein 7
+synonym(10): macropain subunit C13
+synonym(11): multicatalytic endopeptidase complex subunit C13
+synonym(12): NKJO
+synonym(13): protease component C13
+synonym(14): proteasome (prosome, macropain) subunit, beta type, 8
+synonym(15): proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)
+synonym(16): proteasome catalytic subunit 3i
+synonym(17): proteasome component C13
+synonym(18): proteasome-related gene 7
+synonym(19): proteasome subunit beta 5i
+synonym(20): proteasome subunit beta type-8
+synonym(21): proteasome subunit Y2
+synonym(22): PSB8_HUMAN
+synonym(23): PSMB5i
+synonym(24): really interesting new gene 10 protein
+synonym(25): RING10
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5696
+db-key(2)/db: OMIM
+db-key(2)/key: 177046
+reviewed: 2013-11
+published: 2018-04-17

@@ -1,0 +1,35 @@
+name: Canavan disease
+ghr-page: https://ghr.nlm.nih.gov/condition/canavan-disease
+text/text-role: description
+text/html: <p>Canavan disease is a rare inherited disorder that damages the ability of nerve cells (neurons) in the brain to send and receive messages. This disease is one of a group of genetic disorders called leukodystrophies. Leukodystrophies disrupt the growth or maintenance of the myelin sheath, which is the covering that protects nerves and promotes the efficient transmission of nerve impulses.</p><p>Neonatal/infantile Canavan disease is the most common and most severe form of the condition. Affected infants appear normal for the first few months of life, but by age 3 to 5 months, problems with development become noticeable. These infants usually do not develop motor skills such as turning over, controlling head movement, and sitting without support. Other common features of this condition include weak muscle tone (hypotonia), an unusually large head size (macrocephaly), and irritability. Feeding and swallowing difficulties, seizures, and sleep disturbances may also develop.</p><p>The mild/juvenile form of Canavan disease is less common. Affected individuals have mildly delayed development of speech and motor skills starting in childhood. These delays may be so mild and nonspecific that they are never recognized as being caused by Canavan disease.</p><p>The life expectancy for people with Canavan disease varies. Most people with the neonatal/infantile form live only into childhood, although some survive into adolescence or beyond. People with the mild/juvenile form do not appear to have a shortened lifespan.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ASPA
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ASPA
+synonym(1): ACY2 deficiency
+synonym(2): aminoacylase 2 deficiency
+synonym(3): Aspa deficiency
+synonym(4): aspartoacylase deficiency
+synonym(5): Canavan's disease
+db-key(1)/db: GTR
+db-key(1)/key: C0206307
+db-key(2)/db: GTR
+db-key(2)/key: CN068568
+db-key(3)/db: GeneReviews
+db-key(3)/key: canavan
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: E75.29
+db-key(5)/db: MeSH
+db-key(5)/key: D017825
+db-key(6)/db: OMIM
+db-key(6)/key: 271900
+db-key(7)/db: Orphanet
+db-key(7)/key: 141
+db-key(8)/db: Orphanet
+db-key(8)/key: 314911
+db-key(9)/db: Orphanet
+db-key(9)/key: 314918
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 80544005
+reviewed: 2015-04
+published: 2018-04-17

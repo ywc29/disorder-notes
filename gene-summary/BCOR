@@ -1,0 +1,30 @@
+gene-symbol: BCOR
+name: BCL6 corepressor
+ghr-page: https://ghr.nlm.nih.gov/gene/BCOR
+text/text-role: function
+text/html: <p>The <i>BCOR</i> gene provides instructions for making a protein known as the BCL6 corepressor. A corepressor is a protein that cannot attach (bind) to DNA by itself, but interacts with other DNA-binding proteins to suppress the activity of certain genes. In this case, the BCL6 corepressor partners with the DNA-binding protein produced from the <i>BCL6</i> gene. The <i>BCL6</i> gene plays an important role in the function and survival of certain immune system cells.</p><p>Researchers have found that the <i>BCOR</i> gene is active throughout the body, not just in the immune system. This widespread activity suggests that the BCL6 corepressor has other functions in addition to its interaction with the BCL6 protein. The BCL6 corepressor appears to play a critical role in early embryonic development, including the formation of the eyes and several other tissues and organs. Scientists believe that the BCL6 corepressor may also be involved in specifying the left and right sides of the body in the developing embryo.</p>
+related-health-condition(1)/name: Lenz microphthalmia syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/lenz-microphthalmia-syndrome
+related-health-condition(2)/name: microphthalmia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/microphthalmia
+related-health-condition(3)/name: oculofaciocardiodental syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/oculofaciocardiodental-syndrome
+synonym(1): 5830466J11Rik
+synonym(2): 8430401K06Rik
+synonym(3): ANOP2
+synonym(4): BCL-6 interacting corepressor
+synonym(5): BCL6 co-repressor
+synonym(6): BCOR_HUMAN
+synonym(7): FLJ20285
+synonym(8): FLJ38041
+synonym(9): KIAA1575
+synonym(10): MAA2
+synonym(11): MCOPS2
+synonym(12): MGC131961
+synonym(13): MGC71031
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 54880
+db-key(2)/db: OMIM
+db-key(2)/key: 300485
+reviewed: 2008-05
+published: 2018-04-17

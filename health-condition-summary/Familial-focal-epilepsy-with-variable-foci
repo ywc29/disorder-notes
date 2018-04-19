@@ -1,0 +1,35 @@
+name: Familial focal epilepsy with variable foci
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-focal-epilepsy-with-variable-foci
+text/text-role: description
+text/html: <p>Familial focal epilepsy with variable foci (FFEVF) is an uncommon form of recurrent seizures (epilepsy) that runs in families. Seizures associated with FFEVF can begin at any time from infancy to adulthood. The seizures are described as focal or partial, which means they begin in one region of the brain and do not cause a loss of consciousness. In more than 70 percent of affected individuals, these seizures begin in one of two areas of the brain, either the temporal lobe or the frontal lobe. The region of the brain where the seizures start tends to stay the same over time. In rare instances, seizure activity that starts in one area spreads to affect the entire brain and causes a loss of consciousness, muscle stiffening, and rhythmic jerking. Episodes that begin as partial seizures and spread throughout the brain are known as secondarily generalized seizures.</p><p>Among family members with FFEVF, individuals may not have the same brain region affected (variable foci), meaning that one person's seizures may not begin in the same part of the brain as their affected relative.</p><p>Some individuals with FFEVF also have a brain malformation called focal cortical dysplasia. Seizures in these individuals are typically not well-controlled with medication.</p><p>Most people with FFEVF are intellectually normal, and there are no problems with their brain function between seizures. However, some people with FFEVF have developed psychiatric disorders (such as schizophrenia), behavioral problems, or intellectual disability. It is unclear whether these additional features are directly related to epilepsy in these individuals.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: DEPDC5
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/DEPDC5
+related-gene(2)/gene-symbol: NPRL2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/NPRL2
+related-gene(3)/gene-symbol: NPRL3
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/NPRL3
+synonym(1): familial partial epilepsy with variable foci
+synonym(2): FFEVF
+synonym(3): partial epilepsy with variable foci
+db-key(1)/db: GTR
+db-key(1)/key: C1858477
+db-key(2)/db: GTR
+db-key(2)/key: C4310708
+db-key(3)/db: GTR
+db-key(3)/key: C4310709
+db-key(4)/db: GeneReviews
+db-key(4)/key: depdc5-epilepsy
+db-key(5)/db: MeSH
+db-key(5)/key: D004828
+db-key(6)/db: OMIM
+db-key(6)/key: 604364
+db-key(7)/db: OMIM
+db-key(7)/key: 617116
+db-key(8)/db: OMIM
+db-key(8)/key: 617118
+db-key(9)/db: Orphanet
+db-key(9)/key: 98820
+reviewed: 2017-03
+published: 2018-04-17

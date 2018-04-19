@@ -1,0 +1,36 @@
+name: Glycogen storage disease type 0
+ghr-page: https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-0
+text/text-role: description
+text/html: <p>Glycogen storage disease type 0 (also known as GSD 0) is a condition caused by the body's inability to form a complex sugar called glycogen, which is a major source of stored energy in the body. GSD 0 has two types: in muscle GSD 0, glycogen formation in the muscles is impaired, and in liver GSD 0, glycogen formation in the liver is impaired.</p><p>The signs and symptoms of muscle GSD 0 typically begin in early childhood. Affected individuals often experience muscle pain and weakness or episodes of fainting (syncope) following moderate physical activity, such as walking up stairs. The loss of consciousness that occurs with fainting typically lasts up to several hours. Some individuals with muscle GSD 0 have a disruption of the heart's normal rhythm (arrhythmia) known as long QT syndrome. In all affected individuals, muscle GSD 0 impairs the heart's ability to effectively pump blood and increases the risk of cardiac arrest and sudden death, particularly after physical activity. Sudden death from cardiac arrest can occur in childhood or adolescence in people with muscle GSD 0.</p><p>Individuals with liver GSD 0 usually show signs and symptoms of the disorder in infancy. People with this disorder develop low blood sugar (hypoglycemia) after going long periods of time without food (fasting). Signs of hypoglycemia become apparent when affected infants begin sleeping through the night and stop late-night feedings; these infants exhibit extreme tiredness (lethargy), pale skin (pallor), and nausea. During episodes of fasting, ketone levels in the blood may increase (ketosis). Ketones are molecules produced during the breakdown of fats, which occurs when stored sugars (such as glycogen) are unavailable. These short-term signs and symptoms of liver GSD 0 often improve when food is eaten and sugar levels in the body return to normal. The features of liver GSD 0 vary; they can be mild and go unnoticed for years, or they can include developmental delay and growth failure.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: GYS1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GYS1
+related-gene(2)/gene-symbol: GYS2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GYS2
+synonym(1): glycogen storage disease 0
+synonym(2): glycogen synthase deficiency
+synonym(3): glycogen synthetase deficiency
+synonym(4): GSD 0
+synonym(5): GSD type 0
+synonym(6): hypoglycemia with deficiency of glycogen synthetase
+db-key(1)/db: GTR
+db-key(1)/key: C1855861
+db-key(2)/db: GTR
+db-key(2)/key: C1969054
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E74.09
+db-key(4)/db: MeSH
+db-key(4)/key: D006008
+db-key(5)/db: OMIM
+db-key(5)/key: 240600
+db-key(6)/db: OMIM
+db-key(6)/key: 611556
+db-key(7)/db: Orphanet
+db-key(7)/key: 2089
+db-key(8)/db: Orphanet
+db-key(8)/key: 137625
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 237964009
+reviewed: 2014-01
+published: 2018-04-17

@@ -1,0 +1,26 @@
+name: Shprintzen-Goldberg syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/shprintzen-goldberg-syndrome
+text/text-role: description
+text/html: <p>Shprintzen-Goldberg syndrome is a disorder that affects many parts of the body. Affected individuals have a combination of distinctive facial features and skeletal and neurological abnormalities.</p><p>A common feature in people with Shprintzen-Goldberg syndrome is craniosynostosis, which is the premature fusion of certain skull bones. This early fusion prevents the skull from growing normally. Affected individuals can also have distinctive facial features, including a long, narrow head; widely spaced eyes (hypertelorism); protruding eyes (exophthalmos); outside corners of the eyes that point downward (downslanting palpebral fissures); a high, narrow palate; a small lower jaw (micrognathia); and low-set ears that are rotated backward.</p><p>People with Shprintzen-Goldberg syndrome are often said to have a marfanoid habitus, because their bodies resemble those of people with a genetic condition called Marfan syndrome. For example, they may have long, slender fingers (arachnodactyly), unusually long limbs, a sunken chest (pectus excavatum) or protruding chest (pectus carinatum), and an abnormal side-to-side curvature of the spine (scoliosis). People with Shprintzen-Goldberg syndrome can have other skeletal abnormalities, such as one or more fingers that are permanently bent (camptodactyly) and an unusually large range of joint movement (hypermobility).</p><p>People with Shprintzen-Goldberg syndrome often have delayed development and mild to moderate intellectual disability.</p><p>Other common features of Shprintzen-Goldberg syndrome include heart or brain abnormalities, weak muscle tone (hypotonia) in infancy, and a soft out-pouching around the belly-button (umbilical hernia) or lower abdomen (inguinal hernia).</p><p>Shprintzen-Goldberg syndrome has signs and symptoms similar to those of Marfan syndrome and another genetic condition called Loeys-Dietz syndrome. However, intellectual disability is more likely to occur in Shprintzen-Goldberg syndrome than in the other two conditions. In addition, heart abnormalities are more common and usually more severe in Marfan syndrome and Loeys-Dietz syndrome.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: FBN1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/FBN1
+related-gene(2)/gene-symbol: SKI
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SKI
+synonym(1): Marfanoid-craniosynostosis syndrome
+synonym(2): Shprintzen-Goldberg craniosynostosis syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1321551
+db-key(2)/db: GeneReviews
+db-key(2)/key: sgs
+db-key(3)/db: MeSH
+db-key(3)/key: D003398
+db-key(4)/db: OMIM
+db-key(4)/key: 182212
+db-key(5)/db: Orphanet
+db-key(5)/key: 2462
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 719069008
+reviewed: 2016-05
+published: 2018-04-17

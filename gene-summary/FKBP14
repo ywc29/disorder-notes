@@ -1,0 +1,24 @@
+gene-symbol: FKBP14
+name: FK506 binding protein 14
+ghr-page: https://ghr.nlm.nih.gov/gene/FKBP14
+text/text-role: function
+text/html: <p>The <i>FKBP14</i> gene provides instructions for making a protein called FK506 binding protein 14 (also known as FKBP22). This protein is found in a cell structure called the endoplasmic reticulum (ER), which is involved in protein processing and transport. Among its many functions, the endoplasmic reticulum folds and modifies newly formed proteins so they have the 3-dimensional shape they need to function properly. FK506 binding protein 14 is thought to assist with protein folding, particularly the folding of procollagens. Procollagens are the precursors of collagens, which are complex molecules found in the spaces between cells (the extracellular matrix) that add strength, support, and stretchiness (elasticity) to organs and tissues throughout the body. Studies suggest that FK506 binding protein 14 may also play a role in processing other components of the extracellular matrix.</p>
+related-health-condition/name: Ehlers-Danlos syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ehlers-danlos-syndrome
+synonym(1): 22 kDa FK506-binding protein
+synonym(2): 22 kDa FKBP
+synonym(3): EDSKMH
+synonym(4): FK506 binding protein 14, 22 kDa
+synonym(5): FKBP-22
+synonym(6): FKBP22
+synonym(7): FLJ20731
+synonym(8): IPBP12
+synonym(9): peptidyl-prolyl cis-trans isomerase FKBP14 precursor
+synonym(10): PPIase FKBP14
+synonym(11): rotamase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 55033
+db-key(2)/db: OMIM
+db-key(2)/key: 614505
+reviewed: 2017-11
+published: 2018-04-17

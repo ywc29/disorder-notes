@@ -1,0 +1,32 @@
+name: Mucopolysaccharidosis type II
+ghr-page: https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-ii
+text/text-role: description
+text/html: <p>Mucopolysaccharidosis type II (MPS II), also known as Hunter syndrome, is a condition that affects many different parts of the body and occurs almost exclusively in males. It is a progressively debilitating disorder; however, the rate of progression varies among affected individuals.</p><p>At birth, individuals with MPS II do not display any features of the condition. Between ages 2 and 4, they develop full lips, large rounded cheeks, a broad nose, and an enlarged tongue (macroglossia). The vocal cords also enlarge, which results in a deep, hoarse voice. Narrowing of the airway causes frequent upper respiratory infections and short pauses in breathing during sleep (sleep apnea). As the disorder progresses, individuals need medical assistance to keep their airway open.</p><p>Many other organs and tissues are affected in MPS II. Individuals with this disorder often have a large head (macrocephaly), a buildup of fluid in the brain (hydrocephalus), an enlarged liver and spleen (hepatosplenomegaly), and a soft out-pouching around the belly-button (umbilical hernia) or lower abdomen (inguinal hernia). People with MPS II usually have thick skin that is not very stretchy. Some affected individuals also have distinctive white skin growths that look like pebbles. Most people with this disorder develop hearing loss and have recurrent ear infections. Some individuals with MPS II develop problems with the light-sensitive tissue in the back of the eye (retina) and have reduced vision. Carpal tunnel syndrome commonly occurs in children with this disorder and is characterized by numbness, tingling, and weakness in the hand and fingers. Narrowing of the spinal canal (spinal stenosis) in the neck can compress and damage the spinal cord. The heart is also significantly affected by MPS II, and many individuals develop heart valve problems. Heart valve abnormalities can cause the heart to become enlarged (ventricular hypertrophy) and can eventually lead to heart failure.</p><p>Children with MPS II grow steadily until about age 5, and then their growth slows and they develop short stature. Individuals with this condition have joint deformities (contractures) that significantly affect mobility. Most people with MPS II also have dysostosis multiplex, which refers to multiple skeletal abnormalities seen on x-ray. Dysostosis multiplex includes a generalized thickening of most long bones, particularly the ribs.</p><p>There are two types of MPS II, called the severe and mild types. While both types affect many different organs and tissues as described above, people with severe MPS II also experience a decline in intellectual function and a more rapid disease progression. Individuals with the severe form begin to lose basic functional skills (developmentally regress) between the ages of 6 and 8. The life expectancy of these individuals is 10 to 20 years. Individuals with mild MPS II also have a shortened lifespan, but they typically live into adulthood and their intelligence is not affected. Heart disease and airway obstruction are major causes of death in people with both types of MPS II.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: IDS
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/IDS
+synonym(1): Hunter Syndrome
+synonym(2): I2S deficiency
+synonym(3): Iduronate 2-sulfatase deficiency
+synonym(4): MPS II
+db-key(1)/db: GTR
+db-key(1)/key: C0026705
+db-key(2)/db: GeneReviews
+db-key(2)/key: hunter
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E76.1
+db-key(4)/db: MeSH
+db-key(4)/key: D016532
+db-key(5)/db: OMIM
+db-key(5)/key: 309900
+db-key(6)/db: Orphanet
+db-key(6)/key: 580
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 5667009
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 70737009
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 73146005
+reviewed: 2008-12
+published: 2018-04-17

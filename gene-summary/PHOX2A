@@ -1,0 +1,26 @@
+gene-symbol: PHOX2A
+name: paired like homeobox 2a
+ghr-page: https://ghr.nlm.nih.gov/gene/PHOX2A
+text/text-role: function
+text/html: <p>The <i>PHOX2A</i> gene provides instructions for making a protein that is found in the nervous system. This protein acts early in development to help promote the formation of nerve cells (neurons) and regulate the process by which the neurons mature to carry out specific functions (differentiation).</p><p>Most of researchers' knowledge about the PHOX2A protein comes from studies in other animals.  From these studies, it is clear that the protein plays a critical role in the development of the autonomic nervous system, which controls involuntary body functions such as breathing, blood pressure, heart rate, and digestion. The PHOX2A protein is also involved in the formation of certain nerves in the head and face. Specifically, it appears to be critical for the development and function of cranial nerves III and IV, which emerge from the brain and control many of the muscles that surround the eyes (extraocular muscles). These muscles direct eye movement and determine the position of the eyes.</p>
+related-health-condition/name: congenital fibrosis of the extraocular muscles
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-fibrosis-of-the-extraocular-muscles
+synonym(1): aristaless homeobox homolog
+synonym(2): aristaless homeobox protein homolog
+synonym(3): ARIX
+synonym(4): arix homeodomain protein
+synonym(5): ARIX1 homeodomain protein
+synonym(6): CFEOM2
+synonym(7): FEOM2
+synonym(8): MGC52227
+synonym(9): NCAM2
+synonym(10): paired-like homeobox 2a
+synonym(11): paired mesoderm homeobox protein 2A
+synonym(12): PHX2A_HUMAN
+synonym(13): PMX2A
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 401
+db-key(2)/db: OMIM
+db-key(2)/key: 602753
+reviewed: 2009-03
+published: 2018-04-17

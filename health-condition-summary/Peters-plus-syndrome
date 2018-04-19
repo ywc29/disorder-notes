@@ -1,0 +1,27 @@
+name: Peters plus syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/peters-plus-syndrome
+text/text-role: description
+text/html: <p>Peters plus syndrome is an inherited condition that is characterized by eye abnormalities, short stature, an opening in the lip (cleft lip) with or without an opening in the roof of the mouth (cleft palate), distinctive facial features, and intellectual disability.</p><p>The eye problems in Peters plus syndrome occur in an area at the front part of the eye known as the anterior segment. The anterior segment consists of structures including the lens, the colored part of the eye (iris), and the clear covering of the eye (cornea). An eye problem called Peters anomaly is the most common anterior segment abnormality seen in Peters plus syndrome. Peters anomaly involves abnormal development of the anterior segment, which results in a cornea that is cloudy (opaque) and causes blurred vision. Peters anomaly may also be associated with clouding of the lenses of the eyes (cataracts) or other lens abnormalities. Peters anomaly is usually bilateral, which means that it affects both eyes. The severity of corneal clouding and other eye problems can vary between individuals with Peters plus syndrome, even among members of the same family. Many people with Peters plus syndrome experience vision loss that worsens over time.</p><p>All people with Peters plus syndrome have short stature, which is evident before birth. The height of adult males with this condition ranges from 141 centimeters to 155 centimeters (4 feet, 7 inches to 5 feet, 1 inch), and the height of adult females ranges from 128 centimeters to 151 centimeters (4 feet, 2 inches to 4 feet, 11 inches). Individuals with Peters plus syndrome also have shortened upper limbs (rhizomelia) and shortened fingers and toes (brachydactyly).</p><p>The characteristic facial features of Peters plus syndrome include a prominent forehead; small, malformed ears; narrow eyes; a long area between the nose and mouth (philtrum); and a pronounced double curve of the upper lip (Cupid's bow). The neck may also be broad and webbed. A cleft lip with or without a cleft palate is present in about half of the people with this condition.</p><p>Developmental milestones, such as walking and speech, are delayed in most children with Peters plus syndrome. Most affected individuals also have intellectual disability that can range from mild to severe, although some have normal intelligence. The severity of physical features does not predict the level of intellectual disability.</p><p>Less common signs and symptoms of Peters plus syndrome include heart defects, structural brain abnormalities, hearing loss, and kidney or genital abnormalities.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: B3GLCT
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/B3GLCT
+synonym(1): Krause-Kivlin syndrome
+synonym(2): Krause-van Schooneveld-Kivlin syndrome
+synonym(3): Peters anomaly-short limb dwarfism syndrome
+synonym(4): Peters'-plus syndrome
+synonym(5): Peters' plus syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0796012
+db-key(2)/db: GeneReviews
+db-key(2)/key: peters-plus
+db-key(3)/db: MeSH
+db-key(3)/key: D015785
+db-key(4)/db: OMIM
+db-key(4)/key: 261540
+db-key(5)/db: Orphanet
+db-key(5)/key: 709
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 449817000
+reviewed: 2013-09
+published: 2018-04-17

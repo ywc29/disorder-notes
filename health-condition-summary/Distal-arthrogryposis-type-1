@@ -1,0 +1,25 @@
+name: Distal arthrogryposis type 1
+ghr-page: https://ghr.nlm.nih.gov/condition/distal-arthrogryposis-type-1
+text/text-role: description
+text/html: <p>Distal arthrogryposis type 1 is a disorder characterized by joint deformities (contractures) that restrict movement in the hands and feet. The term "arthrogryposis" comes from the Greek words for joint (arthro-) and crooked or hooked (gryposis). The characteristic features of this condition include permanently bent fingers and toes (camptodactyly), overlapping fingers, and a hand deformity in which all of the fingers are angled outward toward the fifth finger (ulnar deviation). Clubfoot, which is an inward- and upward-turning foot, is also commonly seen with distal arthrogryposis type 1. The specific hand and foot abnormalities vary among affected individuals. However, this condition typically does not cause any signs and symptoms affecting other parts of the body.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: MYBPC1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/MYBPC1
+related-gene(2)/gene-symbol: TPM2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/TPM2
+synonym(1): AMCD1
+synonym(2): arthrogryposis, distal, type 1
+synonym(3): DA1
+db-key(1)/db: GTR
+db-key(1)/key: C0220662
+db-key(2)/db: MeSH
+db-key(2)/key: D001176
+db-key(3)/db: OMIM
+db-key(3)/key: 108120
+db-key(4)/db: Orphanet
+db-key(4)/key: 1146
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 715314008
+reviewed: 2017-10
+published: 2018-04-17

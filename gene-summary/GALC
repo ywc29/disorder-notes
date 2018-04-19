@@ -1,0 +1,17 @@
+gene-symbol: GALC
+name: galactosylceramidase
+ghr-page: https://ghr.nlm.nih.gov/gene/GALC
+text/text-role: function
+text/html: <p>The <i>GALC</i> gene provides instructions for making an enzyme called galactosylceramidase. Through a process called hydrolysis, this enzyme uses water molecules to break down certain fats called galactolipids, which are found primarily in the nervous system and kidneys.</p><p>Within cells, galactosylceramidase is found in enzyme-filled sacs called lysosomes where it hydrolyzes specific galactolipids, including galactosylceramide and psychosine. Galactosylceramide is an important component of myelin, the protective covering around certain nerve cells that ensures the rapid transmission of nerve impulses. Its breakdown by galactosylceramidase is part of the normal turnover of myelin that occurs throughout life. Psychosine, which is toxic to cells, forms during the production of myelin and is quickly broken down by galactosylceramidase. Under normal conditions, tissues contain very little psychosine.</p>
+related-health-condition/name: Krabbe disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/krabbe-disease
+synonym(1): galactocerebrosidase
+synonym(2): galactosylceramide beta-galactosidase
+synonym(3): GALC_HUMAN
+synonym(4): GALCERase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2581
+db-key(2)/db: OMIM
+db-key(2)/key: 606890
+reviewed: 2018-01
+published: 2018-04-17

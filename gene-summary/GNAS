@@ -1,0 +1,47 @@
+gene-symbol: GNAS
+name: GNAS complex locus
+ghr-page: https://ghr.nlm.nih.gov/gene/GNAS
+text/text-role: function
+text/html: <p>The <i>GNAS</i> gene provides instructions for making one component, the stimulatory alpha subunit, of a protein complex called a guanine nucleotide-binding protein (G protein). Each G protein is composed of three proteins called the alpha, beta, and gamma subunits.</p><p>In a process called signal transduction, G proteins trigger a complex network of signaling pathways that ultimately influence many cell functions by regulating the activity of hormones. The G protein made with the subunit produced from the <i>GNAS</i> gene helps stimulate the activity of an enzyme called adenylate cyclase. This enzyme is involved in controlling the production of several hormones that help regulate the activity of endocrine glands such as the thyroid, pituitary gland, ovaries and testes (gonads), and adrenal glands. Adenylate cyclase is also believed to play a key role in signaling pathways that help regulate the development of bone (osteogenesis). In this way, the enzyme helps prevent the body from producing bone tissue in the wrong place (ectopic bone).</p>
+related-health-condition(1)/name: McCune-Albright syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/mccune-albright-syndrome
+related-health-condition(2)/name: primary macronodular adrenal hyperplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/primary-macronodular-adrenal-hyperplasia
+related-health-condition(3)/name: progressive osseous heteroplasia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/progressive-osseous-heteroplasia
+synonym(1): adenylate cyclase-stimulating G alpha protein
+synonym(2): ADENYLATE CYCLASE STIMULATORY PROTEIN, ALPHA SUBUNIT
+synonym(3): AHO
+synonym(4): C20orf45
+synonym(5): dJ309F20.1.1
+synonym(6): dJ806M20.3.3
+synonym(7): GNAS1
+synonym(8): GNAS1_HUMAN
+synonym(9): GNASXL
+synonym(10): GPSA
+synonym(11): Gs, ALPHA SUBUNIT
+synonym(12): GSA
+synonym(13): GSP
+synonym(14): guanine nucleotide binding protein (G protein), alpha stimulating activity polypeptide 1
+synonym(15): guanine nucleotide regulatory protein
+synonym(16): MGC33735
+synonym(17): NESP
+synonym(18): NESP55
+synonym(19): NEUROENDOCRINE SECRETORY PROTEIN 55
+synonym(20): PHP1A
+synonym(21): PHP1B
+synonym(22): POH
+synonym(23): SCG6
+synonym(24): secretogranin VI
+synonym(25): SgVI
+synonym(26): STIMULATORY G PROTEIN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2778
+db-key(2)/db: OMIM
+db-key(2)/key: 103580
+db-key(3)/db: OMIM
+db-key(3)/key: 139320
+db-key(4)/db: OMIM
+db-key(4)/key: 612463
+reviewed: 2015-05
+published: 2018-04-17

@@ -1,0 +1,19 @@
+gene-symbol: APOA1
+name: apolipoprotein A1
+ghr-page: https://ghr.nlm.nih.gov/gene/APOA1
+text/text-role: function
+text/html: <p>The <i>APOA1</i> gene provides instructions for making a protein called apolipoprotein A-I (apoA-I). ApoA-I is a component of high-density lipoprotein (HDL). HDL is a molecule that transports cholesterol and certain fats called phospholipids through the bloodstream from the body's tissues to the liver. Once in the liver, cholesterol and phospholipids are redistributed to other tissues or removed from the body.</p><p>ApoA-I attaches to cell membranes and promotes the movement of cholesterol and phospholipids from inside the cell to the outer surface. Once outside the cell, these substances combine with apoA-I to form HDL. ApoA-I also triggers a reaction called cholesterol esterification that converts cholesterol to a form that can be fully integrated into HDL and transported through the bloodstream.</p><p>HDL is often referred to as "good cholesterol" because high levels of this substance reduce the chances of developing heart and blood vessel (cardiovascular) disease. The process of removing excess cholesterol from cells is extremely important for balancing cholesterol levels and maintaining cardiovascular health.</p>
+related-health-condition/name: familial HDL deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hdl-deficiency
+synonym(1): apo-AI
+synonym(2): apoA-I
+synonym(3): APOA1_HUMAN
+synonym(4): apolipoprotein A-I
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 335
+db-key(2)/db: OMIM
+db-key(2)/key: 105200
+db-key(3)/db: OMIM
+db-key(3)/key: 107680
+reviewed: 2012-11
+published: 2018-04-17

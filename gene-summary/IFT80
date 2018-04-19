@@ -1,0 +1,21 @@
+gene-symbol: IFT80
+name: intraflagellar transport 80
+ghr-page: https://ghr.nlm.nih.gov/gene/IFT80
+text/text-role: function
+text/html: <p>The <i>IFT80</i> gene provides instructions for making a protein that is part of a group (complex) called IFT complex B. This complex is found in cell structures known as cilia. Cilia are microscopic, finger-like projections that stick out from the surface of cells. IFT complex B is involved in a process called intraflagellar transport (IFT), by which materials are carried within cilia. Specifically, this complex helps transport materials from the base of cilia to the tip.</p><p>IFT is essential for the assembly and maintenance of cilia. These cell structures play central roles in many different chemical signaling pathways, including a series of  reactions called the Sonic Hedgehog pathway. These pathways are important for the growth and division (proliferation) and maturation (differentiation) of cells. In particular, Sonic Hedgehog appears to be essential for the proliferation and differentiation of cells that ultimately give rise to cartilage and bone.</p>
+related-health-condition/name: asphyxiating thoracic dystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/asphyxiating-thoracic-dystrophy
+synonym(1): ATD2
+synonym(2): IFT80_HUMAN
+synonym(3): intraflagellar transport 80 homolog (Chlamydomonas)
+synonym(4): KIAA1374
+synonym(5): MGC126543
+synonym(6): WD repeat-containing protein 56
+synonym(7): WD repeat domain 56
+synonym(8): WDR56
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57560
+db-key(2)/db: OMIM
+db-key(2)/key: 611177
+reviewed: 2015-05
+published: 2018-04-17

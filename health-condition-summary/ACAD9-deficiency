@@ -1,0 +1,23 @@
+name: ACAD9 deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/acad9-deficiency
+text/text-role: description
+text/html: <p>ACAD9 deficiency is a condition that varies in severity and can cause muscle weakness (myopathy), heart problems, and intellectual disability. Nearly all affected individuals have a buildup of a chemical called lactic acid in the body (lactic acidosis). Additional signs and symptoms that affect other body systems occur in rare cases.</p><p>Mildly affected individuals with ACAD9 deficiency usually experience nausea and extreme fatigue in response to physical activity (exercise intolerance). People with ACAD9 deficiency who are moderately affected have low muscle tone (hypotonia) and weakness in the muscles used for movement (skeletal muscles). Severely affected individuals have brain dysfunction combined with myopathy (encephalomyopathy); these individuals usually also have an enlarged and weakened heart muscle (hypertrophic cardiomyopathy), which is typically fatal in infancy or childhood.</p><p>Individuals with ACAD9 deficiency who survive past early childhood often have intellectual disability and may develop seizures. Rare signs and symptoms of ACAD9 deficiency include movement disorders and problems with liver and kidney function.</p><p>Some individuals with ACAD9 deficiency have had improvement in muscle strength and a reduction in lactic acid levels with treatment.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ACAD9
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ACAD9
+synonym(1): acyl-CoA dehydrogenase 9 deficiency
+synonym(2): deficiency of acyl-CoA dehydrogenase family member 9
+synonym(3): mitochondrial complex I deficiency due to ACAD9 deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1970173
+db-key(2)/db: GeneReviews
+db-key(2)/key: mt-overview
+db-key(3)/db: MeSH
+db-key(3)/key: D028361
+db-key(4)/db: OMIM
+db-key(4)/key: 611126
+db-key(5)/db: Orphanet
+db-key(5)/key: 2609
+reviewed: 2017-04
+published: 2018-04-17

@@ -1,0 +1,27 @@
+gene-symbol: PIK3CD
+name: phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta
+ghr-page: https://ghr.nlm.nih.gov/gene/PIK3CD
+text/text-role: function
+text/html: <p>The <i>PIK3CD</i> gene provides instructions for making the p110 delta (p110δ) protein, which is one piece (subunit) of an enzyme called phosphatidylinositol 3-kinase (PI3K). The version of PI3K containing the p110δ subunit, called PI3K-delta, is specifically found in white blood cells, including immune system cells (lymphocytes) called B cells and T cells. These cells recognize and attack foreign invaders, such as viruses and bacteria, to prevent infection.</p><p>Like other kinases, PI3K-delta adds a cluster of oxygen and phosphorus atoms (a phosphate group) to other proteins through a process called phosphorylation. PI3K-delta phosphorylates certain signaling molecules, which triggers a series of additional reactions that transmit chemical signals within cells. In lymphocytes, PI3K-delta signaling is important for many cell activities, including cell growth and division (proliferation) and maturation (differentiation). PI3K-delta helps direct B cells and T cells to differentiate into different types, each of which has a distinct function in the immune system.</p>
+related-health-condition/name: activated PI3K-delta syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/activated-pi3k-delta-syndrome
+synonym(1): APDS
+synonym(2): IMD14
+synonym(3): p110D
+synonym(4): P110DELTA
+synonym(5): phosphatidylinositol-4,5-bisphosphate 3-kinase 110 kDa catalytic subunit delta
+synonym(6): phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit delta isoform
+synonym(7): phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform
+synonym(8): phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit delta
+synonym(9): phosphoinositide-3-kinase C
+synonym(10): phosphoinositide-3-kinase, catalytic, delta polypeptide variant p37delta
+synonym(11): PI3-kinase p110 subunit delta
+synonym(12): PI3K
+synonym(13): PI3Kdelta
+synonym(14): ptdIns-3-kinase subunit p110-delta
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5293
+db-key(2)/db: OMIM
+db-key(2)/key: 602839
+reviewed: 2014-07
+published: 2018-04-17

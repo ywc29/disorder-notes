@@ -1,0 +1,21 @@
+gene-symbol: LRRK2
+name: leucine rich repeat kinase 2
+ghr-page: https://ghr.nlm.nih.gov/gene/LRRK2
+text/text-role: function
+text/html: <p>The <i>LRRK2</i> gene provides instructions for making a protein called dardarin.  The <i>LRRK2</i> gene is active in the brain and other tissues throughout the body.</p><p>One segment of the dardarin protein is called a leucine-rich region because it contains a large amount of a protein building block (amino acid) known as leucine. Proteins with leucine-rich regions appear to play a role in activities that require interactions with other proteins, such as transmitting signals or helping to assemble the cell's structural framework (cytoskeleton). Other parts of the dardarin protein are also thought to be involved in protein-protein interactions.</p><p>Additional studies indicate that dardarin has an enzyme function known as kinase activity. Proteins with kinase activity assist in the transfer of a phosphate group (a cluster of oxygen and phosphorus atoms) from the energy molecule ATP to amino acids in certain proteins. This phosphate transfer is called phosphorylation, and it is an essential step in turning on and off many cell activities. Dardarin also has a second enzyme function referred to as a GTPase activity. This activity is associated with a region of the protein called the ROC domain. The ROC domain may help control the overall shape of the dardarin protein.</p>
+related-health-condition(1)/name: Crohn disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/crohn-disease
+related-health-condition(2)/name: Parkinson disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/parkinson-disease
+synonym(1): DRDN
+synonym(2): leucine-rich repeat kinase 2
+synonym(3): LRRK2_HUMAN
+synonym(4): PARK8
+synonym(5): RIPK7
+synonym(6): ROCO2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 120892
+db-key(2)/db: OMIM
+db-key(2)/key: 609007
+reviewed: 2012-05
+published: 2018-04-17

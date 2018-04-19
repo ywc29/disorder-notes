@@ -1,0 +1,18 @@
+gene-symbol: DVL3
+name: dishevelled segment polarity protein 3
+ghr-page: https://ghr.nlm.nih.gov/gene/DVL3
+text/text-role: function
+text/html: <p>The <i>DVL3</i> gene provides instructions for making a protein that plays a critical role in development before birth. It is one of three DVL genes in humans (<i>DVL1</i>, <i>DVL2</i>, and <i>DVL3</i>). The proteins produced from these genes work together in chemical signaling pathways known as Wnt signaling. These pathways control the activity of certain genes and regulate the interactions between cells during embryonic development. Signaling involving the DVL proteins appears to be important for the normal development of the brain, skeleton, and many other parts of the body.</p>
+related-health-condition/name: Robinow syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/robinow-syndrome
+synonym(1): dishevelled 3 (homologous to Drosophila dsh)
+synonym(2): dishevelled, dsh homolog 3
+synonym(3): DRS3
+synonym(4): KIAA0208
+synonym(5): segment polarity protein dishevelled homolog DVL-3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1857
+db-key(2)/db: OMIM
+db-key(2)/key: 601368
+reviewed: 2018-02
+published: 2018-04-17

@@ -1,0 +1,23 @@
+gene-symbol: ZEB2
+name: zinc finger E-box binding homeobox 2
+ghr-page: https://ghr.nlm.nih.gov/gene/ZEB2
+text/text-role: function
+text/html: <p>The <i>ZEB2</i> gene provides instructions for making a protein that plays a critical role in the formation of many organs and tissues before birth.  This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of particular genes.  Researchers have found that the ZEB2 protein is involved in chemical signaling pathways that regulate early growth and development.</p><p>The ZEB2 protein is active in many types of cells before birth.  It appears to be particularly important for the development of the neural crest, which is a group of cells in the early embryo that give rise to many tissues and organs.  Neural crest cells migrate to form portions of the nervous system, glands that produce hormones (endocrine glands), pigment cells, smooth muscle and other tissues in the heart, and many tissues in the face and skull.</p><p>The ZEB2 protein is also active in cells that are not derived from the neural crest.  For example, this protein is involved in the development of the digestive tract, skeletal muscles, kidneys, and other organs.</p>
+related-health-condition/name: Mowat-Wilson syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mowat-wilson-syndrome
+synonym(1): KIAA0569
+synonym(2): SIP-1
+synonym(3): SIP1
+synonym(4): Smad-interacting protein 1
+synonym(5): Smad interacting-protein 1
+synonym(6): SMADIP1
+synonym(7): ZEB2_HUMAN
+synonym(8): ZFHX1B
+synonym(9): zinc finger E-box-binding protein 2
+synonym(10): zinc finger homeobox 1b
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9839
+db-key(2)/db: OMIM
+db-key(2)/key: 605802
+reviewed: 2015-06
+published: 2018-04-17

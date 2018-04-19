@@ -1,0 +1,24 @@
+gene-symbol: ISPD
+name: isoprenoid synthase domain containing
+ghr-page: https://ghr.nlm.nih.gov/gene/ISPD
+text/text-role: function
+text/html: <p>The <i>ISPD</i> gene provides instructions for making a protein that is involved in a process called glycosylation. Through this chemical process, sugar molecules are added to certain proteins. In particular, the ISPD protein helps produce a molecule called ribitol 5-phosphate, which is an important component of the chain of sugar molecules added to a protein called alpha (α)-dystroglycan. Glycosylation is critical for the normal function of α-dystroglycan.</p><p>The α-dystroglycan protein helps anchor the structural framework inside each cell (cytoskeleton) to the lattice of proteins and other molecules outside the cell (extracellular matrix). In skeletal muscles, glycosylated α-dystroglycan helps stabilize and protect muscle fibers. In the brain, it helps direct the movement (migration) of nerve cells (neurons) during early development.</p>
+related-health-condition(1)/name: limb-girdle muscular dystrophy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/limb-girdle-muscular-dystrophy
+related-health-condition(2)/name: Walker-Warburg syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/walker-warburg-syndrome
+synonym(1): 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase-like protein
+synonym(2): 4-diphosphocytidyl-2C-methyl-D-erythritol synthase homolog
+synonym(3): hCG_1745121
+synonym(4): isoprenoid synthase domain-containing protein
+synonym(5): IspD
+synonym(6): ISPD_HUMAN
+synonym(7): MDDGA7
+synonym(8): Nip
+synonym(9): notch1-induced protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 729920
+db-key(2)/db: OMIM
+db-key(2)/key: 614631
+reviewed: 2017-01
+published: 2018-04-17

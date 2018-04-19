@@ -1,0 +1,20 @@
+gene-symbol: ACAD8
+name: acyl-CoA dehydrogenase family member 8
+ghr-page: https://ghr.nlm.nih.gov/gene/ACAD8
+text/text-role: function
+text/html: <p>The <i>ACAD8</i> gene provides instructions for making an enzyme called isobutyryl-CoA dehydrogenase (IBD). This enzyme is found in mitochondria, the energy-producing centers inside cells. The IBD enzyme is involved in breaking down proteins from food. Specifically, this enzyme is responsible for the third step in the breakdown of a protein building block (amino acid) called valine. The IBD enzyme converts a molecule called isobutyryl-CoA into a molecule called methylacrylyl-CoA. Other enzymes further break down methylacrylyl-CoA into molecules that cells can use for energy.</p>
+related-health-condition/name: isobutyryl-CoA dehydrogenase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/isobutyryl-coa-dehydrogenase-deficiency
+synonym(1): ACAD-8
+synonym(2): ACAD8_HUMAN
+synonym(3): Activator-recruited cofactor 42 kDa component
+synonym(4): acyl-CoA dehydrogenase family, member 8
+synonym(5): acyl-coenzyme A dehydrogenase 8
+synonym(6): ARC42
+synonym(7): FLJ22590
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 27034
+db-key(2)/db: OMIM
+db-key(2)/key: 604773
+reviewed: 2010-06
+published: 2018-04-17

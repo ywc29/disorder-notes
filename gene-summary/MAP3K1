@@ -1,0 +1,29 @@
+gene-symbol: MAP3K1
+name: mitogen-activated protein kinase kinase kinase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/MAP3K1
+text/text-role: function
+text/html: <p>The <i>MAP3K1</i> gene provides instructions for making a protein that helps regulate signaling pathways that control various processes in the body, including the processes of determining sexual characteristics before birth. The MAP3K1 protein attaches (binds) to other molecules called RHOA, MAP3K4, FRAT1, and AXIN1. The binding of MAP3K1 to these molecules, which are called cofactors, helps MAP3K1 control the activity of the signaling pathways.</p>
+related-health-condition(1)/name: breast cancer
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
+related-health-condition(2)/name: Langerhans cell histiocytosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/langerhans-cell-histiocytosis
+related-health-condition(3)/name: Swyer syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/swyer-syndrome
+synonym(1): M3K1_HUMAN
+synonym(2): MAP/ERK kinase kinase 1
+synonym(3): MAPK/ERK kinase kinase 1
+synonym(4): MAPKKK1
+synonym(5): MEK kinase 1
+synonym(6): MEKK
+synonym(7): MEKK 1
+synonym(8): MEKK1
+synonym(9): mitogen-activated protein kinase kinase kinase 1, E3 ubiquitin protein ligase
+synonym(10): SRXY6
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4214
+db-key(2)/db: OMIM
+db-key(2)/key: 600982
+db-key(3)/db: OMIM
+db-key(3)/key: 613762
+reviewed: 2015-03
+published: 2018-04-17

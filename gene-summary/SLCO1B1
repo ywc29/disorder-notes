@@ -1,0 +1,28 @@
+gene-symbol: SLCO1B1
+name: solute carrier organic anion transporter family member 1B1
+ghr-page: https://ghr.nlm.nih.gov/gene/SLCO1B1
+text/text-role: function
+text/html: <p>The <i>SLCO1B1</i> gene provides instructions for making a protein called organic anion transporting polypeptide 1B1, or OATP1B1. This protein is found in liver cells; it transports compounds from the blood into the liver so that they can be cleared from the body. For example, the OATP1B1 protein transports bilirubin, which is a yellowish substance that is produced when red blood cells are broken down. In the liver, bilirubin is dissolved in a digestive fluid called bile and then excreted from the body. The OATP1B1 protein also transports certain hormones, toxins, and drugs into the liver for removal from the body. Drugs transported by the OATP1B1 protein include statins, which are used to treat high cholesterol; heart disease medications; certain antibiotics; and some drugs used for the treatment of cancer.</p>
+related-health-condition/name: Rotor syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/rotor-syndrome
+synonym(1): HBLRR
+synonym(2): liver-specific organic anion transporter 1
+synonym(3): LST-1
+synonym(4): LST1
+synonym(5): OATP-2
+synonym(6): OATP-C
+synonym(7): OATP1B1
+synonym(8): OATP2
+synonym(9): OATPC
+synonym(10): SLC21A6
+synonym(11): SO1B1_HUMAN
+synonym(12): sodium-independent organic anion-transporting polypeptide 2
+synonym(13): solute carrier family 21 (organic anion transporter), member 6
+synonym(14): solute carrier family 21 member 6
+synonym(15): solute carrier organic anion transporter family, member 1B1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10599
+db-key(2)/db: OMIM
+db-key(2)/key: 604843
+reviewed: 2013-03
+published: 2018-04-17

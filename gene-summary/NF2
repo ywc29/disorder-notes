@@ -1,0 +1,27 @@
+gene-symbol: NF2
+name: neurofibromin 2
+ghr-page: https://ghr.nlm.nih.gov/gene/NF2
+text/text-role: function
+text/html: <p>The <i>NF2</i> gene provides instructions for the production of a protein called merlin, also known as schwannomin. This protein is made in the nervous system, particularly in specialized cells called Schwann cells that wrap around and insulate nerves.</p><p>Merlin helps regulate several key signaling pathways that are important for controlling cell shape, cell growth, and the attachment of cells to one another (cell adhesion). This protein functions as a tumor suppressor, preventing cells from growing and dividing too fast or in an uncontrolled way.</p>
+related-health-condition(1)/name: neurofibromatosis type 2
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/neurofibromatosis-type-2
+related-health-condition(2)/name: schwannomatosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/schwannomatosis
+synonym(1): ACN
+synonym(2): BANF
+synonym(3): MERL_HUMAN
+synonym(4): merlin
+synonym(5): moesin-ezrin-radixin-like protein
+synonym(6): SCH
+synonym(7): schwannomerlin
+synonym(8): schwannomin
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4771
+db-key(2)/db: OMIM
+db-key(2)/key: 156240
+db-key(3)/db: OMIM
+db-key(3)/key: 607174
+db-key(4)/db: OMIM
+db-key(4)/key: 607379
+reviewed: 2017-01
+published: 2018-04-17

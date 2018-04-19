@@ -1,0 +1,41 @@
+name: Sézary syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/sezary-syndrome
+text/text-role: description
+text/html: <p>Sézary syndrome is an aggressive form of a type of blood cancer called cutaneous T-cell lymphoma. Cutaneous T-cell lymphomas occur when certain white blood cells, called T cells, become cancerous; these cancers characteristically affect the skin, causing different types of skin lesions. In Sézary syndrome, the cancerous T cells, called Sézary cells, are present in the blood, skin, and lymph nodes. A characteristic of Sézary cells is an abnormally shaped nucleus, described as cerebriform.</p><p>People with Sézary syndrome develop a red, severely itchy rash (erythroderma) that covers large portions of their body. Sézary cells are found in the rash. However, the skin cells themselves are not cancerous; the skin problems result when Sézary cells move from the blood into the skin. People with Sézary syndrome also have enlarged lymph nodes (lymphadenopathy). Other common signs and symptoms of this condition include hair loss (alopecia), skin swelling (edema), thickened skin on the palms of the hands and soles of the feet (palmoplantar keratoderma), abnormalities of the fingernails and toenails, and lower eyelids that turn outward (ectropion). Some people with Sézary syndrome are less able to control their body temperature than people without the condition.</p><p>The cancerous T cells can spread to other organs in the body, including the lymph nodes, liver, spleen, and bone marrow. In addition, affected individuals have an increased risk of developing another lymphoma or other type of cancer.</p><p>Sézary syndrome most often occurs in adults over age 60 and usually progresses rapidly; historically, affected individuals survived an average of 2 to 4 years after development of the condition, although survival has improved with newer treatments.</p><p>Although Sézary syndrome is sometimes referred to as a variant of another cutaneous T-cell lymphoma called mycosis fungoides, these two cancers are generally considered separate conditions.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+synonym(1): Sezary erythroderma
+synonym(2): Sezary syndrome
+synonym(3): Sezary's lymphoma
+db-key(1)/db: GTR
+db-key(1)/key: C0036920
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: C84.1
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: C84.10
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: C84.11
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: C84.12
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: C84.13
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: C84.14
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: C84.15
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: C84.16
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: C84.17
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: C84.18
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: C84.19
+db-key(13)/db: MeSH
+db-key(13)/key: D012751
+db-key(14)/db: Orphanet
+db-key(14)/key: 3162
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 4950009
+reviewed: 2017-10
+published: 2018-04-17

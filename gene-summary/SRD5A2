@@ -1,0 +1,27 @@
+gene-symbol: SRD5A2
+name: steroid 5 alpha-reductase 2
+ghr-page: https://ghr.nlm.nih.gov/gene/SRD5A2
+text/text-role: function
+text/html: <p>The <i>SRD5A2</i> gene provides instructions for making an enzyme called steroid 5-alpha reductase 2. This enzyme is involved in processing androgens, which are hormones that direct male sexual development. Specifically, the enzyme is responsible for a chemical reaction that converts the hormone testosterone to a more potent androgen, dihydrotestosterone (DHT), in male reproductive tissues.</p><p>Testosterone and DHT are essential for the normal development of male sex characteristics.  Before birth, testosterone is responsible for the formation of internal male genitalia, including the tubes that collect sperm and carry it out of the testes (the epididymis and vas deferens) and glands that help produce semen (the seminal vesicles).  DHT directs the development of the external genitalia, including the penis and scrotum, and the prostate gland.  During puberty, these two hormones also play an important role in the development of male secondary sex characteristics such as the growth of facial and body hair, increased muscle mass, and deepening of the voice.</p>
+related-health-condition(1)/name: 5-alpha reductase deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/5-alpha-reductase-deficiency
+related-health-condition(2)/name: prostate cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+synonym(1): 3-oxo-5 alpha-steroid 4-dehydrogenase 2
+synonym(2): 5 alpha-SR2
+synonym(3): MGC138457
+synonym(4): S5A2_HUMAN
+synonym(5): SR type 2
+synonym(6): steroid 5-alpha-reductase 2
+synonym(7): steroid-5-alpha-reductase, alpha polypeptide 2 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha 2)
+synonym(8): Type II 5-alpha reductase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6716
+db-key(2)/db: OMIM
+db-key(2)/key: 176807
+db-key(3)/db: OMIM
+db-key(3)/key: 184700
+db-key(4)/db: OMIM
+db-key(4)/key: 607306
+reviewed: 2008-04
+published: 2018-04-17

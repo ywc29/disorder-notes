@@ -1,0 +1,24 @@
+name: Muckle-Wells syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/muckle-wells-syndrome
+text/text-role: description
+text/html: <p>Muckle-Wells syndrome is a disorder characterized by periodic episodes of skin rash, fever, and joint pain. Progressive hearing loss and kidney damage also occur in this disorder.</p><p>People with Muckle-Wells syndrome have recurrent "flare-ups" that begin during infancy or early childhood. These episodes may appear to arise spontaneously or be triggered by cold, heat, fatigue, or other stresses. Affected individuals typically develop a non-itchy rash, mild to moderate fever, painful and swollen joints, and in some cases redness in the whites of the eyes (conjunctivitis).</p><p>Hearing loss caused by progressive nerve damage (sensorineural deafness) typically becomes apparent during the teenage years. Abnormal deposits of a protein called amyloid (amyloidosis) cause progressive kidney damage in about one-third of people with Muckle-Wells syndrome; these deposits may also damage other organs. In addition, pigmented skin lesions may occur in affected individuals.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: NLRP3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NLRP3
+synonym(1): familial amyloid nephropathy with urticaria and deafness
+synonym(2): MWS
+synonym(3): UDA syndrome
+synonym(4): urticaria-deafness-amyloidosis syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0268390
+db-key(2)/db: MeSH
+db-key(2)/key: D056587
+db-key(3)/db: OMIM
+db-key(3)/key: 191900
+db-key(4)/db: Orphanet
+db-key(4)/key: 575
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 15123008
+reviewed: 2008-09
+published: 2018-04-17

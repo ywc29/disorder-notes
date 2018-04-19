@@ -1,0 +1,23 @@
+gene-symbol: DNM2
+name: dynamin 2
+ghr-page: https://ghr.nlm.nih.gov/gene/DNM2
+text/text-role: function
+text/html: <p>The <i>DNM2</i> gene provides instructions for making a protein called dynamin 2. Dynamin 2 is present in cells throughout the body. It is involved in endocytosis, which is a process that brings substances into the cell. During endocytosis, the cell membrane folds around a substance (such as a protein) outside the cell to form a sac-like structure called a vesicle. The vesicle is drawn into the cell and is pinched off from the cell membrane. Dynamin 2 is thought to play a key role in altering the cell membrane to form these vesicles.</p><p>Dynamin 2 is also involved in the cell's structural framework (cytoskeleton). The protein interacts with multiple parts of the cytoskeleton, including tube-like structures called microtubules and proteins called actin, which organize into filaments to provide structure. These parts of the cytoskeleton are involved in movement of molecules within the cells, cell shape, cell mobility, and attachment of cells to one another.</p>
+related-health-condition(1)/name: centronuclear myopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/centronuclear-myopathy
+related-health-condition(2)/name: Charcot-Marie-Tooth disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+synonym(1): CMT2M
+synonym(2): CMTDI1
+synonym(3): CMTDIB
+synonym(4): DI-CMTB
+synonym(5): DYN2
+synonym(6): DYN2_HUMAN
+synonym(7): dynamin II
+synonym(8): DYNII
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1785
+db-key(2)/db: OMIM
+db-key(2)/key: 602378
+reviewed: 2015-11
+published: 2018-04-17

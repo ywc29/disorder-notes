@@ -1,0 +1,8 @@
+gene-symbol: PRKG1
+name: protein kinase, cGMP-dependent, type I
+ghr-page: https://ghr.nlm.nih.gov/gene/PRKG1
+related-health-condition/name: familial thoracic aortic aneurysm and dissection
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-thoracic-aortic-aneurysm-and-dissection
+db-key/db: NCBI Gene
+db-key/key: 5592
+published: 2018-04-17

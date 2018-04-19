@@ -1,0 +1,32 @@
+name: Short-chain acyl-CoA dehydrogenase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/short-chain-acyl-coa-dehydrogenase-deficiency
+text/text-role: description
+text/html: <p>Short-chain acyl-CoA dehydrogenase (SCAD) deficiency is a condition that prevents the body from converting certain fats into energy, especially during periods without food (fasting).</p><p>Signs and symptoms of SCAD deficiency may appear during infancy or early childhood and can include vomiting, low blood sugar (hypoglycemia), a lack of energy (lethargy), poor feeding, and failure to gain weight and grow at the expected rate (failure to thrive). Other features of this disorder may include poor muscle tone (hypotonia), seizures, developmental delay, and a small head size (microcephaly).</p><p>The symptoms of SCAD deficiency may be triggered by fasting or illnesses such as viral infections. This disorder is sometimes mistaken for Reye syndrome, a severe condition that may develop in children while they appear to be recovering from viral infections such as chicken pox or flu. Most cases of Reye syndrome are associated with the use of aspirin during these viral infections.</p><p>In some people with SCAD deficiency, signs and symptoms do not appear until adulthood. These individuals are more likely to have problems related to muscle weakness and wasting.</p><p>The severity of this condition varies widely, even among members of the same family. Some individuals are diagnosed with SCAD deficiency based on laboratory testing but never develop any symptoms of the condition.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ACADS
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ACADS
+synonym(1): ACADS deficiency
+synonym(2): deficiency of butyryl-CoA dehydrogenase
+synonym(3): lipid-storage myopathy secondary to short-chain acyl-coa dehydrogenase deficiency
+synonym(4): SCAD deficiency
+synonym(5): SCADH deficiency
+synonym(6): short-chain acyl-coenzyme A dehydrogenase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0342783
+db-key(2)/db: GeneReviews
+db-key(2)/key: scad
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E71.312
+db-key(4)/db: MeSH
+db-key(4)/key: D008052
+db-key(5)/db: OMIM
+db-key(5)/key: 201470
+db-key(6)/db: Orphanet
+db-key(6)/key: 26792
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 124166007
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 237998000
+reviewed: 2015-05
+published: 2018-04-17

@@ -1,0 +1,27 @@
+gene-symbol: NEU1
+name: neuraminidase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/NEU1
+text/text-role: function
+text/html: <p>The <i>NEU1</i> gene provides instructions for making an enzyme called neuraminidase 1 (NEU1), which is found in lysosomes. Lysosomes are compartments within cells that use enzymes to digest and recycle materials. The NEU1 enzyme helps break down large sugar molecules (oligosaccharides) attached to certain proteins (glycoproteins) by removing an substance known as sialic acid.</p>
+related-health-condition/name: sialidosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/sialidosis
+synonym(1): acetylneuraminyl hydrolase
+synonym(2): exo-alpha-sialidase
+synonym(3): FLJ93471
+synonym(4): G9 sialidase
+synonym(5): lysosomal sialidase
+synonym(6): N-acetyl-alpha-neuraminidase 1
+synonym(7): NANH
+synonym(8): NEU
+synonym(9): NEUR1_HUMAN
+synonym(10): neuraminidase 1 (lysosomal sialidase)
+synonym(11): neuraminidase 1 precursor
+synonym(12): SIAL1
+synonym(13): sialidase 1
+synonym(14): sialidase 1 (lysosomal sialidase)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4758
+db-key(2)/db: OMIM
+db-key(2)/key: 608272
+reviewed: 2010-05
+published: 2018-04-17

@@ -1,0 +1,10 @@
+gene-symbol: CD46
+name: CD46 molecule
+ghr-page: https://ghr.nlm.nih.gov/gene/CD46
+related-health-condition(1)/name: atypical hemolytic-uremic syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/atypical-hemolytic-uremic-syndrome
+related-health-condition(2)/name: C3 glomerulopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/c3-glomerulopathy
+db-key/db: NCBI Gene
+db-key/key: 4179
+published: 2018-04-17

@@ -1,0 +1,21 @@
+gene-symbol: ITPKC
+name: inositol-trisphosphate 3-kinase C
+ghr-page: https://ghr.nlm.nih.gov/gene/ITPKC
+text/text-role: function
+text/html: <p>The <i>ITPKC</i> gene provides instructions for making one version (isoform) of the inositol 1,4,5-trisphosphate 3-kinase (ITPK) enzyme. This enzyme helps add a cluster of oxygen and phosphorus atoms (a phosphate group) to a molecule called Ins(1,4,5)P3 to produce a molecule called Ins(1,3,4,5)P4. Both of these molecules are involved in regulating the amount of calcium in cells.</p><p>Several versions (isoforms) of the ITPK enzyme are produced from different genes. They play a variety of roles in processes throughout the body. The isoform produced from the <i>ITPKC</i> gene is called inositol 1,4,5-trisphosphate 3-kinase C (ITPKC). It is involved in a mechanism called the Ca(2+)/NFAT signaling pathway, which is affected by calcium levels. This pathway helps limit the activity of immune system cells called T cells. T cells identify foreign substances and defend the body against infection. Reducing the activity of T cells when appropriate prevents the overproduction of immune proteins called cytokines that lead to inflammation and which, in excess, cause tissue damage.</p>
+related-health-condition/name: Kawasaki disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/kawasaki-disease
+synonym(1): inositol 1,4,5-trisphosphate 3-kinase C
+synonym(2): InsP 3 kinase C
+synonym(3): insP 3-kinase C
+synonym(4): IP3 3-kinase C
+synonym(5): IP3-3KC
+synonym(6): IP3K C
+synonym(7): IP3KC
+synonym(8): IP3KC_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 80271
+db-key(2)/db: OMIM
+db-key(2)/key: 606476
+reviewed: 2011-06
+published: 2018-04-17

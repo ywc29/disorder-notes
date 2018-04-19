@@ -1,0 +1,26 @@
+gene-symbol: GTF2I
+name: general transcription factor IIi
+ghr-page: https://ghr.nlm.nih.gov/gene/GTF2I
+text/text-role: function
+text/html: <p>The <i>GTF2I</i> gene provides instructions for making two proteins, BAP-135 and TFII-I. BAP-135 is involved in normal immune system function. It is active in B cells, which are a specialized type of white blood cell that protects the body against infection. When a B cell senses a foreign substance (such as a virus), it triggers a series of chemical reactions that instruct the cell to mature, divide, and produce specific proteins called antibodies to fight the infection.  The BAP-135 protein is activated as part of this series of chemical reactions; it transmits chemical signals that allow B cells to respond to potentially harmful invaders.</p><p>TFII-I, the other protein produced from the <i>GTF2I</i> gene, binds to specific areas of DNA and helps regulate the activity of other genes. Based on this role, TFII-I is called a transcription factor. This protein is active in the brain and many other tissues in the body.  Studies suggest that the TFII-I protein is involved in coordinating cell growth and division, and it may also play a role in controlling the flow of calcium into cells.</p>
+related-health-condition(1)/name: 7q11.23 duplication syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/7q1123-duplication-syndrome
+related-health-condition(2)/name: Williams syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/williams-syndrome
+synonym(1): BAP-135
+synonym(2): BAP135
+synonym(3): Bruton tyrosine kinase-associated protein 135
+synonym(4): BTK-associated protein, 135kD
+synonym(5): BTKAP1
+synonym(6): DIWS
+synonym(7): GTF2I_HUMAN
+synonym(8): IB291
+synonym(9): SPIN
+synonym(10): TFII-I
+synonym(11): WBSCR6
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2969
+db-key(2)/db: OMIM
+db-key(2)/key: 601679
+reviewed: 2008-03
+published: 2018-04-17

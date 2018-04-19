@@ -1,0 +1,49 @@
+name: Hypermethioninemia
+ghr-page: https://ghr.nlm.nih.gov/condition/hypermethioninemia
+text/text-role: description
+text/html: <p>Hypermethioninemia is an excess of a particular protein building block (amino acid), called methionine, in the blood. This condition can occur when methionine is not broken down (metabolized) properly in the body.</p><p>People with hypermethioninemia often do not show any symptoms. Some individuals with hypermethioninemia exhibit intellectual disability and other neurological problems; delays in motor skills such as standing or walking; sluggishness; muscle weakness; liver problems; unusual facial features; and their breath, sweat, or urine may have a smell resembling boiled cabbage.</p><p>Hypermethioninemia can occur with other metabolic disorders, such as homocystinuria, tyrosinemia and galactosemia, which also involve the faulty breakdown of particular molecules. It can also result from liver disease or excessive dietary intake of methionine from consuming large amounts of protein or a methionine-enriched infant formula.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: AHCY
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AHCY
+related-gene(2)/gene-symbol: GNMT
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GNMT
+related-gene(3)/gene-symbol: MAT1A
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/MAT1A
+synonym(1): Deficiency of methionine adenosyltransferase
+synonym(2): glycine N-methyltransferase deficiency
+synonym(3): GNMT deficiency
+synonym(4): Hepatic methionine adenosyltransferase deficiency
+synonym(5): MAT deficiency
+synonym(6): MET
+synonym(7): methionine adenosyltransferase deficiency
+synonym(8): methioninemia
+synonym(9): S-adenosylhomocysteine hydrolase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0268621
+db-key(2)/db: GTR
+db-key(2)/key: C1847720
+db-key(3)/db: GTR
+db-key(3)/key: C3151058
+db-key(4)/db: MeSH
+db-key(4)/key: D000592
+db-key(5)/db: OMIM
+db-key(5)/key: 250850
+db-key(6)/db: OMIM
+db-key(6)/key: 606664
+db-key(7)/db: OMIM
+db-key(7)/key: 613752
+db-key(8)/db: Orphanet
+db-key(8)/key: 168598
+db-key(9)/db: Orphanet
+db-key(9)/key: 289891
+db-key(10)/db: Orphanet
+db-key(10)/key: 88618
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 124283007
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 43123004
+reviewed: 2007-04
+published: 2018-04-17

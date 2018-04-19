@@ -1,0 +1,65 @@
+name: Primary hyperoxaluria
+ghr-page: https://ghr.nlm.nih.gov/condition/primary-hyperoxaluria
+text/text-role: description
+text/html: <p>Primary hyperoxaluria is a rare condition characterized by recurrent kidney and bladder stones. The condition often results in end stage renal disease (ESRD), which is a life-threatening condition that prevents the kidneys from filtering fluids and waste products from the body effectively.</p><p>Primary hyperoxaluria results from the overproduction of a substance called oxalate. Oxalate is filtered through the kidneys and excreted as a waste product in urine, leading to abnormally high levels of this substance in urine (hyperoxaluria). During its excretion, oxalate can combine with calcium to form calcium oxalate, a hard compound that is the main component of kidney and bladder stones. Deposits of calcium oxalate can damage the kidneys and other organs and lead to blood in the urine (hematuria), urinary tract infections, kidney damage, ESRD, and injury to other organs. Over time, kidney function decreases such that the kidneys can no longer excrete as much oxalate as they receive. As a result oxalate levels in the blood rise, and the substance gets deposited in tissues throughout the body (systemic oxalosis), particularly in bones and the walls of blood vessels. Oxalosis in bones can cause fractures.</p><p>There are three types of primary hyperoxaluria that differ in their severity and genetic cause. In primary hyperoxaluria type 1, kidney stones typically begin to appear anytime from childhood to early adulthood, and ESRD can develop at any age. Primary hyperoxaluria type 2 is similar to type 1, but ESRD develops later in life. In primary hyperoxaluria type 3, affected individuals often develop kidney stones in early childhood, but few cases of this type have been described so additional signs and symptoms of this type are unclear.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: AGXT
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AGXT
+related-gene(2)/gene-symbol: GRHPR
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GRHPR
+related-gene(3)/gene-symbol: HOGA1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/HOGA1
+synonym(1): congenital oxaluria
+synonym(2): D-glycerate dehydrogenase deficiency
+synonym(3): glyceric aciduria
+synonym(4): glycolic aciduria
+synonym(5): hepatic AGT deficiency
+synonym(6): hyperoxaluria, primary
+synonym(7): oxalosis
+synonym(8): oxaluria, primary
+synonym(9): peroxisomal alanine:glyoxylate aminotransferase deficiency
+synonym(10): primary oxalosis
+synonym(11): primary oxaluria
+db-key(1)/db: GTR
+db-key(1)/key: C0020500
+db-key(2)/db: GTR
+db-key(2)/key: C0020501
+db-key(3)/db: GTR
+db-key(3)/key: C0268164
+db-key(4)/db: GTR
+db-key(4)/key: C0268165
+db-key(5)/db: GTR
+db-key(5)/key: C3150878
+db-key(6)/db: GeneReviews
+db-key(6)/key: ph1
+db-key(7)/db: GeneReviews
+db-key(7)/key: ph2
+db-key(8)/db: GeneReviews
+db-key(8)/key: ph3
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: E72.53
+db-key(10)/db: MeSH
+db-key(10)/key: D006960
+db-key(11)/db: OMIM
+db-key(11)/key: 259900
+db-key(12)/db: OMIM
+db-key(12)/key: 260000
+db-key(13)/db: OMIM
+db-key(13)/key: 613616
+db-key(14)/db: Orphanet
+db-key(14)/key: 93598
+db-key(15)/db: Orphanet
+db-key(15)/key: 93599
+db-key(16)/db: Orphanet
+db-key(16)/key: 93600
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 17901006
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 373607009
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 40951006
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 65520001
+reviewed: 2015-12
+published: 2018-04-17

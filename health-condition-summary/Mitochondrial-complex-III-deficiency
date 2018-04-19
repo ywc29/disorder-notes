@@ -1,0 +1,66 @@
+name: Mitochondrial complex III deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/mitochondrial-complex-iii-deficiency
+text/text-role: description
+text/html: <p>Mitochondrial complex III deficiency is a genetic condition that can affect several parts of the body, including the brain, kidneys, liver, heart, and the muscles used for movement (skeletal muscles). Signs and symptoms of mitochondrial complex III deficiency usually begin in infancy but can appear later.</p><p>The severity of mitochondrial complex III deficiency varies widely among affected individuals. People who are mildly affected tend to have muscle weakness (myopathy) and extreme tiredness (fatigue), particularly during exercise (exercise intolerance). More severely affected individuals have problems with multiple body systems, such as liver disease that can lead to liver failure, kidney abnormalities (tubulopathy), and brain dysfunction (encephalopathy). Encephalopathy can cause delayed development of mental and motor skills (psychomotor delay), movement problems, weak muscle tone (hypotonia), and difficulty with communication. Some affected individuals have a form of heart disease called cardiomyopathy, which can lead to heart failure. Most people with mitochondrial complex III deficiency have a buildup of a chemical called lactic acid in the body (lactic acidosis). Some affected individuals also have buildup of molecules called ketones (ketoacidosis) or high blood sugar levels (hyperglycemia). Abnormally high levels of these chemicals in the body can be life-threatening.</p><p>Mitochondrial complex III deficiency can be fatal in childhood, although individuals with mild signs and symptoms can survive into adolescence or adulthood.</p>
+inheritance-pattern(1)/code: ar
+inheritance-pattern(1)/memo: autosomal recessive
+inheritance-pattern(2)/code: m
+inheritance-pattern(2)/memo: mitochondrial
+related-gene(1)/gene-symbol: BCS1L
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BCS1L
+related-gene(2)/gene-symbol: CYC1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CYC1
+related-gene(3)/gene-symbol: LYRM7
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/LYRM7
+related-gene(4)/gene-symbol: MT-CYB
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/MT-CYB
+related-gene(5)/gene-symbol: TTC19
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/TTC19
+related-gene(6)/gene-symbol: UQCC2
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/UQCC2
+related-gene(7)/gene-symbol: UQCRB
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/UQCRB
+related-gene(8)/gene-symbol: UQCRC2
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/UQCRC2
+related-gene(9)/gene-symbol: UQCRQ
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/UQCRQ
+related-mitochondrial-dna/name: mitochondrial DNA
+related-mitochondrial-dna/ghr-page: https://ghr.nlm.nih.gov/mitochondrial-dna
+synonym(1): isolated CoQ-cytochrome c reductase deficiency
+synonym(2): ubiquinone-cytochrome c oxidoreductase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1852372
+db-key(2)/db: GTR
+db-key(2)/key: C3554605
+db-key(3)/db: GTR
+db-key(3)/key: C3554606
+db-key(4)/db: GTR
+db-key(4)/key: C3554607
+db-key(5)/db: GTR
+db-key(5)/key: C3554608
+db-key(6)/db: GTR
+db-key(6)/key: C3809553
+db-key(7)/db: GTR
+db-key(7)/key: C4014408
+db-key(8)/db: GTR
+db-key(8)/key: C4014440
+db-key(9)/db: GeneReviews
+db-key(9)/key: mt-overview
+db-key(10)/db: MeSH
+db-key(10)/key: D028361
+db-key(11)/db: OMIM
+db-key(11)/key: 124000
+db-key(12)/db: OMIM
+db-key(12)/key: 615157
+db-key(13)/db: OMIM
+db-key(13)/key: 615158
+db-key(14)/db: OMIM
+db-key(14)/key: 615159
+db-key(15)/db: OMIM
+db-key(15)/key: 615160
+db-key(16)/db: OMIM
+db-key(16)/key: 615453
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 709414007
+reviewed: 2014-04
+published: 2018-04-17

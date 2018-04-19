@@ -1,0 +1,23 @@
+gene-symbol: CLIP2
+name: CAP-Gly domain containing linker protein 2
+ghr-page: https://ghr.nlm.nih.gov/gene/CLIP2
+text/text-role: function
+text/html: <p>The <i>CLIP2</i> gene provides instructions for making a protein called CAP-Gly domain containing linker protein 2.  The protein is also known as CLIP-115. This protein is found predominantly in the brain, where it likely plays a role in the normal structure and function of nerve cells. Within cells, this protein is thought to regulate aspects of the cytoskeleton, the structural framework that helps to determine cell shape, size, and movement. The protein is associated with microtubules, which are rigid, hollow fibers that make up a significant part of the cytoskeleton. Microtubules help cells maintain their shape, assist in the process of cell division, and are essential for the transport of materials within cells.</p>
+related-health-condition/name: Williams syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/williams-syndrome
+synonym(1): CAP-GLY domain containing linker protein 2
+synonym(2): CLIP-115
+synonym(3): CLIP2_HUMAN
+synonym(4): CYLN2
+synonym(5): Cytoplasmic linker protein 2
+synonym(6): Cytoplasmic linker protein 115
+synonym(7): KIAA0291
+synonym(8): MGC11333
+synonym(9): WBSCR4
+synonym(10): WSCR4
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7461
+db-key(2)/db: OMIM
+db-key(2)/key: 603432
+reviewed: 2008-03
+published: 2018-04-17

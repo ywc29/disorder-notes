@@ -1,0 +1,10 @@
+gene-symbol: CYP4F22
+name: cytochrome P450 family 4 subfamily F member 22
+ghr-page: https://ghr.nlm.nih.gov/gene/CYP4F22
+related-health-condition(1)/name: lamellar ichthyosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/lamellar-ichthyosis
+related-health-condition(2)/name: nonbullous congenital ichthyosiform erythroderma
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/nonbullous-congenital-ichthyosiform-erythroderma
+db-key/db: NCBI Gene
+db-key/key: 126410
+published: 2018-04-17

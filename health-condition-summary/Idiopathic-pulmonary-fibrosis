@@ -1,0 +1,60 @@
+name: Idiopathic pulmonary fibrosis
+ghr-page: https://ghr.nlm.nih.gov/condition/idiopathic-pulmonary-fibrosis
+text/text-role: description
+text/html: <p>Idiopathic pulmonary fibrosis is a chronic, progressive lung disease. This condition causes scar tissue (fibrosis) to build up in the lungs, which makes the lungs unable to transport oxygen into the bloodstream effectively. The disease usually affects people between the ages of 50 and 70.</p><p>The most common signs and symptoms of idiopathic pulmonary fibrosis are shortness of breath and a persistent dry, hacking cough. Many affected individuals also experience a loss of appetite and gradual weight loss. Some people with idiopathic pulmonary fibrosis develop widened and rounded tips of the fingers and toes (clubbing) resulting from a shortage of oxygen. These features are relatively nonspecific; not everyone with these health problems has idiopathic pulmonary fibrosis. Other respiratory diseases, some of which are less serious, can cause similar signs and symptoms.</p><p>In people with idiopathic pulmonary fibrosis, scarring of the lungs increases over time until the lungs can no longer provide enough oxygen to the body's organs and tissues. Some people with idiopathic pulmonary fibrosis develop other serious lung conditions, including lung cancer, blood clots in the lungs (pulmonary emboli), pneumonia, or high blood pressure in the blood vessels that supply the lungs (pulmonary hypertension). Most affected individuals survive 3 to 5 years after their diagnosis. However, the course of the disease is highly variable; some affected people become seriously ill within a few months, while others may live with the disease for a decade or longer.</p><p>In most cases, idiopathic pulmonary fibrosis occurs in only one person in a family. These cases are described as sporadic. However, a small percentage of people with this disease have at least one other affected family member. When idiopathic pulmonary fibrosis occurs in multiple members of the same family, it is known as familial pulmonary fibrosis.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: ELMOD2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ELMOD2
+related-gene(2)/gene-symbol: MICA
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MICA
+related-gene(3)/gene-symbol: MUC5B
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/MUC5B
+related-gene(4)/gene-symbol: SFTPA1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SFTPA1
+related-gene(5)/gene-symbol: SFTPA2
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/SFTPA2
+related-gene(6)/gene-symbol: SFTPC
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/SFTPC
+related-gene(7)/gene-symbol: TERC
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/TERC
+related-gene(8)/gene-symbol: TERT
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/TERT
+synonym(1): cryptogenic fibrosing alveolitis
+synonym(2): idiopathic fibrosing alveolitis, chronic form
+synonym(3): IPF
+synonym(4): usual interstitial pneumonia
+db-key(1)/db: GTR
+db-key(1)/key: C1800706
+db-key(2)/db: GeneReviews
+db-key(2)/key: pf
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: J84.10
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: J84.11
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: J84.111
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: J84.112
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: J84.113
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: J84.114
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: J84.115
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: J84.116
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: J84.117
+db-key(12)/db: MeSH
+db-key(12)/key: D054990
+db-key(13)/db: OMIM
+db-key(13)/key: 178500
+db-key(14)/db: Orphanet
+db-key(14)/key: 2032
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 426437004
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 700250006
+reviewed: 2015-04
+published: 2018-04-17

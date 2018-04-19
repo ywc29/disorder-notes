@@ -1,0 +1,80 @@
+name: Asphyxiating thoracic dystrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/asphyxiating-thoracic-dystrophy
+text/text-role: description
+text/html: <p>Asphyxiating thoracic dystrophy, also known as Jeune syndrome, is an inherited disorder of bone growth characterized by a narrow chest, short ribs, shortened bones in the arms and legs, short stature, and extra fingers and toes (polydactyly). Additional skeletal abnormalities can include unusually shaped collarbones (clavicles) and pelvic bones, and and cone-shaped ends of the long bones in the arms and legs. Many infants with this condition are born with an extremely narrow, bell-shaped chest that can restrict the growth and expansion of the lungs. Life-threatening problems with breathing result, and people with asphyxiating thoracic dystrophy may live only into infancy or early childhood. However, in people who survive beyond the first few years, the narrow chest and related breathing problems can improve with age.</p><p>Some people with asphyxiating thoracic dystrophy are born with less severe skeletal abnormalities and have only mild breathing difficulties, such as rapid breathing or shortness of breath. These individuals may live into adolescence or adulthood. After infancy, people with this condition may develop life-threatening kidney (renal) abnormalities that cause the kidneys to malfunction or fail. Heart defects and a narrowing of the airway (subglottic stenosis) are also possible. Other, less common features of asphyxiating thoracic dystrophy include liver disease, fluid-filled sacs (cysts) in the pancreas, dental abnormalities, and an eye disease called retinal dystrophy that can lead to vision loss.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: CEP120
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CEP120
+related-gene(2)/gene-symbol: CSPP1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CSPP1
+related-gene(3)/gene-symbol: DYNC2H1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/DYNC2H1
+related-gene(4)/gene-symbol: IFT80
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/IFT80
+related-gene(5)/gene-symbol: IFT140
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/IFT140
+related-gene(6)/gene-symbol: IFT172
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/IFT172
+related-gene(7)/gene-symbol: TTC21B
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/TTC21B
+related-gene(8)/gene-symbol: WDR19
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/WDR19
+related-gene(9)/gene-symbol: WDR34
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/WDR34
+related-gene(10)/gene-symbol: WDR35
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/WDR35
+related-gene(11)/gene-symbol: WDR60
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/WDR60
+synonym(1): asphyxiating thoracic chondrodystrophy
+synonym(2): asphyxiating thoracic dysplasia
+synonym(3): ATD
+synonym(4): chondroectodermal dysplasia-like syndrome
+synonym(5): infantile thoracic dystrophy
+synonym(6): Jeune syndrome
+synonym(7): Jeune thoracic dysplasia
+synonym(8): Jeune thoracic dystrophy
+synonym(9): thoracic asphyxiant dystrophy
+synonym(10): thoracic-pelvic-phalangeal dystrophy
+db-key(1)/db: GTR
+db-key(1)/key: C0265275
+db-key(2)/db: GTR
+db-key(2)/key: C1970005
+db-key(3)/db: GTR
+db-key(3)/key: C3151185
+db-key(4)/db: GTR
+db-key(4)/key: C3280598
+db-key(5)/db: GTR
+db-key(5)/key: CN119532
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: Q77.2
+db-key(7)/db: MeSH
+db-key(7)/key: D010009
+db-key(8)/db: OMIM
+db-key(8)/key: 208500
+db-key(9)/db: OMIM
+db-key(9)/key: 263520
+db-key(10)/db: OMIM
+db-key(10)/key: 266920
+db-key(11)/db: OMIM
+db-key(11)/key: 611263
+db-key(12)/db: OMIM
+db-key(12)/key: 613091
+db-key(13)/db: OMIM
+db-key(13)/key: 613819
+db-key(14)/db: OMIM
+db-key(14)/key: 614091
+db-key(15)/db: OMIM
+db-key(15)/key: 614376
+db-key(16)/db: OMIM
+db-key(16)/key: 615503
+db-key(17)/db: OMIM
+db-key(17)/key: 615630
+db-key(18)/db: OMIM
+db-key(18)/key: 615633
+db-key(19)/db: Orphanet
+db-key(19)/key: 474
+db-key(20)/db: SNOMED CT
+db-key(20)/key: 75049004
+reviewed: 2015-05
+published: 2018-04-17

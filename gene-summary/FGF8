@@ -1,0 +1,25 @@
+gene-symbol: FGF8
+name: fibroblast growth factor 8
+ghr-page: https://ghr.nlm.nih.gov/gene/FGF8
+text/text-role: function
+text/html: <p>The <i>FGF8</i> gene provides instructions for making a protein called fibroblast growth factor 8 (FGF8). This protein is part of a family of proteins called fibroblast growth factors that are involved in many processes, including cell division, regulation of cell growth and maturation, and development before birth. FGF8 attaches (binds) to another protein called fibroblast growth factor receptor 1 (FGFR1) on the cell surface, which triggers a cascade of chemical reactions inside the cell.</p><p>Starting before birth, the signals triggered by FGF8 and FGFR1 play a critical role in the formation, survival, and movement (migration) of certain nerve cells (neurons) in the brain. In particular, this signaling appears to be essential for neurons that produce a hormone called gonadotropin-releasing hormone (GnRH). GnRH controls the production of several other hormones that direct sexual development before birth and during puberty. These hormones are important for the normal function of the ovaries in women and the testes in men. FGF8 and FGFR1 also play a role in a group of nerve cells that are specialized to process smells (olfactory neurons). These neurons migrate from the developing nose to a structure at the front of the brain called the olfactory bulb, which is critical for the perception of odors.</p><p>The FGF8 protein is also found in other parts of the developing embryo, including other areas of the brain and the limbs, heart, ears, and eyes. Researchers suspect that it may be involved in the normal formation and development of these structures as well.</p>
+related-health-condition(1)/name: Kallmann syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/kallmann-syndrome
+related-health-condition(2)/name: nonsyndromic holoprosencephaly
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-holoprosencephaly
+related-health-condition(3)/name: nonsyndromic holoprosencephaly
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-holoprosencephaly
+synonym(1): AIGF
+synonym(2): androgen-induced growth factor
+synonym(3): FGF-8
+synonym(4): fibroblast growth factor 8 (androgen-induced)
+synonym(5): HBGF-8
+synonym(6): heparin-binding growth factor 8
+synonym(7): HH6
+synonym(8): KAL6
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2253
+db-key(2)/db: OMIM
+db-key(2)/key: 600483
+reviewed: 2016-12
+published: 2018-04-17

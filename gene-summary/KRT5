@@ -1,0 +1,25 @@
+gene-symbol: KRT5
+name: keratin 5
+ghr-page: https://ghr.nlm.nih.gov/gene/KRT5
+text/text-role: function
+text/html: <p>The <i>KRT5</i> gene provides instructions for making a protein called keratin 5. Keratins are a group of tough, fibrous proteins that form the structural framework of certain cells, particularly cells that make up the skin, hair, and nails. Keratin 5 is produced in cells called keratinocytes in the outer layer of the skin (the epidermis).</p><p>Keratin 5 partners with a similar protein, keratin 14 (produced from the <i>KRT14</i> gene), to form molecules called keratin intermediate filaments. These filaments assemble into strong networks that help attach keratinocytes together and anchor the epidermis to underlying layers of skin. The network of keratin intermediate filaments provides strength and resiliency to the skin and protects it from being damaged by friction and other everyday physical stresses.</p><p>Researchers believe that keratin 5 interacts with pigment-producing cells called melanocytes to transport melanosomes, which are cellular structures within melanocytes that carry pigment called melanin. The transport of these structures from melanocytes to keratinocytes is important for the development of normal skin coloration (pigmentation).</p>
+related-health-condition(1)/name: Dowling-Degos disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/dowling-degos-disease
+related-health-condition(2)/name: epidermolysis bullosa simplex
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/epidermolysis-bullosa-simplex
+synonym(1): 58 kda cytokeratin
+synonym(2): CK5
+synonym(3): cytokeratin 5
+synonym(4): EBS2
+synonym(5): K2C5_HUMAN
+synonym(6): K5
+synonym(7): Keratin-5
+synonym(8): keratin 5, type II
+synonym(9): keratin, type II cytoskeletal 5
+synonym(10): KRT5A
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3852
+db-key(2)/db: OMIM
+db-key(2)/key: 148040
+reviewed: 2017-08
+published: 2018-04-17

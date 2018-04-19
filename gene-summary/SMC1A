@@ -1,0 +1,21 @@
+gene-symbol: SMC1A
+name: structural maintenance of chromosomes 1A
+ghr-page: https://ghr.nlm.nih.gov/gene/SMC1A
+text/text-role: function
+text/html: <p>The <i>SMC1A</i> gene provides instructions for making a protein that is part of the structural maintenance of chromosomes (SMC) family. Within the nucleus, SMC proteins help regulate the structure and organization of chromosomes.</p><p>The protein produced from the <i>SMC1A</i> gene (which is usually called the SMC1 protein) helps control chromosomes during cell division. Before cells divide, they must copy all of their chromosomes. The copied DNA from each chromosome is arranged into two identical structures, called sister chromatids, which are attached to one another during the early stages of cell division. The SMC1 protein is part of a protein group called the cohesin complex that holds the sister chromatids together.</p><p>Researchers believe that the SMC1 protein, as a structural component of the cohesin complex, also plays important roles in stabilizing cells' genetic information, repairing damaged DNA, and regulating the activity of certain genes that are essential for normal development.</p>
+related-health-condition/name: Cornelia de Lange syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cornelia-de-lange-syndrome
+synonym(1): DXS423E
+synonym(2): KIAA0178
+synonym(3): segregation of mitotic chromosomes 1
+synonym(4): SMC1
+synonym(5): SMC1-alpha
+synonym(6): SMC1A_HUMAN
+synonym(7): SMC1L1
+synonym(8): SMCB
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8243
+db-key(2)/db: OMIM
+db-key(2)/key: 300040
+reviewed: 2015-09
+published: 2018-04-17

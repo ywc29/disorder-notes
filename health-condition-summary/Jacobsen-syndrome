@@ -1,0 +1,34 @@
+name: Jacobsen syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/jacobsen-syndrome
+text/text-role: description
+text/html: <p>Jacobsen syndrome is a condition caused by a loss of genetic material from chromosome 11. Because this deletion occurs at the end (terminus) of the long (q) arm of chromosome 11, Jacobsen syndrome is also known as 11q terminal deletion disorder.</p><p>The signs and symptoms of Jacobsen syndrome vary considerably. Most affected individuals have delayed development, including the development of speech and motor skills (such as sitting, standing, and walking). Most also have cognitive impairment and learning difficulties. Behavioral problems have been reported, including compulsive behavior (such as shredding paper), a short attention span, and easy distractibility. Many people with Jacobsen syndrome have been diagnosed with attention deficit-hyperactivity disorder (ADHD). Jacobsen syndrome is also associated with an increased likelihood of autism spectrum disorders, which are characterized by impaired communication and socialization skills.</p><p>Jacobsen syndrome is also characterized by distinctive facial features. These include small and low-set ears, widely set eyes (hypertelorism) with droopy eyelids (ptosis), skin folds covering the inner corner of the eyes (epicanthal folds), a broad nasal bridge, downturned corners of the mouth, a thin upper lip, and a small lower jaw. Affected individuals often have a large head size (macrocephaly) and a skull abnormality called trigonocephaly, which gives the forehead a pointed appearance.</p><p>More than 90 percent of people with Jacobsen syndrome have a bleeding disorder called Paris-Trousseau syndrome. This condition causes a lifelong risk of abnormal bleeding and easy bruising. Paris-Trousseau syndrome is a disorder of platelets, which are blood cell fragments that are necessary for blood clotting.</p><p>Other features of Jacobsen syndrome can include heart defects, feeding difficulties in infancy, short stature, frequent ear and sinus infections, and skeletal abnormalities. The disorder can also affect the digestive system, kidneys, and genitalia. The life expectancy of people with Jacobsen syndrome is unknown, although affected individuals have lived into adulthood.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: ARHGAP32
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ARHGAP32
+related-gene(2)/gene-symbol: ETS1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ETS1
+related-gene(3)/gene-symbol: FLI1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/FLI1
+related-chromosome/name: 11
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/11
+synonym(1): 11q deletion disorder
+synonym(2): 11q deletion syndrome
+synonym(3): 11q- deletion syndrome
+synonym(4): 11q terminal deletion disorder
+synonym(5): 11q23 deletion disorder
+synonym(6): Jacobsen thrombocytopenia
+db-key(1)/db: GTR
+db-key(1)/key: C0795841
+db-key(2)/db: MeSH
+db-key(2)/key: D054868
+db-key(3)/db: OMIM
+db-key(3)/key: 147791
+db-key(4)/db: Orphanet
+db-key(4)/key: 851
+db-key(5)/db: Orphanet
+db-key(5)/key: 2308
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 4325000
+reviewed: 2015-09
+published: 2018-04-17

@@ -1,0 +1,37 @@
+gene-symbol: FLNA
+name: filamin A
+ghr-page: https://ghr.nlm.nih.gov/gene/FLNA
+text/text-role: function
+text/html: <p>The <i>FLNA</i> gene provides instructions for producing the protein filamin A, which helps build cells' extensive internal network of protein filaments called the cytoskeleton. The cytoskeleton gives structure to cells and allows them the flexibility to change shape. Filamin A primarily attaches (binds) to another protein called actin and helps it form the branching network of filaments that make up the cytoskeleton. Filamin A can also bind to many other proteins in the cell to carry out various functions, including the attachment of cells to one another (cell adhesion), cell movement (migration), determination of cell shape, and cell survival. These numerous functions involving filamin A have been found to play roles in regulating skeletal and brain development, the formation of heart tissue and blood vessels, and blood clotting.</p><p>Filamin A is also involved in the organization of the extracellular matrix, which is the lattice of proteins and other molecules outside the cell. Filamin A binds to proteins called integrins, which span the cell membrane and anchor cells to the extracellular matrix. Through this binding, cells are correctly positioned and signals can be exchanged between the cell and the extracellular matrix.</p>
+related-health-condition(1)/name: FG syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/fg-syndrome
+related-health-condition(2)/name: frontometaphyseal dysplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/frontometaphyseal-dysplasia
+related-health-condition(3)/name: intestinal pseudo-obstruction
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/intestinal-pseudo-obstruction
+related-health-condition(4)/name: Melnick-Needles syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/melnick-needles-syndrome
+related-health-condition(5)/name: otopalatodigital syndrome type 1
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/otopalatodigital-syndrome-type-1
+related-health-condition(6)/name: otopalatodigital syndrome type 2
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/otopalatodigital-syndrome-type-2
+related-health-condition(7)/name: periventricular heterotopia
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/periventricular-heterotopia
+related-health-condition(8)/name: X-linked cardiac valvular dysplasia
+related-health-condition(8)/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-cardiac-valvular-dysplasia
+synonym(1): ABP-280
+synonym(2): ABPX
+synonym(3): actin-binding protein 280
+synonym(4): DKFZp434P031
+synonym(5): filamin 1
+synonym(6): filamin A, alpha
+synonym(7): filamin A, alpha (actin binding protein 280)
+synonym(8): FLN
+synonym(9): FLN1
+synonym(10): FLNA_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2316
+db-key(2)/db: OMIM
+db-key(2)/key: 300017
+reviewed: 2017-12
+published: 2018-04-17

@@ -1,0 +1,20 @@
+gene-symbol: PABPN1
+name: poly(A) binding protein nuclear 1
+ghr-page: https://ghr.nlm.nih.gov/gene/PABPN1
+text/text-role: function
+text/html: <p>The <i>PABPN1</i> gene provides instructions for making a protein that is found throughout the body. The PABPN1 protein plays an important role in processing molecules called messenger RNAs (mRNAs), which serve as genetic blueprints for making proteins. The PABPN1 protein attaches (binds) to the end of an mRNA molecule at a region called the polyadenine tail or poly(A) tail. Poly(A) tails consist of many copies of a molecule called adenine, which is one of the building blocks of RNA and its chemical cousin, DNA. Poly(A) tails protect the mRNA from being broken down and allow the mRNA to be transported within the cell. The PABPN1 protein helps add adenines to the poly(A) tail through a process called polyadenylation. PABPN1 also helps transport mRNA out of the nucleus and may be involved in regulating mRNA production and the breakdown of poor quality mRNA.</p><p>Near the beginning of the PABPN1 protein is an area where 10 copies of the protein building block (amino acid) alanine occur in a row. This stretch of alanines is known as a polyalanine tract.  The role of the polyalanine tract in PABPN1 protein function is unknown.</p>
+related-health-condition/name: oculopharyngeal muscular dystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/oculopharyngeal-muscular-dystrophy
+synonym(1): OPMD
+synonym(2): PAB2
+synonym(3): PABP2
+synonym(4): PABP2_HUMAN
+synonym(5): poly(A) binding protein 2
+synonym(6): poly(A) binding protein II
+synonym(7): poly(A) binding protein, nuclear 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8106
+db-key(2)/db: OMIM
+db-key(2)/key: 602279
+reviewed: 2018-02
+published: 2018-04-17

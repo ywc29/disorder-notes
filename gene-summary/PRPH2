@@ -1,0 +1,33 @@
+gene-symbol: PRPH2
+name: peripherin 2
+ghr-page: https://ghr.nlm.nih.gov/gene/PRPH2
+text/text-role: function
+text/html: <p>The <i>PRPH2</i> gene (also known as <i>RDS</i>) provides instructions for making a protein called peripherin 2.  This protein plays an important role in normal vision.  Peripherin 2 is found in the retina, the light-sensitive tissue that lines the back of the eye.  This protein is essential for the normal function of specialized cells called photoreceptors that detect light and color. Within these cells, peripherin 2 is involved in the formation and stability of structures that contain light-sensing pigments.</p>
+related-health-condition(1)/name: cone-rod dystrophy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cone-rod-dystrophy
+related-health-condition(2)/name: retinitis pigmentosa
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/retinitis-pigmentosa
+related-health-condition(3)/name: vitelliform macular dystrophy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/vitelliform-macular-dystrophy
+synonym(1): CACD2
+synonym(2): peripherin 2 (retinal degeneration, slow)
+synonym(3): peripherin 2, homolog of mouse
+synonym(4): peripherin, photoreceptor type
+synonym(5): PRPH2_HUMAN
+synonym(6): RDS
+synonym(7): retinal degeneration slow protein
+synonym(8): retinal degeneration, slow
+synonym(9): Tetraspanin-22
+synonym(10): TSPAN22
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5961
+db-key(2)/db: OMIM
+db-key(2)/key: 136880
+db-key(3)/db: OMIM
+db-key(3)/key: 169150
+db-key(4)/db: OMIM
+db-key(4)/key: 179605
+db-key(5)/db: OMIM
+db-key(5)/key: 608133
+reviewed: 2008-10
+published: 2018-04-17

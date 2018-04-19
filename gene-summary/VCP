@@ -1,0 +1,27 @@
+gene-symbol: VCP
+name: valosin containing protein
+ghr-page: https://ghr.nlm.nih.gov/gene/VCP
+text/text-role: function
+text/html: <p>The <i>VCP</i> gene provides instructions for making an enzyme called valosin-containing protein.  This enzyme is found throughout the body and has a wide variety of functions within cells. It is involved in cell division, joining (fusing) membranes within cells, reassembling cell structures after cells have divided, preventing the self-destruction of cells (apoptosis), and repairing damaged DNA.</p><p>Valosin-containing protein is part of the ubiquitin-proteasome system, which is the machinery that breaks down (degrades) unneeded proteins within cells.  This system provides quality control by disposing of damaged, misshapen, and excess proteins. It also regulates the level of proteins involved in several critical cell activities, such as the timing of cell division and growth.  Researchers believe that most of the functions of valosin-containing protein are directly or indirectly related to the ubiquitin-proteasome system.</p>
+related-health-condition(1)/name: amyotrophic lateral sclerosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
+related-health-condition(2)/name: inclusion body myopathy with early-onset Paget disease and frontotemporal dementia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/inclusion-body-myopathy-with-early-onset-paget-disease-and-frontotemporal-dementia
+synonym(1): 15S Mg(2+)-ATPase p97 subunit
+synonym(2): CDC48
+synonym(3): IBMPFD
+synonym(4): MGC8560
+synonym(5): MGC131997
+synonym(6): MGC148092
+synonym(7): p97
+synonym(8): TER ATPase
+synonym(9): TERA
+synonym(10): TERA_HUMAN
+synonym(11): transitional endoplasmic reticulum ATPase
+synonym(12): yeast Cdc48p homolog
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7415
+db-key(2)/db: OMIM
+db-key(2)/key: 601023
+reviewed: 2018-04
+published: 2018-04-17

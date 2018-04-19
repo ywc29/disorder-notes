@@ -1,0 +1,8 @@
+gene-symbol: MUM1
+name: melanoma associated antigen (mutated) 1
+ghr-page: https://ghr.nlm.nih.gov/gene/MUM1
+related-health-condition/name: multiple myeloma
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-myeloma
+db-key/db: NCBI Gene
+db-key/key: 84939
+published: 2018-04-17

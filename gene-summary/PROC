@@ -1,0 +1,18 @@
+gene-symbol: PROC
+name: protein C, inactivator of coagulation factors Va and VIIIa
+ghr-page: https://ghr.nlm.nih.gov/gene/PROC
+text/text-role: function
+text/html: <p>The <i>PROC</i> gene provides instructions for making a protein called protein C that is important for controlling blood clotting. Protein C blocks the activity of two proteins that promote the formation of blood clots, called factor Va and factor VIIIa. Protein C is also involved in controlling inflammation. Inflammation is a normal body response to infection, irritation, or other injury.</p><p>Protein C is made in the liver and then released into the bloodstream. The protein remains turned off (inactive) until it attaches to a protein called thrombin, which converts it to activated protein C (APC). APC cuts (cleaves) the factor Va protein at specific sites, which partially or completely inactivates factor Va. (The inactive form is called factor V.) APC then works with factor V to inactivate factor VIIIa.</p>
+related-health-condition/name: protein C deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/protein-c-deficiency
+synonym(1): PC
+synonym(2): PROC1
+synonym(3): PROC_HUMAN
+synonym(4): protein C
+synonym(5): protein C (inactivator of coagulation factors Va and VIIIa)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5624
+db-key(2)/db: OMIM
+db-key(2)/key: 612283
+reviewed: 2009-10
+published: 2018-04-17

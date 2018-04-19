@@ -1,0 +1,16 @@
+gene-symbol: PC
+name: pyruvate carboxylase
+ghr-page: https://ghr.nlm.nih.gov/gene/PC
+text/text-role: function
+text/html: <p>The <i>PC</i> gene provides instructions for making an enzyme called pyruvate carboxylase. This enzyme is active in mitochondria, which are the energy-producing centers within cells.</p><p>Pyruvate carboxylase is responsible for a chemical reaction that converts a molecule called pyruvate to another molecule called oxaloacetate. This reaction is essential for several different cellular functions. In the kidneys and liver, it is the first step in a process called gluconeogenesis. Gluconeogenesis generates glucose, a simple sugar that is the body's main energy source. This chemical reaction also occurs in the pancreas, where it helps regulate the secretion of a hormone called insulin. Insulin controls the amount of glucose in the blood that is passed into cells for conversion to energy.</p><p>In fat-storing (adipose) tissue, pyruvate carboxylase is involved in the formation of certain fats (lipogenesis). This enzyme also plays an important role in the nervous system, where it replenishes the building blocks needed to make brain chemicals called neurotransmitters. Additionally, pyruvate carboxylase is necessary for the formation of myelin, which is the fatty covering that insulates and protects certain nerve cells.</p>
+related-health-condition/name: pyruvate carboxylase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pyruvate-carboxylase-deficiency
+synonym(1): PCB
+synonym(2): PYC_HUMAN
+synonym(3): Pyruvic carboxylase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5091
+db-key(2)/db: OMIM
+db-key(2)/key: 608786
+reviewed: 2017-08
+published: 2018-04-17

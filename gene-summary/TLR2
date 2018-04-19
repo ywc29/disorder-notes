@@ -1,0 +1,8 @@
+gene-symbol: TLR2
+name: toll like receptor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/TLR2
+related-health-condition/name: leprosy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/leprosy
+db-key/db: NCBI Gene
+db-key/key: 7097
+published: 2018-04-17

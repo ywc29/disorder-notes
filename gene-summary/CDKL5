@@ -1,0 +1,18 @@
+gene-symbol: CDKL5
+name: cyclin dependent kinase like 5
+ghr-page: https://ghr.nlm.nih.gov/gene/CDKL5
+text/text-role: function
+text/html: <p>The <i>CDKL5</i> gene provides instructions for making a protein that is found in cells and tissues throughout the body. However, it is most active in the brain and is essential for normal brain development and function. Studies suggest that the CDKL5 protein is involved in the formation, growth, and movement (migration) of nerve cells (neurons), as well as cell division. It also plays a role in the transmission of chemical signals at the connections (synapses) between neurons.</p><p>The CDKL5 protein acts as a kinase, which is an enzyme that changes the activity of other proteins by adding a cluster of oxygen and phosphorus atoms (a phosphate group) at specific positions. It is possible that MeCP2, which is produced from the <i>MECP2</i> gene, is one of the proteins targeted by the CDKL5 protein. The MeCP2 protein plays important roles in the function of neurons and other brain cells and in the maintenance of neuronal synapses. Researchers have not determined which other proteins are targeted by the CDKL5 protein.</p>
+related-health-condition/name: CDKL5 deficiency disorder
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cdkl5-deficiency-disorder
+synonym(1): CDKL5_HUMAN
+synonym(2): CFAP247
+synonym(3): cyclin-dependent kinase-like 5
+synonym(4): serine/threonine kinase 9
+synonym(5): STK9
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6792
+db-key(2)/db: OMIM
+db-key(2)/key: 300203
+reviewed: 2017-11
+published: 2018-04-17

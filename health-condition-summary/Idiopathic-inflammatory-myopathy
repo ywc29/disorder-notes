@@ -1,0 +1,39 @@
+name: Idiopathic inflammatory myopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/idiopathic-inflammatory-myopathy
+text/text-role: description
+text/html: <p>Idiopathic inflammatory myopathy is a group of disorders characterized by inflammation of the muscles used for movement (skeletal muscles). Idiopathic inflammatory myopathy usually appears in adults between ages 40 and 60 or in children between ages 5 and 15, though it can occur at any age.</p><p>The primary symptom of idiopathic inflammatory myopathy is muscle weakness, which develops gradually over a period of weeks to months or even years. Other symptoms include joint pain and general tiredness (fatigue).</p><p>There are several forms of idiopathic inflammatory myopathy, including polymyositis, dermatomyositis, and sporadic inclusion body myositis.</p><p>Polymyositis and dermatomyositis involve weakness of the muscles closest to the center of the body (proximal muscles), such as the muscles of the hips and thighs, upper arms, and neck. People with these forms of idiopathic inflammatory myopathy may find it difficult to climb stairs, get up from a seated position, or lift items above their head. In some cases, muscle weakness may make swallowing or breathing difficult.</p><p>Polymyositis and dermatomyositis have similar symptoms, but dermatomyositis is distinguished by a reddish or purplish rash on the eyelids, elbows, knees, or knuckles. Sometimes, abnormal calcium deposits form hard, painful bumps under the skin (calcinosis).</p><p>In sporadic inclusion body myositis, the muscles most affected are those of the wrists and fingers and the front of the thigh. Affected individuals may frequently stumble while walking and find it difficult to grasp items. As in dermatomyositis and polymyositis, swallowing can be difficult.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: HLA-DQA1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-DQA1
+related-gene(2)/gene-symbol: HLA-DRB1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-DRB1
+related-gene(3)/gene-symbol: IL1A
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/IL1A
+related-gene(4)/gene-symbol: PTPN22
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/PTPN22
+related-gene(5)/gene-symbol: TNF
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/TNF
+synonym(1): idiopathic inflammatory myopathies
+synonym(2): idiopathic inflammatory myositis
+synonym(3): inflammatory myopathy, idiopathic
+db-key(1)/db: GTR
+db-key(1)/key: C0027121
+db-key(2)/db: GTR
+db-key(2)/key: C0238190
+db-key(3)/db: MeSH
+db-key(3)/key: D009220
+db-key(4)/db: OMIM
+db-key(4)/key: 147421
+db-key(5)/db: OMIM
+db-key(5)/key: 160750
+db-key(6)/db: Orphanet
+db-key(6)/key: 221
+db-key(7)/db: Orphanet
+db-key(7)/key: 611
+db-key(8)/db: Orphanet
+db-key(8)/key: 732
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 702380008
+reviewed: 2011-02
+published: 2018-04-17

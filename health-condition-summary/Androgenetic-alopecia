@@ -1,0 +1,41 @@
+name: Androgenetic alopecia
+ghr-page: https://ghr.nlm.nih.gov/condition/androgenetic-alopecia
+text/text-role: description
+text/html: <p>Androgenetic alopecia is a common form of hair loss in both men and women.  In men, this condition is also known as male-pattern baldness.  Hair is lost in a well-defined pattern, beginning above both temples.  Over time, the hairline recedes to form a characteristic "M" shape.  Hair also thins at the crown (near the top of the head), often progressing to partial or complete baldness.</p><p>The pattern of hair loss in women differs from male-pattern baldness.  In women, the hair becomes thinner all over the head, and the hairline does not recede.  Androgenetic alopecia in women rarely leads to total baldness.</p><p>Androgenetic alopecia in men has been associated with several other medical conditions including coronary heart disease and enlargement of the prostate. Additionally, prostate cancer, disorders of insulin resistance (such as diabetes and obesity), and high blood pressure (hypertension) have been related to androgenetic alopecia. In women, this form of hair loss is associated with an increased risk of polycystic ovary syndrome (PCOS). PCOS is characterized by a hormonal imbalance that can lead to irregular menstruation, acne, excess hair elsewhere on the body (hirsutism), and weight gain.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene/gene-symbol: AR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/AR
+synonym(1): androgenic alopecia
+synonym(2): female pattern baldness
+synonym(3): male pattern alopecia
+synonym(4): male pattern baldness
+synonym(5): pattern baldness
+db-key(1)/db: GTR
+db-key(1)/key: C0162311
+db-key(2)/db: GTR
+db-key(2)/key: C2676272
+db-key(3)/db: GTR
+db-key(3)/key: C2678038
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: L64
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: L64.8
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: L64.9
+db-key(7)/db: MeSH
+db-key(7)/key: D000505
+db-key(8)/db: OMIM
+db-key(8)/key: 109200
+db-key(9)/db: OMIM
+db-key(9)/key: 300710
+db-key(10)/db: OMIM
+db-key(10)/key: 612421
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 1108009
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 201144006
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 87872006
+reviewed: 2015-08
+published: 2018-04-17

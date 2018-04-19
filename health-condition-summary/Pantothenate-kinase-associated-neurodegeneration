@@ -1,0 +1,31 @@
+name: Pantothenate kinase-associated neurodegeneration
+ghr-page: https://ghr.nlm.nih.gov/condition/pantothenate-kinase-associated-neurodegeneration
+text/text-role: description
+text/html: <p>Pantothenate kinase-associated neurodegeneration (formerly called Hallervorden-Spatz syndrome) is a disorder of the nervous system.  This condition is characterized by progressive difficulty with movement, typically beginning in childhood.  Movement abnormalities include involuntary muscle spasms, rigidity, and trouble with walking that worsens over time.  Many people with this condition also develop problems with speech (dysarthria), and some develop vision loss.  Additionally, affected individuals may experience a loss of intellectual function (dementia) and psychiatric symptoms such as behavioral problems, personality changes, and depression.</p><p>Pantothenate kinase-associated neurodegeneration is characterized by an abnormal buildup of iron in certain areas of the brain.  A particular change called the eye-of-the-tiger sign, which indicates an accumulation of iron, is typically seen on magnetic resonance imaging (MRI) scans of the brain in people with this disorder.</p><p>Researchers have described classic and atypical forms of pantothenate kinase-associated neurodegeneration.  The classic form usually appears in early childhood, causing severe problems with movement that worsen rapidly.  Features of the atypical form appear later in childhood or adolescence and progress more slowly.  Signs and symptoms vary, but the atypical form is more likely than the classic form to involve speech defects and psychiatric problems.</p><p>A condition called HARP (hypoprebetalipoproteinemia, acanthocytosis, retinitis pigmentosa, and pallidal degeneration), which was historically described as a separate syndrome, is now considered part of pantothenate kinase-associated neurodegeneration.  Although HARP is much rarer than classic pantothenate kinase-associated neurodegeneration, both conditions involve problems with movement, dementia, and vision abnormalities.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: PANK2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PANK2
+synonym(1): NBIA1
+synonym(2): neurodegeneration with brain iron accumulation type 1
+synonym(3): PKAN
+db-key(1)/db: GTR
+db-key(1)/key: C1846582
+db-key(2)/db: GTR
+db-key(2)/key: CN043643
+db-key(3)/db: GeneReviews
+db-key(3)/key: pkan
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: G23.0
+db-key(5)/db: MeSH
+db-key(5)/key: D006211
+db-key(6)/db: OMIM
+db-key(6)/key: 234200
+db-key(7)/db: OMIM
+db-key(7)/key: 607236
+db-key(8)/db: Orphanet
+db-key(8)/key: 385
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 2992000
+reviewed: 2015-01
+published: 2018-04-17

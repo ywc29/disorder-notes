@@ -1,0 +1,8 @@
+gene-symbol: CCDC65
+name: coiled-coil domain containing 65
+ghr-page: https://ghr.nlm.nih.gov/gene/CCDC65
+related-health-condition/name: primary ciliary dyskinesia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/primary-ciliary-dyskinesia
+db-key/db: NCBI Gene
+db-key/key: 85478
+published: 2018-04-17

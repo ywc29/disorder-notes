@@ -1,0 +1,26 @@
+name: Langer mesomelic dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/langer-mesomelic-dysplasia
+text/text-role: description
+text/html: <p>Langer mesomelic dysplasia is a disorder of bone growth. Affected individuals typically have extreme shortening of the long bones in the arms and legs (mesomelia). As a result of the shortened leg bones, people with Langer mesomelic dysplasia have very short stature. A bone in the forearm called the ulna and a bone in the lower leg called the fibula are often underdeveloped or absent, while other bones in the forearm (the radius) and lower leg (the tibia) are unusually short, thick, and curved. Some people with Langer mesomelic dysplasia also have an abnormality of the wrist and forearm bones called Madelung deformity, which may cause pain and limit wrist movement. Additionally, some affected individuals have mild underdevelopment of the lower jaw bone (mandible).</p>
+inheritance-pattern(1)/code: ar
+inheritance-pattern(1)/memo: autosomal recessive
+inheritance-pattern(2)/code: xr
+inheritance-pattern(2)/memo: X-linked recessive
+related-gene/gene-symbol: SHOX
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SHOX
+synonym(1): dyschondrosteosis homozygous
+synonym(2): Langer mesomelic dwarfism
+synonym(3): LMD
+synonym(4): mesomelic dwarfism of the hypoplastic ulna, fibula, and mandible type
+db-key(1)/db: GTR
+db-key(1)/key: C0432230
+db-key(2)/db: MeSH
+db-key(2)/key: D009139
+db-key(3)/db: OMIM
+db-key(3)/key: 249700
+db-key(4)/db: Orphanet
+db-key(4)/key: 2632
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 38494008
+reviewed: 2012-01
+published: 2018-04-17

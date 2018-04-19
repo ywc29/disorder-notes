@@ -1,0 +1,23 @@
+gene-symbol: SLC25A24
+name: solute carrier family 25 member 24
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC25A24
+text/text-role: function
+text/html: <p>The <i>SLC25A24</i> gene provides instructions for producing a protein that is a member of the solute carrier (SLC) family of proteins. Proteins in the SLC family transport various compounds across the membranes surrounding the cell and its component parts. The protein produced from the <i>SLC25A24</i> gene transports molecules across the inner membrane of the  mitochondria, the energy-producing centers of cells. This protein is known as an ATP-Mg/Pi carrier because it transports energy molecules called ATP that are attached (bound) to magnesium (Mg) atoms through the mitochondria inner membrane in exchange for adding or removing phosphate (P) atoms from the mitochondria. This exchange is essential for normal energy production, the formation and breakdown (metabolism) of various molecules, and protein production within cells.</p>
+related-health-condition/name: Gorlin-Chaudhry-Moss syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/gorlin-chaudhry-moss-syndrome
+synonym(1): APC1
+synonym(2): calcium-binding transporter
+synonym(3): mitochondrial ATP-Mg/Pi carrier protein 1
+synonym(4): mitochondrial Ca(2+)-dependent solute carrier protein 1
+synonym(5): SCAMC-1
+synonym(6): short calcium-binding mitochondrial carrier 1
+synonym(7): small calcium-binding mitochondrial carrier protein 1
+synonym(8): solute carrier family 25 (mitochondrial carrier; phosphate carrier), member 24
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 29957
+db-key(2)/db: OMIM
+db-key(2)/key: 608744
+db-key(3)/db: OMIM
+db-key(3)/key: 612289
+reviewed: 2018-02
+published: 2018-04-17

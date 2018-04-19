@@ -1,0 +1,30 @@
+name: Mucolipidosis III alpha/beta
+ghr-page: https://ghr.nlm.nih.gov/condition/mucolipidosis-iii-alpha-beta
+text/text-role: description
+text/html: <p>Mucolipidosis III alpha/beta is a disorder that affects many parts of the body. Signs and symptoms of this condition typically appear around age 3 and worsen slowly over time.</p><p>Individuals with mucolipidosis III alpha/beta grow slowly and have short stature. They also have stiff joints and dysostosis multiplex, which refers to multiple skeletal abnormalities seen on x-ray. Many affected individuals develop low bone mineral density (osteoporosis), which weakens the bones and makes them prone to fracture. Osteoporosis and progressive joint problems also cause bone pain that becomes more severe over time in people with mucolipidosis III alpha/beta.</p><p>People with mucolipidosis III alpha/beta often have heart valve abnormalities and mild clouding of the clear covering of the eye (cornea). Their facial features become slightly thickened or "coarse" over time. Affected individuals may also develop frequent ear and respiratory infections. About half of people with this condition have mild intellectual disability or learning problems. Individuals with mucolipidosis III alpha/beta generally survive into adulthood, but they may have a shortened lifespan.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: GNPTAB
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GNPTAB
+synonym(1): ML III
+synonym(2): ML IIIA
+synonym(3): mucolipidosis III
+synonym(4): mucolipidosis III, variant
+synonym(5): mucolipidosis IIIA
+synonym(6): pseudo-Hurler polydystrophy
+db-key(1)/db: GTR
+db-key(1)/key: C0033788
+db-key(2)/db: GeneReviews
+db-key(2)/key: ml3a
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E77.0
+db-key(4)/db: MeSH
+db-key(4)/key: D009081
+db-key(5)/db: OMIM
+db-key(5)/key: 252600
+db-key(6)/db: Orphanet
+db-key(6)/key: 577
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 65764006
+reviewed: 2014-10
+published: 2018-04-17

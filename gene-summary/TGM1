@@ -1,0 +1,25 @@
+gene-symbol: TGM1
+name: transglutaminase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TGM1
+text/text-role: function
+text/html: <p>The <i>TGM1</i> gene provides instructions for making an enzyme called transglutaminase 1. This enzyme is found in cells that make up the outermost layer of the skin (the epidermis). Transglutaminase 1 is involved in the formation of the cornified cell envelope, which is a structure that surrounds skin cells and helps form a protective barrier between the body and its environment. Specifically, transglutaminase 1 forms strong bonds, called cross-links, between the structural proteins that make up the cornified cell envelope. This cross-linking provides strength and stability to the epidermis.</p>
+related-health-condition/name: lamellar ichthyosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/lamellar-ichthyosis
+synonym(1): epidermal TGase
+synonym(2): ICR2
+synonym(3): protein-glutamine gamma-glutamyltransferase K
+synonym(4): TGASE
+synonym(5): TGase-1
+synonym(6): TGase K
+synonym(7): TGK
+synonym(8): TGM1_HUMAN
+synonym(9): transglutaminase-1
+synonym(10): transglutaminase 1 (K polypeptide epidermal type I, protein-glutamine-gamma-glutamyltransferase)
+synonym(11): transglutaminase K
+synonym(12): transglutaminase, keratinocyte
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7051
+db-key(2)/db: OMIM
+db-key(2)/key: 190195
+reviewed: 2015-03
+published: 2018-04-17

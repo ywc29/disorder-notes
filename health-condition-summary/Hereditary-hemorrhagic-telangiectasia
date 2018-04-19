@@ -1,0 +1,50 @@
+name: Hereditary hemorrhagic telangiectasia
+ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hemorrhagic-telangiectasia
+text/text-role: description
+text/html: <p>Hereditary hemorrhagic telangiectasia is a disorder that results in the development of multiple abnormalities in the blood vessels.</p><p>In the circulatory system, blood carrying oxygen from the lungs is normally pumped by the heart into the arteries at high pressure. The pressure allows the blood to make its way through the arteries to the smaller vessels (arterioles and capillaries) that supply oxygen to the body's tissues. By the time blood reaches the capillaries, the pressure is much lower. The blood then proceeds from the capillaries into veins, through which it eventually returns to the heart.</p><p>In hereditary hemorrhagic telangiectasia, some arterial vessels flow directly into veins rather than into the capillaries. These abnormalities are called arteriovenous malformations. When they occur in vessels near the surface of the skin, where they are visible as red markings, they are known as telangiectases (the singular is telangiectasia).</p><p>Without the normal buffer of the capillaries, the blood moves from the arteries at high pressure into the thinner walled, less elastic veins. The extra pressure tends to strain and enlarge these blood vessels, and may result in compression or irritation of adjacent tissues and frequent episodes of severe bleeding (hemorrhage). Nosebleeds are very common in people with hereditary hemorrhagic telangiectasia, and more serious problems may arise from hemorrhages in the brain, liver, lungs, or other organs.</p><p>There are several forms of hereditary hemorrhagic telangiectasia, distinguished mainly by their genetic cause but with some differences in patterns of signs and symptoms. People with type 1 tend to develop symptoms earlier than those with type 2, and are more likely to have blood vessel malformations in the lungs and brain. Type 2 and type 3 may be associated with a higher risk of liver involvement. Women are more likely than men to develop blood vessel malformations in the lungs with type 1, and are also at higher risk of liver involvement with both type 1 and type 2. Individuals with any form of hereditary hemorrhagic telangiectasia, however, can have any of these problems.</p><p>Juvenile polyposis/hereditary hemorrhagic telangiectasia syndrome is a condition that involves both arteriovenous malformations and a tendency to develop growths (polyps) in the gastrointestinal tract. Hereditary hemorrhagic telangiectasia types 1, 2 and 3 do not appear to increase the likelihood of such polyps.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: ACVRL1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ACVRL1
+related-gene(2)/gene-symbol: ENG
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ENG
+related-gene(3)/gene-symbol: GDF2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/GDF2
+related-gene(4)/gene-symbol: SMAD4
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/SMAD4
+synonym(1): HHT
+synonym(2): Osler-Weber-Rendu syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0039445
+db-key(2)/db: GTR
+db-key(2)/key: C1832774
+db-key(3)/db: GTR
+db-key(3)/key: C1832942
+db-key(4)/db: GTR
+db-key(4)/key: C1838163
+db-key(5)/db: GTR
+db-key(5)/key: C1857688
+db-key(6)/db: GTR
+db-key(6)/key: CN034812
+db-key(7)/db: GeneReviews
+db-key(7)/key: hht
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: I78.0
+db-key(9)/db: MeSH
+db-key(9)/key: D013683
+db-key(10)/db: OMIM
+db-key(10)/key: 175050
+db-key(11)/db: OMIM
+db-key(11)/key: 187300
+db-key(12)/db: OMIM
+db-key(12)/key: 600376
+db-key(13)/db: OMIM
+db-key(13)/key: 601101
+db-key(14)/db: OMIM
+db-key(14)/key: 610655
+db-key(15)/db: Orphanet
+db-key(15)/key: 774
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 21877004
+reviewed: 2016-07
+published: 2018-04-17

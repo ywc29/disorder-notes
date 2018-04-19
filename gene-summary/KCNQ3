@@ -1,0 +1,23 @@
+gene-symbol: KCNQ3
+name: potassium voltage-gated channel subfamily Q member 3
+ghr-page: https://ghr.nlm.nih.gov/gene/KCNQ3
+text/text-role: function
+text/html: <p>The <i>KCNQ3</i> gene belongs to a large family of genes that provide instructions for making potassium channels. These channels, which transport positively charged atoms (ions) of potassium into and out of cells, play a key role in a cell's ability to generate and transmit electrical signals.</p><p>The specific function of a potassium channel depends on its protein components and its location in the body. Channels made with the KCNQ3 protein are active in nerve cells (neurons) in the brain, where they transport potassium ions out of cells. These channels transmit a particular type of electrical signal called the M-current, which prevents the neuron from continuing to send signals to other neurons. The M-current ensures that the neuron is not constantly active, or excitable.</p><p>Potassium channels are made up of several protein components (subunits). Each channel contains four alpha subunits that form the hole (pore) through which potassium ions move. Four alpha subunits from the <i>KCNQ3</i> gene can form a channel. However, the KCNQ3 alpha subunits can also interact with alpha subunits from the <i>KCNQ2</i> gene to form a functional potassium channel, and these channels transmit a much stronger M-current.</p>
+related-health-condition/name: benign familial neonatal seizures
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/benign-familial-neonatal-seizures
+synonym(1): BFNC2
+synonym(2): EBN2
+synonym(3): KCNQ3_HUMAN
+synonym(4): KV7.3
+synonym(5): potassium channel subunit alpha KvLQT3
+synonym(6): potassium channel, voltage gated KQT-like subfamily Q, member 3
+synonym(7): potassium channel, voltage-gated, subfamily Q, member 3
+synonym(8): potassium voltage-gated channel subfamily KQT member 3
+synonym(9): potassium voltage-gated channel, KQT-like subfamily, member 3
+synonym(10): voltage-gated potassium channel subunit Kv7.3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3786
+db-key(2)/db: OMIM
+db-key(2)/key: 602232
+reviewed: 2011-05
+published: 2018-04-17

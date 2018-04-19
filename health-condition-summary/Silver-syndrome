@@ -1,0 +1,30 @@
+name: Silver syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/silver-syndrome
+text/text-role: description
+text/html: <p>Silver syndrome belongs to a group of genetic disorders known as hereditary spastic paraplegias. These disorders are characterized by progressive muscle stiffness (spasticity) and, frequently, development of paralysis of the lower limbs (paraplegia). Hereditary spastic paraplegias are divided into two types: pure and complex. Both types involve the lower limbs; the complex types may also involve the upper limbs, although to a lesser degree. In addition, the complex types may affect the brain and parts of the nervous system involved in muscle movement and sensations. Silver syndrome is a complex hereditary spastic paraplegia.</p><p>The first sign of Silver syndrome is usually weakness in the muscles of the hands. These muscles waste away (amyotrophy), resulting in abnormal positioning of the thumbs and difficulty using the fingers and hands for tasks such as handwriting. People with Silver syndrome often have high-arched feet (pes cavus) and spasticity in the legs. The signs and symptoms of Silver syndrome typically begin in late childhood but can start anytime from early childhood to late adulthood. The muscle problems associated with Silver syndrome slowly worsen with age, but affected individuals can remain active throughout life.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: BSCL2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/BSCL2
+synonym(1): Silver spastic paraplegia syndrome
+synonym(2): spastic paraplegia 17
+synonym(3): spastic paraplegia with amyotrophy of hands and feet
+synonym(4): SPG17
+db-key(1)/db: GTR
+db-key(1)/key: CN074197
+db-key(2)/db: GeneReviews
+db-key(2)/key: hsp
+db-key(3)/db: GeneReviews
+db-key(3)/key: spg17
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: G11.4
+db-key(5)/db: MeSH
+db-key(5)/key: D015419
+db-key(6)/db: Orphanet
+db-key(6)/key: 100998
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 230261006
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 39912006
+reviewed: 2012-02
+published: 2018-04-17

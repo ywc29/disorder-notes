@@ -1,0 +1,10 @@
+gene-symbol: HTR2A
+name: 5-hydroxytryptamine receptor 2A
+ghr-page: https://ghr.nlm.nih.gov/gene/HTR2A
+related-health-condition(1)/name: alcohol use disorder
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/alcohol-use-disorder
+related-health-condition(2)/name: seasonal affective disorder
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/seasonal-affective-disorder
+db-key/db: NCBI Gene
+db-key/key: 3356
+published: 2018-04-17

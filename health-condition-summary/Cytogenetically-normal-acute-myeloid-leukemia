@@ -1,0 +1,42 @@
+name: Cytogenetically normal acute myeloid leukemia
+ghr-page: https://ghr.nlm.nih.gov/condition/cytogenetically-normal-acute-myeloid-leukemia
+text/text-role: description
+text/html: <p>Cytogenetically normal acute myeloid leukemia (CN-AML) is one form of a cancer of the blood-forming tissue (bone marrow) called acute myeloid leukemia. In normal bone marrow, early blood cells called hematopoietic stem cells develop into several types of blood cells: white blood cells (leukocytes) that protect the body from infection, red blood cells (erythrocytes) that carry oxygen, and cell fragments called platelets (thrombocytes) that are involved in blood clotting. In acute myeloid leukemia, the bone marrow makes large numbers of abnormal, immature white blood cells called myeloid blasts. Instead of developing into normal white blood cells, the myeloid blasts develop into cancerous leukemia cells. The large number of abnormal cells in the bone marrow interferes with the production of functional white blood cells, red blood cells, and platelets.</p><p>People with CN-AML have a shortage of all types of mature blood cells: a shortage of white blood cells (leukopenia) leads to increased susceptibility to infections, a low number of red blood cells (anemia) causes fatigue and weakness, and a reduction in the amount of platelets (thrombocytopenia) can result in easy bruising and abnormal bleeding. Other symptoms of CN-AML may include fever and weight loss.</p><p>The age at which CN-AML begins ranges from childhood to late adulthood. CN-AML is said to be an intermediate-risk cancer because the prognosis varies: some affected individuals respond well to normal treatment while others may require stronger treatments. The age at which the condition begins and the prognosis are affected by the specific genetic factors involved in the condition.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: n
+inheritance-pattern(2)/memo: not inherited
+related-gene(1)/gene-symbol: CEBPA
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CEBPA
+related-gene(2)/gene-symbol: DNMT3A
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/DNMT3A
+related-gene(3)/gene-symbol: FLT3
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/FLT3
+related-gene(4)/gene-symbol: IDH1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/IDH1
+related-gene(5)/gene-symbol: IDH2
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/IDH2
+related-gene(6)/gene-symbol: KMT2A
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/KMT2A
+related-gene(7)/gene-symbol: NPM1
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/NPM1
+related-gene(8)/gene-symbol: NRAS
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/NRAS
+related-gene(9)/gene-symbol: RUNX1
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/RUNX1
+related-gene(10)/gene-symbol: WT1
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/WT1
+synonym(1): acute myelogenous leukemia with normal karyotype
+synonym(2): CN-AML
+synonym(3): NK-AML
+synonym(4): normal karyotype acute myeloid leukemia
+db-key(1)/db: GTR
+db-key(1)/key: C0023467
+db-key(2)/db: MeSH
+db-key(2)/key: D015470
+db-key(3)/db: Orphanet
+db-key(3)/key: 519
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 703387000
+reviewed: 2014-01
+published: 2018-04-17

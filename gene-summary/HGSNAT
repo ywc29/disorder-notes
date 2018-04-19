@@ -1,0 +1,21 @@
+gene-symbol: HGSNAT
+name: heparan-alpha-glucosaminide N-acetyltransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/HGSNAT
+text/text-role: function
+text/html: <p>The <i>HGSNAT</i> gene provides instructions for producing an enzyme called heparan-alpha-glucosaminide N-acetyltransferase (which is often shortened to N-acetyltransferase). This enzyme is located in lysosomes, compartments within cells that digest and recycle different types of molecules. N-acetyltransferase is involved in the step-wise breakdown (degradation) of large molecules called glycosaminoglycans (GAGs). GAGs are composed of sugar molecules that are linked together to form a long string. To break down these large molecules, individual sugars are removed one at a time from one end of the molecule. N-acetyltransferase adds a molecule called an acetyl group to the sugar glucosamine in a subset of GAGs called heparan sulfate. This addition prepares the GAG for the next step in the degradation process.</p>
+related-health-condition/name: mucopolysaccharidosis type III
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-iii
+synonym(1): acetyl coenzyme A:alpha-glucosaminide N-acetyltransferase
+synonym(2): DKFZp686G24175
+synonym(3): FLJ22242
+synonym(4): FLJ32731
+synonym(5): HGNAT
+synonym(6): HGNAT_HUMAN
+synonym(7): TMEM76
+synonym(8): transmembrane protein 76
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 138050
+db-key(2)/db: OMIM
+db-key(2)/key: 610453
+reviewed: 2010-08
+published: 2018-04-17

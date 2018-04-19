@@ -1,0 +1,24 @@
+name: Aromatase excess syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/aromatase-excess-syndrome
+text/text-role: description
+text/html: <p>Aromatase excess syndrome is a condition characterized by elevated levels of the female sex hormone estrogen in both males and females. Males with aromatase excess syndrome experience breast enlargement (gynecomastia) in late childhood or adolescence. The bones of affected males grow and develop more quickly and stop growing sooner than usual (advanced bone age). As a result males have an early growth spurt, typically during late childhood, with short stature as an adult. Affected females rarely show signs and symptoms of the condition, but they may have increased breast growth (macromastia), irregular menstrual periods, and short stature. The ability to have children (fertility) is usually normal in both males and females with aromatase excess syndrome.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: CYP19A1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CYP19A1
+synonym(1): AEXS
+synonym(2): familial gynecomastia due to increased aromatase activity
+synonym(3): hereditary gynecomastia
+synonym(4): increased aromatase activity
+db-key(1)/db: GTR
+db-key(1)/key: C1970109
+db-key(2)/db: MeSH
+db-key(2)/key: D012734
+db-key(3)/db: OMIM
+db-key(3)/key: 139300
+db-key(4)/db: Orphanet
+db-key(4)/key: 178345
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 709075008
+reviewed: 2014-04
+published: 2018-04-17

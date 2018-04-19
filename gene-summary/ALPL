@@ -1,0 +1,24 @@
+gene-symbol: ALPL
+name: alkaline phosphatase, liver/bone/kidney
+ghr-page: https://ghr.nlm.nih.gov/gene/ALPL
+text/text-role: function
+text/html: <p>The <i>ALPL</i> gene provides instructions for making an enzyme called tissue-nonspecific alkaline phosphatase (TNSALP). This enzyme plays an important role in the growth and development of bones and teeth. It is also active in many other tissues, particularly in the liver and kidneys. This enzyme acts as a phosphatase, which means that it removes clusters of oxygen and phosphorus atoms (phosphate groups) from other molecules.</p><p>TNSALP is essential for the process of mineralization, in which minerals such as calcium and phosphorus are deposited in developing bones and teeth. Mineralization is critical for the formation of bones that are strong and rigid and teeth that can withstand chewing and grinding.</p>
+related-health-condition/name: hypophosphatasia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hypophosphatasia
+synonym(1): alkaline phosphomonoesterase
+synonym(2): AP-TNAP
+synonym(3): glycerophosphatase
+synonym(4): HOPS
+synonym(5): MGC161443
+synonym(6): PPBT_HUMAN
+synonym(7): tissue non-specific alkaline phosphatase
+synonym(8): tissue-nonspecific ALP
+synonym(9): TNALP
+synonym(10): TNAP
+synonym(11): TNSALP
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 249
+db-key(2)/db: OMIM
+db-key(2)/key: 171760
+reviewed: 2018-03
+published: 2018-04-17

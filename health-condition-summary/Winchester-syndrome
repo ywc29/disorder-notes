@@ -1,0 +1,22 @@
+name: Winchester syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/winchester-syndrome
+text/text-role: description
+text/html: <p>Winchester syndrome is a rare inherited disease characterized by a loss of bone tissue (osteolysis), particularly in the hands and feet. Winchester syndrome used to be considered part of a related condition now called multicentric osteolysis, nodulosis, and arthropathy (MONA). However, because Winchester syndrome and MONA are caused by mutations in different genes, they are now thought to be separate disorders.</p><p>In most cases of Winchester syndrome, bone loss begins in the hands and feet, causing pain and limiting movement. Bone abnormalities later spread to other parts of the body, with joint problems (arthropathy) occurring in the elbows, shoulders, knees, hips, and spine. Most people with Winchester syndrome develop low bone mineral density (osteopenia) and thinning of the bones (osteoporosis) throughout the skeleton. These abnormalities make bones brittle and more prone to fracture. The bone abnormalities also lead to short stature.</p><p>Some people with Winchester syndrome have skin abnormalities including patches of dark, thick, and leathery skin. Other features of the condition can include clouding of the clear front covering of the eye (corneal opacity), excess hair growth (hypertrichosis), overgrowth of the gums, heart abnormalities, and distinctive facial features that are described as "coarse."</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: MMP14
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MMP14
+synonym(1): Winchester disease
+synonym(2): WNCHRS
+db-key(1)/db: GTR
+db-key(1)/key: C0432289
+db-key(2)/db: MeSH
+db-key(2)/key: D010014
+db-key(3)/db: OMIM
+db-key(3)/key: 277950
+db-key(4)/db: Orphanet
+db-key(4)/key: 3460
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 254151006
+reviewed: 2013-12
+published: 2018-04-17

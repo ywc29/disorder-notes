@@ -1,0 +1,17 @@
+gene-symbol: RPS26
+name: ribosomal protein S26
+ghr-page: https://ghr.nlm.nih.gov/gene/RPS26
+text/text-role: function
+text/html: <p>The <i>RPS26</i> gene provides instructions for making one of approximately 80 different ribosomal proteins, which are components of cellular structures called ribosomes. Ribosomes process the cell's genetic instructions to create proteins.</p><p>Each ribosome is made up of two parts (subunits) called the large and small subunits. The protein produced from the <i>RPS26</i> gene is among those found in the small subunit.</p><p>The specific functions of the RPS26 protein and the other ribosomal proteins within these subunits are unclear. Some ribosomal proteins are involved in the assembly or stability of ribosomes. Others help carry out the ribosome's main function of building new proteins. Studies suggest that some ribosomal proteins may have other functions, such as participating in chemical signaling pathways within the cell, regulating cell division, and controlling the self-destruction of cells (apoptosis).</p>
+related-health-condition/name: Diamond-Blackfan anemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/diamond-blackfan-anemia
+synonym(1): 40S ribosomal protein S26
+synonym(2): DBA10
+synonym(3): RS26_HUMAN
+synonym(4): S26
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6231
+db-key(2)/db: OMIM
+db-key(2)/key: 603701
+reviewed: 2012-02
+published: 2018-04-17

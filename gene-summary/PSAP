@@ -1,0 +1,26 @@
+gene-symbol: PSAP
+name: prosaposin
+ghr-page: https://ghr.nlm.nih.gov/gene/PSAP
+text/text-role: function
+text/html: <p>The <i>PSAP</i> gene provides instructions for making a protein called prosaposin. This protein is involved in a number of biological functions, including the development of the nervous system and the reproductive system. Prosaposin is the precursor of four smaller proteins called saposin A, B, C, and D, which are produced when prosaposin is broken up (cleaved).</p><p>The individual saposins are found in cellular structures called lysosomes, which are the cell's recycling centers. The saposins help lysosomal enzymes break down fatty substances called sphingolipids.</p><p>The saposin B protein works with several enzymes to break down sphingolipids. Its most critical biological role seems to be associated with the enzyme arylsulfatase A. This enzyme is involved in breaking down a subgroup of sphingolipids called sulfatides, especially in the nervous system's white matter, which consists of nerve fibers covered by myelin. Myelin is a substance that insulates and protects nerves. Saposin B may also play a role in transporting lipids to the outer surface of the cell so they can be recognized by the immune system.</p><p>The saposin C protein works with the enzyme beta-glucocerebrosidase to break down another sphingolipid called glucocerebroside. Saposins A and D are also involved in processing sphingolipids.</p>
+related-health-condition/name: metachromatic leukodystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/metachromatic-leukodystrophy
+synonym(1): Prosaposin (sphingolipid activator protein-1)
+synonym(2): prosaposin (variant Gaucher disease and variant metachromatic leukodystrophy)
+synonym(3): prosaptides
+synonym(4): SAP1
+synonym(5): SAP2 (sphingolipid activator protein-2)
+synonym(6): SAP_HUMAN
+synonym(7): SGP-1 (sulfoglycoprotein-1)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5660
+db-key(2)/db: OMIM
+db-key(2)/key: 176801
+db-key(3)/db: OMIM
+db-key(3)/key: 610539
+db-key(4)/db: OMIM
+db-key(4)/key: 611721
+db-key(5)/db: OMIM
+db-key(5)/key: 611722
+reviewed: 2013-02
+published: 2018-04-17

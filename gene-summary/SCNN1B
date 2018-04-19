@@ -1,0 +1,30 @@
+gene-symbol: SCNN1B
+name: sodium channel epithelial 1 beta subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/SCNN1B
+text/text-role: function
+text/html: <p>The <i>SCNN1B</i> gene provides instructions for making one piece, the beta subunit, of a protein complex called the epithelial sodium channel (ENaC). The channel is composed of alpha, beta, and gamma subunits, each of which is produced from a different gene. These channels are found at the surface of certain cells called epithelial cells in many tissues of the body, including the kidneys, lungs, colon, and sweat glands. The ENaC channel transports sodium into cells.</p><p>In the kidney, ENaC channels open in response to signals that sodium levels in the blood are too low, which allows sodium to flow into cells. From the kidney cells, this sodium is returned to the bloodstream (a process called reabsorption) rather than being removed from the body in urine. In addition to regulating the amount of sodium in the body, the flow of sodium ions helps control the movement of water in tissues. For example, ENaC channels in lung cells help regulate the amount of fluid in the lungs.</p>
+related-health-condition(1)/name: Liddle syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/liddle-syndrome
+related-health-condition(2)/name: pseudohypoaldosteronism type 1
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pseudohypoaldosteronism-type-1
+synonym(1): amiloride-sensitive sodium channel subunit beta
+synonym(2): BESC1
+synonym(3): beta-ENaC
+synonym(4): beta-NaCH
+synonym(5): ENaCb
+synonym(6): ENaCbeta
+synonym(7): epithelial Na(+) channel subunit beta
+synonym(8): nasal epithelial sodium channel beta subunit
+synonym(9): SCNEB
+synonym(10): SCNNB_HUMAN
+synonym(11): sodium channel, non voltage gated 1 beta subunit
+synonym(12): sodium channel, non-voltage-gated 1, beta subunit
+synonym(13): sodium channel, nonvoltage-gated 1, beta
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6338
+db-key(2)/db: OMIM
+db-key(2)/key: 211400
+db-key(3)/db: OMIM
+db-key(3)/key: 600760
+reviewed: 2013-03
+published: 2018-04-17

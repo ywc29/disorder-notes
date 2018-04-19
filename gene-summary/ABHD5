@@ -1,0 +1,21 @@
+gene-symbol: ABHD5
+name: abhydrolase domain containing 5
+ghr-page: https://ghr.nlm.nih.gov/gene/ABHD5
+text/text-role: function
+text/html: <p>The <i>ABHD5</i> gene provides instructions for making a protein that turns on (activates) an enzyme called adipose triglyceride lipase (ATGL).  The ATGL enzyme plays a role in breaking down fats called triglycerides, which are the main source of stored energy in cells.  Triglycerides are the major component of cell structures called lipid droplets (also called adiposomes).  The ABHD5 protein and the ATGL enzyme are found on the surface of lipid droplets.  Once activated, the ATGL enzyme breaks down triglycerides in these structures to provide energy for the body.</p>
+related-health-condition/name: Chanarin-Dorfman syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/chanarin-dorfman-syndrome
+synonym(1): ABHD5_HUMAN
+synonym(2): CDS
+synonym(3): CGI-58
+synonym(4): CGI58
+synonym(5): CGI58 protein
+synonym(6): IECN2
+synonym(7): MGC8731
+synonym(8): NCIE2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51099
+db-key(2)/db: OMIM
+db-key(2)/key: 604780
+reviewed: 2008-11
+published: 2018-04-17

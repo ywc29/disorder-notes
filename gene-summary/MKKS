@@ -1,0 +1,21 @@
+gene-symbol: MKKS
+name: McKusick-Kaufman syndrome
+ghr-page: https://ghr.nlm.nih.gov/gene/MKKS
+text/text-role: function
+text/html: <p>The <i>MKKS</i> gene provides instructions for making a protein that plays an important role in the formation of the limbs, heart, and reproductive system.   The structure of this protein suggests that it may act as a chaperonin, which is a protein that helps fold other proteins.  Proteins must be folded into the correct 3-dimensional shape to perform their usual functions in the body.   Abnormally folded proteins can also interfere with the functions of normal proteins.</p><p>Although the structure of the MKKS protein is similar to that of a chaperonin, some studies have suggested that protein folding may not be this protein's primary function.  Within cells, the MKKS protein is associated with structures called centrosomes.  Centrosomes play a role in cell division and the assembly of microtubules, which are proteins that transport materials in cells and help the cell maintain its shape.  Researchers speculate that the MKKS protein may be involved in transporting other proteins within the cell.</p>
+related-health-condition(1)/name: Bardet-Biedl syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/bardet-biedl-syndrome
+related-health-condition(2)/name: McKusick-Kaufman syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/mckusick-kaufman-syndrome
+synonym(1): Bardet-Biedl syndrome 6 protein
+synonym(2): BBS6
+synonym(3): HMCS
+synonym(4): KMS
+synonym(5): MKKS_HUMAN
+synonym(6): MKS
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8195
+db-key(2)/db: OMIM
+db-key(2)/key: 604896
+reviewed: 2010-05
+published: 2018-04-17

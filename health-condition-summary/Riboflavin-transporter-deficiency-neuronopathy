@@ -1,0 +1,31 @@
+name: Riboflavin transporter deficiency neuronopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/riboflavin-transporter-deficiency-neuronopathy
+text/text-role: description
+text/html: <p>Riboflavin transporter deficiency neuronopathy is a disorder that affects nerve cells (neurons). Affected individuals typically have hearing loss caused by nerve damage in the inner ear (sensorineural hearing loss) and signs of damage to other nerves.</p><p>In addition to nerves in the inner ear, riboflavin transporter deficiency neuronopathy involves nerves found in the part of the brain that is connected to the spinal cord (the brainstem), specifically in a region of the brainstem known as the pontobulbar region. Damage to these nerves causes paralysis of the muscles controlled by them, a condition called pontobulbar palsy. Nerves in the pontobulbar region help control several voluntary muscle activities, including breathing, speaking, and moving the limbs. As a result of pontobulbar palsy, people with riboflavin transporter deficiency neuronopathy can have breathing problems; slurred speech; and muscle weakness in the face, neck, shoulders, and limbs. Affected individuals can also have muscle stiffness (spasticity) and exaggerated reflexes.</p><p>The age at which riboflavin transporter deficiency neuronopathy begins varies from infancy to young adulthood. When the condition begins in infancy, the first symptom is often breathing problems caused by nerve damage, which can be life-threatening. When the condition begins in children or young adults, sensorineural hearing loss usually occurs first, followed by signs of pontobulbar palsy.</p><p>If not treated, the signs and symptoms of riboflavin transporter deficiency neuronopathy worsen over time. Severe breathing problems and respiratory infections are the usual cause of death in people with this condition. Without treatment, affected infants typically survive less than one year. However, those who develop the condition after age 4 often survive more than 10 years.</p><p>Riboflavin transporter deficiency neuronopathy encompasses two conditions that were once considered distinct disorders: Brown-Vialetto-Van Laere syndrome (BVVLS) and Fazio-Londe disease. The two conditions have similar signs and symptoms, but Fazio-Londe disease does not include sensorineural hearing loss. Because these two conditions share a genetic cause and have overlapping features, researchers determined that they are forms of a single disorder.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: SLC52A2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC52A2
+related-gene(2)/gene-symbol: SLC52A3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC52A3
+synonym(1): Brown-Vialetto-Van Laere syndrome
+synonym(2): BVVLS
+synonym(3): Fazio-Londe disease
+synonym(4): Fazio-Londe syndrome
+synonym(5): pontobulbar palsy with deafness
+synonym(6): progressive bulbar palsy with sensorineural deafness
+synonym(7): riboflavin transporter deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0796274
+db-key(2)/db: GeneReviews
+db-key(2)/key: riboflavin-tn
+db-key(3)/db: MeSH
+db-key(3)/key: D010244
+db-key(4)/db: OMIM
+db-key(4)/key: 211530
+db-key(5)/db: Orphanet
+db-key(5)/key: 97229
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 699866005
+reviewed: 2016-01
+published: 2018-04-17

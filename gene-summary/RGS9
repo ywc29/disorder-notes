@@ -1,0 +1,18 @@
+gene-symbol: RGS9
+name: regulator of G protein signaling 9
+ghr-page: https://ghr.nlm.nih.gov/gene/RGS9
+text/text-role: function
+text/html: <p>The <i>RGS9</i> gene provides instructions for making two versions (isoforms) of the RGS9 protein, known as RGS9-1 and RGS9-2. They are found in different parts of the nervous system and  have very different functions.</p><p>RGS9-1 is produced in the retina, which is the specialized tissue at the back of the eye that detects light and color. Within the retina, RGS9-1 is associated with light-detecting cells called photoreceptors. When light enters the eye, it stimulates specialized pigments in these cells. This stimulation triggers a series of chemical reactions that produce an electrical signal, which is interpreted by the brain as vision. (This process is known as phototransduction.) Once photoreceptors have been stimulated by light, they must return to their resting state before they can be stimulated again. RGS9-1 is involved in a chemical reaction that helps return photoreceptors to their resting state quickly after light exposure.</p><p>RGS9-2 is found primarily in an area deep within the brain called the striatum. Although its exact role is unknown, RGS9-2 appears to be part of signaling pathways involving a chemical messenger (neurotransmitter) called dopamine. These pathways are important for planning and coordinating movement. Studies suggest that RGS9-2 also plays a role in the brain's response to opioid drugs, such as morphine and cocaine.</p>
+related-health-condition/name: bradyopsia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/bradyopsia
+synonym(1): MGC111763
+synonym(2): MGC26458
+synonym(3): regulator of G-protein signaling 9
+synonym(4): regulator of G-protein signalling 9
+synonym(5): RGS9L
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8787
+db-key(2)/db: OMIM
+db-key(2)/key: 604067
+reviewed: 2014-11
+published: 2018-04-17

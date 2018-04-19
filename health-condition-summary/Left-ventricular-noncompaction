@@ -1,0 +1,87 @@
+name: Left ventricular noncompaction
+ghr-page: https://ghr.nlm.nih.gov/condition/left-ventricular-noncompaction
+text/text-role: description
+text/html: <p>Left ventricular noncompaction is a heart (cardiac) muscle disorder that occurs when the lower left chamber of the heart (left ventricle), which helps the heart pump blood, does not develop correctly. Instead of the muscle being smooth and firm, the cardiac muscle in the left ventricle is thick and appears spongy. The abnormal cardiac muscle is weak and has an impaired ability to pump blood because it either cannot completely contract or it cannot completely relax. For the heart to pump blood normally, cardiac muscle must contract and relax fully.</p><p>Some individuals with left ventricular noncompaction experience no symptoms at all; others have heart problems that can include sudden cardiac death. Additional signs and symptoms include abnormal blood clots, irregular heart rhythm (arrhythmia), a sensation of fluttering or pounding in the chest (palpitations), extreme fatigue during exercise (exercise intolerance), shortness of breath (dyspnea), fainting (syncope), swelling of the legs (lymphedema), and trouble laying down flat. Some affected individuals have features of other heart defects. Left ventricular noncompaction can be diagnosed at any age, from birth to late adulthood. Approximately two-thirds of individuals with left ventricular noncompaction develop heart failure.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xr
+inheritance-pattern(3)/memo: X-linked recessive
+related-gene(1)/gene-symbol: ACTC1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ACTC1
+related-gene(2)/gene-symbol: DTNA
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/DTNA
+related-gene(3)/gene-symbol: HCN4
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/HCN4
+related-gene(4)/gene-symbol: LDB3
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/LDB3
+related-gene(5)/gene-symbol: LMNA
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/LMNA
+related-gene(6)/gene-symbol: MIB1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/MIB1
+related-gene(7)/gene-symbol: MYBPC3
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/MYBPC3
+related-gene(8)/gene-symbol: MYH7
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/MYH7
+related-gene(9)/gene-symbol: PRDM16
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/PRDM16
+related-gene(10)/gene-symbol: SCN5A
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN5A
+related-gene(11)/gene-symbol: TAZ
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/TAZ
+related-gene(12)/gene-symbol: TNNT2
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/TNNT2
+related-gene(13)/gene-symbol: TPM1
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/TPM1
+synonym(1): fetal myocardium
+synonym(2): honeycomb myocardium
+synonym(3): hypertrabeculation syndrome
+synonym(4): isolated noncompaction of the ventricular myocardium
+synonym(5): left ventricular hypertrabeculation
+synonym(6): left ventricular myocardial noncompaction cardiomyopathy
+synonym(7): left ventricular non-compaction
+synonym(8): LVHT
+synonym(9): non-compaction of the left ventricular myocardium
+synonym(10): noncompaction cardiomyopathy
+synonym(11): spongy myocardium
+db-key(1)/db: GTR
+db-key(1)/key: C1832243
+db-key(2)/db: GTR
+db-key(2)/key: C1858725
+db-key(3)/db: GTR
+db-key(3)/key: C1960469
+db-key(4)/db: GTR
+db-key(4)/key: C3554496
+db-key(5)/db: GTR
+db-key(5)/key: C3715165
+db-key(6)/db: GTR
+db-key(6)/key: C3809288
+db-key(7)/db: MeSH
+db-key(7)/key: D056830
+db-key(8)/db: OMIM
+db-key(8)/key: 601493
+db-key(9)/db: OMIM
+db-key(9)/key: 601494
+db-key(10)/db: OMIM
+db-key(10)/key: 604169
+db-key(11)/db: OMIM
+db-key(11)/key: 609470
+db-key(12)/db: OMIM
+db-key(12)/key: 611878
+db-key(13)/db: OMIM
+db-key(13)/key: 613424
+db-key(14)/db: OMIM
+db-key(14)/key: 613426
+db-key(15)/db: OMIM
+db-key(15)/key: 615092
+db-key(16)/db: OMIM
+db-key(16)/key: 615373
+db-key(17)/db: OMIM
+db-key(17)/key: 615396
+db-key(18)/db: Orphanet
+db-key(18)/key: 54260
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 447935001
+reviewed: 2017-06
+published: 2018-04-17

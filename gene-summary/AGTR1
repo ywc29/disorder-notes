@@ -1,0 +1,31 @@
+gene-symbol: AGTR1
+name: angiotensin II receptor type 1
+ghr-page: https://ghr.nlm.nih.gov/gene/AGTR1
+text/text-role: function
+text/html: <p>The <i>AGTR1</i> gene provides instructions for making a protein called the angiotensin II receptor type 1 (AT1 receptor). This protein is part of the renin-angiotensin system, which regulates blood pressure and the balance of fluids and salts in the body. Through a series of steps, the renin-angiotensin system produces a molecule called angiotensin II, which attaches (binds) to the AT1 receptor, stimulating chemical signaling. This signaling causes blood vessels to narrow (constrict), which results in increased blood pressure. Binding of angiotensin II to the AT1 receptor also stimulates production of the hormone aldosterone, which triggers the absorption of water and salt by the kidneys. The increased amount of fluid in the body also increases blood pressure. Proper blood pressure during fetal growth, which delivers oxygen to the developing tissues, is required for normal development of the kidneys, particularly of structures called the proximal tubules, and other tissues. In addition, angiotensin II may play a more direct role in kidney development, perhaps by affecting growth factors involved in the development of kidney structures.</p>
+related-health-condition/name: renal tubular dysgenesis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/renal-tubular-dysgenesis
+synonym(1): AG2S
+synonym(2): AGTR1_HUMAN
+synonym(3): AGTR1A
+synonym(4): AGTR1B
+synonym(5): angiotensin II receptor, type 1
+synonym(6): AT1
+synonym(7): AT1AR
+synonym(8): AT1B
+synonym(9): AT1BR
+synonym(10): AT1R
+synonym(11): AT2R1
+synonym(12): AT2R1A
+synonym(13): AT2R1B
+synonym(14): HAT1R
+synonym(15): type-1 angiotensin II receptor
+synonym(16): type-1B angiotensin II receptor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 185
+db-key(2)/db: OMIM
+db-key(2)/key: 106165
+db-key(3)/db: OMIM
+db-key(3)/key: 145500
+reviewed: 2013-05
+published: 2018-04-17

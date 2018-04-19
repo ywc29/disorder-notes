@@ -1,0 +1,30 @@
+name: Ochoa syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/ochoa-syndrome
+text/text-role: description
+text/html: <p>Ochoa syndrome is a disorder characterized by urinary problems and unusual facial expressions.</p><p>The urinary problems associated with Ochoa syndrome typically become apparent in early childhood or adolescence. People with this disorder may have difficulty controlling the flow of urine (incontinence), which can lead to bedwetting. Individuals with Ochoa syndrome may be unable to completely empty the bladder, often resulting in vesicoureteral reflux, a condition in which urine backs up into the ducts that normally carry it from each kidney to the bladder (the ureters). Urine may also accumulate in the kidneys (hydronephrosis). Vesicoureteral reflux and hydronephrosis can lead to frequent infections of the urinary tract and kidney inflammation (pyelonephritis), causing damage that may eventually result in kidney failure.</p><p>Individuals with Ochoa syndrome also exhibit a characteristic frown-like facial grimace when they try to smile or laugh, often described as inversion of facial expression. While this feature may appear earlier than the urinary tract symptoms, perhaps as early as an infant begins to smile, it is often not brought to medical attention.</p><p>Approximately two-thirds of individuals with Ochoa syndrome also experience problems with bowel function, such as constipation, loss of bowel control, or muscle spasms of the anus.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: HPSE2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HPSE2
+synonym(1): hydronephrosis-inverted smile
+synonym(2): hydronephrosis with peculiar facial expression
+synonym(3): inverted smile and occult neuropathic bladder
+synonym(4): inverted smile-neurogenic bladder
+synonym(5): partial facial palsy with urinary abnormalities
+synonym(6): UFS
+synonym(7): urofacial Ochoa's syndrome
+synonym(8): urofacial syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0403555
+db-key(2)/db: GeneReviews
+db-key(2)/key: urofacial
+db-key(3)/db: MeSH
+db-key(3)/key: D000015
+db-key(4)/db: OMIM
+db-key(4)/key: 236730
+db-key(5)/db: Orphanet
+db-key(5)/key: 2704
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 236533008
+reviewed: 2012-03
+published: 2018-04-17

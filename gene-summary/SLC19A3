@@ -1,0 +1,23 @@
+gene-symbol: SLC19A3
+name: solute carrier family 19 member 3
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC19A3
+text/text-role: function
+text/html: <p>The <i>SLC19A3</i> gene provides instructions for making a protein called a thiamine transporter, which moves a vitamin called thiamine into cells. Thiamine, also known as  vitamin B1, is obtained from the diet. It is involved in many cellular processes, and is necessary for proper functioning of the nervous system. Molecules made from thiamine are important in the breakdown of sugars and protein building blocks (amino acids). Thiamine is also involved in the production of certain chemicals that relay signals in the nervous system (neurotransmitters).</p>
+related-health-condition(1)/name: biotin-thiamine-responsive basal ganglia disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/biotin-thiamine-responsive-basal-ganglia-disease
+related-health-condition(2)/name: Leigh syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+synonym(1): BBGD
+synonym(2): S19A3_HUMAN
+synonym(3): solute carrier family 19 (thiamine transporter), member 3
+synonym(4): solute carrier family 19, member 3
+synonym(5): thiamine transporter 2
+synonym(6): THMD2
+synonym(7): thTr-2
+synonym(8): THTR2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 80704
+db-key(2)/db: OMIM
+db-key(2)/key: 606152
+reviewed: 2014-01
+published: 2018-04-17

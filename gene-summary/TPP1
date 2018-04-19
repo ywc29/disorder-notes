@@ -1,0 +1,27 @@
+gene-symbol: TPP1
+name: tripeptidyl peptidase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TPP1
+text/text-role: function
+text/html: <p>The <i>TPP1</i> gene provides instructions for making an enzyme called tripeptidyl peptidase 1. This enzyme is produced as an inactive enzyme, called a proenzyme, which has an extra segment attached. This segment must be removed, followed by additional processing steps, for the enzyme to become active. The active tripeptidyl peptidase 1 enzyme is found in cell structures called lysosomes,  which digest and recycle different types of molecules. Tripeptidyl peptidase 1 acts as a peptidase, which means that it breaks down protein fragments, known as peptides, into their individual building blocks (amino acids). Specifically, tripeptidyl peptidase 1 cuts (cleaves) peptides into groups of three amino acids.</p>
+related-health-condition/name: CLN2 disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cln2-disease
+synonym(1): cell growth-inhibiting gene 1 protein
+synonym(2): CLN2
+synonym(3): GIG1
+synonym(4): growth-inhibiting protein 1
+synonym(5): LPIC
+synonym(6): lysosomal pepstatin insensitive protease
+synonym(7): TPP-1
+synonym(8): TPP1_HUMAN
+synonym(9): tripeptidyl aminopeptidase
+synonym(10): tripeptidyl-peptidase 1
+synonym(11): tripeptidyl-peptidase 1 preproprotein
+synonym(12): tripeptidyl peptidase I
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1200
+db-key(2)/db: OMIM
+db-key(2)/key: 607998
+db-key(3)/db: OMIM
+db-key(3)/key: 609270
+reviewed: 2016-11
+published: 2018-04-17

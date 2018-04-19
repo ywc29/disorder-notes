@@ -1,0 +1,51 @@
+gene-symbol: CEP290
+name: centrosomal protein 290
+ghr-page: https://ghr.nlm.nih.gov/gene/CEP290
+text/text-role: function
+text/html: <p>The <i>CEP290</i> gene provides instructions for making a protein that is present in many types of cells. Although this protein's function is not well understood, studies suggest that it plays an important role in cell structures called centrosomes and cilia. Centrosomes are involved in cell division and the assembly of microtubules, which are proteins that transport materials in cells and help the cell maintain its shape. Cilia are microscopic, finger-like projections that stick out from the surface of cells. Cilia are involved in cell movement and many different chemical signaling pathways. They are also necessary for the perception of sensory input (such as vision, hearing, and smell).</p>
+related-health-condition(1)/name: Bardet-Biedl syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/bardet-biedl-syndrome
+related-health-condition(2)/name: Joubert syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/joubert-syndrome
+related-health-condition(3)/name: Leber congenital amaurosis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/leber-congenital-amaurosis
+related-health-condition(4)/name: Meckel syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/meckel-syndrome
+related-health-condition(5)/name: Senior-Løken syndrome
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/senior-loken-syndrome
+synonym(1): 3H11Ag
+synonym(2): BBS14
+synonym(3): cancer/testis antigen 87
+synonym(4): CE290_HUMAN
+synonym(5): centrosomal protein 290kDa
+synonym(6): centrosomal protein of 290 kDa
+synonym(7): CT87
+synonym(8): CTCL tumor antigen se2-2
+synonym(9): FLJ13615
+synonym(10): FLJ21979
+synonym(11): JBTS5
+synonym(12): JBTS6
+synonym(13): KIAA0373
+synonym(14): LCA10
+synonym(15): MKS4
+synonym(16): monoclonal antibody 3H11 antigen
+synonym(17): nephrocytsin-6
+synonym(18): NPHP6
+synonym(19): POC3
+synonym(20): POC3 centriolar protein homolog
+synonym(21): prostate cancer antigen T21
+synonym(22): rd16
+synonym(23): SLSN6
+synonym(24): tumor antigen se2-2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 80184
+db-key(2)/db: OMIM
+db-key(2)/key: 610142
+db-key(3)/db: OMIM
+db-key(3)/key: 610188
+db-key(4)/db: OMIM
+db-key(4)/key: 610189
+db-key(5)/db: OMIM
+db-key(5)/key: 611134
+reviewed: 2010-08
+published: 2018-04-17

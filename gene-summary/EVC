@@ -1,0 +1,22 @@
+gene-symbol: EVC
+name: EvC ciliary complex subunit 1
+ghr-page: https://ghr.nlm.nih.gov/gene/EVC
+text/text-role: function
+text/html: <p>The <i>EVC</i> gene provides instructions for making a protein whose function is unclear. However, it appears to be important for normal growth and development, particularly the development of bones and teeth. The EVC protein is found in primary cilia, which are microscopic, finger-like projections that stick out from the surface of cells and are involved in signaling pathways that transmit information between cells. In particular, the EVC protein is thought to help regulate a signaling pathway known as Sonic Hedgehog, which plays roles in cell growth, cell specialization, and the normal shaping (patterning) of many parts of the body.</p><p><i>EVC</i> and another gene, <i>EVC2</i>, are located very close together on chromosome 4. Researchers believe that the two genes may have related functions and that their activity may be coordinated.</p>
+related-health-condition(1)/name: Ellis-van Creveld syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/ellis-van-creveld-syndrome
+related-health-condition(2)/name: Weyers acrofacial dysostosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/weyers-acrofacial-dysostosis
+synonym(1): DWF-1
+synonym(2): Ellis van Creveld protein
+synonym(3): Ellis van Creveld syndrome
+synonym(4): Ellis van Creveld syndrome protein
+synonym(5): EVC1
+synonym(6): EVC_HUMAN
+synonym(7): EVCL
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2121
+db-key(2)/db: OMIM
+db-key(2)/key: 604831
+reviewed: 2012-12
+published: 2018-04-17

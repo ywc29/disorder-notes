@@ -1,0 +1,21 @@
+name: 5q31.3 microdeletion syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/5q313-microdeletion-syndrome
+text/text-role: description
+text/html: <p>5q31.3 microdeletion syndrome is a condition characterized by severely delayed development of speech and motor skills, such as walking. Beginning in infancy, affected individuals also have weak muscle tone (hypotonia), feeding difficulties, and breathing problems. Breathing problems and difficulty swallowing (dysphagia) can be life-threatening.</p><p>5q31.3 microdeletion syndrome is also characterized by distinctive facial features. Such features include a narrow forehead, widely spaced eyes (hypertelorism), an open mouth with an upper lip that points outward (called a tented lip), a high arch in the roof of the mouth (high-arched palate), a small lower jaw (micrognathia), and a lack of facial expression. Some of these features, such as an open mouth with a tented lip and an expressionless face, are thought to be due to hypotonia.</p><p>Recurrent seizures (epilepsy) and seizure-like episodes (which can include muscle jerking, twitching, and stiffening), are common in 5q31.3 microdeletion syndrome. Many individuals with 5q31.3 microdeletion syndrome have brain abnormalities, several of which are caused by reduced production of myelin or delayed maturation of myelin. Myelin is the protective covering that insulates nerves and ensures the rapid transmission of nerve impulses.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: NRG2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/NRG2
+related-gene(2)/gene-symbol: PURA
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PURA
+related-chromosome/name: 5
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/5
+synonym: severe neonatal hypotonia-seizures-encephalopathy syndrome due to 5q31.3 microdeletion
+db-key(1)/db: GeneReviews
+db-key(1)/key: pura-dis
+db-key(2)/db: MeSH
+db-key(2)/key: D065886
+db-key(3)/db: Orphanet
+db-key(3)/key: 314655
+reviewed: 2017-08
+published: 2018-04-17

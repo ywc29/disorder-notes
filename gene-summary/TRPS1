@@ -1,0 +1,19 @@
+gene-symbol: TRPS1
+name: transcriptional repressor GATA binding 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TRPS1
+text/text-role: function
+text/html: <p>The <i>TRPS1</i> gene provides instructions for making a protein that regulates the activity of many other genes. The TRPS1 protein is found within the cell nucleus where it interacts with specific regions of DNA to turn off (repress) gene activity. Based on this role, the TRPS1 protein is called a transcription factor. Research suggests that the TRPS1 protein plays a role in regulating genes that control the growth of bone and cartilage, a tough but flexible tissue that makes up much of the skeleton during early development.</p>
+related-health-condition(1)/name: trichorhinophalangeal syndrome type I
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/trichorhinophalangeal-syndrome-type-i
+related-health-condition(2)/name: trichorhinophalangeal syndrome type II
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/trichorhinophalangeal-syndrome-type-ii
+synonym(1): GC79
+synonym(2): LGCR
+synonym(3): TRPS1_HUMAN
+synonym(4): zinc finger transcription factor TRPS1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7227
+db-key(2)/db: OMIM
+db-key(2)/key: 604386
+reviewed: 2017-06
+published: 2018-04-17

@@ -1,0 +1,37 @@
+name: Craniometaphyseal dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/craniometaphyseal-dysplasia
+text/text-role: description
+text/html: <p>Craniometaphyseal dysplasia is a rare condition characterized by progressive thickening of bones in the skull (cranium) and abnormalities at the ends of long bones in the limbs (metaphyseal dysplasia). Except in the most severe cases, the lifespan of people with craniometaphyseal dysplasia is normal.</p><p>Bone overgrowth in the head causes many of the signs and symptoms of craniometaphyseal dysplasia.  Affected individuals typically have distinctive facial features such as a wide nasal bridge, a prominent forehead, wide-set eyes (hypertelorism), and a prominent jaw. Excessive new bone formation (hyperostosis) in the jaw can delay teething (dentition) or result in absent (non-erupting) teeth. Infants with this condition may have breathing or feeding problems caused by narrow nasal passages. In severe cases, abnormal bone growth can compress the nerves that emerge from the brain and extend to various areas of the head and neck (cranial nerves). Compression of the cranial nerves can lead to paralyzed facial muscles (facial nerve palsy), blindness, or deafness.</p><p>The x-rays of individuals with craniometaphyseal dysplasia show unusually shaped long bones, particularly the large bones in the legs. The ends of these bones (metaphyses) are wider and appear less dense in people with this condition.</p><p>There are two types of craniometaphyseal dysplasia, which are distinguished by their pattern of inheritance. They are known as the autosomal dominant and autosomal recessive types. Autosomal recessive craniometaphyseal dysplasia is typically more severe than the autosomal dominant form.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: ANKH
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ANKH
+synonym(1): Autosomal dominant craniometaphyseal dysplasia
+synonym(2): Autosomal recessive craniometaphyseal dysplasia
+synonym(3): CMD
+synonym(4): CMDD
+synonym(5): CMDJ
+synonym(6): CMDR
+synonym(7): Craniometaphyseal dysplasia, Jackson type
+db-key(1)/db: GTR
+db-key(1)/key: C1852502
+db-key(2)/db: GTR
+db-key(2)/key: C2931244
+db-key(3)/db: GeneReviews
+db-key(3)/key: cranio-md
+db-key(4)/db: MeSH
+db-key(4)/key: D009139
+db-key(5)/db: OMIM
+db-key(5)/key: 123000
+db-key(6)/db: Orphanet
+db-key(6)/key: 1522
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 254134004
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 254135003
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 36601008
+reviewed: 2009-02
+published: 2018-04-17

@@ -1,0 +1,27 @@
+name: Dentatorubral-pallidoluysian atrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/dentatorubral-pallidoluysian-atrophy
+text/text-role: description
+text/html: <p>Dentatorubral-pallidoluysian atrophy, commonly known as DRPLA, is a progressive brain disorder that causes involuntary movements, mental and emotional problems, and a decline in thinking ability.  The average age of onset of DRPLA is 30 years, but this condition can appear anytime from infancy to mid-adulthood.</p><p>The signs and symptoms of DRPLA differ somewhat between affected children and adults.  When DRPLA appears before age 20, it most often involves episodes of involuntary muscle jerking or twitching (myoclonus), seizures, behavioral changes, intellectual disability, and problems with balance and coordination (ataxia).  When DRPLA begins after age 20, the most frequent signs and symptoms are ataxia, uncontrollable movements of the limbs (choreoathetosis), psychiatric symptoms such as delusions, and deterioration of intellectual function (dementia).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: ATN1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ATN1
+synonym(1): DRPLA
+synonym(2): Haw River syndrome
+synonym(3): Myoclonic epilepsy with choreoathetosis
+synonym(4): Naito-Oyanagi disease
+synonym(5): NOD
+db-key(1)/db: GTR
+db-key(1)/key: C0751781
+db-key(2)/db: GeneReviews
+db-key(2)/key: drpla
+db-key(3)/db: MeSH
+db-key(3)/key: D020191
+db-key(4)/db: OMIM
+db-key(4)/key: 125370
+db-key(5)/db: Orphanet
+db-key(5)/key: 101
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 68116008
+reviewed: 2008-11
+published: 2018-04-17

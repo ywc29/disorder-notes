@@ -1,0 +1,29 @@
+name: Ankyloblepharon-ectodermal defects-cleft lip/palate syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/ankyloblepharon-ectodermal-defects-cleft-lip-palate-syndrome
+text/text-role: description
+text/html: <p>Ankyloblepharon-ectodermal defects-cleft lip/palate (AEC) syndrome is a form of ectodermal dysplasia, a group of about 150 conditions characterized by abnormal development of ectodermal tissues including the skin, hair, nails, teeth, and sweat glands.</p><p>Among the most common features of AEC syndrome are missing patches of skin (erosions). In affected infants, skin erosions most commonly occur on the scalp. They tend to recur throughout childhood and into adulthood, frequently affecting the scalp, neck, hands, and feet. The skin erosions range from mild to severe and can lead to infection, scarring, and hair loss. Other ectodermal abnormalities in AEC syndrome include changes in skin coloring; brittle, sparse, or missing hair; misshapen or absent fingernails and toenails; and malformed or missing teeth. Affected individuals also report increased sensitivity to heat and a reduced ability to sweat.</p><p>Many infants with AEC syndrome are born with an eyelid condition known as ankyloblepharon filiforme adnatum, in which strands of tissue partially or completely fuse the upper and lower eyelids. Most people with AEC syndrome are also born with an opening in the roof of the mouth (a cleft palate), a split in the lip (a cleft lip), or both. Cleft lip or cleft palate can make it difficult for affected infants to suck, so these infants often have trouble feeding and do not grow and gain weight at the expected rate (failure to thrive).</p><p>Additional features of AEC syndrome can include limb abnormalities, most commonly fused fingers and toes (syndactyly). Less often, affected individuals have permanently bent fingers and toes (camptodactyly) or a deep split in the hands or feet with missing fingers or toes and fusion of the remaining digits (ectrodactyly). Hearing loss is common, occurring in more than 90 percent of children with AEC syndrome. Some affected individuals have distinctive facial features, such as small jaws that cannot open fully and a narrow space between the upper lip and nose (philtrum). Other signs and symptoms can include the opening of the urethra on the underside of the penis (hypospadias) in affected males, digestive problems, absent tear duct openings in the eyes, and chronic sinus or ear infections.</p><p>A condition known as Rapp-Hodgkin syndrome has signs and symptoms that overlap considerably with those of AEC syndrome. These two syndromes were classified as separate disorders until it was discovered that they both result from mutations in the same part of the same gene. Most researchers now consider Rapp-Hodgkin syndrome and AEC syndrome to be part of the same disease spectrum.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: TP63
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TP63
+synonym(1): AEC syndrome
+synonym(2): ankyloblepharon-ectodermal defects-cleft lip and palate syndrome
+synonym(3): Hay-Wells syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0406709
+db-key(2)/db: GTR
+db-key(2)/key: C1785148
+db-key(3)/db: GeneReviews
+db-key(3)/key: aec
+db-key(4)/db: MeSH
+db-key(4)/key: D004476
+db-key(5)/db: OMIM
+db-key(5)/key: 106260
+db-key(6)/db: OMIM
+db-key(6)/key: 129400
+db-key(7)/db: Orphanet
+db-key(7)/key: 1071
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 55821006
+reviewed: 2011-06
+published: 2018-04-17

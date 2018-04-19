@@ -1,0 +1,59 @@
+name: Intervertebral disc disease
+ghr-page: https://ghr.nlm.nih.gov/condition/intervertebral-disc-disease
+text/text-role: description
+text/html: <p>Intervertebral disc disease is a common condition characterized by the breakdown (degeneration) of one or more of the discs that separate the bones of the spine (vertebrae), causing pain in the back or neck and frequently in the legs and arms. The intervertebral discs provide cushioning between vertebrae and absorb pressure put on the spine.</p><p>While the discs in the lower (lumbar) region of the spine are most often affected in intervertebral disc disease, any part of the spine can have disc degeneration. Depending on the location of the affected disc or discs, intervertebral disc disease can cause periodic or chronic pain in the back or neck. Pain is often worse when sitting, bending, twisting, or lifting objects.</p><p>Degenerated discs are prone to out-pouching (herniation); the protruding disc can press against one of the spinal nerves that run from the spinal cord to the rest of the body. This pressure causes pain, weakness, and numbness in the back and legs. Herniated discs often cause nerve pain called sciatica that travels along the sciatic nerve, which runs from the lower back down the length of each leg.</p><p>As a disc degenerates, small bony outgrowths (bone spurs) may form at the edges of the affected vertebrae. These bone spurs may pinch (compress) the spinal nerves, leading to weakness or numbness in the arms or legs. If the bone spurs compress the spinal cord, affected individuals can develop problems with walking and bladder and bowel control. Over time, a degenerating disc may break down completely and leave no space between vertebrae, which can result in impaired movement, pain, and nerve damage.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: ACAN
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ACAN
+related-gene(2)/gene-symbol: ASPN
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ASPN
+related-gene(3)/gene-symbol: CILP
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CILP
+related-gene(4)/gene-symbol: COL1A1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/COL1A1
+related-gene(5)/gene-symbol: COL9A2
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/COL9A2
+related-gene(6)/gene-symbol: COL9A3
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/COL9A3
+related-gene(7)/gene-symbol: COL11A1
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/COL11A1
+related-gene(8)/gene-symbol: IGF1R
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/IGF1R
+related-gene(9)/gene-symbol: IL1A
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/IL1A
+related-gene(10)/gene-symbol: MMP2
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/MMP2
+related-gene(11)/gene-symbol: MMP9
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/MMP9
+related-gene(12)/gene-symbol: THBS2
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/THBS2
+related-gene(13)/gene-symbol: VDR
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/VDR
+synonym(1): discogenic disease
+synonym(2): discogenic disorder
+synonym(3): disorder of intervertebral disc
+synonym(4): IDD
+synonym(5): intervertebral disc degeneration
+synonym(6): intervertebral disc disorder
+synonym(7): intervertebral disk degeneration
+db-key(1)/db: GTR
+db-key(1)/key: C0158252
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: M50.3
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: M50.9
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: M51
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: M51.3
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: M51.8
+db-key(7)/db: MeSH
+db-key(7)/key: D055959
+db-key(8)/db: OMIM
+db-key(8)/key: 603932
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 77547008
+reviewed: 2016-10
+published: 2018-04-17

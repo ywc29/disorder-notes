@@ -1,0 +1,27 @@
+name: Neuroferritinopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/neuroferritinopathy
+text/text-role: description
+text/html: <p>Neuroferritinopathy is a disorder in which iron gradually accumulates in the brain. Certain brain regions that help control movement (basal ganglia) are particularly affected. People with neuroferritinopathy have progressive problems with movement that begin at about age 40. These movement problems can include involuntary jerking motions (chorea), rhythmic shaking (tremor), difficulty coordinating movements (ataxia), or uncontrolled tensing of muscles (dystonia). Symptoms of the disorder may be more apparent on one side of the body than on the other. Affected individuals may also have difficulty swallowing (dysphagia) and speaking (dysarthria).</p><p>Intelligence is unaffected in most people with neuroferritinopathy, but some individuals develop a gradual decline in thinking and reasoning abilities (dementia). Personality changes such as reduced inhibitions and difficulty controlling emotions may also occur as the disorder progresses.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FTL
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FTL
+synonym(1): basal ganglia disease, adult-onset
+synonym(2): ferritin-related neurodegeneration
+synonym(3): hereditary ferritinopathy
+synonym(4): NBIA3
+synonym(5): neurodegeneration with brain iron accumulation 3
+db-key(1)/db: GTR
+db-key(1)/key: C1853578
+db-key(2)/db: GeneReviews
+db-key(2)/key: neuroferritin
+db-key(3)/db: MeSH
+db-key(3)/key: D001796
+db-key(4)/db: OMIM
+db-key(4)/key: 606159
+db-key(5)/db: Orphanet
+db-key(5)/key: 385
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 699299001
+reviewed: 2014-08
+published: 2018-04-17

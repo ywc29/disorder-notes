@@ -1,0 +1,25 @@
+gene-symbol: ACTG2
+name: actin, gamma 2, smooth muscle, enteric
+ghr-page: https://ghr.nlm.nih.gov/gene/ACTG2
+text/text-role: function
+text/html: <p>The <i>ACTG2</i> gene provides instructions for making a protein called gamma (γ)-2 actin, which is part of the actin protein family. Actin proteins are organized into filaments, which are important for the tensing of muscle fibers (muscle contraction) and cell movement. These filaments also help maintain the cytoskeleton, which is the structural framework that determines cell shape and organizes cell contents.</p><p>The γ-2 actin protein is found in smooth muscle cells of the urinary and intestinal tracts. Smooth muscles line the internal organs; they contract and relax without being consciously controlled. The γ-2 actin protein is necessary for contraction of the smooth muscles in the bladder and intestines. These contractions empty urine from the bladder and move food through the intestines as part of the digestive process.</p>
+related-health-condition(1)/name: intestinal pseudo-obstruction
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/intestinal-pseudo-obstruction
+related-health-condition(2)/name: megacystis-microcolon-intestinal hypoperistalsis syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/megacystis-microcolon-intestinal-hypoperistalsis-syndrome
+synonym(1): ACT
+synonym(2): ACTA3
+synonym(3): ACTE
+synonym(4): actin-like protein
+synonym(5): actin, gamma-enteric smooth muscle isoform 1 precursor
+synonym(6): actin, gamma-enteric smooth muscle isoform 2 precursor
+synonym(7): ACTL3
+synonym(8): ACTSG
+synonym(9): alpha-actin-3
+synonym(10): VSCM
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 72
+db-key(2)/db: OMIM
+db-key(2)/key: 102545
+reviewed: 2017-12
+published: 2018-04-17

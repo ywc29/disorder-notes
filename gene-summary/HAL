@@ -1,0 +1,17 @@
+gene-symbol: HAL
+name: histidine ammonia-lyase
+ghr-page: https://ghr.nlm.nih.gov/gene/HAL
+text/text-role: function
+text/html: <p>The <i>HAL</i> gene provides instructions for making an enzyme called histidase.  Histidase breaks down the amino acid histidine, a building block of most proteins.   Histidase is active (expressed) primarily in the liver and the skin.  This enzyme breaks down histidine to a molecule called urocanic acid.  In the liver, urocanic acid is broken down to form another amino acid called glutamic acid. In the skin, urocanic acid is involved in the response to ultraviolet (UV) light.</p>
+related-health-condition/name: histidinemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/histidinemia
+synonym(1): HIS
+synonym(2): histidase
+synonym(3): HSTD
+synonym(4): HUTH_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3034
+db-key(2)/db: OMIM
+db-key(2)/key: 609457
+reviewed: 2009-08
+published: 2018-04-17

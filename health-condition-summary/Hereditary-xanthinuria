@@ -1,0 +1,41 @@
+name: Hereditary xanthinuria
+ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-xanthinuria
+text/text-role: description
+text/html: <p>Hereditary xanthinuria is a condition that most often affects the kidneys. It is characterized by high levels of a compound called xanthine and very low levels of another compound called uric acid in the blood and urine. The excess xanthine can accumulate in the kidneys and other tissues. In the kidneys, xanthine forms tiny crystals that occasionally build up to create kidney stones. These stones can impair kidney function and ultimately cause kidney failure. Related signs and symptoms can include abdominal pain, recurrent urinary tract infections, and blood in the urine (hematuria). Less commonly, xanthine crystals build up in the muscles, causing pain and cramping. In some people with hereditary xanthinuria, the condition does not cause any health problems.</p><p>Researchers have described two major forms of hereditary xanthinuria, types I and II. The types are distinguished by the enzymes involved; they have the same signs and symptoms.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: MOCOS
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/MOCOS
+related-gene(2)/gene-symbol: XDH
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/XDH
+synonym(1): combined deficiency of xanthine dehydrogenase and aldehyde oxidase
+synonym(2): xanthine dehydrogenase deficiency
+synonym(3): xanthine oxidase deficiency
+synonym(4): xanthinuria
+synonym(5): XDH deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0268118
+db-key(2)/db: GTR
+db-key(2)/key: C1863688
+db-key(3)/db: MeSH
+db-key(3)/key: D008661
+db-key(4)/db: OMIM
+db-key(4)/key: 278300
+db-key(5)/db: OMIM
+db-key(5)/key: 603592
+db-key(6)/db: Orphanet
+db-key(6)/key: 3467
+db-key(7)/db: Orphanet
+db-key(7)/key: 93601
+db-key(8)/db: Orphanet
+db-key(8)/key: 93602
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 124147007
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 29692004
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 54627004
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 72682008
+reviewed: 2015-12
+published: 2018-04-17

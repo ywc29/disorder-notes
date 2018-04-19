@@ -1,0 +1,33 @@
+name: Primary localized cutaneous amyloidosis
+ghr-page: https://ghr.nlm.nih.gov/condition/primary-localized-cutaneous-amyloidosis
+text/text-role: description
+text/html: <p>Primary localized cutaneous amyloidosis (PLCA) is a condition in which clumps of abnormal proteins called amyloids build up in the skin, specifically in the wave-like projections (dermal papillae) between the top two layers of skin (the dermis and the epidermis). The primary feature of PLCA is patches of skin with abnormal texture or color. The appearance of these patches defines three forms of the condition: lichen amyloidosis, macular amyloidosis, and nodular amyloidosis.</p><p>Lichen amyloidosis is characterized by severely itchy patches of thickened skin with multiple small bumps. The patches are scaly and reddish brown in color. These patches usually occur on the shins but can also occur on the forearms, other parts of the legs, and elsewhere on the body.</p><p>In macular amyloidosis, the patches are flat and dark brown. The coloring can have a lacy (reticulated) or rippled appearance, although it is often uniform. Macular amyloidosis patches are most commonly found on the upper back, but they can also occur on other parts of the torso or on the limbs. These patches are mildly itchy.</p><p>Nodular amyloidosis is characterized by firm, raised bumps (nodules) that are pink, red, or brown. These nodules often occur on the face, torso, limbs, or genitals and are typically not itchy.</p><p>In some affected individuals, the patches have characteristics of both lichen and macular amyloidosis. These cases are called biphasic amyloidosis.</p><p>In all forms of PLCA, the abnormal patches of skin usually arise in mid-adulthood. They can remain for months to years and may recur after disappearing, either at the same location or elsewhere. Very rarely, nodular amyloidosis progresses to a life-threatening condition called systemic amyloidosis, in which amyloid deposits accumulate in tissues and organs throughout the body.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: n
+inheritance-pattern(3)/memo: not inherited
+related-gene(1)/gene-symbol: IL31RA
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/IL31RA
+related-gene(2)/gene-symbol: OSMR
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/OSMR
+synonym(1): amyloidosis IX
+synonym(2): PLCA
+synonym(3): primary cutaneous amyloidosis
+db-key(1)/db: GTR
+db-key(1)/key: C0268398
+db-key(2)/db: GTR
+db-key(2)/key: C3151404
+db-key(3)/db: MeSH
+db-key(3)/key: D000686
+db-key(4)/db: OMIM
+db-key(4)/key: 105250
+db-key(5)/db: OMIM
+db-key(5)/key: 613955
+db-key(6)/db: Orphanet
+db-key(6)/key: 353220
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 282834007
+reviewed: 2017-03
+published: 2018-04-17

@@ -1,0 +1,30 @@
+name: 15
+ghr-page: https://ghr.nlm.nih.gov/chromosome/15
+text/text-role: description
+text/html: <p>Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 15, one copy inherited from each parent, form one of the pairs.  Chromosome 15 spans more than 102 million DNA building blocks (base pairs) and represents more than 3 percent of the total DNA in cells.</p><p>Identifying genes on each chromosome is an active area of genetic research.  Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 15 likely contains 600 to 700 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.</p>
+related-health-condition(1)/name: 15q13.3 microdeletion
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/15q133-microdeletion
+related-health-condition(2)/name: 15q24 microdeletion
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/15q24-microdeletion
+related-health-condition(3)/name: acute promyelocytic leukemia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/acute-promyelocytic-leukemia
+related-health-condition(4)/name: Angelman syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/angelman-syndrome
+related-health-condition(5)/name: isodicentric chromosome 15 syndrome
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/isodicentric-chromosome-15-syndrome
+related-health-condition(6)/name: Prader-Willi syndrome
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/prader-willi-syndrome
+related-health-condition(7)/name: sensorineural deafness and male infertility
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/sensorineural-deafness-and-male-infertility
+db-key(1)/db: GeneReviews
+db-key(1)/key: angelman
+db-key(2)/db: GeneReviews
+db-key(2)/key: dup15q
+db-key(3)/db: GeneReviews
+db-key(3)/key: mdel15q13_3
+db-key(4)/db: GeneReviews
+db-key(4)/key: mdel15q24
+db-key(5)/db: GeneReviews
+db-key(5)/key: pws
+reviewed: 2012-09
+published: 2018-04-17

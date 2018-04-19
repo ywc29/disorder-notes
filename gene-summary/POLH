@@ -1,0 +1,24 @@
+gene-symbol: POLH
+name: DNA polymerase eta
+ghr-page: https://ghr.nlm.nih.gov/gene/POLH
+text/text-role: function
+text/html: <p>The <i>POLH</i> gene provides instructions for making a protein called DNA polymerase eta. DNA polymerases are a group of enzymes that "read" sequences of DNA and use them as templates to produce new DNA. These enzymes are important for copying (replicating) cells' genetic material in preparation for cell division. DNA polymerases also play critical roles in DNA repair.</p><p>The major function of DNA polymerase eta is to replicate DNA that has been damaged, particularly by ultraviolet (UV) rays from sunlight. Most other DNA polymerases are unable to replicate DNA with this type of damage. When they reach a segment of damaged DNA, they get stuck and the replication process stalls. However, when DNA polymerase eta encounters damaged DNA, it skips over the abnormal segment and continues copying. This activity, which is known as translesion synthesis, allows cells to tolerate some abnormalities created by UV exposure. Without this tolerance, unrepaired DNA damage would block DNA replication and cause the cell to die. Therefore, DNA polymerase eta plays an essential role in protecting cells from some of the effects of DNA damage.</p><p>DNA polymerase eta is a relatively "error-prone" polymerase. When it bypasses damaged DNA, it often inserts an incorrect DNA building block (nucleotide).  This type of error results in a mutation in the replicated DNA.</p>
+related-health-condition/name: xeroderma pigmentosum
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/xeroderma-pigmentosum
+synonym(1): FLJ16395
+synonym(2): FLJ21978
+synonym(3): POLH_HUMAN
+synonym(4): polymerase (DNA directed), eta
+synonym(5): polymerase (DNA) eta
+synonym(6): RAD30
+synonym(7): RAD30 homolog A
+synonym(8): RAD30A
+synonym(9): xeroderma pigmentosum variant type protein
+synonym(10): XP-V
+synonym(11): XPV
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5429
+db-key(2)/db: OMIM
+db-key(2)/key: 603968
+reviewed: 2010-05
+published: 2018-04-17

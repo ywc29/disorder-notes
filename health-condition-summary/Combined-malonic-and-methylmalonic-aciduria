@@ -1,0 +1,21 @@
+name: Combined malonic and methylmalonic aciduria
+ghr-page: https://ghr.nlm.nih.gov/condition/combined-malonic-and-methylmalonic-aciduria
+text/text-role: description
+text/html: <p>Combined malonic and methylmalonic aciduria (CMAMMA) is a condition characterized by high levels of certain chemicals, known as malonic acid and methylmalonic acid, in the body. A distinguishing feature of this condition is higher levels of methylmalonic acid than malonic acid in the urine, although both are elevated.</p><p>The signs and symptoms of CMAMMA can begin in childhood. In some children, the buildup of acids causes the blood to become too acidic (ketoacidosis), which can damage the body's tissues and organs. Other signs and symptoms may include involuntary muscle tensing (dystonia), weak muscle tone (hypotonia), developmental delay, an inability to grow and gain weight at the expected rate (failure to thrive), low blood sugar (hypoglycemia), and coma. Some affected children have an unusually small head size (microcephaly).</p><p>Other people with CMAMMA do not develop signs and symptoms until adulthood. These individuals usually have neurological problems, such as seizures, loss of memory, a decline in thinking ability, or psychiatric diseases.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ACSF3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ACSF3
+synonym: CMAMMA
+db-key(1)/db: GTR
+db-key(1)/key: C3280314
+db-key(2)/db: MeSH
+db-key(2)/key: D008661
+db-key(3)/db: OMIM
+db-key(3)/key: 614265
+db-key(4)/db: Orphanet
+db-key(4)/key: 289504
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 702365002
+reviewed: 2013-01
+published: 2018-04-17

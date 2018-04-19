@@ -1,0 +1,29 @@
+name: Björnstad syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/bjornstad-syndrome
+text/text-role: description
+text/html: <p>Björnstad syndrome is a rare disorder characterized by abnormal hair and hearing problems. Affected individuals have a condition known as pili torti, which means "twisted hair," so named because the strands appear twisted when viewed under a microscope. The hair is brittle and breaks easily, leading to short hair that grows slowly. In Björnstad  syndrome, pili torti usually affects only the hair on the head; eyebrows, eyelashes, and hair on other parts of the body are normal. The proportion of hairs affected and the severity of brittleness and breakage can vary. This hair abnormality commonly begins before the age of 2. It may become milder with age, particularly after puberty.</p><p>People with Björnstad  syndrome also have hearing problems that become evident in early childhood. The hearing loss, which is caused by changes in the inner ear (sensorineural deafness), can range from mild to severe. Mildly affected individuals may be unable to hear sounds at certain frequencies, while severely affected individuals may not be able to hear at all.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: BCS1L
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/BCS1L
+synonym(1): Bjornstad syndrome
+synonym(2): BJS
+synonym(3): deafness and pili torti, Bjornstad type
+synonym(4): pili torti and nerve deafness
+synonym(5): pili torti-deafness syndrome
+synonym(6): pili torti-sensorineural hearing loss
+synonym(7): PTD
+db-key(1)/db: GTR
+db-key(1)/key: C0266006
+db-key(2)/db: MeSH
+db-key(2)/key: D028361
+db-key(3)/db: OMIM
+db-key(3)/key: 262000
+db-key(4)/db: Orphanet
+db-key(4)/key: 123
+db-key(5)/db: Orphanet
+db-key(5)/key: 2889
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 67817003
+reviewed: 2014-03
+published: 2018-04-17

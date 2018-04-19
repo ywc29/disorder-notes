@@ -1,0 +1,20 @@
+gene-symbol: CTLA4
+name: cytotoxic T-lymphocyte associated protein 4
+ghr-page: https://ghr.nlm.nih.gov/gene/CTLA4
+related-health-condition(1)/name: autoimmune Addison disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autoimmune-addison-disease
+related-health-condition(2)/name: breast cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
+related-health-condition(3)/name: Graves disease
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/graves-disease
+related-health-condition(4)/name: Hashimoto thyroiditis
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/hashimoto-thyroiditis
+related-health-condition(5)/name: rheumatoid arthritis
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/rheumatoid-arthritis
+related-health-condition(6)/name: systemic lupus erythematosus
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/systemic-lupus-erythematosus
+related-health-condition(7)/name: type 1 diabetes
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/type-1-diabetes
+db-key/db: NCBI Gene
+db-key/key: 1493
+published: 2018-04-17

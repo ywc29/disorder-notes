@@ -1,0 +1,25 @@
+name: Hereditary fibrosing poikiloderma with tendon contractures, myopathy, and pulmonary fibrosis
+ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-fibrosing-poikiloderma-with-tendon-contractures-myopathy-and-pulmonary-fibrosis
+text/text-role: description
+text/html: <p>Hereditary fibrosing poikiloderma with tendon contractures, myopathy, and pulmonary fibrosis (abbreviated POIKTMP), is a disorder that affects many parts of the body, particularly the skin, muscles, lungs, and pancreas. Signs and symptoms vary among affected individuals.</p><p>People with POIKTMP have patchy changes in skin coloring and small clusters of blood vessels just under the skin (telangiectases), a combination known as poikiloderma. These skin changes begin in infancy and occur primarily on the face. They can also have red, scaly skin patches and mild swelling (lymphedema) of the arms and legs; thickened skin on the palms of the hands and soles of the feet (palmoplantar keratoderma); and abnormal hardening (sclerosis) of tissues in the fingers and toes. People with this disorder usually have sparse scalp hair, and their eyelashes and eyebrows can also be sparse or absent. Affected individuals have a decreased ability to sweat (hypohidrosis), which impairs their ability to tolerate heat.</p><p>Reduced movement of joints (contractures) caused by shortening of the connective tissues that attach muscles to bone (tendons) usually develops during childhood in people with POIKTMP. These contractures often affect the calf, resulting in turning in (valgus deformity) of the feet. Contractures can also affect the elbows and wrists. In addition, people with POIKTMP usually develop muscle weakness (myopathy) in the arms and legs, and medical imaging shows abnormal fatty tissue in the muscles.</p><p>Adults with POIKTMP can develop a condition called pulmonary fibrosis, in which scar tissue forms in the lungs. Pulmonary fibrosis eventually causes difficulty breathing and can be life-threatening within a few years after symptoms begin.</p><p>In addition to the skin, muscle, and lung problems that give this condition its name, people with POIKTMP can also have a shortage (deficiency) of enzymes produced by the pancreas to aid in the digestion of fats. This deficiency can lead to diarrhea and poor absorption of fats and fat-soluble vitamins. Liver problems, short stature, and delayed puberty can also occur in affected individuals. Intellectual development is not affected by this disorder.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FAM111B
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FAM111B
+synonym(1): hereditary sclerosing poikiloderma with tendon and pulmonary involvement
+synonym(2): HFP
+synonym(3): POIKTMP
+db-key(1)/db: GTR
+db-key(1)/key: C3810325
+db-key(2)/db: GeneReviews
+db-key(2)/key: hfpoik-tmp
+db-key(3)/db: MeSH
+db-key(3)/key: D012873
+db-key(4)/db: OMIM
+db-key(4)/key: 615704
+db-key(5)/db: Orphanet
+db-key(5)/key: 221043
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 402769003
+reviewed: 2017-02
+published: 2018-04-17

@@ -1,0 +1,46 @@
+name: Cystic fibrosis
+ghr-page: https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+text/text-role: description
+text/html: <p>Cystic fibrosis is an inherited disease characterized by the buildup of thick, sticky mucus that can damage many of the body's organs. The disorder's most common signs and symptoms include progressive damage to the respiratory system and chronic digestive system problems. The features of the disorder and their severity varies among affected individuals.</p><p>Mucus is a slippery substance that lubricates and protects the linings of the airways, digestive system, reproductive system, and other organs and tissues.  In people with cystic fibrosis, the body produces mucus that is abnormally thick and sticky.  This abnormal mucus can clog the airways, leading to severe problems with breathing and bacterial infections in the lungs. These infections cause chronic coughing, wheezing, and inflammation. Over time, mucus buildup and infections result in permanent lung damage, including the formation of scar tissue (fibrosis) and cysts in the lungs.</p><p>Most people with cystic fibrosis also have digestive problems. Some affected babies have meconium ileus, a blockage of the intestine that occurs shortly after birth. Other digestive problems result from a buildup of thick, sticky mucus in the pancreas. The pancreas is an organ that produces insulin (a hormone that helps control blood sugar levels). It also makes enzymes that help digest food. In people with cystic fibrosis, mucus blocks the ducts of the pancreas, reducing the production of insulin and preventing digestive enzymes from reaching the intestines to aid digestion. Problems with digestion can lead to diarrhea, malnutrition, poor growth, and weight loss. In adolescence or adulthood, a shortage of insulin can cause a form of diabetes known as cystic fibrosis-related diabetes mellitus (CFRDM).</p><p>Cystic fibrosis used to be considered a fatal disease of childhood. With improved treatments and better ways to manage the disease, many people with cystic fibrosis now live well into adulthood. Adults with cystic fibrosis experience health problems affecting the respiratory, digestive, and reproductive systems. Most men with cystic fibrosis have congenital bilateral absence of the vas deferens (CBAVD), a condition in which the tubes that carry sperm (the vas deferens) are blocked by mucus and do not develop properly. Men with CBAVD are unable to father children (infertile) unless they undergo fertility treatment. Women with cystic fibrosis may experience complications in pregnancy.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CFTR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CFTR
+synonym(1): CF
+synonym(2): cystic fibrosis of pancreas
+synonym(3): fibrocystic disease of pancreas
+synonym(4): mucoviscidosis
+db-key(1)/db: GTR
+db-key(1)/key: C0010674
+db-key(2)/db: GeneReviews
+db-key(2)/key: cf
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E84
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: E84.0
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: E84.1
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: E84.8
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: E84.9
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: E84.11
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: E84.19
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: Z14.1
+db-key(11)/db: MeSH
+db-key(11)/key: D003550
+db-key(12)/db: OMIM
+db-key(12)/key: 219700
+db-key(13)/db: Orphanet
+db-key(13)/key: 586
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 190905008
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 235978006
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 86555001
+reviewed: 2012-08
+published: 2018-04-17

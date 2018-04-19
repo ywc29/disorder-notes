@@ -1,0 +1,10 @@
+gene-symbol: RAD50
+name: RAD50 double strand break repair protein
+ghr-page: https://ghr.nlm.nih.gov/gene/RAD50
+related-health-condition(1)/name: ovarian cancer
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/ovarian-cancer
+related-health-condition(2)/name: polycystic ovary syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/polycystic-ovary-syndrome
+db-key/db: NCBI Gene
+db-key/key: 10111
+published: 2018-04-17

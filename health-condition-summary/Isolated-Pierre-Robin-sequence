@@ -1,0 +1,25 @@
+name: Isolated Pierre Robin sequence
+ghr-page: https://ghr.nlm.nih.gov/condition/isolated-pierre-robin-sequence
+text/text-role: description
+text/html: <p>Pierre Robin sequence is a set of abnormalities affecting the head and face, consisting of a small lower jaw (micrognathia), a tongue that is placed further back than normal (glossoptosis), and blockage (obstruction) of the airways. Most people with Pierre Robin sequence are also born with an opening in the roof of the mouth (a cleft palate). This feature is not generally considered necessary for diagnosis of the condition, although there is some disagreement among doctors.</p><p>Some people have the features of Pierre Robin sequence as part of a syndrome that affects other organs and tissues in the body, such as Stickler syndrome or campomelic dysplasia. These instances are described as syndromic. When Pierre Robin sequence occurs by itself, it is described as nonsyndromic or isolated. Approximately 20 to 40 percent of cases of Pierre Robin sequence are isolated.</p><p>This condition is described as a "sequence" because one of its features, underdevelopment of the lower jaw (mandible), sets off a sequence of events before birth that cause the other signs and symptoms. Specifically, having an abnormally small jaw affects placement of the tongue, and the abnormally positioned tongue can block the airways. In addition, micrognathia and glossoptosis affect formation of the palate during development before birth, which often leads to cleft palate.</p><p>The combination of features characteristic of Pierre Robin sequence can lead to difficulty breathing and problems eating early in life. As a result, some affected babies have an inability to grow and gain weight at the expected rate (failure to thrive). In some children with Pierre Robin sequence, growth of the mandible catches up, and as adults these individuals have normal-sized chins.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SOX9
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SOX9
+synonym(1): glossoptosis, micrognathia, and cleft palate
+synonym(2): Pierre Robin syndrome
+synonym(3): Pierre-Robin syndrome
+synonym(4): Robin sequence
+synonym(5): Robin syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0031900
+db-key(2)/db: MeSH
+db-key(2)/key: D010855
+db-key(3)/db: OMIM
+db-key(3)/key: 261800
+db-key(4)/db: Orphanet
+db-key(4)/key: 718
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 4602007
+reviewed: 2016-12
+published: 2018-04-17

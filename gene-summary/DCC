@@ -1,0 +1,29 @@
+gene-symbol: DCC
+name: DCC netrin 1 receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/DCC
+text/text-role: function
+text/html: <p>The <i>DCC</i> gene provides instructions for making a protein called the netrin-1 receptor, which is involved in the development of the nervous system. This receptor has three major parts: an extracellular region that sticks out from the surface of the cell, a transmembrane region that anchors the receptor to the cell membrane, and an intracellular region that transmits signals to the interior of the cell. The extracellular region attaches (binds) to a substance (its ligand) called netrin-1, fitting together like a lock and its key. The binding of netrin-1 triggers signaling via the intracellular region of the receptor that helps direct the growth of specialized nerve cell extensions called axons. Axons transmit nerve impulses that signal muscle movement. Normally, movement signals from each half of the brain control muscles on the opposite side of the body. Binding of netrin-1 to its receptor inhibits axons from developing in ways that would carry movement signals from each half of the brain to the same side of the body.</p><p>The netrin-1 receptor is also thought to act as a dependence receptor, which means it has different functions in the presence or absence of its ligand. In the case of the netrin-1 receptor, binding to its ligand triggers signaling related to nervous system development, as described above. When not bound to netrin-1, the netrin-1 receptor acts as a tumor suppressor, which means that it keeps cells from growing and dividing too fast or in an uncontrolled way. Studies suggest that when the netrin-1 receptor is not bound to netrin-1, it triggers cell death (apoptosis).</p>
+related-health-condition/name: congenital mirror movement disorder
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-mirror-movement-disorder
+synonym(1): colorectal cancer suppressor
+synonym(2): colorectal tumor suppressor
+synonym(3): CRC18
+synonym(4): CRCR1
+synonym(5): DCC_HUMAN
+synonym(6): deleted in colorectal cancer protein
+synonym(7): deleted in colorectal carcinoma
+synonym(8): IGDCC1
+synonym(9): immunoglobulin superfamily DCC subclass member 1
+synonym(10): immunoglobulin superfamily, DCC subclass, member 1
+synonym(11): MRMV1
+synonym(12): netrin receptor DCC
+synonym(13): NTN1R1
+synonym(14): tumor suppressor protein DCC
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1630
+db-key(2)/db: OMIM
+db-key(2)/key: 114500
+db-key(3)/db: OMIM
+db-key(3)/key: 120470
+reviewed: 2015-04
+published: 2018-04-17

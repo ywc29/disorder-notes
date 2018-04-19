@@ -1,0 +1,31 @@
+name: Gyrate atrophy of the choroid and retina
+ghr-page: https://ghr.nlm.nih.gov/condition/gyrate-atrophy-of-the-choroid-and-retina
+text/text-role: description
+text/html: <p>Gyrate atrophy of the choroid and retina, which is often shortened to gyrate atrophy, is an inherited disorder characterized by progressive vision loss. People with this disorder have an ongoing loss of cells (atrophy) in the retina, which is the specialized light-sensitive tissue that lines the back of the eye, and in a nearby tissue layer called the choroid. During childhood, they begin experiencing nearsightedness (myopia), difficulty seeing in low light (night blindness), and loss of side (peripheral) vision. Over time, their field of vision continues to narrow, resulting in tunnel vision. Many people with gyrate atrophy also develop clouding of the lens of the eyes (cataracts). These progressive vision changes lead to blindness by about the age of 50.</p><p>Most people with gyrate atrophy have no symptoms other than vision loss, but some have additional features of the disorder. Occasionally, newborns with gyrate atrophy develop excess ammonia in the blood (hyperammonemia),  which may lead to poor feeding, vomiting, seizures, or coma. Neonatal hyperammonemia associated with gyrate atrophy generally responds quickly to treatment and does not recur after the newborn period.</p><p>Gyrate atrophy usually does not affect intelligence; however, abnormalities may be observed in brain imaging or other neurological testing. In some cases, mild to moderate intellectual disability is associated with gyrate atrophy.</p><p>Gyrate atrophy may also cause disturbances in the nerves connecting the brain and spinal cord to muscles and sensory cells (peripheral nervous system). In some people with the disorder these abnormalities lead to numbness, tingling, or pain in the hands or feet, while in others they are detectable only by electrical testing of the nerve impulses.</p><p>In some people with gyrate atrophy, a particular type of muscle fibers (type II fibers) break down over time. While this muscle abnormality usually causes no symptoms, it may result in mild weakness.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: OAT
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/OAT
+synonym(1): gyrate atrophy
+synonym(2): HOGA
+synonym(3): hyperornithinemia with gyrate atrophy of choroid and retina
+synonym(4): OAT deficiency
+synonym(5): OKT deficiency
+synonym(6): ornithine aminotransferase deficiency
+synonym(7): ornithine-delta-aminotransferase deficiency
+synonym(8): ornithine keto acid aminotransferase deficiency
+synonym(9): Ornithinemia with gyrate atrophy
+db-key(1)/db: GTR
+db-key(1)/key: C0599035
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: H31.23
+db-key(3)/db: MeSH
+db-key(3)/key: D015799
+db-key(4)/db: OMIM
+db-key(4)/key: 258870
+db-key(5)/db: Orphanet
+db-key(5)/key: 414
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 314467007
+reviewed: 2009-08
+published: 2018-04-17

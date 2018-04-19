@@ -1,0 +1,16 @@
+gene-symbol: TPMT
+name: thiopurine S-methyltransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/TPMT
+text/text-role: function
+text/html: <p>The <i>TPMT</i> gene provides instructions for making an enzyme called thiopurine S-methyltransferase (TPMT). This enzyme carries out a specific chemical reaction called S-methylation of a group of molecules known as aromatic and heterocyclic sulphydryl compounds. This function is of particular interest because it is critical for breaking down (metabolizing) drugs called thiopurines. These drugs, which include 6-thioguanine, 6-mercaptopurine, and azathioprine, inhibit (suppress) the body's immune system. They are used to treat several forms of cancer and other disorders involving immune system malfunction, such as Crohn disease and rheumatoid arthritis. Thiopurine drugs are also used in organ transplant recipients to help prevent the immune system from attacking the transplanted organ.</p><p>Once inside the body, thiopurine drugs are converted to toxic compounds that kill immune system cells in the bone marrow. The TPMT enzyme "turns off" thiopurine drugs by metabolizing them to inactive, nontoxic compounds.</p>
+related-health-condition/name: thiopurine S-methyltransferase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/thiopurine-s-methyltransferase-deficiency
+synonym(1): S-adenosyl-L-methionine:thiopurine S-methyltransferase
+synonym(2): thiopurine methyltransferase
+synonym(3): TPMT_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7172
+db-key(2)/db: OMIM
+db-key(2)/key: 187680
+reviewed: 2015-04
+published: 2018-04-17

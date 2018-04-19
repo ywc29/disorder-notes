@@ -1,0 +1,21 @@
+name: Eosinophil peroxidase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/eosinophil-peroxidase-deficiency
+text/text-role: description
+text/html: <p>Eosinophil peroxidase deficiency is a condition that affects certain white blood cells called eosinophils but causes no health problems in affected individuals. Eosinophils aid in the body's immune response. During a normal immune response, these cells are turned on (activated), and they travel to the area of injury or inflammation. The cells then release proteins and other compounds that have a toxic effect on severely damaged cells or invading organisms. One of these proteins is called eosinophil peroxidase. In eosinophil peroxidase deficiency, eosinophils have little or no eosinophil peroxidase. A lack of this protein does not seem to affect the eosinophils' ability to carry out an immune response.</p><p>Because eosinophil peroxidase deficiency does not cause any health problems, this condition is often diagnosed when blood tests are done for other reasons or when a family member has been diagnosed with the condition.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: EPX
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/EPX
+synonym(1): EPXD
+synonym(2): peroxidase and phospholipid deficiency in eosinophils
+synonym(3): Presentey anomaly
+db-key(1)/db: GTR
+db-key(1)/key: C1850000
+db-key(2)/db: MeSH
+db-key(2)/key: D007960
+db-key(3)/db: OMIM
+db-key(3)/key: 261500
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 711160007
+reviewed: 2014-12
+published: 2018-04-17

@@ -1,0 +1,29 @@
+name: Infantile neuroaxonal dystrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/infantile-neuroaxonal-dystrophy
+text/text-role: description
+text/html: <p>Infantile neuroaxonal dystrophy is a disorder that primarily affects the nervous system. Individuals with infantile neuroaxonal dystrophy typically do not have any symptoms at birth, but between the ages of about 6 and 18 months they begin to experience delays in acquiring new motor and intellectual skills, such as crawling or beginning to speak. Eventually they lose previously acquired skills (developmental regression). In some cases, signs and symptoms of infantile neuroaxonal dystrophy first appear later in childhood or during the teenage years and progress more slowly.</p><p>Children with infantile neuroaxonal dystrophy experience progressive difficulties with movement. They generally have muscles that are at first weak and "floppy" (hypotonic), and then gradually become very stiff (spastic). Eventually, affected children lose the ability to move independently. Lack of muscle strength causes difficulty with feeding. Muscle weakness can also result in breathing problems that can lead to frequent infections, such as pneumonia. Seizures occur in some affected children.</p><p>Rapid, involuntary eye movements (nystagmus), eyes that do not look in the same direction (strabismus), and vision loss due to deterioration (atrophy) of the nerve that carries information from the eye to the brain (the optic nerve) often occur in infantile neuroaxonal dystrophy. Hearing loss may also develop. Children with this disorder experience progressive deterioration of cognitive functions (dementia), and they eventually lose awareness of their surroundings.</p><p>Infantile neuroaxonal dystrophy is characterized by the development of swellings called spheroid bodies in the axons, the fibers that extend from nerve cells (neurons) and transmit impulses to muscles and other neurons. In some individuals with infantile neuroaxonal dystrophy, abnormal amounts of iron accumulate in a specific region of the brain called the basal ganglia. The relationship of these features to the symptoms of infantile neuroaxonal dystrophy is unknown.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: PLA2G6
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PLA2G6
+synonym(1): INAD
+synonym(2): NBIA, PLA2G6-related
+synonym(3): neurodegeneration with brain iron accumulation, PLA2G6-related
+synonym(4): Seitelberger disease
+synonym(5): Seitelberger's disease
+db-key(1)/db: GTR
+db-key(1)/key: C0270724
+db-key(2)/db: GeneReviews
+db-key(2)/key: inad
+db-key(3)/db: MeSH
+db-key(3)/key: D019150
+db-key(4)/db: OMIM
+db-key(4)/key: 256600
+db-key(5)/db: Orphanet
+db-key(5)/key: 35069
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 230365004
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 52713000
+reviewed: 2012-09
+published: 2018-04-17

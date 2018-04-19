@@ -1,0 +1,22 @@
+gene-symbol: SDHAF2
+name: succinate dehydrogenase complex assembly factor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/SDHAF2
+text/text-role: function
+text/html: <p>The <i>SDHAF2</i> gene provides instructions for making a protein that interacts with the succinate dehydrogenase (SDH) enzyme. The SDHAF2 protein helps a molecule called FAD attach to the SDH enzyme. FAD is called a cofactor because it helps the enzyme carry out its function. The FAD cofactor is required for SDH enzyme activity.</p><p>The SDH enzyme plays a critical role in mitochondria, which are structures inside cells that convert the energy from food into a form that cells can use. Within mitochondria, the SDH enzyme links two important pathways in energy conversion: the citric acid cycle (or Krebs cycle) and oxidative phosphorylation. As part of the citric acid cycle, the SDH enzyme converts a compound called succinate to another compound called fumarate.</p><p>Succinate, the compound on which the SDH enzyme acts, is an oxygen sensor in the cell and can help turn on specific pathways that stimulate cells to grow in a low-oxygen environment (hypoxia). In particular, succinate stabilizes a protein called hypoxia-inducible factor (HIF)  by preventing a reaction that would allow HIF to be broken down. HIF controls several important genes involved in cell division and the formation of new blood vessels in a hypoxic environment.</p><p>The <i>SDHAF2</i> gene is a tumor suppressor, which means it prevents cells from growing and dividing in an uncontrolled way.</p>
+related-health-condition/name: hereditary paraganglioma-pheochromocytoma
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-paraganglioma-pheochromocytoma
+synonym(1): C11orf79
+synonym(2): FLJ20487
+synonym(3): hSDH5
+synonym(4): PGL2
+synonym(5): SDH assembly factor 2
+synonym(6): SDH5
+synonym(7): SDHF2_HUMAN
+synonym(8): succinate dehydrogenase assembly factor 2, mitochondrial
+synonym(9): succinate dehydrogenase subunit 5, mitochondrial
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 54949
+db-key(2)/db: OMIM
+db-key(2)/key: 613019
+reviewed: 2011-06
+published: 2018-04-17

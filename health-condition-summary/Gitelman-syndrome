@@ -1,0 +1,27 @@
+name: Gitelman syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/gitelman-syndrome
+text/text-role: description
+text/html: <p>Gitelman syndrome is a kidney disorder that causes an imbalance of charged atoms (ions) in the body, including ions of potassium, magnesium, and calcium.</p><p>The signs and symptoms of Gitelman syndrome usually appear in late childhood or adolescence. Common features of this condition include painful muscle spasms (tetany), muscle weakness or cramping, dizziness, and salt craving. Also common is a tingling or prickly sensation in the skin (paresthesias), most often affecting the face. Some individuals with Gitelman syndrome experience excessive tiredness (fatigue), low blood pressure, and a painful joint condition called chondrocalcinosis. Studies suggest that Gitelman syndrome may also increase the risk of a potentially dangerous abnormal heart rhythm called ventricular arrhythmia.</p><p>The signs and symptoms of Gitelman syndrome vary widely, even among affected members of the same family. Most people with this condition have relatively mild symptoms, although affected individuals with severe muscle cramping, paralysis, and slow growth have been reported.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: CLCNKB
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CLCNKB
+related-gene(2)/gene-symbol: SLC12A3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC12A3
+synonym(1): familial hypokalemia-hypomagnesemia
+synonym(2): Gitelman's syndrome
+synonym(3): GS
+synonym(4): hypokalemia-hypomagnesemia, primary renotubular, with hypocalciuria
+synonym(5): tubular hypomagnesemia-hypokalemia with hypocalcuria
+db-key(1)/db: GTR
+db-key(1)/key: C0268450
+db-key(2)/db: MeSH
+db-key(2)/key: D053579
+db-key(3)/db: OMIM
+db-key(3)/key: 263800
+db-key(4)/db: Orphanet
+db-key(4)/key: 358
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 707756004
+reviewed: 2011-02
+published: 2018-04-17

@@ -1,0 +1,25 @@
+gene-symbol: SLC25A19
+name: solute carrier family 25 member 19
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC25A19
+text/text-role: function
+text/html: <p>The <i>SLC25A19</i> gene provides instructions for producing a protein that is a member of the solute carrier (SLC) family of proteins. Proteins in the SLC family transport various compounds across the membranes surrounding the cell and its component parts. The protein produced from the <i>SLC25A19</i> gene transports a molecule called thiamine pyrophosphate into the mitochondria, the energy-producing centers of cells. Thiamine pyrophosphate is involved in the functioning of a group of mitochondrial enzymes called the alpha-ketoglutarate dehydrogenase complex. This complex acts on a compound called alpha-ketoglutaric acid as part of an important series of reactions known as the citric acid cycle or Krebs cycle. The transport of thiamine pyrophosphate into the mitochondria is believed to be important in brain development.</p>
+related-health-condition(1)/name: Amish lethal microcephaly
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/amish-lethal-microcephaly
+related-health-condition(2)/name: Leigh syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+synonym(1): DNC
+synonym(2): DNC_HUMAN
+synonym(3): MCPHA
+synonym(4): mitochondrial deoxynucleotide carrier
+synonym(5): mitochondrial uncoupling protein 1
+synonym(6): MUP1
+synonym(7): solute carrier family 25 (mitochondrial deoxynucleotide carrier), member 19
+synonym(8): solute carrier family 25 (mitochondrial thiamine pyrophosphate carrier), member 19
+synonym(9): solute carrier family 25, member 19
+synonym(10): TPC
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 60386
+db-key(2)/db: OMIM
+db-key(2)/key: 606521
+reviewed: 2007-11
+published: 2018-04-17

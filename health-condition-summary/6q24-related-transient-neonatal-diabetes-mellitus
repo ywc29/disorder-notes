@@ -1,0 +1,31 @@
+name: 6q24-related transient neonatal diabetes mellitus
+ghr-page: https://ghr.nlm.nih.gov/condition/6q24-related-transient-neonatal-diabetes-mellitus
+text/text-role: description
+text/html: <p>6q24-related transient neonatal diabetes mellitus is a type of diabetes that occurs in infants. This form of diabetes is characterized by high blood sugar levels (hyperglycemia) resulting from a shortage of the hormone insulin. Insulin controls how much glucose (a type of sugar) is passed from the blood into cells for conversion to energy.</p><p>People with 6q24-related transient neonatal diabetes mellitus experience very slow growth before birth (severe intrauterine growth retardation). Affected infants have hyperglycemia and an excessive loss of fluids (dehydration), usually beginning in the first week of life. Signs and symptoms of this form of diabetes are transient, which means that they gradually lessen over time and generally disappear between the ages of 3 months and 18 months. Diabetes may recur, however, especially during childhood illnesses or pregnancy. Up to half of individuals with 6q24-related transient neonatal diabetes mellitus develop permanent diabetes mellitus later in life.</p><p>Other features of 6q24-related transient neonatal diabetes mellitus that occur in some affected individuals include an unusually large tongue (macroglossia); a soft out-pouching around the belly-button (an umbilical hernia); malformations of the brain, heart, or kidneys; weak muscle tone (hypotonia); deafness; and developmental delay.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: HYMAI
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/HYMAI
+related-gene(2)/gene-symbol: PLAGL1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PLAGL1
+related-gene(3)/gene-symbol: ZFP57
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/ZFP57
+related-chromosome/name: 6
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/6
+synonym(1): 6q24-TNDM
+synonym(2): TNDM type 1
+synonym(3): transient neonatal diabetes mellitus 1
+db-key(1)/db: GTR
+db-key(1)/key: C1832386
+db-key(2)/db: GeneReviews
+db-key(2)/key: dmtn
+db-key(3)/db: MeSH
+db-key(3)/key: D003920
+db-key(4)/db: OMIM
+db-key(4)/key: 601410
+db-key(5)/db: Orphanet
+db-key(5)/key: 224
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 609579009
+reviewed: 2011-02
+published: 2018-04-17

@@ -1,0 +1,10 @@
+gene-symbol: MAF
+name: MAF bZIP transcription factor
+ghr-page: https://ghr.nlm.nih.gov/gene/MAF
+related-health-condition(1)/name: coloboma
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/coloboma
+related-health-condition(2)/name: multiple myeloma
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-myeloma
+db-key/db: NCBI Gene
+db-key/key: 4094
+published: 2018-04-17

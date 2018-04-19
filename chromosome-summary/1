@@ -1,0 +1,26 @@
+name: 1
+ghr-page: https://ghr.nlm.nih.gov/chromosome/1
+text/text-role: description
+text/html: <p>Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 1, one copy inherited from each parent, form one of the pairs. Chromosome 1 is the largest human chromosome, spanning about 249 million DNA building blocks (base pairs) and representing approximately 8 percent of the total DNA in cells.</p><p>Identifying genes on each chromosome is an active area of genetic research.  Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 1 likely contains 2,000 to 2,100 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.</p>
+related-health-condition(1)/name: 1p36 deletion syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/1p36-deletion-syndrome
+related-health-condition(2)/name: 1q21.1 microdeletion
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/1q211-microdeletion
+related-health-condition(3)/name: 1q21.1 microduplication
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/1q211-microduplication
+related-health-condition(4)/name: neuroblastoma
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/neuroblastoma
+related-health-condition(5)/name: thrombocytopenia-absent radius syndrome
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/thrombocytopenia-absent-radius-syndrome
+db-key(1)/db: GeneReviews
+db-key(1)/key: del1p36
+db-key(2)/db: GeneReviews
+db-key(2)/key: mdel1q21_1
+db-key(3)/db: GeneReviews
+db-key(3)/key: tar
+db-key(4)/db: OMIM
+db-key(4)/key: 256700
+db-key(5)/db: OMIM
+db-key(5)/key: 612337
+reviewed: 2014-11
+published: 2018-04-17

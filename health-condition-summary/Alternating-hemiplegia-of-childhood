@@ -1,0 +1,27 @@
+name: Alternating hemiplegia of childhood
+ghr-page: https://ghr.nlm.nih.gov/condition/alternating-hemiplegia-of-childhood
+text/text-role: description
+text/html: <p>Alternating hemiplegia of childhood is a neurological condition characterized by recurrent episodes of temporary paralysis, often affecting one side of the body (hemiplegia). During some episodes, the paralysis alternates from one side of the body to the other or affects both sides at the same time. These episodes begin in infancy or early childhood, usually before 18 months of age, and the paralysis lasts from minutes to days.</p><p>In addition to paralysis, affected individuals can have sudden attacks of uncontrollable muscle activity; these can cause involuntary limb movements (choreoathetosis), muscle tensing (dystonia), movement of the eyes (nystagmus), or shortness of breath (dyspnea). People with alternating hemiplegia of childhood may also experience sudden redness and warmth (flushing) or unusual paleness (pallor) of the skin. These attacks can occur during or separately from episodes of hemiplegia.</p><p>The episodes of hemiplegia or uncontrolled movements can be triggered by certain factors, such as stress, extreme tiredness, cold temperatures, or bathing, although the trigger is not always known. A characteristic feature of alternating hemiplegia of childhood is that all symptoms disappear while the affected person is sleeping but can reappear shortly after awakening. The number and length of the episodes initially worsen throughout childhood but then begin to decrease over time. The uncontrollable muscle movements may disappear entirely, but the episodes of hemiplegia occur throughout life.</p><p>Alternating hemiplegia of childhood also causes mild to severe cognitive problems. Almost all affected individuals have some level of developmental delay and intellectual disability. Their cognitive functioning typically declines over time.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: ATP1A2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ATP1A2
+related-gene(2)/gene-symbol: ATP1A3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ATP1A3
+synonym: alternating hemiplegia syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C3549447
+db-key(2)/db: GTR
+db-key(2)/key: C3553788
+db-key(3)/db: MeSH
+db-key(3)/key: D006429
+db-key(4)/db: OMIM
+db-key(4)/key: 104290
+db-key(5)/db: OMIM
+db-key(5)/key: 614820
+db-key(6)/db: Orphanet
+db-key(6)/key: 2131
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 230466004
+reviewed: 2016-09
+published: 2018-04-17

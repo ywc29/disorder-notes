@@ -1,0 +1,34 @@
+name: Alpha thalassemia
+ghr-page: https://ghr.nlm.nih.gov/condition/alpha-thalassemia
+text/text-role: description
+text/html: <p>Alpha thalassemia is a blood disorder that reduces the production of hemoglobin. Hemoglobin is the protein in red blood cells that carries oxygen to cells throughout the body.</p><p>In people with the characteristic features of alpha thalassemia, a reduction in the amount of hemoglobin prevents enough oxygen from reaching the body's tissues. Affected individuals also have a shortage of red blood cells (anemia), which can cause pale skin, weakness, fatigue, and more serious complications.</p><p>Two types of alpha thalassemia can cause health problems. The more severe type is known as hemoglobin Bart hydrops fetalis syndrome, which is also called Hb Bart syndrome or alpha thalassemia major. The milder form is called HbH disease.</p><p>Hb Bart syndrome is characterized by hydrops fetalis, a condition in which excess fluid builds up in the body before birth. Additional signs and symptoms can include severe anemia, an enlarged liver and spleen (hepatosplenomegaly), heart defects, and abnormalities of the urinary system or genitalia. As a result of these serious health problems, most babies with this condition are stillborn or die soon after birth. Hb Bart syndrome can also cause serious complications for women during pregnancy, including dangerously high blood pressure with swelling (preeclampsia), premature delivery, and abnormal bleeding.</p><p>HbH disease causes mild to moderate anemia, hepatosplenomegaly, and yellowing of the eyes and skin (jaundice). Some affected individuals also have bone changes such as overgrowth of the upper jaw and an unusually prominent forehead. The features of HbH disease usually appear in early childhood, and affected individuals typically live into adulthood.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: HBA1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/HBA1
+related-gene(2)/gene-symbol: HBA2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/HBA2
+synonym(1): alpha-thalassemia
+synonym(2): α-thalassemia
+db-key(1)/db: GTR
+db-key(1)/key: C0002312
+db-key(2)/db: GeneReviews
+db-key(2)/key: a-thal
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: D56.0
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: D56.3
+db-key(5)/db: MeSH
+db-key(5)/key: D017085
+db-key(6)/db: OMIM
+db-key(6)/key: 141800
+db-key(7)/db: OMIM
+db-key(7)/key: 141850
+db-key(8)/db: OMIM
+db-key(8)/key: 604131
+db-key(9)/db: Orphanet
+db-key(9)/key: 846
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 68913001
+reviewed: 2017-06
+published: 2018-04-17

@@ -1,0 +1,24 @@
+name: SOX2 anophthalmia syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/sox2-anophthalmia-syndrome
+text/text-role: description
+text/html: <p><i>SOX2</i> anophthalmia syndrome is a rare disorder characterized by abnormal development of the eyes and other parts of the body.</p><p>People with <i>SOX2</i> anophthalmia syndrome are usually born without eyeballs (anophthalmia), although some individuals have small eyes (microphthalmia). The term anophthalmia is often used interchangeably with severe microphthalmia because individuals with no visible eyeballs typically have some remaining eye tissue. These eye problems can cause significant vision loss. While both eyes are usually affected in <i>SOX2</i> anophthalmia syndrome, one eye may be more affected than the other.</p><p>Individuals with <i>SOX2</i> anophthalmia syndrome may also have seizures, brain abnormalities, slow growth, delayed development of motor skills (such as walking), and mild to severe learning disabilities. Some people with this condition are born with a blocked esophagus (esophageal atresia), which is often accompanied by an abnormal connection between the esophagus and the trachea (tracheoesophageal fistula). Genital abnormalities have been described in affected individuals, especially males. Male genital abnormalities include undescended testes (cryptorchidism) and an unusually small penis (micropenis).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SOX2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SOX2
+synonym(1): AEG syndrome
+synonym(2): Anophthalmia-esophageal-genital syndrome
+synonym(3): SOX2-related eye disorders
+synonym(4): syndromic microphthalmia 3
+db-key(1)/db: GTR
+db-key(1)/key: C1859773
+db-key(2)/db: GeneReviews
+db-key(2)/key: sox2
+db-key(3)/db: MeSH
+db-key(3)/key: D000853
+db-key(4)/db: OMIM
+db-key(4)/key: 206900
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 698851003
+reviewed: 2009-03
+published: 2018-04-17

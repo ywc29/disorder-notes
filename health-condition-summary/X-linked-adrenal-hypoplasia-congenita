@@ -1,0 +1,24 @@
+name: X-linked adrenal hypoplasia congenita
+ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-adrenal-hypoplasia-congenita
+text/text-role: description
+text/html: <p>X-linked adrenal hypoplasia congenita is a disorder that mainly affects males.  It involves many hormone-producing (endocrine) tissues in the body, particularly a pair of small glands on top of each kidney called the adrenal glands. These glands produce a variety of hormones that regulate many essential functions in the body.</p><p>One of the main signs of this disorder is adrenal insufficiency, which occurs when the adrenal glands do not produce enough hormones.  Adrenal insufficiency typically begins in infancy or childhood and can cause vomiting, difficulty with feeding, dehydration, extremely low blood sugar (hypoglycemia), and shock.  If untreated, these complications are often life-threatening.</p><p>Affected males may also have a shortage of male sex hormones, which leads to underdeveloped reproductive tissues, undescended testicles (cryptorchidism), delayed puberty, and an inability to father children (infertility). Together, these characteristics are known as hypogonadotropic hypogonadism.</p><p>The onset and severity of these signs and symptoms can vary, even among affected members of the same family.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: NR0B1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NR0B1
+synonym(1): Adrenal hypoplasia congenita
+synonym(2): X-linked AHC
+db-key(1)/db: GTR
+db-key(1)/key: C0342482
+db-key(2)/db: GeneReviews
+db-key(2)/key: ahc
+db-key(3)/db: MeSH
+db-key(3)/key: D000307
+db-key(4)/db: OMIM
+db-key(4)/key: 300200
+db-key(5)/db: Orphanet
+db-key(5)/key: 95702
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 237764004
+reviewed: 2008-04
+published: 2018-04-17

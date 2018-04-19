@@ -1,0 +1,25 @@
+gene-symbol: BCR
+name: BCR, RhoGEF and GTPase activating protein
+ghr-page: https://ghr.nlm.nih.gov/gene/BCR
+text/text-role: function
+text/html: <p>The <i>BCR</i> gene provides instructions for making a protein whose function is not completely understood. Studies show that the BCR protein may act as a GTPase activating protein (GAP). GAPs turn off (inactivate) proteins called GTPases, which play an important role in chemical signaling within cells. Often referred to as molecular switches, GTPases can be turned on and off. They are turned on (active) when they are attached (bound) to a molecule called GTP and are turned off when they are bound to another molecule called GDP. The BCR protein inactivates a GTPase known as Rac1 by stimulating a reaction that turns the attached GTP into GDP. Through this activity, the BCR protein helps regulate the movement (migration) and function of cells.</p><p>The BCR protein can also act as a kinase, which is an enzyme that changes the activity of other proteins by adding a cluster of oxygen and phosphorus atoms (a phosphate group) at specific positions. BCR's kinase activity is likely involved in regulating signaling within cells, although its exact role is unclear.</p>
+related-health-condition/name: chronic myeloid leukemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/chronic-myeloid-leukemia
+synonym(1): ALL
+synonym(2): BCR/FGFR1 chimera protein
+synonym(3): BCR1
+synonym(4): breakpoint cluster region
+synonym(5): breakpoint cluster region protein isoform 1
+synonym(6): breakpoint cluster region protein isoform 2
+synonym(7): CML
+synonym(8): D22S11
+synonym(9): D22S662
+synonym(10): FGFR1/BCR chimera protein
+synonym(11): PHL
+synonym(12): renal carcinoma antigen NY-REN-26
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 613
+db-key(2)/db: OMIM
+db-key(2)/key: 151410
+reviewed: 2016-09
+published: 2018-04-17

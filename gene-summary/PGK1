@@ -1,0 +1,22 @@
+gene-symbol: PGK1
+name: phosphoglycerate kinase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/PGK1
+text/text-role: function
+text/html: <p>The <i>PGK1</i> gene provides instructions for making an enzyme called phosphoglycerate kinase. This enzyme is found in cells and tissues throughout the body, where it is involved in a critical energy-producing process known as glycolysis. During glycolysis, the simple sugar glucose is broken down to produce energy.</p><p>Phosphoglycerate kinase helps carry out a chemical reaction that converts a molecule called 1,3-diphosphoglycerate, which is produced during the breakdown of glucose, to another molecule called 3-phosphoglycerate. This reaction generates one molecule of adenosine triphosphate (ATP), which is the main energy source in cells.</p><p>Researchers suspect that phosphoglycerate kinase may have additional functions, although little is known about the other roles this enzyme may play in cells.</p>
+related-health-condition/name: phosphoglycerate kinase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/phosphoglycerate-kinase-deficiency
+synonym(1): cell migration-inducing gene 10 protein
+synonym(2): MGC8947
+synonym(3): MGC117307
+synonym(4): MGC142128
+synonym(5): MIG10
+synonym(6): PGK1_HUMAN
+synonym(7): PGKA
+synonym(8): primer recognition protein 2
+synonym(9): PRP 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5230
+db-key(2)/db: OMIM
+db-key(2)/key: 311800
+reviewed: 2011-12
+published: 2018-04-17

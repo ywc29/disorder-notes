@@ -1,0 +1,23 @@
+gene-symbol: HBB
+name: hemoglobin subunit beta
+ghr-page: https://ghr.nlm.nih.gov/gene/HBB
+text/text-role: function
+text/html: <p>The <i>HBB</i> gene provides instructions for making a protein called beta-globin. Beta-globin is a component (subunit) of a larger protein called hemoglobin, which is located inside red blood cells. In adults, hemoglobin normally consists of four protein subunits: two subunits of beta-globin and two subunits of another protein called alpha-globin, which is produced from another gene called <i>HBA</i>. Each of these protein subunits is attached (bound) to an iron-containing molecule called heme; each heme contains an iron molecule in its center that can bind to one oxygen molecule. Hemoglobin within red blood cells binds to oxygen molecules in the lungs. These cells then travel through the bloodstream and deliver oxygen to tissues throughout the body.</p>
+related-health-condition(1)/name: beta thalassemia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/beta-thalassemia
+related-health-condition(2)/name: methemoglobinemia, beta-globin type
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/methemoglobinemia-beta-globin-type
+related-health-condition(3)/name: sickle cell disease
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/sickle-cell-disease
+synonym(1): beta globin
+synonym(2): beta-globin
+synonym(3): HBB_HUMAN
+synonym(4): hemoglobin beta gene
+synonym(5): hemoglobin--beta locus
+synonym(6): hemoglobin, beta
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3043
+db-key(2)/db: OMIM
+db-key(2)/key: 141900
+reviewed: 2015-07
+published: 2018-04-17

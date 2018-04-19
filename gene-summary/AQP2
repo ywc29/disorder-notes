@@ -1,0 +1,25 @@
+gene-symbol: AQP2
+name: aquaporin 2
+ghr-page: https://ghr.nlm.nih.gov/gene/AQP2
+text/text-role: function
+text/html: <p>The <i>AQP2</i> gene provides instructions for making a protein called aquaporin 2. This protein forms a channel that carries water molecules across cell membranes. It is found in the kidneys in structures called collecting ducts, which are a series of small tubes that reabsorb water from the kidneys into the bloodstream.</p><p>The aquaporin 2 water channel plays an essential role in maintaining the body's water balance. The placement of these channels is controlled by a hormone called vasopressin or antidiuretic hormone (ADH). When a person's fluid intake is low or when a lot of fluid is lost (for example, through sweating), the body produces more ADH. This hormone triggers chemical reactions that ultimately insert aquaporin 2 water channels into the membrane of collecting duct cells. These channels allow water to be reabsorbed into the bloodstream, which makes the urine more concentrated. When fluid intake is adequate, less ADH is produced. Without signals from ADH, aquaporin 2 water channels are removed from the membrane of collecting duct cells. At these times, less water is reabsorbed into the bloodstream and the urine is more dilute.</p>
+related-health-condition/name: nephrogenic diabetes insipidus
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nephrogenic-diabetes-insipidus
+synonym(1): ADH water channel
+synonym(2): AQP-2
+synonym(3): AQP-CD
+synonym(4): AQP2_HUMAN
+synonym(5): aquaporin-2
+synonym(6): aquaporin 2 (collecting duct)
+synonym(7): aquaporin-CD
+synonym(8): collecting duct water channel protein
+synonym(9): MGC34501
+synonym(10): water-channel aquaporin 2
+synonym(11): water channel protein for renal collecting duct
+synonym(12): WCH-CD
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 359
+db-key(2)/db: OMIM
+db-key(2)/key: 107777
+reviewed: 2010-04
+published: 2018-04-17

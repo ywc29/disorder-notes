@@ -1,0 +1,18 @@
+gene-symbol: TPI1
+name: triosephosphate isomerase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TPI1
+text/text-role: function
+text/html: <p>The <i>TPI1</i> gene provides instructions for making an enzyme called triosephosphate isomerase 1. This enzyme is involved in a critical energy-producing process known as glycolysis. During glycolysis, the simple sugar glucose is broken down to produce energy for cells. The triosephosphate isomerase 1 enzyme carries out a specific reaction during glycolysis: the conversion of a molecule called dihydroxyacetone phosphate (DHAP) to glyceraldehyde 3-phosphate. This conversion can go both ways, meaning that the triosephosphate isomerase 1 enzyme can also convert glyceraldehyde 3-phosphate back into DHAP. Additional steps convert glyceraldehyde 3-phosphate into other molecules that ultimately produce energy in the form of a molecule called ATP.</p><p>For the triosephosphate isomerase 1 enzyme to be turned on (active), it has to attach (bind) to another triosephosphate isomerase 1 enzyme, forming a two-enzyme complex called a dimer.</p>
+related-health-condition/name: triosephosphate isomerase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/triosephosphate-isomerase-deficiency
+synonym(1): TIM
+synonym(2): TPI
+synonym(3): TPID
+synonym(4): triose-phosphate isomerase
+synonym(5): triosephosphate isomerase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7167
+db-key(2)/db: OMIM
+db-key(2)/key: 190450
+reviewed: 2014-08
+published: 2018-04-17

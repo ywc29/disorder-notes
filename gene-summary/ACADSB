@@ -1,0 +1,21 @@
+gene-symbol: ACADSB
+name: acyl-CoA dehydrogenase short/branched chain
+ghr-page: https://ghr.nlm.nih.gov/gene/ACADSB
+text/text-role: function
+text/html: <p>The <i>ACADSB</i> gene provides instructions for making an enzyme called short/branched chain acyl-CoA dehydrogenase (SBCAD, also known as 2-methylbutyryl-CoA dehydrogenase), which plays an important role in processing proteins. Normally, the body breaks down proteins from food into smaller parts called amino acids. Amino acids can be further processed to provide energy for  the body. In cells throughout the body, SBCAD is found within specialized structures called mitochondria. Mitochondria convert energy from food into a form that cells can use.</p><p>The SBCAD enzyme helps break down a particular amino acid called isoleucine. Specifically, this enzyme helps with the third step of the process, performing a chemical reaction that converts a molecule called 2-methylbutyryl-CoA to another molecule, tiglyl-CoA. Additional chemical reactions convert tiglyl-CoA into molecules that are used for energy. Through similar chemical reactions, the SBCAD enzyme also aids in the breakdown of other amino acids.</p>
+related-health-condition/name: short/branched chain acyl-CoA dehydrogenase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/short-branched-chain-acyl-coa-dehydrogenase-deficiency
+synonym(1): 2-MEBCAD
+synonym(2): 2-methyl branched chain acyl-CoA dehydrogenase
+synonym(3): 2-methylbutyryl-CoA dehydrogenase
+synonym(4): ACAD7
+synonym(5): ACDSB_HUMAN
+synonym(6): acyl-CoA dehydrogenase, short/branched chain
+synonym(7): SBCAD
+synonym(8): short/branched chain acyl-CoA dehydrogenase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 36
+db-key(2)/db: OMIM
+db-key(2)/key: 600301
+reviewed: 2017-02
+published: 2018-04-17

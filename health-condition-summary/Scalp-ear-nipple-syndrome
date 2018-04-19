@@ -1,0 +1,24 @@
+name: Scalp-ear-nipple syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/scalp-ear-nipple-syndrome
+text/text-role: description
+text/html: <p>Scalp-ear-nipple syndrome, as its name suggests, is a condition characterized by abnormalities of the scalp, ears, and nipples. Less frequently, affected individuals have problems affecting other parts of the body. The features of this disorder can vary even within the same family.</p><p>Babies with scalp-ear-nipple syndrome are born with a condition called aplasia cutis congenita, which involves patchy abnormal areas (lesions) on the scalp. These lesions are firm, raised, hairless nodules that resemble open wounds or ulcers at birth, but that heal during childhood.</p><p>The external ears of people with scalp-ear-nipple syndrome may be small, cup-shaped, folded over, or otherwise mildly misshapen. Hearing is generally normal. Affected individuals also have nipples that are underdeveloped (hypothelia) or absent (athelia). In some cases the underlying breast tissue is absent as well (amastia).</p><p>Other features that can occur in this disorder include malformed and brittle fingernails and toenails (nail dystrophy), dental abnormalities including  widely-spaced or missing teeth, fusion of the skin between some of the fingers and toes (cutaneous syndactyly), and kidney defects such as underdevelopment (hypoplasia) of one or both kidneys. Unusual facial features, including narrowed openings of the eyes (narrowed palpebral fissures), an increased distance between the inner corners of the eyes (telecanthus), a flat bridge of the nose, and nostrils that open to the front rather than downward (anteverted nares), can also occur in this disorder.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: KCTD1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/KCTD1
+synonym(1): Finlay-Marks syndrome
+synonym(2): hereditary syndrome of lumpy scalp, odd ears, and rudimentary nipples
+synonym(3): SEN syndrome
+synonym(4): SENS
+db-key(1)/db: GTR
+db-key(1)/key: C1867020
+db-key(2)/db: MeSH
+db-key(2)/key: D004476
+db-key(3)/db: OMIM
+db-key(3)/key: 181270
+db-key(4)/db: Orphanet
+db-key(4)/key: 2036
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 721888002
+reviewed: 2017-04
+published: 2018-04-17

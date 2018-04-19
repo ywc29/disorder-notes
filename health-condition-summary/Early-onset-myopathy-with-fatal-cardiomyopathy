@@ -1,0 +1,27 @@
+name: Early-onset myopathy with fatal cardiomyopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/early-onset-myopathy-with-fatal-cardiomyopathy
+text/text-role: description
+text/html: <p>Early-onset myopathy with fatal cardiomyopathy (EOMFC) is an inherited muscle disease that affects the skeletal muscles, which are used for movement, and the heart (cardiac) muscle. This condition is characterized by skeletal muscle weakness that becomes apparent in early infancy. Affected individuals have delayed development of motor skills, such as sitting, standing, and walking. Beginning later in childhood, people with EOMFC may also develop joint deformities called contractures that restrict the movement of the neck and back. Scoliosis, which is an abnormal side-to-side curvature of the spine, also develops in late childhood.</p><p>A form of heart disease called dilated cardiomyopathy is another feature of EOMFC. Dilated cardiomyopathy enlarges and weakens the cardiac muscle, preventing the heart from pumping blood efficiently. Signs and symptoms of this condition can include an irregular heartbeat (arrhythmia), shortness of breath, extreme tiredness (fatigue), and swelling of the legs and feet. The heart abnormalities associated with EOMFC usually become apparent in childhood, after the skeletal muscle abnormalities. The heart disease worsens quickly, and it often causes heart failure and sudden death in adolescence or early adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: TTN
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TTN
+synonym(1): EOMFC
+synonym(2): Salih CMD
+synonym(3): Salih congenital muscular dystrophy
+synonym(4): Salih myopathy
+synonym(5): titinopathy & early-onset myopathy with fatal cardiomyopathy
+db-key(1)/db: GTR
+db-key(1)/key: C2673677
+db-key(2)/db: GeneReviews
+db-key(2)/key: salih-myo
+db-key(3)/db: MeSH
+db-key(3)/key: D009135
+db-key(4)/db: OMIM
+db-key(4)/key: 611705
+db-key(5)/db: Orphanet
+db-key(5)/key: 289377
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 702343002
+reviewed: 2016-12
+published: 2018-04-17

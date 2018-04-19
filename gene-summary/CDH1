@@ -1,0 +1,37 @@
+gene-symbol: CDH1
+name: cadherin 1
+ghr-page: https://ghr.nlm.nih.gov/gene/CDH1
+text/text-role: function
+text/html: <p>The <i>CDH1</i> gene provides instructions for making a protein called epithelial cadherin or E-cadherin. This protein is found within the membrane that surrounds epithelial cells, which are the cells that line the surfaces and cavities of the body, such as the inside of the eyelids and mouth. E-cadherin belongs to a family of proteins called cadherins whose function is to help neighboring cells stick to one another (cell adhesion) to form organized tissues. Another protein called p120-catenin, produced from the <i>CTNND1</i> gene, helps keep E-cadherin in its proper place in the cell membrane, preventing it from being taken into the cell through a process called endocytosis and broken down prematurely.</p><p>E-cadherin is one of the best-understood cadherin proteins. In addition to its role in cell adhesion, E-cadherin is involved in transmitting chemical signals within cells, controlling cell maturation and movement, and regulating the activity of certain genes. Interactions between the E-cadherin and p120-catenin proteins, in particular, are thought to be important for normal development of the head and face (craniofacial development), including the eyelids and teeth. E-cadherin also acts as a tumor suppressor protein, which means it prevents cells from growing and dividing too rapidly or in an uncontrolled way.</p>
+related-health-condition(1)/name: blepharocheilodontic syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/blepharocheilodontic-syndrome
+related-health-condition(2)/name: breast cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
+related-health-condition(3)/name: hereditary diffuse gastric cancer
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-diffuse-gastric-cancer
+related-health-condition(4)/name: ovarian cancer
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/ovarian-cancer
+related-health-condition(5)/name: prostate cancer
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+synonym(1): Arc-1
+synonym(2): CADH1_HUMAN
+synonym(3): cadherin 1, E-cadherin (epithelial)
+synonym(4): cadherin 1, type 1
+synonym(5): cadherin 1, type 1, E-cadherin (epithelial)
+synonym(6): calcium-dependent adhesion protein, epithelial
+synonym(7): CAM 120/80
+synonym(8): CD324
+synonym(9): CDHE
+synonym(10): cell-CAM 120/80
+synonym(11): E-cadherin
+synonym(12): ECAD
+synonym(13): LCAM
+synonym(14): liver cell adhesion molecule
+synonym(15): UVO
+synonym(16): uvomorulin
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 999
+db-key(2)/db: OMIM
+db-key(2)/key: 192090
+reviewed: 2017-08
+published: 2018-04-17

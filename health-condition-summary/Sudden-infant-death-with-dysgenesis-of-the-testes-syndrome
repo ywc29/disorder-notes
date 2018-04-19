@@ -1,0 +1,23 @@
+name: Sudden infant death with dysgenesis of the testes syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/sudden-infant-death-with-dysgenesis-of-the-testes-syndrome
+text/text-role: description
+text/html: <p>Sudden infant death with dysgenesis of the testes syndrome (SIDDT) is a rare condition that is fatal in the first year of life; its major features include abnormalities of the reproductive system in males, feeding difficulties, and breathing problems.</p><p>Infants with SIDDT who are genetically male, with one X chromosome and one Y chromosome in each cell, have underdeveloped or abnormal testes. They may also have external genitalia that appear female or that do not look clearly male or clearly female (ambiguous genitalia). In affected infants who are genetically female, with two X chromosomes in each cell, development of the internal and external reproductive organs is normal.</p><p>SIDDT is associated with abnormal development of the brain, particularly the brainstem, which is the part of the brain that is connected to the spinal cord. The brainstem regulates many basic body functions, including heart rate, breathing, eating, and sleeping. It also relays information about movement and the senses between the brain and the rest of the body. Many features of SIDDT appear to be related to brainstem malfunction, including a slow or uneven heart rate, abnormal breathing patterns, difficulty controlling body temperature, unusual tongue and eye movements, abnormal reflexes, seizures, and feeding difficulties. Affected infants also have an unusual cry that has been described as similar to the bleating of a goat, which is probably a result of abnormal nerve connections between the brain and the voicebox (larynx).</p><p>The brainstem abnormalities lead to death in the first year of life, when affected infants suddenly stop breathing or their heart stops beating (cardiorespiratory arrest).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: TSPYL1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TSPYL1
+synonym: SIDDT
+db-key(1)/db: GTR
+db-key(1)/key: C1837371
+db-key(2)/db: MeSH
+db-key(2)/key: D006061
+db-key(3)/db: MeSH
+db-key(3)/key: D013398
+db-key(4)/db: OMIM
+db-key(4)/key: 608800
+db-key(5)/db: Orphanet
+db-key(5)/key: 168593
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 711157000
+reviewed: 2014-12
+published: 2018-04-17

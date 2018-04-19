@@ -1,0 +1,25 @@
+gene-symbol: DRD5
+name: dopamine receptor D5
+ghr-page: https://ghr.nlm.nih.gov/gene/DRD5
+text/text-role: function
+text/html: <p>The <i>DRD5</i> gene provides instructions for making a protein called dopamine receptor D5, which is found in the brain. This protein works together with a chemical messenger (neurotransmitter) called dopamine. Dopamine fits into the D5 receptor like a key in a lock, which triggers chemical reactions within nerve cells. Dopamine signaling has many critical functions in the brain, including regulation of attention, mood, memory, learning, and movement.</p>
+related-health-condition/name: benign essential blepharospasm
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/benign-essential-blepharospasm
+synonym(1): d(1B) dopamine receptor
+synonym(2): d(5) dopamine receptor
+synonym(3): D1beta dopamine receptor
+synonym(4): DBDR
+synonym(5): dopamine D5 receptor
+synonym(6): dopamine receptor D1B
+synonym(7): DRD1B
+synonym(8): DRD1L2
+synonym(9): DRD5_HUMAN
+synonym(10): MGC10601
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1816
+db-key(2)/db: OMIM
+db-key(2)/key: 126453
+db-key(3)/db: OMIM
+db-key(3)/key: 143465
+reviewed: 2010-05
+published: 2018-04-17

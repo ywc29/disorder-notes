@@ -1,0 +1,26 @@
+gene-symbol: DSC2
+name: desmocollin 2
+ghr-page: https://ghr.nlm.nih.gov/gene/DSC2
+text/text-role: function
+text/html: <p>The <i>DSC2</i> gene provides instructions for making a protein called desmocollin-2. This protein is found in many tissues, although it appears to be particularly important in the heart muscle and skin. Desmocollin-2 is a major component of specialized structures called desmosomes. These structures help hold neighboring cells together, which provides strength and stability to tissues. Desmosomes may also be involved in other critical cell functions, including chemical signaling pathways, the process by which cells mature to perform specific functions (differentiation), and the self-destruction of cells (apoptosis).</p>
+related-health-condition(1)/name: arrhythmogenic right ventricular cardiomyopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/arrhythmogenic-right-ventricular-cardiomyopathy
+related-health-condition(2)/name: keratoderma with woolly hair
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/keratoderma-with-woolly-hair
+synonym(1): ARVD11
+synonym(2): cadherin family member 2
+synonym(3): CDHF2
+synonym(4): desmocollin-2 isoform Dsc2a preproprotein
+synonym(5): desmocollin-2 isoform Dsc2b preproprotein
+synonym(6): desmosomal glycoprotein II/III
+synonym(7): DG2
+synonym(8): DGII/III
+synonym(9): DSC3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1824
+db-key(2)/db: OMIM
+db-key(2)/key: 125645
+db-key(3)/db: OMIM
+db-key(3)/key: 610476
+reviewed: 2015-11
+published: 2018-04-17

@@ -1,0 +1,21 @@
+gene-symbol: SLC9A6
+name: solute carrier family 9 member A6
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC9A6
+text/text-role: function
+text/html: <p>The <i>SLC9A6</i> gene provides instructions for making a protein called sodium/hydrogen exchanger 6 (Na+/H+ exchanger 6 or NHE6). Na+/H+ exchangers are found in the membranes that surround cells or compartments within cells. These proteins act as channels that allow positively charged sodium atoms (Na+ ions) into the cell or cellular compartment in exchange for positively charged hydrogen ions (H+, also known as protons), which are removed. The exchange of hydrogen ions helps regulate the relative acidity (pH) of the cell or cellular compartment.</p><p>The NHE6 protein is found in the membrane of compartments within the cell known as endosomes, which recycle proteins and other cellular materials. The NHE6 protein controls the pH inside endosomes, which is important for the recycling function of these compartments. The NHE6 protein may have additional functions, such as helping to move proteins to the correct location in the cell (protein trafficking).</p>
+related-health-condition/name: Christianson syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/christianson-syndrome
+synonym(1): KIAA0267
+synonym(2): Na(+)/H(+) exchanger 6
+synonym(3): NHE6
+synonym(4): SL9A6_HUMAN
+synonym(5): sodium/hydrogen exchanger 6
+synonym(6): solute carrier family 9 (sodium/hydrogen exchanger), member 6
+synonym(7): solute carrier family 9 member 6
+synonym(8): solute carrier family 9, subfamily A (NHE6, cation proton antiporter 6), member 6
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10479
+db-key(2)/db: OMIM
+db-key(2)/key: 300231
+reviewed: 2012-04
+published: 2018-04-17

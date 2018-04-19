@@ -1,0 +1,24 @@
+name: Dihydropyrimidinase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/dihydropyrimidinase-deficiency
+text/text-role: description
+text/html: <p>Dihydropyrimidinase deficiency is a disorder that can cause neurological and gastrointestinal problems in some affected individuals. Other people with dihydropyrimidinase deficiency have no signs or symptoms related to the disorder, and in these individuals the condition can be diagnosed only by laboratory testing.</p><p>The neurological abnormalities that occur most often in people with dihydropyrimidinase deficiency are intellectual disability, seizures, and weak muscle tone (hypotonia). An abnormally small head size (microcephaly) and autistic behaviors that affect communication and social interaction also occur in some individuals with this condition.</p><p>Gastrointestinal problems that occur in dihydropyrimidinase deficiency include backflow of acidic stomach contents into the esophagus (gastroesophageal reflux) and recurrent episodes of vomiting (cyclic vomiting). Affected individuals can also have deterioration (atrophy) of the small, finger-like projections (villi) that line the small intestine and provide a large surface area with which to absorb nutrients. This condition, called villous atrophy, can lead to difficulty absorbing nutrients from foods (malabsorption), resulting in a failure to grow and gain weight at the expected rate (failure to thrive).</p><p>People with dihydropyrimidinase deficiency, including those who otherwise exhibit no symptoms, may be vulnerable to severe, potentially life-threatening toxic reactions to certain drugs called fluoropyrimidines that are used to treat cancer. Common examples of these drugs are 5-fluorouracil and capecitabine. These drugs may not be broken down efficiently and can build up to toxic levels in the body (fluoropyrimidine toxicity), leading to drug reactions including gastrointestinal problems, blood abnormalities, and other signs and symptoms.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: DPYS
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DPYS
+synonym(1): dihydropyrimidinuria
+synonym(2): dihydrouracil amidohydrolase deficiency
+synonym(3): DPH deficiency
+synonym(4): DPYS deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0342803
+db-key(2)/db: MeSH
+db-key(2)/key: D011686
+db-key(3)/db: OMIM
+db-key(3)/key: 222748
+db-key(4)/db: Orphanet
+db-key(4)/key: 38874
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 238014002
+reviewed: 2014-09
+published: 2018-04-17

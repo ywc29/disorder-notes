@@ -1,0 +1,26 @@
+name: Denys-Drash syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/denys-drash-syndrome
+text/text-role: description
+text/html: <p>Denys-Drash syndrome is a condition that affects the kidneys and genitalia.</p><p>Denys-Drash syndrome is characterized by kidney disease that begins within the first few months of life. Affected individuals have a condition called diffuse glomerulosclerosis, in which scar tissue forms throughout glomeruli, which are the tiny blood vessels in the kidneys that filter waste from blood. In people with Denys-Drash syndrome, this condition often leads to kidney failure in childhood. People with Denys-Drash syndrome have an estimated 90 percent chance of developing a rare form of kidney cancer known as Wilms tumor. Affected individuals may develop multiple tumors in one or both kidneys.</p><p>Although males with Denys-Drash syndrome have the typical male chromosome pattern (46,XY), they have gonadal dysgenesis, in which external genitalia do not look clearly male or clearly female (ambiguous genitalia) or the genitalia appear completely female. The testes of affected males are undescended, which means they are abnormally located in the pelvis, abdomen, or groin. As a result, males with Denys-Drash are typically unable to have biological children (infertile).</p><p>Affected females usually have normal genitalia and have only the kidney features of the condition. Because they do not have all the features of the condition, females are usually given the diagnosis of isolated nephrotic syndrome.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: WT1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/WT1
+synonym(1): DDS
+synonym(2): Drash syndrome
+synonym(3): nephropathy, Wilms tumor, and genital anomalies
+synonym(4): Wilms tumor and pseudohermaphroditism
+db-key(1)/db: GTR
+db-key(1)/key: C0950121
+db-key(2)/db: GeneReviews
+db-key(2)/key: wilms-ov
+db-key(3)/db: MeSH
+db-key(3)/key: D030321
+db-key(4)/db: OMIM
+db-key(4)/key: 194080
+db-key(5)/db: Orphanet
+db-key(5)/key: 220
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 236385009
+reviewed: 2013-03
+published: 2018-04-17

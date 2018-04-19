@@ -1,0 +1,44 @@
+gene-symbol: PTPN22
+name: protein tyrosine phosphatase, non-receptor type 22
+ghr-page: https://ghr.nlm.nih.gov/gene/PTPN22
+text/text-role: function
+text/html: <p>The <i>PTPN22</i> gene provides instructions for making a protein that belongs to the PTP (protein tyrosine phosphatases) family. PTP proteins play a role in regulating a process called signal transduction. In signal transduction, the protein relays signals from outside the cell to the cell nucleus. These signals instruct the cell to grow and divide or to mature and take on specialized functions.</p><p>The PTPN22 protein is involved in signaling that helps control the activity of immune system cells called T cells. T cells identify foreign substances and defend the body against infection.</p>
+related-health-condition(1)/name: autoimmune Addison disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autoimmune-addison-disease
+related-health-condition(2)/name: Graves disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/graves-disease
+related-health-condition(3)/name: Hashimoto thyroiditis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/hashimoto-thyroiditis
+related-health-condition(4)/name: idiopathic inflammatory myopathy
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/idiopathic-inflammatory-myopathy
+related-health-condition(5)/name: juvenile idiopathic arthritis
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-idiopathic-arthritis
+related-health-condition(6)/name: rheumatoid arthritis
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/rheumatoid-arthritis
+related-health-condition(7)/name: systemic lupus erythematosus
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/systemic-lupus-erythematosus
+related-health-condition(8)/name: systemic scleroderma
+related-health-condition(8)/ghr-page: https://ghr.nlm.nih.gov/condition/systemic-scleroderma
+related-health-condition(9)/name: type 1 diabetes
+related-health-condition(9)/ghr-page: https://ghr.nlm.nih.gov/condition/type-1-diabetes
+related-health-condition(10)/name: vitiligo
+related-health-condition(10)/ghr-page: https://ghr.nlm.nih.gov/condition/vitiligo
+synonym(1): hematopoietic cell protein-tyrosine phosphatase 70Z-PEP
+synonym(2): lymphoid phosphatase
+synonym(3): lymphoid-specific protein tyrosine phosphatase
+synonym(4): LYP
+synonym(5): LYP1
+synonym(6): LYP2
+synonym(7): PEP
+synonym(8): PEST-domain phosphatase
+synonym(9): protein tyrosine phosphatase, non-receptor type 8
+synonym(10): protein tyrosine phosphatase, non-receptor type 22 (lymphoid)
+synonym(11): PTN22_HUMAN
+synonym(12): PTPN8
+synonym(13): tyrosine-protein phosphatase non-receptor type 22
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 26191
+db-key(2)/db: OMIM
+db-key(2)/key: 600716
+reviewed: 2015-01
+published: 2018-04-17

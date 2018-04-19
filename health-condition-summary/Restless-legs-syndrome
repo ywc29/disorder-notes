@@ -1,0 +1,66 @@
+name: Restless legs syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/restless-legs-syndrome
+text/text-role: description
+text/html: <p>Restless legs syndrome is a neurological condition that causes an irresistible urge to move the legs. The movement is triggered by strange or uncomfortable feelings, often described as crawling, pulling, or itching, deep within both legs. The feelings usually occur while the affected person is sitting or lying down and are worse at night. Movement, such as kicking, stretching, rubbing, or pacing, make the discomfort go away, at least temporarily. The unpleasant feelings and the resulting need to move the legs often make it difficult for an affected person to fall asleep or stay asleep.</p><p>The signs and symptoms of restless legs syndrome range from mild to severe; people with mild cases may experience symptoms a few times a month, while those with more severe cases may have symptoms every night. In severe cases, the uncomfortable feelings can affect the arms or other parts of the body in addition to the legs.</p><p>Many people with restless legs syndrome also experience uncontrollable, repetitive leg movements that occur while they are sleeping or while relaxed or drowsy. When these movements occur during sleep, they are called periodic limb movements of sleep (PLMS); when they occur while a person is awake, they are called periodic limb movements of wakefulness (PLMW). It is unclear whether PLMS and PLMW are features of restless legs syndrome itself or represent similar, but separate, conditions.</p><p>Restless legs syndrome and PLMS can affect the quality and amount of sleep. As a result of these conditions, affected individuals may have difficulty concentrating during the day, and some develop mood swings, depression, or other health problems.</p><p>Researchers have described early-onset and late-onset forms of restless legs syndrome. The early-onset form begins before age 45, and sometimes as early as childhood. The signs and symptoms of this form usually worsen slowly with time. The late-onset form begins after age 45, and its signs and symptoms tend to worsen more rapidly.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: u
+inheritance-pattern(2)/memo: pattern unknown
+related-gene(1)/gene-symbol: BTBD9
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BTBD9
+related-gene(2)/gene-symbol: MAP2K5
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MAP2K5
+related-gene(3)/gene-symbol: MEIS1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/MEIS1
+related-gene(4)/gene-symbol: PTPRD
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/PTPRD
+related-gene(5)/gene-symbol: SKOR1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/SKOR1
+related-gene(6)/gene-symbol: TOX3
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/TOX3
+synonym(1): Ekbom syndrome
+synonym(2): Ekbom's syndrome
+synonym(3): restless leg syndrome
+synonym(4): RLS
+synonym(5): WED
+synonym(6): Willis-Ekbom disease
+db-key(1)/db: GTR
+db-key(1)/key: C1837285
+db-key(2)/db: GTR
+db-key(2)/key: C1864874
+db-key(3)/db: GTR
+db-key(3)/key: C1864875
+db-key(4)/db: GTR
+db-key(4)/key: C1876177
+db-key(5)/db: GTR
+db-key(5)/key: C1970010
+db-key(6)/db: GTR
+db-key(6)/key: C1970020
+db-key(7)/db: GTR
+db-key(7)/key: C2748506
+db-key(8)/db: GTR
+db-key(8)/key: C3554664
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: G25.81
+db-key(10)/db: MeSH
+db-key(10)/key: D012148
+db-key(11)/db: OMIM
+db-key(11)/key: 102300
+db-key(12)/db: OMIM
+db-key(12)/key: 608831
+db-key(13)/db: OMIM
+db-key(13)/key: 610438
+db-key(14)/db: OMIM
+db-key(14)/key: 610439
+db-key(15)/db: OMIM
+db-key(15)/key: 611185
+db-key(16)/db: OMIM
+db-key(16)/key: 611242
+db-key(17)/db: OMIM
+db-key(17)/key: 612853
+db-key(18)/db: OMIM
+db-key(18)/key: 615197
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 32914008
+reviewed: 2013-10
+published: 2018-04-17

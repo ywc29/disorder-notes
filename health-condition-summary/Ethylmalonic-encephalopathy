@@ -1,0 +1,24 @@
+name: Ethylmalonic encephalopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/ethylmalonic-encephalopathy
+text/text-role: description
+text/html: <p>Ethylmalonic encephalopathy is an inherited disorder that affects several body systems, particularly the nervous system. Neurological signs and symptoms include delayed development and the loss of previously acquired skills (developmental regression), weak muscle tone (hypotonia), seizures, and abnormal movements. The body's network of blood vessels (the vascular system) is also affected. Children with this disorder often develop rashes of tiny red spots (petechiae) caused by bleeding under the skin and blue discoloration in the hands and feet due to reduced oxygen in the blood (acrocyanosis). Chronic diarrhea is another common feature of ethylmalonic encephalopathy.</p><p>The signs and symptoms of ethylmalonic encephalopathy are apparent at birth or begin in the first few months of life. Problems with the nervous system typically worsen over time, and most affected individuals survive only into early childhood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ETHE1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ETHE1
+synonym(1): encephalopathy, petechiae, and ethylmalonic aciduria
+synonym(2): EPEMA syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1865349
+db-key(2)/db: GeneReviews
+db-key(2)/key: ee
+db-key(3)/db: MeSH
+db-key(3)/key: D001928
+db-key(4)/db: OMIM
+db-key(4)/key: 602473
+db-key(5)/db: Orphanet
+db-key(5)/key: 51188
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 811000124106
+reviewed: 2017-08
+published: 2018-04-17

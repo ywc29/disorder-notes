@@ -1,0 +1,21 @@
+gene-symbol: PDE6B
+name: phosphodiesterase 6B
+ghr-page: https://ghr.nlm.nih.gov/gene/PDE6B
+text/text-role: function
+text/html: <p>The <i>PDE6B</i> gene provides instructions for making a protein that is one part (the beta subunit) of a protein complex called cGMP-PDE. This complex is found in specialized light receptor cells called rods. As part of the light-sensitive tissue at the back of the eye (the retina), rods transmit visual signals from the eye to the brain specifically in low-light conditions.</p><p>When light enters the eye, a series of rod cell proteins are turned on (activated), including cGMP-PDE. When cGMP-PDE is active, molecules called GMP within the rod cell are broken down, which triggers channels on the cell membrane to close. The closing of these channels results in the transmission of signals to the brain, which are interpreted as vision.</p>
+related-health-condition(1)/name: autosomal dominant congenital stationary night blindness
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-congenital-stationary-night-blindness
+related-health-condition(2)/name: retinitis pigmentosa
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/retinitis-pigmentosa
+synonym(1): GMP-PDE beta
+synonym(2): PDE6B_HUMAN
+synonym(3): PDEB
+synonym(4): phosphodiesterase 6B, cGMP-specific, rod, beta
+synonym(5): rod cGMP-phosphodiesterase beta-subunit
+synonym(6): rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit beta
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5158
+db-key(2)/db: OMIM
+db-key(2)/key: 180072
+reviewed: 2013-11
+published: 2018-04-17

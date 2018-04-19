@@ -1,0 +1,33 @@
+name: Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia
+ghr-page: https://ghr.nlm.nih.gov/condition/inclusion-body-myopathy-with-early-onset-paget-disease-and-frontotemporal-dementia
+text/text-role: description
+text/html: <p>Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia (IBMPFD) is a condition that can affect the muscles, bones, and brain.</p><p>The first symptom of IBMPFD is often muscle weakness (myopathy), which typically appears in mid-adulthood. Weakness first occurs in muscles of the hips and shoulders, making it difficult to climb stairs and raise the arms above the shoulders. As the disorder progresses, weakness develops in other muscles in the arms and legs.  Muscle weakness can also affect respiratory and heart (cardiac) muscles, leading to life-threatening breathing difficulties and heart failure.</p><p>About half of all adults with IBMPFD develop a disorder called Paget disease of bone. This disorder most often affects bones of the hips, spine, and skull, and the long bones of the arms and legs. Bone pain, particularly in the hips and spine, is usually the major symptom of Paget disease. Rarely, this condition can weaken bones so much that they break (fracture).</p><p>In about one-third of people with IBMPFD, the disorder also affects the brain. IBMPFD is associated with a brain condition called frontotemporal dementia, which becomes noticeable in a person's forties or fifties. People with frontotemporal dementia initially may have trouble speaking, remembering words and names (dysnomia), and using numbers (dyscalculia). Over time, the condition damages parts of the brain that control reasoning, personality, social skills, speech, and language. Personality changes, a loss of judgment, and inappropriate social behavior are also hallmarks of the disease. As the dementia worsens, affected people ultimately become unable to speak, read, or care for themselves.</p><p>People with IBMPFD usually live into their fifties or sixties.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: VCP
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/VCP
+synonym(1): IBMPFD
+synonym(2): inclusion body myopathy with early-onset Paget disease of bone and/or frontotemporal dementia
+synonym(3): inclusion body myopathy with Paget disease of bone and/or frontotemporal dementia
+synonym(4): lower motor neuron degeneration with Paget-like bone disease
+synonym(5): muscular dystrophy, limb-girdle, with Paget disease of bone
+synonym(6): pagetoid amyotrophic lateral sclerosis
+synonym(7): pagetoid neuroskeletal syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1833662
+db-key(2)/db: GeneReviews
+db-key(2)/key: ibmpfd
+db-key(3)/db: MeSH
+db-key(3)/key: D010001
+db-key(4)/db: MeSH
+db-key(4)/key: D018979
+db-key(5)/db: MeSH
+db-key(5)/key: D057180
+db-key(6)/db: OMIM
+db-key(6)/key: 167320
+db-key(7)/db: Orphanet
+db-key(7)/key: 52430
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 703544004
+reviewed: 2018-04
+published: 2018-04-17

@@ -1,0 +1,46 @@
+name: Progressive familial heart block
+ghr-page: https://ghr.nlm.nih.gov/condition/progressive-familial-heart-block
+text/text-role: description
+text/html: <p>Progressive familial heart block is a genetic condition that alters the normal beating of the heart. A normal heartbeat is controlled by electrical signals that move through the heart in a highly coordinated way. These signals begin in a specialized cluster of cells called the sinoatrial node (the heart's natural pacemaker) located in the heart's upper chambers (the atria). From there, a group of cells called the atrioventricular node carries the electrical signals to another cluster of cells called the bundle of His. This bundle separates into multiple thin spindles called bundle branches, which carry electrical signals into the heart's lower chambers (the ventricles). Electrical impulses move from the sinoatrial node down to the bundle branches, stimulating a normal heartbeat in which the ventricles contract slightly later than the atria.</p><p>Heart block occurs when the electrical signaling is obstructed anywhere from the atria to the ventricles. In people with progressive familial heart block, the condition worsens over time: early in the disorder, the electrical signals are partially blocked, but the block eventually becomes complete, preventing any signals from passing through the heart. Partial heart block causes a slow or irregular heartbeat (bradycardia or arrhythmia, respectively), and can lead to the buildup of scar tissue (fibrosis) in the cells that carry electrical impulses. Fibrosis contributes to the development of complete heart block, resulting in uncoordinated electrical signaling between the atria and the ventricles and inefficient pumping of blood in the heart. Complete heart block can cause a sensation of fluttering or pounding in the chest (palpitations), shortness of breath, fainting (syncope), or sudden cardiac arrest and death.</p><p>Progressive familial heart block can be divided into type I and type II, with type I being further divided into types IA and IB. These types differ in where in the heart signaling is interrupted and the genetic cause. In types IA and IB, the heart block originates in the bundle branch, and in type II, the heart block originates in the atrioventricular node. The different types of progressive familial heart block have similar signs and symptoms.</p><p>Most cases of heart block are not genetic and are not considered progressive familial heart block. The most common cause of heart block is fibrosis of the heart, which occurs as a normal process of aging. Other causes of heart block can include the use of certain medications or an infection of the heart tissue.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: GJA5
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/GJA5
+related-gene(2)/gene-symbol: SCN1B
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN1B
+related-gene(3)/gene-symbol: SCN5A
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/SCN5A
+related-gene(4)/gene-symbol: TRPM4
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/TRPM4
+synonym(1): bundle branch block
+synonym(2): HBBD
+synonym(3): hereditary bundle branch defect
+synonym(4): hereditary bundle branch system defect
+synonym(5): Lenegre Lev disease
+synonym(6): Lev-Lenègre disease
+synonym(7): Lev syndrome
+synonym(8): Lev's disease
+synonym(9): PCCD
+synonym(10): progressive cardiac conduction defect
+db-key(1)/db: GTR
+db-key(1)/key: C1841658
+db-key(2)/db: GTR
+db-key(2)/key: C1879286
+db-key(3)/db: GTR
+db-key(3)/key: C1970298
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: Q24.6
+db-key(5)/db: MeSH
+db-key(5)/key: D006327
+db-key(6)/db: OMIM
+db-key(6)/key: 113900
+db-key(7)/db: OMIM
+db-key(7)/key: 140400
+db-key(8)/db: OMIM
+db-key(8)/key: 604559
+db-key(9)/db: Orphanet
+db-key(9)/key: 871
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 698249005
+reviewed: 2015-04
+published: 2018-04-17

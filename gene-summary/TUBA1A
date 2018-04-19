@@ -1,0 +1,23 @@
+gene-symbol: TUBA1A
+name: tubulin alpha 1a
+ghr-page: https://ghr.nlm.nih.gov/gene/TUBA1A
+text/text-role: function
+text/html: <p>The <i>TUBA1A</i> gene provides instructions for making a protein called alpha-tubulin (α-tubulin). This protein is part of the tubulin family of proteins that form and organize structures called microtubules. Microtubules are rigid, hollow fibers that make up the cell's structural framework (the cytoskeleton). They are composed of α-tubulin and a similar protein called beta-tubulin (β-tubulin) that is produced from a different gene. Microtubules are necessary for cell division and movement.</p><p>Most cells produce α-tubulin, but the protein is found in highest amounts in the developing brain. During brain development, α-tubulin partners with β-tubulin to form microtubules that move nerve cells (neurons) to their proper location (neuronal migration). Microtubules form scaffolding within the cell. The tubulin proteins that make up the microtubule are moved from one end of a microtubule to the other end. This protein transfer propels the microtubules in a specific direction, moving the cell.</p>
+related-health-condition(1)/name: isolated lissencephaly sequence
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/isolated-lissencephaly-sequence
+related-health-condition(2)/name: lissencephaly with cerebellar hypoplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/lissencephaly-with-cerebellar-hypoplasia
+synonym(1): B-ALPHA-1
+synonym(2): TBA1A_HUMAN
+synonym(3): TUBA3
+synonym(4): tubulin alpha-1A chain
+synonym(5): tubulin alpha-3 chain
+synonym(6): tubulin B-alpha-1
+synonym(7): tubulin, alpha 1a
+synonym(8): tubulin, alpha, brain-specific
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7846
+db-key(2)/db: OMIM
+db-key(2)/key: 602529
+reviewed: 2013-08
+published: 2018-04-17

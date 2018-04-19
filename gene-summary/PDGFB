@@ -1,0 +1,26 @@
+gene-symbol: PDGFB
+name: platelet derived growth factor subunit B
+ghr-page: https://ghr.nlm.nih.gov/gene/PDGFB
+text/text-role: function
+text/html: <p>The <i>PDGFB</i> gene provides instructions for making one version (isoform) of the platelet derived growth factor (PDGF) protein. This protein is involved in many cellular processes, including cell growth and division (proliferation), maturation (differentiation), and movement. The <i>PDGFB</i> gene provides instructions for a precursor protein that must be processed to be able to perform its function. Before processing, the precursor PDGFB protein attaches (binds) to another PDGFB protein or a similar protein called the PDGFA precursor protein, forming a structure known as a dimer. Once the dimer is formed, the precursor proteins are processed by being cut at specific locations, which forms the functional (active) PDGF proteins, called PDGF-BB and PDGF-AB.</p><p>The active PDGF-BB or PDGF-AB protein binds to a PDGF receptor, which initiates cellular signaling. PDGF signaling activates many pathways important in cell proliferation, differentiation, and movement.</p>
+related-health-condition/name: dermatofibrosarcoma protuberans
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/dermatofibrosarcoma-protuberans
+synonym(1): becaplermin
+synonym(2): c-sis
+synonym(3): FLJ12858
+synonym(4): PDGF-2
+synonym(5): PDGF subunit B
+synonym(6): PDGF, B chain
+synonym(7): PDGF2
+synonym(8): platelet-derived growth factor 2
+synonym(9): platelet-derived growth factor beta polypeptide
+synonym(10): platelet-derived growth factor subunit B
+synonym(11): platelet-derived growth factor, B chain
+synonym(12): SIS
+synonym(13): SSV
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5155
+db-key(2)/db: OMIM
+db-key(2)/key: 190040
+reviewed: 2011-09
+published: 2018-04-17

@@ -1,0 +1,31 @@
+name: Crouzon syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/crouzon-syndrome
+text/text-role: description
+text/html: <p>Crouzon syndrome is a genetic disorder characterized by the premature fusion of certain skull bones (craniosynostosis).  This early fusion prevents the skull from growing normally and affects the shape of the head and face.</p><p>Many features of Crouzon syndrome result from the premature fusion of the skull bones. Abnormal growth of these bones leads to wide-set, bulging eyes and vision problems caused by shallow eye sockets; eyes that do not point in the same direction (strabismus); a beaked nose; and an underdeveloped upper jaw. In addition, people with Crouzon syndrome may have dental problems and hearing loss, which is sometimes accompanied by narrow ear canals. A few people with Crouzon syndrome have an opening in the lip and the roof of the mouth (cleft lip and palate). The severity of these signs and symptoms varies among affected people. People with Crouzon syndrome are usually of normal intelligence.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FGFR2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR2
+synonym(1): Craniofacial dysarthrosis
+synonym(2): Craniofacial Dysostosis
+synonym(3): Craniofacial dysostosis syndrome
+synonym(4): Craniofacial dysostosis, type 1; CFD1
+synonym(5): Crouzon craniofacial dysostosis
+synonym(6): Crouzon's Disease
+synonym(7): Crouzons Disease
+db-key(1)/db: GTR
+db-key(1)/key: C0010273
+db-key(2)/db: GeneReviews
+db-key(2)/key: craniosynostosis
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q75.1
+db-key(4)/db: MeSH
+db-key(4)/key: D003394
+db-key(5)/db: OMIM
+db-key(5)/key: 123500
+db-key(6)/db: Orphanet
+db-key(6)/key: 207
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 28861008
+reviewed: 2008-02
+published: 2018-04-17

@@ -1,0 +1,21 @@
+gene-symbol: ACADS
+name: acyl-CoA dehydrogenase short chain
+ghr-page: https://ghr.nlm.nih.gov/gene/ACADS
+text/text-role: function
+text/html: <p>The <i>ACADS</i> gene provides instructions for making an enzyme called short-chain acyl-CoA dehydrogenase (SCAD). This enzyme functions within mitochondria, the energy-producing centers within cells. SCAD is essential for fatty acid oxidation, which is the multistep process that breaks down (metabolizes) fats and converts them to energy.</p><p>SCAD is required to metabolize a group of fats called short-chain fatty acids. These fatty acids are found in some foods and are also produced when larger fatty acids are metabolized. Fatty acids are a major source of energy for the heart and muscles. During periods without food (fasting), fatty acids are also an important energy source for the liver and other tissues.</p>
+related-health-condition/name: short-chain acyl-CoA dehydrogenase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/short-chain-acyl-coa-dehydrogenase-deficiency
+synonym(1): ACAD3
+synonym(2): ACADS_HUMAN
+synonym(3): acyl-CoA dehydrogenase, C-2 to C-3 short chain
+synonym(4): acyl-Coenzyme A dehydrogenase, C-2 to C-3 short chain precursor
+synonym(5): Butyryl-CoA dehydrogenase
+synonym(6): Butyryl dehydrogenase
+synonym(7): SCAD
+synonym(8): Unsaturated acyl-CoA reductase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 35
+db-key(2)/db: OMIM
+db-key(2)/key: 606885
+reviewed: 2015-05
+published: 2018-04-17

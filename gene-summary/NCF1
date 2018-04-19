@@ -1,0 +1,19 @@
+gene-symbol: NCF1
+name: neutrophil cytosolic factor 1
+ghr-page: https://ghr.nlm.nih.gov/gene/NCF1
+text/text-role: function
+text/html: <p>The <i>NCF1</i> gene provides instructions for making a protein called neutrophil cytosolic factor 1 (also known as p47-phox). This protein is one part (subunit) of a group of proteins that forms an enzyme complex called NADPH oxidase, which plays an essential role in the immune system. NADPH oxidase is primarily active in immune system cells called phagocytes. These cells catch and destroy foreign invaders such as bacteria and fungi. NADPH oxidase is also thought to regulate the activity of immune cells called neutrophils. These cells play a role in adjusting the inflammatory response to optimize healing and reduce injury to the body.</p><p>The presence of foreign invaders stimulates phagocytes and triggers the assembly of NADPH oxidase. This enzyme participates in a chemical reaction that converts oxygen to a toxic molecule called superoxide. Superoxide is used to generate several other compounds, including hydrogen peroxide (a strong disinfectant) and hypochlorous acid (the active ingredient in bleach). These highly reactive, toxic substances are known as reactive oxygen species. Phagocytes use these substances to kill foreign invaders, preventing them from reproducing in the body and causing illness.</p>
+related-health-condition(1)/name: chronic granulomatous disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/chronic-granulomatous-disease
+related-health-condition(2)/name: Williams syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/williams-syndrome
+synonym(1): NCF1_HUMAN
+synonym(2): p47-phox
+synonym(3): p47phox
+synonym(4): SH3PXD1A
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 653361
+db-key(2)/db: OMIM
+db-key(2)/key: 608512
+reviewed: 2012-08
+published: 2018-04-17

@@ -1,0 +1,38 @@
+name: 17
+ghr-page: https://ghr.nlm.nih.gov/chromosome/17
+text/text-role: description
+text/html: <p>Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 17, one copy inherited from each parent, form one of the pairs. Chromosome 17 spans about 81 million DNA building blocks (base pairs) and represents between 2.5 and 3 percent of the total DNA in cells.</p><p>Identifying genes on each chromosome is an active area of genetic research.  Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 17 likely contains 1,200 to 1,300 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.</p>
+related-health-condition(1)/name: 17q12 deletion syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/17q12-deletion-syndrome
+related-health-condition(2)/name: 17q12 duplication
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/17q12-duplication
+related-health-condition(3)/name: acute promyelocytic leukemia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/acute-promyelocytic-leukemia
+related-health-condition(4)/name: dermatofibrosarcoma protuberans
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/dermatofibrosarcoma-protuberans
+related-health-condition(5)/name: Koolen-de Vries syndrome
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/koolen-de-vries-syndrome
+related-health-condition(6)/name: Miller-Dieker syndrome
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/miller-dieker-syndrome
+related-health-condition(7)/name: Potocki-Lupski syndrome
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/potocki-lupski-syndrome
+related-health-condition(8)/name: Smith-Magenis syndrome
+related-health-condition(8)/ghr-page: https://ghr.nlm.nih.gov/condition/smith-magenis-syndrome
+db-key(1)/db: GeneReviews
+db-key(1)/key: chrom17-lis
+db-key(2)/db: GeneReviews
+db-key(2)/key: dup17q12
+db-key(3)/db: GeneReviews
+db-key(3)/key: mdel17q12
+db-key(4)/db: GeneReviews
+db-key(4)/key: mdel17q21_31
+db-key(5)/db: GeneReviews
+db-key(5)/key: potocki-lupski
+db-key(6)/db: GeneReviews
+db-key(6)/key: sms
+db-key(7)/db: OMIM
+db-key(7)/key: 155255
+db-key(8)/db: OMIM
+db-key(8)/key: 608232
+reviewed: 2017-10
+published: 2018-04-17

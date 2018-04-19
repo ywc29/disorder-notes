@@ -1,0 +1,24 @@
+gene-symbol: MC1R
+name: melanocortin 1 receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/MC1R
+text/text-role: function
+text/html: <p>The <i>MC1R</i> gene provides instructions for making a protein called the melanocortin 1 receptor.  This receptor plays an important role in normal pigmentation. The receptor is primarily located on the surface of melanocytes, which are specialized cells that produce a pigment called melanin. Melanin is the substance that gives skin, hair, and eyes their color. Melanin is also found in the light-sensitive tissue at the back of the eye (the retina), where it plays a role in normal vision.</p><p>Melanocytes make two forms of melanin, eumelanin and pheomelanin.  The relative amounts of these two pigments help determine the color of a person's hair and skin.  People who produce mostly eumelanin tend to have brown or black hair  and dark skin that tans easily.  Eumelanin also protects skin from damage caused by ultraviolet (UV) radiation in sunlight.  People who produce mostly pheomelanin tend to have red or blond hair, freckles, and light-colored skin that tans poorly.  Because pheomelanin does not protect skin from UV radiation, people with more pheomelanin have an increased risk of skin damage caused by sun exposure.</p><p>The melanocortin 1 receptor controls which type of melanin is produced by melanocytes.  When the receptor is activated, it triggers a series of chemical reactions inside melanocytes that stimulate these cells to make eumelanin.  If the receptor is not activated or is blocked, melanocytes make pheomelanin instead of eumelanin.</p><p>Common variations (polymorphisms) in the <i>MC1R</i> gene are associated with normal differences in skin and hair color.  Certain genetic variations are most common in people with red hair, fair skin, freckles, and an increased sensitivity to sun exposure.  These <i>MC1R</i> polymorphisms reduce the ability of the melanocortin 1 receptor to stimulate eumelanin production, causing melanocytes to make mostly pheomelanin.  Although <i>MC1R</i> is a key gene in normal human pigmentation, researchers believe that the effects of other genes also contribute to a person's hair and skin coloring.</p><p>The melanocortin 1 receptor is also active in cells other than melanocytes, including cells involved in the body's immune and inflammatory responses.  The receptor's function in these cells is unknown.</p>
+related-health-condition/name: oculocutaneous albinism
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/oculocutaneous-albinism
+synonym(1): MC1-R
+synonym(2): Melanocortin-1 receptor
+synonym(3): melanocortin 1 receptor (alpha melanocyte stimulating hormone receptor)
+synonym(4): melanocyte stimulating hormone receptor
+synonym(5): melanotropin receptor
+synonym(6): MSH-R
+synonym(7): MSHR_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4157
+db-key(2)/db: OMIM
+db-key(2)/key: 155555
+db-key(3)/db: OMIM
+db-key(3)/key: 155600
+db-key(4)/db: OMIM
+db-key(4)/key: 266300
+reviewed: 2007-03
+published: 2018-04-17

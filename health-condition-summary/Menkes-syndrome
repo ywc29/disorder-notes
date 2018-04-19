@@ -1,0 +1,33 @@
+name: Menkes syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/menkes-syndrome
+text/text-role: description
+text/html: <p>Menkes syndrome is a disorder that affects copper levels in the body. It is characterized by sparse, kinky hair; failure to gain weight and grow at the expected rate (failure to thrive); and deterioration of the nervous system. Additional signs and symptoms include weak muscle tone (hypotonia), sagging facial features, seizures, developmental delay, and intellectual disability. Children with Menkes syndrome typically begin to develop symptoms during infancy and often do not live past age 3. Early treatment with copper may improve the prognosis in some affected individuals. In rare cases, symptoms begin later in childhood.</p><p>Occipital horn syndrome (sometimes called X-linked cutis laxa) is a less severe form of Menkes syndrome that begins in early to middle childhood. It is characterized by wedge-shaped calcium deposits in a bone at the base of the skull (the occipital bone), coarse hair, and loose skin and joints.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: ATP7A
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ATP7A
+synonym(1): Copper transport disease
+synonym(2): Hypocupremia, Congenital
+synonym(3): Kinky Hair Syndrome
+synonym(4): Menkea syndrome
+synonym(5): Menkes Disease
+synonym(6): MK
+synonym(7): MNK
+synonym(8): Steely Hair Syndrome
+synonym(9): X-linked copper deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0022716
+db-key(2)/db: GeneReviews
+db-key(2)/key: menkes
+db-key(3)/db: MeSH
+db-key(3)/key: D007706
+db-key(4)/db: OMIM
+db-key(4)/key: 304150
+db-key(5)/db: OMIM
+db-key(5)/key: 309400
+db-key(6)/db: Orphanet
+db-key(6)/key: 565
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 59178007
+reviewed: 2009-03
+published: 2018-04-17

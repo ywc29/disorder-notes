@@ -1,0 +1,30 @@
+gene-symbol: SCN4A
+name: sodium voltage-gated channel alpha subunit 4
+ghr-page: https://ghr.nlm.nih.gov/gene/SCN4A
+text/text-role: function
+text/html: <p>The <i>SCN4A</i> gene belongs to a family of genes that provide instructions for making sodium channels. These channels, which transport positively charged sodium atoms (sodium ions) into cells, play a key role in a cell's ability to generate and transmit electrical signals.</p><p>The <i>SCN4A</i> gene provides instructions for making a critical part (the alpha subunit) of sodium channels that are abundant in muscles used for movement (skeletal muscles). For the body to move normally, these muscles must tense (contract) and relax in a coordinated way. One of the changes that helps trigger muscle contractions is the flow of positively charged atoms (ions), including sodium, into muscle cells. Channels made with the SCN4A protein control the flow of sodium ions into these cells.</p>
+related-health-condition(1)/name: congenital myasthenic syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-myasthenic-syndrome
+related-health-condition(2)/name: hyperkalemic periodic paralysis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/hyperkalemic-periodic-paralysis
+related-health-condition(3)/name: hypokalemic periodic paralysis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/hypokalemic-periodic-paralysis
+related-health-condition(4)/name: paramyotonia congenita
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/paramyotonia-congenita
+related-health-condition(5)/name: potassium-aggravated myotonia
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/potassium-aggravated-myotonia
+synonym(1): Na(V)1.4
+synonym(2): Nav1.4
+synonym(3): SCN4A_HUMAN
+synonym(4): skeletal muscle voltage-dependent sodium channel type IV alpha subunit
+synonym(5): SkM1
+synonym(6): sodium channel, voltage gated, type IV alpha subunit
+synonym(7): sodium channel, voltage-gated, type IV, alpha
+synonym(8): sodium channel, voltage-gated, type IV, alpha subunit
+synonym(9): voltage-gated sodium channel type 4 alpha
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6329
+db-key(2)/db: OMIM
+db-key(2)/key: 603967
+reviewed: 2013-08
+published: 2018-04-17

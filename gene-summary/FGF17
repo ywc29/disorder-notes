@@ -1,0 +1,8 @@
+gene-symbol: FGF17
+name: fibroblast growth factor 17
+ghr-page: https://ghr.nlm.nih.gov/gene/FGF17
+related-health-condition/name: Kallmann syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/kallmann-syndrome
+db-key/db: NCBI Gene
+db-key/key: 8822
+published: 2018-04-17

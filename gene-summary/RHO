@@ -1,0 +1,23 @@
+gene-symbol: RHO
+name: rhodopsin
+ghr-page: https://ghr.nlm.nih.gov/gene/RHO
+text/text-role: function
+text/html: <p>The <i>RHO</i> gene provides instructions for making a protein called rhodopsin. This protein is necessary for normal vision, particularly in low-light conditions. Rhodopsin is found in specialized light receptor cells called rods. As part of the light-sensitive tissue at the back of the eye (the retina), rods provide vision in low light. Other light receptor cells in the retina, called cones, are responsible for vision in bright light.</p><p>The rhodopsin protein is attached (bound) to a molecule called 11-cis retinal, which is a form of vitamin A. When light hits this molecule, it activates rhodopsin and sets off a series of chemical reactions that create electrical signals. These signals are transmitted to the brain, where they are interpreted as vision.</p>
+related-health-condition(1)/name: autosomal dominant congenital stationary night blindness
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-congenital-stationary-night-blindness
+related-health-condition(2)/name: retinitis pigmentosa
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/retinitis-pigmentosa
+synonym(1): CSNBAD1
+synonym(2): MGC138309
+synonym(3): MGC138311
+synonym(4): OPN2
+synonym(5): OPSD_HUMAN
+synonym(6): opsin-2
+synonym(7): opsin 2, rod pigment
+synonym(8): RP4
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6010
+db-key(2)/db: OMIM
+db-key(2)/key: 180380
+reviewed: 2013-11
+published: 2018-04-17

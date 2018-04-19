@@ -1,0 +1,22 @@
+gene-symbol: MPZ
+name: myelin protein zero
+ghr-page: https://ghr.nlm.nih.gov/gene/MPZ
+text/text-role: function
+text/html: <p>The <i>MPZ</i> gene provides instructions for making a protein called myelin protein zero.  It is the most abundant protein in myelin, a protective substance that covers nerves and promotes the efficient transmission of nerve impulses.  Specialized cells called Schwann cells, which wrap around and insulate nerves, are the only cells that make myelin protein zero.  Schwann cells are part of the peripheral nervous system which connects the brain and spinal cord to muscles and to sensory cells that detect sensations such as touch, pain, heat, and sound.  Myelin protein zero is required for the proper formation and maintenance of myelin. This protein is an adhesion molecule, which means it acts like molecular glue. It plays a role in tightly packing the myelin around nerve cells (myelin compaction).</p>
+related-health-condition/name: Charcot-Marie-Tooth disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+synonym(1): CMT1B
+synonym(2): HMSN1B
+synonym(3): MPP
+synonym(4): myelin glycoprotein P-zero
+synonym(5): myelin peripheral protein
+synonym(6): myelin protein zero (Charcot-Marie-Tooth neuropathy 1B)
+synonym(7): MYP0_HUMAN
+synonym(8): P0 Glycoprotein
+synonym(9): P0 Protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4359
+db-key(2)/db: OMIM
+db-key(2)/key: 159440
+reviewed: 2010-01
+published: 2018-04-17

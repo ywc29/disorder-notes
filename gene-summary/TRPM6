@@ -1,0 +1,19 @@
+gene-symbol: TRPM6
+name: transient receptor potential cation channel subfamily M member 6
+ghr-page: https://ghr.nlm.nih.gov/gene/TRPM6
+text/text-role: function
+text/html: <p>The <i>TRPM6</i> gene provides instructions for making a protein that acts as a channel, which allows charged atoms (ions) of magnesium (Mg<sup>2+</sup>) to flow into cells; the channel may also allow small amounts of calcium ions (Ca<sup>2+</sup>) to pass through cells. Magnesium is involved in many cell processes, including production of cellular energy, maintenance of DNA building blocks (nucleotides), protein production, and cell growth and death. Additionally, Mg<sup>2+</sup> is needed for the production of a substance called parathyroid hormone that regulates blood calcium levels. Magnesium and calcium are also required for the normal functioning of nerve cells that control muscle movement (motor neurons).</p><p>The TRPM6 channel is embedded in the membrane of epithelial cells that line the large intestine, structures in the kidneys known as distal convoluted tubules, the lungs, and the testes in males. When the body needs additional Mg<sup>2+</sup>, the TRPM6 channel allows it to be absorbed in the intestine and filtered from the fluids that pass through the kidneys by the distal convoluted tubules. When the body has sufficient or too much Mg<sup>2+</sup>, the TRPM6 channel does not filter out the Mg<sup>2+</sup> from fluids but allows the ion to be released from the kidney cells into the urine. The channel also helps to regulate Ca<sup>2+</sup>, but to a lesser degree.</p>
+related-health-condition/name: hypomagnesemia with secondary hypocalcemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hypomagnesemia-with-secondary-hypocalcemia
+synonym(1): CHAK2
+synonym(2): channel kinase 2
+synonym(3): FLJ22628
+synonym(4): HMGX
+synonym(5): melastatin-related TRP cation channel 6
+synonym(6): transient receptor potential cation channel, subfamily M, member 6
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 140803
+db-key(2)/db: OMIM
+db-key(2)/key: 607009
+reviewed: 2015-01
+published: 2018-04-17

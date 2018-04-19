@@ -1,0 +1,40 @@
+gene-symbol: AKT1
+name: AKT serine/threonine kinase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/AKT1
+text/text-role: function
+text/html: <p>The <i>AKT1</i> gene provides instructions for making a protein called AKT1 kinase. This protein is found in various cell types throughout the body, where it plays a critical role in many signaling pathways. For example, AKT1 kinase helps regulate cell growth and division (proliferation), the process by which cells mature to carry out specific functions (differentiation), and cell survival. AKT1 kinase also helps control apoptosis, which is the self-destruction of cells when they become damaged or are no longer needed.</p><p>Signaling involving AKT1 kinase appears to be essential for the normal development and function of the nervous system. Studies have suggested a role for AKT1 kinase in cell-to-cell communication among nerve cells (neurons), neuronal survival, and the formation of memories.</p><p>The <i>AKT1</i> gene belongs to a class of genes known as oncogenes. When mutated, oncogenes have the potential to cause normal cells to become cancerous.</p>
+related-health-condition(1)/name: ovarian cancer
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/ovarian-cancer
+related-health-condition(2)/name: Proteus syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/proteus-syndrome
+related-health-condition(3)/name: schizophrenia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/schizophrenia
+synonym(1): AKT
+synonym(2): AKT1_HUMAN
+synonym(3): MGC99656
+synonym(4): PKB
+synonym(5): PKB-ALPHA
+synonym(6): PKB alpha
+synonym(7): PRKBA
+synonym(8): protein kinase B alpha
+synonym(9): proto-oncogene c-Akt
+synonym(10): RAC
+synonym(11): RAC-ALPHA
+synonym(12): RAC-alpha serine/threonine-protein kinase
+synonym(13): RAC-PK-alpha
+synonym(14): rac protein kinase alpha
+synonym(15): v-akt murine thymoma viral oncogene homolog 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 207
+db-key(2)/db: OMIM
+db-key(2)/key: 114480
+db-key(3)/db: OMIM
+db-key(3)/key: 114500
+db-key(4)/db: OMIM
+db-key(4)/key: 164730
+db-key(5)/db: OMIM
+db-key(5)/key: 167000
+db-key(6)/db: OMIM
+db-key(6)/key: 181500
+reviewed: 2012-06
+published: 2018-04-17

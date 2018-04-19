@@ -1,0 +1,33 @@
+gene-symbol: EHMT1
+name: euchromatic histone lysine methyltransferase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/EHMT1
+text/text-role: function
+text/html: <p>The <i>EHMT1</i> gene provides instructions for making an enzyme called euchromatic histone methyltransferase 1. Histone methyltransferases are enzymes that modify proteins called histones. Histones are structural proteins that attach (bind) to DNA and give chromosomes their shape. By adding a molecule called a methyl group to histones, histone methyltransferases can turn off (suppress) the activity of certain genes, which is essential for normal development and function.</p>
+related-health-condition/name: Kleefstra syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/kleefstra-syndrome
+synonym(1): bA188C12.1
+synonym(2): DEL9q34
+synonym(3): DKFZp667M072
+synonym(4): EHMT1_HUMAN
+synonym(5): Eu-HMTase1
+synonym(6): euchromatic histone-lysine N-methyltransferase 1
+synonym(7): EUHMTASE1
+synonym(8): FLJ12879
+synonym(9): FP13812
+synonym(10): G9a like protein
+synonym(11): G9a-like protein 1
+synonym(12): GLP
+synonym(13): GLP1
+synonym(14): H3-K9-HMTase 5
+synonym(15): histone H3-K9 methyltransferase 5
+synonym(16): histone-lysine N-methyltransferase, H3 lysine-9 specific 5
+synonym(17): KIAA1876
+synonym(18): KMT1D
+synonym(19): lysine N-methyltransferase 1D
+synonym(20): RP11-188C12.1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 79813
+db-key(2)/db: OMIM
+db-key(2)/key: 607001
+reviewed: 2011-02
+published: 2018-04-17

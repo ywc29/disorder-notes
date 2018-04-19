@@ -1,0 +1,43 @@
+name: Progressive familial intrahepatic cholestasis
+ghr-page: https://ghr.nlm.nih.gov/condition/progressive-familial-intrahepatic-cholestasis
+text/text-role: description
+text/html: <p>Progressive familial intrahepatic cholestasis (PFIC) is a disorder that causes progressive liver disease, which typically leads to liver failure.  In people with PFIC, liver cells are less able to secrete a digestive fluid called bile.  The buildup of bile in liver cells causes liver disease in affected individuals.</p><p>Signs and symptoms of PFIC typically begin in infancy and are related to bile buildup and liver disease.  Specifically, affected individuals experience severe itching, yellowing of the skin and whites of the eyes (jaundice), failure to gain weight and grow at the expected rate (failure to thrive), high blood pressure in the vein that supplies blood to the liver (portal hypertension), and an enlarged liver and spleen (hepatosplenomegaly).</p><p>There are three known types of PFIC: PFIC1, PFIC2, and PFIC3.  The types are also sometimes described as shortages of particular proteins needed for normal liver function.  Each type has a different genetic cause.</p><p>In addition to signs and symptoms related to liver disease, people with PFIC1 may have short stature, deafness, diarrhea, inflammation of the pancreas (pancreatitis), and low levels of fat-soluble vitamins (vitamins A, D, E, and K) in the blood.  Affected individuals typically develop liver failure before adulthood.</p><p>The signs and symptoms of PFIC2 are typically related to liver disease only; however, these signs and symptoms tend to be more severe than those experienced by people with PFIC1.  People with PFIC2 often develop liver failure within the first few years of life.  Additionally, affected individuals are at increased risk of developing a type of liver cancer called hepatocellular carcinoma.</p><p>Most people with PFIC3 have signs and symptoms related to liver disease only.  Signs and symptoms of PFIC3 usually do not appear until later in infancy or early childhood; rarely, people are diagnosed in early adulthood.  Liver failure can occur in childhood or adulthood in people with PFIC3.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: ABCB4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ABCB4
+related-gene(2)/gene-symbol: ABCB11
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ABCB11
+related-gene(3)/gene-symbol: ATP8B1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/ATP8B1
+synonym(1): ABCB4-related intrahepatic cholestasis
+synonym(2): ABCB11-related intrahepatic cholestasis
+synonym(3): ATP8B1-related intrahepatic cholestasis
+synonym(4): BSEP deficiency
+synonym(5): Byler disease
+synonym(6): Byler syndrome
+synonym(7): FIC1 deficiency
+synonym(8): low γ-GT familial intrahepatic cholestasis
+synonym(9): MDR3 deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0268312
+db-key(2)/db: GTR
+db-key(2)/key: C1865643
+db-key(3)/db: GTR
+db-key(3)/key: C3489789
+db-key(4)/db: GeneReviews
+db-key(4)/key: pfic
+db-key(5)/db: MeSH
+db-key(5)/key: D002780
+db-key(6)/db: OMIM
+db-key(6)/key: 211600
+db-key(7)/db: OMIM
+db-key(7)/key: 601847
+db-key(8)/db: OMIM
+db-key(8)/key: 602347
+db-key(9)/db: Orphanet
+db-key(9)/key: 172
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 74162007
+reviewed: 2009-12
+published: 2018-04-17

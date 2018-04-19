@@ -1,0 +1,20 @@
+gene-symbol: FOXF1
+name: forkhead box F1
+ghr-page: https://ghr.nlm.nih.gov/gene/FOXF1
+text/text-role: function
+text/html: <p>The <i>FOXF1</i> gene provides instructions for making the forkhead box F1 (FOXF1) protein. This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of many other genes. The FOXF1 protein is important in the development of pulmonary mesenchyme, the embryonic tissue from which blood vessels of the lung arise. It is also involved in the development of the gastrointestinal tract.</p>
+related-health-condition/name: alveolar capillary dysplasia with misalignment of pulmonary veins
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/alveolar-capillary-dysplasia-with-misalignment-of-pulmonary-veins
+synonym(1): ACDMPV
+synonym(2): FKHL5
+synonym(3): forkhead-related activator 1
+synonym(4): Forkhead, drosophila, homolog-like 5
+synonym(5): FOXF1_HUMAN
+synonym(6): FREAC1
+synonym(7): MGC105125
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2294
+db-key(2)/db: OMIM
+db-key(2)/key: 601089
+reviewed: 2010-05
+published: 2018-04-17

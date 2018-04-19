@@ -1,0 +1,26 @@
+name: Ellis-van Creveld syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/ellis-van-creveld-syndrome
+text/text-role: description
+text/html: <p>Ellis-van Creveld syndrome is an inherited disorder of bone growth that results in very short stature (dwarfism).  People with this condition have particularly short forearms and lower legs and a narrow chest with short ribs.  Ellis-van Creveld syndrome is also characterized by the presence of extra fingers and toes (polydactyly), malformed fingernails and toenails, and dental abnormalities. More than half of affected individuals are born with a heart defect, which can cause serious or life-threatening health problems.</p><p>The features of Ellis-van Creveld syndrome overlap with those of another, milder condition called Weyers acrofacial dysostosis. Like Ellis-van Creveld syndrome, Weyers acrofacial dysostosis involves tooth and nail abnormalities, although affected individuals have less pronounced short stature and typically do not have heart defects. The two conditions are caused by mutations in the same genes.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: EVC
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/EVC
+related-gene(2)/gene-symbol: EVC2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/EVC2
+synonym(1): chondroectodermal dysplasia
+synonym(2): Ellis-van Creveld dysplasia
+db-key(1)/db: GTR
+db-key(1)/key: C0013903
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: Q77.6
+db-key(3)/db: MeSH
+db-key(3)/key: D004613
+db-key(4)/db: OMIM
+db-key(4)/key: 225500
+db-key(5)/db: Orphanet
+db-key(5)/key: 289
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 62501005
+reviewed: 2012-12
+published: 2018-04-17

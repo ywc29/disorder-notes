@@ -1,0 +1,21 @@
+gene-symbol: ALDH7A1
+name: aldehyde dehydrogenase 7 family member A1
+ghr-page: https://ghr.nlm.nih.gov/gene/ALDH7A1
+text/text-role: function
+text/html: <p>The <i>ALDH7A1</i> gene is a member of the aldehyde dehydrogenase (ALDH) gene family.  These genes provide instructions for producing enzymes that alter molecules called aldehydes.  The <i>ALDH7A1</i> gene provides instructions for making an enzyme called α-aminoadipic semialdehyde (α-AASA) dehydrogenase, also known as antiquitin.  Within the cell, antiquitin is found in the internal fluid of the cell (cytosol) and in the nucleus. This enzyme is involved in the breakdown of the protein building block (amino acid) lysine in the brain.  In one step in the breakdown of lysine to other molecules, antiquitin facilitates the conversion of α-aminoadipic semialdehyde to α-aminoadipate.  The breakdown of lysine in the brain is necessary for energy production and to produce other needed molecules.</p>
+related-health-condition/name: pyridoxine-dependent epilepsy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pyridoxine-dependent-epilepsy
+synonym(1): AL7A1_HUMAN
+synonym(2): aldehyde dehydrogenase 7 family, member A1
+synonym(3): aldehyde dehydrogenase 7A1
+synonym(4): antiquitin
+synonym(5): antiquitin 1
+synonym(6): ATQ1
+synonym(7): EPD
+synonym(8): PDE
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 501
+db-key(2)/db: OMIM
+db-key(2)/key: 107323
+reviewed: 2008-06
+published: 2018-04-17

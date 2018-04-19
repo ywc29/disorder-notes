@@ -1,0 +1,20 @@
+name: Otulipenia
+ghr-page: https://ghr.nlm.nih.gov/condition/otulipenia
+text/text-role: description
+text/html: <p>Otulipenia is characterized by abnormal inflammation throughout the body. Inflammation is a normal immune system response to injury and foreign invaders (such as bacteria). However, the uncontrolled inflammation that occurs in otulipenia can damage many of the body's tissues and organs, including the gastrointestinal system, joints, and skin. Disorders such as otulipenia that result from abnormally increased inflammation are known as autoinflammatory diseases.</p><p>Signs and symptoms of otulipenia usually begin within the first few weeks of life, with recurring episodes of fever; diarrhea; painful, swollen joints; and skin rashes. The skin rashes are due to inflammation of the layer of fatty tissue under the skin (panniculitis), which causes painful red bumps. Some people with otulipenia have an abnormal distribution of fatty tissue in their bodies (lipodystrophy). Affected infants have difficulty growing and gaining weight at the expected rate (failure to thrive). Damage to the body's tissues and organs caused by inflammation is life-threatening if the condition is not treated.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: OTULIN
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/OTULIN
+synonym(1): AIPDS
+synonym(2): autoinflammation, panniculitis, and dermatosis syndrome
+synonym(3): ORAS
+synonym(4): OTULIN-related autoinflammatory syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C4310614
+db-key(2)/db: MeSH
+db-key(2)/key: D056660
+db-key(3)/db: OMIM
+db-key(3)/key: 617099
+reviewed: 2016-12
+published: 2018-04-17

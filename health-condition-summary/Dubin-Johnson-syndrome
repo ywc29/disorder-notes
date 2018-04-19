@@ -1,0 +1,25 @@
+name: Dubin-Johnson syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/dubin-johnson-syndrome
+text/text-role: description
+text/html: <p>Dubin-Johnson syndrome is a condition characterized by jaundice, which is a yellowing of the skin and whites of the eyes.  In most affected people jaundice appears during adolescence or early adulthood, although a few individuals have been diagnosed soon after birth.   Jaundice is typically the only symptom of Dubin-Johnson syndrome, but some people also experience weakness, mild upper abdominal pain, nausea, and/or vomiting.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ABCC2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ABCC2
+synonym(1): DJS
+synonym(2): hyperbilirubinemia II
+synonym(3): Jaundice, Chronic Idiopathic
+db-key(1)/db: GTR
+db-key(1)/key: C0022350
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E80.6
+db-key(3)/db: MeSH
+db-key(3)/key: D007566
+db-key(4)/db: OMIM
+db-key(4)/key: 237500
+db-key(5)/db: Orphanet
+db-key(5)/key: 234
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 44553005
+reviewed: 2009-03
+published: 2018-04-17

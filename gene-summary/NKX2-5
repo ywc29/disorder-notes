@@ -1,0 +1,14 @@
+gene-symbol: NKX2-5
+name: NK2 homeobox 5
+ghr-page: https://ghr.nlm.nih.gov/gene/NKX2-5
+related-health-condition(1)/name: congenital hypothyroidism
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-hypothyroidism
+related-health-condition(2)/name: critical congenital heart disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/critical-congenital-heart-disease
+related-health-condition(3)/name: familial atrial fibrillation
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-atrial-fibrillation
+related-health-condition(4)/name: heterotaxy syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/heterotaxy-syndrome
+db-key/db: NCBI Gene
+db-key/key: 1482
+published: 2018-04-17

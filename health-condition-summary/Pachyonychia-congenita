@@ -1,0 +1,46 @@
+name: Pachyonychia congenita
+ghr-page: https://ghr.nlm.nih.gov/condition/pachyonychia-congenita
+text/text-role: description
+text/html: <p>Pachyonychia congenita is a condition that primarily affects the nails and skin. The signs and symptoms of this condition usually become apparent within the first few months of life.</p><p>Almost everyone with pachyonychia congenita has hypertrophic nail dystrophy, which causes the fingernails and toenails to become thick and abnormally shaped. Many affected children also develop very painful blisters and calluses on the soles of the feet and, less commonly, on the palms of the hands. This condition is known as palmoplantar keratoderma. Severe blisters and calluses on the feet can make it painful or impossible to walk.</p><p>Pachyonychia congenita can have several additional features, which vary among affected individuals. These features include thick, white patches on the tongue and inside of the cheeks (oral leukokeratosis); bumps called follicular keratoses that develop around hair follicles on the elbows, knees, and waistline; cysts in the armpits, groin, back, or scalp; and excessive sweating on the palms and soles (palmoplantar hyperhidrosis). Some affected individuals also develop widespread cysts called steatocystomas, which are filled with an oily substance called sebum that normally lubricates the skin and hair. Some babies with pachyonychia congenita have prenatal or natal teeth, which are teeth that are present at birth or in early infancy. Rarely, pachyonychia congenita can affect the voice box (larynx), potentially leading to hoarseness or breathing problems.</p><p>Researchers used to split pachyonychia congenita into two types, PC-1 and PC-2, based on the genetic cause and pattern of signs and symptoms. However, as more affected individuals were identified, it became clear that the features of the two types overlapped considerably. Now researchers prefer to describe pachyonychia congenita based on the gene that is altered.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: KRT6A
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT6A
+related-gene(2)/gene-symbol: KRT6B
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT6B
+related-gene(3)/gene-symbol: KRT6C
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT6C
+related-gene(4)/gene-symbol: KRT16
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT16
+related-gene(5)/gene-symbol: KRT17
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT17
+synonym(1): congenital pachyonychia
+synonym(2): Jackson-Lawler syndrome (PC-2)
+synonym(3): Jadassohn-Lewandowski syndrome (PC-1)
+synonym(4): pachyonychia congenita syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0265334
+db-key(2)/db: GTR
+db-key(2)/key: C1706595
+db-key(3)/db: GTR
+db-key(3)/key: C1721007
+db-key(4)/db: GTR
+db-key(4)/key: C3714949
+db-key(5)/db: GeneReviews
+db-key(5)/key: pc
+db-key(6)/db: MeSH
+db-key(6)/key: D053549
+db-key(7)/db: OMIM
+db-key(7)/key: 167200
+db-key(8)/db: OMIM
+db-key(8)/key: 167210
+db-key(9)/db: OMIM
+db-key(9)/key: 615726
+db-key(10)/db: OMIM
+db-key(10)/key: 615728
+db-key(11)/db: Orphanet
+db-key(11)/key: 2309
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 39427000
+reviewed: 2015-12
+published: 2018-04-17

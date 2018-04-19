@@ -1,0 +1,17 @@
+gene-symbol: TCHH
+name: trichohyalin
+ghr-page: https://ghr.nlm.nih.gov/gene/TCHH
+text/text-role: function
+text/html: <p>The <i>TCHH</i> gene provides instructions for making a protein called trichohyalin. This protein is primarily found in hair follicles, which are specialized structures in the skin where hair growth occurs. Trichohyalin can also be found in the hair strand (shaft). Once trichohyalin is produced, it is modified by other proteins so that it can attach (bind) to other trichohyalin proteins and to molecules called keratin intermediate filaments to create organized cross-links. These links form dense networks that give the hair shaft its cylindrical shape.</p>
+related-health-condition/name: uncombable hair syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/uncombable-hair-syndrome
+synonym(1): AHF
+synonym(2): THH
+synonym(3): THL
+synonym(4): TRHY
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7062
+db-key(2)/db: OMIM
+db-key(2)/key: 190370
+reviewed: 2017-05
+published: 2018-04-17

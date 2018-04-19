@@ -1,0 +1,46 @@
+name: Familial adenomatous polyposis
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-adenomatous-polyposis
+text/text-role: description
+text/html: <p>Familial adenomatous polyposis (FAP) is an inherited disorder characterized by cancer of the large intestine (colon) and rectum. People with the classic type of familial adenomatous polyposis may begin to develop multiple noncancerous (benign) growths (polyps) in the colon as early as their teenage years. Unless the colon is removed, these polyps will become malignant (cancerous). The average age at which an individual develops colon cancer in classic familial adenomatous polyposis is 39 years. Some people have a variant of the disorder, called attenuated familial adenomatous polyposis, in which polyp growth is delayed. The average age of colorectal cancer onset for attenuated familial adenomatous polyposis is 55 years.</p><p>In people with classic familial adenomatous polyposis, the number of polyps increases with age, and hundreds to thousands of polyps can develop in the colon. Also of particular significance are noncancerous growths called desmoid tumors. These fibrous tumors usually occur in the tissue covering the intestines and may be provoked by surgery to remove the colon. Desmoid tumors tend to recur after they are surgically removed. In both classic familial adenomatous polyposis and its attenuated variant, benign and malignant tumors are sometimes found in other places in the body, including the duodenum (a section of the small intestine), stomach, bones, skin, and other tissues. People who have colon polyps as well as growths outside the colon are sometimes described as having Gardner syndrome.</p><p>A milder type of familial adenomatous polyposis, called autosomal recessive familial adenomatous polyposis, has also been identified. People with the autosomal recessive type of this disorder have fewer polyps than those with the classic type. Fewer than 100 polyps typically develop, rather than hundreds or thousands. The autosomal recessive type of this disorder is caused by mutations in a different gene than the classic and attenuated types of familial adenomatous polyposis.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: APC
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/APC
+related-gene(2)/gene-symbol: MUTYH
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MUTYH
+synonym(1): adenomatous familial polyposis
+synonym(2): adenomatous familial polyposis syndrome
+synonym(3): adenomatous polyposis coli
+synonym(4): familial multiple polyposis syndrome
+synonym(5): FAP
+synonym(6): MYH-associated polyposis
+db-key(1)/db: GTR
+db-key(1)/key: C0032580
+db-key(2)/db: GTR
+db-key(2)/key: C1837991
+db-key(3)/db: GTR
+db-key(3)/key: C1851124
+db-key(4)/db: GTR
+db-key(4)/key: C2713442
+db-key(5)/db: GeneReviews
+db-key(5)/key: fap
+db-key(6)/db: GeneReviews
+db-key(6)/key: maps
+db-key(7)/db: MeSH
+db-key(7)/key: D011125
+db-key(8)/db: OMIM
+db-key(8)/key: 135290
+db-key(9)/db: OMIM
+db-key(9)/key: 175100
+db-key(10)/db: OMIM
+db-key(10)/key: 608456
+db-key(11)/db: Orphanet
+db-key(11)/key: 733
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 423471004
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 72900001
+reviewed: 2013-10
+published: 2018-04-17

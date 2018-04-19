@@ -1,0 +1,39 @@
+name: Rhizomelic chondrodysplasia punctata
+ghr-page: https://ghr.nlm.nih.gov/condition/rhizomelic-chondrodysplasia-punctata
+text/text-role: description
+text/html: <p>Rhizomelic chondrodysplasia punctata is a condition that impairs the normal development of many parts of the body. The major features of this disorder include skeletal abnormalities, distinctive facial features, intellectual disability, and respiratory problems.</p><p>Rhizomelic chondrodysplasia punctata is characterized by shortening of the bones in the upper arms and thighs (rhizomelia). Affected individuals also have a specific bone abnormality called chondrodysplasia punctata, which affects the growth of the long bones and can be seen on x-rays. People with rhizomelic chondrodysplasia punctata often develop joint deformities (contractures) that make the joints stiff and painful.</p><p>Distinctive facial features are also seen with rhizomelic chondrodysplasia punctata. These include a prominent forehead, widely set eyes (hypertelorism), a sunken appearance of the middle of the face (midface hypoplasia), a small nose with upturned nostrils, and full cheeks. Additionally, almost all affected individuals have clouding of the lenses of the eyes (cataracts). The cataracts are apparent at birth (congenital) or develop in early infancy.</p><p>Rhizomelic chondrodysplasia punctata is associated with significantly delayed development and severe intellectual disability. Most children with this condition do not achieve developmental milestones such as sitting without support, feeding themselves, or speaking in phrases. Affected infants grow much more slowly than other children their age, and many also have seizures. Recurrent respiratory infections and life-threatening breathing problems are common. Because of their severe health problems, most people with rhizomelic chondrodysplasia punctata survive only into childhood. It is rare for affected children to live past age 10. However, a few individuals with milder features of the condition have lived into early adulthood.</p><p>Researchers have described three types of rhizomelic chondrodysplasia punctata: type 1 (RCDP1), type 2 (RCDP2), and type 3 (RCDP3). The types have similar features and are distinguished by their genetic cause.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: AGPS
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AGPS
+related-gene(2)/gene-symbol: GNPAT
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/GNPAT
+related-gene(3)/gene-symbol: PEX7
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX7
+synonym(1): chondrodysplasia punctata, rhizomelic
+synonym(2): RCDP
+synonym(3): RCP
+db-key(1)/db: GTR
+db-key(1)/key: C1838612
+db-key(2)/db: GTR
+db-key(2)/key: C1857242
+db-key(3)/db: GTR
+db-key(3)/key: C1859133
+db-key(4)/db: GeneReviews
+db-key(4)/key: rcdp
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: E71.540
+db-key(6)/db: MeSH
+db-key(6)/key: D018902
+db-key(7)/db: OMIM
+db-key(7)/key: 215100
+db-key(8)/db: OMIM
+db-key(8)/key: 222765
+db-key(9)/db: OMIM
+db-key(9)/key: 600121
+db-key(10)/db: Orphanet
+db-key(10)/key: 177
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 56692003
+reviewed: 2010-07
+published: 2018-04-17

@@ -1,0 +1,28 @@
+name: X
+ghr-page: https://ghr.nlm.nih.gov/chromosome/X
+text/text-role: description
+text/html: <p>The X chromosome is one of the two sex chromosomes in humans (the other is the Y chromosome). The sex chromosomes form one of the 23 pairs of human chromosomes in each cell. The X chromosome spans about 155 million DNA building blocks (base pairs) and represents approximately 5 percent of the total DNA in cells.</p><p>Each person normally has one pair of sex chromosomes in each cell. Females have two X chromosomes, while males have one X and one Y chromosome. Early in embryonic development in females, one of the two X chromosomes is randomly and permanently inactivated in cells other than egg cells. This phenomenon is called X-inactivation or lyonization. X-inactivation ensures that females, like males, have one functional copy of the X chromosome in each body cell. Because X-inactivation is random, in normal females the X chromosome inherited from the mother is active in some cells, and the X chromosome inherited from the father is active in other cells.</p><p>Some genes on the X chromosome escape X-inactivation. Many of these genes are located at the ends of each arm of the X chromosome in areas known as the pseudoautosomal regions. Although many genes are unique to the X chromosome, genes in the pseudoautosomal regions are present on both sex chromosomes. As a result, men and women each have two functional copies of these genes. Many genes in the pseudoautosomal regions are essential for normal development.</p><p>Identifying genes on each chromosome is an active area of genetic research. Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. The X chromosome likely contains 800 to 900 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.</p>
+related-health-condition(1)/name: 46,XX testicular disorder of sex development
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/46xx-testicular-disorder-of-sex-development
+related-health-condition(2)/name: 48,XXYY syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/48xxyy-syndrome
+related-health-condition(3)/name: intestinal pseudo-obstruction
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/intestinal-pseudo-obstruction
+related-health-condition(4)/name: Klinefelter syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/klinefelter-syndrome
+related-health-condition(5)/name: microphthalmia with linear skin defects syndrome
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/microphthalmia-with-linear-skin-defects-syndrome
+related-health-condition(6)/name: triple X syndrome
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/triple-x-syndrome
+related-health-condition(7)/name: Turner syndrome
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/turner-syndrome
+related-health-condition(8)/name: X-linked acrogigantism
+related-health-condition(8)/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-acrogigantism
+db-key(1)/db: GeneReviews
+db-key(1)/key: microph-lsd
+db-key(2)/db: GeneReviews
+db-key(2)/key: x-ag
+db-key(3)/db: GeneReviews
+db-key(3)/key: xxms
+reviewed: 2017-12
+published: 2018-04-17

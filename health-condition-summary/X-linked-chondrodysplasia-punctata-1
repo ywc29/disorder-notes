@@ -1,0 +1,28 @@
+name: X-linked chondrodysplasia punctata 1
+ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-chondrodysplasia-punctata-1
+text/text-role: description
+text/html: <p>X-linked chondrodysplasia punctata 1 is a disorder of cartilage and bone development that occurs almost exclusively in males. Chondrodysplasia punctata is an abnormality that appears on x-rays as spots (stippling) near the ends of bones and in cartilage. In most infants with X-linked chondrodysplasia punctata 1, this stippling is seen in bones of the ankles, toes, and fingers; however, it can also appear in other bones. The stippling generally disappears in early childhood.</p><p>Other characteristic features of X-linked chondrodysplasia punctata 1 include short stature and unusually short fingertips and ends of the toes. This condition is also associated with distinctive facial features, particularly a flattened-appearing nose with crescent-shaped nostrils and a flat nasal bridge.</p><p>People with X-linked chondrodysplasia punctata 1 typically have normal intelligence and a normal life expectancy. However, some affected individuals have had serious or life-threatening complications including abnormal thickening (stenosis) of the cartilage that makes up the airways, which restricts breathing. Also, abnormalities of spinal bones in the neck can lead to pinching (compression) of the spinal cord, which can cause pain, numbness, and weakness. Other, less common features of X-linked chondrodysplasia punctata 1 include delayed development, hearing loss, vision abnormalities, and heart defects.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: ARSE
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ARSE
+synonym(1): arylsulfatase E deficiency
+synonym(2): CDPX1
+synonym(3): chondrodysplasia punctata 1, X-linked
+synonym(4): X-linked recessive chondrodysplasia punctata 1
+db-key(1)/db: GTR
+db-key(1)/key: C1844853
+db-key(2)/db: GeneReviews
+db-key(2)/key: cdp1-xlr
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q77.3
+db-key(4)/db: MeSH
+db-key(4)/key: D002806
+db-key(5)/db: OMIM
+db-key(5)/key: 302950
+db-key(6)/db: Orphanet
+db-key(6)/key: 79345
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 254082007
+reviewed: 2011-11
+published: 2018-04-17

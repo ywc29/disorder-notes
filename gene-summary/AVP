@@ -1,0 +1,24 @@
+gene-symbol: AVP
+name: arginine vasopressin
+ghr-page: https://ghr.nlm.nih.gov/gene/AVP
+text/text-role: function
+text/html: <p>The <i>AVP</i> gene provides instructions for making a hormone called vasopressin or antidiuretic hormone (ADH). ADH starts out as a larger molecule called a preprohormone, which is cut (cleaved) and modified to produce the active hormone and several related proteins. The preprohormone is made in a region of the brain called the hypothalamus. It is then transported to the nearby pituitary gland, where active ADH is stored until it is needed.</p><p>The major function of ADH is to help control the body's water balance by determining how much water is excreted in urine. Normally, when a person's fluid intake is low or when a lot of fluid is lost (for example, through sweating), the pituitary gland releases more ADH into the bloodstream. High levels of this hormone direct the kidneys to reabsorb more water and to make less urine. When fluid intake is adequate, the pituitary gland releases less ADH. Lower levels of this hormone cause the kidneys to reabsorb less water and to make more urine.</p>
+related-health-condition/name: neurohypophyseal diabetes insipidus
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/neurohypophyseal-diabetes-insipidus
+synonym(1): ADH
+synonym(2): antidiuretic hormone
+synonym(3): ARVP
+synonym(4): AVP-NPII
+synonym(5): AVRP
+synonym(6): NEU2_HUMAN
+synonym(7): neurohypophyseal
+synonym(8): vasopressin-neurophysin 2-copeptin
+synonym(9): vasopressin-neurophysin 2-copeptin preproprotein
+synonym(10): vasopressin-neurophysin II-copeptin
+synonym(11): VP
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 551
+db-key(2)/db: OMIM
+db-key(2)/key: 192340
+reviewed: 2010-04
+published: 2018-04-17

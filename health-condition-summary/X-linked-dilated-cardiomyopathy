@@ -1,0 +1,32 @@
+name: X-linked dilated cardiomyopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-dilated-cardiomyopathy
+text/text-role: description
+text/html: <p>X-linked dilated cardiomyopathy is a form of heart disease. Dilated cardiomyopathy enlarges and weakens the heart (cardiac) muscle, preventing the heart from pumping blood efficiently. Signs and symptoms of this condition can include an irregular heartbeat (arrhythmia), shortness of breath, extreme tiredness (fatigue), and swelling of the legs and feet. In males with X-linked dilated cardiomyopathy, heart problems usually develop early in life and worsen quickly, leading to heart failure in adolescence or early adulthood. In affected females, the condition appears later in life and worsens more slowly.</p><p>X-linked dilated cardiomyopathy is part of a spectrum of related conditions caused by mutations in the <i>DMD</i> gene. The other conditions in the spectrum, Duchenne and Becker muscular dystrophy, are characterized by progressive weakness and wasting of muscles used for movement (skeletal muscles) in addition to heart disease. People with X-linked dilated cardiomyopathy typically do not have any skeletal muscle weakness or wasting, although they may have subtle changes in their skeletal muscle cells that are detectable through laboratory testing. Based on these skeletal muscle changes, X-linked dilated cardiomyopathy is sometimes classified as subclinical Becker muscular dystrophy.</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+related-gene/gene-symbol: DMD
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DMD
+synonym(1): CMD3B
+synonym(2): dilated cardiomyopathy 3B
+synonym(3): DMD-associated dilated cardiomyopathy
+synonym(4): DMD-related dilated cardiomyopathy
+synonym(5): XLCM
+synonym(6): XLDC
+db-key(1)/db: GTR
+db-key(1)/key: C3668940
+db-key(2)/db: GeneReviews
+db-key(2)/key: dbmd
+db-key(3)/db: GeneReviews
+db-key(3)/key: dcm-ov
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: I42.0
+db-key(5)/db: MeSH
+db-key(5)/key: D002311
+db-key(6)/db: OMIM
+db-key(6)/key: 302045
+db-key(7)/db: Orphanet
+db-key(7)/key: 154
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 702424003
+reviewed: 2017-02
+published: 2018-04-17

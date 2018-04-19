@@ -1,0 +1,29 @@
+gene-symbol: TERT
+name: telomerase reverse transcriptase
+ghr-page: https://ghr.nlm.nih.gov/gene/TERT
+text/text-role: function
+text/html: <p>The <i>TERT</i> gene provides instructions for making one component of an enzyme called telomerase. Telomerase maintains structures called telomeres, which are composed of repeated segments of DNA found at the ends of chromosomes. Telomeres protect chromosomes from abnormally sticking together or breaking down (degrading). In most cells, telomeres become progressively shorter as the cell divides. After a certain number of cell divisions, the telomeres become so short that they trigger the cell to stop dividing or to self-destruct (undergo apoptosis). Telomerase counteracts the shortening of telomeres by adding small repeated segments of DNA to the ends of chromosomes each time the cell divides.</p><p>In most types of cells, telomerase is either undetectable or active at very low levels. However, telomerase is highly active in cells that divide rapidly, such as cells that line the lungs and gastrointestinal tract, cells in bone marrow, and cells of the developing fetus. Telomerase allows these cells to divide many times without becoming damaged or undergoing apoptosis. Telomerase is also abnormally active in most cancer cells, which grow and divide without control or order.</p><p>The telomerase enzyme consists of two major components that work together. The component produced from the <i>TERT</i> gene is known as hTERT. The other component is produced from a gene called <i>TERC</i> and is known as hTR. The hTR component provides a template for creating the repeated sequence of DNA that telomerase adds to the ends of chromosomes. The hTERT component then adds the new DNA segment to chromosome ends.</p>
+related-health-condition(1)/name: breast cancer
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
+related-health-condition(2)/name: cholangiocarcinoma
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cholangiocarcinoma
+related-health-condition(3)/name: dyskeratosis congenita
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/dyskeratosis-congenita
+related-health-condition(4)/name: idiopathic pulmonary fibrosis
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/idiopathic-pulmonary-fibrosis
+synonym(1): EST2
+synonym(2): hEST2
+synonym(3): TCS1
+synonym(4): telomerase-associated protein 2
+synonym(5): telomerase catalytic subunit
+synonym(6): TERT_HUMAN
+synonym(7): TP2
+synonym(8): TRT
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7015
+db-key(2)/db: OMIM
+db-key(2)/key: 187270
+db-key(3)/db: OMIM
+db-key(3)/key: 609135
+reviewed: 2014-03
+published: 2018-04-17

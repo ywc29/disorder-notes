@@ -1,0 +1,25 @@
+name: 15q24 microdeletion
+ghr-page: https://ghr.nlm.nih.gov/condition/15q24-microdeletion
+text/text-role: description
+text/html: <p>15q24 microdeletion is a chromosomal change in which a small piece of chromosome 15 is deleted in each cell. The deletion occurs on the long (q) arm of the chromosome at a position designated q24.</p><p>15q24 microdeletion is associated with mild to moderate intellectual disability and delayed speech development. Other common signs and symptoms include short stature, weak muscle tone (hypotonia), and skeletal abnormalities including loose (lax) joints. Affected males may have genital abnormalities, which can include an unusually small penis (micropenis) and the opening of the urethra on the underside of the penis (hypospadias). Affected individuals also have distinctive facial features such as a high front hairline, broad eyebrows, widely set eyes (hypertelorism), outside corners of the eyes that point downward (downslanting palpebral fissures), a broad nasal bridge, a full lower lip, and a long, smooth space between the upper lip and nose (philtrum).</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-chromosome/name: 15
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/15
+synonym(1): 15q24 deletion
+synonym(2): 15q24 microdeletion syndrome
+synonym(3): interstitial deletion of chromosome 15q24
+db-key(1)/db: GTR
+db-key(1)/key: C3150674
+db-key(2)/db: GeneReviews
+db-key(2)/key: mdel15q24
+db-key(3)/db: MeSH
+db-key(3)/key: D025063
+db-key(4)/db: OMIM
+db-key(4)/key: 613406
+db-key(5)/db: Orphanet
+db-key(5)/key: 94065
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 699308002
+reviewed: 2011-09
+published: 2018-04-17

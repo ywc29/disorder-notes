@@ -1,0 +1,22 @@
+gene-symbol: EZH2
+name: enhancer of zeste 2 polycomb repressive complex 2 subunit
+ghr-page: https://ghr.nlm.nih.gov/gene/EZH2
+text/text-role: function
+text/html: <p>The <i>EZH2</i> gene provides instructions for making a type of enzyme called a histone methyltransferase. Histone methyltransferases modify proteins called histones, which are structural proteins that attach (bind) to DNA and give chromosomes their shape. By adding a molecule called a methyl group to histones (methylation), histone methyltransferases can turn off (suppress) the activity of certain genes, an essential process in normal development. Specifically, the EZH2 enzyme forms part of a protein group called the polycomb repressive complex-2. By turning off particular genes, this complex is involved in the process that determines the type of cell an immature cell will ultimately become (cell fate determination).</p>
+related-health-condition(1)/name: prostate cancer
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+related-health-condition(2)/name: Weaver syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/weaver-syndrome
+synonym(1): enhancer of zeste homolog 2 (Drosophila)
+synonym(2): ENX-1
+synonym(3): EZH2_HUMAN
+synonym(4): histone-lysine N-methyltransferase EZH2
+synonym(5): KMT6
+synonym(6): KMT6A
+synonym(7): lysine N-methyltransferase 6
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2146
+db-key(2)/db: OMIM
+db-key(2)/key: 601573
+reviewed: 2016-03
+published: 2018-04-17

@@ -1,0 +1,22 @@
+name: Ring chromosome 20 syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/ring-chromosome-20-syndrome
+text/text-role: description
+text/html: <p>Ring chromosome 20 syndrome is a condition that affects the normal development and function of the brain. The most common feature of this condition is recurrent seizures (epilepsy) in childhood. The seizures may occur during the day or at night during sleep. They are described as partial seizures because they affect only one area of the brain, a region called the frontal lobe. In many cases, the seizures are complex and resistant to treatment with anti-epileptic drugs. Prolonged seizure episodes known as non-convulsive status epilepticus also appear to be characteristic of ring chromosome 20 syndrome. These episodes involve confusion and behavioral changes.</p><p>Most people with ring chromosome 20 syndrome also have some degree of intellectual disability and behavioral difficulties. Although these problems can appear either before or after the onset of epilepsy, they tend to worsen after seizures develop. Additional features of this condition can include slow growth and short stature, a small head (microcephaly), and subtle differences in facial features. Major birth defects are rarely seen with ring chromosome 20 syndrome.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-chromosome/name: 20
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/20
+synonym(1): r(20) syndrome
+synonym(2): ring 20 syndrome
+synonym(3): ring chromosome 20
+synonym(4): ring chromosome 20 epilepsy syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0265482
+db-key(2)/db: MeSH
+db-key(2)/key: D012303
+db-key(3)/db: Orphanet
+db-key(3)/key: 1444
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 23686004
+reviewed: 2009-05
+published: 2018-04-17

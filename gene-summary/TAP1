@@ -1,0 +1,32 @@
+gene-symbol: TAP1
+name: transporter 1, ATP binding cassette subfamily B member
+ghr-page: https://ghr.nlm.nih.gov/gene/TAP1
+text/text-role: function
+text/html: <p>The <i>TAP1</i> gene provides instructions for making a protein that plays an important role in the immune system. The TAP1 protein assembles with another protein called TAP2 (produced from the <i>TAP2</i> gene) to form a protein complex called transporter associated with antigen processing (TAP) complex. This complex, which is found in the membrane of a cell structure called the endoplasmic reticulum, moves (transports) protein fragments (peptides) from foreign invaders into the endoplasmic reticulum. There, the peptides are attached to major histocompatibility complex (MHC) class I proteins. The peptide-bound MHC class I proteins are then moved to the surface of the cell so that specialized immune system cells can interact with them. When these immune system cells recognize the peptides as harmful, they launch an immune response to get rid of the foreign invaders.</p>
+related-health-condition/name: bare lymphocyte syndrome type I
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/bare-lymphocyte-syndrome-type-i
+synonym(1): ABC transporter, MHC 1
+synonym(2): ABC17
+synonym(3): ABCB2
+synonym(4): APT1
+synonym(5): ATP-binding cassette sub-family B member 2
+synonym(6): ATP-binding cassette, sub-family B (MDR/TAP), member 2
+synonym(7): D6S114E
+synonym(8): peptide supply factor 1
+synonym(9): peptide transporter involved in antigen processing 1
+synonym(10): peptide transporter PSF1
+synonym(11): peptide transporter TAP1
+synonym(12): PSF-1
+synonym(13): PSF1
+synonym(14): RING4
+synonym(15): TAP1N
+synonym(16): transporter 1 ATP-binding cassette sub-family B
+synonym(17): transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)
+synonym(18): transporter associated with antigen processing
+synonym(19): transporter, ATP-binding cassette, major histocompatibility complex, 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6890
+db-key(2)/db: OMIM
+db-key(2)/key: 170260
+reviewed: 2017-08
+published: 2018-04-17

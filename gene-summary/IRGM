@@ -1,0 +1,24 @@
+gene-symbol: IRGM
+name: immunity related GTPase M
+ghr-page: https://ghr.nlm.nih.gov/gene/IRGM
+text/text-role: function
+text/html: <p>The <i>IRGM</i> gene provides instructions for making a protein that plays an important role in the immune system. This protein is involved in a process called autophagy, which cells use to surround and destroy foreign invaders such as bacteria and viruses. Specifically, the IRGM protein helps trigger autophagy in cells infected with certain kinds of bacteria, including the type of bacteria that causes tuberculosis. In addition to protecting cells from infection, autophagy is used to recycle worn-out cell parts and break down certain proteins when they are no longer needed. This process also plays an important role in controlled cell death (apoptosis).</p>
+related-health-condition/name: Crohn disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/crohn-disease
+synonym(1): A1A4Y4_HUMAN
+synonym(2): IFI1
+synonym(3): immunity-related GTPase family, M
+synonym(4): immunity-related GTPase family, M1
+synonym(5): immunity-related GTPase M
+synonym(6): IRGM1
+synonym(7): LRG-47
+synonym(8): LRG-47-like protein
+synonym(9): LRG47
+synonym(10): MGC149263
+synonym(11): MGC149264
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 345611
+db-key(2)/db: OMIM
+db-key(2)/key: 608212
+reviewed: 2017-12
+published: 2018-04-17

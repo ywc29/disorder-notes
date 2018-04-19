@@ -1,0 +1,18 @@
+gene-symbol: DBT
+name: dihydrolipoamide branched chain transacylase E2
+ghr-page: https://ghr.nlm.nih.gov/gene/DBT
+text/text-role: function
+text/html: <p>The <i>DBT</i> gene provides instructions for making part of a group of enzymes called the branched-chain alpha-keto acid dehydrogenase (BCKD) enzyme complex. Specifically, the protein produced from the <i>DBT</i> gene forms a critical piece of the enzyme complex called the E2 component.</p><p>The BCKD enzyme complex is responsible for one step in the normal breakdown of three protein building blocks (amino acids). These amino acids—leucine, isoleucine, and valine—are obtained from the diet. They are present in many kinds of food, particularly protein-rich foods such as milk, meat, and eggs. The BCKD enzyme complex is active in mitochondria, which are specialized structures inside cells that serve as energy-producing centers. The breakdown of leucine, isoleucine, and valine produces molecules that can be used for energy.</p>
+related-health-condition/name: maple syrup urine disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+synonym(1): BCATE2
+synonym(2): dihydrolipoamide branched chain transacylase (E2 component of branched chain keto acid dehydrogenase complex; maple syrup urine disease)
+synonym(3): E2 component of branched chain keto acid dehydrogenase complex
+synonym(4): MSUD2
+synonym(5): ODB2_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1629
+db-key(2)/db: OMIM
+db-key(2)/key: 248610
+reviewed: 2017-07
+published: 2018-04-17

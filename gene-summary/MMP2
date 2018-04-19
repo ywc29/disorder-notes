@@ -1,0 +1,29 @@
+gene-symbol: MMP2
+name: matrix metallopeptidase 2
+ghr-page: https://ghr.nlm.nih.gov/gene/MMP2
+text/text-role: function
+text/html: <p>The <i>MMP2</i> gene provides instructions for making an enzyme called matrix metallopeptidase 2. This enzyme is produced in cells throughout the body and becomes part of the extracellular matrix, which is an intricate lattice of proteins and other molecules that forms in the spaces between cells. One of the major known functions of matrix metallopeptidase 2 is to cut (cleave) a protein called type IV collagen. Type IV collagen is a major structural component of basement membranes, which are thin, sheet-like structures that separate and support cells as part of the extracellular matrix.</p><p>The activity of matrix metallopeptidase 2 appears to be important for a variety of body functions. These include the breakdown of the uterine lining (endometrium) during menstruation, formation and growth of new blood vessels, repair of damaged tissues, and inflammation. Matrix metallopeptidase 2 also plays a role in bone remodeling, which is a normal process in which old bone is broken down and new bone is created to replace it.</p>
+related-health-condition(1)/name: intervertebral disc disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/intervertebral-disc-disease
+related-health-condition(2)/name: multicentric osteolysis, nodulosis, and arthropathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/multicentric-osteolysis-nodulosis-and-arthropathy
+synonym(1): 72 kDa gelatinase
+synonym(2): 72 kDa type IV collagenase
+synonym(3): CLG4
+synonym(4): CLG4A
+synonym(5): collagenase type IV-A
+synonym(6): gelatinase A
+synonym(7): matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)
+synonym(8): matrix metalloproteinase-2
+synonym(9): matrix metalloproteinase-II
+synonym(10): MMP-2
+synonym(11): MMP-II
+synonym(12): MMP2_HUMAN
+synonym(13): neutrophil gelatinase
+synonym(14): TBE-1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4313
+db-key(2)/db: OMIM
+db-key(2)/key: 120360
+reviewed: 2013-11
+published: 2018-04-17

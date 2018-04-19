@@ -1,0 +1,18 @@
+gene-symbol: SBF2
+name: SET binding factor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/SBF2
+text/text-role: function
+text/html: <p>The <i>SBF2</i> gene (also called <i>MTMR13</i>) provides instructions for making a protein called SET binding factor 2.  The function of this protein is unknown, but it is probably involved in the development of specialized cells in the nervous system called Schwann cells. Schwann cells produce myelin, the protective substance that covers nerve cells and promotes the rapid transmission of nerve impulses. SET binding factor 2 probably also plays a role in the development of mesh-like canals (trabecular meshwork) that surround the colored part of the eye (the iris). The trabecular meshwork helps drain excess fluid from the eye.</p>
+related-health-condition/name: Charcot-Marie-Tooth disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+synonym(1): CMT4B2
+synonym(2): DENND7B
+synonym(3): KIAA1766
+synonym(4): MTMR13
+synonym(5): MTMRD_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 81846
+db-key(2)/db: OMIM
+db-key(2)/key: 607697
+reviewed: 2010-01
+published: 2018-04-17

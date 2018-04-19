@@ -1,0 +1,26 @@
+name: Juvenile primary lateral sclerosis
+ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-primary-lateral-sclerosis
+text/text-role: description
+text/html: <p>Juvenile primary lateral sclerosis is a rare disorder characterized by progressive weakness and tightness (spasticity) of muscles in the arms, legs, and face. The features of this disorder are caused by damage to motor neurons, which are specialized nerve cells in the brain and spinal cord that control muscle movement.</p><p>Symptoms of juvenile primary lateral sclerosis begin in early childhood and progress slowly over many years. Early symptoms include clumsiness, muscle weakness and spasticity in the legs, and difficulty with balance. As symptoms progress, the spasticity spreads to the arms and hands and individuals develop slurred speech, drooling, difficulty swallowing, and an inability to walk.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: ALS2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ALS2
+related-gene(2)/gene-symbol: ERLIN2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ERLIN2
+synonym(1): JPLS
+synonym(2): juvenile PLS
+synonym(3): PLSJ
+synonym(4): primary lateral sclerosis, juvenile
+db-key(1)/db: GTR
+db-key(1)/key: C1853396
+db-key(2)/db: GeneReviews
+db-key(2)/key: iahsp
+db-key(3)/db: MeSH
+db-key(3)/key: D016472
+db-key(4)/db: OMIM
+db-key(4)/key: 606353
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 717964007
+reviewed: 2013-07
+published: 2018-04-17

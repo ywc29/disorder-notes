@@ -1,0 +1,26 @@
+name: Friedreich ataxia
+ghr-page: https://ghr.nlm.nih.gov/condition/friedreich-ataxia
+text/text-role: description
+text/html: <p>Friedreich ataxia is a genetic condition that affects the nervous system and causes movement problems. People with this condition develop impaired muscle coordination (ataxia) that worsens over time. Other features of this condition include the gradual loss of strength and sensation in the arms and legs; muscle stiffness (spasticity); and impaired speech, hearing, and vision. Individuals with Friedreich ataxia often have a form of heart disease called hypertrophic cardiomyopathy, which enlarges and weakens the heart muscle and can be life-threatening. Some affected individuals develop diabetes or an abnormal curvature of the spine (scoliosis).</p><p>Most people with Friedreich ataxia begin to experience the signs and symptoms of the disorder between ages 5 and 15. Poor coordination and balance are often the first noticeable features. Affected individuals typically require the use of a wheelchair about 10 years after signs and symptoms appear.</p><p>About 25 percent of people with Friedreich ataxia have an atypical form in which signs and symptoms begin after age 25. Affected individuals who develop Friedreich ataxia between ages 26 and 39 are considered to have late-onset Friedreich ataxia (LOFA). When the signs and symptoms begin after age 40 the condition is called very late-onset Friedreich ataxia (VLOFA). LOFA and VLOFA usually progress more slowly than typical Friedreich ataxia.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: FXN
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FXN
+synonym(1): FA
+synonym(2): FRDA
+synonym(3): Friedreich spinocerebellar ataxia
+synonym(4): Friedrich's ataxia
+db-key(1)/db: GTR
+db-key(1)/key: C1856689
+db-key(2)/db: GeneReviews
+db-key(2)/key: friedreich
+db-key(3)/db: MeSH
+db-key(3)/key: D005621
+db-key(4)/db: OMIM
+db-key(4)/key: 229300
+db-key(5)/db: Orphanet
+db-key(5)/key: 95
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 10394003
+reviewed: 2016-06
+published: 2018-04-17

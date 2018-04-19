@@ -1,0 +1,55 @@
+name: Myofibrillar myopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/myofibrillar-myopathy
+text/text-role: description
+text/html: <p>Myofibrillar myopathy is part of a group of disorders called muscular dystrophies that affect muscle function and cause weakness. Myofibrillar myopathy primarily affects skeletal muscles, which are muscles that the body uses for movement. In some cases, the heart (cardiac) muscle is also affected.</p><p>The signs and symptoms of myofibrillar myopathy vary widely among affected individuals, typically depending on the condition's genetic cause. Most people with this disorder begin to develop muscle weakness (myopathy) in mid-adulthood. However, features of this condition can appear anytime between infancy and late adulthood. Muscle weakness most often begins in the hands and feet (distal muscles), but some people first experience weakness in the muscles near the center of the body (proximal muscles). Other affected individuals develop muscle weakness throughout their body. Facial muscle weakness can cause swallowing and speech difficulties. Muscle weakness worsens over time.</p><p>Other signs and symptoms of myofibrillar myopathy can include a weakened heart muscle (cardiomyopathy), muscle pain (myalgia), loss of sensation and weakness in the limbs (peripheral neuropathy), and respiratory failure. Individuals with this condition may have skeletal problems including joint stiffness (contractures) and abnormal side-to-side curvature of the spine (scoliosis). Rarely, people with this condition develop clouding of the lens of the eyes (cataracts).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: BAG3
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BAG3
+related-gene(2)/gene-symbol: CRYAB
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CRYAB
+related-gene(3)/gene-symbol: DES
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/DES
+related-gene(4)/gene-symbol: FLNC
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/FLNC
+related-gene(5)/gene-symbol: LDB3
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/LDB3
+related-gene(6)/gene-symbol: MYOT
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/MYOT
+synonym: myofibrillar myopathies
+db-key(1)/db: GTR
+db-key(1)/key: C1832370
+db-key(2)/db: GTR
+db-key(2)/key: C1836050
+db-key(3)/db: GTR
+db-key(3)/key: C1836155
+db-key(4)/db: GTR
+db-key(4)/key: C1836607
+db-key(5)/db: GTR
+db-key(5)/key: C1837317
+db-key(6)/db: GTR
+db-key(6)/key: C2678065
+db-key(7)/db: GTR
+db-key(7)/key: C2751831
+db-key(8)/db: GeneReviews
+db-key(8)/key: mfm
+db-key(9)/db: MeSH
+db-key(9)/key: D020914
+db-key(10)/db: OMIM
+db-key(10)/key: 601419
+db-key(11)/db: OMIM
+db-key(11)/key: 608810
+db-key(12)/db: OMIM
+db-key(12)/key: 609200
+db-key(13)/db: OMIM
+db-key(13)/key: 609452
+db-key(14)/db: OMIM
+db-key(14)/key: 609524
+db-key(15)/db: OMIM
+db-key(15)/key: 612954
+db-key(16)/db: Orphanet
+db-key(16)/key: 593
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 699269005
+reviewed: 2011-01
+published: 2018-04-17

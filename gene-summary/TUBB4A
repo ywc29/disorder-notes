@@ -1,0 +1,24 @@
+gene-symbol: TUBB4A
+name: tubulin beta 4A class IVa
+ghr-page: https://ghr.nlm.nih.gov/gene/TUBB4A
+text/text-role: function
+text/html: <p>The <i>TUBB4A</i> gene provides instructions for making a protein called beta-tubulin (β-tubulin). This protein is part of the tubulin family of proteins that form and organize structures called microtubules. Microtubules are rigid, hollow fibers that make up the cell's structural framework (the cytoskeleton). They are composed of β-tubulin and a similar protein called alpha-tubulin (α-tubulin) that is produced from a different gene.</p><p>The β-tubulin protein produced from the <i>TUBB4A</i> gene is found primarily in the brain, particularly in regions called the basal ganglia (specifically a part called the putamen) and the cerebellum. These regions help control movement. The protein is also found extensively in the brain's white matter, which consists of nerve fibers covered by a fatty substance called myelin that insulates and protects them. During brain development, microtubules help move nerve cells (neurons) to their proper location (neuronal migration). The microtubules also form scaffolding within neurons that provides structure and aids in the transport of substances.</p>
+related-health-condition/name: TUBB4A-related leukodystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/tubb4a-related-leukodystrophy
+synonym(1): beta-5
+synonym(2): dystonia 4, torsion (autosomal dominant)
+synonym(3): DYT4
+synonym(4): TUBB4
+synonym(5): tubulin beta-4 chain
+synonym(6): tubulin beta-4A chain isoform 1
+synonym(7): tubulin beta-4A chain isoform 2
+synonym(8): tubulin beta-4A chain isoform 3
+synonym(9): tubulin beta-4A chain isoform 4
+synonym(10): tubulin, beta 4
+synonym(11): tubulin, beta, 5
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10382
+db-key(2)/db: OMIM
+db-key(2)/key: 602662
+reviewed: 2017-08
+published: 2018-04-17

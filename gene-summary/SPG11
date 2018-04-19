@@ -1,0 +1,20 @@
+gene-symbol: SPG11
+name: SPG11, spatacsin vesicle trafficking associated
+ghr-page: https://ghr.nlm.nih.gov/gene/SPG11
+text/text-role: function
+text/html: <p>The <i>SPG11</i> gene provides instructions for making the protein spatacsin.  Spatacsin is active (expressed) throughout the nervous system, although its exact function is unknown.  Researchers speculate that it may help control the activity of particular genes (gene expression) or play a role in the transport (trafficking) of proteins.  Spatacsin may also be involved in the maintenance of axons, which are specialized extensions of nerve cells (neurons) that transmit impulses throughout the nervous system.</p>
+related-health-condition(1)/name: amyotrophic lateral sclerosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
+related-health-condition(2)/name: spastic paraplegia type 11
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/spastic-paraplegia-type-11
+synonym(1): FLJ21439
+synonym(2): KIAA1840
+synonym(3): spastic paraplegia 11 (autosomal recessive)
+synonym(4): SPATACSIN
+synonym(5): SPTCS_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 80208
+db-key(2)/db: OMIM
+db-key(2)/key: 610844
+reviewed: 2012-08
+published: 2018-04-17

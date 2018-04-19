@@ -1,0 +1,21 @@
+gene-symbol: ALDH3A2
+name: aldehyde dehydrogenase 3 family member A2
+ghr-page: https://ghr.nlm.nih.gov/gene/ALDH3A2
+text/text-role: function
+text/html: <p>The <i>ALDH3A2</i> gene is a member of the aldehyde dehydrogenase (ALDH) gene family. Genes in this family provide instructions for producing enzymes that alter molecules called aldehydes. The <i>ALDH3A2</i> gene provides instructions for making an enzyme called fatty aldehyde dehydrogenase (FALDH). This enzyme is involved in the breakdown of fats, specifically the breakdown of molecules called fatty aldehydes to fatty acids. This conversion of molecules is part of a multistep process called fatty acid oxidation in which fats are broken down and converted into energy.</p><p>The FALDH enzyme is found in most tissues, but its activity (expression) is highest in the liver. Within cells, the FALDH enzyme is located in the endoplasmic reticulum, a structure involved in protein processing and transport.</p>
+related-health-condition/name: Sjögren-Larsson syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/sjogren-larsson-syndrome
+synonym(1): AL3A2_HUMAN
+synonym(2): aldehyde dehydrogenase 3 family, member A2
+synonym(3): aldehyde dehydrogenase 10
+synonym(4): aldehyde dehydrogenase family 3 member A2
+synonym(5): ALDH10
+synonym(6): FALDH
+synonym(7): fatty aldehyde dehydrogenase
+synonym(8): microsomal aldehyde dehydrogenase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 224
+db-key(2)/db: OMIM
+db-key(2)/key: 609523
+reviewed: 2011-10
+published: 2018-04-17

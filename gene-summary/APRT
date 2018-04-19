@@ -1,0 +1,17 @@
+gene-symbol: APRT
+name: adenine phosphoribosyltransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/APRT
+text/text-role: function
+text/html: <p>The <i>APRT</i> gene provides instructions for making an enzyme called adenine phosphoribosyltransferase (APRT). This enzyme is produced in all cells and is part of the purine salvage pathway, which recycles a group of DNA building blocks (nucleotides) called purines to make other molecules. The APRT enzyme helps to recycle the purine adenine to make a molecule called adenosine monophosphate (AMP). This conversion occurs when AMP is needed as a source of energy for cells.</p>
+related-health-condition/name: adenine phosphoribosyltransferase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/adenine-phosphoribosyltransferase-deficiency
+synonym(1): AMP diphosphorylase
+synonym(2): AMP pyrophosphorylase
+synonym(3): APRTase
+synonym(4): APT_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 353
+db-key(2)/db: OMIM
+db-key(2)/key: 102600
+reviewed: 2012-10
+published: 2018-04-17

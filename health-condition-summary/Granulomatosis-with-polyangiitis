@@ -1,0 +1,29 @@
+name: Granulomatosis with polyangiitis
+ghr-page: https://ghr.nlm.nih.gov/condition/granulomatosis-with-polyangiitis
+text/text-role: description
+text/html: <p>Granulomatosis with polyangiitis (GPA) is a condition that causes inflammation that primarily affects the respiratory tract (including the lungs and airways) and the kidneys. This disorder is also commonly known as Wegener granulomatosis. A characteristic feature of GPA is inflammation of blood vessels (vasculitis), particularly the small- and medium-sized blood vessels in the lungs, nose, sinuses, windpipe, and kidneys, although vessels in any organ can be involved. Polyangiitis refers to the inflammation of multiple types of vessels, such as small arteries and veins. Vasculitis causes scarring and tissue death in the vessels and impedes blood flow to tissues and organs.</p><p>Another characteristic feature of GPA is the formation of granulomas, which are small areas of inflammation composed of immune cells that aid in the inflammatory reaction. The granulomas usually occur in the lungs or airways of people with this condition, although they can occur in the eyes or other organs. As granulomas grow, they can invade surrounding areas, causing tissue damage.</p><p>The signs and symptoms of GPA vary based on the tissues and organs affected by vasculitis. Many people with this condition experience a vague feeling of discomfort (malaise), fever, weight loss, or other general symptoms of the body's immune reaction. In most people with GPA, inflammation begins in the vessels of the respiratory tract, leading to nasal congestion, frequent nosebleeds, shortness of breath, or coughing. Severe inflammation in the nose can lead to a hole in the tissue that separates the two nostrils (nasal septum perforation) or a collapse of the septum, causing a sunken bridge of the nose (saddle nose).</p><p>The kidneys are commonly affected in people with GPA. Tissue damage caused by vasculitis in the kidneys can lead to decreased kidney function, which may cause increased blood pressure or blood in the urine, and life-threatening kidney failure. Inflammation can also occur in other regions of the body, including the eyes, middle and inner ear structures, skin, joints, nerves, heart, and brain. Depending on which systems are involved, additional symptoms can include skin rashes, inner ear pain, swollen and painful joints, and numbness or tingling in the limbs.</p><p>GPA is most common in middle-aged adults, although it can occur at any age. If untreated, the condition is usually fatal within 2 years of diagnosis. Even after treatment, vasculitis can return.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene/gene-symbol: HLA-DPB1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-DPB1
+synonym(1): GPA
+synonym(2): Wegener granulomatosis
+synonym(3): Wegener's granulomatosis
+db-key(1)/db: GTR
+db-key(1)/key: C3495801
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: M31.3
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: M31.30
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: M31.31
+db-key(5)/db: MeSH
+db-key(5)/key: D014890
+db-key(6)/db: OMIM
+db-key(6)/key: 608710
+db-key(7)/db: Orphanet
+db-key(7)/key: 900
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 195353004
+reviewed: 2013-07
+published: 2018-04-17

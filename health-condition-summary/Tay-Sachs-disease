@@ -1,0 +1,31 @@
+name: Tay-Sachs disease
+ghr-page: https://ghr.nlm.nih.gov/condition/tay-sachs-disease
+text/text-role: description
+text/html: <p>Tay-Sachs disease is a rare inherited disorder that progressively destroys nerve cells (neurons) in the brain and spinal cord.</p><p>The most common form of Tay-Sachs disease becomes apparent in infancy. Infants with this disorder typically appear normal until the age of 3 to 6 months, when their development slows and muscles used for movement weaken. Affected infants lose motor skills such as turning over, sitting, and crawling. They also develop an exaggerated startle reaction to loud noises. As the disease progresses, children with Tay-Sachs disease experience seizures, vision and hearing loss, intellectual disability, and paralysis. An eye abnormality called a cherry-red spot, which can be identified with an eye examination, is characteristic of this disorder. Children with this severe infantile form of Tay-Sachs disease usually live only into early childhood.</p><p>Other forms of Tay-Sachs disease are very rare. Signs and symptoms can appear in childhood, adolescence, or adulthood and are usually milder than those seen with the infantile form.  Characteristic features include muscle weakness, loss of muscle coordination (ataxia) and other problems with movement, speech problems, and mental illness. These signs and symptoms vary widely among people with late-onset forms of Tay-Sachs disease.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: HEXA
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HEXA
+synonym(1): B variant GM2 gangliosidosis
+synonym(2): GM2 gangliosidosis, type 1
+synonym(3): HexA deficiency
+synonym(4): Hexosaminidase A deficiency
+synonym(5): Hexosaminidase alpha-subunit deficiency (variant B)
+synonym(6): Sphingolipidosis, Tay-Sachs
+synonym(7): TSD
+db-key(1)/db: GTR
+db-key(1)/key: C0039373
+db-key(2)/db: GeneReviews
+db-key(2)/key: tay-sachs
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E75.02
+db-key(4)/db: MeSH
+db-key(4)/key: D013661
+db-key(5)/db: OMIM
+db-key(5)/key: 272800
+db-key(6)/db: Orphanet
+db-key(6)/key: 845
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 111385000
+reviewed: 2012-10
+published: 2018-04-17

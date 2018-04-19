@@ -1,0 +1,10 @@
+gene-symbol: COX10
+name: COX10, heme A:farnesyltransferase cytochrome c oxidase assembly factor
+ghr-page: https://ghr.nlm.nih.gov/gene/COX10
+related-health-condition(1)/name: cytochrome c oxidase deficiency
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cytochrome-c-oxidase-deficiency
+related-health-condition(2)/name: Leigh syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+db-key/db: NCBI Gene
+db-key/key: 1352
+published: 2018-04-17

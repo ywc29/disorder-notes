@@ -1,0 +1,21 @@
+gene-symbol: MYBPC3
+name: myosin binding protein C, cardiac
+ghr-page: https://ghr.nlm.nih.gov/gene/MYBPC3
+text/text-role: function
+text/html: <p>The <i>MYBPC3</i> gene provides instructions for making cardiac myosin binding protein C (cardiac MyBP-C), which is found in heart (cardiac) muscle cells. In these cells, cardiac MyBP-C is associated with a structure called the sarcomere, which is the basic unit of muscle contraction. Sarcomeres are made up of thick and thin filaments. The overlapping thick and thin filaments attach to each other and release, which allows the filaments to move relative to one another so that muscles can contract.  Regular contractions of cardiac muscle pump blood to the rest of the body.</p><p>In cardiac muscle sarcomeres, cardiac MyBP-C attaches to thick filaments and keeps them from being broken down prematurely. Cardiac MyBP-C has molecules called phosphate groups attached to it; when the phosphate groups are removed, cardiac MyBP-C is broken down, followed by the breakdown of proteins of the thick filament. Cardiac MyBP-C also regulates how fast muscles contract, although the mechanism is not fully understood.</p>
+related-health-condition(1)/name: familial dilated cardiomyopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+related-health-condition(2)/name: familial hypertrophic cardiomyopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hypertrophic-cardiomyopathy
+related-health-condition(3)/name: left ventricular noncompaction
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/left-ventricular-noncompaction
+synonym(1): C-protein, cardiac muscle isoform
+synonym(2): MYBP-C
+synonym(3): myosin-binding protein C, cardiac-type
+synonym(4): MYPC3_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4607
+db-key(2)/db: OMIM
+db-key(2)/key: 600958
+reviewed: 2017-06
+published: 2018-04-17

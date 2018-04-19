@@ -1,0 +1,21 @@
+gene-symbol: CAVIN1
+name: caveolae associated protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/CAVIN1
+text/text-role: function
+text/html: <p>The <i>CAVIN1</i> gene provides instructions for making a protein called cavin-1. This protein is found in cells and tissues throughout the body. It is most abundant in several types of cells: osteoblasts, which are cells that build bones; muscle cells; and adipocytes, which are cells that store fats for energy. Adipocytes make up most of the body's fatty (adipose) tissue.</p><p>Studies suggest that cavin-1 plays an essential role in forming and stabilizing caveolae, which are small pouches in the membrane that surrounds cells. Caveolae have multiple functions, some of which are not well understood. They are known to be involved in the transport of molecules from the cell membrane to the interior of the cell (endocytosis), processing of molecules on their way into the cell, maintaining the cell structure, and regulating chemical signaling pathways. Caveolae are particularly numerous in adipocytes, where they appear to be essential for the normal transport, processing, and storage of fats.</p><p>Within cells, cavin-1 is also found in the nucleus and in the fluid that surrounds the nucleus (the cytoplasm). In addition to its role in caveolae, studies suggest that this protein is involved in repairing damage to the outer cell membrane, cell growth and division (proliferation), cell movement, stopping cell division in older cells (senescence), and regulating various chemical signaling pathways. The functions of cavin-1 likely differ depending on the type of cell and the part of the cell where the protein is found.</p>
+related-health-condition/name: congenital generalized lipodystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-generalized-lipodystrophy
+synonym(1): CAVIN
+synonym(2): cavin-1
+synonym(3): CGL4
+synonym(4): FKSG13
+synonym(5): polymerase I and transcript release factor
+synonym(6): PTRF
+synonym(7): RNA polymerase I and transcript release factor
+synonym(8): TTF-I interacting peptide 12
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 284119
+db-key(2)/db: OMIM
+db-key(2)/key: 603198
+reviewed: 2016-01
+published: 2018-04-17

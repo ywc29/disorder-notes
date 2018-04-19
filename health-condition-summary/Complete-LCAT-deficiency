@@ -1,0 +1,28 @@
+name: Complete LCAT deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/complete-lcat-deficiency
+text/text-role: description
+text/html: <p>Complete LCAT deficiency is a disorder that primarily affects the eyes and kidneys.</p><p>In complete LCAT deficiency, the clear front surface of the eyes (the corneas) gradually becomes cloudy. The cloudiness, which generally first appears in early childhood, consists of small grayish dots of cholesterol (opacities) distributed across the corneas. Cholesterol is a waxy, fat-like substance that is produced in the body and obtained from foods that come from animals; it aids in many functions of the body but can become harmful in excessive amounts. As complete LCAT deficiency progresses, the corneal cloudiness worsens and can lead to severely impaired vision.</p><p>People with complete LCAT deficiency often have kidney disease that begins in adolescence or early adulthood. The kidney problems get worse over time and may eventually lead to kidney failure. Individuals with this disorder also usually have a condition known as hemolytic anemia, in which red blood cells are broken down (undergo hemolysis) prematurely, resulting in a shortage of red blood cells (anemia). Anemia can cause pale skin, weakness, fatigue, and more serious complications.</p><p>Other features of complete LCAT deficiency that occur in some affected individuals include enlargement of the liver (hepatomegaly), spleen (splenomegaly), or lymph nodes (lymphadenopathy) or an accumulation of fatty deposits on the artery walls (atherosclerosis).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: LCAT
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LCAT
+synonym(1): familial LCAT deficiency
+synonym(2): familial lecithin-cholesterol acyltransferase deficiency
+synonym(3): FLD
+synonym(4): LCAT deficiency
+synonym(5): lecithin acyltransferase deficiency
+synonym(6): lecithin:cholesterol acyltransferase deficiency
+synonym(7): Norum disease
+synonym(8): Norum's disease
+db-key(1)/db: GTR
+db-key(1)/key: C0023195
+db-key(2)/db: MeSH
+db-key(2)/key: D007863
+db-key(3)/db: OMIM
+db-key(3)/key: 245900
+db-key(4)/db: Orphanet
+db-key(4)/key: 79293
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 238091006
+reviewed: 2013-08
+published: 2018-04-17

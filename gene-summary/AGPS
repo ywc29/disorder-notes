@@ -1,0 +1,21 @@
+gene-symbol: AGPS
+name: alkylglycerone phosphate synthase
+ghr-page: https://ghr.nlm.nih.gov/gene/AGPS
+text/text-role: function
+text/html: <p>The <i>AGPS</i> gene provides instructions for making an enzyme known as alkylglycerone phosphate synthase. This enzyme is found in structures called peroxisomes, which are sac-like compartments within cells that contain enzymes needed to break down many different substances. Peroxisomes are also important for the production of fats (lipids) used in digestion and in the nervous system.</p><p>Within peroxisomes, alkylglycerone phosphate synthase is responsible for a critical step in the production of lipid molecules called plasmalogens. These molecules are found in cell membranes throughout the body. They are also abundant in myelin, which is the protective substance that covers nerve cells. However, little is known about the functions of plasmalogens. Researchers suspect that these molecules may help protect cells from oxidative stress, which occurs when unstable molecules called free radicals accumulate to levels that damage or kill cells. Plasmalogens may also play important roles in interactions between lipids and proteins, the transmission of chemical signals in cells, and the fusion of cell membranes.</p>
+related-health-condition/name: rhizomelic chondrodysplasia punctata
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/rhizomelic-chondrodysplasia-punctata
+synonym(1): ADAP-S
+synonym(2): ADAS_HUMAN
+synonym(3): ADHAPS
+synonym(4): alkyl-DHAP synthase
+synonym(5): alkyl-dihydroxyacetone phosphate synthase
+synonym(6): alkyldihydroxyacetone phosphate synthetase
+synonym(7): alkyldihydroxyacetonephosphate synthase, peroxisomal
+synonym(8): alkylglycerone-phosphate synthase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8540
+db-key(2)/db: OMIM
+db-key(2)/key: 603051
+reviewed: 2010-07
+published: 2018-04-17

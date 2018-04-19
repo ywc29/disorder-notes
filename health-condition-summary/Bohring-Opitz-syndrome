@@ -1,0 +1,27 @@
+name: Bohring-Opitz syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/bohring-opitz-syndrome
+text/text-role: description
+text/html: <p>Bohring-Opitz syndrome is a rare condition that affects the development of many parts of the body.</p><p>People with Bohring-Opitz syndrome have abnormal development of the head. They often have a small head size (microcephaly) and a skull abnormality called trigonocephaly, which gives the forehead a pointed appearance. Brain abnormalities result in profound to severe intellectual disability and developmental delay in affected individuals. Many people with this condition experience seizures.</p><p>Characteristic eye problems occur in people with Bohring-Opitz syndrome. They may have protruding eyes (exophthalmos), eyes that do not point in the same direction (strabismus), widely spaced eyes (hypertelorism), or outside corners of the eyes that point upward (upslanting palpebral fissures). Affected individuals may have nearsightedness (myopia) or abnormalities in the light-sensitive tissue at the back of the eye (the retina) or the nerves that carry information from the eyes to the brain (optic nerves), which can impair vision.</p><p>Additional facial features of Bohring-Opitz syndrome can include a flat nasal bridge, nostrils that open to the front rather than downward (anteverted nares), a high arch or opening in the roof of the mouth (high arched or cleft palate), a small lower jaw (micrognathia), low-set ears that are rotated backward, a red birthmark called a port-wine stain on the forehead, and a low frontal hairline with excessive facial hair (hirsutism).</p><p>Individuals with Bohring-Opitz syndrome have poor growth before birth (intrauterine growth retardation). During infancy they experience a failure to gain weight and grow at the expected rate (failure to thrive) and often have feeding difficulties.</p><p>People with this condition often have characteristic positioning of the upper body, known as Bohring-Opitz syndrome posture. This posture consists of slouching shoulders, permanently bent elbows and wrists, and a hand deformity in which the wrist or all of the fingers are angled outward toward the fifth finger (ulnar deviation). Joint deformities called contractures in the knees, hips, or other joints that are apparent at birth and abnormal muscle tone may also occur in this condition. Affected individuals can have recurrent infections and heart, kidney, or genital abnormalities. In rare cases, a childhood form of kidney cancer known as Wilms tumor can develop.</p><p>Some individuals with Bohring-Opitz syndrome do not survive past early childhood, while others live into adolescence or early adulthood. The most common causes of death are recurrent episodes of an abnormally slow heartbeat (bradycardia), which eventually leads to a fatal lack of oxygen in the body's organs and tissues; abnormalities of the throat and airways that cause short pauses in breathing (obstructive apnea); and lung infections.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: ASXL1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ASXL1
+synonym(1): Bohring syndrome
+synonym(2): BOPS
+synonym(3): C-like syndrome
+synonym(4): Oberklaid-Danks syndrome
+synonym(5): Opitz trigonocephaly-like syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0796232
+db-key(2)/db: MeSH
+db-key(2)/key: D003398
+db-key(3)/db: MeSH
+db-key(3)/key: D008607
+db-key(4)/db: OMIM
+db-key(4)/key: 605039
+db-key(5)/db: Orphanet
+db-key(5)/key: 97297
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 720565000
+reviewed: 2016-12
+published: 2018-04-17

@@ -1,0 +1,29 @@
+name: Oculopharyngeal muscular dystrophy
+ghr-page: https://ghr.nlm.nih.gov/condition/oculopharyngeal-muscular-dystrophy
+text/text-role: description
+text/html: <p>Oculopharyngeal muscular dystrophy is a genetic condition characterized by muscle weakness that begins in adulthood, typically after age 40. The term "oculopharyngeal" refers to the eyes (oculo-) and a part of the throat called the pharynx (-pharyngeal). Affected individuals usually first experience weakness of the muscles in both eyelids that causes droopy eyelids (ptosis). Ptosis can worsen over time, causing the eyelid to impair vision, and in some cases, limit eye movement. Along with ptosis, affected individuals develop weakness of the throat muscles that causes difficulty swallowing (dysphagia). Dysphagia begins with dry food, but over time, liquids can also become difficult to swallow. Dysphagia can cause saliva to accumulate and a wet-sounding voice. Many people with oculopharyngeal muscular dystrophy also have weakness and wasting (atrophy) of the tongue. These problems with food intake may cause malnutrition, choking, or a bacterial lung infection called aspiration pneumonia.</p><p>Individuals with oculopharyngeal muscular dystrophy frequently have weakness in the muscles near the center of the body (proximal muscles), particularly muscles in the shoulders, upper legs, and hips (limb-girdle muscles). The weakness slowly gets worse, and people may need the aid of a cane or a walker. Rarely, affected individuals need wheelchair assistance.</p><p>Rarely, individuals have a severe form of oculopharyngeal muscular dystrophy with muscle weakness that begins before age 45, and have trouble walking independently by age 60. These individuals often also have disturbances in nerve function (neuropathy), a gradual loss of intellectual functioning (cognitive decline), and psychiatric symptoms such as depression or strongly held false beliefs (delusions).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: PABPN1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PABPN1
+synonym(1): dystrophy, oculopharyngeal muscular
+synonym(2): muscular dystrophy, oculopharyngeal
+synonym(3): oculopharyngeal dystrophy
+synonym(4): OPMD
+synonym(5): progressive muscular dystrophy, oculopharyngeal type
+db-key(1)/db: GTR
+db-key(1)/key: C0270952
+db-key(2)/db: GeneReviews
+db-key(2)/key: opmd
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: G71.0
+db-key(4)/db: MeSH
+db-key(4)/key: D039141
+db-key(5)/db: OMIM
+db-key(5)/key: 164300
+db-key(6)/db: Orphanet
+db-key(6)/key: 270
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 77097004
+reviewed: 2018-02
+published: 2018-04-17

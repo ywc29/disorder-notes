@@ -1,0 +1,17 @@
+gene-symbol: ESCO2
+name: establishment of sister chromatid cohesion N-acetyltransferase 2
+ghr-page: https://ghr.nlm.nih.gov/gene/ESCO2
+text/text-role: function
+text/html: <p>The <i>ESCO2</i> gene provides instructions for making a protein that is important for proper chromosome separation during cell division. Before cells divide, they must copy all of their chromosomes. The copied DNA from each chromosome is arranged into two identical structures, called sister chromatids. The ESCO2 protein plays an important role in establishing the glue that holds the sister chromatids together until the chromosomes are ready to separate.</p>
+related-health-condition/name: Roberts syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/roberts-syndrome
+synonym(1): EFO2
+synonym(2): ESCO2_HUMAN
+synonym(3): establishment of cohesion 1 homolog 2
+synonym(4): establishment of cohesion 1 homolog 2 (S. cerevisiae)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 157570
+db-key(2)/db: OMIM
+db-key(2)/key: 609353
+reviewed: 2009-01
+published: 2018-04-17

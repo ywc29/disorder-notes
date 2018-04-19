@@ -1,0 +1,32 @@
+gene-symbol: SGCG
+name: sarcoglycan gamma
+ghr-page: https://ghr.nlm.nih.gov/gene/SGCG
+text/text-role: function
+text/html: <p>The <i>SGCG</i> gene provides instructions for making the gamma component (subunit) of a group of proteins called the sarcoglycan protein complex. The sarcoglycan protein complex is located in the membrane surrounding muscle cells. It helps maintain the structure of muscle tissue by attaching (binding) to and stabilizing the dystrophin complex, which is made up of proteins called dystrophins and dystroglycans. The large dystrophin complex strengthens muscle fibers and protects them from injury as muscles tense (contract) and relax. It acts as an anchor, connecting each muscle cell's structural framework (cytoskeleton) with the lattice of proteins and other molecules outside the cell (extracellular matrix).</p>
+related-health-condition/name: limb-girdle muscular dystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/limb-girdle-muscular-dystrophy
+synonym(1): 35 kDa dystrophin-associated glycoprotein
+synonym(2): 35DAG
+synonym(3): 35kD dystrophin-associated glycoprotein
+synonym(4): A4
+synonym(5): DAGA4
+synonym(6): DMDA
+synonym(7): DMDA1
+synonym(8): gamma sarcoglycan
+synonym(9): gamma-sarcoglycan
+synonym(10): gamma-SG
+synonym(11): LGMD2C
+synonym(12): MAM
+synonym(13): MGC130048
+synonym(14): sarcoglycan, gamma (35kDa dystrophin-associated glycoprotein)
+synonym(15): SCARMD2
+synonym(16): SCG3
+synonym(17): SG-gamma
+synonym(18): SGCG_HUMAN
+synonym(19): TYPE
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6445
+db-key(2)/db: OMIM
+db-key(2)/key: 608896
+reviewed: 2011-04
+published: 2018-04-17

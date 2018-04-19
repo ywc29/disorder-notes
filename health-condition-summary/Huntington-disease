@@ -1,0 +1,34 @@
+name: Huntington disease
+ghr-page: https://ghr.nlm.nih.gov/condition/huntington-disease
+text/text-role: description
+text/html: <p>Huntington disease is a progressive brain disorder that causes uncontrolled movements, emotional problems, and loss of thinking ability (cognition).</p><p>Adult-onset Huntington disease, the most common form of this disorder, usually appears in a person's thirties or forties. Early signs and symptoms can include irritability, depression, small involuntary movements, poor coordination, and trouble learning new information or making decisions. Many people with Huntington disease develop involuntary jerking or twitching movements known as chorea. As the disease progresses, these movements become more pronounced. Affected individuals may have trouble walking, speaking, and swallowing. People with this disorder also experience changes in personality and a decline in thinking and reasoning abilities. Individuals with the adult-onset form of Huntington disease usually live about 15 to 20 years after signs and symptoms begin.</p><p>A less common form of Huntington disease known as the juvenile form begins in childhood or adolescence. It also involves movement problems and mental and emotional changes. Additional signs of the juvenile form include slow movements, clumsiness, frequent falling, rigidity, slurred speech, and drooling. School performance declines as thinking and reasoning abilities become impaired. Seizures occur in 30 percent to 50 percent of children with this condition. Juvenile Huntington disease tends to progress more quickly than the adult-onset form; affected individuals usually live 10 to 15 years after signs and symptoms appear.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: HTT
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HTT
+synonym(1): Huntington chorea
+synonym(2): Huntington chronic progressive hereditary chorea
+synonym(3): Huntington's chorea
+synonym(4): Huntington's disease
+db-key(1)/db: GTR
+db-key(1)/key: C0020179
+db-key(2)/db: GTR
+db-key(2)/key: C0751208
+db-key(3)/db: GeneReviews
+db-key(3)/key: huntington
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: G10
+db-key(5)/db: MeSH
+db-key(5)/key: D006816
+db-key(6)/db: OMIM
+db-key(6)/key: 143100
+db-key(7)/db: Orphanet
+db-key(7)/key: 399
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 230299004
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 230300007
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 58756001
+reviewed: 2013-06
+published: 2018-04-17

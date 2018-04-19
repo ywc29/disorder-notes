@@ -1,0 +1,25 @@
+name: Leydig cell hypoplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/leydig-cell-hypoplasia
+text/text-role: description
+text/html: <p>Leydig cell hypoplasia is a condition that affects male sexual development. It is characterized by underdevelopment (hypoplasia) of Leydig cells in the testes. Leydig cells secrete male sex hormones (androgens) that are important for normal male sexual development before birth and during puberty.</p><p>In Leydig cell hypoplasia, affected individuals with a typical male chromosomal pattern (46,XY) may have a range of genital abnormalities. Affected males may have a small penis (micropenis), the opening of the urethra on the underside of the penis (hypospadias), or a scrotum divided into two lobes (bifid scrotum). Because of these abnormalities, the external genitalia may not look clearly male or clearly female (ambiguous genitalia).</p><p>In more severe cases of Leydig cell hypoplasia, people with a typical male chromosomal pattern (46,XY) have female external genitalia. They have small testes that are undescended, which means they are abnormally located in the pelvis, abdomen, or groin. People with this form of the disorder do not develop secondary sex characteristics, such as increased body hair, at puberty. Some researchers refer to this form of Leydig cell hypoplasia as type 1 and designate less severe cases as type 2.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: LHCGR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LHCGR
+synonym(1): 46,XY disorder of sex development due to LH defects
+synonym(2): LCH
+synonym(3): Leydig cell agenesis
+synonym(4): LH resistance due to LH receptor deactivation
+synonym(5): male hypergonadotropic hypogonadism due to LHCGR defect
+db-key(1)/db: GTR
+db-key(1)/key: C0266432
+db-key(2)/db: MeSH
+db-key(2)/key: D058490
+db-key(3)/db: OMIM
+db-key(3)/key: 238320
+db-key(4)/db: Orphanet
+db-key(4)/key: 755
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 56212008
+reviewed: 2010-04
+published: 2018-04-17

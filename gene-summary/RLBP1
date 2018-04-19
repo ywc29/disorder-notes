@@ -1,0 +1,10 @@
+gene-symbol: RLBP1
+name: retinaldehyde binding protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/RLBP1
+related-health-condition(1)/name: fundus albipunctatus
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/fundus-albipunctatus
+related-health-condition(2)/name: retinitis pigmentosa
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/retinitis-pigmentosa
+db-key/db: NCBI Gene
+db-key/key: 6017
+published: 2018-04-17

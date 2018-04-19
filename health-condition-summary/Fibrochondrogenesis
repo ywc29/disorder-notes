@@ -1,0 +1,34 @@
+name: Fibrochondrogenesis
+ghr-page: https://ghr.nlm.nih.gov/condition/fibrochondrogenesis
+text/text-role: description
+text/html: <p>Fibrochondrogenesis is a very severe disorder of bone growth. Affected infants have a very narrow chest, which prevents the lungs from developing normally. Most infants with this condition are stillborn or die shortly after birth from respiratory failure. However, some affected individuals have lived into childhood.</p><p>Fibrochondrogenesis is characterized by short stature (dwarfism) and other skeletal abnormalities. Affected individuals have shortened long bones in the arms and legs that are unusually wide at the ends (described as dumbbell-shaped). People with this condition also have a narrow chest with short, wide ribs and a round and prominent abdomen. The bones of the spine (vertebrae) are flattened (platyspondyly) and have a characteristic pinched or pear shape that is noticeable on x-rays. Other skeletal abnormalities associated with fibrochondrogenesis include abnormal curvature of the spine and underdeveloped hip (pelvic) bones.</p><p>People with fibrochondrogenesis also have distinctive facial features. These include prominent eyes, low-set ears, a small mouth with a long upper lip, and a small chin (micrognathia). Affected individuals have a relatively flat-appearing midface, particularly a small nose with a flat nasal bridge and nostrils that open to the front rather than downward (anteverted nares). Vision problems, including severe nearsightedness (high myopia) and clouding of the lens of the eye (cataract), are common in those who survive infancy. Most affected individuals also have sensorineural hearing loss, which is caused by abnormalities of the inner ear.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: COL11A1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/COL11A1
+related-gene(2)/gene-symbol: COL11A2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/COL11A2
+synonym(1): FBCG1
+synonym(2): FBCG2
+synonym(3): fibrochondrogenesis-1
+synonym(4): fibrochondrogenesis-2
+db-key(1)/db: GTR
+db-key(1)/key: C0265282
+db-key(2)/db: GTR
+db-key(2)/key: C3281128
+db-key(3)/db: MeSH
+db-key(3)/key: D000015
+db-key(4)/db: MeSH
+db-key(4)/key: D004392
+db-key(5)/db: OMIM
+db-key(5)/key: 228520
+db-key(6)/db: OMIM
+db-key(6)/key: 614524
+db-key(7)/db: Orphanet
+db-key(7)/key: 2021
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 17144009
+reviewed: 2016-04
+published: 2018-04-17

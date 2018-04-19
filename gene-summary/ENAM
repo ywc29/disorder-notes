@@ -1,0 +1,16 @@
+gene-symbol: ENAM
+name: enamelin
+ghr-page: https://ghr.nlm.nih.gov/gene/ENAM
+text/text-role: function
+text/html: <p>The <i>ENAM</i> gene provides instructions for making a protein called enamelin, which is essential for normal tooth development. Enamelin is involved in the formation of enamel, which is the hard, white material that forms the protective outer layer of each tooth. Enamel is composed mainly of mineral crystals. These microscopic crystals are arranged in organized bundles that give enamel its strength and durability. Although the exact function of enamelin is not well understood, this protein plays a key role in the formation and growth of crystals in developing enamel.</p>
+related-health-condition/name: amelogenesis imperfecta
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/amelogenesis-imperfecta
+synonym(1): ADAI
+synonym(2): AIH2
+synonym(3): ENAM_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10117
+db-key(2)/db: OMIM
+db-key(2)/key: 606585
+reviewed: 2015-05
+published: 2018-04-17

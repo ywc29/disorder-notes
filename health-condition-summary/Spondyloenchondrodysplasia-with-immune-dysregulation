@@ -1,0 +1,26 @@
+name: Spondyloenchondrodysplasia with immune dysregulation
+ghr-page: https://ghr.nlm.nih.gov/condition/spondyloenchondrodysplasia-with-immune-dysregulation
+text/text-role: description
+text/html: <p>Spondyloenchondrodysplasia with immune dysregulation (SPENCDI) is an inherited condition that primarily affects bone growth and immune system function. The signs and symptoms of SPENCDI can become apparent anytime from infancy to adolescence.</p><p>Bone abnormalities in individuals with SPENCDI include flattened spinal bones (platyspondyly), abnormalities at the ends of long bones in the limbs (metaphyseal dysplasia), and areas of damage (lesions) on the long bones and spinal bones that can be seen on x-rays. Additional skeletal problems occur because of abnormalities of the tough, flexible tissue called cartilage that makes up much of the skeleton during early development. Individuals with SPENCDI often have areas where cartilage did not convert to bone. They may also have noncancerous growths of cartilage (enchondromas). The bone and cartilage problems contribute to short stature in people with SPENCDI.</p><p>Individuals with SPENCDI have a combination of immune system problems. Many affected individuals have malfunctioning immune systems that attack the body's own tissues and organs, which is known as an autoimmune reaction. The malfunctioning immune system can lead to a variety of disorders, such as a decrease in blood cell fragments called platelets (thrombocytopenia), premature destruction of red blood cells (hemolytic anemia), an underactive thyroid gland (hypothyroidism), or chronic inflammatory disorders such as systemic lupus erythematosus or rheumatoid arthritis. In addition, affected individuals often have abnormal immune cells that cannot grow and divide in response to harmful invaders such as bacteria and viruses. As a result of this immune deficiency, these individuals have frequent fevers and recurrent respiratory infections.</p><p>Some people with SPENCDI have neurological problems such as abnormal muscle stiffness (spasticity), difficulty with coordinating movements (ataxia), and intellectual disability. They may also have abnormal deposits of calcium (calcification) in the brain.</p><p>Due to the range of immune system problems, people with SPENCDI typically have  a shortened life expectancy, but figures vary widely.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ACP5
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ACP5
+synonym(1): combined immunodeficiency with autoimmunity and spondylometaphyseal dysplasia
+synonym(2): Roifman-Melamed syndrome
+synonym(3): Roifman–Costa syndrome
+synonym(4): SPENCDI
+db-key(1)/db: GTR
+db-key(1)/key: C1842763
+db-key(2)/db: MeSH
+db-key(2)/key: D007153
+db-key(3)/db: MeSH
+db-key(3)/key: D010009
+db-key(4)/db: OMIM
+db-key(4)/key: 607944
+db-key(5)/db: Orphanet
+db-key(5)/key: 50816
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 703523004
+reviewed: 2013-12
+published: 2018-04-17

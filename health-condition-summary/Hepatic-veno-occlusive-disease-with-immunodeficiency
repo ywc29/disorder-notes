@@ -1,0 +1,28 @@
+name: Hepatic veno-occlusive disease with immunodeficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/hepatic-veno-occlusive-disease-with-immunodeficiency
+text/text-role: description
+text/html: <p>Hepatic veno-occlusive disease with immunodeficiency (also called VODI) is a hereditary disorder of the liver and immune system. Its signs and symptoms appear after the first few months of life.</p><p>Hepatic veno-occlusive disease is a condition that blocks (occludes) small veins in the liver, disrupting blood flow in this organ. This condition can lead to enlargement of the liver (hepatomegaly), a buildup of scar tissue (hepatic fibrosis), and liver failure.</p><p>Children with VODI are prone to recurrent infections caused by certain bacteria, viruses, and fungi. The organisms that cause infection in people with this disorder are described as opportunistic because they ordinarily do not cause illness in healthy people. These infections are usually serious and may be life-threatening.  In most people with VODI, infections occur before hepatic veno-occlusive disease becomes evident.</p><p>Many people with VODI live only into childhood, although some affected individuals have lived to early adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SP110
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SP110
+synonym(1): familial veno-occlusive disease with immunodeficiency
+synonym(2): hepatic venoocclusive disease with immunodeficiency
+synonym(3): veno-occlusive disease and immunodeficiency syndrome
+synonym(4): VODI
+db-key(1)/db: GTR
+db-key(1)/key: C1856128
+db-key(2)/db: GeneReviews
+db-key(2)/key: vodi
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: K76.5
+db-key(4)/db: MeSH
+db-key(4)/key: D006504
+db-key(5)/db: OMIM
+db-key(5)/key: 235550
+db-key(6)/db: Orphanet
+db-key(6)/key: 79124
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 65617004
+reviewed: 2009-01
+published: 2018-04-17

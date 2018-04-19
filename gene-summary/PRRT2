@@ -1,0 +1,29 @@
+gene-symbol: PRRT2
+name: proline rich transmembrane protein 2
+ghr-page: https://ghr.nlm.nih.gov/gene/PRRT2
+text/text-role: function
+text/html: <p>The <i>PRRT2</i> gene provides instructions for making the proline-rich transmembrane protein 2 (PRRT2). The function of this protein is unknown, although it is thought to be involved in signaling in the brain. Studies show that it interacts with another protein called SNAP25, which is involved in signaling between nerve cells (neurons) in the brain. SNAP25 helps control the release of neurotransmitters, which are chemicals that relay signals from one neuron to another.</p>
+related-health-condition(1)/name: familial hemiplegic migraine
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hemiplegic-migraine
+related-health-condition(2)/name: familial paroxysmal kinesigenic dyskinesia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-paroxysmal-kinesigenic-dyskinesia
+synonym(1): dispanin subfamily B member 3
+synonym(2): DKFZp547J199
+synonym(3): DSPB3
+synonym(4): EKD1
+synonym(5): FLJ25513
+synonym(6): IFITMD1
+synonym(7): interferon induced transmembrane protein domain containing 1
+synonym(8): PKC
+synonym(9): proline-rich transmembrane protein 2
+synonym(10): PRRT2_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 112476
+db-key(2)/db: OMIM
+db-key(2)/key: 602066
+db-key(3)/db: OMIM
+db-key(3)/key: 605751
+db-key(4)/db: OMIM
+db-key(4)/key: 614386
+reviewed: 2014-01
+published: 2018-04-17

@@ -1,0 +1,32 @@
+name: Multiple sclerosis
+ghr-page: https://ghr.nlm.nih.gov/condition/multiple-sclerosis
+text/text-role: description
+text/html: <p>Multiple sclerosis is a condition characterized by areas of damage (lesions) on the brain and spinal cord. These lesions are associated with destruction of the covering that protects nerves and promotes the efficient transmission of nerve impulses (the myelin sheath) and damage to nerve cells. Multiple sclerosis is considered an autoimmune disorder; autoimmune disorders occur when the immune system malfunctions and attacks the body's own tissues and organs, in this case tissues of the nervous system.</p><p>Multiple sclerosis usually begins in early adulthood, between ages 20 and 40. The symptoms vary widely, and affected individuals can experience one or more effects of nervous system damage. Multiple sclerosis often causes sensory disturbances in the limbs, including a prickling or tingling sensation (paresthesia), numbness, pain, and itching. Some people experience Lhermitte sign, which is an electrical shock-like sensation that runs down the back and into the limbs. This sensation usually occurs when the head is bent forward. Problems with muscle control are common in people with multiple sclerosis. Affected individuals may have tremors, muscle stiffness (spasticity), exaggerated reflexes (hyperreflexia), weakness or partial paralysis of the muscles of the limbs, difficulty walking, or poor bladder control. Multiple sclerosis is also associated with vision problems, such as blurred or double vision or partial or complete vision loss. Infections that cause fever can make the symptoms worse.</p><p>There are several forms of multiple sclerosis: relapsing-remitting MS, secondary progressive MS, primary progressive MS, and progressive relapsing MS. The most common is the relapsing-remitting form, which affects approximately 80 percent of people with multiple sclerosis. Individuals with this form of the condition have periods during which they experience symptoms, called clinical attacks, followed by periods without any symptoms (remission). The triggers of clinical attacks and remissions are unknown. After about 10 years, relapsing-remitting MS usually develops into another form of the disorder called secondary progressive MS. In this form, there are no remissions, and symptoms of the condition continually worsen.</p><p>Primary progressive MS is the next most common form, affecting approximately 10 to 20 percent of people with multiple sclerosis. This form is characterized by constant symptoms that worsen over time, with no clinical attacks or remissions. Primary progressive MS typically begins later than the other forms, around age 40.</p><p>Progressive relapsing MS is a rare form of multiple sclerosis that initially appears like primary progressive MS, with constant symptoms. However, people with progressive relapsing MS also experience clinical attacks of more severe symptoms.</p>
+inheritance-pattern/code: u
+inheritance-pattern/memo: pattern unknown
+related-gene(1)/gene-symbol: CYP27B1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CYP27B1
+related-gene(2)/gene-symbol: HLA-DRB1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/HLA-DRB1
+related-gene(3)/gene-symbol: IL2RA
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/IL2RA
+related-gene(4)/gene-symbol: IL7R
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/IL7R
+related-gene(5)/gene-symbol: TNFRSF1A
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/TNFRSF1A
+synonym(1): disseminated sclerosis
+synonym(2): MS
+db-key(1)/db: GTR
+db-key(1)/key: CN031763
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: G35
+db-key(3)/db: MeSH
+db-key(3)/key: D009103
+db-key(4)/db: Orphanet
+db-key(4)/key: 802
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 192928003
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 24700007
+reviewed: 2015-10
+published: 2018-04-17

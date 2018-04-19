@@ -1,0 +1,19 @@
+gene-symbol: GNAI3
+name: G protein subunit alpha i3
+ghr-page: https://ghr.nlm.nih.gov/gene/GNAI3
+text/text-role: function
+text/html: <p>The <i>GNAI3</i> gene provides instructions for making one component, the inhibitory alpha subunit, of a protein complex called a guanine nucleotide-binding protein (G protein). G proteins are composed of three protein subunits: alpha, beta, and gamma. Each of these subunits is produced from a different gene.</p><p>Through a process called signal transduction, G proteins trigger a complex network of signaling pathways within cells. These pathways help transmit information from outside the cell to inside the cell. Specifically, G proteins made with the <i>GNAI3</i> inhibitory alpha subunit reduce (inhibit) the activity of an enzyme called adenylyl cyclase, which is an important chemical messenger within cells. G protein signaling ultimately influences many cell activities, instructing the cell to grow, divide, or take on specialized functions.</p><p>Studies suggest that G protein signaling involving the <i>GNAI3</i> inhibitory alpha subunit contributes to the development of the first and second pharyngeal arches. These embryonic structures ultimately develop into the jawbones, facial muscles, middle ear bones, ear canals, outer ears, and related tissues.</p>
+related-health-condition/name: auriculo-condylar syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/auriculo-condylar-syndrome
+synonym(1): 87U6
+synonym(2): ARCND1
+synonym(3): g(i) alpha-3
+synonym(4): GNAI3_HUMAN
+synonym(5): guanine nucleotide binding protein (G protein), alpha inhibiting activity polypeptide 3
+synonym(6): guanine nucleotide-binding protein G(k) subunit alpha
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2773
+db-key(2)/db: OMIM
+db-key(2)/key: 139370
+reviewed: 2013-01
+published: 2018-04-17

@@ -1,0 +1,27 @@
+gene-symbol: MID1
+name: midline 1
+ghr-page: https://ghr.nlm.nih.gov/gene/MID1
+text/text-role: function
+text/html: <p>The <i>MID1</i> gene is part of a group of genes called the tripartite motif (TRIM) family. Proteins produced from this large family of genes are involved in many cellular activities. Primarily, TRIM proteins play a role in the cell machinery that recycles unwanted proteins by tagging them with a protein called ubiquitin. Ubiquitin serves as a signal to move these unwanted proteins into specialized structures known as proteasomes, where the proteins are recycled.</p><p>The <i>MID1</i> gene provides instructions for making a protein called midline-1.  This protein attaches (binds) to microtubules, which are rigid, hollow fibers that make up the cell's structural framework (the cytoskeleton). Microtubules help cells maintain their shape, assist in the process of cell division, and are essential for the movement of cells (cell migration). Midline-1 is responsible for recycling certain proteins, including protein phosphatase 2A (PP2A), integrin alpha-4 (ITGA4), and serine/threonine-protein kinase 36 (STK36). The recycling of these three proteins so they can be reused instead of broken down is essential because they are necessary for normal cellular functioning.</p>
+related-health-condition/name: Opitz G/BBB syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/opitz-g-bbb-syndrome
+synonym(1): BBBG1
+synonym(2): FXY
+synonym(3): GBBB1
+synonym(4): midline-1
+synonym(5): midline 1 (Opitz/BBB syndrome)
+synonym(6): midline 1 ring finger
+synonym(7): OGS1
+synonym(8): OS
+synonym(9): OSX
+synonym(10): RNF59
+synonym(11): TRI18_HUMAN
+synonym(12): TRIM18
+synonym(13): XPRF
+synonym(14): zinc finger X and Y
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4281
+db-key(2)/db: OMIM
+db-key(2)/key: 300552
+reviewed: 2015-01
+published: 2018-04-17

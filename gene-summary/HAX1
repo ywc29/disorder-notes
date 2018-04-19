@@ -1,0 +1,22 @@
+gene-symbol: HAX1
+name: HCLS1 associated protein X-1
+ghr-page: https://ghr.nlm.nih.gov/gene/HAX1
+text/text-role: function
+text/html: <p>The <i>HAX1</i> gene provides instructions for making a protein called HS-1-associated protein X-1 (HAX-1). This protein is involved in the regulation of apoptosis, which is the process by which cells self-destruct when they are damaged or no longer needed. Apoptosis is a common process that occurs throughout life. The HAX-1 protein is also thought to be involved in cell movement (migration). The HAX-1 protein is found primarily in the mitochondria, the energy-producing centers within cells.</p><p>Different versions of the HAX-1 protein can be produced from the <i>HAX1</i> gene by a mechanism called alternative splicing. This mechanism produces different version of the protein by cutting and rearranging the genetic instructions in different ways. The purpose of these multiple versions of the HAX-1 protein is unclear.</p>
+related-health-condition/name: severe congenital neutropenia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/severe-congenital-neutropenia
+synonym(1): HAX-1
+synonym(2): HAX1_HUMAN
+synonym(3): HCLS1-associated protein X-1
+synonym(4): HCLSBP1
+synonym(5): HS1-associating protein X-1
+synonym(6): HS1 binding protein
+synonym(7): HS1-binding protein 1
+synonym(8): HS1BP1
+synonym(9): HSP1BP-1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10456
+db-key(2)/db: OMIM
+db-key(2)/key: 605998
+reviewed: 2010-04
+published: 2018-04-17

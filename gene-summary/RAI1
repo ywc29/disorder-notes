@@ -1,0 +1,19 @@
+gene-symbol: RAI1
+name: retinoic acid induced 1
+ghr-page: https://ghr.nlm.nih.gov/gene/RAI1
+text/text-role: function
+text/html: <p>The <i>RAI1</i> gene provides instructions for making a protein that is active in cells throughout the body, particularly nerve cells (neurons) in the brain. Located in the nucleus, the RAI1 protein helps control the activity (expression) of certain genes. Most of the genes regulated by RAI1 have not been identified. However, studies suggest that this protein controls the expression of several genes involved in daily (circadian) rhythms, such as the sleep-wake cycle.</p>
+related-health-condition(1)/name: Potocki-Lupski syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/potocki-lupski-syndrome
+related-health-condition(2)/name: Smith-Magenis syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/smith-magenis-syndrome
+synonym(1): KIAA1820
+synonym(2): RAI1_HUMAN
+synonym(3): SMCR
+synonym(4): SMS
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 10743
+db-key(2)/db: OMIM
+db-key(2)/key: 607642
+reviewed: 2017-10
+published: 2018-04-17

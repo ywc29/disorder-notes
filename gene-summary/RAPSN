@@ -1,0 +1,20 @@
+gene-symbol: RAPSN
+name: receptor associated protein of the synapse
+ghr-page: https://ghr.nlm.nih.gov/gene/RAPSN
+text/text-role: function
+text/html: <p>The <i>RAPSN</i> gene provides instructions for making a protein called rapsyn that attaches (binds) to the different parts (subunits) of a protein found in the muscle cell membrane called acetylcholine receptor (AChR). This binding helps keep the receptor subunits together and anchors the AChR protein in the muscle cell membrane. The AChR protein plays a critical role in the normal function of the neuromuscular junction. The neuromuscular junction is the area between the ends of nerve cells and muscle cells where signals are relayed to trigger muscle movement.</p>
+related-health-condition(1)/name: congenital myasthenic syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-myasthenic-syndrome
+related-health-condition(2)/name: multiple pterygium syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-pterygium-syndrome
+synonym(1): RAPSN_HUMAN
+synonym(2): RAPSYN
+synonym(3): receptor-associated protein of the synapse
+synonym(4): RING finger protein 205
+synonym(5): RNF205
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5913
+db-key(2)/db: OMIM
+db-key(2)/key: 601592
+reviewed: 2011-11
+published: 2018-04-17

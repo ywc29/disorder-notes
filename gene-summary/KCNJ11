@@ -1,0 +1,34 @@
+gene-symbol: KCNJ11
+name: potassium voltage-gated channel subfamily J member 11
+ghr-page: https://ghr.nlm.nih.gov/gene/KCNJ11
+text/text-role: function
+text/html: <p>The <i>KCNJ11</i> gene provides instructions for making parts (subunits) of the ATP-sensitive potassium (K-ATP) channel. Each K-ATP channel consists of eight subunits. Four subunits are produced from the <i>KCNJ11</i> gene, and four are produced from another gene called <i>ABCC8</i>.</p><p>K-ATP channels are found in beta cells, which are cells in the pancreas that secrete the hormone insulin. The K-ATP channels are embedded in cell membranes, where they open and close in response to the amount of glucose in the bloodstream. Glucose is a simple sugar and the primary energy source for most cells in the body. Closure of the K-ATP channels in response to increased glucose triggers the release of insulin out of beta cells and into the bloodstream, which helps control blood sugar levels.</p>
+related-health-condition(1)/name: congenital hyperinsulinism
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+related-health-condition(2)/name: gestational diabetes
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/gestational-diabetes
+related-health-condition(3)/name: permanent neonatal diabetes mellitus
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/permanent-neonatal-diabetes-mellitus
+synonym(1): ATP-sensitive inward rectifier potassium channel 11
+synonym(2): beta-cell inward rectifier subunit
+synonym(3): BIR
+synonym(4): HHF2
+synonym(5): IKATP
+synonym(6): inward rectifier K(+) channel Kir6.2
+synonym(7): inwardly rectifying potassium channel KIR6.2
+synonym(8): KIR6.2
+synonym(9): MGC133230
+synonym(10): potassium channel, inwardly rectifying subfamily J member 11
+synonym(11): potassium channel, inwardly rectifying subfamily J, member 11
+synonym(12): potassium inwardly-rectifying channel, subfamily J, member 11
+synonym(13): TNDM3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3767
+db-key(2)/db: OMIM
+db-key(2)/key: 125853
+db-key(3)/db: OMIM
+db-key(3)/key: 600937
+db-key(4)/db: OMIM
+db-key(4)/key: 610582
+reviewed: 2014-01
+published: 2018-04-17

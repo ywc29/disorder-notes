@@ -1,0 +1,32 @@
+name: Cardiofaciocutaneous syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/cardiofaciocutaneous-syndrome
+text/text-role: description
+text/html: <p>Cardiofaciocutaneous syndrome is a disorder that affects many parts of the body, particularly the heart (cardio-), facial features (facio-), and the skin and hair (cutaneous). People with this condition also have delayed development and intellectual disability, usually ranging from moderate to severe.</p><p>Heart defects occur in most people with cardiofaciocutaneous syndrome. The heart problems most commonly associated with this condition include malformations of one of the heart valves that impairs blood flow from the heart to the lungs (pulmonic stenosis), a hole between the two upper chambers of the heart (atrial septal defect), and a form of heart disease that enlarges and weakens the heart muscle (hypertrophic cardiomyopathy).</p><p>Cardiofaciocutaneous syndrome is also characterized by distinctive facial features.  These include a high forehead that narrows at the temples, a short nose, widely spaced eyes (ocular hypertelorism), outside corners of the eyes that point downward (down-slanting palpebral fissures), droopy eyelids (ptosis), a small chin, and low-set ears.  Overall, the face is broad and long, and the facial features are sometimes described as "coarse."</p><p>Skin abnormalities occur in almost everyone with cardiofaciocutaneous syndrome.  Many affected people have dry, rough skin; dark-colored moles (nevi); wrinkled palms and soles; and a skin condition called keratosis pilaris, which causes small bumps to form on the arms, legs, and face.   People with cardiofaciocutaneous syndrome also tend to have thin, dry, curly hair and sparse or absent eyelashes and eyebrows.</p><p>Infants with cardiofaciocutaneous syndrome typically have weak muscle tone (hypotonia), feeding difficulties, and a failure to grow and gain weight at the normal rate (failure to thrive).  Additional features of this disorder in children and adults can include an unusually large head (macrocephaly), short stature, problems with vision, and seizures.</p><p>The signs and symptoms of cardiofaciocutaneous syndrome overlap significantly with those of two other genetic conditions, Costello syndrome and Noonan syndrome.  The three conditions are distinguished by their genetic cause and specific patterns of signs and symptoms; however, it can be difficult to tell these conditions apart, particularly in infancy. Unlike Costello syndrome, which significantly increases a person's cancer risk, cancer does not appear to be a major feature of cardiofaciocutaneous syndrome.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: BRAF
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BRAF
+related-gene(2)/gene-symbol: KRAS
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/KRAS
+related-gene(3)/gene-symbol: MAP2K1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/MAP2K1
+related-gene(4)/gene-symbol: MAP2K2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/MAP2K2
+synonym(1): cardio-facio-cutaneous syndrome
+synonym(2): CFC syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1275081
+db-key(2)/db: GeneReviews
+db-key(2)/key: cfc
+db-key(3)/db: MeSH
+db-key(3)/key: D004476
+db-key(4)/db: MeSH
+db-key(4)/key: D006330
+db-key(5)/db: OMIM
+db-key(5)/key: 115150
+db-key(6)/db: Orphanet
+db-key(6)/key: 1340
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 403770008
+reviewed: 2012-05
+published: 2018-04-17

@@ -1,0 +1,8 @@
+gene-symbol: TCTN1
+name: tectonic family member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/TCTN1
+related-health-condition/name: Joubert syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/joubert-syndrome
+db-key/db: NCBI Gene
+db-key/key: 79600
+published: 2018-04-17

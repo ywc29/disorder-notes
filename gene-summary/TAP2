@@ -1,0 +1,27 @@
+gene-symbol: TAP2
+name: transporter 2, ATP binding cassette subfamily B member
+ghr-page: https://ghr.nlm.nih.gov/gene/TAP2
+text/text-role: function
+text/html: <p>The <i>TAP2</i> gene provides instructions for making a protein that plays an important role in the immune system. The TAP2 protein assembles with another protein called TAP1 (produced from the <i>TAP1</i> gene) to form a protein complex called the transporter associated with antigen processing (TAP) complex. This complex, which is found in the membrane of a cell structure called the endoplasmic reticulum, moves (transports) protein fragments (peptides) from foreign invaders into the endoplasmic reticulum. There, the peptides are attached to major histocompatibility complex (MHC) class I proteins. The peptide-bound MHC class I proteins are then moved to the surface of the cell so that specialized immune system cells can interact with them. When these immune system cells recognize the peptides as harmful, they launch an immune response to get rid of the foreign invaders.</p>
+related-health-condition/name: bare lymphocyte syndrome type I
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/bare-lymphocyte-syndrome-type-i
+synonym(1): ABC transporter, MHC 2
+synonym(2): ABC18
+synonym(3): ABCB3
+synonym(4): APT2
+synonym(5): ATP-binding cassette, sub-family B (MDR/TAP), member 3
+synonym(6): D6S217E
+synonym(7): peptide supply factor 2
+synonym(8): peptide transporter involved in antigen processing 2
+synonym(9): peptide transporter PSF2
+synonym(10): PSF-2
+synonym(11): PSF2
+synonym(12): RING11
+synonym(13): transporter 2, ABC (ATP binding cassette)
+synonym(14): transporter 2, ATP-binding cassette, sub-family B (MDR/TAP)
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6891
+db-key(2)/db: OMIM
+db-key(2)/key: 170261
+reviewed: 2017-08
+published: 2018-04-17

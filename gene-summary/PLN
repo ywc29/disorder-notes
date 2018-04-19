@@ -1,0 +1,12 @@
+gene-symbol: PLN
+name: phospholamban
+ghr-page: https://ghr.nlm.nih.gov/gene/PLN
+related-health-condition(1)/name: arrhythmogenic right ventricular cardiomyopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/arrhythmogenic-right-ventricular-cardiomyopathy
+related-health-condition(2)/name: familial dilated cardiomyopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+related-health-condition(3)/name: familial hypertrophic cardiomyopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hypertrophic-cardiomyopathy
+db-key/db: NCBI Gene
+db-key/key: 5350
+published: 2018-04-17

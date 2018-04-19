@@ -1,0 +1,10 @@
+gene-symbol: AIFM1
+name: apoptosis inducing factor mitochondria associated 1
+ghr-page: https://ghr.nlm.nih.gov/gene/AIFM1
+related-health-condition(1)/name: Charcot-Marie-Tooth disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+related-health-condition(2)/name: Leigh syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+db-key/db: NCBI Gene
+db-key/key: 9131
+published: 2018-04-17

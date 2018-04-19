@@ -1,0 +1,27 @@
+name: Glycogen storage disease type VII
+ghr-page: https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-vii
+text/text-role: description
+text/html: <p>Glycogen storage disease type VII (GSDVII) is an inherited disorder caused by an inability to break down a complex sugar called glycogen in muscle cells. A lack of glycogen breakdown interferes with the function of muscle cells.</p><p>There are four types of GSDVII. They are differentiated by their signs and symptoms and the age at which symptoms first appear.</p><p>The classical form of GSDVII is the most common form. Its features usually appear in childhood. This form is characterized by muscle pain and cramps, often following moderate exercise; strenuous exercise can lead to nausea and vomiting. During exercise, muscle tissue can be abnormally broken down, releasing a protein called myoglobin. This protein is processed by the kidneys and released in the urine (myoglobinuria). If untreated, myoglobinuria can damage the kidneys and lead to kidney failure. Some people with the classical form of GSDVII develop high levels of a waste product called uric acid in the blood (hyperuricemia) because the damaged kidneys are unable to remove uric acid effectively. Affected individuals may also have elevated levels of a molecule called bilirubin in the blood that can cause yellowing of the skin and whites of the eyes (jaundice). Individuals with classical GSDVII often have elevated levels of an enzyme called creatine kinase in their blood. This finding is a common indicator of muscle disease.</p><p>Infants with the severe infantile form of GSDVII have low muscle tone (hypotonia) at birth, which leads to muscle weakness (myopathy) that worsens over time. Affected infants have a weakened and enlarged heart (cardiomyopathy) and difficulty breathing normally. Individuals with this form of GSDVII usually do not survive past their first year of life.</p><p>In the late-onset form of GSDVII, myopathy is typically the only feature. The muscle weakness appears in adulthood, although some individuals have difficulty with sustained exercise starting in childhood. The weakness generally affects the muscles closest to the center of the body (proximal muscles).</p><p>The hemolytic form of GSDVII is characterized by hemolytic anemia, in which red blood cells are broken down (undergo hemolysis) prematurely, causing a shortage of red blood cells (anemia). People with the hemolytic form of GSDVII do not experience any signs or symptoms of muscle pain or weakness related to the disorder.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: PFKM
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PFKM
+synonym(1): glycogenosis 7
+synonym(2): GSD VII
+synonym(3): GSD7
+synonym(4): muscle phosphofructokinase deficiency
+synonym(5): PFKM deficiency
+synonym(6): phosphofructokinase deficiency
+synonym(7): Tarui disease
+db-key(1)/db: GTR
+db-key(1)/key: C0017926
+db-key(2)/db: MeSH
+db-key(2)/key: D006014
+db-key(3)/db: OMIM
+db-key(3)/key: 232800
+db-key(4)/db: Orphanet
+db-key(4)/key: 371
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 89597008
+reviewed: 2014-04
+published: 2018-04-17

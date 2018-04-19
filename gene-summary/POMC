@@ -1,0 +1,43 @@
+gene-symbol: POMC
+name: proopiomelanocortin
+ghr-page: https://ghr.nlm.nih.gov/gene/POMC
+text/text-role: function
+text/html: <p>The <i>POMC</i> gene provides instructions for making a protein called proopiomelanocortin (POMC), which is cut (cleaved) into smaller pieces called peptides that have different functions in the body. The peptides attach (bind) to one of several proteins in different regions of the body, and this binding triggers signaling pathways that control many important functions.</p><p>One peptide produced from the POMC protein is called adrenocorticotropic hormone (ACTH). ACTH binds to melanocortin 2 receptor (MC2R), stimulating the release of a hormone called cortisol. This hormone helps maintain blood sugar levels, protects the body from stress, and stops (suppresses) inflammation.</p><p>Three similar peptides called alpha-, beta-, and gamma-melanocyte stimulating hormones (α-, β-, and γ-MSH) are also cut from the POMC protein. The primary role of α-MSH is in the pigment-producing cells of the skin and hair (melanocytes), where it binds to melanocortin 1 receptor (MC1R). This attachment stimulates the production and release of a pigment called melanin, which is the substance that gives skin and hair their color.</p><p>The β-MSH peptide plays a role in weight regulation by binding to melanocortin 4 receptor (MC4R). Signaling through this receptor in the brain helps maintain the balance between energy from food taken into the body and energy spent by the body. The correct balance is important to control eating and weight. The α-MSH peptide can also bind to MC4R and help maintain the correct energy balance.</p><p>Studies show that γ-MSH binds to melanocortin 3 receptor (MC3R). Signaling stimulated by this interaction appears to be involved in regulating the amount of sodium in the body and controlling blood pressure, although the mechanism is unclear.</p><p>Another peptide produced from POMC is β-endorphin. Attachment of β-endorphin to proteins in the brain called opioid receptors stimulates signaling for pain relief.</p>
+related-health-condition/name: proopiomelanocortin deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/proopiomelanocortin-deficiency
+synonym(1): ACTH
+synonym(2): adrenocorticotropic hormone
+synonym(3): adrenocorticotropin
+synonym(4): alpha-melanocyte-stimulating hormone
+synonym(5): alpha-MSH
+synonym(6): beta-endorphin
+synonym(7): beta-LPH
+synonym(8): beta-melanocyte-stimulating hormone
+synonym(9): beta-MSH
+synonym(10): CLIP
+synonym(11): COLI_HUMAN
+synonym(12): corticotropin-like intermediary peptide
+synonym(13): corticotropin-lipotropin
+synonym(14): gamma-LPH
+synonym(15): gamma-MSH
+synonym(16): lipotropin beta
+synonym(17): lipotropin gamma
+synonym(18): LPH
+synonym(19): melanotropin alpha
+synonym(20): melanotropin beta
+synonym(21): melanotropin gamma
+synonym(22): met-enkephalin
+synonym(23): MSH
+synonym(24): NPP
+synonym(25): opiomelanocortin prepropeptide
+synonym(26): POC
+synonym(27): pro-ACTH-endorphin
+synonym(28): pro-opiomelanocortin
+synonym(29): pro-opiomelanocortin preproprotein
+synonym(30): proopiomelanocortin preproprotein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5443
+db-key(2)/db: OMIM
+db-key(2)/key: 176830
+reviewed: 2014-02
+published: 2018-04-17

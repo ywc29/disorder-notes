@@ -1,0 +1,25 @@
+gene-symbol: GJA1
+name: gap junction protein alpha 1
+ghr-page: https://ghr.nlm.nih.gov/gene/GJA1
+text/text-role: function
+text/html: <p>The <i>GJA1</i> gene provides instructions for making a protein called connexin43, which is one of 21 connexin proteins in humans.  Connexins play a role in cell-to-cell communication by forming channels, or gap junctions, between cells.  Gap junctions allow for the transport of nutrients, charged particles (ions), and other small molecules that carry necessary communication signals between cells.  Connexin43 is found in many human tissues such as the eyes, skin, bone, ears, heart, and brain.</p>
+related-health-condition(1)/name: critical congenital heart disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/critical-congenital-heart-disease
+related-health-condition(2)/name: heterotaxy syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/heterotaxy-syndrome
+related-health-condition(3)/name: oculodentodigital dysplasia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/oculodentodigital-dysplasia
+synonym(1): connexin 43
+synonym(2): connexin43
+synonym(3): CX43
+synonym(4): Cx43α1
+synonym(5): CXA1_HUMAN
+synonym(6): gap junction 43 kDa heart protein
+synonym(7): gap junction protein, alpha 1, 43kDa
+synonym(8): gap junction protein, alpha-like
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2697
+db-key(2)/db: OMIM
+db-key(2)/key: 121014
+reviewed: 2009-02
+published: 2018-04-17

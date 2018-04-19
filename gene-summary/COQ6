@@ -1,0 +1,20 @@
+gene-symbol: COQ6
+name: coenzyme Q6, monooxygenase
+ghr-page: https://ghr.nlm.nih.gov/gene/COQ6
+text/text-role: function
+text/html: <p>The <i>COQ6</i> gene provides instructions for making an enzyme that carries out one step in the production of a molecule called coenzyme Q10. Coenzyme Q10 has several critical functions in cells throughout the body. In cell structures called mitochondria, coenzyme Q10 plays an essential role in a process called oxidative phosphorylation, which converts the energy from food into a form cells can use. Coenzyme Q10 is also involved in producing pyrimidines, which are building blocks of DNA, its chemical cousin RNA, and molecules such as ATP and GTP that serve as energy sources in the cell. In cell membranes, coenzyme Q10 acts as an antioxidant, protecting cells from damage caused by unstable oxygen-containing molecules (free radicals), which are byproducts of energy production.</p>
+related-health-condition/name: primary coenzyme Q10 deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/primary-coenzyme-q10-deficiency
+synonym(1): CGI-10
+synonym(2): CGI10
+synonym(3): coenzyme Q6 homolog, monooxygenase
+synonym(4): coenzyme Q10 monooxygenase 6
+synonym(5): COQ10D6
+synonym(6): ubiquinone biosynthesis monooxygenase COQ6, mitochondrial isoform a
+synonym(7): ubiquinone biosynthesis monooxygenase COQ6, mitochondrial isoform b
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51004
+db-key(2)/db: OMIM
+db-key(2)/key: 614647
+reviewed: 2017-04
+published: 2018-04-17

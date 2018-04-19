@@ -1,0 +1,22 @@
+gene-symbol: CHST3
+name: carbohydrate sulfotransferase 3
+ghr-page: https://ghr.nlm.nih.gov/gene/CHST3
+text/text-role: function
+text/html: <p>The <i>CHST3</i> gene provides instructions for making an enzyme called chondroitin 6-O-sulfotransferase 1 or C6ST-1. This enzyme has an important role in the development and maintenance of the skeleton. In particular, it is essential for the normal development of cartilage, which is a tough, flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears.</p><p>The C6ST-1 enzyme modifies molecules called chondroitin sulfate proteoglycans, which are abundant in cartilage and give this tissue its rubbery, gel-like consistency. The C6ST-1 enzyme carries out a process known as sulfation, in which a chemical group called a sulfate is transferred from one chemical compound to another. Specifically, the enzyme takes sulfate from a molecule called 3'-phosphoadenyl-5'-phosphosulfate (PAPS) and adds it to a specific location on chondroitin sulfate proteoglycans. Sulfation of these molecules is a critical step in cartilage formation.</p>
+related-health-condition/name: CHST3-related skeletal dysplasia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/chst3-related-skeletal-dysplasia
+synonym(1): C6ST
+synonym(2): C6ST-1
+synonym(3): C6ST1
+synonym(4): carbohydrate (chondroitin 6) sulfotransferase 3
+synonym(5): chondroitin 6-O-sulfotransferase 1
+synonym(6): CHST3_HUMAN
+synonym(7): galactose/N-acetylglucosamine/N-acetylglucosamine 6-O-sulfotransferase 0
+synonym(8): GST-0
+synonym(9): HSD
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 9469
+db-key(2)/db: OMIM
+db-key(2)/key: 603799
+reviewed: 2012-10
+published: 2018-04-17

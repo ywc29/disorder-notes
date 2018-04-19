@@ -1,0 +1,23 @@
+name: Carnitine-acylcarnitine translocase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/carnitine-acylcarnitine-translocase-deficiency
+text/text-role: description
+text/html: <p>Carnitine-acylcarnitine translocase (CACT) deficiency is a condition that prevents the body from using certain fats for energy, particularly during periods without food (fasting). Signs and symptoms of this disorder usually begin soon after birth and may include breathing problems, seizures, and an irregular heartbeat (arrhythmia). Affected individuals typically have low blood sugar (hypoglycemia) and a low level of ketones, which are produced during the breakdown of fats and used for energy. Together these signs are called hypoketotic hypoglycemia. People with CACT deficiency also usually have excess ammonia in the blood (hyperammonemia), an enlarged liver (hepatomegaly), and a weakened heart muscle (cardiomyopathy).</p><p>Many infants with CACT deficiency do not survive the newborn period. Some affected individuals have a less severe form of the condition and do not develop signs and symptoms until early childhood. These individuals are at risk for liver failure, nervous system damage, coma, and sudden death.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SLC25A20
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SLC25A20
+synonym(1): CACT deficiency
+synonym(2): carnitine-acylcarnitine carrier deficiency
+synonym(3): carnitine acylcarnitine translocase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0342791
+db-key(2)/db: MeSH
+db-key(2)/key: D008052
+db-key(3)/db: OMIM
+db-key(3)/key: 212138
+db-key(4)/db: Orphanet
+db-key(4)/key: 159
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 238003000
+reviewed: 2015-11
+published: 2018-04-17

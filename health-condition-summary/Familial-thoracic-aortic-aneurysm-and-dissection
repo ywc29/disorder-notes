@@ -1,0 +1,81 @@
+name: Familial thoracic aortic aneurysm and dissection
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-thoracic-aortic-aneurysm-and-dissection
+text/text-role: description
+text/html: <p>Familial thoracic aortic aneurysm and dissection (familial TAAD) involves problems with the aorta, which is the large blood vessel that distributes blood from the heart to the rest of the body. Familial TAAD affects the upper part of the aorta, near the heart. This part of the aorta is called the thoracic aorta because it is located in the chest (thorax). Other vessels that carry blood from the heart to the rest of the body (arteries) can also be affected.</p><p>In familial TAAD, the aorta can become weakened and stretched (aortic dilatation), which can lead to a bulge in the blood vessel wall (an aneurysm). Aortic dilatation may also lead to a sudden tearing of the layers in the aorta wall (aortic dissection), allowing blood to flow abnormally between the layers. These aortic abnormalities are potentially life-threatening because they can decrease blood flow to other parts of the body such as the brain or other vital organs, or cause the aorta to break open (rupture).</p><p>The occurrence and timing of these aortic abnormalities vary, even within the same affected family. They can begin in childhood or not occur until late in life. Aortic dilatation is generally the first feature of familial TAAD to develop, although in some affected individuals dissection occurs with little or no aortic dilatation.</p><p>Aortic aneurysms usually have no symptoms. However, depending on the size, growth rate, and location of these abnormalities, they can cause pain in the jaw, neck, chest, or back; swelling in the arms, neck, or head; difficult or painful swallowing; hoarseness; shortness of breath; wheezing; a chronic cough; or coughing up blood. Aortic dissections usually cause severe, sudden chest or back pain, and may also result in unusually pale skin (pallor), a very faint pulse, numbness or tingling (paresthesias) in one or more limbs, or paralysis.</p><p>Familial TAAD may not be associated with other signs and symptoms. However, some individuals in affected families show mild features of related conditions called Marfan syndrome or Loeys-Dietz syndrome. These features include tall stature, stretch marks on the skin, an unusually large range of joint movement (joint hypermobility), and either a sunken or protruding chest. Occasionally, people with familial TAAD develop aneurysms in the brain or in the section of the aorta located in the abdomen (abdominal aorta). Some people with familial TAAD have heart abnormalities that are present from birth (congenital). Affected individuals may also have a soft out-pouching in the lower abdomen (inguinal hernia), an abnormal curvature of the spine (scoliosis), or a purplish skin discoloration (livedo reticularis) caused by abnormalities in the tiny blood vessels of the skin (dermal capillaries). However, these conditions are also common in the general population. Depending on the genetic cause of familial TAAD in particular families, they may have an increased risk of developing blockages in smaller arteries, which can lead to heart attack and stroke.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: ACTA2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ACTA2
+related-gene(2)/gene-symbol: FBN1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FBN1
+related-gene(3)/gene-symbol: MYH11
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/MYH11
+related-gene(4)/gene-symbol: MYLK
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/MYLK
+related-gene(5)/gene-symbol: PRKG1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/PRKG1
+related-gene(6)/gene-symbol: SMAD3
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/SMAD3
+related-gene(7)/gene-symbol: TGFBR1
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/TGFBR1
+related-gene(8)/gene-symbol: TGFBR2
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/TGFBR2
+synonym(1): annuloaortic ectasia
+synonym(2): congenital aneurysm of ascending aorta
+synonym(3): FAA
+synonym(4): familial aortic aneurysm
+synonym(5): familial aortic dissection
+synonym(6): familial TAAD
+synonym(7): familial thoracic aortic aneurysm
+synonym(8): FTAAD
+synonym(9): TAA
+synonym(10): TAAD
+synonym(11): thoracic aortic aneurysm
+db-key(1)/db: GTR
+db-key(1)/key: C0345050
+db-key(2)/db: GTR
+db-key(2)/key: C1846837
+db-key(3)/db: GTR
+db-key(3)/key: C1851504
+db-key(4)/db: GTR
+db-key(4)/key: C2673186
+db-key(5)/db: GTR
+db-key(5)/key: CN118826
+db-key(6)/db: GeneReviews
+db-key(6)/key: taa
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: I71.0
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: I71.00
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: I71.01
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: I71.1
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: I71.2
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: I71.03
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: I71.5
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: I71.6
+db-key(15)/db: MeSH
+db-key(15)/key: D017545
+db-key(16)/db: OMIM
+db-key(16)/key: 132900
+db-key(17)/db: OMIM
+db-key(17)/key: 607086
+db-key(18)/db: OMIM
+db-key(18)/key: 607087
+db-key(19)/db: OMIM
+db-key(19)/key: 611788
+db-key(20)/db: OMIM
+db-key(20)/key: 613780
+db-key(21)/db: OMIM
+db-key(21)/key: 615436
+db-key(22)/db: Orphanet
+db-key(22)/key: 229
+db-key(23)/db: SNOMED CT
+db-key(23)/key: 433068007
+reviewed: 2015-01
+published: 2018-04-17

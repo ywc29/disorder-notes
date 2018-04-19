@@ -1,0 +1,26 @@
+gene-symbol: TAZ
+name: tafazzin
+ghr-page: https://ghr.nlm.nih.gov/gene/TAZ
+text/text-role: function
+text/html: <p>The <i>TAZ</i> gene provides instructions for producing a protein called tafazzin. Several different versions (isoforms) of the tafazzin protein are produced from the <i>TAZ</i> gene. Most isoforms are found in all tissues, but some are found only in certain types of cells. Tafazzin is located in structures called mitochondria, which are the energy-producing centers of cells. Tafazzin is involved in altering a fat (lipid) called cardiolipin, which plays critical roles in the mitochondrial inner membrane. Tafazzin adds a fatty acid called linoleic acid to the cardiolipin molecule, which enables cardiolipin to perform its functions. Cardiolipin is necessary for maintaining mitochondrial shape, energy production, and protein transport within cells.</p>
+related-health-condition(1)/name: Barth syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/barth-syndrome
+related-health-condition(2)/name: familial dilated cardiomyopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+related-health-condition(3)/name: left ventricular noncompaction
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/left-ventricular-noncompaction
+synonym(1): BTHS
+synonym(2): CMD3A
+synonym(3): EFE
+synonym(4): EFE2
+synonym(5): G4.5
+synonym(6): LVNCX
+synonym(7): tafazzin (cardiomyopathy, dilated 3A (X-linked); endocardial fibroelastosis 2; Barth syndrome)
+synonym(8): TAZ_HUMAN
+synonym(9): XAP-2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6901
+db-key(2)/db: OMIM
+db-key(2)/key: 300394
+reviewed: 2014-07
+published: 2018-04-17

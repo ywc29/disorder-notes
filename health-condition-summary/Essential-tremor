@@ -1,0 +1,23 @@
+name: Essential tremor
+ghr-page: https://ghr.nlm.nih.gov/condition/essential-tremor
+text/text-role: description
+text/html: <p>Essential tremor is a movement disorder that causes involuntary, rhythmic shaking (tremor), especially in the hands. It is distinguished from tremor that results from other disorders or known causes, such as Parkinson disease or head trauma. Essential tremor usually occurs alone, without other neurological signs or symptoms. However, some experts think that essential tremor can include additional features, such as mild balance problems.</p><p>Essential tremor usually occurs with movements and can occur during many different types of activities, such as eating, drinking, or writing. Essential tremor can also occur when the muscles are opposing gravity, such as when the hands are extended. It is usually not evident at rest.</p><p>In addition to the hands and arms, muscles of the trunk, face, head, and neck may also exhibit tremor in this disorder; the legs and feet are less often involved. Head tremor may appear as a "yes-yes" or "no-no" movement while the affected individual is seated or standing. In some people with essential tremor, the tremor may affect the voice (vocal tremor).</p><p>Essential tremor does not shorten the lifespan. However, it may interfere with fine motor skills such as using eating utensils, writing, shaving, or applying makeup, and in some cases these and other activities of daily living can be greatly impaired. Symptoms of essential tremor may be aggravated by emotional stress, anxiety, fatigue, hunger, caffeine, cigarette smoking, or temperature extremes.</p><p>Essential tremor may appear at any age but is most common in the elderly. Some studies have suggested that people with essential tremor have a higher than average risk of developing neurological conditions including Parkinson disease or sensory problems such as hearing loss, especially in individuals whose tremor appears after age 65.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: u
+inheritance-pattern(2)/memo: pattern unknown
+synonym(1): benign essential tremor
+synonym(2): familial tremor
+synonym(3): hereditary essential tremor
+db-key(1)/db: GTR
+db-key(1)/key: C1860861
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: G25.0
+db-key(3)/db: MeSH
+db-key(3)/key: D020329
+db-key(4)/db: OMIM
+db-key(4)/key: 190300
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 609558009
+reviewed: 2013-06
+published: 2018-04-17

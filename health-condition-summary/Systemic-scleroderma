@@ -1,0 +1,51 @@
+name: Systemic scleroderma
+ghr-page: https://ghr.nlm.nih.gov/condition/systemic-scleroderma
+text/text-role: description
+text/html: <p>Systemic scleroderma is an autoimmune disorder that affects the skin and internal organs. Autoimmune disorders occur when the immune system malfunctions and attacks the body's own tissues and organs. The word "scleroderma" means hard skin in Greek, and the condition is characterized by the buildup of scar tissue (fibrosis) in the skin and other organs. The condition is also called systemic sclerosis because the fibrosis can affect organs other than the skin. Fibrosis is due to the excess production of a tough protein called collagen, which normally strengthens and supports connective tissues throughout the body.</p><p>The signs and symptoms of systemic scleroderma usually begin with episodes of Raynaud phenomenon, which can occur weeks to years before fibrosis. In Raynaud phenomenon, the fingers and toes of affected individuals turn white or blue in response to cold temperature or other stresses. This effect occurs because of problems with the small vessels that carry blood to the extremities. Another early sign of systemic scleroderma is puffy or swollen hands before thickening and hardening of the skin due to fibrosis. Skin thickening usually occurs first in the fingers (called sclerodactyly) and may also involve the hands and face. In addition, people with systemic scleroderma often have open sores (ulcers) on their fingers, painful bumps under the skin (calcinosis), or small clusters of enlarged blood vessels just under the skin (telangiectasia).</p><p>Fibrosis can also affect internal organs and can lead to impairment or failure of the affected organs. The most commonly affected organs are the esophagus, heart, lungs, and kidneys. Internal organ involvement may be signaled by heartburn, difficulty swallowing (dysphagia), high blood pressure (hypertension), kidney problems, shortness of breath, diarrhea, or impairment of the muscle contractions that move food through the digestive tract (intestinal pseudo-obstruction).</p><p>There are three types of systemic scleroderma, defined by the tissues affected in the disorder. In one type of systemic scleroderma, known as limited cutaneous systemic scleroderma, fibrosis usually affects only the hands, arms, and face. Limited cutaneous systemic scleroderma used to be known as CREST syndrome, which is named for the common features of the condition: calcinosis, Raynaud phenomenon, esophageal motility dysfunction, sclerodactyly, and telangiectasia. In another type of systemic scleroderma, known as diffuse cutaneous systemic scleroderma, the fibrosis affects large areas of skin, including the torso and the upper arms and legs, and often involves internal organs. In diffuse cutaneous systemic scleroderma, the condition worsens quickly and organ damage occurs earlier than in other types of the condition. In the third type of systemic scleroderma, called systemic sclerosis sine scleroderma ("sine" means without in Latin), fibrosis affects one or more internal organs but not the skin.</p><p>Approximately 15 percent to 25 percent of people with features of systemic scleroderma also have signs and symptoms of another condition that affects connective tissue, such as polymyositis, dermatomyositis, rheumatoid arthritis, Sjögren syndrome, or systemic lupus erythematosus. The combination of systemic scleroderma with other connective tissue abnormalities is known as scleroderma overlap syndrome.</p>
+inheritance-pattern(1)/code: n
+inheritance-pattern(1)/memo: not inherited
+inheritance-pattern(2)/code: u
+inheritance-pattern(2)/memo: pattern unknown
+related-gene(1)/gene-symbol: BANK1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BANK1
+related-gene(2)/gene-symbol: BLK
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/BLK
+related-gene(3)/gene-symbol: IRF5
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/IRF5
+related-gene(4)/gene-symbol: PTPN22
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/PTPN22
+related-gene(5)/gene-symbol: STAT4
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/STAT4
+related-gene(6)/gene-symbol: TNFSF4
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/TNFSF4
+synonym(1): familial progressive scleroderma
+synonym(2): progressive scleroderma
+synonym(3): systemic sclerosis
+db-key(1)/db: GTR
+db-key(1)/key: C1866983
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: M34
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: M34.0
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: M34.1
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: M34.8
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: M34.9
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: M34.81
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: M34.82
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: M34.83
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: M34.89
+db-key(11)/db: MeSH
+db-key(11)/key: D012595
+db-key(12)/db: OMIM
+db-key(12)/key: 181750
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 89155008
+reviewed: 2015-04
+published: 2018-04-17

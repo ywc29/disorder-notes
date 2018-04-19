@@ -1,0 +1,20 @@
+gene-symbol: MUT
+name: methylmalonyl-CoA mutase
+ghr-page: https://ghr.nlm.nih.gov/gene/MUT
+text/text-role: function
+text/html: <p>The <i>MUT</i> gene provides instructions for making an enzyme called methylmalonyl CoA mutase.  This enzyme is active in mitochondria, which are specialized structures inside cells that serve as energy-producing centers.</p><p>Methylmalonyl CoA mutase is responsible for a particular step in the breakdown of several protein building blocks (amino acids), specifically isoleucine, methionine, threonine, and valine. The enzyme also helps break down certain types of fats (lipids) and cholesterol. First, several chemical reactions convert the amino acids, lipids, or cholesterol to a molecule called methylmalonyl CoA. Then, working with a compound called adenosylcobalamin (AdoCbl), which is a form of vitamin B12, methylmalonyl CoA mutase converts methylmalonyl CoA to a compound called succinyl-CoA. Other enzymes break down succinyl-CoA into molecules that are later used for energy.</p>
+related-health-condition/name: methylmalonic acidemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia
+synonym(1): MCM
+synonym(2): methylalonyl-CoA mutase
+synonym(3): methylamlony-CoA isomerase
+synonym(4): methylmalonyl CoA mutase
+synonym(5): methylmalonyl Coenzyme A mutase
+synonym(6): methylmalonyl Coenzyme A mutase precursor
+synonym(7): MUTA_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4594
+db-key(2)/db: OMIM
+db-key(2)/key: 609058
+reviewed: 2011-07
+published: 2018-04-17

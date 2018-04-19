@@ -1,0 +1,35 @@
+gene-symbol: ARX
+name: aristaless related homeobox
+ghr-page: https://ghr.nlm.nih.gov/gene/ARX
+text/text-role: function
+text/html: <p>The <i>ARX</i> gene provides instructions for producing a protein that regulates the activity of other genes. On the basis of this action, the ARX protein is called a transcription factor. The <i>ARX</i> gene is part of a larger family of homeobox genes, which act during early embryonic development to control the formation of many body structures. Specifically, the ARX protein is believed to be involved in the development of the brain, pancreas, testes, and muscles used for movement (skeletal muscles).</p><p>In the pancreas, testes, and skeletal muscles, the ARX protein helps to regulate the process by which cells mature to carry out specific functions (differentiation). Within the developing brain, the ARX protein is involved with movement (migration) and communication of nerve cells (neurons). In particular, this protein regulates genes that play a role in the migration of specialized neurons (interneurons) to their proper location. Interneurons relay signals between other neurons.</p>
+related-health-condition(1)/name: early infantile epileptic encephalopathy 1
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/early-infantile-epileptic-encephalopathy-1
+related-health-condition(2)/name: Partington syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/partington-syndrome
+related-health-condition(3)/name: X-linked lissencephaly with abnormal genitalia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-lissencephaly-with-abnormal-genitalia
+synonym(1): aristaless-related homeobox, X-linked
+synonym(2): ARX_HUMAN
+synonym(3): ISSX
+synonym(4): MRX29
+synonym(5): MRX32
+synonym(6): MRX33
+synonym(7): MRX36
+synonym(8): MRX38
+synonym(9): MRX43
+synonym(10): MRX54
+synonym(11): MRXS1
+synonym(12): PRTS
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 170302
+db-key(2)/db: OMIM
+db-key(2)/key: 300004
+db-key(3)/db: OMIM
+db-key(3)/key: 300382
+db-key(4)/db: OMIM
+db-key(4)/key: 300419
+db-key(5)/db: OMIM
+db-key(5)/key: 308350
+reviewed: 2017-11
+published: 2018-04-17

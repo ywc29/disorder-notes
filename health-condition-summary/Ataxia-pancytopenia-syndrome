@@ -1,0 +1,26 @@
+name: Ataxia-pancytopenia syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/ataxia-pancytopenia-syndrome
+text/text-role: description
+text/html: <p>Ataxia-pancytopenia syndrome is a rare condition that affects the part of the brain that coordinates movement (the cerebellum) and blood-forming cells in the bone marrow. The age when signs and symptoms begin, the severity of the condition, and the rate at which it worsens all vary among affected individuals.</p><p>People with ataxia-pancytopenia syndrome have neurological problems associated with a loss of tissue (atrophy) and other changes in the cerebellum. These problems include poor coordination and balance (ataxia), difficulty with movements that involve judging distance or scale (dysmetria), uncontrollable muscle contractions (clonus), and involuntary back-and-forth eye movements (nystagmus). These neurological issues worsen over time, making walking and other movements challenging. Some affected individuals eventually require wheelchair assistance.</p><p>Ataxia-pancytopenia syndrome also causes a shortage of one or more types of normal blood cells: red blood cells, white blood cells, and platelets. A shortage of all three of these cell types is known as pancytopenia. Pancytopenia can result in extreme tiredness (fatigue) due to low numbers of red blood cells (anemia), frequent infections due to low numbers of white blood cells (neutropenia), and abnormal bleeding due to low numbers of platelets (thrombocytopenia). Ataxia-pancytopenia syndrome is also associated with an increased risk of certain cancerous conditions of the blood, particularly myelodysplastic syndrome and acute myeloid leukemia.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SAMD9L
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SAMD9L
+synonym(1): ATXPC
+synonym(2): myelocerebellar disorder
+db-key(1)/db: GTR
+db-key(1)/key: C1327919
+db-key(2)/db: GeneReviews
+db-key(2)/key: samd9l-ap
+db-key(3)/db: MeSH
+db-key(3)/key: D001259
+db-key(4)/db: MeSH
+db-key(4)/key: D010198
+db-key(5)/db: OMIM
+db-key(5)/key: 159550
+db-key(6)/db: OMIM
+db-key(6)/key: 252270
+db-key(7)/db: Orphanet
+db-key(7)/key: 2585
+reviewed: 2017-09
+published: 2018-04-17

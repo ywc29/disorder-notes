@@ -1,0 +1,40 @@
+gene-symbol: BRAF
+name: B-Raf proto-oncogene, serine/threonine kinase
+ghr-page: https://ghr.nlm.nih.gov/gene/BRAF
+text/text-role: function
+text/html: <p>The <i>BRAF</i> gene provides instructions for making a protein that helps transmit chemical signals from outside the cell to the cell's nucleus.  This protein is part of a signaling pathway known as the RAS/MAPK pathway, which controls several important cell functions. Specifically, the RAS/MAPK pathway regulates the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (migration), and the self-destruction of cells (apoptosis). Chemical signaling through this pathway is essential for normal development before birth.</p><p>The <i>BRAF</i> gene belongs to a class of genes known as oncogenes. When mutated, oncogenes have the potential to cause normal cells to become cancerous.</p>
+related-health-condition(1)/name: cardiofaciocutaneous syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cardiofaciocutaneous-syndrome
+related-health-condition(2)/name: cholangiocarcinoma
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cholangiocarcinoma
+related-health-condition(3)/name: Erdheim-Chester disease
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/erdheim-chester-disease
+related-health-condition(4)/name: gastrointestinal stromal tumor
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/gastrointestinal-stromal-tumor
+related-health-condition(5)/name: giant congenital melanocytic nevus
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/giant-congenital-melanocytic-nevus
+related-health-condition(6)/name: Langerhans cell histiocytosis
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/langerhans-cell-histiocytosis
+related-health-condition(7)/name: lung cancer
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/lung-cancer
+related-health-condition(8)/name: multiple myeloma
+related-health-condition(8)/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-myeloma
+related-health-condition(9)/name: Noonan syndrome
+related-health-condition(9)/ghr-page: https://ghr.nlm.nih.gov/condition/noonan-syndrome
+related-health-condition(10)/name: Noonan syndrome with multiple lentigines
+related-health-condition(10)/ghr-page: https://ghr.nlm.nih.gov/condition/noonan-syndrome-with-multiple-lentigines
+synonym(1): 94 kDa B-raf protein
+synonym(2): B-raf 1
+synonym(3): B-Raf proto-oncogene serine/threonine-protein kinase
+synonym(4): BRAF1
+synonym(5): BRAF1_HUMAN
+synonym(6): Murine sarcoma viral (v-raf) oncogene homolog B1
+synonym(7): p94
+synonym(8): RAFB1
+synonym(9): v-raf murine sarcoma viral oncogene homolog B
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 673
+db-key(2)/db: OMIM
+db-key(2)/key: 164757
+reviewed: 2017-10
+published: 2018-04-17

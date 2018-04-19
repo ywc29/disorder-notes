@@ -1,0 +1,32 @@
+name: Lipoid proteinosis
+ghr-page: https://ghr.nlm.nih.gov/condition/lipoid-proteinosis
+text/text-role: description
+text/html: <p>Lipoid proteinosis is a condition that results from the formation of numerous small clumps (deposits) of proteins and other molecules in various tissues throughout the body. These tiny clumps appear in the skin, upper respiratory tract, the moist tissues that line body openings such as the eyelids and the inside of the mouth (mucous membranes), and other areas.</p><p>The first symptom of this condition is usually a hoarse voice, which is due to deposits in the vocal cords. In infancy the hoarseness is expressed as a weak cry. The voice abnormalities persist throughout life and can ultimately cause difficulty speaking or complete loss of speech. Involvement of the throat, tonsils, and lips can result in breathing problems and upper respiratory tract infections. Deposits in the tongue can result in a thick and shortened tongue. They can also thicken the band of tissue that connects the tongue to the bottom of the mouth (frenulum), making it difficult to extend the tongue. The tongue may also have a smooth appearance due to damage to the taste buds.</p><p>A characteristic feature of lipoid proteinosis is the presence of multiple tiny, bead-like bumps lining the upper and lower eyelids along the lash line. These bumps are known as moniliform blepharosis. They may cause eyeball irritation or itching but generally do not impair vision.</p><p>The skin and mucous membranes are often fragile in children with lipoid proteinosis, leading to bleeding and scabbing following minor trauma. These problems often first appear in infancy in the mouth and on the face and limbs. Over time, these scabs form blisters and scars. Deposits accumulate in the skin, which causes the skin to become thickened and yellowish in color. Skin damage appears more frequently on areas that experience friction, such as the hands, elbows, knees, buttocks, and armpits. Some people with this condition have hair loss (alopecia) affecting their scalp, eyelashes, and eyebrows.</p><p>Neurologic features are also common in people with lipoid proteinosis. Affected individuals may have recurrent seizures (epilepsy) or behavioral and neurological problems, which can include headaches, aggressive behaviors, paranoia, hallucinations, short-term memory loss, and absence of fear. These features are thought to be associated with the presence of deposits and an accumulation of calcium (calcification) in areas of the brain called the temporal lobes. The temporal lobes help process hearing, speech, memory, and emotion. The brain abnormalities and neurological features do not always occur together, so the cause of the neurological features is still unclear.</p><p>Deposits can be found in some internal organs, including the stomach, a section of the small intestine called the duodenum, and the colon. The deposits in these tissues often do not cause any symptoms and may disappear over time.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ECM1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ECM1
+synonym(1): hyalinosis cutis et mucosae
+synonym(2): lipid proteinosis
+synonym(3): lipoglycoproteinosis
+synonym(4): lipoid proteinosis of Urbach and Wiethe
+synonym(5): lipoidosis cutis et mucosae
+synonym(6): lipoidproteinosis
+synonym(7): lipoproteinosis
+synonym(8): Urbach-Wiethe disease
+synonym(9): Urbach-Wiethe lipoid proteinosis
+synonym(10): Urbach-Wiethe syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0023795
+db-key(2)/db: GeneReviews
+db-key(2)/key: lipoid-p
+db-key(3)/db: MeSH
+db-key(3)/key: D008065
+db-key(4)/db: OMIM
+db-key(4)/key: 247100
+db-key(5)/db: Orphanet
+db-key(5)/key: 530
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 38692000
+reviewed: 2016-07
+published: 2018-04-17

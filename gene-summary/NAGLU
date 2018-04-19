@@ -1,0 +1,20 @@
+gene-symbol: NAGLU
+name: N-acetyl-alpha-glucosaminidase
+ghr-page: https://ghr.nlm.nih.gov/gene/NAGLU
+text/text-role: function
+text/html: <p>The <i>NAGLU</i> gene provides instructions for producing an enzyme called alpha-N-acetylglucosaminidase. This enzyme is located in lysosomes, compartments within cells that digest and recycle different types of molecules. Alpha-N-acetylglucosaminidase is involved in the step-wise breakdown of large molecules called glycosaminoglycans (GAGs). GAGs are composed of sugar molecules that are linked together to form a long string. To break down these large molecules, individual sugars are removed one at a time from one end of the molecule. Alpha-N-acetylglucosaminidase removes a sugar called N-acetylglucosamine when it is at the end of the GAG chain.</p>
+related-health-condition/name: mucopolysaccharidosis type III
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-iii
+synonym(1): alpha-N-acetylglucosaminidase
+synonym(2): alpha-N-acetylglucosaminidase precursor
+synonym(3): ANAG_HUMAN
+synonym(4): N-acetylglucosaminidase, alpha
+synonym(5): N-acetylglucosaminidase, alpha-
+synonym(6): NAG
+synonym(7): UFHSD
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4669
+db-key(2)/db: OMIM
+db-key(2)/key: 609701
+reviewed: 2010-08
+published: 2018-04-17

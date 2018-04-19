@@ -1,0 +1,23 @@
+gene-symbol: SBDS
+name: SBDS, ribosome maturation factor
+ghr-page: https://ghr.nlm.nih.gov/gene/SBDS
+text/text-role: function
+text/html: <p>The <i>SBDS</i> gene provides instructions for making a protein whose function is unknown.  Because mutations in this gene cause health problems affecting many body systems, researchers believe that the SBDS protein has an essential function in cells throughout the body.</p><p>Studies suggest that the SBDS protein may play a role in processing RNA, a molecule that is a chemical cousin of DNA.  This protein may also be involved in building ribosomes, which are cellular structures that use the instructions encoded by RNA to create proteins.  More research is needed to clarify the protein's role in these processes.</p>
+related-health-condition/name: Shwachman-Diamond syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/shwachman-diamond-syndrome
+synonym(1): CGI-97
+synonym(2): FLJ10917
+synonym(3): SBDS ribosome assembly guanine nucleotide exchange factor
+synonym(4): SBDS, ribosome assembly guanine nucleotide exchange factor
+synonym(5): SBDS_HUMAN
+synonym(6): Sdol1
+synonym(7): SDS
+synonym(8): Shwachman-Bodian-Diamond syndrome
+synonym(9): SWDS
+synonym(10): YLR022c
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51119
+db-key(2)/db: OMIM
+db-key(2)/key: 607444
+reviewed: 2007-12
+published: 2018-04-17

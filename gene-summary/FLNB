@@ -1,0 +1,40 @@
+gene-symbol: FLNB
+name: filamin B
+ghr-page: https://ghr.nlm.nih.gov/gene/FLNB
+text/text-role: function
+text/html: <p>The <i>FLNB</i> gene provides instructions for making a protein called filamin B. This protein helps build the network of protein filaments (cytoskeleton) that gives structure to cells and allows them to change shape and move. Filamin B attaches (binds) to another protein called actin and helps the actin to form the branching network of filaments that makes up the cytoskeleton. It also links actin to many other proteins to perform various functions within the cell, including the cell signaling that helps determine how the cytoskeleton will change as tissues grow and take shape during development.</p><p>Filamin B is involved in the development of the skeleton before birth. It is active (expressed) in many cells and tissues of the body, including cartilage-forming cells called chondrocytes. Cartilage is a tough, flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone (a process called ossification), except for the cartilage that continues to cover and protect the ends of bones and is present in the nose, airways (trachea and bronchi), and external ears. Filamin B appears to be important for normal cell growth and division (proliferation) and maturation (differentiation) of chondrocytes and for the ossification of cartilage.</p>
+related-health-condition(1)/name: atelosteogenesis type 1
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/atelosteogenesis-type-1
+related-health-condition(2)/name: atelosteogenesis type 3
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/atelosteogenesis-type-3
+related-health-condition(3)/name: boomerang dysplasia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/boomerang-dysplasia
+related-health-condition(4)/name: Larsen syndrome
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/larsen-syndrome
+related-health-condition(5)/name: spondylocarpotarsal synostosis syndrome
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/spondylocarpotarsal-synostosis-syndrome
+synonym(1): ABP-278
+synonym(2): ABP-280 homolog
+synonym(3): actin-binding-like protein
+synonym(4): actin binding protein 278
+synonym(5): beta-filamin
+synonym(6): FH1
+synonym(7): filamin-3
+synonym(8): filamin-B
+synonym(9): filamin B, beta
+synonym(10): filamin homolog 1
+synonym(11): FLN-B
+synonym(12): FLN1L
+synonym(13): FLNB_HUMAN
+synonym(14): LRS1
+synonym(15): TABP
+synonym(16): TAP
+synonym(17): thyroid autoantigen
+synonym(18): truncated ABP
+synonym(19): truncated actin-binding protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2317
+db-key(2)/db: OMIM
+db-key(2)/key: 603381
+reviewed: 2011-09
+published: 2018-04-17

@@ -1,0 +1,48 @@
+name: Androgen insensitivity syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/androgen-insensitivity-syndrome
+text/text-role: description
+text/html: <p>Androgen insensitivity syndrome is a condition that affects sexual development before birth and during puberty. People with this condition are genetically male, with one X chromosome and one Y chromosome in each cell.  Because their bodies are unable to respond to certain male sex hormones (called androgens), they may have mostly female external sex characteristics or signs of both male and female sexual development.</p><p>Complete androgen insensitivity syndrome occurs when the body cannot use androgens at all. People with this form of the condition have the external sex characteristics of females, but do not have a uterus and therefore do not menstruate and are unable to conceive a child (infertile).  They are typically raised as females and have a female gender identity. Affected individuals have male internal sex organs (testes) that are undescended, which means they are abnormally located in the pelvis or abdomen. Undescended testes have a small chance of becoming cancerous later in life if they are not surgically removed. People with complete androgen insensitivity syndrome also have sparse or absent hair in the pubic area and under the arms.</p><p>The partial and mild forms of androgen insensitivity syndrome result when the body's tissues are partially sensitive to the effects of androgens. People with partial androgen insensitivity (also called Reifenstein syndrome) can have genitalia that look typically female, genitalia that have both male and female characteristics, or genitalia that look typically male. They may be raised as males or as females and may have a male or a female gender identity.  People with mild androgen insensitivity are born with male sex characteristics, but they are often infertile and tend to experience breast enlargement at puberty.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: AR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/AR
+synonym(1): AIS
+synonym(2): androgen receptor deficiency
+synonym(3): androgen resistance syndrome
+synonym(4): AR deficiency
+synonym(5): DHTR deficiency
+synonym(6): dihydrotestosterone receptor deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0039585
+db-key(2)/db: GTR
+db-key(2)/key: CN035075
+db-key(3)/db: GTR
+db-key(3)/key: CN037063
+db-key(4)/db: GeneReviews
+db-key(4)/key: androgen
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: E34.5
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: E34.50
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: E34.51
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: E34.52
+db-key(9)/db: MeSH
+db-key(9)/key: D013734
+db-key(10)/db: OMIM
+db-key(10)/key: 300068
+db-key(11)/db: Orphanet
+db-key(11)/key: 754
+db-key(12)/db: Orphanet
+db-key(12)/key: 90797
+db-key(13)/db: Orphanet
+db-key(13)/key: 99429
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 12313004
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 52832001
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 58672003
+reviewed: 2016-11
+published: 2018-04-17

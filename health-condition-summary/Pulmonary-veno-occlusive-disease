@@ -1,0 +1,31 @@
+name: Pulmonary veno-occlusive disease
+ghr-page: https://ghr.nlm.nih.gov/condition/pulmonary-veno-occlusive-disease
+text/text-role: description
+text/html: <p>Pulmonary veno-occlusive disease (PVOD) is characterized by the blockage (occlusion) of the blood vessels that carry oxygen-rich (oxygenated) blood from the lungs to the heart (the pulmonary veins). The occlusion is caused by a buildup of abnormal fibrous tissue in the small veins in the lungs, which narrows the vessels and impairs blood flow. Because blood flow through the lungs is difficult, pressure rises in the vessels that carry blood that needs to be oxygenated to the lungs from the heart (the pulmonary arteries). Increased pressure in these vessels is known as pulmonary arterial hypertension.</p><p>The problems with blood flow in PVOD also impair the delivery of oxygenated blood to the rest of the body, which leads to the signs and symptoms of the condition. Shortness of breath (dyspnea) and tiredness (fatigue) during exertion are the most common symptoms of this condition. Other common features include dizziness, a lack of energy (lethargy), difficulty breathing when lying down, and a cough that does not go away. As the condition worsens, affected individuals can develop a bluish tint to the skin (cyanosis), chest pains, fainting spells, and an accumulation of fluid in the lungs (pulmonary edema).</p><p>Certain features commonly seen in people with PVOD can be identified using a test called a CT scan. One of these features, which is seen in the lungs of affected individuals, is an abnormality described as centrilobular ground-glass opacities. Affected individuals also have abnormal thickening of certain tissues in the lungs, which is described as septal lines. In addition, lymph nodes in the chest (mediastinal lymph nodes) are abnormally enlarged in people with PVOD.</p><p>PVOD can begin at any age, and the blood flow problems worsen over time. Because of the increased blood pressure in the pulmonary arteries, the heart must work harder than normal to pump blood to the lungs, which can eventually lead to fatal heart failure. Most people with this severe disorder do not live more than 2 years after diagnosis.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: BMPR2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/BMPR2
+related-gene(2)/gene-symbol: EIF2AK4
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/EIF2AK4
+synonym(1): isolated pulmonary venous sclerosis
+synonym(2): obstructive disease of the pulmonary veins
+synonym(3): pulmonary venoocclusive disease
+synonym(4): PVOD
+synonym(5): venous form of primary pulmonary hypertension
+db-key(1)/db: GTR
+db-key(1)/key: C0034091
+db-key(2)/db: MeSH
+db-key(2)/key: D011668
+db-key(3)/db: OMIM
+db-key(3)/key: 234810
+db-key(4)/db: OMIM
+db-key(4)/key: 265450
+db-key(5)/db: Orphanet
+db-key(5)/key: 31837
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 89420002
+reviewed: 2015-03
+published: 2018-04-17

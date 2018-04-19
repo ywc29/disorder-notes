@@ -1,0 +1,51 @@
+name: Hypercholesterolemia
+ghr-page: https://ghr.nlm.nih.gov/condition/hypercholesterolemia
+text/text-role: description
+text/html: <p>Hypercholesterolemia is a condition characterized by very high levels of cholesterol in the blood. Cholesterol is a waxy, fat-like substance that is produced in the body and obtained from foods that come from animals (particularly egg yolks, meat, poultry, fish, and dairy products). The body needs this substance to build cell membranes, make certain hormones, and produce compounds that aid in fat digestion. Too much cholesterol, however, increases a person's risk of developing heart disease.</p><p>People with hypercholesterolemia have a high risk of developing a form of heart disease called coronary artery disease.  This condition occurs when excess cholesterol in the bloodstream is deposited in the walls of blood vessels, particularly in the arteries that supply blood to the heart (coronary arteries). The abnormal buildup of cholesterol forms clumps (plaque) that narrow and harden artery walls. As the clumps get bigger, they can clog the arteries and restrict the flow of blood to the heart. The buildup of plaque in coronary arteries causes a form of chest pain called angina and greatly increases a person's risk of having a heart attack.</p><p>Inherited forms of hypercholesterolemia can also cause health problems related to the buildup of excess cholesterol in other tissues.  If cholesterol accumulates in tendons, it causes characteristic growths called tendon xanthomas.  These growths most often affect the Achilles tendons and tendons in the hands and fingers.  Yellowish cholesterol deposits under the skin of the eyelids are known as xanthelasmata.  Cholesterol can also accumulate at the edges of the clear, front surface of the eye (the cornea), leading to a gray-colored ring called an arcus cornealis.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: APOB
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/APOB
+related-gene(2)/gene-symbol: LDLR
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/LDLR
+related-gene(3)/gene-symbol: LDLRAP1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/LDLRAP1
+related-gene(4)/gene-symbol: PCSK9
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/PCSK9
+synonym: Elevated cholesterol
+db-key(1)/db: GTR
+db-key(1)/key: C0020445
+db-key(2)/db: GTR
+db-key(2)/key: C1704417
+db-key(3)/db: GTR
+db-key(3)/key: C1863512
+db-key(4)/db: GTR
+db-key(4)/key: C1863551
+db-key(5)/db: GeneReviews
+db-key(5)/key: hyperchol
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: E78.0
+db-key(7)/db: MeSH
+db-key(7)/key: D006937
+db-key(8)/db: OMIM
+db-key(8)/key: 143890
+db-key(9)/db: OMIM
+db-key(9)/key: 144010
+db-key(10)/db: OMIM
+db-key(10)/key: 603776
+db-key(11)/db: OMIM
+db-key(11)/key: 603813
+db-key(12)/db: Orphanet
+db-key(12)/key: 406
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 238076009
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 238081000
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 397915002
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 398036000
+reviewed: 2007-03
+published: 2018-04-17

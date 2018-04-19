@@ -1,0 +1,18 @@
+gene-symbol: LEMD3
+name: LEM domain containing 3
+ghr-page: https://ghr.nlm.nih.gov/gene/LEMD3
+text/text-role: function
+text/html: <p>The <i>LEMD3</i> gene provides instructions for making a protein that is located in the inner membrane of the nuclear envelope. The nuclear envelope is a cell structure that surrounds the nucleus, acting as a barrier between the nucleus and the rest of the cell.</p><p>The LEMD3 protein helps control two chemical signaling pathways called the transforming growth factor beta (TGF-β) pathway and the bone morphogenic protein (BMP) pathway. Signaling through these pathways turns on (activates) proteins called Smads, which attach (bind) to specific areas of DNA to activate certain genes. The TGF-β and BMP pathways regulate various cellular processes, including cell growth and division (proliferation), the process by which cells mature to carry out special functions (differentiation), and the self-destruction of cells (apoptosis). These pathways are also involved in the growth of new bone.</p><p>The LEMD3 protein interacts with Smads to reduce signaling through the BMP and TGF-β pathways. In this way, the LEMD3 protein helps keep signaling at normal levels within the cell.</p>
+related-health-condition/name: Buschke-Ollendorff syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/buschke-ollendorff-syndrome
+synonym(1): inner nuclear membrane protein Man1
+synonym(2): integral inner nuclear membrane protein
+synonym(3): LEM domain-containing protein 3
+synonym(4): MAN1
+synonym(5): MAN1_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 23592
+db-key(2)/db: OMIM
+db-key(2)/key: 607844
+reviewed: 2013-10
+published: 2018-04-17

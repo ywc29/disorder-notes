@@ -1,0 +1,24 @@
+gene-symbol: HSD3B7
+name: hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7
+ghr-page: https://ghr.nlm.nih.gov/gene/HSD3B7
+text/text-role: function
+text/html: <p>The <i>HSD3B7</i> gene provides instructions for making an enzyme called 3 beta-hydroxysteroid dehydrogenase type 7 (3β-HSD7). This enzyme is found in liver cells. It is embedded in the membrane of a cell structure called the endoplasmic reticulum, which is involved in protein processing and distribution. The 3β-HSD7 enzyme participates in the production of bile acids, which are a component of a digestive fluid called bile. Bile acids stimulate bile flow and helps absorb fats and fat-soluble vitamins. Bile acids are produced from cholesterol in a multi-step process. The 3β-HSD7 enzyme is responsible for the second step in that process, which converts 7alpha(α)-hydroxycholesterol to 7α-hydroxy-4-cholesten-3-one.</p>
+related-health-condition/name: congenital bile acid synthesis defect type 1
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-bile-acid-synthesis-defect-type-1
+synonym(1): 3-beta-HSD VII
+synonym(2): 3 beta-hydroxy-delta 5-C27-steroid oxidoreductase
+synonym(3): 3-beta-hydroxy-Delta(5)-C27 steroid oxidoreductase
+synonym(4): 3 beta-hydroxysteroid dehydrogenase type 7
+synonym(5): 3 beta-hydroxysteroid dehydrogenase type VII
+synonym(6): 3BHS7_HUMAN
+synonym(7): c(27) 3-beta-HSD
+synonym(8): C(27)-3BETA-HSD
+synonym(9): cholest-5-ene-3-beta,7-alpha-diol 3-beta-dehydrogenase
+synonym(10): SDR11E3
+synonym(11): short chain dehydrogenase/reductase family 11E, member 3
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 80270
+db-key(2)/db: OMIM
+db-key(2)/key: 607764
+reviewed: 2015-04
+published: 2018-04-17

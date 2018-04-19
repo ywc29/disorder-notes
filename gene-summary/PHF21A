@@ -1,0 +1,19 @@
+gene-symbol: PHF21A
+name: PHD finger protein 21A
+ghr-page: https://ghr.nlm.nih.gov/gene/PHF21A
+text/text-role: function
+text/html: <p>The <i>PHF21A</i> gene (also known as <i>BHC80</i>) provides instructions for making a protein involved in a process called histone demethylation, which helps control (regulate) gene activity. Histones are structural proteins that attach (bind) to DNA and give chromosomes their shape. The removal of a molecule called a methyl group from histones (histone demethylation), helps turn off (repress) certain genes. The PHF21A protein binds to histones that have already been demethylated, which researchers speculate helps keep the histone demethylated and the genes turned off. The PHF21A protein appears to be particularly important in regulating genes involved in development of nerve cells in the brain and structures of the face.</p>
+related-health-condition/name: Potocki-Shaffer syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/potocki-shaffer-syndrome
+synonym(1): BHC80
+synonym(2): BHC80a
+synonym(3): BM-006
+synonym(4): BRAF35-HDAC complex protein BHC80
+synonym(5): BRAF35/HDAC2 complex (80 kDa)
+synonym(6): KIAA1696
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51317
+db-key(2)/db: OMIM
+db-key(2)/key: 608325
+reviewed: 2016-05
+published: 2018-04-17

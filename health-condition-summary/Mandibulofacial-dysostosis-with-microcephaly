@@ -1,0 +1,27 @@
+name: Mandibulofacial dysostosis with microcephaly
+ghr-page: https://ghr.nlm.nih.gov/condition/mandibulofacial-dysostosis-with-microcephaly
+text/text-role: description
+text/html: <p>Mandibulofacial dysostosis with microcephaly (MFDM) is a disorder that causes abnormalities of the head and face.  People with this disorder often have an unusually small head at birth, and the head does not grow at the same rate as the rest of the body, so it appears that the head is getting smaller as the body grows (progressive microcephaly). Affected individuals have developmental delay and intellectual disability that can range from mild to severe. Speech and language problems are also common in this disorder.</p><p>Facial abnormalities that occur in MFDM include underdevelopment of the middle of the face and the cheekbones (midface and malar hypoplasia) and an unusually small lower jaw (mandibular hypoplasia, also called micrognathia). The external ears are small and abnormally shaped, and they may have skin growths in front of them called preauricular tags. There may also be abnormalities of the ear canal, the tiny bones in the ears (ossicles), or a part of the inner ear called the semicircular canals. These ear abnormalities lead to hearing loss in most affected individuals. Some people with MFDM have an opening in the roof of the mouth (cleft palate), which may also contribute to hearing loss by increasing the risk of ear infections. Affected individuals can also have a blockage of the nasal passages (choanal atresia) that can cause respiratory problems.</p><p>Heart problems, abnormalities of the thumbs, and short stature are other features that can occur in MFDM. Some people with this disorder also have blockage of the esophagus (esophageal atresia). In esophageal atresia, the upper esophagus does not connect to the lower esophagus and stomach. Most babies born with esophageal atresia (EA) also have a tracheoesophageal fistula (TEF), in which the esophagus and the trachea are abnormally connected, allowing fluids from the esophagus to get into the airways and interfere with breathing. Esophageal atresia/tracheoesophageal fistula (EA/TEF) is a life-threatening condition; without treatment, it prevents normal feeding and can cause lung damage from repeated exposure to esophageal fluids.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: EFTUD2
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/EFTUD2
+synonym(1): mandibulofacial dysostosis, Guion-Almeida type
+synonym(2): MFDGA
+synonym(3): MFDM
+db-key(1)/db: GTR
+db-key(1)/key: C1864652
+db-key(2)/db: GeneReviews
+db-key(2)/key: mf-dys-mic
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q75.4
+db-key(4)/db: MeSH
+db-key(4)/key: D008342
+db-key(5)/db: OMIM
+db-key(5)/key: 610536
+db-key(6)/db: Orphanet
+db-key(6)/key: 79113
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 711543008
+reviewed: 2014-09
+published: 2018-04-17

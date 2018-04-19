@@ -1,0 +1,27 @@
+gene-symbol: NR3C2
+name: nuclear receptor subfamily 3 group C member 2
+ghr-page: https://ghr.nlm.nih.gov/gene/NR3C2
+text/text-role: function
+text/html: <p>The <i>NR3C2</i> gene provides instructions for making a protein called the mineralocorticoid receptor. This protein is important in regulating the amount of sodium in the body. Sodium regulation plays a role in blood pressure control and fluid balance. Certain hormones called mineralocorticoids attach (bind) to and turn on (activate) the mineralocorticoid receptor. Aldosterone is one mineralocorticoid that activates the mineralocorticoid receptor. The activated mineralocorticoid receptor acts as a transcription factor, which is a protein that binds to specific regions of DNA and helps control the activity (transcription) of particular genes.</p><p>The mineralocorticoid receptor regulates specialized proteins in the cell membrane that control the transport of sodium or potassium into cells. In response to signals that sodium levels in the body are low, the mineralocorticoid receptor increases the number and activity of these proteins at the cell membrane, especially in certain kidney cells. One of these proteins transports sodium into the cell, while another protein simultaneously transports sodium out of the cell and potassium into the cell. These proteins help keep sodium in the body through a process called reabsorption and remove potassium from the body through a process called secretion.</p>
+related-health-condition/name: pseudohypoaldosteronism type 1
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pseudohypoaldosteronism-type-1
+synonym(1): aldosterone receptor
+synonym(2): FLJ41052
+synonym(3): MCR
+synonym(4): MCR_HUMAN
+synonym(5): MGC133092
+synonym(6): mineralocorticoid receptor
+synonym(7): mineralocorticoid receptor 1
+synonym(8): mineralocorticoid receptor delta
+synonym(9): MLR
+synonym(10): MR
+synonym(11): NR3C2VIT
+synonym(12): nuclear receptor subfamily 3, group C, member 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4306
+db-key(2)/db: OMIM
+db-key(2)/key: 600983
+db-key(3)/db: OMIM
+db-key(3)/key: 605115
+reviewed: 2011-12
+published: 2018-04-17

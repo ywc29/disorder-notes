@@ -1,0 +1,27 @@
+name: Carbonic anhydrase VA deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/carbonic-anhydrase-va-deficiency
+text/text-role: description
+text/html: <p>Carbonic anhydrase VA deficiency is an inherited disorder characterized by episodes during which the balance of certain substances in the body is disrupted (known as metabolic crisis) and brain function is abnormal (known as acute encephalopathy). These potentially life-threatening episodes can cause poor feeding, vomiting, weight loss, tiredness (lethargy), rapid breathing (tachypnea), seizures, or coma.</p><p>During an episode, people with carbonic anhydrase VA deficiency have excess ammonia in the blood (hyperammonemia), problems with acid-base balance in the blood (metabolic acidosis and respiratory alkalosis), low glucose in the blood (hypoglycemia), and reduced production of a substance called bicarbonate in the liver. These imbalances lead to the signs and symptoms that occur during the episodes.</p><p>People with carbonic anhydrase VA deficiency typically first experience episodes of the disorder by age 2. These episodes may be triggered by going without food (fasting) for longer than usual between meals or when energy demands are increased, such as during illness. Between episodes, children with carbonic anhydrase VA deficiency are generally healthy, and more than half have no further episodes after the first one. Some affected children have mildly delayed development or learning disabilities, while others develop normally for their age.</p><p>The risk of metabolic crisis and acute encephalopathy is thought to decrease after childhood. Because of the small number of people with carbonic anhydrase VA deficiency who have come to medical attention, the effects of this disorder in adults are not well understood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: CA5A
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CA5A
+synonym(1): CA-VA deficiency
+synonym(2): CA5AD
+synonym(3): hyperammonemia due to carbonic anhydrase VA deficiency
+synonym(4): hyperammonemic encephalopathy due to carbonic anhydrase VA deficiency
+synonym(5): mitochondrial carbonic anhydrase va deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C3810404
+db-key(2)/db: GeneReviews
+db-key(2)/key: ca5a-def
+db-key(3)/db: MeSH
+db-key(3)/key: D020739
+db-key(4)/db: MeSH
+db-key(4)/key: D022124
+db-key(5)/db: OMIM
+db-key(5)/key: 615751
+db-key(6)/db: Orphanet
+db-key(6)/key: 401948
+reviewed: 2016-09
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: UCHL1
+name: ubiquitin C-terminal hydrolase L1
+ghr-page: https://ghr.nlm.nih.gov/gene/UCHL1
+text/text-role: function
+text/html: <p>The <i>UCHL1</i> gene provides instructions for making an enzyme called ubiquitin carboxyl-terminal esterase L1. This enzyme is found in nerve cells throughout the brain.  Ubiquitin carboxyl-terminal esterase L1 is probably involved in the cell machinery that breaks down (degrades) unneeded proteins. In cells, damaged or excess proteins are tagged with molecules called ubiquitin. Ubiquitin serves as a signal to move these unneeded proteins into specialized structures known as proteasomes, where the proteins are degraded. The ubiquitin-proteasome system acts as the cell's quality control system by disposing of damaged, misshapen, and excess proteins.</p><p>Although the exact function of ubiquitin carboxyl-terminal esterase L1 is not fully understood, it appears to have two types of enzyme activity. One of these, called hydrolase activity, removes and recycles ubiquitin molecules from degraded proteins. This recycling step is important to sustain the degradation process.  The other enzyme function, known as ligase activity, links together ubiquitin molecules for use in tagging proteins for disposal.</p>
+related-health-condition/name: Parkinson disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/parkinson-disease
+synonym(1): MSY1
+synonym(2): neuron cytoplastic protein 9.5
+synonym(3): PARK5
+synonym(4): PGP9.5
+synonym(5): ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase)
+synonym(6): ubiquitin thiolesterase
+synonym(7): UBL1
+synonym(8): UCHL-1
+synonym(9): UCHL1_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7345
+db-key(2)/db: OMIM
+db-key(2)/key: 191342
+reviewed: 2012-05
+published: 2018-04-17

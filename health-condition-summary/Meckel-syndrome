@@ -1,0 +1,73 @@
+name: Meckel syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/meckel-syndrome
+text/text-role: description
+text/html: <p>Meckel syndrome is a disorder with severe signs and symptoms that affect many parts of the body. The most common features are enlarged kidneys with numerous fluid-filled cysts; an occipital encephalocele, which is a sac-like protrusion of the brain through an opening at the back of the skull; and the presence of extra fingers and toes (polydactyly). Most affected individuals also have a buildup of scar tissue (fibrosis) in the liver.</p><p>Other signs and symptoms of Meckel syndrome vary widely among affected individuals. Numerous abnormalities of the brain and spinal cord (central nervous system) have been reported in people with Meckel syndrome, including a group of birth defects known as neural tube defects. These defects occur when a structure called the neural tube, a layer of cells that ultimately develops into the brain and spinal cord, fails to close completely during the first few weeks of embryonic development. Meckel syndrome can also cause problems with development of the eyes and other facial features, heart, bones, urinary system, and genitalia.</p><p>Because of their serious health problems, most individuals with Meckel syndrome die before or shortly after birth. Most often, affected infants die of respiratory problems or kidney failure.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: B9D1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/B9D1
+related-gene(2)/gene-symbol: B9D2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/B9D2
+related-gene(3)/gene-symbol: CC2D2A
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/CC2D2A
+related-gene(4)/gene-symbol: CEP290
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/CEP290
+related-gene(5)/gene-symbol: MKS1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/MKS1
+related-gene(6)/gene-symbol: RPGRIP1L
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/RPGRIP1L
+related-gene(7)/gene-symbol: TMEM67
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/TMEM67
+related-gene(8)/gene-symbol: TMEM216
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/TMEM216
+synonym(1): dysencephalia splanchnocystica
+synonym(2): Meckel-Gruber syndrome
+synonym(3): MKS
+db-key(1)/db: GTR
+db-key(1)/key: C1846357
+db-key(2)/db: GTR
+db-key(2)/key: C1864148
+db-key(3)/db: GTR
+db-key(3)/key: C1969052
+db-key(4)/db: GTR
+db-key(4)/key: C1970161
+db-key(5)/db: GTR
+db-key(5)/key: C2673885
+db-key(6)/db: GTR
+db-key(6)/key: C2676790
+db-key(7)/db: GTR
+db-key(7)/key: C3280036
+db-key(8)/db: GTR
+db-key(8)/key: C3280155
+db-key(9)/db: GTR
+db-key(9)/key: C3714506
+db-key(10)/db: GTR
+db-key(10)/key: C3836857
+db-key(11)/db: MeSH
+db-key(11)/key: D000015
+db-key(12)/db: OMIM
+db-key(12)/key: 249000
+db-key(13)/db: OMIM
+db-key(13)/key: 267010
+db-key(14)/db: OMIM
+db-key(14)/key: 603194
+db-key(15)/db: OMIM
+db-key(15)/key: 607361
+db-key(16)/db: OMIM
+db-key(16)/key: 611134
+db-key(17)/db: OMIM
+db-key(17)/key: 611561
+db-key(18)/db: OMIM
+db-key(18)/key: 612284
+db-key(19)/db: OMIM
+db-key(19)/key: 613885
+db-key(20)/db: OMIM
+db-key(20)/key: 614175
+db-key(21)/db: OMIM
+db-key(21)/key: 614209
+db-key(22)/db: Orphanet
+db-key(22)/key: 564
+db-key(23)/db: SNOMED CT
+db-key(23)/key: 29076005
+reviewed: 2012-05
+published: 2018-04-17

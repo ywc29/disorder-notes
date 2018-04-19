@@ -1,0 +1,26 @@
+gene-symbol: ABCC6
+name: ATP binding cassette subfamily C member 6
+ghr-page: https://ghr.nlm.nih.gov/gene/ABCC6
+text/text-role: function
+text/html: <p>The <i>ABCC6</i> gene provides instructions for making a protein called multidrug resistance-associated protein 6 (MRP6, also known as the ABCC6 protein). This protein is found primarily in the liver and kidneys, with small amounts in other tissues such as the skin, stomach, blood vessels, and eyes. The MRP6 protein belongs to a group of proteins that transport molecules across cell membranes; however, little is known about the substances transported by MRP6.</p><p>Some studies suggest that MRP6 stimulates the release of a molecule called adenosine triphosphate (ATP) from cells through an unknown mechanism. This ATP is quickly broken down into other molecules called adenosine monophosphate (AMP) and pyrophosphate. Pyrophosphate helps control deposition of calcium (calcification) and other minerals (mineralization) in the body.</p><p>Other studies suggest that MRP6 transports a substance that is involved in the breakdown of ATP. This unidentified substance is thought to help prevent mineralization of tissues.</p>
+related-health-condition(1)/name: generalized arterial calcification of infancy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/generalized-arterial-calcification-of-infancy
+related-health-condition(2)/name: pseudoxanthoma elasticum
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pseudoxanthoma-elasticum
+synonym(1): ABC34
+synonym(2): anthracycline resistance-associated protein
+synonym(3): ARA
+synonym(4): ATP-binding cassette, sub-family C (CFTR/MRP), member 6
+synonym(5): EST349056
+synonym(6): MLP1
+synonym(7): MOAT-E
+synonym(8): MRP6
+synonym(9): MRP6_HUMAN
+synonym(10): multidrug resistance-associated protein 6
+synonym(11): multispecific organic anion transporter-E
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 368
+db-key(2)/db: OMIM
+db-key(2)/key: 603234
+reviewed: 2015-01
+published: 2018-04-17

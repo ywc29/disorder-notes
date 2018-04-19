@@ -1,0 +1,8 @@
+gene-symbol: KMT2A
+name: lysine methyltransferase 2A
+ghr-page: https://ghr.nlm.nih.gov/gene/KMT2A
+related-health-condition/name: cytogenetically normal acute myeloid leukemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cytogenetically-normal-acute-myeloid-leukemia
+db-key/db: NCBI Gene
+db-key/key: 4297
+published: 2018-04-17

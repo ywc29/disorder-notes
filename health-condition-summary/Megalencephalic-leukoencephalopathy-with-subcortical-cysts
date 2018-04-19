@@ -1,0 +1,44 @@
+name: Megalencephalic leukoencephalopathy with subcortical cysts
+ghr-page: https://ghr.nlm.nih.gov/condition/megalencephalic-leukoencephalopathy-with-subcortical-cysts
+text/text-role: description
+text/html: <p>Megalencephalic leukoencephalopathy with subcortical cysts is a progressive condition that affects brain development and function. Individuals with this condition typically have an enlarged brain (megalencephaly) that is evident at birth or within the first year of life. Megalencephaly leads to an increase in the size of the head (macrocephaly). Affected people also have leukoencephalopathy, an abnormality of the brain's white matter. White matter consists of nerve fibers covered by a fatty substance called myelin. Myelin insulates nerve fibers and promotes the rapid transmission of nerve impulses. In megalencephalic leukoencephalopathy with subcortical cysts, the myelin is swollen and contains numerous fluid-filled pockets (vacuoles). Over time, the swelling decreases and the myelin begins to waste away (atrophy). Individuals affected with this condition may develop cysts in the brain; because these cysts form below an area of the brain called the cerebral cortex, they are called subcortical cysts. These cysts can grow in size and number.</p><p>The brain abnormalities in people with megalencephalic leukoencephalopathy with subcortical cysts affect the use of muscles and lead to movement problems. Affected individuals typically experience muscle stiffness (spasticity) and difficulty coordinating movements (ataxia). Walking ability varies greatly among those affected. Some people lose the ability to walk early in life and need wheelchair assistance, while others are able to walk unassisted well into adulthood. Minor head trauma can further impair movements and may lead to coma. Affected individuals may also develop uncontrolled muscle tensing (dystonia), involuntary writhing movements of the limbs (athetosis), difficulty swallowing (dysphagia), and impaired speech (dysarthria). More than half of all people with this condition have recurrent seizures (epilepsy). Despite the widespread brain abnormalities, people with this condition typically have only mild to moderate intellectual disability.</p><p>There are three types of megalencephalic leukoencephalopathy with subcortical cysts, which are distinguished by their signs and symptoms and genetic cause. Types 1 and 2A have different genetic causes but are nearly identical in signs and symptoms. Types 2A and 2B have the same genetic cause but the signs and symptoms of type 2B often begin to improve after one year. After improvement, individuals with type 2B usually have macrocephaly and may have intellectual disability.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: HEPACAM
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/HEPACAM
+related-gene(2)/gene-symbol: MLC1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MLC1
+synonym(1): infantile leukoencephalopathy and megalencephaly
+synonym(2): leukoencephalopathy with swelling and a discrepantly mild course
+synonym(3): leukoencephalopathy with swelling and cysts
+synonym(4): LVM
+synonym(5): MLC
+synonym(6): vacuolating leukoencephalopathy
+synonym(7): vacuolating megalencephalic leukoencephalopathy with subcortical cysts
+synonym(8): van der Knaap disease
+db-key(1)/db: GTR
+db-key(1)/key: C1858854
+db-key(2)/db: GTR
+db-key(2)/key: C3151355
+db-key(3)/db: GTR
+db-key(3)/key: C3151356
+db-key(4)/db: GTR
+db-key(4)/key: CN176898
+db-key(5)/db: GeneReviews
+db-key(5)/key: mlc
+db-key(6)/db: MeSH
+db-key(6)/key: D020279
+db-key(7)/db: OMIM
+db-key(7)/key: 604004
+db-key(8)/db: OMIM
+db-key(8)/key: 613925
+db-key(9)/db: OMIM
+db-key(9)/key: 613926
+db-key(10)/db: Orphanet
+db-key(10)/key: 2478
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 703536004
+reviewed: 2015-03
+published: 2018-04-17

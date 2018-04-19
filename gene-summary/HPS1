@@ -1,0 +1,22 @@
+gene-symbol: HPS1
+name: HPS1, biogenesis of lysosomal organelles complex 3 subunit 1
+ghr-page: https://ghr.nlm.nih.gov/gene/HPS1
+text/text-role: function
+text/html: <p>The <i>HPS1</i> gene provides instructions for making a protein that forms part of a complex called biogenesis of lysosome-related organelles complex-3 (BLOC-3). This complex plays a role in the formation of a group of cellular structures called lysosome-related organelles (LROs). In particular, BLOC-3 helps turn on the process by which necessary proteins are transported to LROs during their formation. LROs are very similar to compartments within the cell called lysosomes, which digest and recycle materials. However, LROs perform specialized functions and are found only in certain cell types.</p><p>Within pigment-producing cells (melanocytes), LROs called melanosomes produce and distribute melanin, which is the substance that gives skin, hair, and eyes their color. A different type of LRO is found in platelets, the blood cell fragments involved in normal blood clotting. These LROs, called dense granules, release chemical signals that cause platelets to stick together and form a blood clot. LROs are also found in other specialized cells, including certain cells of the lungs.</p>
+related-health-condition/name: Hermansky-Pudlak syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hermansky-pudlak-syndrome
+synonym(1): BLOC3S1
+synonym(2): Hermansky-Pudlak syndrome 1
+synonym(3): Hermansky-Pudlak syndrome 1 protein
+synonym(4): Hermansky-Pudlak syndrome 1 protein isoform a
+synonym(5): Hermansky-Pudlak syndrome 1 protein isoform c
+synonym(6): Hermansky-Pudlak syndrome type 1
+synonym(7): HPS
+synonym(8): HPS1_HUMAN
+synonym(9): MGC5277
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3257
+db-key(2)/db: OMIM
+db-key(2)/key: 604982
+reviewed: 2014-05
+published: 2018-04-17

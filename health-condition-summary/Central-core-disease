@@ -1,0 +1,29 @@
+name: Central core disease
+ghr-page: https://ghr.nlm.nih.gov/condition/central-core-disease
+text/text-role: description
+text/html: <p>Central core disease is a disorder that affects muscles used for movement (skeletal muscles).  This condition causes muscle weakness that ranges from almost unnoticeable to very severe.</p><p>Most people with central core disease experience persistent, mild muscle weakness that does not worsen with time.  This weakness affects the muscles near the center of the body (proximal muscles), particularly muscles in the upper legs and hips.  Muscle weakness causes affected infants to appear "floppy" and can delay the development of motor skills such as sitting, standing, and walking. In severe cases, affected infants experience profoundly weak muscle tone (hypotonia) and serious or life-threatening breathing problems. Central core disease is also associated with skeletal abnormalities such as abnormal curvature of the spine (scoliosis), hip dislocation, and joint deformities called contractures that restrict the movement of certain joints.</p><p>Many people with central core disease also have an increased risk of developing a severe reaction to certain drugs used during surgery and other invasive procedures. This reaction is called malignant hyperthermia.  Malignant hyperthermia occurs in response to some anesthetic gases, which are used to block the sensation of pain, and with a particular type of muscle relaxant. If given these drugs, people at risk for malignant hyperthermia may experience muscle rigidity, breakdown of muscle fibers (rhabdomyolysis), a high fever, increased acid levels in the blood and other tissues (acidosis), and a rapid heart rate. The complications of malignant hyperthermia can be life-threatening unless they are treated promptly.</p><p>Central core disease gets its name from disorganized areas called cores, which are found in the center of muscle fibers in many affected individuals.  These abnormal regions can only be seen under a microscope.  Although the presence of cores can help doctors diagnose central core disease, it is unclear how they are related to muscle weakness and the other features of this condition.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: RYR1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/RYR1
+synonym(1): CCD
+synonym(2): CCO
+synonym(3): Central Core Myopathy
+synonym(4): Myopathy, Central Core
+synonym(5): Shy-Magee Syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0751951
+db-key(2)/db: GeneReviews
+db-key(2)/key: cco
+db-key(3)/db: MeSH
+db-key(3)/key: D020512
+db-key(4)/db: OMIM
+db-key(4)/key: 117000
+db-key(5)/db: Orphanet
+db-key(5)/key: 597
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 43152001
+reviewed: 2007-10
+published: 2018-04-17

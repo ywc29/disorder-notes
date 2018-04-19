@@ -1,0 +1,23 @@
+gene-symbol: STIM1
+name: stromal interaction molecule 1
+ghr-page: https://ghr.nlm.nih.gov/gene/STIM1
+text/text-role: function
+text/html: <p>The <i>STIM1</i> gene provides instructions for making a protein called stromal interaction molecule 1 (STIM1). The STIM1 protein is involved in controlling the entry of positively charged calcium atoms (calcium ions) into cells when levels of the ions are low, specifically through channels called calcium-release activated calcium (CRAC) channels. The flow of calcium ions through CRAC channels triggers signaling within cells that plays a role in many cellular functions including control of gene activity, cell growth and division, and immune function.</p><p>STIM1 is found in the membrane of a cellular structure called the endoplasmic reticulum (ER), which, among other functions, stores calcium in cells. STIM1 recognizes when calcium levels in the ER are low and stimulates changes in the cell that allow STIM1 to attach (bind) to a protein called ORAI1 in the cell membrane. This protein, which is part of the CRAC channel, forms a hole (pore) in the cell membrane through which calcium ions can flow. STIM1 binding triggers the flow of calcium ions into the cell through the channel. STIM1 also likely plays a role in the process that stops the flow of calcium ions when enough calcium has entered.</p><p>STIM1 is also found in the sarcoplasmic reticulum, a structure similar to the ER that is found in muscle cells. This structure plays a major role in muscle contraction and relaxation by storing and releasing calcium ions. The STIM1 protein is thought to help replenish calcium stores in the sarcoplasmic reticulum through CRAC channels. It may also be involved in the release of calcium ions from the sarcoplasmic reticulum, which stimulates muscle contraction.</p>
+related-health-condition(1)/name: Stormorken syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/stormorken-syndrome
+related-health-condition(2)/name: tubular aggregate myopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/tubular-aggregate-myopathy
+synonym(1): D11S4896E
+synonym(2): GOK
+synonym(3): IMD10
+synonym(4): STRMK
+synonym(5): TAM
+synonym(6): TAM1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6786
+db-key(2)/db: OMIM
+db-key(2)/key: 605921
+db-key(3)/db: OMIM
+db-key(3)/key: 612783
+reviewed: 2014-10
+published: 2018-04-17

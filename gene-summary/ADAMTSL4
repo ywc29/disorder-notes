@@ -1,0 +1,22 @@
+gene-symbol: ADAMTSL4
+name: ADAMTS like 4
+ghr-page: https://ghr.nlm.nih.gov/gene/ADAMTSL4
+text/text-role: function
+text/html: <p>The <i>ADAMTSL4</i> gene provides instructions for making a protein that is found throughout the body. The ADAMTSL4 protein is released from cells into the extracellular matrix, which is an intricate lattice of proteins and other molecules that forms in the spaces between cells. In this matrix, the ADAMTSL4 protein attaches (binds) to another protein called fibrillin-1. Fibrillin-1 proteins bind to each other and other proteins to form threadlike filaments called microfibrils. It is likely that the binding of ADAMTSL4 to fibrillin-1 promotes microfibril assembly. Microfibrils provide support to many tissues, including the lenses of the eyes, which are held in their central position by these filaments.</p>
+related-health-condition/name: isolated ectopia lentis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/isolated-ectopia-lentis
+synonym(1): ADAMTS-like 4
+synonym(2): ADAMTS-like protein 4
+synonym(3): ADAMTSL-4
+synonym(4): ATL4_HUMAN
+synonym(5): ECTOL2
+synonym(6): thrombospondin repeat-containing protein 1
+synonym(7): TSRC1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 54507
+db-key(2)/db: OMIM
+db-key(2)/key: 225200
+db-key(3)/db: OMIM
+db-key(3)/key: 610113
+reviewed: 2015-03
+published: 2018-04-17

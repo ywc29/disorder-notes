@@ -1,0 +1,18 @@
+gene-symbol: ACY1
+name: aminoacylase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ACY1
+text/text-role: function
+text/html: <p>The <i>ACY1</i> gene provides instructions for making an enzyme called aminoacylase 1, which is found in many tissues and organs, including the kidneys and the brain. This enzyme is involved in the breakdown of proteinswhen they are no longer needed. Many proteins in the body have a chemical group called an acetyl group attached to one end. This modification, called <i>N</i>-acetylation, helps protect and stabilize the protein. Aminoacylase 1 performs the final step in the breakdown of these proteins by removing the acetyl group from certain protein building blocks (amino acids). The amino acids can then be recycled and used to build other proteins.</p>
+related-health-condition/name: aminoacylase 1 deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/aminoacylase-1-deficiency
+synonym(1): ACY-1
+synonym(2): ACY1D
+synonym(3): acylase 1
+synonym(4): aminoacylase-1
+synonym(5): N-acyl-L-amino-acid amidohydrolase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 95
+db-key(2)/db: OMIM
+db-key(2)/key: 104620
+reviewed: 2014-05
+published: 2018-04-17

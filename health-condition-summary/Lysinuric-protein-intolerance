@@ -1,0 +1,30 @@
+name: Lysinuric protein intolerance
+ghr-page: https://ghr.nlm.nih.gov/condition/lysinuric-protein-intolerance
+text/text-role: description
+text/html: <p>Lysinuric protein intolerance is a disorder caused by the body's inability to digest and use certain protein building blocks (amino acids), namely lysine, arginine, and ornithine.  Because the body cannot effectively break down these amino acids, which are found in many protein-rich foods, nausea and vomiting are typically experienced after ingesting protein.</p><p>People with lysinuric protein intolerance have features associated with protein intolerance, including an enlarged liver and spleen (hepatosplenomegaly), short stature, muscle weakness, impaired immune function, and progressively brittle bones that are prone to fracture (osteoporosis).  A lung disorder called pulmonary alveolar proteinosis may also develop.  This disorder is characterized by protein deposits in the lungs, which interfere with lung function and can be life-threatening.  An accumulation of amino acids in the kidneys can cause end-stage renal disease (ESRD) in which the kidneys become unable to filter fluids and waste products from the body effectively.  A lack of certain amino acids can cause elevated levels of ammonia in the blood.  If ammonia levels are too high for too long, they can cause coma and intellectual disability.</p><p>The signs and symptoms of lysinuric protein intolerance typically appear after infants are weaned and receive greater amounts of protein from solid foods.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SLC7A7
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SLC7A7
+synonym(1): Congenital lysinuria
+synonym(2): Hyperdibasic aminoaciduria
+synonym(3): LPI
+synonym(4): LPI - Lysinuric protein intolerance
+db-key(1)/db: GTR
+db-key(1)/key: C0268647
+db-key(2)/db: GeneReviews
+db-key(2)/key: lpi
+db-key(3)/db: MeSH
+db-key(3)/key: D020157
+db-key(4)/db: OMIM
+db-key(4)/key: 222700
+db-key(5)/db: Orphanet
+db-key(5)/key: 470
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 303852004
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 50056009
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 71751002
+reviewed: 2008-03
+published: 2018-04-17

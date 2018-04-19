@@ -1,0 +1,27 @@
+gene-symbol: JUP
+name: junction plakoglobin
+ghr-page: https://ghr.nlm.nih.gov/gene/JUP
+text/text-role: function
+text/html: <p>The <i>JUP</i> gene provides instructions for making a protein called plakoglobin. This protein is found primarily in cells of the heart and skin, where it is part of two specialized structures called adherens junctions and desmosomes. Both of these structures help hold neighboring cells together, which provides strength and stability to tissues. Desmosomes may also be involved in other critical cell functions, including chemical signaling pathways, the process by which cells mature to perform specific functions (differentiation), and the self-destruction of cells (apoptosis).</p><p>Studies suggest that plakoglobin also plays a role in signaling within cells as part of the Wnt pathway. Wnt signaling controls the activity of certain genes and regulates the interactions between cells. This signaling pathway is involved in many aspects of development, including the normal development of the heart, skin, and hair.</p>
+related-health-condition(1)/name: arrhythmogenic right ventricular cardiomyopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/arrhythmogenic-right-ventricular-cardiomyopathy
+related-health-condition(2)/name: keratoderma with woolly hair
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/keratoderma-with-woolly-hair
+synonym(1): ARVD12
+synonym(2): catenin (cadherin-associated protein), gamma 80kDa
+synonym(3): CTNNG
+synonym(4): desmoplakin-3
+synonym(5): desmoplakin III
+synonym(6): DP3
+synonym(7): DPIII
+synonym(8): PDGB
+synonym(9): PKGB
+synonym(10): plakoglobin
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3728
+db-key(2)/db: OMIM
+db-key(2)/key: 173325
+db-key(3)/db: OMIM
+db-key(3)/key: 611528
+reviewed: 2015-11
+published: 2018-04-17

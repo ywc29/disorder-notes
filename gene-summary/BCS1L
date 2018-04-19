@@ -1,0 +1,29 @@
+gene-symbol: BCS1L
+name: BCS1 homolog, ubiquinol-cytochrome c reductase complex chaperone
+ghr-page: https://ghr.nlm.nih.gov/gene/BCS1L
+text/text-role: function
+text/html: <p>The <i>BCS1L</i> gene provides instructions for making a protein that functions in cell structures called mitochondria, which convert the energy from food into a form that cells can use. The BCS1L protein is critical for the formation of a group of proteins known as complex III. Specifically, BCS1L adds a component called Rieske Fe/S protein to the complex. In mitochondria, complex III performs one step of the multistep process known as oxidative phosphorylation, in which oxygen and simple sugars are used to create adenosine triphosphate (ATP), the cell's main energy source.</p><p>As a byproduct of its action in oxidative phosphorylation, complex III produces reactive oxygen species, which are harmful molecules that can damage DNA and tissues. The reactive oxygen species produced by complex III are thought to also play a role in normal cell signaling, particularly when levels of oxygen in the body are low (hypoxia).</p><p>Some researchers believe the BCS1L protein is involved in the breakdown (metabolism) of iron, although the mechanism is unknown.</p>
+related-health-condition(1)/name: Björnstad syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/bjornstad-syndrome
+related-health-condition(2)/name: GRACILE syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/gracile-syndrome
+related-health-condition(3)/name: Leigh syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+related-health-condition(4)/name: mitochondrial complex III deficiency
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/mitochondrial-complex-iii-deficiency
+synonym(1): BC1 (ubiquinol-cytochrome c reductase) synthesis-like
+synonym(2): BCS1
+synonym(3): BCS1-like protein
+synonym(4): BCS1_HUMAN
+synonym(5): h-BCS1
+synonym(6): Hs.6719
+synonym(7): mitochondrial chaperone BCS1
+synonym(8): mitochondrial complex III assembly
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 617
+db-key(2)/db: OMIM
+db-key(2)/key: 124000
+db-key(3)/db: OMIM
+db-key(3)/key: 603647
+reviewed: 2014-04
+published: 2018-04-17

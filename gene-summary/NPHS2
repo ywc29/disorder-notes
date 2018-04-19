@@ -1,0 +1,19 @@
+gene-symbol: NPHS2
+name: NPHS2, podocin
+ghr-page: https://ghr.nlm.nih.gov/gene/NPHS2
+text/text-role: function
+text/html: <p>The <i>NPHS2</i> gene provides instructions for making a protein called podocin. Podocin is primarily found in the kidneys, which are organs that filter waste products from the blood and remove them in urine. Specifically, podocin is found in cells called podocytes, which are located in specialized kidney structures called glomeruli. Podocin is located at the cell surface in the area between two podocytes called the slit diaphragm. The slit diaphragm is known as a filtration barrier because it captures proteins in blood so that they remain in the body while allowing other molecules like sugars and salts to be excreted in urine. Podocin likely helps bring other proteins that are needed for a functional slit diaphragm to the podocyte cell surface. The protein also is involved with podocyte cell signaling, helping the cell adapt to changes that occur during the filtration process.</p>
+related-health-condition/name: congenital nephrotic syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-nephrotic-syndrome
+synonym(1): nephrosis 2, idiopathic, steroid-resistant (podocin)
+synonym(2): NPHS2 podocin
+synonym(3): PDCN
+synonym(4): podocin isoform 1
+synonym(5): podocin isoform 2
+synonym(6): SRN1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7827
+db-key(2)/db: OMIM
+db-key(2)/key: 604766
+reviewed: 2016-07
+published: 2018-04-17

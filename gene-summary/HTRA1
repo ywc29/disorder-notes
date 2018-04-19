@@ -1,0 +1,24 @@
+gene-symbol: HTRA1
+name: HtrA serine peptidase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/HTRA1
+text/text-role: function
+text/html: <p>The <i>HTRA1</i> gene provides instructions for making a protein that is found in many of the body's organs and tissues. This protein is a type of enzyme called a serine protease, which has an active center that cuts (cleaves) other proteins into smaller pieces. The HTRA1 enzyme helps break down many other kinds of proteins in the space surrounding cells (the extracellular matrix).</p><p>The HTRA1 enzyme also attaches (binds) to proteins in the transforming growth factor-beta (TGF-β) family and slows down (inhibits) their ability to send chemical signals. TGF-β proteins normally help control many critical cell functions, including the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (motility), and the self-destruction of cells (apoptosis). TGF-β signaling also plays an important role in the formation of new blood vessels (angiogenesis).</p><p>Researchers have proposed several additional functions for the HTRA1 enzyme. It may play a role in the stabilization of microtubules, which are rigid, hollow fibers that make up the cell's structural framework (cytoskeleton). Additionally, the HTRA1 enzyme may be involved in depositing minerals, such as calcium and phosphorus, in developing bone (mineralization). Studies have also suggested that the HTRA1 enzyme acts as a tumor suppressor, a protein that helps prevent the development of cancerous tumors by keeping cells from growing and dividing in an uncontrolled way.</p>
+related-health-condition(1)/name: age-related macular degeneration
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
+related-health-condition(2)/name: cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/cerebral-autosomal-recessive-arteriopathy-with-subcortical-infarcts-and-leukoencephalopathy
+synonym(1): ARMD7
+synonym(2): HtrA
+synonym(3): HTRA1_HUMAN
+synonym(4): IGFBP5-protease
+synonym(5): L56
+synonym(6): ORF480
+synonym(7): protease, serine, 11 (IGF binding)
+synonym(8): PRSS11
+synonym(9): serine protease HTRA1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5654
+db-key(2)/db: OMIM
+db-key(2)/key: 602194
+reviewed: 2011-06
+published: 2018-04-17

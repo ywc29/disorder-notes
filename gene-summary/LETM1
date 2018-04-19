@@ -1,0 +1,15 @@
+gene-symbol: LETM1
+name: leucine zipper and EF-hand containing transmembrane protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/LETM1
+text/text-role: function
+text/html: <p>The <i>LETM1</i> gene provides instructions for making a protein whose function is not well understood. This protein is active in mitochondria, which are structures within cells that convert the energy from food into a form that cells can use. The LETM1 protein may be involved in the transport of charged calcium atoms (calcium ions) across membranes within mitochondria. Researchers suspect that the protein also plays a role in determining the shape and volume of mitochondria.</p>
+related-health-condition/name: Wolf-Hirschhorn syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/wolf-hirschhorn-syndrome
+synonym(1): LETM1_HUMAN
+synonym(2): leucine zipper-EF-hand containing transmembrane protein 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3954
+db-key(2)/db: OMIM
+db-key(2)/key: 604407
+reviewed: 2009-01
+published: 2018-04-17

@@ -1,0 +1,85 @@
+name: Sickle cell disease
+ghr-page: https://ghr.nlm.nih.gov/condition/sickle-cell-disease
+text/text-role: description
+text/html: <p>Sickle cell disease is a group of disorders that affects hemoglobin, the molecule in red blood cells that delivers oxygen to cells throughout the body.  People with this disorder have atypical hemoglobin molecules called hemoglobin S, which can distort red blood cells into a sickle, or crescent, shape.</p><p>Signs and symptoms of sickle cell disease usually begin in early childhood.  Characteristic features of this disorder include a low number of red blood cells (anemia), repeated infections, and periodic episodes of pain.   The severity of symptoms varies from person to person.  Some people have mild symptoms, while others are frequently hospitalized for more serious complications.</p><p>The signs and symptoms of sickle cell disease are caused by the sickling of red blood cells.  When red blood cells sickle, they break down prematurely, which can lead to anemia.  Anemia can cause shortness of breath, fatigue, and delayed growth and development in children.  The rapid breakdown of red blood cells may also cause yellowing of the eyes and skin, which are signs of jaundice.  Painful episodes can occur when sickled red blood cells, which are stiff and inflexible, get stuck in small blood vessels.  These episodes deprive tissues and organs of oxygen-rich blood and can lead to organ damage, especially in the lungs, kidneys, spleen, and brain.  A particularly serious complication of sickle cell disease is high blood pressure in the blood vessels that supply the lungs (pulmonary hypertension).  Pulmonary hypertension occurs in about one-third of adults with sickle cell disease and can lead to heart failure.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: HBB
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HBB
+synonym(1): HbS disease
+synonym(2): Hemoglobin S Disease
+synonym(3): SCD
+synonym(4): Sickle cell disorders
+synonym(5): Sickling disorder due to hemoglobin S
+db-key(1)/db: GTR
+db-key(1)/key: C0002895
+db-key(2)/db: GeneReviews
+db-key(2)/key: sickle
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: D57
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: D57.0
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: D57.00
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: D57.01
+db-key(7)/db: ICD-10-CM
+db-key(7)/key: D57.1
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: D57.02
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: D57.2
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: D57.3
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: D57.4
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: D57.8
+db-key(13)/db: ICD-10-CM
+db-key(13)/key: D57.20
+db-key(14)/db: ICD-10-CM
+db-key(14)/key: D57.21
+db-key(15)/db: ICD-10-CM
+db-key(15)/key: D57.40
+db-key(16)/db: ICD-10-CM
+db-key(16)/key: D57.41
+db-key(17)/db: ICD-10-CM
+db-key(17)/key: D57.80
+db-key(18)/db: ICD-10-CM
+db-key(18)/key: D57.81
+db-key(19)/db: ICD-10-CM
+db-key(19)/key: D57.211
+db-key(20)/db: ICD-10-CM
+db-key(20)/key: D57.212
+db-key(21)/db: ICD-10-CM
+db-key(21)/key: D57.219
+db-key(22)/db: ICD-10-CM
+db-key(22)/key: D57.411
+db-key(23)/db: ICD-10-CM
+db-key(23)/key: D57.412
+db-key(24)/db: ICD-10-CM
+db-key(24)/key: D57.419
+db-key(25)/db: ICD-10-CM
+db-key(25)/key: D57.811
+db-key(26)/db: ICD-10-CM
+db-key(26)/key: D57.812
+db-key(27)/db: ICD-10-CM
+db-key(27)/key: D57.819
+db-key(28)/db: MeSH
+db-key(28)/key: D000755
+db-key(29)/db: OMIM
+db-key(29)/key: 603903
+db-key(30)/db: Orphanet
+db-key(30)/key: 232
+db-key(31)/db: SNOMED CT
+db-key(31)/key: 127041004
+db-key(32)/db: SNOMED CT
+db-key(32)/key: 127045008
+db-key(33)/db: SNOMED CT
+db-key(33)/key: 416180004
+db-key(34)/db: SNOMED CT
+db-key(34)/key: 417357006
+db-key(35)/db: SNOMED CT
+db-key(35)/key: 417425009
+reviewed: 2012-08
+published: 2018-04-17

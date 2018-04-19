@@ -1,0 +1,38 @@
+name: X-linked lymphoproliferative disease
+ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-lymphoproliferative-disease
+text/text-role: description
+text/html: <p>X-linked lymphoproliferative disease (XLP) is a disorder of the immune system and blood-forming cells that is found almost exclusively in males. More than half of individuals with this disorder experience an exaggerated immune response to the Epstein-Barr virus (EBV). EBV is a very common virus that eventually infects most humans. In some people it causes infectious mononucleosis (commonly known as "mono"). Normally, after initial infection, EBV remains in certain immune system cells (lymphocytes) called B cells. However, the virus is generally inactive (latent) because it is controlled by other lymphocytes called T cells that specifically target EBV-infected B cells.</p><p>People with XLP may respond to EBV infection by producing abnormally large numbers of T cells, B cells, and other lymphocytes called macrophages. This proliferation of immune cells often causes a life-threatening reaction called hemophagocytic lymphohistiocytosis. Hemophagocytic lymphohistiocytosis causes fever, destroys blood-producing cells in the bone marrow, and damages the liver. The spleen, heart, kidneys, and other organs and tissues may also be affected. In some individuals with XLP, hemophagocytic lymphohistiocytosis or related symptoms may occur without EBV infection.</p><p>About one-third of people with XLP experience dysgammaglobulinemia, which means they have abnormal levels of some types of antibodies. Antibodies (also known as immunoglobulins) are proteins that attach to specific foreign particles and germs, marking them for destruction. Individuals with dysgammaglobulinemia are prone to recurrent infections.</p><p>Cancers of immune system cells (lymphomas) occur in about one-third of people with XLP.</p><p>Without treatment, most people with XLP survive only into childhood. Death usually results from hemophagocytic lymphohistiocytosis.</p><p>XLP can be divided into two types based on its genetic cause and pattern of signs and symptoms: XLP1 (also known as classic XLP) and XLP2. People with XLP2 have not been known to develop lymphoma, are more likely to develop hemophagocytic lymphohistiocytosis without EBV infection, usually have an enlarged spleen (splenomegaly), and may also have inflammation of the large intestine (colitis). Some researchers believe that these individuals should actually be considered to have a similar but separate disorder rather than a type of XLP.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene(1)/gene-symbol: SH2D1A
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/SH2D1A
+related-gene(2)/gene-symbol: XIAP
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/XIAP
+synonym(1): Duncan disease
+synonym(2): Epstein-Barr virus-induced lymphoproliferative disease in males
+synonym(3): familial fatal Epstein-Barr infection
+synonym(4): Purtilo syndrome
+synonym(5): severe susceptibility to EBV infection
+synonym(6): severe susceptibility to infectious mononucleosis
+synonym(7): X-linked lymphoproliferative syndrome
+synonym(8): XLP
+db-key(1)/db: GTR
+db-key(1)/key: C1845076
+db-key(2)/db: GTR
+db-key(2)/key: C1868674
+db-key(3)/db: GeneReviews
+db-key(3)/key: x-lpd
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: D82.3
+db-key(5)/db: MeSH
+db-key(5)/key: D008232
+db-key(6)/db: OMIM
+db-key(6)/key: 300635
+db-key(7)/db: OMIM
+db-key(7)/key: 308240
+db-key(8)/db: Orphanet
+db-key(8)/key: 2442
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 77121009
+reviewed: 2014-11
+published: 2018-04-17

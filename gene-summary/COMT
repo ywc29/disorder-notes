@@ -1,0 +1,23 @@
+gene-symbol: COMT
+name: catechol-O-methyltransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/COMT
+text/text-role: function
+text/html: <p>The <i>COMT</i> gene provides instructions for making an enzyme called catechol-O-methyltransferase.  Two versions of this enzyme are made from the gene.  The longer form, called membrane-bound catechol-O-methyltransferase (MB-COMT), is chiefly produced by nerve cells in the brain. Other tissues, including the liver, kidneys, and blood, produce a shorter form of the enzyme called soluble catechol-O-methyltransferase (S-COMT).  This form of the enzyme helps control the levels of certain hormones.</p><p>In the brain, catechol-O-methyltransferase helps break down certain chemical messengers called neurotransmitters.  These chemicals conduct signals from one nerve cell to another.  Catechol-O-methyltransferase is particularly important in an area at the front of the brain called the prefrontal cortex, which organizes and coordinates information from other parts of the brain.  This region is involved with personality, planning, inhibition of behaviors, abstract thinking, emotion, and working (short-term) memory.  To function efficiently, the prefrontal cortex requires signaling by neurotransmitters such as dopamine and norepinephrine. Catechol-O-methyltransferase helps maintain appropriate levels of these neurotransmitters in this part of the brain.</p>
+related-health-condition(1)/name: 22q11.2 deletion syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/22q112-deletion-syndrome
+related-health-condition(2)/name: alcohol use disorder
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/alcohol-use-disorder
+related-health-condition(3)/name: opioid addiction
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/opioid-addiction
+related-health-condition(4)/name: schizophrenia
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/schizophrenia
+synonym(1): Catechol Methyltransferase
+synonym(2): COMT_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1312
+db-key(2)/db: OMIM
+db-key(2)/key: 116790
+db-key(3)/db: OMIM
+db-key(3)/key: 181500
+reviewed: 2007-09
+published: 2018-04-17

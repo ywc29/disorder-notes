@@ -1,0 +1,20 @@
+gene-symbol: NPHS1
+name: NPHS1, nephrin
+ghr-page: https://ghr.nlm.nih.gov/gene/NPHS1
+text/text-role: function
+text/html: <p>The <i>NPHS1</i> gene provides instructions for making a protein called nephrin. Nephrin is primarily found in the kidneys, which are organs that filter waste products from the blood and remove them in urine. Specifically, nephrin is found in cells called podocytes, which are located in specialized kidney structures called glomeruli. Nephrin is located at the cell surface in the area between two podocytes called the slit diaphragm. The slit diaphragm is known as a filtration barrier because it captures proteins in blood so that they remain in the body while allowing other molecules like sugars and salts to be excreted in urine. Nephrin proteins on one cell interact with nephrin proteins on adjacent podocytes, forming a zipper-like structure. This structure allows the passage of small molecules through the slit diaphragm while preventing larger molecules like proteins from passing through. Nephrin proteins are essential for forming the slit diaphragm, anchoring the slit diaphragm to podocytes, and filtering blood.</p><p>Nephrin is also involved in cell signaling. It relays signals from outside the cell to inside the cell. Additionally, nephrin proteins on the surface of adjacent cells send and receive signals, allowing podocytes to communicate with one another.</p>
+related-health-condition/name: congenital nephrotic syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-nephrotic-syndrome
+synonym(1): CNF
+synonym(2): nephrin
+synonym(3): nephrin precursor
+synonym(4): nephrosis 1, congenital, Finnish type (nephrin)
+synonym(5): NPHN
+synonym(6): NPHS1 nephrin
+synonym(7): renal glomerulus-specific cell adhesion receptor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4868
+db-key(2)/db: OMIM
+db-key(2)/key: 602716
+reviewed: 2016-07
+published: 2018-04-17

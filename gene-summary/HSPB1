@@ -1,0 +1,25 @@
+gene-symbol: HSPB1
+name: heat shock protein family B (small) member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/HSPB1
+text/text-role: function
+text/html: <p>The <i>HSPB1</i> gene provides instructions for making a protein called heat shock protein beta-1 (also called heat shock protein 27). This protein is a member of the heat shock protein family, which helps protect cells under adverse conditions such as infection, inflammation, exposure to toxins, elevated temperature, injury, and disease.  Heat shock proteins block signals that lead to programmed cell death.  In addition, they appear to be involved in activities such as cell movement (motility), stabilizing the cell's structural framework (the cytoskeleton), folding and stabilizing newly produced proteins, and repairing damaged proteins. Heat shock proteins also appear to play a role in the tensing of muscle fibers (muscle contraction).</p><p>Heat shock protein beta-1 is found in cells throughout the body and is particularly abundant in nerve and muscle cells.  In nerve cells, this protein helps to organize a network of molecular threads called neurofilaments that maintain the diameter of specialized extensions called axons.  Maintaining proper axon diameter is essential for the efficient transmission of  nerve impulses. Although it is thought to play a role in muscle contraction, the specific function of heat shock protein beta-1 in muscle cells is unclear.</p>
+related-health-condition(1)/name: Charcot-Marie-Tooth disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
+related-health-condition(2)/name: distal hereditary motor neuropathy, type II
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/distal-hereditary-motor-neuropathy-type-ii
+synonym(1): CMT2F
+synonym(2): heat shock 27kDa protein 1
+synonym(3): heat shock protein beta-1
+synonym(4): HS.76067
+synonym(5): Hsp25
+synonym(6): HSP27
+synonym(7): HSP28
+synonym(8): HSPB1_HUMAN
+synonym(9): SRP27
+synonym(10): stress-responsive protein 27
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3315
+db-key(2)/db: OMIM
+db-key(2)/key: 602195
+reviewed: 2010-01
+published: 2018-04-17

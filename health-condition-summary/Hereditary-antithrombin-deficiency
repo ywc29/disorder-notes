@@ -1,0 +1,24 @@
+name: Hereditary antithrombin deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-antithrombin-deficiency
+text/text-role: description
+text/html: <p>Hereditary antithrombin deficiency is a disorder of blood clotting. People with this condition are at higher than average risk for developing abnormal blood clots, particularly a type of clot that occurs in the deep veins of the legs. This type of clot is called a deep vein thrombosis (DVT). Affected individuals also have an increased risk of developing a pulmonary embolism (PE), which is a clot that travels through the bloodstream and lodges in the lungs. In hereditary antithrombin deficiency, abnormal blood clots usually form only in veins, although they may rarely occur in arteries.</p><p>About half of people with hereditary antithrombin deficiency will develop at least one abnormal blood clot during their lifetime. These clots usually develop after adolescence.</p><p>Other factors can increase the risk of abnormal blood clots in people with hereditary antithrombin deficiency. These factors include increasing age, surgery, or immobility. The combination of hereditary antithrombin deficiency and other inherited disorders of blood clotting can also influence risk. Women with hereditary antithrombin deficiency are at increased risk of developing an abnormal blood clot during pregnancy or soon after delivery. They also may have an increased risk for pregnancy loss (miscarriage) or stillbirth.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SERPINC1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SERPINC1
+synonym(1): Antithrombin III Deficiency
+synonym(2): Congenital Antithrombin III Deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0272375
+db-key(2)/db: MeSH
+db-key(2)/key: D020152
+db-key(3)/db: OMIM
+db-key(3)/key: 107300
+db-key(4)/db: Orphanet
+db-key(4)/key: 82
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 36351005
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 439699000
+reviewed: 2013-02
+published: 2018-04-17

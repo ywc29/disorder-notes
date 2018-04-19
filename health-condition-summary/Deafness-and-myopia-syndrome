@@ -1,0 +1,30 @@
+name: Deafness and myopia syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/deafness-and-myopia-syndrome
+text/text-role: description
+text/html: <p>Deafness and myopia syndrome is a disorder that causes problems with both hearing and vision. People with this disorder have moderate to profound hearing loss in both ears that may worsen over time. The hearing loss may be described as sensorineural, meaning that it is related to changes in the inner ear, or it may be caused by auditory neuropathy, which is a problem with the transmission of sound (auditory) signals from the inner ear to the brain. The hearing loss is either present at birth (congenital) or begins in infancy, before the child learns to speak (prelingual).</p><p>Affected individuals also have severe nearsightedness (high myopia). These individuals are able to see nearby objects clearly, but objects that are farther away appear blurry. The myopia is usually diagnosed by early childhood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SLITRK6
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SLITRK6
+synonym(1): deafness and myopia
+synonym(2): deafness, cochlear, plus
+synonym(3): DFNMYP
+synonym(4): high myopia and sensorineural deafness
+synonym(5): high myopia-sensorineural deafness syndrome
+synonym(6): myopia and deafness
+db-key(1)/db: GTR
+db-key(1)/key: C1857342
+db-key(2)/db: GeneReviews
+db-key(2)/key: dfn-myop
+db-key(3)/db: MeSH
+db-key(3)/key: D006319
+db-key(4)/db: MeSH
+db-key(4)/key: D009216
+db-key(5)/db: OMIM
+db-key(5)/key: 221200
+db-key(6)/db: Orphanet
+db-key(6)/key: 363396
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 720506002
+reviewed: 2015-11
+published: 2018-04-17

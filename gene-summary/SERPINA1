@@ -1,0 +1,26 @@
+gene-symbol: SERPINA1
+name: serpin family A member 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SERPINA1
+text/text-role: function
+text/html: <p>The <i>SERPINA1</i> gene provides instructions for making a protein called alpha-1 antitrypsin, which is a type of serine protease inhibitor (serpin). Serpins help control several types of chemical reactions by blocking (inhibiting) the activity of certain enzymes. Alpha-1 antitrypsin prevents the digestive enzyme trypsin from breaking down proteins until trypsin reaches the intestines. Alpha-1 antitrypsin also inhibits other enzymes, including a powerful enzyme called neutrophil elastase that is released from white blood cells to fight infection.</p><p>Alpha-1 antitrypsin protects the lungs from neutrophil elastase, which can damage lung tissue if not properly controlled. Alpha-1 antitrypsin is produced in the liver and then transported to the lungs via the blood.</p>
+related-health-condition/name: alpha-1 antitrypsin deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/alpha-1-antitrypsin-deficiency
+synonym(1): A1A
+synonym(2): A1AT
+synonym(3): A1AT_HUMAN
+synonym(4): AAT
+synonym(5): alpha-1 antiproteinase
+synonym(6): alpha-1 antitrypsin
+synonym(7): alpha-1 proteinase inhibitor
+synonym(8): alpha1AT
+synonym(9): PI
+synonym(10): PI1
+synonym(11): protease inhibitor 1 (anti-elastase)
+synonym(12): serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1
+synonym(13): serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5265
+db-key(2)/db: OMIM
+db-key(2)/key: 107400
+reviewed: 2009-08
+published: 2018-04-17

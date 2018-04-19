@@ -1,0 +1,26 @@
+name: Lymphangioleiomyomatosis
+ghr-page: https://ghr.nlm.nih.gov/condition/lymphangioleiomyomatosis
+text/text-role: description
+text/html: <p>Lymphangioleiomyomatosis (LAM) is a condition that affects the lungs, the kidneys, and the lymphatic system. The lymphatic system consists of a network of vessels that transport lymph fluid and immune cells throughout the body. Lymph fluid helps exchange immune cells, proteins, and other substances between the blood and tissues.</p><p>LAM is found almost exclusively in women. It often occurs as a feature of an inherited syndrome called tuberous sclerosis complex. When LAM occurs alone it is called isolated or sporadic LAM.</p><p>Signs and symptoms of LAM most often appear during a woman's thirties. Affected women have an overgrowth of abnormal smooth muscle-like cells (LAM cells) in the lungs, resulting in the formation of lung cysts and the destruction of normal lung tissue. They may also have an accumulation of fluid in the cavity around the lungs (chylothorax).</p><p>The lung abnormalities resulting from LAM may cause difficulty breathing (dyspnea), chest pain, and coughing, which may bring up blood (hemoptysis). Many women with this disorder have recurrent episodes of collapsed lung (spontaneous pneumothorax). The lung problems may be progressive and, without lung transplantation, may eventually lead to limitations in activities of daily living, the need for oxygen therapy, and respiratory failure. Although LAM cells are not considered cancerous, they may spread between tissues (metastasize). As a result, the condition may recur even after lung transplantation.</p><p>Women with LAM may develop cysts in the lymphatic vessels of the chest and abdomen. These cysts are called lymphangioleiomyomas. Affected women may also develop tumors called angiomyolipomas made up of LAM cells, fat cells, and blood vessels. Angiomyolipomas usually develop in the kidneys. Internal bleeding is a common complication of angiomyolipomas.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: TSC1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/TSC1
+related-gene(2)/gene-symbol: TSC2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/TSC2
+synonym(1): LAM
+synonym(2): lymphangiomyomatosis
+db-key(1)/db: GTR
+db-key(1)/key: C0751674
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: J84.81
+db-key(3)/db: MeSH
+db-key(3)/key: D018192
+db-key(4)/db: OMIM
+db-key(4)/key: 606690
+db-key(5)/db: Orphanet
+db-key(5)/key: 538
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 277844007
+reviewed: 2017-03
+published: 2018-04-17

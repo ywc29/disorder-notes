@@ -1,0 +1,29 @@
+gene-symbol: IL7R
+name: interleukin 7 receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/IL7R
+text/text-role: function
+text/html: <p>The <i>IL7R</i> gene provides instructions for making a protein called interleukin 7 (IL-7) receptor alpha chain. This protein is one piece of both the IL-7 receptor and the thymic stromal lymphopoietin (TSLP) receptor. These receptors are embedded in the cell membrane of immune system cells. The IL-7 receptor is found in B cells and T cells as well as the early blood-forming cells that give rise to them. The TSLP receptor is found in several types of immune cells, including B cells, T cells, monocytes, and dendritic cells. These cells identify foreign substances and defend the body against infection and disease.</p><p>At the cell surface, the IL-7 receptor interacts with a protein called IL-7. IL-7 is a cytokine, which is a protein that regulates the activity of immune system cells. The receptor and cytokine fit together like a lock and its key, triggering a series of chemical signals inside the cell. In early blood-forming cells, signaling through the IL-7 receptor ensures the development of mature B cells and T cells. IL-7 receptor signaling also stimulates the later growth and division (proliferation) and survival of these cells.</p><p>Similarly, the TSLP receptor interacts with the cytokine TSLP. Attachment of TSLP to its receptor triggers a set of signals that support proliferation and maturation of a variety of immune system cells.</p>
+related-health-condition(1)/name: multiple sclerosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-sclerosis
+related-health-condition(2)/name: Omenn syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/omenn-syndrome
+synonym(1): CD127
+synonym(2): CD127 antigen
+synonym(3): CDW127
+synonym(4): IL-7 receptor subunit alpha
+synonym(5): IL-7R-alpha
+synonym(6): IL-7R subunit alpha
+synonym(7): IL-7RA
+synonym(8): IL7RA
+synonym(9): IL7RA_HUMAN
+synonym(10): ILRA
+synonym(11): interleukin 7 receptor alpha chain
+synonym(12): interleukin 7 receptor isoform H5-6
+synonym(13): interleukin-7 receptor subunit alpha
+synonym(14): interleukin-7 receptor subunit alpha precursor
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3575
+db-key(2)/db: OMIM
+db-key(2)/key: 146661
+reviewed: 2013-04
+published: 2018-04-17

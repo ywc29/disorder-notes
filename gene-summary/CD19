@@ -1,0 +1,8 @@
+gene-symbol: CD19
+name: CD19 molecule
+ghr-page: https://ghr.nlm.nih.gov/gene/CD19
+related-health-condition/name: common variable immune deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/common-variable-immune-deficiency
+db-key/db: NCBI Gene
+db-key/key: 930
+published: 2018-04-17

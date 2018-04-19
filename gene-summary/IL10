@@ -1,0 +1,10 @@
+gene-symbol: IL10
+name: interleukin 10
+ghr-page: https://ghr.nlm.nih.gov/gene/IL10
+related-health-condition(1)/name: Crohn disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/crohn-disease
+related-health-condition(2)/name: shingles
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/shingles
+db-key/db: NCBI Gene
+db-key/key: 3586
+published: 2018-04-17

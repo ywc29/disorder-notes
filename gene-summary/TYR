@@ -1,0 +1,20 @@
+gene-symbol: TYR
+name: tyrosinase
+ghr-page: https://ghr.nlm.nih.gov/gene/TYR
+text/text-role: function
+text/html: <p>The <i>TYR</i> gene provides instructions for making an enzyme called tyrosinase.  This enzyme is located in melanocytes, which are specialized cells that produce a pigment called melanin. Melanin is the substance that gives skin, hair, and eyes their color. Melanin is also found in the light-sensitive tissue at the back of the eye (the retina), where it plays a role in normal vision.</p><p>Tyrosinase is responsible for the first step in melanin production.  It converts a protein building block (amino acid) called tyrosine to another compound called dopaquinone.  A series of additional chemical reactions convert dopaquinone to melanin in the skin, hair follicles, the colored part of the eye (the iris), and the retina.</p>
+related-health-condition/name: oculocutaneous albinism
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/oculocutaneous-albinism
+synonym(1): LB24-AB
+synonym(2): Monophenol monooxygenase
+synonym(3): OCA1A
+synonym(4): OCAIA
+synonym(5): SK29-AB
+synonym(6): Tumor Rejection Antigen AB
+synonym(7): TYRO_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7299
+db-key(2)/db: OMIM
+db-key(2)/key: 606933
+reviewed: 2007-03
+published: 2018-04-17

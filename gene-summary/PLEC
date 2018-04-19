@@ -1,0 +1,30 @@
+gene-symbol: PLEC
+name: plectin
+ghr-page: https://ghr.nlm.nih.gov/gene/PLEC
+text/text-role: function
+text/html: <p>The <i>PLEC</i> gene provides instructions for making a protein called plectin. This protein is produced in many different tissues in the body, including skin and muscle. Within cells, plectin interacts with several molecules that make up the cell's structural framework (the cytoskeleton). For example, plectin interacts with intermediate filaments, which form networks that provide support and strength to cells. Plectin attaches (cross-links) intermediate filaments to one another and to the cell membrane.</p><p>The exact function of plectin in different tissues is unclear. In skin cells, this protein is an essential part of structures called hemidesmosomes, which attach the network of intermediate filaments to the cell membrane. It is also a component of desmosomes, which form junctions between neighboring cells. As part of these structures, plectin plays a critical role in anchoring the outer layer of the skin (the epidermis) to underlying layers.</p>
+related-health-condition(1)/name: congenital myasthenic syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-myasthenic-syndrome
+related-health-condition(2)/name: epidermolysis bullosa simplex
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/epidermolysis-bullosa-simplex
+related-health-condition(3)/name: epidermolysis bullosa with pyloric atresia
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/epidermolysis-bullosa-with-pyloric-atresia
+synonym(1): EBS1
+synonym(2): EBSO
+synonym(3): HD1
+synonym(4): hemidesmosomal protein 1
+synonym(5): PCN
+synonym(6): PLEC1
+synonym(7): PLEC1_HUMAN
+synonym(8): plectin 1
+synonym(9): plectin 1, intermediate filament binding protein 500kDa
+synonym(10): Plectin-11
+synonym(11): PLTN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5339
+db-key(2)/db: OMIM
+db-key(2)/key: 226670
+db-key(3)/db: OMIM
+db-key(3)/key: 601282
+reviewed: 2013-05
+published: 2018-04-17

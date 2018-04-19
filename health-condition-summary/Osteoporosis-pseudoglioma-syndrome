@@ -1,0 +1,22 @@
+name: Osteoporosis-pseudoglioma syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/osteoporosis-pseudoglioma-syndrome
+text/text-role: description
+text/html: <p>Osteoporosis-pseudoglioma syndrome is a rare condition characterized by severe thinning of the bones (osteoporosis) and eye abnormalities that lead to vision loss. In people with this condition, osteoporosis is usually recognized in early childhood. It is caused by a shortage of minerals, such as calcium, in bones (decreased bone mineral density), which makes the bones brittle and prone to fracture. Affected individuals often have multiple bone fractures, including in the bones that form the spine (vertebrae). Multiple fractures can cause collapse of the affected vertebrae (compressed vertebrae), abnormal side-to-side curvature of the spine (scoliosis), short stature, and limb deformities. Decreased bone mineral density can also cause softening or thinning of the skull (craniotabes).</p><p>Most affected individuals have impaired vision at birth or by early infancy and are blind by young adulthood. Vision problems are usually caused by one of several eye conditions, grouped together as pseudoglioma, that affect the light-sensitive tissue at the back of the eye (the retina), although other eye conditions have been identified in affected individuals. Pseudogliomas are so named because, on examination, the conditions resemble an eye tumor known as a retinal glioma.</p><p>Rarely, people with osteoporosis-pseudoglioma syndrome have additional signs or symptoms such as mild intellectual disability, weak muscle tone (hypotonia), abnormally flexible joints, or seizures.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: LRP5
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LRP5
+synonym(1): OPPG
+synonym(2): osteogenesis imperfecta, ocular form
+db-key(1)/db: GTR
+db-key(1)/key: C0432252
+db-key(2)/db: MeSH
+db-key(2)/key: D010024
+db-key(3)/db: OMIM
+db-key(3)/key: 259770
+db-key(4)/db: Orphanet
+db-key(4)/key: 2788
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 254112001
+reviewed: 2013-01
+published: 2018-04-17

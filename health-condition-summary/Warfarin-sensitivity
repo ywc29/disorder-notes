@@ -1,0 +1,30 @@
+name: Warfarin sensitivity
+ghr-page: https://ghr.nlm.nih.gov/condition/warfarin-sensitivity
+text/text-role: description
+text/html: <p>Warfarin sensitivity is a condition in which individuals have a low tolerance for the drug warfarin. Warfarin is an anticoagulant, which means that it thins the blood, preventing blood clots from forming. Warfarin is often prescribed to prevent blood clots in people with heart valve disease who have replacement heart valves, people with an irregular heart beat (atrial fibrillation), or those with a history of heart attack, stroke, or a prior blood clot in the deep veins of the arms or legs (deep vein thrombosis).</p><p>Many people with warfarin sensitivity take longer than normal to break down (metabolize) warfarin, so the medication is in their body longer than usual and they require lower doses. These individuals are classified as "slow metabolizers" of warfarin. Other people with warfarin sensitivity do not need as much drug to prevent clots because their clot forming process is already slower than average and can be inhibited by low warfarin doses. If people with warfarin sensitivity take the average dose (or more) of warfarin, they are at risk of an overdose, which can cause abnormal bleeding in the brain, gastrointestinal tract, or other tissues, and may lead to serious health problems or death.</p><p>Warfarin sensitivity does not appear to cause any health problems other than those associated with warfarin drug treatment.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CYP2C9
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CYP2C9
+related-gene(2)/gene-symbol: CYP4F2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CYP4F2
+related-gene(3)/gene-symbol: F9
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/F9
+related-gene(4)/gene-symbol: GGCX
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/GGCX
+related-gene(5)/gene-symbol: VKORC1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/VKORC1
+synonym(1): coumadin sensitivity
+synonym(2): warfarin response
+db-key(1)/db: GTR
+db-key(1)/key: CN078029
+db-key(2)/db: MeSH
+db-key(2)/key: D004305
+db-key(3)/db: OMIM
+db-key(3)/key: 122700
+db-key(4)/db: Orphanet
+db-key(4)/key: 240997
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 243873002
+reviewed: 2015-06
+published: 2018-04-17

@@ -1,0 +1,31 @@
+name: Ataxia neuropathy spectrum
+ghr-page: https://ghr.nlm.nih.gov/condition/ataxia-neuropathy-spectrum
+text/text-role: description
+text/html: <p>Ataxia neuropathy spectrum is part of a group of conditions called the <i>POLG</i>-related disorders. The conditions in this group feature a range of similar signs and symptoms involving muscle-, nerve-, and brain-related functions. Ataxia neuropathy spectrum now includes the conditions previously called mitochondrial recessive ataxia syndrome (MIRAS) and sensory ataxia neuropathy dysarthria and ophthalmoplegia (SANDO).</p><p>As the name implies, people with ataxia neuropathy spectrum typically have problems with coordination and balance (ataxia) and disturbances in nerve function (neuropathy). The neuropathy can be classified as sensory, motor, or a combination of the two (mixed). Sensory neuropathy causes numbness, tingling, or pain in the arms and legs, and motor neuropathy refers to disturbance in the nerves used for muscle movement.</p><p>Most people with ataxia neuropathy spectrum also have severe brain dysfunction (encephalopathy) and seizures. Some affected individuals have weakness of the external muscles of the eye (ophthalmoplegia), which leads to drooping eyelids (ptosis). Other signs and symptoms can include involuntary muscle twitches (myoclonus), liver disease, depression, migraine headaches, or blindness.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: POLG
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/POLG
+related-gene(2)/gene-symbol: TWNK
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/TWNK
+synonym(1): ANS
+synonym(2): MIRAS
+synonym(3): mitochondrial recessive ataxia syndrome
+synonym(4): SANDO
+synonym(5): sensory ataxia neuropathy dysarthria and ophthalmoplegia
+db-key(1)/db: GTR
+db-key(1)/key: C1843851
+db-key(2)/db: GeneReviews
+db-key(2)/key: alpers
+db-key(3)/db: MeSH
+db-key(3)/key: D028361
+db-key(4)/db: OMIM
+db-key(4)/key: 607459
+db-key(5)/db: Orphanet
+db-key(5)/key: 70595
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 193165008
+reviewed: 2011-06
+published: 2018-04-17

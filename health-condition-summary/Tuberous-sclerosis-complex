@@ -1,0 +1,38 @@
+name: Tuberous sclerosis complex
+ghr-page: https://ghr.nlm.nih.gov/condition/tuberous-sclerosis-complex
+text/text-role: description
+text/html: <p>Tuberous sclerosis complex is a genetic disorder characterized by the growth of numerous noncancerous (benign) tumors in many parts of the body. These tumors can occur in the skin, brain, kidneys, and other organs, in some cases leading to significant health problems. Tuberous sclerosis complex also causes developmental problems, and the signs and symptoms of the condition vary from person to person.</p><p>Virtually all affected people have skin abnormalities, including patches of unusually light-colored skin, areas of raised and thickened skin, and growths under the nails. Tumors on the face called facial angiofibromas are also common beginning in childhood.</p><p>Tuberous sclerosis complex often affects the brain, causing seizures, behavioral problems such as hyperactivity and aggression, and intellectual disability or learning problems. Some affected children have the characteristic features of autism, a developmental disorder that affects communication and social interaction. Benign brain tumors can also develop in people with tuberous sclerosis complex; these tumors can cause serious or life-threatening complications.</p><p>Kidney tumors are common in people with tuberous sclerosis complex; these growths can cause severe problems with kidney function and may be life-threatening in some cases. Additionally, tumors can develop in the heart, lungs, and the light-sensitive tissue at the back of the eye (the retina).</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: TSC1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/TSC1
+related-gene(2)/gene-symbol: TSC2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/TSC2
+synonym(1): Bourneville disease
+synonym(2): Bourneville phakomatosis
+synonym(3): cerebral sclerosis
+synonym(4): epiloia
+synonym(5): sclerosis tuberosa
+synonym(6): tuberose sclerosis
+db-key(1)/db: GTR
+db-key(1)/key: C0041341
+db-key(2)/db: GTR
+db-key(2)/key: C1854465
+db-key(3)/db: GTR
+db-key(3)/key: C1860707
+db-key(4)/db: GeneReviews
+db-key(4)/key: tuberous-sclerosis
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: Q85.1
+db-key(6)/db: MeSH
+db-key(6)/key: D014402
+db-key(7)/db: OMIM
+db-key(7)/key: 191100
+db-key(8)/db: Orphanet
+db-key(8)/key: 805
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 36025004
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 7199000
+reviewed: 2017-02
+published: 2018-04-17

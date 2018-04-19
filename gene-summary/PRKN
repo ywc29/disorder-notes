@@ -1,0 +1,29 @@
+gene-symbol: PRKN
+name: parkin RBR E3 ubiquitin protein ligase
+ghr-page: https://ghr.nlm.nih.gov/gene/PRKN
+text/text-role: function
+text/html: <p>The <i>PRKN</i> gene, one of the largest human genes, provides instructions for making a protein called parkin. Parkin plays a role in the cell machinery that breaks down (degrades) unneeded proteins by tagging damaged and excess proteins with molecules called ubiquitin. Ubiquitin serves as a signal to move unneeded proteins into specialized cell structures known as proteasomes, where the proteins are degraded. The ubiquitin-proteasome system acts as the cell's quality control system by disposing of damaged, misshapen, and excess proteins. This system also regulates the availability of proteins that are involved in several critical cell activities, such as the timing of cell division and growth. Because of its activity in the ubiquitin-proteasome system, parkin belongs to a group of proteins called E3 ubiquitin ligases.</p><p>Parkin appears to be involved in the maintenance of mitochondria, the energy-producing centers in cells. However, little is known about its role in mitochondrial function. Research suggests that parkin may help trigger the destruction of mitochondria that are not working properly.</p><p>Studies of the structure and activity of parkin have led researchers to propose several additional activities for this protein. Parkin may act as a tumor suppressor protein, which means it prevents cells from growing and dividing too rapidly or in an uncontrolled way. Parkin may also regulate the supply and release of sacs called synaptic vesicles from nerve cells. Synaptic vesicles contain chemical messengers that transmit signals from one nerve cell to another.</p>
+related-health-condition(1)/name: leprosy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/leprosy
+related-health-condition(2)/name: lung cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/lung-cancer
+related-health-condition(3)/name: ovarian cancer
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/ovarian-cancer
+related-health-condition(4)/name: Parkinson disease
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/parkinson-disease
+synonym(1): AR-JP
+synonym(2): PARK2
+synonym(3): parkin
+synonym(4): Parkinson disease (autosomal recessive, juvenile) 2, parkin
+synonym(5): parkinson protein 2, E3 ubiquitin protein ligase (parkin)
+synonym(6): PDJ
+synonym(7): PRKN2_HUMAN
+synonym(8): ubiquitin E3 ligase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5071
+db-key(2)/db: OMIM
+db-key(2)/key: 602544
+db-key(3)/db: OMIM
+db-key(3)/key: 607572
+reviewed: 2012-05
+published: 2018-04-17

@@ -1,0 +1,19 @@
+gene-symbol: CYB5R3
+name: cytochrome b5 reductase 3
+ghr-page: https://ghr.nlm.nih.gov/gene/CYB5R3
+text/text-role: function
+text/html: <p>The <i>CYB5R3</i> gene provides instruction for making an enzyme called cytochrome b5 reductase 3. This enzyme is involved in transferring negatively charged particles called electrons from one molecule to another. Two versions (isoforms) of this enzyme are produced from the <i>CYB5R3</i> gene. The soluble isoform is present only in red blood cells, and the membrane-bound isoform is found in all other cell types.</p><p>Normal red blood cells contain molecules of iron-containing hemoglobin, which deliver oxygen to the body's tissues. The iron in hemoglobin is ferrous (Fe<sup>2+</sup>), but it can spontaneously become ferric (Fe<sup>3+</sup>). Hemoglobin that contains ferric iron is called methemoglobin, and it cannot deliver oxygen. The soluble isoform of cytochrome b5 reductase 3 changes ferric iron back to ferrous iron so hemoglobin can function. Normally, red blood cells contain less than 2 percent methemoglobin.</p><p>The membrane-bound isoform is embedded in the membranes of various cellular compartments and is widely used in the body. This isoform is necessary for many chemical reactions, including the breakdown and formation of fatty acids, the formation of cholesterol, and the breakdown of various molecules and drugs.</p>
+related-health-condition/name: autosomal recessive congenital methemoglobinemia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-congenital-methemoglobinemia
+synonym(1): B5R
+synonym(2): DIA1
+synonym(3): diaphorase-1
+synonym(4): NADH-cytochrome b5 reductase 3
+synonym(5): NADH-diaphorase 1
+synonym(6): NB5R3_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1727
+db-key(2)/db: OMIM
+db-key(2)/key: 613213
+reviewed: 2015-05
+published: 2018-04-17

@@ -1,0 +1,18 @@
+gene-symbol: PEX1
+name: peroxisomal biogenesis factor 1
+ghr-page: https://ghr.nlm.nih.gov/gene/PEX1
+text/text-role: function
+text/html: <p>The <i>PEX1</i> gene provides instructions for making a protein called peroxisomal biogenesis factor 1 (Pex1p), which is part of a group of proteins called peroxins. Peroxins are essential for the formation and normal functioning of cell structures called peroxisomes. Peroxisomes are sac-like compartments that contain enzymes needed to break down many different substances, including fatty acids and certain toxic compounds. They are also important for the production of fats (lipids) used in digestion and in the nervous system. Peroxins assist in the formation (biogenesis) of peroxisomes by producing the membrane that separates the peroxisome from the rest of the cell and by importing enzymes into the peroxisome. Pex1p enables other peroxins to bring enzymes into the peroxisome.</p>
+related-health-condition/name: Zellweger spectrum disorder
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/zellweger-spectrum-disorder
+synonym(1): peroxin1
+synonym(2): peroxisome biogenesis disorder protein 1
+synonym(3): PEX1_HUMAN
+synonym(4): Pex1p
+synonym(5): ZWS1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5189
+db-key(2)/db: OMIM
+db-key(2)/key: 602136
+reviewed: 2015-06
+published: 2018-04-17

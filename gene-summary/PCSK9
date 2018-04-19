@@ -1,0 +1,24 @@
+gene-symbol: PCSK9
+name: proprotein convertase subtilisin/kexin type 9
+ghr-page: https://ghr.nlm.nih.gov/gene/PCSK9
+text/text-role: function
+text/html: <p>The <i>PCSK9</i> gene provides instructions for making a protein that helps regulate the amount of cholesterol in the bloodstream. Cholesterol is a waxy, fat-like substance that is produced in the body and obtained from foods that come from animals.</p><p>The PCSK9 protein appears to control the number of low-density lipoprotein receptors, which are proteins on the surface of cells.  These receptors play a critical role in regulating blood cholesterol levels.  The receptors bind to particles called low-density lipoproteins (LDLs), which are the primary carriers of cholesterol in the blood.  Low-density lipoprotein receptors are particularly abundant in the liver, the organ responsible for removing most excess cholesterol from the body.</p><p>The number of low-density lipoprotein receptors on the surface of liver cells determines how quickly cholesterol (in the form of low-density lipoproteins) is removed from the bloodstream. Studies suggest that the PCSK9 protein helps control blood cholesterol levels by breaking down low-density lipoprotein receptors before they reach the cell surface.</p>
+related-health-condition(1)/name: familial hypobetalipoproteinemia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hypobetalipoproteinemia
+related-health-condition(2)/name: hypercholesterolemia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/hypercholesterolemia
+synonym(1): FH3
+synonym(2): HCHOLA3
+synonym(3): hypercholesterolemia, autosomal dominant 3
+synonym(4): NARC-1
+synonym(5): NARC1
+synonym(6): neural apoptosis regulated convertase 1
+synonym(7): PCSK9_HUMAN
+synonym(8): Proprotein convertase PC9
+synonym(9): Subtilisin/kexin-like protease PC9
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 255738
+db-key(2)/db: OMIM
+db-key(2)/key: 607786
+reviewed: 2007-03
+published: 2018-04-17

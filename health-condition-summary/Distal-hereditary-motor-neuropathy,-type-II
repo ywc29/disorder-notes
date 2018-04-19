@@ -1,0 +1,27 @@
+name: Distal hereditary motor neuropathy, type II
+ghr-page: https://ghr.nlm.nih.gov/condition/distal-hereditary-motor-neuropathy-type-ii
+text/text-role: description
+text/html: <p>Distal hereditary motor neuropathy, type II is a progressive disorder that affects nerve cells in the spinal cord. It results in muscle weakness and affects movement, primarily in the legs.</p><p>Onset of distal hereditary motor neuropathy, type II ranges from the teenage years through mid-adulthood. The initial symptoms of the disorder are cramps or weakness in the muscles of the big toe and later, the entire foot. Over a period of approximately 5 to 10 years, affected individuals experience a gradual loss of muscle tissue (atrophy) in the lower legs. They begin to have trouble walking and running, and eventually may have complete paralysis of the lower legs. The thigh muscles may also be affected, although generally this occurs later and is less severe.</p><p>Some individuals with distal hereditary motor neuropathy, type II have weakening of the muscles in the hands and forearms. This weakening is less pronounced than in the lower limbs and does not usually result in paralysis.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: HSPB1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/HSPB1
+related-gene(2)/gene-symbol: HSPB8
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/HSPB8
+synonym: distal hereditary motor neuronopathy, type II
+db-key(1)/db: GTR
+db-key(1)/key: C1834692
+db-key(2)/db: GTR
+db-key(2)/key: C2608087
+db-key(3)/db: MeSH
+db-key(3)/key: D009134
+db-key(4)/db: OMIM
+db-key(4)/key: 158590
+db-key(5)/db: OMIM
+db-key(5)/key: 608634
+db-key(6)/db: Orphanet
+db-key(6)/key: 139525
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 230247001
+reviewed: 2009-08
+published: 2018-04-17

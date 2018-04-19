@@ -1,0 +1,25 @@
+name: Kindler syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/kindler-syndrome
+text/text-role: description
+text/html: <p>Kindler syndrome is a rare type of epidermolysis bullosa, which is a group of genetic conditions that cause the skin to be very fragile and to blister easily.</p><p>From early infancy, people with Kindler syndrome have skin blistering, particularly on the backs of the hands and the tops of the feet. The blisters occur less frequently over time, although repeated blistering on the hands can cause scarring that fuses the skin between the fingers and between the toes. Affected individuals also develop thin, papery skin starting on the hands and feet and later affecting other parts of the body. Other skin abnormalities that occur with Kindler syndrome include patchy changes in skin coloring and small clusters of blood vessels just under the skin (telangiectases), a combination known as poikiloderma. In some affected individuals, the skin on the palms of the hands and soles of the feet thickens and hardens (hyperkeratosis). Kindler syndrome can also cause people to be highly sensitive to ultraviolet (UV) rays from the sun and to sunburn easily.</p><p>Kindler syndrome can also affect the moist lining (mucosae) of the mouth, eyes, esophagus, intestines, genitals, and urinary system, causing these tissues to be very fragile and easily damaged. Affected individuals commonly develop severe gum disease that can lead to early tooth loss. The moist tissues that line the eyelids and the white part of the eyes (the conjunctiva) can become inflamed (conjunctivitis), and damage to the clear outer covering of the eye (the cornea) can affect vision. Narrowing (stenosis) of the esophagus, which is the tube that carries food from the mouth to the stomach, causes difficulty with swallowing that worsens over time. Some affected individuals develop health problems related to inflammation of the colon (colitis) or damage to the mucosa in the vagina, the anus, or the tube that carries urine from the bladder out of the body (the urethra).</p><p>Kindler syndrome increases the risk of developing a form of cancer called squamous cell carcinoma. This type of cancer arises from squamous cells, which are found in the outer layer of skin (the epidermis) and in the mucosae. In people with Kindler syndrome, squamous cell carcinoma occurs most often on the skin, lips, and the lining of the mouth (oral mucosa).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: FERMT1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FERMT1
+synonym(1): congenital bullous poikiloderma
+synonym(2): Kindler's syndrome
+synonym(3): poikiloderma of Kindler
+db-key(1)/db: GTR
+db-key(1)/key: C0406557
+db-key(2)/db: GeneReviews
+db-key(2)/key: kindler
+db-key(3)/db: MeSH
+db-key(3)/key: D004820
+db-key(4)/db: OMIM
+db-key(4)/key: 173650
+db-key(5)/db: Orphanet
+db-key(5)/key: 2908
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 238836000
+reviewed: 2016-06
+published: 2018-04-17

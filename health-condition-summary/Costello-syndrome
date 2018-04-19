@@ -1,0 +1,24 @@
+name: Costello syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/costello-syndrome
+text/text-role: description
+text/html: <p>Costello syndrome is a disorder that affects many parts of the body. This condition is characterized by delayed development and intellectual disability, loose folds of skin (which are especially noticeable on the hands and feet), unusually flexible joints, and distinctive facial features including a large mouth. Heart problems are common, including an abnormal heartbeat (arrhythmia), structural heart defects, and a type of heart disease that enlarges and weakens the heart muscle (hypertrophic cardiomyopathy). Infants with Costello syndrome may be larger than average at birth, but most have difficulty feeding and grow more slowly than other children. People with this condition have relatively short stature and may have reduced growth hormone levels. Other signs and symptoms of Costello syndrome can include tight Achilles tendons (which connect the calf muscles to the heel), weak muscle tone (hypotonia), a structural abnormality of the brain called a Chiari I malformation, skeletal abnormalities, dental problems, and problems with vision.</p><p>Beginning in early childhood, people with Costello syndrome are at an increased risk of developing certain cancerous and noncancerous tumors. The most common noncancerous tumors associated with this condition are papillomas, which are small, wart-like growths that usually develop around the nose and mouth or near the anus. The most common cancerous tumor associated with Costello syndrome is a childhood cancer called rhabdomyosarcoma, which begins in muscle tissue. Neuroblastoma, a tumor that arises in developing nerve cells, also has been reported in children and adolescents with this syndrome. In addition, some teenagers with Costello syndrome have developed transitional cell carcinoma, a form of bladder cancer that is usually seen in older adults.</p><p>The signs and symptoms of Costello syndrome overlap significantly with those of two other genetic conditions, cardiofaciocutaneous syndrome (CFC syndrome) and Noonan syndrome. In affected infants, it can be difficult to tell the three conditions apart based on their physical features. However, the conditions can be distinguished by their genetic cause and by specific patterns of signs and symptoms that develop later in childhood.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: HRAS
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HRAS
+synonym(1): faciocutaneoskeletal syndrome
+synonym(2): FCS syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0587248
+db-key(2)/db: GeneReviews
+db-key(2)/key: costello
+db-key(3)/db: MeSH
+db-key(3)/key: D056685
+db-key(4)/db: OMIM
+db-key(4)/key: 218040
+db-key(5)/db: Orphanet
+db-key(5)/key: 3071
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 309776008
+reviewed: 2012-07
+published: 2018-04-17

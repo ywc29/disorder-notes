@@ -1,0 +1,27 @@
+gene-symbol: COQ2
+name: coenzyme Q2, polyprenyltransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/COQ2
+text/text-role: function
+text/html: <p>The <i>COQ2</i> gene provides instructions for making an enzyme that carries out one step in the production of a molecule called coenzyme Q10, which has several critical functions in cells throughout the body. In cell structures called mitochondria, coenzyme Q10 plays an essential role in a process called oxidative phosphorylation, which converts the energy from food into a form cells can use. Coenzyme Q10 is also involved in producing pyrimidines, which are building blocks of DNA, its chemical cousin RNA, and molecules such as ATP and GTP that serve as energy sources in the cell. In cell membranes, coenzyme Q10 acts as an antioxidant, protecting cells from damage caused by unstable oxygen-containing molecules (free radicals), which are byproducts of energy production.</p>
+related-health-condition(1)/name: multiple system atrophy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-system-atrophy
+related-health-condition(2)/name: primary coenzyme Q10 deficiency
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/primary-coenzyme-q10-deficiency
+synonym(1): 4-HB polyprenyltransferase
+synonym(2): 4-hydroxybenzoate decaprenyltransferase
+synonym(3): 4-hydroxybenzoate polyprenyltransferase, mitochondrial
+synonym(4): CL640
+synonym(5): coenzyme Q2 4-hydroxybenzoate polyprenyltransferase
+synonym(6): coenzyme Q2 homolog, prenyltransferase
+synonym(7): COQ10D1
+synonym(8): FLJ26072
+synonym(9): MSA1
+synonym(10): para-hydroxybenzoate-polyprenyltransferase, mitochondrial
+synonym(11): PHB:polyprenyltransferase
+synonym(12): PHB:PPT
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 27235
+db-key(2)/db: OMIM
+db-key(2)/key: 609825
+reviewed: 2017-04
+published: 2018-04-17

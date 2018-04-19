@@ -1,0 +1,23 @@
+name: Osteoglophonic dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/osteoglophonic-dysplasia
+text/text-role: description
+text/html: <p>Osteoglophonic dysplasia is a condition characterized by abnormal bone growth that leads to severe head and face (craniofacial) abnormalities, dwarfism, and other features. The term osteoglophonic refers to the bones (osteo-) having distinctive hollowed out (-glophonic) areas that appear as holes on x-ray images.</p><p>Premature fusion of certain bones in the skull (craniosynostosis) typically occurs in osteoglophonic dysplasia. The craniosynostosis associated with this disorder may give the head a tall appearance, often referred to in the medical literature as a tower-shaped skull, or a relatively mild version of a deformity called a cloverleaf skull. Characteristic facial features in people with osteoglophonic dysplasia include a prominent forehead (frontal bossing), widely spaced eyes (hypertelorism), flattening of the bridge of the nose and of the middle of the face (midface hypoplasia), a large tongue (macroglossia), a protruding jaw (prognathism), and a short neck. People with this condition usually have no visible teeth because the teeth never emerge from the jaw (clinical anodontia). In addition, the gums are often overgrown (hypertrophic gingiva).</p><p>Infants with osteoglophonic dysplasia often experience failure to thrive, which means they do not gain weight and grow at the expected rate. Affected individuals have short, bowed legs and arms and are short in stature. They also have flat feet and short, broad hands and fingers.</p><p>The life expectancy of people with osteoglophonic dysplasia depends on the extent of their craniofacial abnormalities; those that obstruct the air passages and affect the mouth and teeth can lead to respiratory problems and cause difficulty with eating and drinking. Despite the skull abnormalities, intelligence is generally not affected in this disorder.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: FGFR1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR1
+synonym(1): Fairbank-Keats syndrome
+synonym(2): OGD
+synonym(3): osteoglophonic dwarfism
+db-key(1)/db: GTR
+db-key(1)/key: C0432283
+db-key(2)/db: MeSH
+db-key(2)/key: D004392
+db-key(3)/db: OMIM
+db-key(3)/key: 166250
+db-key(4)/db: Orphanet
+db-key(4)/key: 2645
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 254144002
+reviewed: 2013-07
+published: 2018-04-17

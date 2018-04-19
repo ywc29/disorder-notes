@@ -1,0 +1,8 @@
+gene-symbol: ANKRD1
+name: ankyrin repeat domain 1
+ghr-page: https://ghr.nlm.nih.gov/gene/ANKRD1
+related-health-condition/name: familial dilated cardiomyopathy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+db-key/db: NCBI Gene
+db-key/key: 27063
+published: 2018-04-17

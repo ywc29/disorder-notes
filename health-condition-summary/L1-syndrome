@@ -1,0 +1,45 @@
+name: L1 syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/l1-syndrome
+text/text-role: description
+text/html: <p>L1 syndrome describes a group of conditions that primarily affect the nervous system and occur almost exclusively in males. These conditions vary in severity and include, from most severe to least, X-linked hydrocephalus with stenosis of the aqueduct of Sylvius (HSAS), MASA syndrome, spastic paraplegia type 1, and X-linked complicated corpus callosum agenesis.</p><p>HSAS is an acronym for the characteristic features of the condition: a buildup of fluid in the brain (hydrocephalus) that is often present from before birth, muscle stiffness (spasticity), thumbs that are permanently bent toward the palms (adducted thumbs), and narrowing (stenosis) of a passageway in the brain called the aqueduct of Sylvius. In individuals with HSAS, stenosis of the aqueduct of Sylvius causes hydrocephalus by impeding the flow of cerebrospinal fluid (CSF) out of fluid-filled cavities called ventricles. Individuals with HSAS often have severe intellectual disability and may have seizures.</p><p>MASA syndrome is also named for the characteristic features of the condition, which are intellectual disability (mental retardation) that can range from mild to moderate, delayed speech (aphasia), spasticity, and adducted thumbs. Individuals with MASA syndrome may have mild enlargement of the ventricles.</p><p>Spastic paraplegia type 1 is characterized by progressive muscle stiffness (spasticity) and the development of paralysis of the limbs (paraplegia). Affected individuals also have mild to moderate intellectual disability. People with spastic paraplegia type 1 do not usually have major abnormalities in structures of the brain.</p><p>X-linked complicated corpus callosum agenesis is defined by underdevelopment (hypoplasia) or absence (agenesis) of the tissue that connects the left and right halves of the brain (the corpus callosum). People with this condition can have spastic paraplegia and mild to moderate intellectual disability.</p><p>The life expectancy of individuals with L1 syndrome varies depending on the severity of the signs and symptoms. Severely affected individuals may survive only a short time after birth, while those with mild features live into adulthood.</p><p>The conditions that make up L1 syndrome were once thought to be distinct disorders, but since they were found to share a genetic cause, they are now considered to be part of the same syndrome. Family members with L1 syndrome caused by the same mutation may have different forms of the condition.</p>
+inheritance-pattern/code: x
+inheritance-pattern/memo: X-linked
+related-gene/gene-symbol: L1CAM
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/L1CAM
+synonym(1): adducted thumbs-mental retardation syndrome
+synonym(2): corpus callosum hypoplasia, mental retardation, adducted thumbs, spastic paraplegia, hydrocephalus syndrome
+synonym(3): CRASH syndrome
+synonym(4): mental retardation-clasped thumb syndrome
+synonym(5): X-linked hydrocephalus syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0265216
+db-key(2)/db: GTR
+db-key(2)/key: C0795953
+db-key(3)/db: GTR
+db-key(3)/key: C1839909
+db-key(4)/db: GTR
+db-key(4)/key: CN118845
+db-key(5)/db: GeneReviews
+db-key(5)/key: hsp
+db-key(6)/db: GeneReviews
+db-key(6)/key: l1cam
+db-key(7)/db: MeSH
+db-key(7)/key: D015419
+db-key(8)/db: OMIM
+db-key(8)/key: 303350
+db-key(9)/db: OMIM
+db-key(9)/key: 304100
+db-key(10)/db: OMIM
+db-key(10)/key: 307000
+db-key(11)/db: Orphanet
+db-key(11)/key: 2466
+db-key(12)/db: Orphanet
+db-key(12)/key: 275543
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 302882002
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 716996008
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 71779008
+reviewed: 2017-04
+published: 2018-04-17

@@ -1,0 +1,10 @@
+gene-symbol: CASP8
+name: caspase 8
+ghr-page: https://ghr.nlm.nih.gov/gene/CASP8
+related-health-condition(1)/name: autoimmune lymphoproliferative syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autoimmune-lymphoproliferative-syndrome
+related-health-condition(2)/name: breast cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
+db-key/db: NCBI Gene
+db-key/key: 841
+published: 2018-04-17

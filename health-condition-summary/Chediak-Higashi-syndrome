@@ -1,0 +1,27 @@
+name: Chediak-Higashi syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/chediak-higashi-syndrome
+text/text-role: description
+text/html: <p>Chediak-Higashi syndrome is a condition that affects many parts of the body, particularly the immune system. This disease damages immune system cells, leaving them less able to fight off invaders such as viruses and bacteria. As a result, most people with Chediak-Higashi syndrome have repeated and persistent infections starting in infancy or early childhood. These infections tend to be very serious or life-threatening.</p><p>Chediak-Higashi syndrome is also characterized by a condition called oculocutaneous albinism, which causes abnormally light coloring (pigmentation) of the skin, hair, and eyes. Affected individuals typically have fair skin and light-colored hair, often with a metallic sheen. Oculocutaneous albinism also causes vision problems such as reduced sharpness; rapid, involuntary eye movements (nystagmus); and increased sensitivity to light (photophobia).</p><p>Many people with Chediak-Higashi syndrome have problems with blood clotting (coagulation) that lead to easy bruising and abnormal bleeding. In adulthood, Chediak-Higashi syndrome can also affect the nervous system, causing weakness, clumsiness, difficulty with walking, and seizures.</p><p>If the disease is not successfully treated, most children with Chediak-Higashi syndrome reach a stage of the disorder known as the accelerated phase. This severe phase of the disease is thought to be triggered by a viral infection. In the accelerated phase, white blood cells (which normally help fight infection) divide uncontrollably and invade many of the body's organs. The accelerated phase is associated with fever, episodes of abnormal bleeding, overwhelming infections, and organ failure. These medical problems are usually life-threatening in childhood.</p><p>A small percentage of people with Chediak-Higashi syndrome have a milder form of the condition that appears later in life. People with the adult form of the disorder have less noticeable changes in pigmentation and are less likely to have recurrent, severe infections. They do, however, have a significant risk of progressive neurological problems such as tremors, difficulty with movement and balance (ataxia), reduced sensation and weakness in the arms and legs (peripheral neuropathy), and a decline in intellectual functioning.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: LYST
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LYST
+synonym(1): Chediak-Steinbrinck-Higashi syndrome
+synonym(2): CHS
+synonym(3): oculocutaneous albinism with leukocyte defect
+db-key(1)/db: GTR
+db-key(1)/key: C0007965
+db-key(2)/db: GeneReviews
+db-key(2)/key: chediak-higashi
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E70.330
+db-key(4)/db: MeSH
+db-key(4)/key: D002609
+db-key(5)/db: OMIM
+db-key(5)/key: 214500
+db-key(6)/db: Orphanet
+db-key(6)/key: 167
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 111396008
+reviewed: 2014-01
+published: 2018-04-17

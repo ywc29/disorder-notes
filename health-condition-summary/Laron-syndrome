@@ -1,0 +1,37 @@
+name: Laron syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/laron-syndrome
+text/text-role: description
+text/html: <p>Laron syndrome is a rare form of short stature that results from the body's inability to use growth hormone, a substance produced by the brain's pituitary gland that helps promote growth. Affected individuals are close to normal size at birth, but they experience slow growth from early childhood that results in very short stature. If the condition is not treated, adult males typically reach a maximum height of about 4.5 feet; adult females may be just over 4 feet tall.</p><p>Other features of untreated Laron syndrome include reduced muscle strength and endurance, low blood sugar levels (hypoglycemia) in infancy, small genitals and delayed puberty, hair that is thin and fragile, and dental abnormalities. Many affected individuals have a distinctive facial appearance, including a protruding forehead, a sunken bridge of the nose (saddle nose), and a blue tint to the whites of the eyes (blue sclerae). Affected individuals have short limbs compared to the size of their torso, as well as small hands and feet. Adults with this condition tend to develop obesity. However, the signs and symptoms of Laron syndrome vary, even among affected members of the same family.</p><p>Studies suggest that people with Laron syndrome have a significantly reduced risk of cancer and type 2 diabetes. Affected individuals appear to develop these common diseases much less frequently than their unaffected relatives, despite having obesity (a risk factor for both cancer and type 2 diabetes). However, people with Laron syndrome do not seem to have an increased lifespan compared with their unaffected relatives.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene/gene-symbol: GHR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/GHR
+synonym(1): GH-R deficiency
+synonym(2): growth hormone insensitivity syndrome
+synonym(3): growth hormone receptor defect
+synonym(4): growth hormone receptor deficiency
+synonym(5): Laron dwarfism
+synonym(6): Laron-type dwarfism
+synonym(7): Laron-type isolated somatotropin defect
+synonym(8): Laron-type pituitary dwarfism
+synonym(9): Laron-type short stature
+synonym(10): pituitary dwarfism II
+synonym(11): primary GH resistance
+synonym(12): primary growth hormone resistance
+synonym(13): severe GH insensitivity
+db-key(1)/db: GTR
+db-key(1)/key: C0271568
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: E34.3
+db-key(3)/db: MeSH
+db-key(3)/key: D046150
+db-key(4)/db: OMIM
+db-key(4)/key: 262500
+db-key(5)/db: Orphanet
+db-key(5)/key: 633
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 38196001
+reviewed: 2015-04
+published: 2018-04-17

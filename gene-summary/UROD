@@ -1,0 +1,19 @@
+gene-symbol: UROD
+name: uroporphyrinogen decarboxylase
+ghr-page: https://ghr.nlm.nih.gov/gene/UROD
+text/text-role: function
+text/html: <p>The <i>UROD</i> gene provides instructions for making an enzyme known as uroporphyrinogen decarboxylase. This enzyme is involved in the production of a molecule called heme. Heme is vital for all of the body's organs, although it is most abundant in the blood, bone marrow, and liver. Heme is an essential component of iron-containing proteins called hemoproteins, including hemoglobin (the protein that carries oxygen in the blood).</p><p>The production of heme is a multi-step process that requires eight different enzymes. Uroporphyrinogen decarboxylase is responsible for the fifth step in this process, in which carbon and oxygen atoms are removed from uroporphyrinogen III (the product of the fourth step) to form coproporphyrinogen III. In subsequent steps, three other enzymes produce and modify compounds that ultimately lead to heme.</p>
+related-health-condition/name: porphyria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/porphyria
+synonym(1): DCUP_HUMAN
+synonym(2): UD - Uroporphyrinogen decarboxylase
+synonym(3): UPD
+synonym(4): URO-D
+synonym(5): Uroporphyrinogen-III carboxy-lyase
+synonym(6): Uroporphyrinogen III decarboxylase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7389
+db-key(2)/db: OMIM
+db-key(2)/key: 613521
+reviewed: 2009-07
+published: 2018-04-17

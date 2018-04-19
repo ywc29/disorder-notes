@@ -1,0 +1,25 @@
+gene-symbol: COQ8A
+name: coenzyme Q8A
+ghr-page: https://ghr.nlm.nih.gov/gene/COQ8A
+text/text-role: function
+text/html: <p>The <i>COQ8A</i> gene provides instructions for making a protein that is involved in the production of a molecule called coenzyme Q10, which has several critical functions in cells throughout the body. In cell structures called mitochondria, coenzyme Q10 plays an essential role in a process called oxidative phosphorylation, which converts the energy from food into a form cells can use. Coenzyme Q10 is also involved in producing pyrimidines, which are building blocks of DNA, its chemical cousin RNA, and molecules such as ATP and GTP that serve as energy sources in the cell. In cell membranes, coenzyme Q10 acts as an antioxidant, protecting cells from damage caused by unstable oxygen-containing molecules (free radicals), which are byproducts of energy production.</p>
+related-health-condition/name: primary coenzyme Q10 deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/primary-coenzyme-q10-deficiency
+synonym(1): aarF domain-containing protein kinase 3
+synonym(2): ADCK3
+synonym(3): ARCA2
+synonym(4): atypical kinase COQ8A, mitochondrial
+synonym(5): CABC1
+synonym(6): chaperone activity of bc1 complex-like, mitochondrial
+synonym(7): chaperone, ABC1 activity of bc1 complex homolog
+synonym(8): coenzyme Q protein 8A
+synonym(9): coenzyme Q8 homolog
+synonym(10): COQ8
+synonym(11): COQ10D4
+synonym(12): SCAR9
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 56997
+db-key(2)/db: OMIM
+db-key(2)/key: 606980
+reviewed: 2017-04
+published: 2018-04-17

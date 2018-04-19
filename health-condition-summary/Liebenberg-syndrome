@@ -1,0 +1,21 @@
+name: Liebenberg syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/liebenberg-syndrome
+text/text-role: description
+text/html: <p>Liebenberg syndrome is a condition that involves abnormal development of the arms, resulting in characteristic arm malformations that can vary in severity. In people with this condition, bones and other tissues in the elbows, forearms, wrists, and hands have characteristics of related structures in the lower limbs. For example, bones in the elbows are abnormally shaped, which affects mobility of the joints. The stiff elbows function more like knees, unable to rotate as freely as elbows normally do. Bones in the wrists are joined together (fused), forming structures that resemble those in the ankles and heels and causing permanent bending of the hand toward the thumb (radial deviation). The bones in the hands (metacarpals) are longer than normal, and the fingers are short (brachydactyly), similar to the proportions of bones found in the feet. In addition, muscles and tendons that are typically found only in the hands and not in the feet are missing in people with Liebenberg syndrome. Affected individuals also have joint deformities (contractures) that limit movement of the elbows, wrists, and hands. Development of the lower limbs is normal in people with this condition.</p><p>Individuals with Liebenberg syndrome have no other health problems related to this condition, and life expectancy is normal.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: PITX1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PITX1
+synonym(1): brachydactyly-elbow wrist dysplasia syndrome
+synonym(2): brachydactyly with joint dysplasia
+synonym(3): carpal synostosis with dysplastic elbow joints and brachydactyly
+db-key(1)/db: GTR
+db-key(1)/key: C1861313
+db-key(2)/db: MeSH
+db-key(2)/key: D038062
+db-key(3)/db: OMIM
+db-key(3)/key: 186550
+db-key(4)/db: Orphanet
+db-key(4)/key: 1275
+reviewed: 2016-09
+published: 2018-04-17

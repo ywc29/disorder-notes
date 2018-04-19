@@ -1,0 +1,56 @@
+name: Hypohidrotic ectodermal dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/hypohidrotic-ectodermal-dysplasia
+text/text-role: description
+text/html: <p>Hypohidrotic ectodermal dysplasia is one of about 150 types of ectodermal dysplasia in humans.  Before birth, these disorders result in the abnormal development of structures including the skin, hair, nails, teeth, and sweat glands.</p><p>Most people with hypohidrotic ectodermal dysplasia have a reduced ability to sweat (hypohidrosis) because they have fewer sweat glands than normal or their sweat glands do not function properly.  Sweating is a major way that the body controls its temperature; as sweat evaporates from the skin, it cools the body. An inability to sweat can lead to a dangerously high body temperature (hyperthermia), particularly in hot weather.  In some cases, hyperthermia can cause life-threatening medical problems.</p><p>Affected individuals tend to have sparse scalp and body hair (hypotrichosis).  The hair is often light-colored, brittle, and slow-growing.  This condition is also characterized by absent teeth (hypodontia) or teeth that are malformed.  The teeth that are present are frequently small and pointed.</p><p>Hypohidrotic ectodermal dysplasia is associated with distinctive facial features including a prominent forehead, thick lips, and a flattened bridge of the nose.  Additional features of this condition include thin, wrinkled, and dark-colored skin around the eyes; chronic skin problems such as eczema; and a bad-smelling discharge from the nose (ozena).</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xr
+inheritance-pattern(3)/memo: X-linked recessive
+related-gene(1)/gene-symbol: EDA
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/EDA
+related-gene(2)/gene-symbol: EDAR
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/EDAR
+related-gene(3)/gene-symbol: EDARADD
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/EDARADD
+synonym(1): Anhidrotic Ectodermal Dysplasia
+synonym(2): Christ-Siemens-Touraine Syndrome
+synonym(3): CST syndrome
+synonym(4): HED
+db-key(1)/db: GTR
+db-key(1)/key: C0162359
+db-key(2)/db: GTR
+db-key(2)/key: C0406702
+db-key(3)/db: GTR
+db-key(3)/key: C1720965
+db-key(4)/db: GeneReviews
+db-key(4)/key: x-hed
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: Q82.4
+db-key(6)/db: MeSH
+db-key(6)/key: D053358
+db-key(7)/db: MeSH
+db-key(7)/key: D053359
+db-key(8)/db: MeSH
+db-key(8)/key: D053360
+db-key(9)/db: OMIM
+db-key(9)/key: 129490
+db-key(10)/db: OMIM
+db-key(10)/key: 224900
+db-key(11)/db: OMIM
+db-key(11)/key: 305100
+db-key(12)/db: Orphanet
+db-key(12)/key: 181
+db-key(13)/db: Orphanet
+db-key(13)/key: 248
+db-key(14)/db: Orphanet
+db-key(14)/key: 1810
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 239007005
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 27025001
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 7731005
+reviewed: 2006-08
+published: 2018-04-17

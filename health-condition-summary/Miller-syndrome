@@ -1,0 +1,23 @@
+name: Miller syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/miller-syndrome
+text/text-role: description
+text/html: <p>Miller syndrome is a rare condition that mainly affects the development of the face and limbs. The severity of this disorder varies among affected individuals.</p><p>Children with Miller syndrome are born with underdeveloped cheek bones (malar hypoplasia) and a very small lower jaw (micrognathia). They often have an opening in the roof of the mouth (cleft palate) and/or a split in the upper lip (cleft lip). These abnormalities frequently cause feeding problems in infants with Miller syndrome. The airway is usually restricted due to the micrognathia, which can lead to life-threatening breathing problems.</p><p>People with Miller syndrome often have eyes that slant downward, eyelids that turn out so the inner surface is exposed (ectropion), and a notch in the lower eyelids called an eyelid coloboma. Many affected individuals have small, cup-shaped ears, and some have hearing loss caused by defects in the middle ear (conductive hearing loss). Another feature of this condition is the presence of extra nipples. Miller syndrome does not affect a person's intelligence, although speech development may be delayed due to hearing impairment.</p><p>Individuals with Miller syndrome have various bone abnormalities in their arms and legs. The most common problem is absent fifth (pinky) fingers and toes. Affected individuals may also have webbed or fused fingers or toes (syndactyly) and abnormally formed bones in the forearms and lower legs. People with Miller syndrome sometimes have defects in other bones, such as the ribs or spine.</p><p>Less commonly, affected individuals have abnormalities of the heart, kidneys, genitalia, or gastrointestinal tract.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: DHODH
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DHODH
+synonym(1): Genee-Wiedemann acrofacial dysostosis
+synonym(2): Genee-Wiedemann syndrome
+synonym(3): postaxial acrofacial dysostosis (POADS)
+db-key(1)/db: GTR
+db-key(1)/key: C0265257
+db-key(2)/db: MeSH
+db-key(2)/key: D003394
+db-key(3)/db: OMIM
+db-key(3)/key: 263750
+db-key(4)/db: Orphanet
+db-key(4)/key: 246
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 66038001
+reviewed: 2010-08
+published: 2018-04-17

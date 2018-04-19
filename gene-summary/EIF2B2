@@ -1,0 +1,18 @@
+gene-symbol: EIF2B2
+name: eukaryotic translation initiation factor 2B subunit beta
+ghr-page: https://ghr.nlm.nih.gov/gene/EIF2B2
+text/text-role: function
+text/html: <p>The <i>EIF2B2</i> gene provides instructions for making one of five parts of a protein called eIF2B, specifically the beta subunit of this protein. The eIF2B protein helps regulate overall protein production (synthesis) in the cell by interacting with another protein, eIF2. The eIF2 protein is called an initiation factor because it is involved in starting (initiating) protein synthesis.</p><p>Under some conditions, eIF2B increases protein synthesis by helping to recycle molecules called GTP, which carry energy to the initiation factor. Under other conditions, it slows protein synthesis by binding tightly to the initiation factor, which converts the eIF2B protein into an inactive form and prevents recycling of GTP.</p><p>Proper regulation of protein synthesis is vital for ensuring that the correct levels of protein are available for the cell to cope with changing conditions. For example, cells must synthesize protein much faster if they are multiplying than if they are in a resting state.</p>
+related-health-condition/name: leukoencephalopathy with vanishing white matter
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/leukoencephalopathy-with-vanishing-white-matter
+synonym(1): EI2BB_HUMAN
+synonym(2): EIF-2Bbeta
+synonym(3): EIF2B
+synonym(4): eukaryotic translation initiation factor 2B, subunit 2 (beta, 39kD)
+synonym(5): eukaryotic translation initiation factor 2B, subunit 2 beta, 39kDa
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 8892
+db-key(2)/db: OMIM
+db-key(2)/key: 606454
+reviewed: 2007-10
+published: 2018-04-17

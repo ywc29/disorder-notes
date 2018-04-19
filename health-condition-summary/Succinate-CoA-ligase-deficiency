@@ -1,0 +1,33 @@
+name: Succinate-CoA ligase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/succinate-coa-ligase-deficiency
+text/text-role: description
+text/html: <p>Succinate-CoA ligase deficiency is an inherited disorder that affects the early development of the brain and other body systems. One of the earliest signs of the disorder is very weak muscle tone (severe hypotonia), which appears in the first few months of life. Severe hypotonia delays the development of motor skills such as holding up the head and rolling over. Many affected children also have muscle weakness and reduced muscle mass, which prevents them from standing and walking independently.</p><p>Additional features of succinate-CoA ligase deficiency can include progressive abnormal curvature of the spine (scoliosis or kyphosis), uncontrolled movements (dystonia), severe hearing loss, and seizures beginning in childhood. In most affected children, a substance called methylmalonic acid builds up abnormally in the body and is excreted in urine (methylmalonic aciduria).  Most children with succinate-CoA ligase deficiency also experience a failure to thrive, which means that they gain weight and grow more slowly than expected.</p><p>Succinate-CoA ligase deficiency causes breathing difficulties that often lead to recurrent infections of the respiratory tract. These infections can be life-threatening, and most people with succinate-CoA ligase deficiency live only into childhood or adolescence.</p><p>A few individuals with succinate-CoA ligase deficiency have had an even more severe form of the disorder known as fatal infantile lactic acidosis. Affected infants develop a toxic buildup of lactic acid in the body (lactic acidosis) in the first day of life, which leads to muscle weakness and breathing difficulties. Children with fatal infantile lactic acidosis usually live only a few days after birth.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: SUCLA2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/SUCLA2
+related-gene(2)/gene-symbol: SUCLG1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SUCLG1
+synonym(1): mitochondrial DNA depletion syndrome, encephalomyopathic form, with mild methylmalonic aciduria
+synonym(2): mitochondrial DNA depletion, encephalomyopathic form, with methylmalonic aciduria
+synonym(3): succinate-coenzyme A ligase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C2749864
+db-key(2)/db: GTR
+db-key(2)/key: C3151476
+db-key(3)/db: GeneReviews
+db-key(3)/key: sucla2-def
+db-key(4)/db: GeneReviews
+db-key(4)/key: suclg1-mtddepl
+db-key(5)/db: MeSH
+db-key(5)/key: D028361
+db-key(6)/db: OMIM
+db-key(6)/key: 245400
+db-key(7)/db: OMIM
+db-key(7)/key: 612073
+db-key(8)/db: Orphanet
+db-key(8)/key: 35698
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 445275003
+reviewed: 2009-08
+published: 2018-04-17

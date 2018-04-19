@@ -1,0 +1,26 @@
+gene-symbol: DLAT
+name: dihydrolipoamide S-acetyltransferase
+ghr-page: https://ghr.nlm.nih.gov/gene/DLAT
+text/text-role: function
+text/html: <p>The <i>DLAT</i> gene provides instructions for making the E2 enzyme (also known as dihydrolipoamide acetyltransferase), which is part of a large group of proteins called the pyruvate dehydrogenase complex. This complex comprises multiple copies of three enzymes, including E2, and several related proteins. The E2 enzyme is the core to which the other proteins attach to form the complex.</p><p>The pyruvate dehydrogenase complex plays an important role in the pathways that convert the energy from food into a form that cells can use. This complex converts a molecule called pyruvate, which is formed from the breakdown of carbohydrates, into another molecule called acetyl-CoA. The E2 enzyme performs one part of this chemical reaction. The conversion of pyruvate is essential to begin the series of chemical reactions that produces adenosine triphosphate (ATP), the cell's main energy source.</p>
+related-health-condition(1)/name: Leigh syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+related-health-condition(2)/name: pyruvate dehydrogenase deficiency
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pyruvate-dehydrogenase-deficiency
+synonym(1): 70 kDa mitochondrial autoantigen of primary biliary cirrhosis
+synonym(2): dihydrolipoamide acetyltransferase component of pyruvate dehydrogenase complex
+synonym(3): dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex, mitochondrial
+synonym(4): DLTA
+synonym(5): E2 component of pyruvate dehydrogenase complex
+synonym(6): M2 antigen complex 70 kDa subunit
+synonym(7): ODP2_HUMAN
+synonym(8): PBC
+synonym(9): PDC-E2
+synonym(10): PDCE2
+synonym(11): pyruvate dehydrogenase complex component E2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1737
+db-key(2)/db: OMIM
+db-key(2)/key: 608770
+reviewed: 2012-07
+published: 2018-04-17

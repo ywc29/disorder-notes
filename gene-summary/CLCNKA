@@ -1,0 +1,21 @@
+gene-symbol: CLCNKA
+name: chloride voltage-gated channel Ka
+ghr-page: https://ghr.nlm.nih.gov/gene/CLCNKA
+text/text-role: function
+text/html: <p>The <i>CLCNKA</i> gene belongs to the CLC family of genes, which provide instructions for making chloride channels. These channels, which transport negatively charged chlorine atoms (chloride ions), play a key role in a cell's ability to generate and transmit electrical signals. Some CLC channels regulate the flow of chloride ions across cell membranes, while others transport chloride ions within cells.</p><p>The <i>CLCNKA</i> gene provides instructions for making a chloride channel called ClC-Ka. These channels are found predominantly in the kidneys. ClC-Ka is one of several proteins that work together to regulate the movement of ions into and out of kidney cells. The transport of chloride ions by ClC-Ka channels is part of the mechanism by which the kidneys reabsorb salt (sodium chloride or NaCl) from the urine back into the bloodstream. The retention of salt affects the body's fluid levels and helps maintain blood pressure.</p><p>ClC-Ka channels are also located in the inner ear, where they play a role in normal hearing.</p>
+related-health-condition/name: Bartter syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/bartter-syndrome
+synonym(1): chloride channel Ka
+synonym(2): chloride channel protein ClC-Ka
+synonym(3): chloride channel, kidney, A
+synonym(4): chloride channel, voltage-sensitive Ka
+synonym(5): ClC-K1
+synonym(6): CLCK1
+synonym(7): CLCKA_HUMAN
+synonym(8): hClC-Ka
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1187
+db-key(2)/db: OMIM
+db-key(2)/key: 602024
+reviewed: 2011-02
+published: 2018-04-17

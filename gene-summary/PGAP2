@@ -1,0 +1,20 @@
+gene-symbol: PGAP2
+name: post-GPI attachment to proteins 2
+ghr-page: https://ghr.nlm.nih.gov/gene/PGAP2
+text/text-role: function
+text/html: <p>The <i>PGAP2</i> gene provides instructions for making a protein that modifies a molecule called a glycosylphosphosphatidylinositol (GPI) anchor. The GPI anchor attaches (binds) to various proteins and then binds them to the outer surface of the cell membrane, ensuring that they are available when needed. The GPI anchor is made up of many different pieces and is assembled in a cell structure called the endoplasmic reticulum, which is involved in protein processing and transport. The anchor is then transferred to a different cell structure called the Golgi apparatus, which modifies newly produced enzymes and other proteins. In the Golgi apparatus, the PGAP2 protein assists in attaching a molecule called a saturated fatty acid to the anchor. This saturated fatty acid is likely needed to help transport and attach the anchor to the fat-rich cell membrane.</p>
+related-health-condition/name: Mabry syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mabry-syndrome
+synonym(1): cell wall biogenesis 43 N-terminal homolog
+synonym(2): CWH43-N
+synonym(3): FGF receptor activating protein 1
+synonym(4): FGF receptor-activating protein 1
+synonym(5): FRAG1
+synonym(6): PGAP2_HUMAN
+synonym(7): post-GPI attachment to proteins factor 2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 27315
+db-key(2)/db: OMIM
+db-key(2)/key: 615187
+reviewed: 2013-08
+published: 2018-04-17

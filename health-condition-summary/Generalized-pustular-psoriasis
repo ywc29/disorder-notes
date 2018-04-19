@@ -1,0 +1,40 @@
+name: Generalized pustular psoriasis
+ghr-page: https://ghr.nlm.nih.gov/condition/generalized-pustular-psoriasis
+text/text-role: description
+text/html: <p>Generalized pustular psoriasis (GPP) is a severe form of a skin disorder called psoriasis. GPP and other forms of psoriasis are caused by abnormal inflammation. Inflammation is a normal immune system response to injury and foreign invaders (such as bacteria). However, when inflammation is abnormal and uncontrolled, it can damage the body's tissues and organs. Individuals with GPP have repeated episodes in which large areas of skin become red and inflamed and develop small pus-filled blisters (pustules). The skin problems can be accompanied by fever, extreme tiredness (fatigue), muscle weakness, an increased number of white blood cells, and other signs of inflammation throughout the body (systemic inflammation). The inflammation problems subside and reappear often. Episodes can be triggered by infection, exposure to or withdrawal from certain medications, menstruation, or pregnancy, although the trigger is often unknown. GPP can be life-threatening if not treated.</p><p>While many affected individuals have features only of GPP (called GPP alone), some develop features of another skin condition called psoriasis vulgaris (PV), either before or after GPP appears. PV, the most common form of psoriasis, is characterized by red, scaly patches of skin (plaques) on parts of the body.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: AP1S3
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AP1S3
+related-gene(2)/gene-symbol: CARD14
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CARD14
+related-gene(3)/gene-symbol: IL36RN
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/IL36RN
+synonym(1): acute generalised pustular psoriasis
+synonym(2): deficiency of the interleukin-36 receptor antagonist
+synonym(3): DITRA
+synonym(4): generalized pustular psoriasis of von Zumbusch
+synonym(5): GPP
+synonym(6): von Zumbusch psoriasis
+db-key(1)/db: GTR
+db-key(1)/key: C0343055
+db-key(2)/db: GTR
+db-key(2)/key: C4015235
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: L40.1
+db-key(4)/db: MeSH
+db-key(4)/key: D011565
+db-key(5)/db: OMIM
+db-key(5)/key: 602723
+db-key(6)/db: OMIM
+db-key(6)/key: 614204
+db-key(7)/db: OMIM
+db-key(7)/key: 616106
+db-key(8)/db: Orphanet
+db-key(8)/key: 247353
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 238612002
+reviewed: 2017-05
+published: 2018-04-17

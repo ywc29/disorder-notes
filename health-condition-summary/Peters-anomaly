@@ -1,0 +1,32 @@
+name: Peters anomaly
+ghr-page: https://ghr.nlm.nih.gov/condition/peters-anomaly
+text/text-role: description
+text/html: <p>Peters anomaly is characterized by eye problems that occur in an area at the front part of the eye known as the anterior segment. The anterior segment consists of structures including the lens, the colored part (iris) of the eye, and the clear covering of the eye (cornea). During development of the eye, the elements of the anterior segment form separate structures. However, in Peters anomaly, development of the anterior segment is abnormal, leading to incomplete separation of the cornea from the iris or the lens. As a result, the cornea is cloudy (opaque), which causes blurred vision. The opaque area (opacity) of the cornea varies in size and intensity from a small, faint streak to a large, white cloudy area that covers the front surface of the eye. Additionally, the location of the opacity varies; the cloudiness may be at the center of the cornea or off-center. Large, centrally located opacities tend to cause poorer vision than smaller, off-center ones.</p><p>Nearly half of the individuals affected with Peters anomaly have low vision early in life and about a quarter are legally blind. Due to a lack of visual stimulation, some individuals develop "lazy eye" (amblyopia). Peters anomaly is often associated with other eye problems, such as increased pressure within the eye (glaucoma), clouding of the lens (cataract), and unusually small eyeballs (microphthalmia). In most cases, Peters anomaly is bilateral, which means that it affects both eyes, although the level of vision impairment may be different in each eye. These individuals may have eyes that do not point in the same direction (strabismus). In some people with Peters anomaly, corneal clouding improves over time leading to improved vision.</p><p>There are two types of Peters anomaly, which are distinguished by their signs and symptoms. Peters anomaly type I is characterized by an incomplete separation of the cornea and iris and mild to moderate corneal opacity. Type II is characterized by an incomplete separation of the cornea and lens and severe corneal opacity that may involve the entire cornea.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: CYP1B1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CYP1B1
+related-gene(2)/gene-symbol: FOXC1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FOXC1
+related-gene(3)/gene-symbol: PAX6
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/PAX6
+related-gene(4)/gene-symbol: PITX2
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/PITX2
+synonym(1): irido-corneo-trabecular dysgenesis
+synonym(2): Peters congenital glaucoma
+db-key(1)/db: GTR
+db-key(1)/key: C0344559
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: Q13.4
+db-key(3)/db: MeSH
+db-key(3)/key: D003318
+db-key(4)/db: OMIM
+db-key(4)/key: 604229
+db-key(5)/db: Orphanet
+db-key(5)/key: 708
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 204153003
+reviewed: 2014-01
+published: 2018-04-17

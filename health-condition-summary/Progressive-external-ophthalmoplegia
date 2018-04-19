@@ -1,0 +1,81 @@
+name: Progressive external ophthalmoplegia
+ghr-page: https://ghr.nlm.nih.gov/condition/progressive-external-ophthalmoplegia
+text/text-role: description
+text/html: <p>Progressive external ophthalmoplegia is a condition characterized by weakness of the eye muscles. The condition typically appears in adults between ages 18 and 40 and slowly worsens over time. The first sign of progressive external ophthalmoplegia is typically drooping eyelids (ptosis), which can affect one or both eyelids. As ptosis worsens, affected individuals may use the forehead muscles to try to lift the eyelids, or they may lift up their chin in order to see. Another characteristic feature of progressive external ophthalmoplegia is weakness or paralysis of the muscles that move the eye (ophthalmoplegia). Affected individuals have to turn their head to see in different directions, especially as the ophthalmoplegia worsens. People with progressive external ophthalmoplegia may also have general weakness of the muscles used for movement (myopathy), particularly those in the neck, arms, or legs. The weakness may be especially noticeable during exercise (exercise intolerance). Muscle weakness may also cause difficulty swallowing (dysphagia).</p><p>When the muscle cells of affected individuals are stained and viewed under a microscope, these cells usually appear abnormal. These abnormal muscle cells contain an excess of cell structures called mitochondria and are known as ragged-red fibers.</p><p>Although muscle weakness is the primary symptom of progressive external ophthalmoplegia, this condition can be accompanied by other signs and symptoms. In these instances, the condition is referred to as progressive external ophthalmoplegia plus (PEO+). Additional signs and symptoms can include hearing loss caused by nerve damage in the inner ear (sensorineural hearing loss), weakness and loss of sensation in the limbs due to nerve damage (neuropathy), impaired muscle coordination (ataxia), a pattern of movement abnormalities known as parkinsonism, and depression.</p><p>Progressive external ophthalmoplegia is part of a spectrum of disorders with overlapping signs and symptoms. Similar disorders include ataxia neuropathy spectrum and Kearns-Sayre syndrome. Like progressive external ophthalmoplegia, the other conditions in this spectrum can involve weakness of the eye muscles. However, these conditions have many additional features not shared by most people with progressive external ophthalmoplegia.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: m
+inheritance-pattern(3)/memo: mitochondrial
+related-gene(1)/gene-symbol: AFG3L2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/AFG3L2
+related-gene(2)/gene-symbol: DNA2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/DNA2
+related-gene(3)/gene-symbol: MT-TI
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/MT-TI
+related-gene(4)/gene-symbol: MT-TL1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/MT-TL1
+related-gene(5)/gene-symbol: OPA1
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/OPA1
+related-gene(6)/gene-symbol: POLG
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/POLG
+related-gene(7)/gene-symbol: POLG2
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/POLG2
+related-gene(8)/gene-symbol: RNASEH1
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/RNASEH1
+related-gene(9)/gene-symbol: RRM2B
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/RRM2B
+related-gene(10)/gene-symbol: SLC25A4
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/SLC25A4
+related-gene(11)/gene-symbol: SPG7
+related-gene(11)/ghr-page: https://ghr.nlm.nih.gov/gene/SPG7
+related-gene(12)/gene-symbol: TK2
+related-gene(12)/ghr-page: https://ghr.nlm.nih.gov/gene/TK2
+related-gene(13)/gene-symbol: TWNK
+related-gene(13)/ghr-page: https://ghr.nlm.nih.gov/gene/TWNK
+related-mitochondrial-dna/name: mitochondrial DNA
+related-mitochondrial-dna/ghr-page: https://ghr.nlm.nih.gov/mitochondrial-dna
+synonym(1): chronic progressive external ophthalmoplegia
+synonym(2): CPEO
+synonym(3): PEO
+db-key(1)/db: GTR
+db-key(1)/key: C0162674
+db-key(2)/db: GTR
+db-key(2)/key: C1834846
+db-key(3)/db: GTR
+db-key(3)/key: C1836439
+db-key(4)/db: GTR
+db-key(4)/key: C1836460
+db-key(5)/db: GeneReviews
+db-key(5)/key: alpers
+db-key(6)/db: GeneReviews
+db-key(6)/key: kss
+db-key(7)/db: GeneReviews
+db-key(7)/key: rrm2b-mtddepl
+db-key(8)/db: ICD-10-CM
+db-key(8)/key: H49.4
+db-key(9)/db: ICD-10-CM
+db-key(9)/key: H49.40
+db-key(10)/db: ICD-10-CM
+db-key(10)/key: H49.41
+db-key(11)/db: ICD-10-CM
+db-key(11)/key: H49.42
+db-key(12)/db: ICD-10-CM
+db-key(12)/key: H49.43
+db-key(13)/db: MeSH
+db-key(13)/key: D017246
+db-key(14)/db: OMIM
+db-key(14)/key: 157640
+db-key(15)/db: OMIM
+db-key(15)/key: 258450
+db-key(16)/db: OMIM
+db-key(16)/key: 609283
+db-key(17)/db: OMIM
+db-key(17)/key: 609286
+db-key(18)/db: Orphanet
+db-key(18)/key: 663
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 46252003
+reviewed: 2016-05
+published: 2018-04-17

@@ -1,0 +1,36 @@
+gene-symbol: TTN
+name: titin
+ghr-page: https://ghr.nlm.nih.gov/gene/TTN
+text/text-role: function
+text/html: <p>The <i>TTN</i> gene provides instructions for making a very large protein called titin. This protein plays an important role in muscles the body uses for movement (skeletal muscles) and in heart (cardiac) muscle. Slightly different versions (called isoforms) of titin are made in different muscles.</p><p>Within muscle cells, titin is an essential component of structures called sarcomeres. Sarcomeres are the basic units of muscle contraction; they are made of proteins that generate the mechanical force needed for muscles to contract. Titin has several functions within sarcomeres. One of the protein's main jobs is to provide structure, flexibility, and stability to these cell structures. Titin interacts with other muscle proteins, including actin and myosin, to keep the components of sarcomeres in place as muscles contract and relax. Titin also contains a spring-like region that allows muscles to stretch. Additionally, researchers have found that titin plays a role in chemical signaling and in assembling new sarcomeres.</p>
+related-health-condition(1)/name: arrhythmogenic right ventricular cardiomyopathy
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/arrhythmogenic-right-ventricular-cardiomyopathy
+related-health-condition(2)/name: centronuclear myopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/centronuclear-myopathy
+related-health-condition(3)/name: early-onset myopathy with fatal cardiomyopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/early-onset-myopathy-with-fatal-cardiomyopathy
+related-health-condition(4)/name: familial dilated cardiomyopathy
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+related-health-condition(5)/name: familial hypertrophic cardiomyopathy
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hypertrophic-cardiomyopathy
+related-health-condition(6)/name: hereditary myopathy with early respiratory failure
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-myopathy-with-early-respiratory-failure
+related-health-condition(7)/name: limb-girdle muscular dystrophy
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/limb-girdle-muscular-dystrophy
+related-health-condition(8)/name: tibial muscular dystrophy
+related-health-condition(8)/ghr-page: https://ghr.nlm.nih.gov/condition/tibial-muscular-dystrophy
+synonym(1): CMH9
+synonym(2): CMPD4
+synonym(3): CONNECTIN
+synonym(4): EOMFC
+synonym(5): FLJ32040
+synonym(6): LGMD2J
+synonym(7): MYLK5
+synonym(8): TITIN_HUMAN
+synonym(9): TMD
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 7273
+db-key(2)/db: OMIM
+db-key(2)/key: 188840
+reviewed: 2015-11
+published: 2018-04-17

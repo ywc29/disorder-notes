@@ -1,0 +1,19 @@
+gene-symbol: WNK4
+name: WNK lysine deficient protein kinase 4
+ghr-page: https://ghr.nlm.nih.gov/gene/WNK4
+text/text-role: function
+text/html: <p>The <i>WNK4</i> gene provides instructions for making a protein that plays a role in blood pressure regulation by helping control the amount of sodium and potassium in the body. The WNK4 protein acts as a kinase, which is an enzyme that changes the activity of other proteins by adding a cluster of oxygen and phosphorus atoms (a phosphate group) at specific positions.</p><p>The WNK4 protein regulates channels in the cell membrane that control the transport of sodium or potassium into and out of cells, which occurs primarily in the kidneys. Sodium channels help transport sodium into specialized kidney cells, which then transfer it into the blood. This transfer helps keep sodium in the body through a process called reabsorption. Potassium channels handle excess potassium that has been transferred from the blood into the kidney cells. The channels transport the potassium out of the cells in a process called secretion, so that it can be removed from the body in the urine. The WNK4 protein is able to promote sodium reabsorption and block potassium secretion. Depending on conditions in the cell, the WNK4 protein is also able to block (inhibit) sodium reabsorption.</p>
+related-health-condition/name: pseudohypoaldosteronism type 2
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pseudohypoaldosteronism-type-2
+synonym(1): PHA2B
+synonym(2): PRKWNK4
+synonym(3): protein kinase lysine-deficient 4
+synonym(4): protein kinase with no lysine 4
+synonym(5): serine/threonine-protein kinase WNK4
+synonym(6): WNK4_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 65266
+db-key(2)/db: OMIM
+db-key(2)/key: 601844
+reviewed: 2016-03
+published: 2018-04-17

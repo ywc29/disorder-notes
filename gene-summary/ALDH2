@@ -1,0 +1,8 @@
+gene-symbol: ALDH2
+name: aldehyde dehydrogenase 2 family member
+ghr-page: https://ghr.nlm.nih.gov/gene/ALDH2
+related-health-condition/name: alcohol use disorder
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/alcohol-use-disorder
+db-key/db: NCBI Gene
+db-key/key: 217
+published: 2018-04-17

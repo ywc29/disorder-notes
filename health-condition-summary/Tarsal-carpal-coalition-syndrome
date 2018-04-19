@@ -1,0 +1,22 @@
+name: Tarsal-carpal coalition syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/tarsal-carpal-coalition-syndrome
+text/text-role: description
+text/html: <p>Tarsal-carpal coalition syndrome is a rare, inherited bone disorder that affects primarily the hands and feet. Several individual bones make up each wrist (carpal bones) and ankle (tarsal bones). In tarsal-carpal coalition syndrome, the carpal bones fuse together, as do the tarsal bones, which causes stiffness and immobility of the hands and feet. Symptoms of the condition can become apparent in infancy, and they worsen with age. The severity of the symptoms can vary, even among members of the same family.</p><p>In this condition, fusion at the joints between the bones that make up each finger and toe (symphalangism) can also occur. Consequently, the fingers and toes become stiff and difficult to bend. Stiffness of the pinky fingers and toes (fifth digits) is usually noticeable first. The joints at the base of the pinky fingers and toes fuse first, and slowly, the other joints along the length of these digits may also be affected. Progressively, the bones in the fourth, third, and second digits (the ring finger, middle finger, and forefinger, and the corresponding toes) become fused. The thumb and big toe are usually not involved. Affected individuals have increasing trouble forming a fist, and walking often becomes painful and difficult. Occasionally, there is also fusion of bones in the upper and lower arm at the elbow joint (humeroradial fusion). Less common features of tarsal-carpal coalition syndrome include short stature or the development of hearing loss.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: NOG
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NOG
+synonym(1): NOG-related-symphalangism spectrum disorder
+synonym(2): TCC
+db-key(1)/db: GTR
+db-key(1)/key: C1861305
+db-key(2)/db: MeSH
+db-key(2)/key: D013580
+db-key(3)/db: OMIM
+db-key(3)/key: 186570
+db-key(4)/db: Orphanet
+db-key(4)/key: 1412
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 702312009
+reviewed: 2012-04
+published: 2018-04-17

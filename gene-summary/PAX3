@@ -1,0 +1,26 @@
+gene-symbol: PAX3
+name: paired box 3
+ghr-page: https://ghr.nlm.nih.gov/gene/PAX3
+text/text-role: function
+text/html: <p>The <i>PAX3</i> gene belongs to a family of PAX genes that plays a critical role in the formation of tissues and organs during embryonic development. The PAX gene family is also important for maintaining the normal function of certain cells after birth. To carry out these roles, the PAX genes provide instructions for making proteins that attach (bind) to specific areas of DNA. By attaching to critical DNA regions, PAX proteins help control the activity of particular genes.  On the basis of this action, PAX proteins are called transcription factors.</p><p>During embryonic development, the <i>PAX3</i> gene is active in cells called neural crest cells. These cells migrate from the developing spinal cord to specific regions in the embryo. The protein made from the <i>PAX3</i> gene directs the activity of other genes that signal neural crest cells to form specialized tissues or cell types such as some nerve tissue and pigment-producing cells called melanocytes.  Melanocytes produce the pigment melanin, which contributes to hair, eye, and skin color.  Melanocytes are also found in certain regions of the brain and inner ear.</p><p>Studies suggest that the PAX3 protein is also necessary for the normal development of bones in the face and skull (craniofacial bones) and elsewhere in the body, and for the formation of muscle tissue (myogenesis).</p>
+related-health-condition(1)/name: craniofacial-deafness-hand syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/craniofacial-deafness-hand-syndrome
+related-health-condition(2)/name: Waardenburg syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/waardenburg-syndrome
+synonym(1): CDHS
+synonym(2): HUP2
+synonym(3): paired box gene 3 (Waardenburg syndrome 1)
+synonym(4): paired box homeotic gene 3
+synonym(5): paired domain gene 3
+synonym(6): paired domain gene HuP2
+synonym(7): PAX3/FKHR fusion gene
+synonym(8): PAX3_HUMAN
+synonym(9): WS1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5077
+db-key(2)/db: OMIM
+db-key(2)/key: 268220
+db-key(3)/db: OMIM
+db-key(3)/key: 606597
+reviewed: 2016-08
+published: 2018-04-17

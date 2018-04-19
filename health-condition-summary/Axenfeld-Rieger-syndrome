@@ -1,0 +1,44 @@
+name: Axenfeld-Rieger syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/axenfeld-rieger-syndrome
+text/text-role: description
+text/html: <p>Axenfeld-Rieger syndrome is primarily an eye disorder, although it can also affect other parts of the body. This condition is characterized by abnormalities of the front part of the eye, an area known as the anterior segment. For example, the colored part of the eye (the iris), may be thin or poorly developed. The iris normally has a single central hole, called the pupil, through which light enters the eye. People with Axenfeld-Rieger syndrome often have a pupil that is off-center (corectopia) or extra holes in the iris that can look like multiple pupils (polycoria). This condition can also cause abnormalities of the cornea, which is the clear front covering of the eye.</p><p>About half of affected individuals develop glaucoma, a serious condition that increases pressure inside the eye. When glaucoma occurs with Axenfeld-Rieger syndrome, it most often develops in late childhood or adolescence, although it can occur as early as infancy. Glaucoma can cause vision loss or blindness.</p><p>The signs and symptoms of Axenfeld-Rieger syndrome can also affect other parts of the body. Many affected individuals have distinctive facial features such as widely spaced eyes (hypertelorism); a flattened mid-face with a broad, flat nasal bridge; and a prominent forehead. The condition is also associated with dental abnormalities including unusually small teeth (microdontia) or fewer than normal teeth (oligodontia). Some people with Axenfeld-Rieger syndrome have extra folds of skin around their belly button (redundant periumbilical skin). Other, less common features can include heart defects, the opening of the urethra on the underside of the penis (hypospadias), narrowing of the anus (anal stenosis), and abnormalities of the pituitary gland that can result in slow growth.</p><p>Researchers have described at least three types of Axenfeld-Rieger syndrome. The types, which are numbered 1 through 3, are distinguished by their genetic cause.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: FOXC1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/FOXC1
+related-gene(2)/gene-symbol: PITX2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PITX2
+synonym(1): ARS
+synonym(2): Axenfeld and Rieger anomaly
+synonym(3): Axenfeld anomaly
+synonym(4): Axenfeld syndrome
+synonym(5): AXRA
+synonym(6): AXRS
+synonym(7): Rieger anomaly
+synonym(8): Rieger syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0265341
+db-key(2)/db: GTR
+db-key(2)/key: C1832229
+db-key(3)/db: GTR
+db-key(3)/key: C2678503
+db-key(4)/db: GTR
+db-key(4)/key: C3714873
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: Q13.81
+db-key(6)/db: MeSH
+db-key(6)/key: D005124
+db-key(7)/db: OMIM
+db-key(7)/key: 180500
+db-key(8)/db: OMIM
+db-key(8)/key: 601499
+db-key(9)/db: OMIM
+db-key(9)/key: 602482
+db-key(10)/db: Orphanet
+db-key(10)/key: 782
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 204152008
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 417604002
+reviewed: 2012-06
+published: 2018-04-17

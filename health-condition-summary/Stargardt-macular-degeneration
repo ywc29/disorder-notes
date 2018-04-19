@@ -1,0 +1,38 @@
+name: Stargardt macular degeneration
+ghr-page: https://ghr.nlm.nih.gov/condition/stargardt-macular-degeneration
+text/text-role: description
+text/html: <p>Stargardt macular degeneration is a genetic eye disorder that causes progressive vision loss. This disorder affects the retina, the specialized light-sensitive tissue that lines the back of the eye. Specifically, Stargardt macular degeneration affects a small area near the center of the retina called the macula. The macula is responsible for sharp central vision, which is needed for detailed tasks such as reading, driving, and recognizing faces. In most people with Stargardt macular degeneration, a fatty yellow pigment (lipofuscin) builds up in cells underlying the macula. Over time, the abnormal accumulation of this substance can damage cells that are critical for clear central vision. In addition to central vision loss, people with Stargardt macular degeneration have problems with night vision that can make it difficult to navigate in low light. Some affected individuals also have impaired color vision. The signs and symptoms of Stargardt macular degeneration typically appear in late childhood to early adulthood and worsen over time.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: ABCA4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ABCA4
+related-gene(2)/gene-symbol: ELOVL4
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ELOVL4
+synonym(1): juvenile macular degeneration
+synonym(2): macular dystrophy with flecks, type 1
+synonym(3): Stargardt disease
+synonym(4): STGD
+db-key(1)/db: GTR
+db-key(1)/key: C1838644
+db-key(2)/db: GTR
+db-key(2)/key: C1855465
+db-key(3)/db: GTR
+db-key(3)/key: C1863534
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: H35.53
+db-key(5)/db: MeSH
+db-key(5)/key: D008268
+db-key(6)/db: OMIM
+db-key(6)/key: 248200
+db-key(7)/db: OMIM
+db-key(7)/key: 600110
+db-key(8)/db: Orphanet
+db-key(8)/key: 827
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 47673003
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 70099003
+reviewed: 2010-11
+published: 2018-04-17

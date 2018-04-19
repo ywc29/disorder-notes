@@ -1,0 +1,19 @@
+gene-symbol: PROK2
+name: prokineticin 2
+ghr-page: https://ghr.nlm.nih.gov/gene/PROK2
+text/text-role: function
+text/html: <p>The <i>PROK2</i> gene provides instructions for making a protein called prokineticin 2. This protein interacts with another protein called prokineticin receptor 2 (produced from the <i>PROKR2</i> gene). On the cell surface, prokineticin 2 attaches (binds) to the receptor like a key in a lock. When the two proteins are connected, they trigger a series of chemical signals within the cell that regulate various cell functions. Prokineticin 2 and its receptor are produced in many organs and tissues, including the small intestine, certain regions of the brain, and several hormone-producing (endocrine) tissues.</p><p>Prokineticin 2 and its receptor play a role in the development of a group of nerve cells that are specialized to process smells (olfactory neurons). These neurons move (migrate) from the developing nose to a structure in the front of the brain called the olfactory bulb, which is critical for the perception of odors. Prokineticin 2 and its receptor are also involved in the migration of nerve cells that produce gonadotropin-releasing hormone (GnRH). GnRH controls the production of several hormones that direct sexual development before birth and during puberty. These hormones are also important for the normal function of the ovaries in women and the testes in men.</p><p>Several additional functions of prokineticin 2 and its receptor have been discovered. These proteins help stimulate the movement of food through the intestine and are likely involved in the formation of new blood vessels (angiogenesis). They also play a role in coordinating daily (circadian) rhythms, such as the sleep-wake cycle and regular changes in body temperature. Prokineticin 2 and its receptor are active in a region of the brain called the suprachiasmatic nucleus (SCN), which acts as an internal clock that controls circadian rhythms.</p>
+related-health-condition/name: Kallmann syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/kallmann-syndrome
+synonym(1): BV8
+synonym(2): KAL4
+synonym(3): MIT1
+synonym(4): PK2
+synonym(5): PROK2_HUMAN
+synonym(6): Protein Bv8 homolog
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 60675
+db-key(2)/db: OMIM
+db-key(2)/key: 607002
+reviewed: 2016-12
+published: 2018-04-17

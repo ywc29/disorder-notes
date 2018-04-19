@@ -1,0 +1,46 @@
+gene-symbol: PAX6
+name: paired box 6
+ghr-page: https://ghr.nlm.nih.gov/gene/PAX6
+text/text-role: function
+text/html: <p>The <i>PAX6</i> gene belongs to a family of genes that play a critical role in the formation of tissues and organs during embryonic development. The members of the PAX gene family are also important for maintaining the normal function of certain cells after birth. To carry out these roles, the PAX genes provide instructions for making proteins that attach to specific areas of DNA and help control the activity (expression) of particular genes. On the basis of this action, PAX proteins are called transcription factors.</p><p>During embryonic development, the PAX6 protein is thought to turn on (activate) genes involved in the formation of the eyes, the brain and spinal cord (central nervous system), and the pancreas. Within the brain, the PAX6 protein is involved in the development of a specialized group of brain cells that process smell (the olfactory bulb). Additionally, researchers believe that the PAX6 protein controls many aspects of eye development before birth. After birth, the PAX6 protein likely regulates the expression of various genes in many structures of the eyes.</p>
+related-health-condition(1)/name: aniridia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/aniridia
+related-health-condition(2)/name: coloboma
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/coloboma
+related-health-condition(3)/name: Gillespie syndrome
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/gillespie-syndrome
+related-health-condition(4)/name: microphthalmia
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/microphthalmia
+related-health-condition(5)/name: Peters anomaly
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/peters-anomaly
+related-health-condition(6)/name: WAGR syndrome
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/wagr-syndrome
+synonym(1): AN
+synonym(2): AN2
+synonym(3): D11S812E
+synonym(4): MGC17209
+synonym(5): MGDA
+synonym(6): paired box gene 6
+synonym(7): paired box gene 6 isoform a
+synonym(8): paired box gene 6 isoform b
+synonym(9): PAX6_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5080
+db-key(2)/db: OMIM
+db-key(2)/key: 120200
+db-key(3)/db: OMIM
+db-key(3)/key: 120430
+db-key(4)/db: OMIM
+db-key(4)/key: 129750
+db-key(5)/db: OMIM
+db-key(5)/key: 136520
+db-key(6)/db: OMIM
+db-key(6)/key: 148190
+db-key(7)/db: OMIM
+db-key(7)/key: 165550
+db-key(8)/db: OMIM
+db-key(8)/key: 604219
+db-key(9)/db: OMIM
+db-key(9)/key: 607108
+reviewed: 2014-07
+published: 2018-04-17

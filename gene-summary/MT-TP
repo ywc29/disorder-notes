@@ -1,0 +1,8 @@
+gene-symbol: MT-TP
+name: mitochondrially encoded tRNA proline
+ghr-page: https://ghr.nlm.nih.gov/gene/MT-TP
+related-health-condition/name: myoclonic epilepsy with ragged-red fibers
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/myoclonic-epilepsy-with-ragged-red-fibers
+db-key/db: NCBI Gene
+db-key/key: 4571
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: NCF2
+name: neutrophil cytosolic factor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/NCF2
+text/text-role: function
+text/html: <p>The <i>NCF2</i> gene provides instructions for making a protein called neutrophil cytosolic factor 2 (also known as p67-phox). This protein is one part (subunit) of a group of proteins that forms an enzyme complex called NADPH oxidase, which plays an essential role in the immune system. Specifically, NADPH oxidase is primarily active in immune system cells called phagocytes. These cells catch and destroy foreign invaders such as bacteria and fungi. NADPH oxidase is also thought to regulate the activity of immune cells called neutrophils. These cells play a role in adjusting the inflammatory response to optimize healing and reduce injury to the body.</p><p>The presence of foreign invaders stimulates phagocytes and triggers the assembly of NADPH oxidase. This enzyme participates in a chemical reaction that converts oxygen to a toxic molecule called superoxide. Superoxide is used to generate several other compounds, including hydrogen peroxide (a strong disinfectant) and hypochlorous acid (the active ingredient in bleach). These highly reactive, toxic substances are known as reactive oxygen species. Phagocytes use these substances to kill foreign invaders, preventing them from reproducing in the body and causing illness.</p>
+related-health-condition(1)/name: chronic granulomatous disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/chronic-granulomatous-disease
+related-health-condition(2)/name: systemic lupus erythematosus
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/systemic-lupus-erythematosus
+synonym(1): NADPH oxidase activator 2
+synonym(2): NCF-2
+synonym(3): NCF2_HUMAN
+synonym(4): neutrophil cytosol factor 2
+synonym(5): NOXA2
+synonym(6): P67-PHOX
+synonym(7): P67PHOX
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4688
+db-key(2)/db: OMIM
+db-key(2)/key: 608515
+reviewed: 2012-08
+published: 2018-04-17

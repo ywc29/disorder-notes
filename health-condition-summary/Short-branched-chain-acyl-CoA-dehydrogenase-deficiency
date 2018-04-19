@@ -1,0 +1,28 @@
+name: Short/branched chain acyl-CoA dehydrogenase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/short-branched-chain-acyl-coa-dehydrogenase-deficiency
+text/text-role: description
+text/html: <p>Short/branched chain acyl-CoA dehydrogenase (SBCAD) deficiency (also known as 2-methylbutyryl-CoA dehydrogenase deficiency) is a rare disorder in which the body is unable to process proteins properly. Normally, the body breaks down proteins from food into smaller parts called amino acids. Amino acids can be further processed to provide energy for the body. People with SBCAD deficiency cannot process a particular amino acid called isoleucine.</p><p>Most cases of SBCAD deficiency are detected shortly after birth by newborn screening, which identifies abnormal levels of certain compounds in the blood. In individuals with this condition, a compound called 2-methylbutyryl carnitine is elevated in the blood and another called 2-methylbutyrylglycine is elevated in the urine (2-methylbutyrylglycinuria).</p><p>Most people with SBCAD deficiency have no health problems related to the disorder. A small percentage of affected individuals develop signs and symptoms of the condition, which can begin soon after birth or later in childhood. The initial symptoms often include poor feeding, lack of energy (lethargy), vomiting, and irritability. These symptoms sometimes progress to serious health problems such as difficulty breathing, seizures, and coma. Additional problems can include poor growth, vision impairment, learning disabilities, muscle weakness, and delays in motor skills such as standing and walking.</p><p>It is unclear why some people with SBCAD deficiency develop health problems and others do not. Doctors suggest that in some cases, signs and symptoms may be triggered by infections, prolonged periods without food (fasting), or an increased amount of protein-rich foods in the diet.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: ACADSB
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/ACADSB
+synonym(1): 2-MBADD
+synonym(2): 2-MBCD deficiency
+synonym(3): 2-MBG
+synonym(4): 2-methylbutyryl-CoA dehydrogenase deficiency
+synonym(5): 2-methylbutyryl-coenzyme A dehydrogenase deficiency
+synonym(6): 2-methylbutyryl glycinuria
+synonym(7): SBCADD
+synonym(8): short/branched-chain acyl-CoA dehydrogenase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1864912
+db-key(2)/db: MeSH
+db-key(2)/key: D000592
+db-key(3)/db: OMIM
+db-key(3)/key: 610006
+db-key(4)/db: Orphanet
+db-key(4)/key: 79157
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 444838008
+reviewed: 2017-02
+published: 2018-04-17

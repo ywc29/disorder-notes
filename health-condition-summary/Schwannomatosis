@@ -1,0 +1,44 @@
+name: Schwannomatosis
+ghr-page: https://ghr.nlm.nih.gov/condition/schwannomatosis
+text/text-role: description
+text/html: <p>Schwannomatosis is a disorder characterized by multiple noncancerous (benign) tumors called schwannomas, which are a type of tumor that grows on nerves. Schwannomas develop when Schwann cells, which are specialized cells that normally form an insulating layer around the nerve, grow uncontrollably to form a tumor.</p><p>The signs and symptoms of schwannomatosis usually appear in early adulthood. The most common symptom is long-lasting (chronic) pain, which can affect any part of the body. In some cases, the pain is felt in areas where there are no known tumors. The pain associated with this condition ranges from mild to severe and can be difficult to manage. Other signs and symptoms that can occur with schwannomatosis depend on the location of the tumors and which nerves are affected. These problems include numbness, weakness, tingling, and headaches. The life expectancy of people with schwannomatosis is normal.</p><p>Schwannomatosis is usually considered to be a form of neurofibromatosis, which is a group of disorders characterized by the growth of tumors in the nervous system. The other two recognized forms of neurofibromatosis are neurofibromatosis type 1 and neurofibromatosis type 2. The features of schwannomatosis can be very similar to those of neurofibromatosis type 2. However, schwannomatosis almost never includes inner ear tumors called vestibular schwannomas, which are a hallmark of neurofibromatosis type 2. Additional features of the other forms of neurofibromatosis, including the development of other types of tumors, are much less common in schwannomatosis.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: u
+inheritance-pattern(2)/memo: pattern unknown
+related-gene(1)/gene-symbol: LZTR1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/LZTR1
+related-gene(2)/gene-symbol: NF2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/NF2
+related-gene(3)/gene-symbol: SMARCB1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/SMARCB1
+synonym(1): multiple neurilemmomas
+synonym(2): multiple schwannomas
+synonym(3): neurilemmomatosis
+synonym(4): neurilemmomatosis, congenital cutaneous
+synonym(5): neurinomatosis
+synonym(6): neurofibromatosis type 3
+db-key(1)/db: GTR
+db-key(1)/key: C1335929
+db-key(2)/db: GTR
+db-key(2)/key: C3810283
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q85.03
+db-key(4)/db: MeSH
+db-key(4)/key: D009442
+db-key(5)/db: MeSH
+db-key(5)/key: D012878
+db-key(6)/db: MeSH
+db-key(6)/key: D017253
+db-key(7)/db: OMIM
+db-key(7)/key: 162091
+db-key(8)/db: OMIM
+db-key(8)/key: 615670
+db-key(9)/db: Orphanet
+db-key(9)/key: 93921
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 142071000119101
+db-key(11)/db: SNOMED CT
+db-key(11)/key: 254240003
+reviewed: 2017-01
+published: 2018-04-17

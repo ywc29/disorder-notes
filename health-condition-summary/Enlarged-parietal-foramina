@@ -1,0 +1,41 @@
+name: Enlarged parietal foramina
+ghr-page: https://ghr.nlm.nih.gov/condition/enlarged-parietal-foramina
+text/text-role: description
+text/html: <p>Enlarged parietal foramina is an inherited condition of impaired skull development. It is characterized by enlarged openings (foramina) in the parietal bones, which are the two bones that form the top and sides of the skull. This condition is due to incomplete bone formation (ossification) within the parietal bones. The openings are symmetrical and circular in shape, ranging in size from a few millimeters to several centimeters wide. Parietal foramina are a normal feature of fetal development, but typically they close before the baby is born, usually by the fifth month of pregnancy. However, in people with this condition, the parietal foramina remain open throughout life.</p><p>The enlarged parietal foramina are soft to the touch due to the lack of bone at those areas of the skull. People with enlarged parietal foramina usually do not have any related health problems; however, scalp defects, seizures, and structural brain abnormalities have been noted in a small percentage of affected people. Pressure applied to the openings can lead to severe headaches, and individuals with this condition have an increased risk of brain damage or skull fractures if any trauma is experienced in the area of the openings.</p><p>There are two forms of enlarged parietal foramina, called type 1 and type 2, which differ in their genetic cause.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: ALX4
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ALX4
+related-gene(2)/gene-symbol: MSX2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/MSX2
+synonym(1): Catlin marks
+synonym(2): cranium bifidum
+synonym(3): cranium bifidum occultum
+synonym(4): fenestrae parietals symmetricae
+synonym(5): foramina parietalia permagna
+synonym(6): FPP
+synonym(7): giant parietal foramina
+synonym(8): hereditary cranium bifidum
+synonym(9): parietal foramina
+synonym(10): PFM
+synonym(11): symmetric parietal foramina
+db-key(1)/db: GTR
+db-key(1)/key: C1865044
+db-key(2)/db: GTR
+db-key(2)/key: C1868598
+db-key(3)/db: GTR
+db-key(3)/key: C1868599
+db-key(4)/db: GeneReviews
+db-key(4)/key: msx2
+db-key(5)/db: MeSH
+db-key(5)/key: D004413
+db-key(6)/db: OMIM
+db-key(6)/key: 168500
+db-key(7)/db: OMIM
+db-key(7)/key: 609597
+db-key(8)/db: Orphanet
+db-key(8)/key: 60015
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 718099006
+reviewed: 2016-03
+published: 2018-04-17

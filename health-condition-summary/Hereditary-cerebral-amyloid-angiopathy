@@ -1,0 +1,51 @@
+name: Hereditary cerebral amyloid angiopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-cerebral-amyloid-angiopathy
+text/text-role: description
+text/html: <p>Hereditary cerebral amyloid angiopathy is a condition that can cause a progressive loss of intellectual function (dementia), stroke, and other neurological problems starting in mid-adulthood. Due to neurological decline, this condition is typically fatal in one's sixties, although there is variation depending on the severity of the signs and symptoms. Most affected individuals die within a decade after signs and symptoms first appear, although some people with the disease have survived longer.</p><p>There are many different types of hereditary cerebral amyloid angiopathy. The different types are distinguished by their genetic cause and the signs and symptoms that occur. The various types of hereditary cerebral amyloid angiopathy are named after the regions where they were first diagnosed.</p><p>The Dutch type of hereditary cerebral amyloid angiopathy is the most common form. Stroke is frequently the first sign of the Dutch type and is fatal in about one third of people who have this condition. Survivors often develop dementia and have recurrent strokes. About half of individuals with the Dutch type who have one or more strokes will have recurrent seizures (epilepsy).</p><p>People with the Flemish and Italian types of hereditary cerebral amyloid angiopathy are prone to recurrent strokes and dementia. Individuals with the Piedmont type may have one or more strokes and typically experience impaired movements, numbness or tingling (paresthesias), confusion, or dementia.</p><p>The first sign of the Icelandic type of hereditary cerebral amyloid angiopathy is typically a stroke followed by dementia. Strokes associated with the Icelandic type usually occur earlier than the other types, with individuals typically experiencing their first stroke in their twenties or thirties.</p><p>Strokes are rare in people with the Arctic type of hereditary cerebral amyloid angiopathy, in which the first sign is usually memory loss that then progresses to severe dementia. Strokes are also uncommon in individuals with the Iowa type. This type is characterized by memory loss, problems with vocabulary and the production of speech, personality changes, and involuntary muscle twitches (myoclonus).</p><p>Two types of hereditary cerebral amyloid angiopathy, known as familial British dementia and familial Danish dementia, are characterized by dementia and movement problems. Strokes are uncommon in these types. People with the Danish type may also have clouding of the lens of the eyes (cataracts) or deafness.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: APP
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/APP
+related-gene(2)/gene-symbol: CST3
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CST3
+related-gene(3)/gene-symbol: ITM2B
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/ITM2B
+synonym(1): autosomal dominant cerebrovascular amyloidosis
+synonym(2): CAA
+synonym(3): cerebral amyloid angiopathy, familial
+synonym(4): cerebral amyloid angiopathy, genetic
+synonym(5): HCHWA
+db-key(1)/db: GTR
+db-key(1)/key: C1527338
+db-key(2)/db: GTR
+db-key(2)/key: C1861735
+db-key(3)/db: GTR
+db-key(3)/key: C1867773
+db-key(4)/db: GTR
+db-key(4)/key: C2751536
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: I68.0
+db-key(6)/db: MeSH
+db-key(6)/key: D028243
+db-key(7)/db: OMIM
+db-key(7)/key: 105150
+db-key(8)/db: OMIM
+db-key(8)/key: 117300
+db-key(9)/db: OMIM
+db-key(9)/key: 176500
+db-key(10)/db: OMIM
+db-key(10)/key: 605714
+db-key(11)/db: Orphanet
+db-key(11)/key: 85458
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 230724001
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 237867001
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 45639009
+db-key(15)/db: SNOMED CT
+db-key(15)/key: 56453003
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 703220002
+reviewed: 2012-05
+published: 2018-04-17

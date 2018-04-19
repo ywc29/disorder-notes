@@ -1,0 +1,75 @@
+name: Pulmonary arterial hypertension
+ghr-page: https://ghr.nlm.nih.gov/condition/pulmonary-arterial-hypertension
+text/text-role: description
+text/html: <p>Pulmonary arterial hypertension is a progressive disorder characterized by abnormally high blood pressure (hypertension) in the pulmonary artery, the blood vessel that carries blood from the heart to the lungs. Pulmonary arterial hypertension is one form of a broader condition known as pulmonary hypertension. Pulmonary hypertension occurs when most of the very small arteries throughout the lungs narrow in diameter, which increases the resistance to blood flow through the lungs. To overcome the increased resistance, blood pressure increases in the pulmonary artery and in the right ventricle of the heart, which is the chamber that pumps blood into the pulmonary artery. Ultimately, the increased blood pressure can damage the right ventricle of the heart.</p><p>Signs and symptoms of pulmonary arterial hypertension occur when increased blood pressure cannot fully overcome the elevated resistance. As a result, the flow of oxygenated blood from the lungs to the rest of the body is insufficient. Shortness of breath (dyspnea) during exertion and fainting spells are the most common symptoms of pulmonary arterial hypertension. People with this disorder may experience additional symptoms, particularly as the condition worsens.  Other symptoms include dizziness, swelling (edema) of the ankles or legs, chest pain, and a rapid heart rate.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: ACVRL1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ACVRL1
+related-gene(2)/gene-symbol: BMPR1B
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/BMPR1B
+related-gene(3)/gene-symbol: BMPR2
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/BMPR2
+related-gene(4)/gene-symbol: CAV1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/CAV1
+related-gene(5)/gene-symbol: CBLN2
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/CBLN2
+related-gene(6)/gene-symbol: EIF2AK4
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/EIF2AK4
+related-gene(7)/gene-symbol: ENG
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/ENG
+related-gene(8)/gene-symbol: KCNA5
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNA5
+related-gene(9)/gene-symbol: KCNK3
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/KCNK3
+related-gene(10)/gene-symbol: SMAD9
+related-gene(10)/ghr-page: https://ghr.nlm.nih.gov/gene/SMAD9
+synonym(1): Ayerza syndrome
+synonym(2): familial primary pulmonary hypertension
+synonym(3): FPPH
+synonym(4): idiopathic pulmonary hypertension
+synonym(5): PAH
+synonym(6): PPH
+synonym(7): PPHT
+synonym(8): primary pulmonary hypertension
+synonym(9): sporadic primary pulmonary hypertension
+db-key(1)/db: GTR
+db-key(1)/key: C0152171
+db-key(2)/db: GTR
+db-key(2)/key: C3809192
+db-key(3)/db: GTR
+db-key(3)/key: C3809198
+db-key(4)/db: GTR
+db-key(4)/key: C3888002
+db-key(5)/db: GeneReviews
+db-key(5)/key: pph
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: I27.0
+db-key(7)/db: MeSH
+db-key(7)/key: D065627
+db-key(8)/db: OMIM
+db-key(8)/key: 178600
+db-key(9)/db: OMIM
+db-key(9)/key: 615342
+db-key(10)/db: OMIM
+db-key(10)/key: 615343
+db-key(11)/db: OMIM
+db-key(11)/key: 615344
+db-key(12)/db: Orphanet
+db-key(12)/key: 422
+db-key(13)/db: Orphanet
+db-key(13)/key: 182090
+db-key(14)/db: Orphanet
+db-key(14)/key: 275766
+db-key(15)/db: Orphanet
+db-key(15)/key: 275777
+db-key(16)/db: SNOMED CT
+db-key(16)/key: 233943009
+db-key(17)/db: SNOMED CT
+db-key(17)/key: 233944003
+db-key(18)/db: SNOMED CT
+db-key(18)/key: 697897003
+db-key(19)/db: SNOMED CT
+db-key(19)/key: 78862003
+reviewed: 2016-01
+published: 2018-04-17

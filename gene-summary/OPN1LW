@@ -1,0 +1,23 @@
+gene-symbol: OPN1LW
+name: opsin 1, long wave sensitive
+ghr-page: https://ghr.nlm.nih.gov/gene/OPN1LW
+text/text-role: function
+text/html: <p>The <i>OPN1LW</i> gene provides instructions for making a protein that is essential for normal color vision.  This protein is found in the retina, which is the light-sensitive tissue at the back of the eye. The retina contains two types of light receptor cells, called rods and cones, that transmit visual signals from the eye to the brain. Rods provide vision in low light. Cones provide vision in bright light, including color vision. There are three types of cones, each containing a specific pigment (a photopigment called an opsin) that is most sensitive to particular wavelengths of light.</p><p>The <i>OPN1LW</i> gene provides instructions for making an opsin pigment that is more sensitive to light in the yellow/orange part of the visible spectrum (long-wavelength light). Cones with this pigment are called long-wavelength-sensitive or L cones. In response to light, the photopigment triggers a series of chemical reactions within an L cone. These reactions ultimately alter the cell's electrical charge, generating a signal that is transmitted to the brain. The brain combines input from all three types of cones to produce normal color vision.</p><p>The <i>OPN1LW</i> gene is located next to another opsin pigment gene, <i>OPN1MW</i>, on the X chromosome. The <i>OPN1MW</i> gene provides instructions for making a photopigment that is more sensitive to light at middle wavelengths (yellow/green light). Most people have one copy of the <i>OPN1LW</i> gene and one or more copies of the <i>OPN1MW</i> gene on each X chromosome.  A nearby region of DNA, known as the locus control region (LCR), regulates the activity of these genes.  Only the two opsin pigment genes nearest the LCR, generally the <i>OPN1LW</i> gene and the first copy of the <i>OPN1MW</i> gene, are active in the retina and contribute to color vision.</p>
+related-health-condition/name: color vision deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/color-vision-deficiency
+synonym(1): L-pigment
+synonym(2): long-wave-sensitive pigment
+synonym(3): opsin 1 (cone pigments), long-wave-sensitive
+synonym(4): OPSR_HUMAN
+synonym(5): RCP
+synonym(6): red cone photoreceptor pigment
+synonym(7): red cone pigment
+synonym(8): red-sensitive opsin
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5956
+db-key(2)/db: OMIM
+db-key(2)/key: 300822
+db-key(3)/db: OMIM
+db-key(3)/key: 300824
+reviewed: 2015-01
+published: 2018-04-17

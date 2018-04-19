@@ -1,0 +1,28 @@
+name: MEGDEL syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/megdel-syndrome
+text/text-role: description
+text/html: <p>MEGDEL syndrome is an inherited disorder that affects multiple body systems. It is named for several of its features: 3-methylglutaconic aciduria (MEG), deafness (D), encephalopathy (E), and Leigh-like disease (L).</p><p>MEGDEL syndrome is characterized by abnormally high levels of an acid, called 3-methylglutaconic acid, in the urine (3-methylglutaconic aciduria). MEGDEL syndrome is one of a group of metabolic disorders that can be diagnosed by presence of this feature. People with MEGDEL syndrome also have high urine levels of another acid called 3-methylglutaric acid.</p><p>In infancy, individuals with MEGDEL syndrome develop hearing loss caused by changes in the inner ear (sensorineural deafness); the hearing problems gradually worsen over time.</p><p>Another feature of MEGDEL syndrome is brain dysfunction (encephalopathy). In infancy, encephalopathy leads to difficulty feeding, an inability to grow and gain weight at the expected rate (failure to thrive), and weak muscle tone (hypotonia). Infants with MEGDEL syndrome later develop involuntary muscle tensing (dystonia) and muscle stiffness (spasticity), which worsen over time. Because of these brain and muscle problems, affected babies have delayed development of mental and movement abilities (psychomotor delay), or they may lose skills they already developed. Individuals with MEGDEL syndrome have intellectual disability and never learn to speak.</p><p>People with MEGDEL syndrome have changes in the brain that resemble those in another condition called Leigh syndrome. These changes, which can be seen with medical imaging, are referred to as Leigh-like disease.</p><p>Other features that occur commonly in MEGDEL syndrome include low blood sugar (hypoglycemia) in affected newborns; liver problems (hepatopathy) in infancy, which can be serious but improve by early childhood; and episodes of abnormally high amounts of lactic acid in the blood (lactic acidosis).</p><p>The life expectancy of individuals with MEGDEL syndrome is unknown. Because of the severe health problems caused by the disorder, some affected individuals do not survive past infancy.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: SERAC1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SERAC1
+synonym(1): 3-methylglutaconic aciduria type IV with sensorineural deafness, encephalopathy, and Leigh-like syndrome
+synonym(2): 3-methylglutaconic aciduria with deafness, encephalopathy, and Leigh-like syndrome
+synonym(3): MEGDHEL syndrome
+synonym(4): SERAC1 defect
+db-key(1)/db: GTR
+db-key(1)/key: C3553597
+db-key(2)/db: GeneReviews
+db-key(2)/key: megdel
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E71.111
+db-key(4)/db: MeSH
+db-key(4)/key: D008052
+db-key(5)/db: OMIM
+db-key(5)/key: 614739
+db-key(6)/db: Orphanet
+db-key(6)/key: 352328
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 711409002
+reviewed: 2014-07
+published: 2018-04-17

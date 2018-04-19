@@ -1,0 +1,40 @@
+name: Mayer-Rokitansky-Küster-Hauser syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/mayer-rokitansky-kuster-hauser-syndrome
+text/text-role: description
+text/html: <p>Mayer-Rokitansky-Küster-Hauser (MRKH) syndrome is a disorder that occurs in females and mainly affects the reproductive system. This condition causes the vagina and uterus to be underdeveloped or absent, although external genitalia are normal. Affected women usually do not have menstrual periods due to the absent uterus. Often, the first noticeable sign of MRKH syndrome is that menstruation does not begin by age 16 (primary amenorrhea). Women with MRKH syndrome have a female chromosome pattern (46,XX) and normally functioning ovaries. They also have normal breast and pubic hair development. Although women with this condition are usually unable to carry a pregnancy, they may be able to have children through assisted reproduction.</p><p>When only reproductive organs are affected, the condition is classified as MRKH syndrome type 1. Some women with MRKH syndrome  also have abnormalities in other parts of the body; in these cases, the condition is classified as MRKH syndrome type 2. In this form of the condition, the kidneys may be abnormally formed or positioned, or one kidney may fail to develop (unilateral renal agenesis). Affected individuals commonly develop skeletal abnormalities, particularly of the spinal bones (vertebrae). Females with MRKH syndrome type 2 may also have hearing loss or heart defects.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: u
+inheritance-pattern(2)/memo: pattern unknown
+related-gene(1)/gene-symbol: LHX1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/LHX1
+related-gene(2)/gene-symbol: SHOX
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/SHOX
+related-gene(3)/gene-symbol: TBX6
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/TBX6
+synonym(1): congenital absence of the uterus and vagina (CAUV)
+synonym(2): genital renal ear syndrome (GRES)
+synonym(3): MRKH syndrome
+synonym(4): Mullerian agenesis
+synonym(5): Mullerian aplasia
+synonym(6): Mullerian dysgenesis
+synonym(7): Rokitansky Kuster Hauser syndrome
+synonym(8): Rokitansky syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C1698581
+db-key(2)/db: MeSH
+db-key(2)/key: D058489
+db-key(3)/db: OMIM
+db-key(3)/key: 277000
+db-key(4)/db: OMIM
+db-key(4)/key: 601076
+db-key(5)/db: Orphanet
+db-key(5)/key: 2578
+db-key(6)/db: Orphanet
+db-key(6)/key: 3109
+db-key(7)/db: Orphanet
+db-key(7)/key: 247775
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 253828000
+reviewed: 2017-05
+published: 2018-04-17

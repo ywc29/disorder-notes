@@ -1,0 +1,90 @@
+name: Oral-facial-digital syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/oral-facial-digital-syndrome
+text/text-role: description
+text/html: <p>Oral-facial-digital syndrome is actually a group of related conditions that affect the development of the oral cavity (the mouth and teeth), facial features, and digits (fingers and toes).</p><p>Researchers have identified at least 13 potential forms of oral-facial-digital syndrome. The different types are classified by their patterns of signs and symptoms. However, the features of the various types overlap significantly, and some types are not well defined. The classification system for oral-facial-digital syndrome continues to evolve as researchers find more affected individuals and learn more about this disorder.</p><p>The signs and symptoms of oral-facial-digital syndrome vary widely. However, most forms of this disorder involve problems with development of the oral cavity, facial features, and digits. Most forms are also associated with brain abnormalities and some degree of intellectual disability.</p><p>Abnormalities of the oral cavity that occur in many types of oral-facial-digital syndrome include a split (cleft) in the tongue, a tongue with an unusual lobed shape, and the growth of noncancerous tumors or nodules on the tongue. Affected individuals may also have extra, missing, or defective teeth. Another common feature is an opening in the roof of the mouth (a cleft palate). Some people with oral-facial-digital syndrome have bands of extra tissue (called hyperplastic frenula) that abnormally attach the lip to the gums.</p><p>Distinctive facial features often associated with oral-facial-digital syndrome include a split in the lip (a cleft lip); a wide nose with a broad, flat nasal bridge; and widely spaced eyes (hypertelorism).</p><p>Abnormalities of the digits can affect both the fingers and the toes in people with oral-facial-digital syndrome. These abnormalities include fusion of certain fingers or toes (syndactyly), digits that are shorter than usual (brachydactyly), or digits that are unusually curved (clinodactyly). The presence of extra digits (polydactyly) is also seen in most forms of oral-facial-digital syndrome.</p><p>Other features occur in only one or a few types of oral-facial digital syndrome. These features help distinguish the different forms of the disorder. For example, the most common form of oral-facial-digital syndrome, type I, is associated with polycystic kidney disease. This kidney disease is characterized by the growth of fluid-filled sacs (cysts) that interfere with the kidneys' ability to filter waste products from the blood. Other forms of oral-facial-digital syndrome are characterized by neurological problems, particular changes in the structure of the brain, bone abnormalities, vision loss, and heart defects.</p>
+inheritance-pattern(1)/code: ar
+inheritance-pattern(1)/memo: autosomal recessive
+inheritance-pattern(2)/code: xd
+inheritance-pattern(2)/memo: X-linked dominant
+related-gene/gene-symbol: OFD1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/OFD1
+synonym(1): dysplasia linguofacialis
+synonym(2): OFDS
+synonym(3): oro-facio-digital syndrome
+synonym(4): orodigitofacial dysostosis
+synonym(5): orodigitofacial syndrome
+synonym(6): orofaciodigital syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0026363
+db-key(2)/db: GTR
+db-key(2)/key: C0029294
+db-key(3)/db: GTR
+db-key(3)/key: C0406726
+db-key(4)/db: GTR
+db-key(4)/key: C0406727
+db-key(5)/db: GTR
+db-key(5)/key: C0796100
+db-key(6)/db: GTR
+db-key(6)/key: C0796101
+db-key(7)/db: GTR
+db-key(7)/key: C0796102
+db-key(8)/db: GTR
+db-key(8)/key: C1510460
+db-key(9)/db: GTR
+db-key(9)/key: C1833796
+db-key(10)/db: GTR
+db-key(10)/key: C1868118
+db-key(11)/db: GTR
+db-key(11)/key: C2745997
+db-key(12)/db: GTR
+db-key(12)/key: C2752048
+db-key(13)/db: GeneReviews
+db-key(13)/key: ofd1
+db-key(14)/db: MeSH
+db-key(14)/key: D009958
+db-key(15)/db: OMIM
+db-key(15)/key: 165590
+db-key(16)/db: OMIM
+db-key(16)/key: 174300
+db-key(17)/db: OMIM
+db-key(17)/key: 252100
+db-key(18)/db: OMIM
+db-key(18)/key: 258850
+db-key(19)/db: OMIM
+db-key(19)/key: 258860
+db-key(20)/db: OMIM
+db-key(20)/key: 258865
+db-key(21)/db: OMIM
+db-key(21)/key: 277170
+db-key(22)/db: OMIM
+db-key(22)/key: 300484
+db-key(23)/db: OMIM
+db-key(23)/key: 311200
+db-key(24)/db: OMIM
+db-key(24)/key: 608518
+db-key(25)/db: OMIM
+db-key(25)/key: 612913
+db-key(26)/db: Orphanet
+db-key(26)/key: 2750
+db-key(27)/db: Orphanet
+db-key(27)/key: 2751
+db-key(28)/db: Orphanet
+db-key(28)/key: 2752
+db-key(29)/db: Orphanet
+db-key(29)/key: 2753
+db-key(30)/db: Orphanet
+db-key(30)/key: 2755
+db-key(31)/db: Orphanet
+db-key(31)/key: 2756
+db-key(32)/db: Orphanet
+db-key(32)/key: 2919
+db-key(33)/db: Orphanet
+db-key(33)/key: 141000
+db-key(34)/db: Orphanet
+db-key(34)/key: 141007
+db-key(35)/db: Orphanet
+db-key(35)/key: 90649
+db-key(36)/db: SNOMED CT
+db-key(36)/key: 52868006
+reviewed: 2010-02
+published: 2018-04-17

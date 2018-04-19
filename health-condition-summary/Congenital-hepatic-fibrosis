@@ -1,0 +1,22 @@
+name: Congenital hepatic fibrosis
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-hepatic-fibrosis
+text/text-role: description
+text/html: <p>Congenital hepatic fibrosis is a disease of the liver that is present from birth. The liver has many important functions, including producing various substances needed by the body and breaking down other substances into smaller parts to be used or eliminated.</p><p>Congenital hepatic fibrosis is characterized by malformation of the bile ducts and the blood vessels of the hepatic portal system. Bile ducts carry bile (a fluid that helps to digest fats) from the liver to the gallbladder and small intestine. The hepatic portal system is a branching network of veins (portal veins) that carry blood from the gastrointestinal tract to the liver for processing.</p><p>A buildup of scar tissue (fibrosis) in the portal tracts also occurs in this disorder. Portal tracts are structures in the liver that bundle the vessels through which blood, lymph, and bile flow. Lymph is a fluid that helps exchange immune cells, proteins, and other substances between the blood and tissues. Fibrosis in the portal tracts can restrict the normal movement of fluids in these vessels.</p><p>Constriction of the portal veins due to malformation and portal tract fibrosis results in high blood pressure in the hepatic portal system (portal hypertension). Portal hypertension impairs the flow of blood from the gastrointestinal tract, causing an increase in pressure in the veins of the esophagus, stomach, and intestines. These veins may stretch and their walls may become thin, leading to a risk of abnormal bleeding.</p><p>People with congenital hepatic fibrosis have an enlarged liver and spleen (hepatosplenomegaly). The liver is also abnormally shaped. Affected individuals also have an increased risk of infection of the bile ducts (cholangitis), hard deposits in the gallbladder or bile ducts (gallstones), and cancer of the liver or gallbladder.</p><p>Congenital hepatic fibrosis may occur alone, in which case it is called isolated congenital hepatic fibrosis. More frequently, it occurs as a feature of genetic syndromes that also affect the kidneys, such as polycystic kidney disease (PKD).</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+inheritance-pattern(3)/code: xr
+inheritance-pattern(3)/memo: X-linked recessive
+synonym(1): CHF
+synonym(2): congenital fibrose liver
+db-key(1)/db: GTR
+db-key(1)/key: C0009714
+db-key(2)/db: GeneReviews
+db-key(2)/key: hepatic-fibrosis
+db-key(3)/db: MeSH
+db-key(3)/key: D008107
+db-key(4)/db: SNOMED CT
+db-key(4)/key: 79607001
+reviewed: 2017-01
+published: 2018-04-17

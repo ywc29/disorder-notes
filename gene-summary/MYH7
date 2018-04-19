@@ -1,0 +1,43 @@
+gene-symbol: MYH7
+name: myosin heavy chain 7
+ghr-page: https://ghr.nlm.nih.gov/gene/MYH7
+text/text-role: function
+text/html: <p>The <i>MYH7</i> gene provides instructions for making a protein known as the beta (β)-myosin heavy chain. This protein is found in heart (cardiac) muscle and in type I skeletal muscle fibers. (Skeletal muscle are the muscles used for movement.) Type I fibers, which are also known as slow-twitch fibers, are one of two types of fibers that make up skeletal muscles. Type I fibers are the primary component of skeletal muscles that are resistant to fatigue. For example, muscles involved in posture, such as the neck muscles that hold the head steady, are made predominantly of type I fibers.</p><p>In cardiac and skeletal muscle cells, the β-myosin heavy chain forms part of a larger protein called type II myosin. Each type II myosin protein consists of two heavy chains (produced from the <i>MYH7</i> gene) and two pairs of regulatory light chains (produced from several other genes). The heavy chains each have two parts: a head region and a tail region. The head region, called the motor domain, interacts with a protein called actin, which is important for cell movement and shape. The long tail region interacts with other proteins, including the tail regions of other myosin proteins.</p><p>Type II myosin generates the mechanical force that is needed for muscles to contract. It is integral to muscle cell structures called sarcomeres, which are the basic units of muscle contraction. Sarcomeres are composed of thick filaments made up of type II myosin and thin filaments made up of actin. The overlapping thick and thin filaments attach to each other and release, which allows the filaments to move relative to one another so that muscles can contract. In the heart, regular contractions of cardiac muscle pump blood to the rest of the body. The coordinated contraction and relaxation of skeletal muscles allow the body to move.</p>
+related-health-condition(1)/name: congenital fiber-type disproportion
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-fiber-type-disproportion
+related-health-condition(2)/name: familial dilated cardiomyopathy
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-dilated-cardiomyopathy
+related-health-condition(3)/name: familial hypertrophic cardiomyopathy
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hypertrophic-cardiomyopathy
+related-health-condition(4)/name: familial restrictive cardiomyopathy
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-restrictive-cardiomyopathy
+related-health-condition(5)/name: Laing distal myopathy
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/laing-distal-myopathy
+related-health-condition(6)/name: left ventricular noncompaction
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/left-ventricular-noncompaction
+related-health-condition(7)/name: myosin storage myopathy
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/myosin-storage-myopathy
+synonym(1): beta-myosin heavy chain
+synonym(2): MGC138376
+synonym(3): MGC138378
+synonym(4): MPD1
+synonym(5): MYH7_HUMAN
+synonym(6): MyHC-beta
+synonym(7): myhc-slow
+synonym(8): MYHCB
+synonym(9): myosin heavy chain (AA 1-96)
+synonym(10): Myosin heavy chain 7
+synonym(11): Myosin heavy chain, cardiac muscle beta isoform
+synonym(12): Myosin, cardiac, heavy chain, beta
+synonym(13): myosin, heavy chain 7, cardiac muscle, beta
+synonym(14): myosin, heavy polypeptide 7, cardiac muscle, beta
+synonym(15): SPMD
+synonym(16): SPMM
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4625
+db-key(2)/db: OMIM
+db-key(2)/key: 160760
+db-key(3)/db: OMIM
+db-key(3)/key: 613426
+reviewed: 2017-06
+published: 2018-04-17

@@ -1,0 +1,27 @@
+gene-symbol: RASA1
+name: RAS p21 protein activator 1
+ghr-page: https://ghr.nlm.nih.gov/gene/RASA1
+text/text-role: function
+text/html: <p>The <i>RASA1</i> gene provides instructions for making a protein called p120-RasGAP. This protein helps regulate the RAS/MAPK signaling pathway, which transmits signals from outside the cell to the cell's nucleus. The RAS/MAPK signaling pathway helps direct several important cell functions, including the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), and cell movement. The p120-RasGAP protein is a negative regulator of the RAS/MAPK signaling pathway, which means it is involved in turning off these signals when they are not needed.</p><p>The exact role of p120-RasGAP is not fully understood. However, it appears to be essential for the normal development of the vascular system, which is the complex network of arteries, veins, and capillaries that carry blood to and from the heart.</p>
+related-health-condition(1)/name: capillary malformation-arteriovenous malformation syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/capillary-malformation-arteriovenous-malformation-syndrome
+related-health-condition(2)/name: Parkes Weber syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/parkes-weber-syndrome
+synonym(1): DKFZp434N071
+synonym(2): GAP
+synonym(3): GTPase-activating protein
+synonym(4): p120
+synonym(5): p120GAP
+synonym(6): p120RASGAP
+synonym(7): ras GTPase-activating protein 1
+synonym(8): RAS p21 protein activator (GTPase activating protein) 1
+synonym(9): RASA
+synonym(10): RASA1_HUMAN
+synonym(11): RASGAP
+synonym(12): triphosphatase-activating protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5921
+db-key(2)/db: OMIM
+db-key(2)/key: 139150
+reviewed: 2011-08
+published: 2018-04-17

@@ -1,0 +1,19 @@
+gene-symbol: PADI3
+name: peptidyl arginine deiminase 3
+ghr-page: https://ghr.nlm.nih.gov/gene/PADI3
+text/text-role: function
+text/html: <p>The <i>PADI3</i> gene provides instructions for making an enzyme called peptidylarginine deiminase type III. This enzyme modifies proteins by changing certain protein building blocks (amino acids). Specifically, it changes the positively charged amino acid arginine to the neutral amino acid citrulline when positively charged calcium atoms (ions) are present. This process is called deimination. In most cases, deimination alters the protein's interactions with other proteins.</p><p>Peptidylarginine deiminase type III is found in the skin's tough outer surface (the stratum corneum), within cells called keratinocytes. The protein also functions in hair follicles, which are specialized structures in the skin where hair growth occurs. In hair follicles, peptidylarginine deiminase type III modifies proteins involved in giving structure to the hair strand (shaft).</p>
+related-health-condition/name: uncombable hair syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/uncombable-hair-syndrome
+synonym(1): PAD3
+synonym(2): PDI3
+synonym(3): peptidyl arginine deiminase, type III
+synonym(4): peptidylarginine deiminase III
+synonym(5): protein-arginine deiminase type-3
+synonym(6): protein-arginine deiminase type III
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51702
+db-key(2)/db: OMIM
+db-key(2)/key: 606755
+reviewed: 2017-05
+published: 2018-04-17

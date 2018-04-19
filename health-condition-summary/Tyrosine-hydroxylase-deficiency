@@ -1,0 +1,26 @@
+name: Tyrosine hydroxylase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/tyrosine-hydroxylase-deficiency
+text/text-role: description
+text/html: <p>Tyrosine hydroxylase (TH) deficiency is a disorder that primarily affects movement, with symptoms that may range from mild to severe.</p><p>The mild form of this disorder is called TH-deficient dopa-responsive dystonia (DRD). Symptoms usually appear during childhood. Affected individuals may exhibit unusual limb positioning and a lack of coordination when walking or running. In some cases, people with TH-deficient DRD have additional movement problems such as shaking when holding a position (postural tremor) or involuntary upward-rolling movements of the eyes. The movement difficulties may slowly increase with age but almost always get better with medical treatment.</p><p>The severe forms of TH deficiency are called infantile parkinsonism and progressive infantile encephalopathy. These forms of the disorder appear soon after birth and are more difficult to treat effectively.</p><p>Babies with infantile parkinsonism have delayed development of motor skills such as sitting unsupported or reaching for a toy. They may have stiff muscles, especially in the arms and legs; unusual body positioning; droopy eyelids (ptosis); and involuntary upward-rolling eye movements. The autonomic nervous system, which controls involuntary body functions, may also be affected. Resulting signs and symptoms can include constipation, backflow of stomach acids into the esophagus (gastroesophageal reflux), and difficulty regulating blood sugar, body temperature, and blood pressure. People with the infantile parkinsonism  form of the disorder may have intellectual disability, speech problems, attention deficit disorder, and psychiatric conditions such as depression, anxiety, or obsessive-compulsive behaviors.</p><p>Progressive infantile encephalopathy is an uncommon severe form of TH deficiency. It is characterized by brain dysfunction and structural abnormalities leading to profound physical and intellectual disability.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: TH
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/TH
+synonym(1): autosomal recessive infantile parkinsonism
+synonym(2): Segawa syndrome, autosomal recessive
+synonym(3): TH deficiency
+synonym(4): TH-deficient DRD
+db-key(1)/db: GTR
+db-key(1)/key: C1854299
+db-key(2)/db: GeneReviews
+db-key(2)/key: thdrd
+db-key(3)/db: MeSH
+db-key(3)/key: D020734
+db-key(4)/db: OMIM
+db-key(4)/key: 605407
+db-key(5)/db: Orphanet
+db-key(5)/key: 101150
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 715827001
+reviewed: 2009-04
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: CSTB
+name: cystatin B
+ghr-page: https://ghr.nlm.nih.gov/gene/CSTB
+text/text-role: function
+text/html: <p>The <i>CSTB</i> gene provides instructions for making a protein called cystatin B. This protein reduces the activity of (inhibits) enzymes called cathepsins. Cathepsins help break down certain proteins in the lysosomes (compartments in the cell that digest and recycle materials). While the specific function of cystatin B is unclear, it may help protect the cells' proteins from cathepsins that leak out of the lysosomes.</p><p>One region of the <i>CSTB</i> gene has a particular repeating sequence of 12 DNA building blocks (nucleotides) written as CCCCG-CCCCG-CG. This sequence, called a dodecamer repeat, is usually repeated two or three times within a part of the gene that helps regulate cystatin B protein production.</p>
+related-health-condition/name: Unverricht-Lundborg disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/unverricht-lundborg-disease
+synonym(1): CPI-B
+synonym(2): CST6
+synonym(3): cystatin B (stefin B)
+synonym(4): CYTB_HUMAN
+synonym(5): EPM1
+synonym(6): liver thiol proteinase inhibitor
+synonym(7): PME
+synonym(8): stefin B
+synonym(9): STFB
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1476
+db-key(2)/db: OMIM
+db-key(2)/key: 601145
+reviewed: 2008-06
+published: 2018-04-17

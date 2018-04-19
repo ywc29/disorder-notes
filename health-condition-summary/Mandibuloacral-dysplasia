@@ -1,0 +1,27 @@
+name: Mandibuloacral dysplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/mandibuloacral-dysplasia
+text/text-role: description
+text/html: <p>Mandibuloacral dysplasia is a condition that causes a variety of abnormalities involving bone development, skin coloring (pigmentation), and fat distribution. People with this condition may grow slowly after birth. Most affected individuals are born with an underdeveloped lower jaw bone (mandible) and small collar bones (clavicles), leading to the characteristic features of a small chin and sloped shoulders. Other bone problems include loss of bone from the tips of the fingers (acroosteolysis), which causes bulbous finger tips; delayed closure of certain skull bones; and joint deformities (contractures).</p><p>People with mandibuloacral dysplasia can have mottled or patchy skin pigmentation or other skin abnormalities. Some people with this condition have features of premature aging (a condition called progeria), such as thin skin, loss of teeth, loss of hair, and a beaked nose. Some individuals with mandibuloacral dysplasia have metabolic problems, such as diabetes.</p><p>A common feature of mandibuloacral dysplasia is a lack of fatty tissue under the skin (lipodystrophy) in certain regions of the body. The two types of this disorder, mandibuloacral dysplasia with type A lipodystrophy (MADA) and mandibuloacral dysplasia with type B lipodystrophy (MADB) are distinguished by the pattern of fat distribution throughout the body. Type A is described as partial lipodystrophy; affected individuals have a loss of fatty tissue from the torso and limbs, but it may build up around the neck and shoulders. Type B is a generalized lipodystrophy, with loss of fatty tissue in the face, torso, and limbs.</p><p>MADA usually begins in adulthood, although children can be affected. MADB begins earlier, often just after birth. Many babies with MADB are born prematurely.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: LMNA
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/LMNA
+related-gene(2)/gene-symbol: ZMPSTE24
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ZMPSTE24
+synonym: mandibuloacral dysostosis
+db-key(1)/db: GTR
+db-key(1)/key: C0432291
+db-key(2)/db: GTR
+db-key(2)/key: C1837756
+db-key(3)/db: MeSH
+db-key(3)/key: D008060
+db-key(4)/db: OMIM
+db-key(4)/key: 248370
+db-key(5)/db: OMIM
+db-key(5)/key: 608612
+db-key(6)/db: Orphanet
+db-key(6)/key: 2457
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 109419009
+reviewed: 2013-08
+published: 2018-04-17

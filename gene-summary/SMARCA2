@@ -1,0 +1,31 @@
+gene-symbol: SMARCA2
+name: SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2
+ghr-page: https://ghr.nlm.nih.gov/gene/SMARCA2
+text/text-role: function
+text/html: <p>The <i>SMARCA2</i> gene provides instructions for making one piece (subunit) of a group of similar protein complexes known as SWI/SNF complexes. These complexes regulate gene activity (expression) by a process known as chromatin remodeling. Chromatin is the network of DNA and proteins that packages DNA into chromosomes. The structure of chromatin can be changed (remodeled) to alter how tightly DNA is packaged. Chromatin remodeling is one way gene expression is regulated during development; when DNA is tightly packed, gene expression is lower than when DNA is loosely packed. SWI/SNF complexes help with chromatin remodeling by moving parts of chromatin called nucleosomes, which makes DNA more accessible for gene expression. To provide energy for chromatin remodeling, the SMARCA2 protein uses a molecule called ATP.</p><p>SWI/SNF complexes regulate genes that are involved in many processes, including repairing damaged DNA; copying (replicating) DNA; and controlling the growth, division, and maturation (differentiation) of cells. The SMARCA2 protein and other SWI/SNF subunits are thought to act as tumor suppressors, which keep cells from growing and dividing too rapidly or in an uncontrolled way.</p>
+related-health-condition/name: Nicolaides-Baraitser syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nicolaides-baraitser-syndrome
+synonym(1): ATP-dependent helicase SMARCA2
+synonym(2): BAF190
+synonym(3): BAF190B
+synonym(4): BRG1-associated factor 190B
+synonym(5): BRM
+synonym(6): global transcription activator homologous sequence
+synonym(7): hBRM
+synonym(8): hSNF2a
+synonym(9): protein brahma homolog
+synonym(10): SNF2
+synonym(11): SNF2-alpha
+synonym(12): SNF2/SWI2-like protein 2
+synonym(13): SNF2L2
+synonym(14): SNF2LA
+synonym(15): Sth1p
+synonym(16): sucrose nonfermenting 2-like protein 2
+synonym(17): SWI/SNF-related matrix-associated actin-dependent regulator of chromatin a2
+synonym(18): SWI2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6595
+db-key(2)/db: OMIM
+db-key(2)/key: 600014
+reviewed: 2015-12
+published: 2018-04-17

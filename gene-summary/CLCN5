@@ -1,0 +1,31 @@
+gene-symbol: CLCN5
+name: chloride voltage-gated channel 5
+ghr-page: https://ghr.nlm.nih.gov/gene/CLCN5
+text/text-role: function
+text/html: <p>The <i>CLCN5</i> gene provides instructions for making a protein called ClC-5 that transports charged atoms (ions) across cell membranes. Specifically, ClC-5 exchanges negatively charged atoms of chlorine (chloride ions) for positively charged atoms of hydrogen (protons or hydrogen ions). Based on this function, ClC-5 is known as a H<sup>+</sup>/Cl<sup>-</sup> exchanger.</p><p>ClC-5 is found primarily in the kidneys, particularly in structures called proximal tubules. These structures help to reabsorb nutrients, water, and other materials that have been filtered from the bloodstream. The kidneys reabsorb needed materials into the blood and excrete everything else into the urine.</p><p>Within proximal tubule cells, ClC-5 is embedded in specialized compartments called endosomes. Endosomes are formed at the cell surface to carry proteins and other molecules to their destinations within the cell. ClC-5 transports hydrogen ions into endosomes and chloride ions out, which helps these compartments maintain the proper acidity level (pH). Endosomal pH levels must be tightly regulated for proximal tubule cells to function properly.</p>
+related-health-condition(1)/name: Dent disease
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/dent-disease
+related-health-condition(2)/name: hereditary hypophosphatemic rickets
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hypophosphatemic-rickets
+synonym(1): chloride channel 5
+synonym(2): chloride channel protein 5
+synonym(3): chloride channel, voltage-sensitive 5
+synonym(4): chloride transporter ClC-5
+synonym(5): clC-5
+synonym(6): CLC5
+synonym(7): CLCK2
+synonym(8): CLCN5_HUMAN
+synonym(9): DENTS
+synonym(10): H(+)/Cl(-) exchange transporter 5
+synonym(11): hCIC-K2
+synonym(12): hClC-K2
+synonym(13): NPHL1
+synonym(14): NPHL2
+synonym(15): XLRH
+synonym(16): XRN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1184
+db-key(2)/db: OMIM
+db-key(2)/key: 300008
+reviewed: 2012-09
+published: 2018-04-17

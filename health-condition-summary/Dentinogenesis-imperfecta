@@ -1,0 +1,40 @@
+name: Dentinogenesis imperfecta
+ghr-page: https://ghr.nlm.nih.gov/condition/dentinogenesis-imperfecta
+text/text-role: description
+text/html: <p>Dentinogenesis imperfecta is a disorder of tooth development. This condition causes the teeth to be discolored (most often a blue-gray or yellow-brown color) and translucent. Teeth are also weaker than normal, making them prone to rapid wear, breakage, and loss. These problems can affect both primary (baby) teeth and permanent teeth.</p><p>Researchers have described three types of dentinogenesis imperfecta with similar dental abnormalities. Type I occurs in people who have osteogenesis imperfecta, a genetic condition in which bones are brittle and easily broken. Dentinogenesis imperfecta type II and type III usually occur in people without other inherited disorders. A few older individuals with type II have had progressive high-frequency hearing loss in addition to dental abnormalities, but it is not known whether this hearing loss is related to dentinogenesis imperfecta.</p><p>Some researchers believe that dentinogenesis imperfecta type II and type III, along with a condition called dentin dysplasia type II, are actually forms of a single disorder. The signs and symptoms of dentin dysplasia type II are very similar to those of dentinogenesis imperfecta.  However, dentin dysplasia type II affects the primary teeth much more than the permanent teeth.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: DSPP
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DSPP
+synonym(1): DGI
+synonym(2): hereditary opalescent dentin
+db-key(1)/db: GTR
+db-key(1)/key: C0205730
+db-key(2)/db: GTR
+db-key(2)/key: C0399378
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: Q78.0
+db-key(4)/db: MeSH
+db-key(4)/key: D003811
+db-key(5)/db: OMIM
+db-key(5)/key: 125420
+db-key(6)/db: OMIM
+db-key(6)/key: 125490
+db-key(7)/db: OMIM
+db-key(7)/key: 125500
+db-key(8)/db: Orphanet
+db-key(8)/key: 1653
+db-key(9)/db: Orphanet
+db-key(9)/key: 166260
+db-key(10)/db: Orphanet
+db-key(10)/key: 166265
+db-key(11)/db: Orphanet
+db-key(11)/key: 49042
+db-key(12)/db: SNOMED CT
+db-key(12)/key: 196286005
+db-key(13)/db: SNOMED CT
+db-key(13)/key: 234969005
+db-key(14)/db: SNOMED CT
+db-key(14)/key: 234970006
+reviewed: 2017-06
+published: 2018-04-17

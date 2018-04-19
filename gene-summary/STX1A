@@ -1,0 +1,8 @@
+gene-symbol: STX1A
+name: syntaxin 1A
+ghr-page: https://ghr.nlm.nih.gov/gene/STX1A
+related-health-condition/name: Williams syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/williams-syndrome
+db-key/db: NCBI Gene
+db-key/key: 6804
+published: 2018-04-17

@@ -1,0 +1,22 @@
+gene-symbol: SFTPB
+name: surfactant protein B
+ghr-page: https://ghr.nlm.nih.gov/gene/SFTPB
+text/text-role: function
+text/html: <p>The <i>SFTPB</i> gene provides instructions for making a protein called surfactant protein-B (SP-B). This protein is one of four proteins (each produced from a different gene) in surfactant, a mixture of certain fats (called phospholipids) and proteins that lines the lung tissue and makes breathing easy. Without normal surfactant, the tissue surrounding the air sacs in the lungs (the alveoli) sticks together after exhalation (because of a force called surface tension), causing the alveoli to collapse. As a result, filling the lungs with air on each breath becomes very difficult, and the delivery of oxygen to the body is impaired. Surfactant lowers surface tension, easing breathing and avoiding lung collapse. The SP-B protein helps spread the surfactant across the surface of the lung tissue, aiding in the surface tension-lowering property of surfactant.</p><p>The phospholipids and proteins that make up surfactant are packaged in cellular structures known as lamellar bodies, which are found in specialized lung cells. The surfactant proteins must go through several processing steps to mature and become functional; some of these steps occur in lamellar bodies. The SP-B protein plays a role in the formation of lamellar bodies and, thus, affects the processing of a surfactant protein called surfactant protein-C (SP-C).</p>
+related-health-condition/name: surfactant dysfunction
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/surfactant-dysfunction
+synonym(1): 6 kDa protein
+synonym(2): 18 kDa pulmonary-surfactant protein
+synonym(3): PSP-B
+synonym(4): PSPB_HUMAN
+synonym(5): pulmonary surfactant-associated protein B
+synonym(6): pulmonary surfactant-associated proteolipid SPL(Phe)
+synonym(7): SFTP3
+synonym(8): SMDP1
+synonym(9): SP-B
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 6439
+db-key(2)/db: OMIM
+db-key(2)/key: 178640
+reviewed: 2012-07
+published: 2018-04-17

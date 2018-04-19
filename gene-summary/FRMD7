@@ -1,0 +1,15 @@
+gene-symbol: FRMD7
+name: FERM domain containing 7
+ghr-page: https://ghr.nlm.nih.gov/gene/FRMD7
+text/text-role: function
+text/html: <p>The <i>FRMD7</i> gene provides instructions for making a protein whose exact function is unknown.  This protein is found in many tissues, but it is most abundant in areas of the brain that control eye movement (such as the midbrain and cerebellum) and in the light-sensitive tissue at the back of the eye (retina).  The FRMD7 protein likely plays a role in the development of nerve cells in these areas of the brain and the retina.</p>
+related-health-condition/name: X-linked infantile nystagmus
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-infantile-nystagmus
+synonym(1): FRMD7_HUMAN
+synonym(2): NYS1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 90167
+db-key(2)/db: OMIM
+db-key(2)/key: 300628
+reviewed: 2009-09
+published: 2018-04-17

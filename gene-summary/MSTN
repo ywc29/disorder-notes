@@ -1,0 +1,17 @@
+gene-symbol: MSTN
+name: myostatin
+ghr-page: https://ghr.nlm.nih.gov/gene/MSTN
+text/text-role: function
+text/html: <p>The <i>MSTN</i> gene provides instructions for making a protein called myostatin.  This protein is part of the transforming growth factor beta (TGFβ) superfamily, which is a group of proteins that help control the growth and development of tissues throughout the body.  Myostatin is found almost exclusively in muscles used for movement (skeletal muscles), where it is active both before and after birth.  This protein normally restrains muscle growth, ensuring that muscles do not grow too large.  Myostatin has been studied extensively in mice, cows, and other animals, and it appears to have a similar function in humans.</p><p>Researchers are studying myostatin as a potential treatment for various muscular dystrophies that cause muscle weakness and wasting (atrophy).</p>
+related-health-condition/name: myostatin-related muscle hypertrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/myostatin-related-muscle-hypertrophy
+synonym(1): GDF-8
+synonym(2): GDF8
+synonym(3): GDF8_HUMAN
+synonym(4): growth differentiation factor 8
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2660
+db-key(2)/db: OMIM
+db-key(2)/key: 601788
+reviewed: 2008-12
+published: 2018-04-17

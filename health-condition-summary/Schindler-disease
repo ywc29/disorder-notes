@@ -1,0 +1,35 @@
+name: Schindler disease
+ghr-page: https://ghr.nlm.nih.gov/condition/schindler-disease
+text/text-role: description
+text/html: <p>Schindler disease is an inherited disorder that primarily causes neurological problems.</p><p>There are three types of Schindler disease. Schindler disease type I, also called the infantile type, is the most severe form. Babies with Schindler disease type I appear healthy at birth, but by the age of 8 to 15 months they stop developing new skills and begin losing skills they had already acquired (developmental regression). As the disorder progresses, affected individuals develop blindness and seizures, and eventually they lose awareness of their surroundings and become unresponsive. People with this form of the disorder usually do not survive past early childhood.</p><p>Schindler disease type II, also called Kanzaki disease, is a milder form of the disorder that usually appears in adulthood. Affected individuals may develop mild cognitive impairment and hearing loss caused by abnormalities of the inner ear (sensorineural hearing loss). They may experience weakness and loss of sensation due to problems with the nerves connecting the brain and spinal cord to muscles and sensory cells (peripheral nervous system). Clusters of enlarged blood vessels that form small, dark red spots on the skin (angiokeratomas) are characteristic of this form of the disorder.</p><p>Schindler disease type III is intermediate in severity between types I and II. Affected individuals may exhibit signs and symptoms beginning in infancy, including developmental delay, seizures, a weakened and enlarged heart (cardiomyopathy), and an enlarged liver (hepatomegaly). In other cases, people with this form of the disorder exhibit behavioral problems beginning in early childhood, with some features of autism spectrum disorders. Autism spectrum disorders are characterized by impaired communication and socialization skills.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: NAGA
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/NAGA
+synonym(1): alpha-galactosidase B deficiency
+synonym(2): alpha-galNAc deficiency, Schindler type
+synonym(3): alpha-N-acetylgalactosaminidase deficiency
+synonym(4): alpha-NAGA deficiency
+synonym(5): angiokeratoma corporis diffusum-glycopeptiduria
+synonym(6): GALB deficiency
+synonym(7): Kanzaki disease
+synonym(8): lysosomal glycoaminoacid storage disease-angiokeratoma corporis diffusum
+synonym(9): NAGA deficiency
+synonym(10): neuroaxonal dystrophy, Schindler type
+synonym(11): neuronal axonal dystrophy, Schindler type
+db-key(1)/db: GTR
+db-key(1)/key: C1836522
+db-key(2)/db: GTR
+db-key(2)/key: C1836544
+db-key(3)/db: MeSH
+db-key(3)/key: D016464
+db-key(4)/db: OMIM
+db-key(4)/key: 609241
+db-key(5)/db: OMIM
+db-key(5)/key: 609242
+db-key(6)/db: Orphanet
+db-key(6)/key: 3137
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 238048001
+reviewed: 2010-02
+published: 2018-04-17

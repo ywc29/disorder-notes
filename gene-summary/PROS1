@@ -1,0 +1,26 @@
+gene-symbol: PROS1
+name: protein S
+ghr-page: https://ghr.nlm.nih.gov/gene/PROS1
+text/text-role: function
+text/html: <p>The <i>PROS1</i> gene provides instructions for making a protein called protein S that is important for controlling blood clotting. By itself, protein S cannot carry out the chemical reactions necessary for regulating the formation of blood clots. Instead, protein S attaches to certain enzymes and enhances their function. On the basis of this action, protein S is called a cofactor.</p><p>Protein S is made chiefly by cells in the liver. The protein circulates in the bloodstream in two forms; it is either attached (bound) to a specific protein or  occurs by itself in a free form. Both forms of proteins S can act as cofactors; however, bound protein S is less effective than the free form. Protein S is a cofactor for an enzyme called activated protein C (APC). APC turns off (inactivates) the blood clotting proteins known as factor Va and factor VIIIa. Protein S also helps an enzyme known as tissue factor pathway inhibitor (TFPI) block the activity of another clotting protein, factor Xa.</p>
+related-health-condition/name: protein S deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/protein-s-deficiency
+synonym(1): PROS
+synonym(2): PROS_HUMAN
+synonym(3): protein S (alpha)
+synonym(4): protein S, alpha
+synonym(5): protein S, alpha preproprotein
+synonym(6): protein Sa
+synonym(7): PS21
+synonym(8): PS22
+synonym(9): PS23
+synonym(10): PS24
+synonym(11): PS25
+synonym(12): PSA
+synonym(13): vitamin K-dependent plasma protein S
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5627
+db-key(2)/db: OMIM
+db-key(2)/key: 176880
+reviewed: 2009-10
+published: 2018-04-17

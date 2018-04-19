@@ -1,0 +1,26 @@
+name: Congenital leptin deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/congenital-leptin-deficiency
+text/text-role: description
+text/html: <p>Congenital leptin deficiency is a condition that causes severe obesity beginning in the first few months of life. Affected individuals are of normal weight at birth, but they are constantly hungry and quickly gain weight. Without treatment, the extreme hunger continues and leads to chronic excessive eating (hyperphagia) and obesity. Beginning in early childhood, affected individuals develop abnormal eating behaviors such as fighting with other children over food, hoarding food, and eating in secret.</p><p>People with congenital leptin deficiency also have hypogonadotropic hypogonadism, which is a condition caused by reduced production of hormones that direct sexual development. Without treatment, affected individuals experience delayed puberty or do not go through puberty, and may be unable to conceive children (infertile).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: LEP
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/LEP
+synonym(1): LEPD
+synonym(2): leptin deficiency
+synonym(3): obesity due to congenital leptin deficiency
+synonym(4): obesity, morbid, due to leptin deficiency
+synonym(5): obesity, morbid, nonsyndromic 1
+synonym(6): obesity, severe, due to leptin deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C3554224
+db-key(2)/db: MeSH
+db-key(2)/key: D009767
+db-key(3)/db: OMIM
+db-key(3)/key: 614962
+db-key(4)/db: Orphanet
+db-key(4)/key: 66628
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 700150001
+reviewed: 2013-12
+published: 2018-04-17

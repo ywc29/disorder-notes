@@ -1,0 +1,33 @@
+name: Epidermolytic hyperkeratosis
+ghr-page: https://ghr.nlm.nih.gov/condition/epidermolytic-hyperkeratosis
+text/text-role: description
+text/html: <p>Epidermolytic hyperkeratosis is a skin disorder that is present at birth. Affected babies may have very red skin (erythroderma) and severe blisters. Because newborns with this disorder are missing the protection provided by normal skin, they are at risk of becoming dehydrated and developing infections in the skin or throughout the body (sepsis).</p><p>As affected individuals get older, blistering is less frequent, erythroderma becomes less evident, and the skin becomes thick (hyperkeratotic), especially over joints, on areas of skin that come into contact with each other, or on the scalp or neck. This thickened skin is usually darker than normal. Bacteria can grow in the thick skin, often causing a distinct odor.</p><p>Epidermolytic hyperkeratosis can be categorized into two types. People with PS-type epidermolytic hyperkeratosis have thick skin on the palms of their hands and soles of their feet (palmoplantar or palm/sole hyperkeratosis) in addition to other areas of the body. People with the other type, NPS-type, do not have extensive palmoplantar hyperkeratosis but do have hyperkeratosis on other areas of the body.</p><p>Epidermolytic hyperkeratosis is part of a group of conditions called ichthyoses, which refers to the scaly skin seen in individuals with related disorders. However, in epidermolytic hyperkeratosis, the skin is thick but not scaly as in some of the other conditions in the group.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: ar
+inheritance-pattern(2)/memo: autosomal recessive
+related-gene(1)/gene-symbol: KRT1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT1
+related-gene(2)/gene-symbol: KRT10
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/KRT10
+synonym(1): BCIE
+synonym(2): BIE
+synonym(3): bullous congenital ichthyosiform erythroderma
+synonym(4): bullous erythroderma ichthyosiforme
+synonym(5): bullous erythroderma ichthyosiformis congenita of Brocq
+synonym(6): bullous ichthyosiform erythroderma
+synonym(7): EHK
+synonym(8): epidermolytic ichthyosis
+synonym(9): hyperkeratosis, epidermolytic
+db-key(1)/db: GTR
+db-key(1)/key: C0079153
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: Q80.3
+db-key(3)/db: MeSH
+db-key(3)/key: D017488
+db-key(4)/db: OMIM
+db-key(4)/key: 113800
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 254167000
+reviewed: 2011-11
+published: 2018-04-17

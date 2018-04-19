@@ -1,0 +1,23 @@
+gene-symbol: EIF2AK4
+name: eukaryotic translation initiation factor 2 alpha kinase 4
+ghr-page: https://ghr.nlm.nih.gov/gene/EIF2AK4
+text/text-role: function
+text/html: <p>The <i>EIF2AK4</i> gene provides instructions for making a protein that helps direct a cell's response to changes that could damage the cell. This protein is found in several tissues throughout the body, including blood vessel walls. The EIF2AK4 protein can turn on (activate) another protein called eIF2 alpha (eIF2α), which helps control protein production. When cells are under stress, for example when the level of protein building blocks (amino acids) is too low, EIF2AK4 activates eIF2α. When turned on, eIF2α stimulates processes that reduce protein production, which helps conserve amino acids. In addition, activated eIF2α can trigger production of certain proteins called transcription factors, which control gene activity. The transcription factors regulated by eIF2α control the activity of genes involved in processes that help reduce the stress on the cell.</p>
+related-health-condition(1)/name: pulmonary arterial hypertension
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/pulmonary-arterial-hypertension
+related-health-condition(2)/name: pulmonary veno-occlusive disease
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pulmonary-veno-occlusive-disease
+synonym(1): E2AK4_HUMAN
+synonym(2): eukaryotic translation initiation factor 2-alpha kinase 4
+synonym(3): GCN2
+synonym(4): GCN2 eIF2alpha kinase
+synonym(5): GCN2-like protein
+synonym(6): general control nonderepressible 2
+synonym(7): KIAA1338
+synonym(8): PVOD2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 440275
+db-key(2)/db: OMIM
+db-key(2)/key: 609280
+reviewed: 2015-03
+published: 2018-04-17

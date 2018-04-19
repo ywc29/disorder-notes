@@ -1,0 +1,43 @@
+gene-symbol: COL2A1
+name: collagen type II alpha 1 chain
+ghr-page: https://ghr.nlm.nih.gov/gene/COL2A1
+text/text-role: function
+text/html: <p>The <i>COL2A1</i> gene provides instructions for making one component of type II collagen, called the pro-alpha1(II) chain. Type II collagen adds structure and strength to the connective tissues that support the body's muscles, joints, organs, and skin. Type II collagen is found primarily in cartilage, a tough but flexible tissue that makes up much of the skeleton during early development. Most cartilage is later converted to bone, except for the cartilage that continues to cover and protect the ends of bones and is present in the nose and external ears. Type II collagen is also part of the clear gel that fills the eyeball (the vitreous), the inner ear, and the center portion of the discs between the vertebrae in the spine (nucleus pulposus).</p><p>To construct type II collagen, three pro-alpha1(II) chains twist together to form a triple-stranded, rope-like procollagen molecule. Procollagen molecules are then processed by enzymes in the cell. Once processed, the molecules leave the cell and arrange themselves into long, thin fibrils that link to one another (cross-link) in the spaces around cells. The cross-linkages result in the formation of very strong, mature type II collagen fibers.</p>
+related-health-condition(1)/name: achondrogenesis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/achondrogenesis
+related-health-condition(2)/name: Czech dysplasia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/czech-dysplasia
+related-health-condition(3)/name: hypochondrogenesis
+related-health-condition(3)/ghr-page: https://ghr.nlm.nih.gov/condition/hypochondrogenesis
+related-health-condition(4)/name: Kniest dysplasia
+related-health-condition(4)/ghr-page: https://ghr.nlm.nih.gov/condition/kniest-dysplasia
+related-health-condition(5)/name: Legg-Calvé-Perthes disease
+related-health-condition(5)/ghr-page: https://ghr.nlm.nih.gov/condition/legg-calve-perthes-disease
+related-health-condition(6)/name: platyspondylic lethal skeletal dysplasia, Torrance type
+related-health-condition(6)/ghr-page: https://ghr.nlm.nih.gov/condition/platyspondylic-lethal-skeletal-dysplasia-torrance-type
+related-health-condition(7)/name: spondyloepimetaphyseal dysplasia, Strudwick type
+related-health-condition(7)/ghr-page: https://ghr.nlm.nih.gov/condition/spondyloepimetaphyseal-dysplasia-strudwick-type
+related-health-condition(8)/name: spondyloepiphyseal dysplasia congenita
+related-health-condition(8)/ghr-page: https://ghr.nlm.nih.gov/condition/spondyloepiphyseal-dysplasia-congenita
+related-health-condition(9)/name: spondyloperipheral dysplasia
+related-health-condition(9)/ghr-page: https://ghr.nlm.nih.gov/condition/spondyloperipheral-dysplasia
+related-health-condition(10)/name: Stickler syndrome
+related-health-condition(10)/ghr-page: https://ghr.nlm.nih.gov/condition/stickler-syndrome
+synonym(1): cartilage collagen
+synonym(2): CO2A1_HUMAN
+synonym(3): COL11A3
+synonym(4): collagen II, alpha-1 polypeptide
+synonym(5): collagen type II alpha 1
+synonym(6): collagen, type II, alpha 1
+synonym(7): collagen, type II, alpha 1 (primary osteoarthritis, spondyloepiphyseal dysplasia, congenital)
+synonym(8): STL1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 1280
+db-key(2)/db: OMIM
+db-key(2)/key: 120140
+db-key(3)/db: OMIM
+db-key(3)/key: 165720
+db-key(4)/db: OMIM
+db-key(4)/key: 608805
+reviewed: 2015-03
+published: 2018-04-17

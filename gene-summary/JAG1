@@ -1,0 +1,25 @@
+gene-symbol: JAG1
+name: jagged 1
+ghr-page: https://ghr.nlm.nih.gov/gene/JAG1
+text/text-role: function
+text/html: <p>The <i>JAG1</i> gene provides instructions for making a protein called Jagged-1, which is involved in an important pathway by which cells can signal to each other. The Jagged-1 protein is inserted into the membranes of certain cells. It connects with other proteins called Notch receptors, which are bound to the membranes of adjacent cells. These proteins fit together like a lock and its key. When a connection is made between the Jagged-1 and Notch proteins, it launches a series of signaling reactions (Notch signaling) affecting cell functions. Notch signaling controls how certain types of cells develop in a growing embryo, especially cells destined to be part of the heart, liver, eyes, ears, and spinal column. The Jagged-1 protein continues to play a role throughout life in the development of new blood cells.</p>
+related-health-condition/name: Alagille syndrome
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/alagille-syndrome
+synonym(1): AGS
+synonym(2): AHD
+synonym(3): AWS
+synonym(4): CD339
+synonym(5): CD339 antigen
+synonym(6): HJ1
+synonym(7): JAG1_HUMAN
+synonym(8): jagged 1 (Alagille syndrome)
+synonym(9): jagged 1 precursor
+synonym(10): JAGL1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 182
+db-key(2)/db: OMIM
+db-key(2)/key: 187500
+db-key(3)/db: OMIM
+db-key(3)/key: 601920
+reviewed: 2010-04
+published: 2018-04-17

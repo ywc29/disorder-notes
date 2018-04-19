@@ -1,0 +1,20 @@
+gene-symbol: ADA2
+name: adenosine deaminase 2
+ghr-page: https://ghr.nlm.nih.gov/gene/ADA2
+text/text-role: function
+text/html: <p>The <i>ADA2</i> gene provides instructions for making an enzyme called adenosine deaminase 2. This enzyme breaks down molecules called adenosine and 2'-deoxyadenosine. Because this enzyme functions in the spaces between cells, it is described as extracellular. Another form of adenosine deaminase, often called adenosine deaminase 1, breaks down the same molecules inside cells. This other version of the enzyme is produced from the <i>ADA</i> gene.</p><p>Researchers are still working to determine what roles the extracellular form of adenosine deaminase plays in the body. Studies suggest that it acts as a growth factor, which means that it stimulates cell growth and division. In particular, the enzyme appears to be involved in the growth and development of certain immune system cells, including macrophages, which are a type of white blood cell that plays a critical role in inflammation. Some macrophages are pro-inflammatory, meaning they promote inflammation, while others are anti-inflammatory, meaning they reduce inflammation. Adenosine deaminase 2 also seems to be essential for keeping the lining of blood vessel walls intact.</p>
+related-health-condition/name: adenosine deaminase 2 deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/adenosine-deaminase-2-deficiency
+synonym(1): adenosine deaminase CECR1
+synonym(2): ADGF
+synonym(3): cat eye syndrome chromosome region, candidate 1
+synonym(4): cat eye syndrome critical region protein 1
+synonym(5): CECR1
+synonym(6): IDGFL
+synonym(7): SNEDS
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 51816
+db-key(2)/db: OMIM
+db-key(2)/key: 607575
+reviewed: 2015-01
+published: 2018-04-17

@@ -1,0 +1,24 @@
+name: Fragile X-associated tremor/ataxia syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/fragile-x-associated-tremor-ataxia-syndrome
+text/text-role: description
+text/html: <p>Fragile X-associated tremor/ataxia syndrome (FXTAS) is characterized by problems with movement and thinking ability (cognition). FXTAS is a late-onset disorder, usually occurring after age 50, and its signs and symptoms worsen with age. This condition affects males more frequently and severely than females. Affected individuals have areas of damage in the part of the brain that controls movement (the cerebellum) and in a type of brain tissue known as white matter, which can be seen with magnetic resonance imaging (MRI). This damage leads to the movement problems and other impairments associated with FXTAS.</p><p>The characteristic features of FXTAS are intention tremor, which is trembling or shaking of a limb when trying to perform a voluntary movement such as reaching for an object, and problems with coordination and balance (ataxia). Typically intention tremors will develop first, followed a few years later by ataxia, although not everyone with FXTAS has both features. Many affected individuals develop other movement problems, such as a pattern of movement abnormalities known as parkinsonism, which includes tremors when not moving (resting tremor), rigidity, and unusually slow movement (bradykinesia). In addition, affected individuals may have reduced sensation, numbness or tingling, pain, or muscle weakness in the lower limbs. Some people with FXTAS experience problems with the autonomic nervous system, which controls involuntary body functions, leading to the inability to control the bladder or bowel.</p><p>People with FXTAS commonly have cognitive disabilities. They may develop short-term memory loss and loss of executive function, which is the ability to plan and implement actions and develop problem-solving strategies. Loss of this function impairs skills such as impulse control, self-monitoring, focusing attention appropriately, and cognitive flexibility. Many people with FXTAS experience anxiety, depression, moodiness, or irritability.</p><p>Some women develop immune system disorders, such as hypothyroidism or fibromyalgia, before the signs and symptoms of FXTAS appear.</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+related-gene/gene-symbol: FMR1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FMR1
+synonym(1): fragile X tremor/ataxia syndrome
+synonym(2): FXTAS
+db-key(1)/db: GTR
+db-key(1)/key: C1839780
+db-key(2)/db: GeneReviews
+db-key(2)/key: fragilex
+db-key(3)/db: MeSH
+db-key(3)/key: D002526
+db-key(4)/db: OMIM
+db-key(4)/key: 300623
+db-key(5)/db: Orphanet
+db-key(5)/key: 93256
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 448045004
+reviewed: 2012-08
+published: 2018-04-17

@@ -1,0 +1,20 @@
+gene-symbol: PKHD1
+name: PKHD1, fibrocystin/polyductin
+ghr-page: https://ghr.nlm.nih.gov/gene/PKHD1
+text/text-role: function
+text/html: <p>The <i>PKHD1</i> gene provides instructions for making a protein called fibrocystin (sometimes known as polyductin).  This protein is present in fetal and adult kidney cells, and is also present at low levels in the liver and pancreas.</p><p>Fibrocystin spans the cell membrane of kidney cells, so that one end of the protein remains inside the cell and the other end projects from the outer surface of the cell.  Based on its structure, fibrocystin may act as a receptor, interacting with molecules outside the cell and receiving signals that help the cell respond to its environment.  This protein also may be involved in connecting cells together (adhesion), keeping cells apart (repulsion), and promoting the growth and division of cells (proliferation).</p><p>Fibrocystin is also found in cell structures called primary cilia. Primary cilia are tiny, fingerlike projections that line the small tubes where urine is formed (renal tubules). Researchers believe that primary cilia play an important role in maintaining the size and structure of these tubules; however, the function of fibrocystin in primary cilia remains unclear.</p>
+related-health-condition/name: polycystic kidney disease
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/polycystic-kidney-disease
+synonym(1): FCYT
+synonym(2): fibrocystin
+synonym(3): PKHD1_HUMAN
+synonym(4): polycystic kidney and hepatic disease 1 (autosomal recessive)
+synonym(5): polyductin
+synonym(6): TIGM1
+synonym(7): tigmin
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5314
+db-key(2)/db: OMIM
+db-key(2)/key: 606702
+reviewed: 2006-06
+published: 2018-04-17

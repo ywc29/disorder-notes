@@ -1,0 +1,56 @@
+name: Primary coenzyme Q10 deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/primary-coenzyme-q10-deficiency
+text/text-role: description
+text/html: <p>Primary coenzyme Q10 deficiency is a disorder that can affect many parts of the body, especially the brain, muscles, and kidneys. As its name suggests, the disorder involves a shortage (deficiency) of a substance called coenzyme Q10.</p><p>The severity, combination of signs and symptoms, and age of onset of primary coenzyme Q10 deficiency vary widely. In the most severe cases, the condition becomes apparent in infancy and causes severe brain dysfunction combined with muscle weakness (encephalomyopathy) and the failure of other body systems. These problems can be life-threatening. The mildest cases of primary coenzyme Q10 deficiency can begin as late as a person's sixties and often cause cerebellar ataxia, which refers to problems with coordination and balance due to defects in the part of the brain that is involved in coordinating movement (cerebellum). Other neurological abnormalities that can occur in primary coenzyme Q10 deficiency include seizures, intellectual disability, poor muscle tone (hypotonia), involuntary muscle contractions (dystonia), progressive muscle stiffness (spasticity), abnormal eye movements (nystagmus), vision loss caused by degeneration (atrophy) of the optic nerves or breakdown of the light-sensing tissue at the back of the eyes (retinopathy), and sensorineural hearing loss (which is caused by abnormalities in the inner ear). The neurological problems gradually get worse unless treated with coenzyme Q10 supplementation.</p><p>A type of kidney dysfunction called nephrotic syndrome is another common feature of primary coenzyme Q10 deficiency. It can occur with or without neurological abnormalities. Nephrotic syndrome occurs when damage to the kidneys impairs their function, which allows protein from the blood to pass into the urine (proteinuria). Other signs and symptoms of nephrotic syndrome include increased cholesterol in the blood (hypercholesterolemia), an abnormal buildup of fluid in the abdominal cavity (ascites), and swelling (edema). Affected individuals may also have blood in the urine (hematuria), which can lead to a reduced number of red blood cells in the body (anemia), abnormal blood clotting, or reduced amounts of certain white blood cells. Low white blood cell counts can lead to a weakened immune system and frequent infections in people with nephrotic syndrome. If not treated with coenzyme Q10 supplementation, affected individuals eventually develop irreversible kidney failure (end-stage renal disease).</p><p>A type of heart disease that enlarges and weakens the heart muscle (hypertrophic cardiomyopathy) can also occur in primary coenzyme Q10 deficiency.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: COQ2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/COQ2
+related-gene(2)/gene-symbol: COQ4
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/COQ4
+related-gene(3)/gene-symbol: COQ6
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/COQ6
+related-gene(4)/gene-symbol: COQ7
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/COQ7
+related-gene(5)/gene-symbol: COQ8A
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/COQ8A
+related-gene(6)/gene-symbol: COQ8B
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/COQ8B
+related-gene(7)/gene-symbol: COQ9
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/COQ9
+related-gene(8)/gene-symbol: PDSS1
+related-gene(8)/ghr-page: https://ghr.nlm.nih.gov/gene/PDSS1
+related-gene(9)/gene-symbol: PDSS2
+related-gene(9)/ghr-page: https://ghr.nlm.nih.gov/gene/PDSS2
+synonym(1): coenzyme Q deficiency
+synonym(2): CoQ deficiency
+synonym(3): primary CoQ10 deficiency
+synonym(4): ubiquinone deficiency
+db-key(1)/db: GeneReviews
+db-key(1)/key: coq10-def
+db-key(2)/db: MeSH
+db-key(2)/key: D017237
+db-key(3)/db: OMIM
+db-key(3)/key: 607426
+db-key(4)/db: OMIM
+db-key(4)/key: 612016
+db-key(5)/db: OMIM
+db-key(5)/key: 614650
+db-key(6)/db: OMIM
+db-key(6)/key: 614651
+db-key(7)/db: OMIM
+db-key(7)/key: 614652
+db-key(8)/db: OMIM
+db-key(8)/key: 614654
+db-key(9)/db: OMIM
+db-key(9)/key: 615573
+db-key(10)/db: OMIM
+db-key(10)/key: 616276
+db-key(11)/db: OMIM
+db-key(11)/key: 616276
+db-key(12)/db: OMIM
+db-key(12)/key: 616733
+db-key(13)/db: Orphanet
+db-key(13)/key: 139485
+reviewed: 2017-04
+published: 2018-04-17

@@ -1,0 +1,44 @@
+name: Primary macronodular adrenal hyperplasia
+ghr-page: https://ghr.nlm.nih.gov/condition/primary-macronodular-adrenal-hyperplasia
+text/text-role: description
+text/html: <p>Primary macronodular adrenal hyperplasia (PMAH) is a disorder characterized by multiple lumps (nodules) in the adrenal glands, which are small hormone-producing glands located on top of each kidney. These nodules, which usually are found in both adrenal glands (bilateral) and vary in size, cause adrenal gland enlargement (hyperplasia) and result in the production of higher-than-normal levels of the hormone cortisol. Cortisol is an important hormone that suppresses inflammation and protects the body from physical stress such as infection or trauma through several mechanisms including raising blood sugar levels.</p><p>PMAH typically becomes evident in a person's forties or fifties. It is considered a form of Cushing syndrome, which is characterized by increased levels of cortisol resulting from one of many possible causes. These increased cortisol levels lead to weight gain in the face and upper body, fragile skin, bone loss, fatigue, and other health problems. However, some people with PMAH do not experience these signs and symptoms and are said to have subclinical Cushing syndrome.</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: n
+inheritance-pattern(2)/memo: not inherited
+related-gene(1)/gene-symbol: APC
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/APC
+related-gene(2)/gene-symbol: ARMC5
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ARMC5
+related-gene(3)/gene-symbol: FH
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/FH
+related-gene(4)/gene-symbol: GNAS
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/GNAS
+related-gene(5)/gene-symbol: MC2R
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/MC2R
+related-gene(6)/gene-symbol: MEN1
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/MEN1
+related-gene(7)/gene-symbol: PDE11A
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/PDE11A
+synonym(1): ACTH-independent macronodular adrenal hyperplasia
+synonym(2): ACTH-independent macronodular adrenocortical hyperplasia
+synonym(3): adrenal Cushing syndrome due to AIMAH
+synonym(4): adrenocorticotropic hormone-independent macronodular adrenal hyperplasia
+synonym(5): AIMAH
+synonym(6): corticotropin-independent macronodular adrenal hyperplasia
+synonym(7): PMAH
+synonym(8): primary bilateral macronodular adrenal hyperplasia
+db-key(1)/db: GTR
+db-key(1)/key: C4014803
+db-key(2)/db: MeSH
+db-key(2)/key: D003480
+db-key(3)/db: OMIM
+db-key(3)/key: 219080
+db-key(4)/db: OMIM
+db-key(4)/key: 615954
+db-key(5)/db: Orphanet
+db-key(5)/key: 189427
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 237778003
+reviewed: 2015-05
+published: 2018-04-17

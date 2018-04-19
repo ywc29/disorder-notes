@@ -1,0 +1,19 @@
+gene-symbol: GRM6
+name: glutamate metabotropic receptor 6
+ghr-page: https://ghr.nlm.nih.gov/gene/GRM6
+text/text-role: function
+text/html: <p>The <i>GRM6</i> gene provides instructions for making a protein called metabotropic glutamate receptor 6 (mGluR6). This protein is a glutamate receptor, which is a type of protein that attaches (binds) to the signaling molecule glutamate on the surface of cells. The mGluR6 protein is found within the membrane that surrounds cells called bipolar cells, which are part of the light-sensitive tissue at the back of the eye (retina). Bipolar cells receive visual signals from cells called rods that are used to see in low light. Rod cells release glutamate, which then binds to mGluR6 on bipolar cells. This binding ultimately triggers bipolar cells to transmit the visual signals to other retinal cells and eventually to the brain.</p>
+related-health-condition/name: autosomal recessive congenital stationary night blindness
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-congenital-stationary-night-blindness
+synonym(1): glutamate receptor, metabotropic 6
+synonym(2): GPRC1F
+synonym(3): GRM6_HUMAN
+synonym(4): metabotropic glutamate receptor 6
+synonym(5): mGlu6
+synonym(6): MGLUR6
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2916
+db-key(2)/db: OMIM
+db-key(2)/key: 604096
+reviewed: 2014-01
+published: 2018-04-17

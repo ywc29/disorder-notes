@@ -1,0 +1,24 @@
+gene-symbol: ANTXR2
+name: anthrax toxin receptor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/ANTXR2
+text/text-role: function
+text/html: <p>The <i>ANTXR2</i> gene provides instructions for making a protein called anthrax toxin receptor 2 (ANTXR2). This protein is involved in the formation of tiny blood vessels (capillaries). Researchers believe that the ANTXR2 protein is also important for maintaining the structure of basement membranes, which are thin, sheet-like structures that separate and support cells in many tissues. This protein is called anthrax toxin receptor 2 because it allows the toxin that causes anthrax to attach to cells and trigger disease.</p>
+related-health-condition(1)/name: infantile systemic hyalinosis
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/infantile-systemic-hyalinosis
+related-health-condition(2)/name: juvenile hyaline fibromatosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-hyaline-fibromatosis
+synonym(1): ANTR2_HUMAN
+synonym(2): capillary morphogenesis protein 2
+synonym(3): CMG-2
+synonym(4): CMG2
+synonym(5): FLJ31074
+synonym(6): ISH
+synonym(7): JHF
+synonym(8): MGC111533
+synonym(9): MGC45856
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 118429
+db-key(2)/db: OMIM
+db-key(2)/key: 608041
+reviewed: 2008-12
+published: 2018-04-17

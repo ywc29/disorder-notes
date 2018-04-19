@@ -1,0 +1,18 @@
+gene-symbol: SERAC1
+name: serine active site containing 1
+ghr-page: https://ghr.nlm.nih.gov/gene/SERAC1
+text/text-role: function
+text/html: <p>The <i>SERAC1</i> gene provides instructions for making a protein whose function is not completely understood. Studies suggest that the SERAC1 protein is involved in altering (remodeling) certain fats called phospholipids, particularly a phospholipid called phosphatidylglycerol.</p><p>Another phospholipid called cardiolipin is made from phosphatidylglycerol. Cardiolipin is a component of the membrane that surrounds cellular structures called mitochondria, which convert the energy from food into a form that cells can use, and is important for the proper functioning of these structures.</p><p>Researchers believe that the SERAC1 protein is also involved in the movement of a waxy, fat-like substance called cholesterol within cells. Cholesterol is a structural component of cell membranes and plays a role in the production of certain hormones and digestive acids. It has important functions both before and after birth.</p>
+related-health-condition(1)/name: Leigh syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/leigh-syndrome
+related-health-condition(2)/name: MEGDEL syndrome
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/megdel-syndrome
+synonym(1): FLJ14917
+synonym(2): protein SERAC1
+synonym(3): serine active site-containing protein 1
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 84947
+db-key(2)/db: OMIM
+db-key(2)/key: 614725
+reviewed: 2014-07
+published: 2018-04-17

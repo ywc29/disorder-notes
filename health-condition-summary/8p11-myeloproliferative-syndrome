@@ -1,0 +1,30 @@
+name: 8p11 myeloproliferative syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/8p11-myeloproliferative-syndrome
+text/text-role: description
+text/html: <p>8p11 myeloproliferative syndrome is a blood cancer that involves different types of blood cells. Blood cells are divided into several groups (lineages) based on the type of early cell from which they are descended. Two of these lineages are myeloid cells and lymphoid cells. Individuals with 8p11 myeloproliferative syndrome can develop both myeloid cell cancer and lymphoid cell cancer.</p><p>The condition can occur at any age. It usually begins as a myeloproliferative disorder, which is characterized by a high number of white blood cells (leukocytes). Most affected individuals also have an excess of myeloid cells known as eosinophils (eosinophilia).</p><p>In addition to a myeloproliferative disorder, many people with 8p11 myeloproliferative syndrome develop lymphoma, which is a form of blood cancer that involves lymphoid cells. The cancerous lymphoid cells grow and divide in lymph nodes, forming a tumor that enlarges the lymph nodes. In most cases of 8p11 myeloproliferative syndrome, the cancerous cells are lymphoid cells called T cells. Lymphoma can develop at the same time as the myeloproliferative disorder or later.</p><p>In most people with 8p11 myeloproliferative syndrome, the myeloproliferative disorder develops into a fast-growing blood cancer called acute myeloid leukemia.</p><p>The rapid myeloid and lymphoid cell production caused by these cancers results in enlargement of the spleen and liver (splenomegaly and hepatomegaly, respectively). Most people with 8p11 myeloproliferative syndrome have symptoms such as fatigue or night sweats. Some affected individuals have no symptoms, and the condition is discovered through routine blood tests.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: FGFR1
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/FGFR1
+related-gene(2)/gene-symbol: ZMYM2
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/ZMYM2
+related-chromosome(1)/name: 8
+related-chromosome(1)/ghr-page: https://ghr.nlm.nih.gov/chromosome/8
+related-chromosome(2)/name: 13
+related-chromosome(2)/ghr-page: https://ghr.nlm.nih.gov/chromosome/13
+synonym(1): 8p11 stem cell leukemia/lymphoma syndrome
+synonym(2): 8p11 stem cell syndrome
+synonym(3): myeloid and lymphoid neoplasms with FGFR1 abnormalities
+synonym(4): stem cell leukemia/lymphoma
+db-key(1)/db: GTR
+db-key(1)/key: C3150773
+db-key(2)/db: MeSH
+db-key(2)/key: D009196
+db-key(3)/db: OMIM
+db-key(3)/key: 613523
+db-key(4)/db: Orphanet
+db-key(4)/key: 168953
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 450942006
+reviewed: 2013-07
+published: 2018-04-17

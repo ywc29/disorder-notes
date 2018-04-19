@@ -1,0 +1,19 @@
+gene-symbol: PHKB
+name: phosphorylase kinase regulatory subunit beta
+ghr-page: https://ghr.nlm.nih.gov/gene/PHKB
+text/text-role: function
+text/html: <p>The <i>PHKB</i> gene provides instructions for making one piece, the beta subunit, of the phosphorylase b kinase enzyme. This enzyme is made up of 16 subunits, four each of the alpha, beta, gamma, and delta subunits. (Each subunit is produced from a different gene.) The beta subunit helps regulate the activity of phosphorylase b kinase. This enzyme is found in various tissues, although it is most abundant in the liver and muscles. One version of the enzyme is found in liver cells and another in muscle cells. The beta subunit produced from the <i>PHKB</i> gene is part of the enzyme found both in the liver and in muscle.</p><p>Phosphorylase b kinase plays an important role in providing energy for cells. The main source of cellular energy is a simple sugar called glucose. Glucose is stored in muscle and liver cells in a form called glycogen. Glycogen can be broken down rapidly when glucose is needed, for instance during exercise. Phosphorylase b kinase turns on (activates) another enzyme called glycogen phosphorylase b by converting it to the more active form, glycogen phosphorylase a. When active, this enzyme breaks down glycogen.</p>
+related-health-condition/name: glycogen storage disease type IX
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-ix
+synonym(1): KPBB_HUMAN
+synonym(2): phosphorylase b kinase regulatory subunit beta
+synonym(3): phosphorylase kinase beta subunit
+synonym(4): phosphorylase kinase beta-subunit
+synonym(5): phosphorylase kinase subunit beta
+synonym(6): phosphorylase kinase, beta
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5257
+db-key(2)/db: OMIM
+db-key(2)/key: 172490
+reviewed: 2015-08
+published: 2018-04-17

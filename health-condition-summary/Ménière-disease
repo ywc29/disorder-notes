@@ -1,0 +1,37 @@
+name: Ménière disease
+ghr-page: https://ghr.nlm.nih.gov/condition/meniere-disease
+text/text-role: description
+text/html: <p>Ménière disease is a disorder of the inner ear that affects balance and hearing. This condition is characterized by sudden episodes of extreme dizziness (vertigo), a roaring sound in the ears (tinnitus), a feeling of pressure or fullness in the ears, and fluctuations in hearing. Episodes are often associated with nausea and vomiting, and they can severely disrupt activities of daily living.</p><p>The episodes associated with Ménière disease generally last several hours. Studies suggest that episodes can be triggered by stress, tiredness (fatigue), emotional upset, illness, and dietary factors. The timing of these episodes is unpredictable; affected individuals may experience a cluster of episodes within a short period, followed by months or years without any symptoms.</p><p>Ménière disease usually appears in adulthood, most often in a person's 40s or 50s. It is much less common in children and young adults. The symptoms of the disorder typically begin in one ear, although they may later involve both ears.</p><p>Some people with Ménière disease have no symptoms of the disorder between episodes, particularly in the early stages of the disease. Over time, however, many affected individuals develop ongoing problems with unsteadiness, tinnitus, and a feeling of fullness in the ears. Additionally, permanent hearing loss eventually develops in many people with this disorder.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+synonym(1): auditory vertigo
+synonym(2): aural vertigo
+synonym(3): Meniere disease
+synonym(4): Meniere's disease
+synonym(5): Meniere's syndrome
+synonym(6): Ménière's disease
+synonym(7): Ménière's vertigo
+synonym(8): otogenic vertigo
+synonym(9): primary endolymphatic hydrops
+db-key(1)/db: GTR
+db-key(1)/key: C0025281
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: H81.0
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: H81.01
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: H81.02
+db-key(5)/db: ICD-10-CM
+db-key(5)/key: H81.03
+db-key(6)/db: ICD-10-CM
+db-key(6)/key: H81.09
+db-key(7)/db: MeSH
+db-key(7)/key: D008575
+db-key(8)/db: OMIM
+db-key(8)/key: 156000
+db-key(9)/db: Orphanet
+db-key(9)/key: 45360
+db-key(10)/db: SNOMED CT
+db-key(10)/key: 13445001
+reviewed: 2017-10
+published: 2018-04-17

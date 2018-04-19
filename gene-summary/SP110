@@ -1,0 +1,26 @@
+gene-symbol: SP110
+name: SP110 nuclear body protein
+ghr-page: https://ghr.nlm.nih.gov/gene/SP110
+text/text-role: function
+text/html: <p>The <i>SP110</i> gene provides instructions for making a protein called SP110 nuclear body protein, which is a component of cellular structures called nuclear bodies.  Nuclear bodies are located within the nuclei of cells, where they help control the activity of certain genes.  Nuclear bodies are also involved in the regulation of cell division, the self-destruction of cells that are damaged or no longer needed (apoptosis), and the normal function of the immune system.</p><p>SP110 nuclear body protein is active primarily in immune system cells called leukocytes and in the spleen.  It likely helps regulate the activity of genes needed for the body's immune response to foreign invaders (such as viruses and bacteria).</p>
+related-health-condition/name: hepatic veno-occlusive disease with immunodeficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hepatic-veno-occlusive-disease-with-immunodeficiency
+synonym(1): FLJ22835
+synonym(2): IFI41
+synonym(3): IFI75
+synonym(4): interferon-induced protein 41, 30kD
+synonym(5): interferon-induced protein 41/75
+synonym(6): interferon-induced protein 75, 52kD
+synonym(7): IPR1
+synonym(8): nuclear body protein SP110
+synonym(9): phosphoprotein 41
+synonym(10): phosphoprotein 75
+synonym(11): SP110_HUMAN
+synonym(12): speckeled, 110-KD
+synonym(13): transcriptional coactivator Sp110
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 3431
+db-key(2)/db: OMIM
+db-key(2)/key: 604457
+reviewed: 2009-01
+published: 2018-04-17

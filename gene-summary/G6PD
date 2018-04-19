@@ -1,0 +1,15 @@
+gene-symbol: G6PD
+name: glucose-6-phosphate dehydrogenase
+ghr-page: https://ghr.nlm.nih.gov/gene/G6PD
+text/text-role: function
+text/html: <p>The <i>G6PD</i> gene provides instructions for making an enzyme called glucose-6-phosphate dehydrogenase. This enzyme, which is active in virtually all types of cells, is involved in the normal processing of carbohydrates. It plays a critical role in red blood cells, which carry oxygen from the lungs to tissues throughout the body.  This enzyme helps protect red blood cells from damage and premature destruction.</p><p>Glucose-6-phosphate dehydrogenase is responsible for the first step in the pentose phosphate pathway, a series of chemical reactions that convert glucose (a type of sugar found in most carbohydrates) to another sugar, ribose-5-phosphate. Ribose-5-phosphate is an important component of nucleotides, which are the building blocks of DNA and its chemical cousin RNA. This chemical reaction produces a molecule called NADPH, which plays a role in protecting cells from potentially harmful molecules called reactive oxygen species. These molecules are byproducts of normal cellular functions. Reactions involving NADPH produce compounds that prevent reactive oxygen species from building up to toxic levels within cells. The production of NADPH by glucose-6-phosphate dehydrogenase is essential in red blood cells, which are particularly susceptible to damage by reactive oxygen species because they lack other NADPH-producing enzymes.</p>
+related-health-condition/name: glucose-6-phosphate dehydrogenase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glucose-6-phosphate-dehydrogenase-deficiency
+synonym(1): G6PD1
+synonym(2): G6PD_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2539
+db-key(2)/db: OMIM
+db-key(2)/key: 305900
+reviewed: 2017-05
+published: 2018-04-17

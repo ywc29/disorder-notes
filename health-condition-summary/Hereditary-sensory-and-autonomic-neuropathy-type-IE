@@ -1,0 +1,29 @@
+name: Hereditary sensory and autonomic neuropathy type IE
+ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-sensory-and-autonomic-neuropathy-type-ie
+text/text-role: description
+text/html: <p>Hereditary sensory and autonomic neuropathy type IE (HSAN IE) is a disorder that affects the nervous system. It is characterized by three main features: hearing loss, a decline of intellectual function (dementia), and a worsening loss of sensation in the feet and legs (peripheral neuropathy).</p><p>People with HSAN IE develop hearing loss that is caused by abnormalities in the inner ear (sensorineural hearing loss). The hearing loss, which affects both ears, gets worse over time and usually progresses to moderate or severe deafness between the ages of 20 and 35.</p><p>Affected individuals experience dementia typically beginning in their thirties. In some people with HSAN IE, changes in personality, such as irritability, apathy, or lack of impulse control, become apparent before problems with thinking skills.</p><p>Peripheral neuropathy is caused by impaired function of nerve cells called sensory neurons, which transmit information about sensations such as pain, temperature, and touch. Loss of sensation in the feet and legs, which usually begins in adolescence or early adulthood in people with HSAN IE and worsens over time, can cause difficulty walking. Affected individuals may not be aware of injuries to their feet, which can lead to complications such as open sores and infections. If these complications are severe, amputation of the affected areas may be required.</p><p>Some people with HSAN IE also experience recurrent seizures (epilepsy) and sleep problems. The severity of the signs and symptoms of HSAN IE and their age of onset are variable, even among affected members of the same family.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: DNMT1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DNMT1
+synonym(1): DNMT1-complex disorder
+synonym(2): DNMT1-related dementia, deafness, and sensory neuropathy
+synonym(3): hereditary sensory and autonomic neuropathy type 1 with dementia and hearing loss
+synonym(4): hereditary sensory neuropathy type IE
+synonym(5): HSAN1E
+synonym(6): HSN IE
+synonym(7): HSNIE
+db-key(1)/db: GTR
+db-key(1)/key: C3279885
+db-key(2)/db: GeneReviews
+db-key(2)/key: dnmt1-ddsn
+db-key(3)/db: MeSH
+db-key(3)/key: D009477
+db-key(4)/db: OMIM
+db-key(4)/key: 614116
+db-key(5)/db: Orphanet
+db-key(5)/key: 36386
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 397734008
+reviewed: 2017-06
+published: 2018-04-17

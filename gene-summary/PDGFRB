@@ -1,0 +1,26 @@
+gene-symbol: PDGFRB
+name: platelet derived growth factor receptor beta
+ghr-page: https://ghr.nlm.nih.gov/gene/PDGFRB
+text/text-role: function
+text/html: <p>The <i>PDGFRB</i> gene provides instructions for making a protein called platelet-derived growth factor receptor beta (PDGFRβ), which is part of a family of proteins called receptor tyrosine kinases. Receptor tyrosine kinases transmit signals from the cell surface into the cell through a process called signal transduction. The PDGFRβ protein is found in the cell membrane of certain cell types, where a protein called platelet-derived growth factor attaches (binds) to it. This binding turns on (activates) the PDGFRβ protein, which then activates other proteins inside the cell by adding a cluster of oxygen and phosphorus atoms (a phosphate group) at specific positions. This process, called phosphorylation, leads to the activation of a series of proteins in multiple signaling pathways.</p><p>The signaling pathways stimulated by the PDGFRβ protein control many important processes in the cell such as growth and division (proliferation), movement, and survival. PDGFRβ protein signaling is important for the development of many types of cells throughout the body.</p>
+related-health-condition(1)/name: familial idiopathic basal ganglia calcification
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-idiopathic-basal-ganglia-calcification
+related-health-condition(2)/name: PDGFRB-associated chronic eosinophilic leukemia
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/pdgfrb-associated-chronic-eosinophilic-leukemia
+synonym(1): beta-type platelet-derived growth factor receptor
+synonym(2): CD140 antigen-like family member B
+synonym(3): CD140B
+synonym(4): PDGF-R-beta
+synonym(5): PDGFR-1
+synonym(6): PDGFR-beta
+synonym(7): PDGFR1
+synonym(8): PGFRB_HUMAN
+synonym(9): platelet-derived growth factor receptor 1
+synonym(10): platelet-derived growth factor receptor beta
+synonym(11): platelet-derived growth factor receptor, beta polypeptide
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5159
+db-key(2)/db: OMIM
+db-key(2)/key: 173410
+reviewed: 2013-02
+published: 2018-04-17

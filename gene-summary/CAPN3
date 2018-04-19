@@ -1,0 +1,28 @@
+gene-symbol: CAPN3
+name: calpain 3
+ghr-page: https://ghr.nlm.nih.gov/gene/CAPN3
+text/text-role: function
+text/html: <p>The <i>CAPN3</i> gene provides instructions for making an enzyme called calpain-3, which is found within muscle cells in structures called sarcomeres. Sarcomeres are the basic unit of muscle contraction. They are made of proteins that generate the mechanical force needed for muscles to contract.</p><p>The function of the calpain-3 enzyme is not well understood. Researchers suggest it may help cut (cleave) damaged proteins into shorter segments to facilitate their removal from the sarcomere. Studies have also shown that calpain-3 attaches (binds) to proteins involved in controlling the ability of muscle fibers to stretch (elasticity) and in cell signaling. However, its specific roles in these processes are unknown.</p>
+related-health-condition/name: limb-girdle muscular dystrophy
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/limb-girdle-muscular-dystrophy
+synonym(1): calcium-activated neutral proteinase 3
+synonym(2): calpain-3
+synonym(3): calpain-3 isoform c
+synonym(4): calpain 3, (p94)
+synonym(5): calpain L3
+synonym(6): calpain p94, large [catalytic] subunit
+synonym(7): calpain, large polypeptide L3
+synonym(8): CAN3_HUMAN
+synonym(9): CANP3
+synonym(10): CANPL3
+synonym(11): LGMD2A
+synonym(12): muscle-specific calcium-activated neutral protease 3 large subunit
+synonym(13): nCL-1
+synonym(14): new calpain 1
+synonym(15): p94
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 825
+db-key(2)/db: OMIM
+db-key(2)/key: 114240
+reviewed: 2011-04
+published: 2018-04-17

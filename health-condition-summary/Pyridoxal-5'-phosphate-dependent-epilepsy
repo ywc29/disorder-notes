@@ -1,0 +1,24 @@
+name: Pyridoxal 5'-phosphate-dependent epilepsy
+ghr-page: https://ghr.nlm.nih.gov/condition/pyridoxal-5-phosphate-dependent-epilepsy
+text/text-role: description
+text/html: <p>Pyridoxal 5'-phosphate-dependent epilepsy is a condition that involves seizures beginning soon after birth or, in some cases, before birth. The seizures typically involve irregular involuntary muscle contractions (myoclonus), abnormal eye movements, and convulsions.  Most babies with this condition are born prematurely and may have a temporary, potentially toxic, increase in lactic acid in the blood (lactic acidosis). Additionally, some infants have a slow heart rate and a lack of oxygen during delivery (fetal distress).</p><p>Anticonvulsant drugs, which are usually given to control seizures, are ineffective in people with pyridoxal 5'-phosphate-dependent epilepsy.   Instead, individuals with this type of epilepsy are medically treated with large daily doses of pyridoxal 5'-phosphate (a form of vitamin B6). If left untreated, people with this condition can develop severe brain dysfunction (encephalopathy), which can lead to death.  Even though seizures can be controlled with pyridoxal 5'-phosphate, neurological problems such as developmental delay and learning disorders may still occur.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: PNPO
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/PNPO
+synonym(1): PNPO Deficiency
+synonym(2): PNPO-Related Neonatal Epileptic Encephalopathy
+synonym(3): pyridoxamine 5-prime-phosphate oxidase deficiency
+synonym(4): pyridoxine-5'-phosphate oxidase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C1864723
+db-key(2)/db: MeSH
+db-key(2)/key: D004827
+db-key(3)/db: OMIM
+db-key(3)/key: 610090
+db-key(4)/db: Orphanet
+db-key(4)/key: 79096
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 124174008
+reviewed: 2008-06
+published: 2018-04-17

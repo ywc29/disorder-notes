@@ -1,0 +1,42 @@
+name: Parathyroid cancer
+ghr-page: https://ghr.nlm.nih.gov/condition/parathyroid-cancer
+text/text-role: description
+text/html: <p>Parathyroid cancer is a rare cancer that usually affects people in their forties or fifties and occurs in one of the four parathyroid glands. The parathyroid glands are located in the neck and secrete parathyroid hormone, which enhances the release of calcium into the blood.</p><p>In about 90 percent of cases, the early signs of parathyroid cancer are high levels of parathyroid hormone (hyperparathyroidism) and calcium (hypercalcemia) in the blood. In these cases, the cancer is described as hormonally functional because the parathyroid glands are producing excess hormone.</p><p>Many individuals with hormonally functional parathyroid cancer develop hypercalcemic crisis, in which calcium levels in the blood are very high. Neurological problems can develop, including changes in mood and depression. About 30 percent of individuals with hypercalcemia due to parathyroid cancer develop kidney and skeletal problems. These problems include increased urine production (polyuria), deposits of calcium in the kidneys (nephrocalcinosis) leading to the formation of kidney stones (nephrolithiasis), bone pain, bone loss, and increased bone fractures. Abdominal pain, inflammation of the pancreas (pancreatitis), sores (ulcers) in the lining of the digestive tract, nausea, vomiting, weight loss, and fatigue are also common.</p><p>About 10 percent of cases of parathyroid cancer are described as hormonally nonfunctional. In these cases, levels of parathyroid hormone and calcium are normal. The signs and symptoms of hormonally nonfunctional parathyroid cancer are related to the tumor obstructing nearby structures in the neck. These problems include difficulty swallowing (dysphagia) and speaking (dysarthria), a hoarse voice, shortness of breath (dyspnea), or vocal cord paralysis.</p><p>Up to 85 percent of individuals with parathyroid survive at least 5 years after they are diagnosed. The disease recurs in approximately half of individuals. If cancer does recur, it will commonly be within 3 years of the original diagnosis and up to 78 percent of people with recurrent cancer survive at least 5 years. Hormonally nonfunctional parathyroid cancer has a lower survival rate because it is often found at a later stage, as it does not have early signs such as increased calcium and parathyroid hormone levels.</p><p>In hormonally functional parathyroid cancer, death is usually caused by organ failure (usually kidney failure) due to prolonged hypercalcemia and not directly due to the tumor. In hormonally nonfunctional parathyroid cancer, the cause of death is typically related to the tumor itself, such as its impact on the function of nearby structures or its spread to other tissues (metastasis).</p>
+inheritance-pattern(1)/code: ad
+inheritance-pattern(1)/memo: autosomal dominant
+inheritance-pattern(2)/code: n
+inheritance-pattern(2)/memo: not inherited
+related-gene/gene-symbol: CDC73
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/CDC73
+synonym(1): cancer of the parathyroid
+synonym(2): cancer of the parathyroid gland
+synonym(3): carcinoma of parathyroid gland
+synonym(4): malignant neoplasm of parathyroid
+synonym(5): malignant neoplasm of parathyroid gland
+synonym(6): malignant parathyroid gland neoplasm
+synonym(7): malignant parathyroid gland tumor
+synonym(8): malignant parathyroid neoplasm
+synonym(9): malignant parathyroid tumor
+synonym(10): malignant tumor of parathyroid
+synonym(11): malignant tumor of parathyroid gland
+synonym(12): parathyroid adenocarcinoma
+synonym(13): parathyroid carcinoma
+synonym(14): parathyroid gland cancer
+synonym(15): parathyroid gland carcinoma
+synonym(16): parathyroid neoplasms
+db-key(1)/db: GTR
+db-key(1)/key: C0687150
+db-key(2)/db: GeneReviews
+db-key(2)/key: hrpt2
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: C75.0
+db-key(4)/db: MeSH
+db-key(4)/key: D010282
+db-key(5)/db: OMIM
+db-key(5)/key: 608266
+db-key(6)/db: Orphanet
+db-key(6)/key: 143
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 363481002
+reviewed: 2017-09
+published: 2018-04-17

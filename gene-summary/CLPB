@@ -1,0 +1,25 @@
+gene-symbol: CLPB
+name: ClpB homolog, mitochondrial AAA ATPase chaperonin
+ghr-page: https://ghr.nlm.nih.gov/gene/CLPB
+text/text-role: function
+text/html: <p>The <i>CLPB</i> gene provides instructions for making a protein whose function is unknown. The CLPB protein is found in cells throughout the body but is most abundant in the brain. Based on its similarity to a protein in other organisms, researchers speculate that the CLPB protein helps unfold misfolded proteins so they can be refolded correctly. When misfolded, proteins cannot function properly and may be damaging to cells.</p>
+related-health-condition/name: CLPB deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/clpb-deficiency
+synonym(1): ANKCLB
+synonym(2): ankyrin-repeat containing bacterial clp fusion
+synonym(3): caseinolytic peptidase B protein homolog isoform 1
+synonym(4): caseinolytic peptidase B protein homolog isoform 2
+synonym(5): caseinolytic peptidase B protein homolog isoform 3
+synonym(6): caseinolytic peptidase B protein homolog isoform 4
+synonym(7): ClpB caseinolytic peptidase B homolog
+synonym(8): FLJ13152
+synonym(9): HSP78
+synonym(10): SKD3
+synonym(11): suppressor of potassium transport defect 3
+synonym(12): testicular secretory protein Li 11
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 81570
+db-key(2)/db: OMIM
+db-key(2)/key: 616254
+reviewed: 2017-02
+published: 2018-04-17

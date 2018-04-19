@@ -1,0 +1,24 @@
+name: Glutamate formiminotransferase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/glutamate-formiminotransferase-deficiency
+text/text-role: description
+text/html: <p>Glutamate formiminotransferase deficiency is an inherited disorder that affects physical and mental development. There are two forms of this condition, which are distinguished by the severity of symptoms.</p><p>People with the mild form of glutamate formiminotransferase deficiency have minor delays in physical and mental development and may have mild intellectual disability. They also have unusually high levels of a molecule called formiminoglutamate (FIGLU) in their urine.</p><p>Individuals affected by the severe form of this disorder have profound intellectual disability and delayed development of motor skills such as sitting, standing, and walking. In addition to FIGLU in their urine, they have elevated amounts of certain B vitamins (called folates) in their blood.</p><p>The severe form of glutamate formiminotransferase deficiency is also characterized by megaloblastic anemia. Megaloblastic anemia occurs when a person has a low number of red blood cells (anemia), and the remaining red blood cells are larger than normal (megaloblastic). The symptoms of this blood disorder may include decreased appetite, lack of energy, headaches, pale skin, and tingling or numbness in the hands and feet.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: FTCD
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FTCD
+synonym(1): Arakawa syndrome 1
+synonym(2): FIGLU-uria
+synonym(3): formiminoglutamic aciduria
+synonym(4): formiminotransferase deficiency
+db-key(1)/db: GTR
+db-key(1)/key: C0268609
+db-key(2)/db: MeSH
+db-key(2)/key: D008661
+db-key(3)/db: OMIM
+db-key(3)/key: 229100
+db-key(4)/db: Orphanet
+db-key(4)/key: 51208
+db-key(5)/db: SNOMED CT
+db-key(5)/key: 59761008
+reviewed: 2009-08
+published: 2018-04-17

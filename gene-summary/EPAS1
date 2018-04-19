@@ -1,0 +1,32 @@
+gene-symbol: EPAS1
+name: endothelial PAS domain protein 1
+ghr-page: https://ghr.nlm.nih.gov/gene/EPAS1
+text/text-role: function
+text/html: <p>The <i>EPAS1</i> gene, often known as <i>HIF2A</i>, provides instructions for making a protein called hypoxia-inducible factor 2-alpha (HIF-2α). This protein is one part (subunit) of a larger protein complex called HIF, which plays a critical role in the body's ability to adapt to changing oxygen levels. HIF controls several important genes involved in cell division, the formation of new blood vessels, and the production of red blood cells. It is the major regulator of a hormone called erythropoietin, which controls red blood cell production.</p><p>HIF-2α is constantly produced in the body. When adequate oxygen is available, other proteins target HIF-2α to be broken down (degraded) so it does not build up. However, when oxygen levels are lower than normal (hypoxia), HIF-2α is degraded at a slower rate. Consequently, more HIF is available to stimulate the formation of new blood vessels and the production of red blood cells. These activities help maximize the amount of oxygen that can be delivered to the body's organs and tissues.</p><p>Studies suggest that the <i>EPAS1</i> gene is involved in the body's adaptation to high altitude. At higher altitudes, such as in mountainous regions, air pressure is lower and less oxygen enters the body through the lungs. Over time, the body compensates for the lower oxygen levels by changing breathing patterns and producing more red blood cells and blood vessels.</p>
+related-health-condition/name: familial erythrocytosis
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-erythrocytosis
+synonym(1): basic-helix-loop-helix-PAS protein MOP2
+synonym(2): bHLHe73
+synonym(3): class E basic helix-loop-helix protein 73
+synonym(4): ECYT4
+synonym(5): endothelial PAS domain-containing protein 1
+synonym(6): EPAS-1
+synonym(7): EPAS1_HUMAN
+synonym(8): HIF-1-alpha-like factor
+synonym(9): HIF-1alpha-like factor
+synonym(10): HIF-2-alpha
+synonym(11): HIF2-alpha
+synonym(12): HIF2A
+synonym(13): HLF
+synonym(14): hypoxia-inducible factor 2-alpha
+synonym(15): hypoxia-inducible factor 2 alpha
+synonym(16): member of PAS protein 2
+synonym(17): MOP2
+synonym(18): PAS domain-containing protein 2
+synonym(19): PASD2
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 2034
+db-key(2)/db: OMIM
+db-key(2)/key: 603349
+reviewed: 2012-08
+published: 2018-04-17

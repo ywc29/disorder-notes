@@ -1,0 +1,39 @@
+name: Refsum disease
+ghr-page: https://ghr.nlm.nih.gov/condition/refsum-disease
+text/text-role: description
+text/html: <p>Refsum disease is an inherited condition that causes vision loss, absence of the sense of smell (anosmia), and a variety of other signs and symptoms.</p><p>The vision loss associated with Refsum disease is caused by an eye disorder called retinitis pigmentosa. This disorder affects the retina, the light-sensitive layer at the back of the eye. Vision loss occurs as the light-sensing cells of the retina gradually deteriorate. The first sign of retinitis pigmentosa is usually a loss of night vision, which often becomes apparent in childhood. Over a period of years, the disease disrupts side (peripheral) vision and may eventually lead to blindness.</p><p>Vision loss and anosmia are seen in almost everyone with Refsum disease, but other signs and symptoms vary. About one-third of affected individuals are born with bone abnormalities of the hands and feet.  Features that appear later in life can include progressive muscle weakness and wasting; poor balance and coordination (ataxia); hearing loss; and dry, scaly skin (ichthyosis). Additionally, some people with Refsum disease develop an abnormal heart rhythm (arrhythmia) and related heart problems that can be life-threatening.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene(1)/gene-symbol: PEX7
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/PEX7
+related-gene(2)/gene-symbol: PHYH
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/PHYH
+synonym(1): adult Refsum disease
+synonym(2): ARD
+synonym(3): classic Refsum disease
+synonym(4): CRD
+synonym(5): hereditary motor and sensory neuropathy Type IV
+synonym(6): heredopathia atactica polyneuritiformis
+synonym(7): HMSN IV
+synonym(8): HMSN type IV
+synonym(9): phytanic acid storage disease
+synonym(10): Refsum syndrome
+synonym(11): Refsum's disease
+db-key(1)/db: GTR
+db-key(1)/key: C0034960
+db-key(2)/db: GeneReviews
+db-key(2)/key: refsum
+db-key(3)/db: GeneReviews
+db-key(3)/key: rp-overview
+db-key(4)/db: ICD-10-CM
+db-key(4)/key: G60.1
+db-key(5)/db: MeSH
+db-key(5)/key: D012035
+db-key(6)/db: OMIM
+db-key(6)/key: 266500
+db-key(7)/db: Orphanet
+db-key(7)/key: 773
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 25362006
+reviewed: 2016-11
+published: 2018-04-17

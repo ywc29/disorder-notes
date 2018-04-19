@@ -1,0 +1,24 @@
+gene-symbol: RARS2
+name: arginyl-tRNA synthetase 2, mitochondrial
+ghr-page: https://ghr.nlm.nih.gov/gene/RARS2
+text/text-role: function
+text/html: <p>The <i>RARS2</i> gene provides instructions for making an enzyme called mitochondrial arginyl-tRNA synthetase. This enzyme is active in cell structures called mitochondria. Each cell contains hundreds or thousands of mitochondria, which convert the energy from food into a form that cells can use.</p><p>Mitochondrial arginyl-tRNA synthetase interacts with a molecule called transfer RNA (tRNA). This molecule, which is a chemical cousin of DNA, helps assemble protein building blocks called amino acids into functioning proteins. To build new proteins, tRNA must collect different amino acids and then attach them to one another in the correct order. Mitochondrial arginyl-tRNA synthetase is one of several enzymes that link amino acids to tRNA. Specifically, this enzyme links the amino acid arginine to the tRNA molecule, which then incorporates it into new proteins in mitochondria.</p>
+related-health-condition/name: pontocerebellar hypoplasia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pontocerebellar-hypoplasia
+synonym(1): arginine-tRNA ligase
+synonym(2): arginyl-tRNA synthetase 2, mitochondrial precursor
+synonym(3): arginyl-tRNA synthetase-like
+synonym(4): ArgRS
+synonym(5): DALRD2
+synonym(6): dJ382I10.6
+synonym(7): MGC14993
+synonym(8): MGC23778
+synonym(9): PRO1992
+synonym(10): RARSL
+synonym(11): SYRM_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 57038
+db-key(2)/db: OMIM
+db-key(2)/key: 611524
+reviewed: 2014-11
+published: 2018-04-17

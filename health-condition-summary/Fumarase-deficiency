@@ -1,0 +1,26 @@
+name: Fumarase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/fumarase-deficiency
+text/text-role: description
+text/html: <p>Fumarase deficiency is a condition that primarily affects the nervous system, especially the brain. Affected infants may have an abnormally small head size (microcephaly), abnormal brain structure, severe developmental delay, weak muscle tone (hypotonia), and failure to gain weight and grow at the expected rate (failure to thrive). They may also experience seizures. Some people with this disorder have unusual facial features, including a prominent forehead (frontal bossing), low-set ears, a small jaw (micrognathia), widely spaced eyes (ocular hypertelorism), and a depressed nasal bridge. An enlarged liver and spleen (hepatosplenomegaly) may also be associated with this disorder, as well as an excess of red blood cells (polycythemia) or deficiency of white blood cells (leukopenia) in infancy. Affected individuals usually survive only a few months, but a few have lived into early adulthood.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: FH
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/FH
+synonym(1): fumarate hydratase deficiency
+synonym(2): fumaric aciduria
+db-key(1)/db: GTR
+db-key(1)/key: C0342770
+db-key(2)/db: GeneReviews
+db-key(2)/key: fum
+db-key(3)/db: MeSH
+db-key(3)/key: D008661
+db-key(4)/db: OMIM
+db-key(4)/key: 606812
+db-key(5)/db: Orphanet
+db-key(5)/key: 24
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 124616002
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 237983002
+reviewed: 2017-09
+published: 2018-04-17

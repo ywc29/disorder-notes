@@ -1,0 +1,32 @@
+name: Microphthalmia with linear skin defects syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/microphthalmia-with-linear-skin-defects-syndrome
+text/text-role: description
+text/html: <p>Microphthalmia with linear skin defects syndrome is a disorder that mainly affects females. In people with this condition, one or both eyes may be very small or poorly developed (microphthalmia). Affected individuals also typically have unusual linear skin markings on the head and neck. These markings follow the paths along which cells migrate as the skin develops before birth (lines of Blaschko). The skin defects generally improve over time and leave variable degrees of scarring.</p><p>The signs and symptoms of microphthalmia with linear skin defects syndrome vary widely, even among affected individuals within the same family. In addition to the characteristic eye problems and skin markings, this condition can cause abnormalities in the brain, heart, and genitourinary system. A hole in the muscle that separates the abdomen from the chest cavity (the diaphragm), which is called a diaphragmatic hernia, may occur in people with this disorder. Affected individuals may also have short stature and fingernails and toenails that do not grow normally (nail dystrophy).</p>
+inheritance-pattern/code: xd
+inheritance-pattern/memo: X-linked dominant
+related-gene/gene-symbol: HCCS
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/HCCS
+related-chromosome/name: X
+related-chromosome/ghr-page: https://ghr.nlm.nih.gov/chromosome/X
+synonym(1): MCOPS7
+synonym(2): microphthalmia syndromic 7
+synonym(3): microphthalmia with linear skin lesions syndrome
+synonym(4): microphthalmia, dermal aplasia, and sclerocornea
+synonym(5): microphthalmia, syndromic 7
+synonym(6): MIDAS syndrome
+synonym(7): MLS syndrome
+synonym(8): syndromic microphthalmia-7
+db-key(1)/db: GTR
+db-key(1)/key: C0796070
+db-key(2)/db: GeneReviews
+db-key(2)/key: microph-lsd
+db-key(3)/db: MeSH
+db-key(3)/key: D008850
+db-key(4)/db: OMIM
+db-key(4)/key: 309801
+db-key(5)/db: Orphanet
+db-key(5)/key: 2556
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 721879006
+reviewed: 2009-10
+published: 2018-04-17

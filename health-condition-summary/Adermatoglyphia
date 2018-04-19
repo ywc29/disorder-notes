@@ -1,0 +1,28 @@
+name: Adermatoglyphia
+ghr-page: https://ghr.nlm.nih.gov/condition/adermatoglyphia
+text/text-role: description
+text/html: <p>Adermatoglyphia is the absence of ridges on the skin on the pads of the fingers and toes, as well as on the palms of the hands and soles of the feet. The patterns of these ridges (called dermatoglyphs) form whorls, arches, and loops that are the basis for each person's unique fingerprints. Because no two people have the same patterns, fingerprints have long been used as a way to identify individuals. However, people with adermatoglyphia do not have these ridges, and so they cannot be identified by their fingerprints. Adermatoglyphia has been called the "immigration delay disease" because affected individuals have had difficulty entering countries that require fingerprinting for identification.</p><p>In some families, adermatoglyphia occurs without any related signs and symptoms. In others, a lack of dermatoglyphs is associated with other features, typically affecting the skin. These can include small white bumps called milia on the face, blistering of the skin in areas exposed to heat or friction, and a reduced number of sweat glands on the hands and feet. Adermatoglyphia is also a feature of several rare syndromes classified as ectodermal dysplasias, including a condition called Naegeli-Franceschetti-Jadassohn syndrome/dermatopathia pigmentosa reticularis that affects the skin, hair, sweat glands, and teeth.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: SMARCAD1
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/SMARCAD1
+synonym(1): absence of fingerprints
+synonym(2): ADERM
+synonym(3): ADG
+synonym(4): immigration delay disease
+db-key(1)/db: GTR
+db-key(1)/key: C1851080
+db-key(2)/db: MeSH
+db-key(2)/key: D003878
+db-key(3)/db: OMIM
+db-key(3)/key: 129200
+db-key(4)/db: OMIM
+db-key(4)/key: 136000
+db-key(5)/db: Orphanet
+db-key(5)/key: 1658
+db-key(6)/db: Orphanet
+db-key(6)/key: 289465
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 83145004
+reviewed: 2015-04
+published: 2018-04-17

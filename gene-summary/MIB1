@@ -1,0 +1,8 @@
+gene-symbol: MIB1
+name: mindbomb E3 ubiquitin protein ligase 1
+ghr-page: https://ghr.nlm.nih.gov/gene/MIB1
+related-health-condition/name: left ventricular noncompaction
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/left-ventricular-noncompaction
+db-key/db: NCBI Gene
+db-key/key: 57534
+published: 2018-04-17

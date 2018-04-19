@@ -1,0 +1,33 @@
+name: Lenz microphthalmia syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/lenz-microphthalmia-syndrome
+text/text-role: description
+text/html: <p>Lenz microphthalmia syndrome is a condition characterized by abnormal development of the eyes and several other parts of the body.  It occurs almost exclusively in males.</p><p>The eye abnormalities associated with Lenz microphthalmia syndrome can affect one or both eyes.  People with this condition are born with eyeballs that are abnormally small (microphthalmia) or absent (anophthalmia), leading to vision loss or blindness.  Other eye problems can include clouding of the lens (cataract), involuntary eye movements (nystagmus), a gap or split in structures that make up the eye (coloboma), and a higher risk of an eye disease called glaucoma.</p><p>Abnormalities of the ears, teeth, hands, skeleton, and urinary system are also frequently seen in Lenz microphthalmia syndrome. Less commonly, heart defects have been reported in affected individuals. Many people with this condition have delayed development or intellectual disability ranging from mild to severe.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene/gene-symbol: BCOR
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/BCOR
+synonym(1): Lenz dysmorphogenic syndrome
+synonym(2): Lenz dysplasia
+synonym(3): Lenz syndrome
+synonym(4): MAA
+synonym(5): MCOPS1
+synonym(6): microphthalmia or anophthalmos with associated anomalies
+synonym(7): microphthalmia, syndromic 1
+db-key(1)/db: GTR
+db-key(1)/key: C0796016
+db-key(2)/db: GeneReviews
+db-key(2)/key: lenz
+db-key(3)/db: MeSH
+db-key(3)/key: D000853
+db-key(4)/db: MeSH
+db-key(4)/key: D008850
+db-key(5)/db: MeSH
+db-key(5)/key: D015785
+db-key(6)/db: OMIM
+db-key(6)/key: 309800
+db-key(7)/db: Orphanet
+db-key(7)/key: 568
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 438504004
+reviewed: 2008-05
+published: 2018-04-17

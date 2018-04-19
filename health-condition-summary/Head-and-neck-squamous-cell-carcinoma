@@ -1,0 +1,41 @@
+name: Head and neck squamous cell carcinoma
+ghr-page: https://ghr.nlm.nih.gov/condition/head-and-neck-squamous-cell-carcinoma
+text/text-role: description
+text/html: <p>Squamous cell carcinoma is a cancer that arises from particular cells called squamous cells. Squamous cells are found in the outer layer of skin and in the mucous membranes, which are the moist tissues that line body cavities such as the airways and intestines. Head and neck squamous cell carcinoma (HNSCC) develops in the mucous membranes of the mouth, nose, and throat.</p><p>HNSCC is classified by its location: it can occur in the mouth (oral cavity), the middle part of the throat near the mouth (oropharynx), the space behind the nose (nasal cavity and paranasal sinuses), the upper part of the throat near the nasal cavity (nasopharynx), the voicebox (larynx), or the lower part of the throat near the larynx (hypopharynx). Depending on the location, the cancer can cause abnormal patches or open sores (ulcers) in the mouth and throat, unusual bleeding or pain in the mouth, sinus congestion that does not clear, sore throat, earache, pain when swallowing or difficulty swallowing, a hoarse voice, difficulty breathing, or enlarged lymph nodes.</p><p>HNSCC can spread (metastasize) to other parts of the body, such as the lymph nodes or lungs. If it spreads, the cancer has a worse prognosis and can be fatal. About half of affected individuals survive more than five years after diagnosis.</p>
+inheritance-pattern/code: n
+inheritance-pattern/memo: not inherited
+related-gene(1)/gene-symbol: CDKN2A
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CDKN2A
+related-gene(2)/gene-symbol: FAT1
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/FAT1
+related-gene(3)/gene-symbol: HRAS
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/HRAS
+related-gene(4)/gene-symbol: NOTCH1
+related-gene(4)/ghr-page: https://ghr.nlm.nih.gov/gene/NOTCH1
+related-gene(5)/gene-symbol: PIK3CA
+related-gene(5)/ghr-page: https://ghr.nlm.nih.gov/gene/PIK3CA
+related-gene(6)/gene-symbol: PTEN
+related-gene(6)/ghr-page: https://ghr.nlm.nih.gov/gene/PTEN
+related-gene(7)/gene-symbol: TP53
+related-gene(7)/ghr-page: https://ghr.nlm.nih.gov/gene/TP53
+synonym(1): HNSCC
+synonym(2): SCCHN
+synonym(3): squamous cell carcinoma of the head and neck
+db-key(1)/db: GTR
+db-key(1)/key: C1168401
+db-key(2)/db: MeSH
+db-key(2)/key: D002294
+db-key(3)/db: MeSH
+db-key(3)/key: D006258
+db-key(4)/db: OMIM
+db-key(4)/key: 275355
+db-key(5)/db: Orphanet
+db-key(5)/key: 67037
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 405822008
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 408649007
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 419842002
+reviewed: 2015-01
+published: 2018-04-17

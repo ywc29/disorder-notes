@@ -1,0 +1,30 @@
+name: Familial isolated hyperparathyroidism
+ghr-page: https://ghr.nlm.nih.gov/condition/familial-isolated-hyperparathyroidism
+text/text-role: description
+text/html: <p>Familial isolated hyperparathyroidism is an inherited condition characterized by overactivity of the parathyroid glands (hyperparathyroidism). The four parathyroid glands are located in the neck, and they release a hormone called parathyroid hormone that regulates the amount of calcium in the blood. In familial isolated hyperparathyroidism, one or more overactive parathyroid glands release excess parathyroid hormone, which causes the levels of calcium in the blood to rise (hypercalcemia). Parathyroid hormone stimulates the removal of calcium from bone and the absorption of calcium from the diet, and the mineral is then released into the bloodstream.</p><p>In people with familial isolated hyperparathyroidism, the production of excess parathyroid hormone is caused by tumors that involve the parathyroid glands. Typically only one of the four parathyroid glands is affected, but in some people, more than one gland develops a tumor. The tumors are usually noncancerous (benign), in which case they are called adenomas. Rarely, people with familial isolated hyperparathyroidism develop a cancerous tumor called parathyroid carcinoma. Because the production of excess parathyroid hormone is caused by abnormalities of the parathyroid glands, familial isolated hyperparathyroidism is considered a form of primary hyperparathyroidism.</p><p>Disruption of the normal calcium balance resulting from overactive parathyroid glands causes many of the common signs and symptoms of familial isolated hyperparathyroidism, such as kidney stones, nausea, vomiting, high blood pressure (hypertension), weakness, and fatigue. Because calcium is removed from bones to be released into the bloodstream, hyperparathyroidism often causes thinning of the bones (osteoporosis). The age at which familial isolated hyperparathyroidism is diagnosed varies from childhood to adulthood. Often, the first indication of the condition is elevated calcium levels identified through a routine blood test, even though the affected individual may not yet have signs or symptoms of hyperparathyroidism or hypercalcemia.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene(1)/gene-symbol: CASR
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/CASR
+related-gene(2)/gene-symbol: CDC73
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/CDC73
+related-gene(3)/gene-symbol: MEN1
+related-gene(3)/ghr-page: https://ghr.nlm.nih.gov/gene/MEN1
+synonym(1): FIHP
+synonym(2): hyperparathyroidism 1
+db-key(1)/db: GTR
+db-key(1)/key: C1840402
+db-key(2)/db: GeneReviews
+db-key(2)/key: hrpt2
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E21.0
+db-key(4)/db: MeSH
+db-key(4)/key: D049950
+db-key(5)/db: OMIM
+db-key(5)/key: 145000
+db-key(6)/db: Orphanet
+db-key(6)/key: 99879
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 237653008
+reviewed: 2012-08
+published: 2018-04-17

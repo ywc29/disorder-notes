@@ -1,0 +1,33 @@
+name: X-linked sideroblastic anemia
+ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-sideroblastic-anemia
+text/text-role: description
+text/html: <p>X-linked sideroblastic anemia is an inherited disorder that prevents developing red blood cells (erythroblasts) from making enough hemoglobin, which is the protein that carries oxygen in the blood. People with X-linked sideroblastic anemia have mature red blood cells that are smaller than normal (microcytic) and appear pale (hypochromic) because of the shortage of hemoglobin. This disorder also leads to an abnormal accumulation of iron in red blood cells. The iron-loaded erythroblasts, which are present in bone marrow, are called ring sideroblasts. These abnormal cells give the condition its name.</p><p>The signs and symptoms of X-linked sideroblastic anemia result from a combination of reduced hemoglobin and an overload of iron. They range from mild to severe and most often appear in young adulthood. Common features include fatigue, dizziness, a rapid heartbeat, pale skin, and an enlarged liver and spleen (hepatosplenomegaly). Over time, severe medical problems such as heart disease and liver damage (cirrhosis) can result from the buildup of excess iron in these organs.</p>
+inheritance-pattern/code: xr
+inheritance-pattern/memo: X-linked recessive
+related-gene(1)/gene-symbol: ALAS2
+related-gene(1)/ghr-page: https://ghr.nlm.nih.gov/gene/ALAS2
+related-gene(2)/gene-symbol: HFE
+related-gene(2)/ghr-page: https://ghr.nlm.nih.gov/gene/HFE
+synonym(1): Anemia, hereditary sideroblastic
+synonym(2): Anemia, sex-linked hypochromic sideroblastic
+synonym(3): ANH1
+synonym(4): Congenital sideroblastic anaemia
+synonym(5): Erythroid 5-aminolevulinate synthase deficiency
+synonym(6): Hereditary iron-loading anemia
+synonym(7): X chromosome-linked sideroblastic anemia
+synonym(8): X-linked pyridoxine-responsive sideroblastic anemia
+synonym(9): XLSA
+db-key(1)/db: GTR
+db-key(1)/key: C0221018
+db-key(2)/db: ICD-10-CM
+db-key(2)/key: D64.0
+db-key(3)/db: MeSH
+db-key(3)/key: D000756
+db-key(4)/db: OMIM
+db-key(4)/key: 300751
+db-key(5)/db: Orphanet
+db-key(5)/key: 1047
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 62677000
+reviewed: 2009-04
+published: 2018-04-17

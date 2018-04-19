@@ -1,0 +1,21 @@
+gene-symbol: PCNT
+name: pericentrin
+ghr-page: https://ghr.nlm.nih.gov/gene/PCNT
+text/text-role: function
+text/html: <p>The <i>PCNT</i> gene provides instructions for making a protein called pericentrin. Within cells, this protein is located in structures called centrosomes. Centrosomes play a role in cell division and the assembly of microtubules. Microtubules are fibers that help cells maintain their shape, assist in the process of cell division, and are essential for the transport of materials within cells.</p><p>Pericentrin acts as an anchoring protein, securing proteins to the centrosome that are necessary for its function. Through its interactions with these proteins, pericentrin is involved in the regulation of the cell cycle, which is the cell's way of replicating itself in an organized, step-by-step fashion.</p>
+related-health-condition(1)/name: microcephalic osteodysplastic primordial dwarfism type II
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/microcephalic-osteodysplastic-primordial-dwarfism-type-ii
+related-health-condition(2)/name: prostate cancer
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
+synonym(1): PCN
+synonym(2): PCNT2
+synonym(3): PCNT_HUMAN
+synonym(4): PCNTB
+synonym(5): pericentrin-2
+synonym(6): pericentrin B
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 5116
+db-key(2)/db: OMIM
+db-key(2)/key: 605925
+reviewed: 2011-01
+published: 2018-04-17

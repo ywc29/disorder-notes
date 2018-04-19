@@ -1,0 +1,8 @@
+gene-symbol: OLIG2
+name: oligodendrocyte transcription factor 2
+ghr-page: https://ghr.nlm.nih.gov/gene/OLIG2
+related-health-condition/name: schizophrenia
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/schizophrenia
+db-key/db: NCBI Gene
+db-key/key: 10215
+published: 2018-04-17

@@ -1,0 +1,10 @@
+gene-symbol: NODAL
+name: nodal growth differentiation factor
+ghr-page: https://ghr.nlm.nih.gov/gene/NODAL
+related-health-condition(1)/name: heterotaxy syndrome
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/heterotaxy-syndrome
+related-health-condition(2)/name: nonsyndromic holoprosencephaly
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-holoprosencephaly
+db-key/db: NCBI Gene
+db-key/key: 4838
+published: 2018-04-17

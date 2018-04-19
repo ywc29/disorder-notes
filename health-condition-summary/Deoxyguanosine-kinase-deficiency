@@ -1,0 +1,25 @@
+name: Deoxyguanosine kinase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/deoxyguanosine-kinase-deficiency
+text/text-role: description
+text/html: <p>Deoxyguanosine kinase deficiency is an inherited disorder that can cause liver disease and neurological problems. Researchers have described two forms of this disorder. The majority of affected individuals have the more severe form, which is called hepatocerebral because of the serious problems it causes in the liver and brain.</p><p>Newborns with the hepatocerebral form of deoxyguanosine kinase deficiency may  have a buildup of lactic acid in the body (lactic acidosis) within the first few days after birth. They may also have weakness, behavior changes such as poor feeding and decreased activity, and vomiting. Affected newborns sometimes have low blood sugar (hypoglycemia) as a result of liver dysfunction. During the first few weeks of life they begin showing other signs of liver disease which may result in liver failure. They also develop progressive neurological problems including very weak muscle tone (severe hypotonia), abnormal eye movements (nystagmus) and the loss of skills they had previously acquired (developmental regression). Children with this form of the disorder usually do not survive past the age of 2 years.</p><p>Some individuals with deoxyguanosine kinase deficiency have a milder form of the disorder without severe neurological problems. Liver disease is the primary symptom of this form of the disorder, generally becoming evident during infancy or childhood. Occasionally it first appears after an illness such as a viral infection. Affected individuals may also develop kidney problems. Mild hypotonia is the only neurological effect associated with this form of the disorder.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: DGUOK
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/DGUOK
+synonym(1): DGUOK-related mitochondrial DNA depletion syndrome
+synonym(2): hepatocerebral mitochondrial DNA depletion syndrome
+synonym(3): mitochondrial DNA depletion syndrome, hepatocerebral form
+db-key(1)/db: GTR
+db-key(1)/key: C3151513
+db-key(2)/db: GeneReviews
+db-key(2)/key: dguok-mtddepl
+db-key(3)/db: MeSH
+db-key(3)/key: D028361
+db-key(4)/db: OMIM
+db-key(4)/key: 251880
+db-key(5)/db: Orphanet
+db-key(5)/key: 35698
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 237995002
+reviewed: 2009-12
+published: 2018-04-17

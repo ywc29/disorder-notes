@@ -1,0 +1,32 @@
+name: Adenine phosphoribosyltransferase deficiency
+ghr-page: https://ghr.nlm.nih.gov/condition/adenine-phosphoribosyltransferase-deficiency
+text/text-role: description
+text/html: <p>Adenine phosphoribosyltransferase (APRT) deficiency is an inherited condition that affects the kidneys and urinary tract. The most common feature of this condition is recurrent kidney stones; urinary tract stones are also a frequent symptom. Kidney and urinary tract stones can create blockages in the urinary tract, causing pain during urination and difficulty releasing urine.</p><p>Affected individuals can develop features of this condition anytime from infancy to late adulthood. When the condition appears in infancy, the first sign is usually the presence of tiny grains of reddish-brown material in the baby's diaper caused by the passing of stones. Later, recurrent kidney and urinary tract stones can lead to problems with kidney function beginning as early as mid- to late childhood. Approximately half of individuals with APRT deficiency first experience signs and symptoms of the condition in adulthood. The first features in affected adults are usually kidney stones and related urinary problems. Other signs and symptoms of APRT deficiency caused by kidney and urinary tract stones include fever, urinary tract infection, blood in the urine (hematuria), abdominal cramps, nausea, and vomiting.</p><p>Without treatment, kidney function can decline, which may lead to end-stage renal disease (ESRD). ESRD is a life-threatening failure of kidney function that occurs when the kidneys are no longer able to filter fluids and waste products from the body effectively.</p><p>The features of this condition and their severity vary greatly among affected individuals, even among members of the same family. It is estimated that 15 to 20 percent of people with APRT deficiency do not have any signs or symptoms of the condition.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: APRT
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/APRT
+synonym(1): 2,8-dihydroxyadenine urolithiasis
+synonym(2): 2,8-dihydroxyadeninuria
+synonym(3): APRT deficiency
+synonym(4): DHA crystalline nephropathy
+db-key(1)/db: GTR
+db-key(1)/key: C0268120
+db-key(2)/db: GeneReviews
+db-key(2)/key: aprt-def
+db-key(3)/db: MeSH
+db-key(3)/key: D011686
+db-key(4)/db: OMIM
+db-key(4)/key: 614723
+db-key(5)/db: Orphanet
+db-key(5)/key: 976
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 124274002
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 238009001
+db-key(8)/db: SNOMED CT
+db-key(8)/key: 238010006
+db-key(9)/db: SNOMED CT
+db-key(9)/key: 65791008
+reviewed: 2012-10
+published: 2018-04-17

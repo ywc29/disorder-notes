@@ -1,0 +1,29 @@
+name: Mitochondrial membrane protein-associated neurodegeneration
+ghr-page: https://ghr.nlm.nih.gov/condition/mitochondrial-membrane-protein-associated-neurodegeneration
+text/text-role: description
+text/html: <p>Mitochondrial membrane protein-associated neurodegeneration (MPAN) is a disorder of the nervous system. The condition typically begins in childhood or early adulthood and worsens (progresses) over time.</p><p>MPAN commonly begins with difficulty walking. As the condition progresses, affected individuals usually develop other movement problems, including muscle stiffness (spasticity) and involuntary muscle cramping (dystonia). Many people with MPAN have a pattern of movement abnormalities known as parkinsonism. These abnormalities include unusually slow movement (bradykinesia), muscle rigidity, involuntary trembling (tremors), and an inability to hold the body upright and balanced (postural instability).</p><p>Other neurological problems that occur in individuals with MPAN include degeneration of the nerve cells that carry visual information from the eyes to the brain (optic atrophy), which can impair vision; problems with speech (dysarthria); difficulty swallowing (dysphagia); and, in later stages of the condition, an inability to control the bowels or the flow of urine (incontinence). Additionally, affected individuals may experience a loss of intellectual function (dementia) and psychiatric symptoms such as behavioral problems, mood swings, hyperactivity, and depression.</p><p>MPAN is characterized by an abnormal buildup of iron in certain regions of the brain. Because of these deposits, MPAN is considered part of a group of conditions known as neurodegeneration with brain iron accumulation (NBIA).</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: C19orf12
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/C19orf12
+synonym(1): mitochondrial membrane protein-associated neurodegeneration due to C19orf12 mutation
+synonym(2): mitochondrial protein-associated neurodegeneration
+synonym(3): MPAN
+synonym(4): NBIA4
+synonym(5): neurodegeneration with brain iron accumulation 4
+db-key(1)/db: GTR
+db-key(1)/key: C3280371
+db-key(2)/db: GeneReviews
+db-key(2)/key: mt-mpan
+db-key(3)/db: GeneReviews
+db-key(3)/key: nbia-ov
+db-key(4)/db: MeSH
+db-key(4)/key: D019150
+db-key(5)/db: OMIM
+db-key(5)/key: 614298
+db-key(6)/db: Orphanet
+db-key(6)/key: 289560
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 709415008
+reviewed: 2017-01
+published: 2018-04-17

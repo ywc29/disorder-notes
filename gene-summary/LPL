@@ -1,0 +1,20 @@
+gene-symbol: LPL
+name: lipoprotein lipase
+ghr-page: https://ghr.nlm.nih.gov/gene/LPL
+text/text-role: function
+text/html: <p>The <i>LPL</i> gene provides instructions for making an enzyme called lipoprotein lipase. This enzyme is found primarily on the surface of cells that line tiny blood vessels (capillaries) within muscles and in fatty (adipose) tissue. Lipoprotein lipase plays a critical role in breaking down fat in the form of triglycerides, which are carried from various organs to the blood by molecules called lipoproteins.</p><p>Lipoprotein lipase breaks down triglycerides carried by two different types of lipoproteins, which bring fat to the bloodstream from different organs. Fat from the intestine, which is taken in from the diet, is transported to the bloodstream by lipoproteins called chylomicrons. Another type of lipoprotein called very low density lipoprotein (VLDL) carries triglycerides from the liver to the bloodstream. When lipoprotein lipase breaks down triglycerides, the fat molecules are used by the body as energy or stored in fatty tissue for later use.</p>
+related-health-condition/name: familial lipoprotein lipase deficiency
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-lipoprotein-lipase-deficiency
+synonym(1): clearing factor lipase
+synonym(2): diacylglycerol lipase
+synonym(3): LIPD
+synonym(4): postheparin lipase
+synonym(5): triacylglycerol protein acylhydrolase
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4023
+db-key(2)/db: OMIM
+db-key(2)/key: 144250
+db-key(3)/db: OMIM
+db-key(3)/key: 609708
+reviewed: 2015-02
+published: 2018-04-17

@@ -1,0 +1,25 @@
+name: Laing distal myopathy
+ghr-page: https://ghr.nlm.nih.gov/condition/laing-distal-myopathy
+text/text-role: description
+text/html: <p>Laing distal myopathy is a condition that affects skeletal muscles, which are muscles that the body uses for movement.  This disorder causes progressive muscle weakness that appears in childhood.  The first sign of Laing distal myopathy is usually weakness in certain muscles in the feet and ankles.  This weakness leads to tightening of the Achilles tendon (the band that connects the heel of the foot to the calf muscles), an inability to lift the first (big) toe, and a high-stepping walk.   Months to years later, muscle weakness develops in the hands and wrists.  Weakness in these muscles makes it difficult to lift the fingers, particularly the third and fourth fingers.  Many affected people also experience hand tremors.</p><p>In addition to muscle weakness in the hands and feet, Laing distal myopathy causes weakness in several muscles of the neck and face.  A decade or more after the onset of symptoms, mild weakness also spreads to muscles in the legs, hips, and shoulders.  Laing distal myopathy progresses very gradually, and most affected people remain mobile throughout life.  Life expectancy is normal in people with this condition.</p>
+inheritance-pattern/code: ad
+inheritance-pattern/memo: autosomal dominant
+related-gene/gene-symbol: MYH7
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/MYH7
+synonym(1): distal myopathy 1
+synonym(2): Laing early-onset distal myopathy
+synonym(3): MPD1
+db-key(1)/db: GTR
+db-key(1)/key: CN074249
+db-key(2)/db: GeneReviews
+db-key(2)/key: mpd1
+db-key(3)/db: MeSH
+db-key(3)/key: D049310
+db-key(4)/db: OMIM
+db-key(4)/key: 160500
+db-key(5)/db: Orphanet
+db-key(5)/key: 59135
+db-key(6)/db: SNOMED CT
+db-key(6)/key: 193230001
+reviewed: 2016-12
+published: 2018-04-17

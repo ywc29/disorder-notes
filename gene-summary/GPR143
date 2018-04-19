@@ -1,0 +1,17 @@
+gene-symbol: GPR143
+name: G protein-coupled receptor 143
+ghr-page: https://ghr.nlm.nih.gov/gene/GPR143
+text/text-role: function
+text/html: <p>The <i>GPR143</i> gene, also known as <i>OA1</i>, provides instructions for making a protein that is involved in the coloring (pigmentation) of the eyes and skin. This protein is made in the light-sensitive tissue at the back of the eye (the retina) and in skin cells.  The GPR143 protein is part of a signaling pathway that controls the growth and maturation of melanosomes, which are cellular structures that produce and store a pigment called melanin. Melanin is the substance that gives skin, hair, and eyes their color. In the retina, this pigment also plays a critical role in normal vision.</p>
+related-health-condition/name: ocular albinism
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ocular-albinism
+synonym(1): GP143_HUMAN
+synonym(2): OA1
+synonym(3): ocular albinism 1 (Nettleship-Falls)
+synonym(4): ocular albinism type 1 protein
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4935
+db-key(2)/db: OMIM
+db-key(2)/key: 300808
+reviewed: 2007-07
+published: 2018-04-17

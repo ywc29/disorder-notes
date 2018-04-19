@@ -1,0 +1,35 @@
+name: Costeff syndrome
+ghr-page: https://ghr.nlm.nih.gov/condition/costeff-syndrome
+text/text-role: description
+text/html: <p>Costeff syndrome is a condition characterized by vision loss, movement problems, and intellectual disability. People with Costeff syndrome have degeneration (atrophy) of the optic nerves, which carry information from the eyes to the brain. This optic nerve atrophy often begins in infancy or early childhood and results in vision loss that worsens over time. Some affected individuals have rapid and involuntary eye movements (nystagmus) or eyes that do not look in the same direction (strabismus).</p><p>Movement problems in people with Costeff syndrome develop in late childhood and include muscle stiffness (spasticity), impaired muscle coordination (ataxia), and involuntary jerking movements (choreiform movements). As a result of these movement difficulties, individuals with Costeff syndrome may require wheelchair assistance.</p><p>While some people with Costeff syndrome have intellectual disability that ranges from mild to moderate, many people with this condition have normal intelligence.</p><p>Costeff syndrome is associated with increased levels of a substance called 3-methylglutaconic acid in the urine. The amount of the acid does not appear to influence the signs and symptoms of the condition. Costeff syndrome is one of a group of metabolic disorders that can be diagnosed by the presence of increased levels of 3-methylglutaconic acid in urine (3-methylglutaconic aciduria). People with Costeff syndrome also have high urine levels of another acid called 3-methylglutaric acid.</p>
+inheritance-pattern/code: ar
+inheritance-pattern/memo: autosomal recessive
+related-gene/gene-symbol: OPA3
+related-gene/ghr-page: https://ghr.nlm.nih.gov/gene/OPA3
+synonym(1): 3-methylglutaconic aciduria type 3
+synonym(2): 3-methylglutaconic aciduria type III
+synonym(3): autosomal recessive OPA3
+synonym(4): autosomal recessive optic atrophy 3
+synonym(5): Costeff optic atrophy syndrome
+synonym(6): infantile optic atrophy with chorea and spastic paraplegia
+synonym(7): Iraqi Jewish optic atrophy plus
+synonym(8): MGA, type III
+synonym(9): MGA3
+synonym(10): OPA3 defect
+synonym(11): optic atrophy plus syndrome
+db-key(1)/db: GTR
+db-key(1)/key: C0574084
+db-key(2)/db: GeneReviews
+db-key(2)/key: mga3
+db-key(3)/db: ICD-10-CM
+db-key(3)/key: E71.111
+db-key(4)/db: MeSH
+db-key(4)/key: D008661
+db-key(5)/db: OMIM
+db-key(5)/key: 258501
+db-key(6)/db: Orphanet
+db-key(6)/key: 67047
+db-key(7)/db: SNOMED CT
+db-key(7)/key: 297232009
+reviewed: 2014-07
+published: 2018-04-17

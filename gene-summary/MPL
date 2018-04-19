@@ -1,0 +1,26 @@
+gene-symbol: MPL
+name: MPL proto-oncogene, thrombopoietin receptor
+ghr-page: https://ghr.nlm.nih.gov/gene/MPL
+text/text-role: function
+text/html: <p>The <i>MPL</i> gene provides instructions for making the thrombopoietin receptor protein, which promotes the growth and division (proliferation) of cells. This receptor is especially important for the proliferation of certain blood cells called megakaryocytes, which produce platelets, the cell fragments involved in blood clotting. Research suggests that the thrombopoietin receptor may also play a role in the maintenance of hematopoietic stem cells, which are stem cells located within the bone marrow that have the potential to develop into red blood cells, white blood cells, and platelets.</p><p>The thrombopoietin receptor is turned on (activated) when a protein called thrombopoietin attaches (binds) to it. The activated thrombopoietin receptor stimulates a signaling pathway called the JAK/STAT pathway, which transmits chemical signals from outside the cell to the cell's nucleus and is important for controlling the production of blood cells.</p>
+related-health-condition(1)/name: essential thrombocythemia
+related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/essential-thrombocythemia
+related-health-condition(2)/name: primary myelofibrosis
+related-health-condition(2)/ghr-page: https://ghr.nlm.nih.gov/condition/primary-myelofibrosis
+synonym(1): C-MPL
+synonym(2): CD110
+synonym(3): MPLV
+synonym(4): myeloproliferative leukemia protein
+synonym(5): myeloproliferative leukemia virus oncogene
+synonym(6): proto-oncogene c-Mpl
+synonym(7): thrombopoietin receptor
+synonym(8): thrombopoietin receptor precursor
+synonym(9): TPO-R
+synonym(10): TPOR
+synonym(11): TPOR_HUMAN
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 4352
+db-key(2)/db: OMIM
+db-key(2)/key: 159530
+reviewed: 2014-09
+published: 2018-04-17

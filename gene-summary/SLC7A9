@@ -1,0 +1,19 @@
+gene-symbol: SLC7A9
+name: solute carrier family 7 member 9
+ghr-page: https://ghr.nlm.nih.gov/gene/SLC7A9
+text/text-role: function
+text/html: <p>The <i>SLC7A9</i> gene provides instructions for producing one part (subunit) of a protein made primarily in the kidneys.  This subunit joins with another protein subunit, produced from the <i>SLC3A1</i> gene, to form a transporter protein complex. During the process of urine formation in the kidneys, this protein complex absorbs particular protein building blocks (amino acids) back into the blood.  In particular, the amino acids cystine, ornithine, arginine, and lysine are absorbed back into the blood through this mechanism.</p>
+related-health-condition/name: cystinuria
+related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cystinuria
+synonym(1): b0,+AT
+synonym(2): BAT1_HUMAN
+synonym(3): CSNU3
+synonym(4): solute carrier family 7 (amino acid transporter light chain, bo,+ system), member 9
+synonym(5): solute carrier family 7 (glycoprotein-associated amino acid transporter light chain, bo,+ system), member 9
+synonym(6): solute carrier family 7, member 9
+db-key(1)/db: NCBI Gene
+db-key(1)/key: 11136
+db-key(2)/db: OMIM
+db-key(2)/key: 604144
+reviewed: 2009-01
+published: 2018-04-17
