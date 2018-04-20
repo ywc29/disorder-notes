@@ -2,7 +2,7 @@ gene-symbol: CHM
 name: CHM, Rab escort protein 1
 ghr-page: https://ghr.nlm.nih.gov/gene/CHM
 text/text-role: function
-text/html: <p>The <i>CHM</i> gene provides instructions for producing the Rab escort protein-1 (REP-1), which is active (expressed) throughout the body.  As an escort protein, REP-1 attaches (binds) to one of a number of Rab proteins.  Following a chemical modification, REP-1 then directs the Rab protein to the membrane of one of the cell's compartments (organelles).  While attached to the membrane, the Rab protein plays a role in directing the movement of proteins and organelles within cells (intracellular trafficking).  After the Rab protein has reached its destination, it is released by REP-1 which then attaches to another Rab protein to begin the process again.</p>
+text/html/html:p: The <i>CHM</i> gene provides instructions for producing the Rab escort protein-1 (REP-1), which is active (expressed) throughout the body.  As an escort protein, REP-1 attaches (binds) to one of a number of Rab proteins.  Following a chemical modification, REP-1 then directs the Rab protein to the membrane of one of the cell's compartments (organelles).  While attached to the membrane, the Rab protein plays a role in directing the movement of proteins and organelles within cells (intracellular trafficking).  After the Rab protein has reached its destination, it is released by REP-1 which then attaches to another Rab protein to begin the process again.
 related-health-condition/name: choroideremia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/choroideremia
 synonym(1): choroideremia

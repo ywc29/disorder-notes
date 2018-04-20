@@ -2,7 +2,9 @@ gene-symbol: COL3A1
 name: collagen type III alpha 1 chain
 ghr-page: https://ghr.nlm.nih.gov/gene/COL3A1
 text/text-role: function
-text/html: <p>The <i>COL3A1</i> gene provides instructions for making type III collagen. Collagens are a family of proteins that strengthen and support many tissues in the body. Type III collagen is found in the skin, lungs, intestinal walls, and the walls of blood vessels.</p><p>The components of type III collagen, called pro-α1(III) chains, are produced from the <i>COL3A1</i> gene. Each molecule of type III procollagen is made up of three copies of this chain.</p><p>The triple-stranded, rope-like procollagen molecules are processed by enzymes outside the cell to create mature type III collagen. The collagen molecules then arrange themselves into long, thin fibrils that form stable interactions (cross-links) with one another and with other types of collagen in the spaces between cells. The cross-links result in the formation of very strong collagen fibers.</p>
+text/html/html:p(1): The <i>COL3A1</i> gene provides instructions for making type III collagen. Collagens are a family of proteins that strengthen and support many tissues in the body. Type III collagen is found in the skin, lungs, intestinal walls, and the walls of blood vessels.
+text/html/html:p(2): The components of type III collagen, called pro-α1(III) chains, are produced from the <i>COL3A1</i> gene. Each molecule of type III procollagen is made up of three copies of this chain.
+text/html/html:p(3): The triple-stranded, rope-like procollagen molecules are processed by enzymes outside the cell to create mature type III collagen. The collagen molecules then arrange themselves into long, thin fibrils that form stable interactions (cross-links) with one another and with other types of collagen in the spaces between cells. The cross-links result in the formation of very strong collagen fibers.
 related-health-condition/name: Ehlers-Danlos syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ehlers-danlos-syndrome
 synonym(1): alpha 1 type III collagen

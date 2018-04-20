@@ -2,7 +2,7 @@ gene-symbol: STK11
 name: serine/threonine kinase 11
 ghr-page: https://ghr.nlm.nih.gov/gene/STK11
 text/text-role: function
-text/html: <p>The <i>STK11</i> gene (also called <i>LKB1</i>) provides instructions for making an enzyme called serine/threonine kinase 11. This enzyme is a tumor suppressor, which means that it helps keep cells from growing and dividing too fast or in an uncontrolled way. This enzyme helps certain types of cells correctly orient themselves within tissues (polarization) and assists in determining the amount of energy a cell uses. This kinase also promotes a type of programmed cell death known as apoptosis. In addition to its role as a tumor suppressor, serine/threonine kinase 11 function appears to be required for normal development before birth.</p>
+text/html/html:p: The <i>STK11</i> gene (also called <i>LKB1</i>) provides instructions for making an enzyme called serine/threonine kinase 11. This enzyme is a tumor suppressor, which means that it helps keep cells from growing and dividing too fast or in an uncontrolled way. This enzyme helps certain types of cells correctly orient themselves within tissues (polarization) and assists in determining the amount of energy a cell uses. This kinase also promotes a type of programmed cell death known as apoptosis. In addition to its role as a tumor suppressor, serine/threonine kinase 11 function appears to be required for normal development before birth.
 related-health-condition(1)/name: breast cancer
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
 related-health-condition(2)/name: lung cancer

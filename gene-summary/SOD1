@@ -2,7 +2,7 @@ gene-symbol: SOD1
 name: superoxide dismutase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/SOD1
 text/text-role: function
-text/html: <p>The <i>SOD1</i> gene provides instructions for making an enzyme called superoxide dismutase, which is abundant in cells throughout the body. This enzyme attaches (binds) to molecules of copper and zinc to break down toxic, charged oxygen molecules called superoxide radicals. The molecules are byproducts of normal cell processes, and they must be broken down regularly to avoid damaging cells.</p>
+text/html/html:p: The <i>SOD1</i> gene provides instructions for making an enzyme called superoxide dismutase, which is abundant in cells throughout the body. This enzyme attaches (binds) to molecules of copper and zinc to break down toxic, charged oxygen molecules called superoxide radicals. The molecules are byproducts of normal cell processes, and they must be broken down regularly to avoid damaging cells.
 related-health-condition/name: amyotrophic lateral sclerosis
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
 synonym(1): ALS1

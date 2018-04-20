@@ -2,7 +2,7 @@ gene-symbol: HJV
 name: hemojuvelin BMP co-receptor
 ghr-page: https://ghr.nlm.nih.gov/gene/HJV
 text/text-role: function
-text/html: <p>The <i>HJV</i> gene provides instructions for making a protein called hemojuvelin.  This protein is made in the liver, heart, and muscles used for movement (skeletal muscles). Researchers recently discovered that hemojuvelin plays a role in maintaining iron balance in the body. Although its exact function is unclear, hemojuvelin appears to regulate the levels of another protein called hepcidin.  Hepcidin also plays a key role in maintaining proper iron levels in the body.</p>
+text/html/html:p: The <i>HJV</i> gene provides instructions for making a protein called hemojuvelin.  This protein is made in the liver, heart, and muscles used for movement (skeletal muscles). Researchers recently discovered that hemojuvelin plays a role in maintaining iron balance in the body. Although its exact function is unclear, hemojuvelin appears to regulate the levels of another protein called hepcidin.  Hepcidin also plays a key role in maintaining proper iron levels in the body.
 related-health-condition/name: hereditary hemochromatosis
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hemochromatosis
 synonym(1): hemochromatosis type 2 (juvenile)

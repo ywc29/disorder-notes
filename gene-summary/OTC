@@ -2,7 +2,8 @@ gene-symbol: OTC
 name: ornithine carbamoyltransferase
 ghr-page: https://ghr.nlm.nih.gov/gene/OTC
 text/text-role: function
-text/html: <p>The <i>OTC</i> gene provides instructions for making the enzyme ornithine transcarbamylase. This enzyme participates in the urea cycle, a series of reactions that occurs in liver cells. The urea cycle processes excess nitrogen, generated when protein is used by the body, into a compound called urea that is excreted by the kidneys. Excreting the excess nitrogen prevents it from accumulating in the form of ammonia, which is toxic, especially to the nervous system.</p><p>The specific role of the ornithine transcarbamylase enzyme is to control the reaction in which two compounds, carbamoyl phosphate and ornithine, form a new compound called citrulline.</p>
+text/html/html:p(1): The <i>OTC</i> gene provides instructions for making the enzyme ornithine transcarbamylase. This enzyme participates in the urea cycle, a series of reactions that occurs in liver cells. The urea cycle processes excess nitrogen, generated when protein is used by the body, into a compound called urea that is excreted by the kidneys. Excreting the excess nitrogen prevents it from accumulating in the form of ammonia, which is toxic, especially to the nervous system.
+text/html/html:p(2): The specific role of the ornithine transcarbamylase enzyme is to control the reaction in which two compounds, carbamoyl phosphate and ornithine, form a new compound called citrulline.
 related-health-condition/name: ornithine transcarbamylase deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ornithine-transcarbamylase-deficiency
 synonym(1): MGC129967

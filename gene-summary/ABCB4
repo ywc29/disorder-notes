@@ -2,7 +2,7 @@ gene-symbol: ABCB4
 name: ATP binding cassette subfamily B member 4
 ghr-page: https://ghr.nlm.nih.gov/gene/ABCB4
 text/text-role: function
-text/html: <p>The <i>ABCB4</i> gene (also known as <i>MDR3</i>) provides instructions for making a protein that helps move certain fats called phospholipids across the membranes of liver cells and release the phospholipids into a digestive fluid called bile. Outside the liver cells, phospholipids attach (bind) to bile acids, which are a component of bile that digest fats.  Large amounts of bile acids are potentially harmful to cells; when they are bound to phospholipids, bile acids are less toxic.</p>
+text/html/html:p: The <i>ABCB4</i> gene (also known as <i>MDR3</i>) provides instructions for making a protein that helps move certain fats called phospholipids across the membranes of liver cells and release the phospholipids into a digestive fluid called bile. Outside the liver cells, phospholipids attach (bind) to bile acids, which are a component of bile that digest fats.  Large amounts of bile acids are potentially harmful to cells; when they are bound to phospholipids, bile acids are less toxic.
 related-health-condition(1)/name: intrahepatic cholestasis of pregnancy
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/intrahepatic-cholestasis-of-pregnancy
 related-health-condition(2)/name: progressive familial intrahepatic cholestasis

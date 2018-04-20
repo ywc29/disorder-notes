@@ -2,7 +2,7 @@ gene-symbol: ABCA4
 name: ATP binding cassette subfamily A member 4
 ghr-page: https://ghr.nlm.nih.gov/gene/ABCA4
 text/text-role: function
-text/html: <p>The <i>ABCA4</i> gene provides instructions for making a protein that is found in the retina, the specialized light-sensitive tissue that lines the back of the eye. Specifically, the ABCA4 protein is produced in the retina's light receptor cells (photoreceptors). The ABCA4 protein is active following phototransduction, the process by which light entering the eye is converted into electrical signals that are transmitted to the brain. Phototransduction leads to the formation of potentially toxic substances that can damage photoreceptor cells. The ABCA4 protein removes one of these substances, called N-retinylidene-PE, from photoreceptor cells.</p>
+text/html/html:p: The <i>ABCA4</i> gene provides instructions for making a protein that is found in the retina, the specialized light-sensitive tissue that lines the back of the eye. Specifically, the ABCA4 protein is produced in the retina's light receptor cells (photoreceptors). The ABCA4 protein is active following phototransduction, the process by which light entering the eye is converted into electrical signals that are transmitted to the brain. Phototransduction leads to the formation of potentially toxic substances that can damage photoreceptor cells. The ABCA4 protein removes one of these substances, called N-retinylidene-PE, from photoreceptor cells.
 related-health-condition(1)/name: age-related macular degeneration
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
 related-health-condition(2)/name: cone-rod dystrophy

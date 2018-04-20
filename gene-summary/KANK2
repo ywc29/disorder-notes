@@ -2,7 +2,8 @@ gene-symbol: KANK2
 name: KN motif and ankyrin repeat domains 2
 ghr-page: https://ghr.nlm.nih.gov/gene/KANK2
 text/text-role: function
-text/html: <p>The <i>KANK2</i> gene provides instructions for making a protein called SRC-interacting protein (SIP). SIP regulates proteins called steroid receptor coactivators (SRCs), which play critical roles in turning on (activating) certain genes. Within cells, SIP attaches (binds) to SRCs in the fluid surrounding the nucleus (the cytoplasm). By holding SRCs in the cytoplasm, SIP prevents these proteins from entering the nucleus to activate genes. In this way, SIP helps to control gene activity.</p><p>SIP is found in many organs and tissues, including the skin and kidneys. Little is known about its specific roles in various parts of the body.</p>
+text/html/html:p(1): The <i>KANK2</i> gene provides instructions for making a protein called SRC-interacting protein (SIP). SIP regulates proteins called steroid receptor coactivators (SRCs), which play critical roles in turning on (activating) certain genes. Within cells, SIP attaches (binds) to SRCs in the fluid surrounding the nucleus (the cytoplasm). By holding SRCs in the cytoplasm, SIP prevents these proteins from entering the nucleus to activate genes. In this way, SIP helps to control gene activity.
+text/html/html:p(2): SIP is found in many organs and tissues, including the skin and kidneys. Little is known about its specific roles in various parts of the body.
 related-health-condition/name: keratoderma with woolly hair
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/keratoderma-with-woolly-hair
 synonym(1): ANKRD25

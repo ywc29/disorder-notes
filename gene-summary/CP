@@ -2,7 +2,8 @@ gene-symbol: CP
 name: ceruloplasmin
 ghr-page: https://ghr.nlm.nih.gov/gene/CP
 text/text-role: function
-text/html: <p>The <i>CP</i> gene provides instructions for making a protein called ceruloplasmin. Ceruloplasmin helps move iron from the organs and tissues of the body into the blood. This protein prepares iron for incorporation into a molecule called transferrin, which transports the iron to red blood cells.</p><p>There are two forms of ceruloplasmin. One form, serum ceruloplasmin, is made primarily in the liver. It is involved in transporting iron from most of the body, but is unable to enter the brain. The other form of ceruloplasmin, called the glycosylphosphatidylinositol (GPI)-anchored form, is important for processing iron in the brain and releasing it from brain tissue. This form of ceruloplasmin is made in nervous system cells called glia, which protect and maintain nerve cells (neurons).</p>
+text/html/html:p(1): The <i>CP</i> gene provides instructions for making a protein called ceruloplasmin. Ceruloplasmin helps move iron from the organs and tissues of the body into the blood. This protein prepares iron for incorporation into a molecule called transferrin, which transports the iron to red blood cells.
+text/html/html:p(2): There are two forms of ceruloplasmin. One form, serum ceruloplasmin, is made primarily in the liver. It is involved in transporting iron from most of the body, but is unable to enter the brain. The other form of ceruloplasmin, called the glycosylphosphatidylinositol (GPI)-anchored form, is important for processing iron in the brain and releasing it from brain tissue. This form of ceruloplasmin is made in nervous system cells called glia, which protect and maintain nerve cells (neurons).
 related-health-condition/name: aceruloplasminemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/aceruloplasminemia
 synonym(1): CERU_HUMAN

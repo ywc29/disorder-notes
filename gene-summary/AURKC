@@ -2,7 +2,7 @@ gene-symbol: AURKC
 name: aurora kinase C
 ghr-page: https://ghr.nlm.nih.gov/gene/AURKC
 text/text-role: function
-text/html: <p>The <i>AURKC</i> gene provides instructions for making a protein called aurora kinase C. This protein regulates certain events during cell division. Cell division occurs when a cell replicates and splits its contents, separating into two new cells. Aurora kinase C helps the two dividing cells separate from each other and ensures that these cells each contain a complete set of chromosomes. Aurora kinase C is most abundant in male testes, which are the male reproductive organs in which sperm are produced and stored. In the testes, this protein regulates the division of sperm cells, ensuring that every new sperm cell divides properly and contains one copy of each chromosome.</p>
+text/html/html:p: The <i>AURKC</i> gene provides instructions for making a protein called aurora kinase C. This protein regulates certain events during cell division. Cell division occurs when a cell replicates and splits its contents, separating into two new cells. Aurora kinase C helps the two dividing cells separate from each other and ensures that these cells each contain a complete set of chromosomes. Aurora kinase C is most abundant in male testes, which are the male reproductive organs in which sperm are produced and stored. In the testes, this protein regulates the division of sperm cells, ensuring that every new sperm cell divides properly and contains one copy of each chromosome.
 related-health-condition/name: macrozoospermia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/macrozoospermia
 synonym(1): AIK3

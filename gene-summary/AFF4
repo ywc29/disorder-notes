@@ -2,7 +2,7 @@ gene-symbol: AFF4
 name: AF4/FMR2 family member 4
 ghr-page: https://ghr.nlm.nih.gov/gene/AFF4
 text/text-role: function
-text/html: <p>The <i>AFF4</i> gene provides instructions for making part of a protein complex called the super elongation complex (SEC). During embryonic development, the SEC is involved in an activity called transcription, which is the first step in the production of proteins from genes. By re-starting the transcription of certain genes after pauses that normally occur during the process, the SEC helps ensure that development proceeds appropriately before birth.</p>
+text/html/html:p: The <i>AFF4</i> gene provides instructions for making part of a protein complex called the super elongation complex (SEC). During embryonic development, the SEC is involved in an activity called transcription, which is the first step in the production of proteins from genes. By re-starting the transcription of certain genes after pauses that normally occur during the process, the SEC helps ensure that development proceeds appropriately before birth.
 related-health-condition/name: CHOPS syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/chops-syndrome
 synonym(1): AF4/FMR2 family, member 4

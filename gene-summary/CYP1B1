@@ -2,7 +2,8 @@ gene-symbol: CYP1B1
 name: cytochrome P450 family 1 subfamily B member 1
 ghr-page: https://ghr.nlm.nih.gov/gene/CYP1B1
 text/text-role: function
-text/html: <p>The <i>CYP1B1</i> gene provides instructions for producing an enzyme that is a member of the cytochrome P450 family of enzymes. These enzymes are involved in many processes in the body, such as assisting with reactions that break down drugs and produce certain fats (lipids). The CYP1B1 enzyme participates in biochemical reactions in which an oxygen atom is added to other molecules.</p><p>The CYP1B1 enzyme is active in many tissues, including structures of the eye. The function of the CYP1B1 enzyme in the development of the eye is unclear, but it may play a role in forming structures at the front of the eye and may also be involved in a process that regulates the secretion of fluid inside the eye.</p>
+text/html/html:p(1): The <i>CYP1B1</i> gene provides instructions for producing an enzyme that is a member of the cytochrome P450 family of enzymes. These enzymes are involved in many processes in the body, such as assisting with reactions that break down drugs and produce certain fats (lipids). The CYP1B1 enzyme participates in biochemical reactions in which an oxygen atom is added to other molecules.
+text/html/html:p(2): The CYP1B1 enzyme is active in many tissues, including structures of the eye. The function of the CYP1B1 enzyme in the development of the eye is unclear, but it may play a role in forming structures at the front of the eye and may also be involved in a process that regulates the secretion of fluid inside the eye.
 related-health-condition(1)/name: early-onset glaucoma
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/early-onset-glaucoma
 related-health-condition(2)/name: Peters anomaly

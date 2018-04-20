@@ -2,7 +2,9 @@ gene-symbol: CDAN1
 name: codanin 1
 ghr-page: https://ghr.nlm.nih.gov/gene/CDAN1
 text/text-role: function
-text/html: <p>The <i>CDAN1</i> gene provides instructions for making a protein called codanin-1. Although this protein is active in cells throughout the body, very little is known about its function.</p><p>A recent study suggests that codanin-1 is associated with a form of DNA called heterochromatin. Heterochromatin is densely packed DNA that contains few functional genes, but it plays an important role in maintaining the structure of the nucleus (where most of the cell's DNA is located).</p><p>Researchers speculate that codanin-1 may be involved in the formation of red blood cells, a process called erythropoiesis. Specifically, this protein may play a key role in the organization of heterochromatin during the division of these developing cells.</p>
+text/html/html:p(1): The <i>CDAN1</i> gene provides instructions for making a protein called codanin-1. Although this protein is active in cells throughout the body, very little is known about its function.
+text/html/html:p(2): A recent study suggests that codanin-1 is associated with a form of DNA called heterochromatin. Heterochromatin is densely packed DNA that contains few functional genes, but it plays an important role in maintaining the structure of the nucleus (where most of the cell's DNA is located).
+text/html/html:p(3): Researchers speculate that codanin-1 may be involved in the formation of red blood cells, a process called erythropoiesis. Specifically, this protein may play a key role in the organization of heterochromatin during the division of these developing cells.
 related-health-condition/name: congenital dyserythropoietic anemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-dyserythropoietic-anemia
 synonym(1): CDA-I

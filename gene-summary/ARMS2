@@ -2,7 +2,7 @@ gene-symbol: ARMS2
 name: age-related maculopathy susceptibility 2
 ghr-page: https://ghr.nlm.nih.gov/gene/ARMS2
 text/text-role: function
-text/html: <p>The <i>ARMS2</i> gene provides instructions for making a protein whose function is unknown. Studies suggest that the ARMS2 protein is found primarily in the placenta and in the specialized light-sensing tissue in the back of the eye (the retina). However, it is unclear what role, if any, the protein plays in early development or normal vision.</p>
+text/html/html:p: The <i>ARMS2</i> gene provides instructions for making a protein whose function is unknown. Studies suggest that the ARMS2 protein is found primarily in the placenta and in the specialized light-sensing tissue in the back of the eye (the retina). However, it is unclear what role, if any, the protein plays in early development or normal vision.
 related-health-condition/name: age-related macular degeneration
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
 synonym(1): age-related maculopathy susceptibility protein 2

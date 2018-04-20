@@ -2,7 +2,7 @@ gene-symbol: FOXG1
 name: forkhead box G1
 ghr-page: https://ghr.nlm.nih.gov/gene/FOXG1
 text/text-role: function
-text/html: <p>The <i>FOXG1</i> gene provides instructions for making a protein known as forkhead box G1. This protein is a transcription factor, which means it helps regulate the activity of other genes. Specifically, the forkhead box G1 protein acts as a transcriptional repressor, turning off (repressing) the activity of certain genes when they are not needed. Researchers believe that this protein plays an important role in brain development, particularly in a region of the embryonic brain known as the telencephalon. The telencephalon ultimately develops into several critical structures, including the the largest part of the brain (the cerebrum), which controls most voluntary activity, language, sensory perception, learning, and memory.</p>
+text/html/html:p: The <i>FOXG1</i> gene provides instructions for making a protein known as forkhead box G1. This protein is a transcription factor, which means it helps regulate the activity of other genes. Specifically, the forkhead box G1 protein acts as a transcriptional repressor, turning off (repressing) the activity of certain genes when they are not needed. Researchers believe that this protein plays an important role in brain development, particularly in a region of the embryonic brain known as the telencephalon. The telencephalon ultimately develops into several critical structures, including the the largest part of the brain (the cerebrum), which controls most voluntary activity, language, sensory perception, learning, and memory.
 related-health-condition/name: FOXG1 syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/foxg1-syndrome
 synonym(1): BF1

@@ -2,7 +2,8 @@ gene-symbol: NYX
 name: nyctalopin
 ghr-page: https://ghr.nlm.nih.gov/gene/NYX
 text/text-role: function
-text/html: <p>The <i>NYX</i> gene provides instructions for making a protein called nyctalopin, which plays an important role in a specialized tissue at the back of the eye called the retina. Within the retina, nyctalopin is located on the surface of light-detecting cells called photoreceptors. The retina contains two types of photoreceptors: rods and cones. Rods are responsible for vision in low light. Cones provide vision in bright light, including color vision.</p><p>Nyctalopin appears to play a critical role in normal vision. Studies suggest the protein helps relay visual signals from rods and cones to other retinal cells called bipolar cells. This signaling is an essential step in the transmission of visual information from the eyes to the brain.</p>
+text/html/html:p(1): The <i>NYX</i> gene provides instructions for making a protein called nyctalopin, which plays an important role in a specialized tissue at the back of the eye called the retina. Within the retina, nyctalopin is located on the surface of light-detecting cells called photoreceptors. The retina contains two types of photoreceptors: rods and cones. Rods are responsible for vision in low light. Cones provide vision in bright light, including color vision.
+text/html/html:p(2): Nyctalopin appears to play a critical role in normal vision. Studies suggest the protein helps relay visual signals from rods and cones to other retinal cells called bipolar cells. This signaling is an essential step in the transmission of visual information from the eyes to the brain.
 related-health-condition/name: X-linked congenital stationary night blindness
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-congenital-stationary-night-blindness
 synonym(1): CLRP

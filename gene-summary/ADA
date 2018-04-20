@@ -2,7 +2,8 @@ gene-symbol: ADA
 name: adenosine deaminase
 ghr-page: https://ghr.nlm.nih.gov/gene/ADA
 text/text-role: function
-text/html: <p>The <i>ADA</i> gene provides instructions for producing the enzyme adenosine deaminase. This enzyme is produced in all cells, but the highest levels of adenosine deaminase occur in immune system cells called lymphocytes, which develop in lymphoid tissues. These lymphoid tissues include the thymus, which is a gland located behind the breastbone, and lymph nodes, which are found throughout the body. Lymphocytes form the immune system, which defends the body against potentially harmful invaders, such as viruses or bacteria.</p><p>The function of the adenosine deaminase enzyme is to eliminate a molecule called deoxyadenosine, which is generated when DNA is broken down. Adenosine deaminase converts deoxyadenosine, which is toxic to lymphocytes, to another molecule called deoxyinosine, which is not harmful.</p>
+text/html/html:p(1): The <i>ADA</i> gene provides instructions for producing the enzyme adenosine deaminase. This enzyme is produced in all cells, but the highest levels of adenosine deaminase occur in immune system cells called lymphocytes, which develop in lymphoid tissues. These lymphoid tissues include the thymus, which is a gland located behind the breastbone, and lymph nodes, which are found throughout the body. Lymphocytes form the immune system, which defends the body against potentially harmful invaders, such as viruses or bacteria.
+text/html/html:p(2): The function of the adenosine deaminase enzyme is to eliminate a molecule called deoxyadenosine, which is generated when DNA is broken down. Adenosine deaminase converts deoxyadenosine, which is toxic to lymphocytes, to another molecule called deoxyinosine, which is not harmful.
 related-health-condition/name: adenosine deaminase deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/adenosine-deaminase-deficiency
 synonym(1): ADA_HUMAN

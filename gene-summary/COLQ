@@ -2,7 +2,8 @@ gene-symbol: COLQ
 name: collagen like tail subunit of asymmetric acetylcholinesterase
 ghr-page: https://ghr.nlm.nih.gov/gene/COLQ
 text/text-role: function
-text/html: <p>The <i>COLQ</i> gene provides instructions for making a protein that plays an important role in the neuromuscular junction. The neuromuscular junction is the area between the ends of nerve cells and muscle cells where signals are relayed to trigger muscle movement.</p><p>The ColQ protein anchors another protein called acetylcholinesterase to the muscle cell membrane at the neuromuscular junction. The ColQ protein is made up of three identical parts (subunits). Each subunit attaches (binds) to a bundle of four acetylcholinesterase proteins. Acetylcholinesterase plays a role in regulating the length of signaling between nerve cells and muscle cells by breaking down the signaling protein acetylcholine.</p>
+text/html/html:p(1): The <i>COLQ</i> gene provides instructions for making a protein that plays an important role in the neuromuscular junction. The neuromuscular junction is the area between the ends of nerve cells and muscle cells where signals are relayed to trigger muscle movement.
+text/html/html:p(2): The ColQ protein anchors another protein called acetylcholinesterase to the muscle cell membrane at the neuromuscular junction. The ColQ protein is made up of three identical parts (subunits). Each subunit attaches (binds) to a bundle of four acetylcholinesterase proteins. Acetylcholinesterase plays a role in regulating the length of signaling between nerve cells and muscle cells by breaking down the signaling protein acetylcholine.
 related-health-condition/name: congenital myasthenic syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-myasthenic-syndrome
 synonym(1): acetylcholinesterase-associated collagen

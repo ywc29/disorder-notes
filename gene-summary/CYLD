@@ -2,7 +2,7 @@ gene-symbol: CYLD
 name: CYLD lysine 63 deubiquitinase
 ghr-page: https://ghr.nlm.nih.gov/gene/CYLD
 text/text-role: function
-text/html: <p>The <i>CYLD</i> gene provides instructions for making a protein that helps regulate nuclear factor-kappa-B. Nuclear factor-kappa-B is a group of related proteins that help protect cells from self-destruction (apoptosis) in response to certain signals. In regulating the action of nuclear factor-kappa-B, the CYLD protein allows cells to respond properly to signals to self-destruct when appropriate, such as when the cells become abnormal. By this mechanism, the CYLD protein acts as a tumor suppressor, which means that it helps prevent cells from growing and dividing too fast or in an uncontrolled way.</p>
+text/html/html:p: The <i>CYLD</i> gene provides instructions for making a protein that helps regulate nuclear factor-kappa-B. Nuclear factor-kappa-B is a group of related proteins that help protect cells from self-destruction (apoptosis) in response to certain signals. In regulating the action of nuclear factor-kappa-B, the CYLD protein allows cells to respond properly to signals to self-destruct when appropriate, such as when the cells become abnormal. By this mechanism, the CYLD protein acts as a tumor suppressor, which means that it helps prevent cells from growing and dividing too fast or in an uncontrolled way.
 related-health-condition(1)/name: Brooke-Spiegler syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/brooke-spiegler-syndrome
 related-health-condition(2)/name: familial cylindromatosis

@@ -2,7 +2,8 @@ gene-symbol: EYA1
 name: EYA transcriptional coactivator and phosphatase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/EYA1
 text/text-role: function
-text/html: <p>The <i>EYA1</i> gene provides instructions for making a protein that plays a role in regulating the activity of other genes.  Based on this role, the EYA1 protein is called a transcription factor or transcription coactivator.</p><p>The EYA1 protein interacts with several other proteins, including a group known as SIX proteins, to turn on (activate) and turn off (inactivate) genes that are important for normal development. Before birth, these protein interactions appear to be essential for the normal formation of many tissues. These include the second branchial arch, which gives rise to tissues in the front and side of the neck, and the eyes, ears, and kidneys. After birth, these interactions are important for normal organ function.</p>
+text/html/html:p(1): The <i>EYA1</i> gene provides instructions for making a protein that plays a role in regulating the activity of other genes.  Based on this role, the EYA1 protein is called a transcription factor or transcription coactivator.
+text/html/html:p(2): The EYA1 protein interacts with several other proteins, including a group known as SIX proteins, to turn on (activate) and turn off (inactivate) genes that are important for normal development. Before birth, these protein interactions appear to be essential for the normal formation of many tissues. These include the second branchial arch, which gives rise to tissues in the front and side of the neck, and the eyes, ears, and kidneys. After birth, these interactions are important for normal organ function.
 related-health-condition/name: branchiootorenal/branchiootic syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/branchiootorenal-branchiootic-syndrome
 synonym(1): BOP

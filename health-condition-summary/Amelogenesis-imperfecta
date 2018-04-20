@@ -1,7 +1,8 @@
 name: Amelogenesis imperfecta
 ghr-page: https://ghr.nlm.nih.gov/condition/amelogenesis-imperfecta
 text/text-role: description
-text/html: <p>Amelogenesis imperfecta is a disorder of tooth development. This condition causes teeth to be unusually small, discolored, pitted or grooved, and prone to rapid wear and breakage. Other dental abnormalities are also possible. These defects, which vary among affected individuals, can affect both primary (baby) teeth and permanent (adult) teeth.</p><p>Researchers have described at least 14 forms of amelogenesis imperfecta. These types are distinguished by their specific dental abnormalities and by their pattern of inheritance. Additionally, amelogenesis imperfecta can occur alone without any other signs and symptoms or it can occur as part of a syndrome that affects multiple parts of the body.</p>
+text/html/html:p(1): Amelogenesis imperfecta is a disorder of tooth development. This condition causes teeth to be unusually small, discolored, pitted or grooved, and prone to rapid wear and breakage. Other dental abnormalities are also possible. These defects, which vary among affected individuals, can affect both primary (baby) teeth and permanent (adult) teeth.
+text/html/html:p(2): Researchers have described at least 14 forms of amelogenesis imperfecta. These types are distinguished by their specific dental abnormalities and by their pattern of inheritance. Additionally, amelogenesis imperfecta can occur alone without any other signs and symptoms or it can occur as part of a syndrome that affects multiple parts of the body.
 inheritance-pattern(1)/code: ad
 inheritance-pattern(1)/memo: autosomal dominant
 inheritance-pattern(2)/code: ar

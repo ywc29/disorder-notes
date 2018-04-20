@@ -2,7 +2,7 @@ gene-symbol: DYSF
 name: dysferlin
 ghr-page: https://ghr.nlm.nih.gov/gene/DYSF
 text/text-role: function
-text/html: <p>The <i>DYSF</i> gene provides instructions for making a protein called dysferlin. This protein is found in the thin membrane called the sarcolemma that surrounds muscle fibers. Dysferlin is thought to aid in repairing the sarcolemma when it becomes damaged or torn due to muscle strain. Researchers suggest that dysferlin may also be involved in the formation of new muscle fibers (regeneration) and in inflammation, but little is known about these functions.</p>
+text/html/html:p: The <i>DYSF</i> gene provides instructions for making a protein called dysferlin. This protein is found in the thin membrane called the sarcolemma that surrounds muscle fibers. Dysferlin is thought to aid in repairing the sarcolemma when it becomes damaged or torn due to muscle strain. Researchers suggest that dysferlin may also be involved in the formation of new muscle fibers (regeneration) and in inflammation, but little is known about these functions.
 related-health-condition(1)/name: limb-girdle muscular dystrophy
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/limb-girdle-muscular-dystrophy
 related-health-condition(2)/name: Miyoshi myopathy

@@ -2,7 +2,7 @@ gene-symbol: DSP
 name: desmoplakin
 ghr-page: https://ghr.nlm.nih.gov/gene/DSP
 text/text-role: function
-text/html: <p>The <i>DSP</i> gene provides instructions for making a protein called desmoplakin. This protein is found primarily in cells of the heart and skin, where it is a major component of specialized structures called desmosomes. These structures help hold neighboring cells together, which provides strength and stability to tissues. Desmosomes may also be involved in other critical cell functions, including chemical signaling pathways, the process by which cells mature to perform specific functions (differentiation), and the self-destruction of cells (apoptosis).</p>
+text/html/html:p: The <i>DSP</i> gene provides instructions for making a protein called desmoplakin. This protein is found primarily in cells of the heart and skin, where it is a major component of specialized structures called desmosomes. These structures help hold neighboring cells together, which provides strength and stability to tissues. Desmosomes may also be involved in other critical cell functions, including chemical signaling pathways, the process by which cells mature to perform specific functions (differentiation), and the self-destruction of cells (apoptosis).
 related-health-condition(1)/name: arrhythmogenic right ventricular cardiomyopathy
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/arrhythmogenic-right-ventricular-cardiomyopathy
 related-health-condition(2)/name: keratoderma with woolly hair

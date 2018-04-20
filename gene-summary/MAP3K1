@@ -2,7 +2,7 @@ gene-symbol: MAP3K1
 name: mitogen-activated protein kinase kinase kinase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/MAP3K1
 text/text-role: function
-text/html: <p>The <i>MAP3K1</i> gene provides instructions for making a protein that helps regulate signaling pathways that control various processes in the body, including the processes of determining sexual characteristics before birth. The MAP3K1 protein attaches (binds) to other molecules called RHOA, MAP3K4, FRAT1, and AXIN1. The binding of MAP3K1 to these molecules, which are called cofactors, helps MAP3K1 control the activity of the signaling pathways.</p>
+text/html/html:p: The <i>MAP3K1</i> gene provides instructions for making a protein that helps regulate signaling pathways that control various processes in the body, including the processes of determining sexual characteristics before birth. The MAP3K1 protein attaches (binds) to other molecules called RHOA, MAP3K4, FRAT1, and AXIN1. The binding of MAP3K1 to these molecules, which are called cofactors, helps MAP3K1 control the activity of the signaling pathways.
 related-health-condition(1)/name: breast cancer
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/breast-cancer
 related-health-condition(2)/name: Langerhans cell histiocytosis

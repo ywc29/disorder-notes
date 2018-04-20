@@ -2,7 +2,8 @@ gene-symbol: MMP20
 name: matrix metallopeptidase 20
 ghr-page: https://ghr.nlm.nih.gov/gene/MMP20
 text/text-role: function
-text/html: <p>The <i>MMP20</i> gene provides instructions for making a protein called enamelysin, which is essential for normal tooth development. Enamelysin is involved in the formation of enamel, which is the hard, white material that forms the protective outer layer of each tooth. Enamel is composed mainly of mineral crystals. These microscopic crystals are arranged in organized bundles that give enamel its strength and durability.</p><p>Certain proteins are needed to shape and organize the crystals as they form, but these proteins must be removed for enamel to harden normally. Enamelysin cuts (cleaves) other proteins involved in enamel formation, such as amelogenin and ameloblastin, into smaller pieces. Cleavage of these proteins makes them easier to remove when they are no longer needed.</p>
+text/html/html:p(1): The <i>MMP20</i> gene provides instructions for making a protein called enamelysin, which is essential for normal tooth development. Enamelysin is involved in the formation of enamel, which is the hard, white material that forms the protective outer layer of each tooth. Enamel is composed mainly of mineral crystals. These microscopic crystals are arranged in organized bundles that give enamel its strength and durability.
+text/html/html:p(2): Certain proteins are needed to shape and organize the crystals as they form, but these proteins must be removed for enamel to harden normally. Enamelysin cuts (cleaves) other proteins involved in enamel formation, such as amelogenin and ameloblastin, into smaller pieces. Cleavage of these proteins makes them easier to remove when they are no longer needed.
 related-health-condition/name: amelogenesis imperfecta
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/amelogenesis-imperfecta
 synonym(1): enamel metalloproteinase

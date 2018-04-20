@@ -2,7 +2,8 @@ gene-symbol: ARG1
 name: arginase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/ARG1
 text/text-role: function
-text/html: <p>The <i>ARG1</i> gene provides instructions for producing the enzyme arginase. This enzyme participates in the urea cycle, a series of reactions that occurs in liver cells. The urea cycle processes excess nitrogen, which is generated when proteins and their building blocks (amino acids) are used by the body. Through the urea cycle, excess nitrogen is made into a compound called urea that is excreted by the kidneys. Excreting the excess nitrogen prevents it from accumulating in the form of ammonia, which is toxic.</p><p>Arginase controls the last step of the urea cycle, a reaction in which nitrogen is removed from the amino acid arginine and processed into urea for excretion from the body. A compound called ornithine is also produced in this reaction; it is needed for the urea cycle to repeat.</p>
+text/html/html:p(1): The <i>ARG1</i> gene provides instructions for producing the enzyme arginase. This enzyme participates in the urea cycle, a series of reactions that occurs in liver cells. The urea cycle processes excess nitrogen, which is generated when proteins and their building blocks (amino acids) are used by the body. Through the urea cycle, excess nitrogen is made into a compound called urea that is excreted by the kidneys. Excreting the excess nitrogen prevents it from accumulating in the form of ammonia, which is toxic.
+text/html/html:p(2): Arginase controls the last step of the urea cycle, a reaction in which nitrogen is removed from the amino acid arginine and processed into urea for excretion from the body. A compound called ornithine is also produced in this reaction; it is needed for the urea cycle to repeat.
 related-health-condition/name: arginase deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/arginase-deficiency
 synonym(1): A-I

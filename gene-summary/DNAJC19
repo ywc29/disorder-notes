@@ -2,7 +2,7 @@ gene-symbol: DNAJC19
 name: DnaJ heat shock protein family (Hsp40) member C19
 ghr-page: https://ghr.nlm.nih.gov/gene/DNAJC19
 text/text-role: function
-text/html: <p>The <i>DNAJC19</i> gene provides instructions for producing a protein found in structures called mitochondria, which are the energy-producing centers of cells. While the exact function of the DNAJC19 protein is unclear, researchers believe that it helps transport other proteins into and out of mitochondria. The DNAJC19 protein may also assist in the proper assembly and disassembly of certain proteins.</p>
+text/html/html:p: The <i>DNAJC19</i> gene provides instructions for producing a protein found in structures called mitochondria, which are the energy-producing centers of cells. While the exact function of the DNAJC19 protein is unclear, researchers believe that it helps transport other proteins into and out of mitochondria. The DNAJC19 protein may also assist in the proper assembly and disassembly of certain proteins.
 related-health-condition/name: dilated cardiomyopathy with ataxia syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/dilated-cardiomyopathy-with-ataxia-syndrome
 synonym(1): DnaJ (Hsp40) homolog, subfamily C, member 19

@@ -2,7 +2,7 @@ gene-symbol: PKP2
 name: plakophilin 2
 ghr-page: https://ghr.nlm.nih.gov/gene/PKP2
 text/text-role: function
-text/html: <p>The <i>PKP2</i> gene provides instructions for making a protein called plakophilin 2. This protein is found primarily in cells of the myocardium, which is the muscular wall of the heart. Within these cells, plakophilin 2 is one of several proteins that make up structures called desmosomes. These structures form junctions that attach cells to one another. Desmosomes provide strength to the myocardium and are involved in signaling between neighboring cells.</p>
+text/html/html:p: The <i>PKP2</i> gene provides instructions for making a protein called plakophilin 2. This protein is found primarily in cells of the myocardium, which is the muscular wall of the heart. Within these cells, plakophilin 2 is one of several proteins that make up structures called desmosomes. These structures form junctions that attach cells to one another. Desmosomes provide strength to the myocardium and are involved in signaling between neighboring cells.
 related-health-condition/name: arrhythmogenic right ventricular cardiomyopathy
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/arrhythmogenic-right-ventricular-cardiomyopathy
 synonym(1): ARVD9

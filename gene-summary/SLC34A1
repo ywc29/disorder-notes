@@ -2,7 +2,7 @@ gene-symbol: SLC34A1
 name: solute carrier family 34 member 1
 ghr-page: https://ghr.nlm.nih.gov/gene/SLC34A1
 text/text-role: function
-text/html: <p>The <i>SLC34A1</i> gene provides instructions for making a protein called sodium-dependent phosphate transporter 2A (NaPi-IIa), which plays a role in the regulation of phosphate levels in the body (phosphate homeostasis). Phosphate is needed for many functions including the breakdown of substances (metabolic processes), signaling between cells, and the production of DNA building blocks (nucleotides) and fats. The NaPi-IIa protein is located in the membrane surrounding kidney cells, where it transports phosphate across the cell membrane. NaPi-IIa reabsorbs phosphate from urine back into the body when more of the mineral is needed.</p>
+text/html/html:p: The <i>SLC34A1</i> gene provides instructions for making a protein called sodium-dependent phosphate transporter 2A (NaPi-IIa), which plays a role in the regulation of phosphate levels in the body (phosphate homeostasis). Phosphate is needed for many functions including the breakdown of substances (metabolic processes), signaling between cells, and the production of DNA building blocks (nucleotides) and fats. The NaPi-IIa protein is located in the membrane surrounding kidney cells, where it transports phosphate across the cell membrane. NaPi-IIa reabsorbs phosphate from urine back into the body when more of the mineral is needed.
 related-health-condition/name: idiopathic infantile hypercalcemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/idiopathic-infantile-hypercalcemia
 synonym(1): FRTS2

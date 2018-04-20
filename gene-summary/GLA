@@ -2,7 +2,8 @@ gene-symbol: GLA
 name: galactosidase alpha
 ghr-page: https://ghr.nlm.nih.gov/gene/GLA
 text/text-role: function
-text/html: <p>The <i>GLA</i> gene provides instructions for making an enzyme called alpha-galactosidase A.  This enzyme is active in lysosomes, which are structures that act as recycling centers within cells.  Lysosomes use digestive enzymes to process worn-out cell components and recycle usable parts.</p><p>Alpha-galactosidase A breaks down a molecule called globotriaosylceramide, which consists of three sugars attached to a fatty substance.  This molecule is degraded as part of the normal recycling of old red blood cells (erythrocytes) and other types of cells.</p>
+text/html/html:p(1): The <i>GLA</i> gene provides instructions for making an enzyme called alpha-galactosidase A.  This enzyme is active in lysosomes, which are structures that act as recycling centers within cells.  Lysosomes use digestive enzymes to process worn-out cell components and recycle usable parts.
+text/html/html:p(2): Alpha-galactosidase A breaks down a molecule called globotriaosylceramide, which consists of three sugars attached to a fatty substance.  This molecule is degraded as part of the normal recycling of old red blood cells (erythrocytes) and other types of cells.
 related-health-condition/name: Fabry disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/fabry-disease
 synonym(1): AGAL_HUMAN

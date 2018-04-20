@@ -2,7 +2,7 @@ gene-symbol: FRAS1
 name: Fraser extracellular matrix complex subunit 1
 ghr-page: https://ghr.nlm.nih.gov/gene/FRAS1
 text/text-role: function
-text/html: <p>The <i>FRAS1</i> gene provides instructions for making a protein that is part of a group of proteins called the FRAS/FREM complex. This complex is found in basement membranes, which are thin, sheet-like structures that separate and support cells in many tissues. The FRAS/FREM complex is particularly important during development before birth. One of its roles is to anchor the top layer of skin by connecting the basement membrane of the top layer to the layer of skin below. The FRAS/FREM complex is also involved in the proper development of certain other organs and tissues, including the kidneys, although the mechanism is unclear.</p>
+text/html/html:p: The <i>FRAS1</i> gene provides instructions for making a protein that is part of a group of proteins called the FRAS/FREM complex. This complex is found in basement membranes, which are thin, sheet-like structures that separate and support cells in many tissues. The FRAS/FREM complex is particularly important during development before birth. One of its roles is to anchor the top layer of skin by connecting the basement membrane of the top layer to the layer of skin below. The FRAS/FREM complex is also involved in the proper development of certain other organs and tissues, including the kidneys, although the mechanism is unclear.
 related-health-condition/name: Fraser syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/fraser-syndrome
 synonym(1): extracellular matrix protein FRAS1

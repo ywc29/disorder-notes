@@ -2,7 +2,7 @@ gene-symbol: PRPH2
 name: peripherin 2
 ghr-page: https://ghr.nlm.nih.gov/gene/PRPH2
 text/text-role: function
-text/html: <p>The <i>PRPH2</i> gene (also known as <i>RDS</i>) provides instructions for making a protein called peripherin 2.  This protein plays an important role in normal vision.  Peripherin 2 is found in the retina, the light-sensitive tissue that lines the back of the eye.  This protein is essential for the normal function of specialized cells called photoreceptors that detect light and color. Within these cells, peripherin 2 is involved in the formation and stability of structures that contain light-sensing pigments.</p>
+text/html/html:p: The <i>PRPH2</i> gene (also known as <i>RDS</i>) provides instructions for making a protein called peripherin 2.  This protein plays an important role in normal vision.  Peripherin 2 is found in the retina, the light-sensitive tissue that lines the back of the eye.  This protein is essential for the normal function of specialized cells called photoreceptors that detect light and color. Within these cells, peripherin 2 is involved in the formation and stability of structures that contain light-sensing pigments.
 related-health-condition(1)/name: cone-rod dystrophy
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cone-rod-dystrophy
 related-health-condition(2)/name: retinitis pigmentosa

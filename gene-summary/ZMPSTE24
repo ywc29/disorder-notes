@@ -2,7 +2,8 @@ gene-symbol: ZMPSTE24
 name: zinc metallopeptidase STE24
 ghr-page: https://ghr.nlm.nih.gov/gene/ZMPSTE24
 text/text-role: function
-text/html: <p>The <i>ZMPSTE24</i> gene provides instructions for making a protein that acts as a protease, which is an enzyme that cuts (cleaves) other proteins. The ZMPSTE24 protein cuts an immature version of the lamin A protein (prelamin A) at a particular location; this cleavage is an essential step in the maturation of lamin A.</p><p>Mature lamin A is a component of the nuclear envelope, which is the membrane that surrounds the nucleus in cells. The nuclear envelope regulates the movement of molecules into and out of the nucleus, and researchers believe it may play a role in regulating the activity of certain genes.</p>
+text/html/html:p(1): The <i>ZMPSTE24</i> gene provides instructions for making a protein that acts as a protease, which is an enzyme that cuts (cleaves) other proteins. The ZMPSTE24 protein cuts an immature version of the lamin A protein (prelamin A) at a particular location; this cleavage is an essential step in the maturation of lamin A.
+text/html/html:p(2): Mature lamin A is a component of the nuclear envelope, which is the membrane that surrounds the nucleus in cells. The nuclear envelope regulates the movement of molecules into and out of the nucleus, and researchers believe it may play a role in regulating the activity of certain genes.
 related-health-condition/name: mandibuloacral dysplasia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mandibuloacral-dysplasia
 synonym(1): CAAX prenyl protease 1 homolog

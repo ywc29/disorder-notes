@@ -2,7 +2,7 @@ gene-symbol: SOS1
 name: SOS Ras/Rac guanine nucleotide exchange factor 1
 ghr-page: https://ghr.nlm.nih.gov/gene/SOS1
 text/text-role: function
-text/html: <p>The <i>SOS1</i> gene provides instructions for making a protein that is involved in controlling (regulating) the activation of the RAS/MAPK signaling pathway, which helps control several important cell functions. Specifically, the pathway regulates the growth and division of cells (proliferation), the process by which cells mature to carry out specific functions (differentiation), cell movement (migration), and the self-destruction of cells (apoptosis). Within the RAS/MAPK signaling pathway, the SOS1 protein regulates a protein, called Ras, that stimulates cells to grow and divide. This regulation tightly controls the growth of cells and tissues, and is especially important for proper embryonic development.</p>
+text/html/html:p: The <i>SOS1</i> gene provides instructions for making a protein that is involved in controlling (regulating) the activation of the RAS/MAPK signaling pathway, which helps control several important cell functions. Specifically, the pathway regulates the growth and division of cells (proliferation), the process by which cells mature to carry out specific functions (differentiation), cell movement (migration), and the self-destruction of cells (apoptosis). Within the RAS/MAPK signaling pathway, the SOS1 protein regulates a protein, called Ras, that stimulates cells to grow and divide. This regulation tightly controls the growth of cells and tissues, and is especially important for proper embryonic development.
 related-health-condition/name: Noonan syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/noonan-syndrome
 synonym(1): alternate SOS1

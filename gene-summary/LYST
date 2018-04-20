@@ -2,7 +2,7 @@ gene-symbol: LYST
 name: lysosomal trafficking regulator
 ghr-page: https://ghr.nlm.nih.gov/gene/LYST
 text/text-role: function
-text/html: <p>The <i>LYST</i> gene (also known as <i>CHS1</i>) provides instructions for making a protein known as the lysosomal trafficking regulator. Researchers believe that this protein plays a role in the transport (trafficking) of materials into structures called lysosomes. Lysosomes act as recycling centers within cells. They use digestive enzymes to break down toxic substances, digest bacteria that invade the cell, and recycle worn-out cell components. Although the lysosomal trafficking regulator protein is involved in the normal function of lysosomes, its exact role is unknown.  Studies suggest that this protein may help determine the size of lysosomes and regulate their movement within cells.</p>
+text/html/html:p: The <i>LYST</i> gene (also known as <i>CHS1</i>) provides instructions for making a protein known as the lysosomal trafficking regulator. Researchers believe that this protein plays a role in the transport (trafficking) of materials into structures called lysosomes. Lysosomes act as recycling centers within cells. They use digestive enzymes to break down toxic substances, digest bacteria that invade the cell, and recycle worn-out cell components. Although the lysosomal trafficking regulator protein is involved in the normal function of lysosomes, its exact role is unknown.  Studies suggest that this protein may help determine the size of lysosomes and regulate their movement within cells.
 related-health-condition/name: Chediak-Higashi syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/chediak-higashi-syndrome
 synonym(1): Beige homolog

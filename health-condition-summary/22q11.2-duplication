@@ -1,7 +1,8 @@
 name: 22q11.2 duplication
 ghr-page: https://ghr.nlm.nih.gov/condition/22q112-duplication
 text/text-role: description
-text/html: <p>22q11.2 duplication is a condition caused by an extra copy of a small piece of chromosome 22. The duplication occurs near the middle of the chromosome at a location designated q11.2.</p><p>The features of this condition vary widely, even among members of the same family. Affected individuals may have developmental delay, intellectual disability, slow growth leading to short stature, and weak muscle tone (hypotonia). Many people with the duplication have no apparent physical or intellectual disabilities.</p>
+text/html/html:p(1): 22q11.2 duplication is a condition caused by an extra copy of a small piece of chromosome 22. The duplication occurs near the middle of the chromosome at a location designated q11.2.
+text/html/html:p(2): The features of this condition vary widely, even among members of the same family. Affected individuals may have developmental delay, intellectual disability, slow growth leading to short stature, and weak muscle tone (hypotonia). Many people with the duplication have no apparent physical or intellectual disabilities.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-chromosome/name: 22

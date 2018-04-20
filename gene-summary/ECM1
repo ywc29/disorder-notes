@@ -2,7 +2,8 @@ gene-symbol: ECM1
 name: extracellular matrix protein 1
 ghr-page: https://ghr.nlm.nih.gov/gene/ECM1
 text/text-role: function
-text/html: <p>The <i>ECM1</i> gene provides instructions for making a protein that is found in most tissues within the extracellular matrix, which is an intricate lattice that forms in the space between cells and provides structural support. The ECM1 protein can attach (bind) to numerous structural proteins and is involved in the growth and maturation (differentiation) of cells, including skin cells called keratinocytes. The protein may also regulate the formation of blood vessels (angiogenesis).</p><p>Four different versions (isoforms) of the ECM1 protein are produced from the <i>ECM1</i> gene. These isoforms vary in length and in the tissues where they are found. The most abundant and widespread version is known as ECM1a.</p>
+text/html/html:p(1): The <i>ECM1</i> gene provides instructions for making a protein that is found in most tissues within the extracellular matrix, which is an intricate lattice that forms in the space between cells and provides structural support. The ECM1 protein can attach (bind) to numerous structural proteins and is involved in the growth and maturation (differentiation) of cells, including skin cells called keratinocytes. The protein may also regulate the formation of blood vessels (angiogenesis).
+text/html/html:p(2): Four different versions (isoforms) of the ECM1 protein are produced from the <i>ECM1</i> gene. These isoforms vary in length and in the tissues where they are found. The most abundant and widespread version is known as ECM1a.
 related-health-condition/name: lipoid proteinosis
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/lipoid-proteinosis
 synonym(1): secretory component p85

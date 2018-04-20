@@ -2,7 +2,7 @@ gene-symbol: ANKH
 name: ANKH inorganic pyrophosphate transport regulator
 ghr-page: https://ghr.nlm.nih.gov/gene/ANKH
 text/text-role: function
-text/html: <p>The <i>ANKH</i> gene provides instructions for making a protein that is present in bone. This protein transports a molecule called pyrophosphate out of cells to the intricate network of proteins that forms in the spaces between cells (extracellular matrix). Pyrophosphate helps regulate bone formation by preventing mineralization, the process by which minerals such as calcium and phosphorus are deposited in developing bones. The ANKH protein may have other, unknown functions.</p>
+text/html/html:p: The <i>ANKH</i> gene provides instructions for making a protein that is present in bone. This protein transports a molecule called pyrophosphate out of cells to the intricate network of proteins that forms in the spaces between cells (extracellular matrix). Pyrophosphate helps regulate bone formation by preventing mineralization, the process by which minerals such as calcium and phosphorus are deposited in developing bones. The ANKH protein may have other, unknown functions.
 related-health-condition/name: craniometaphyseal dysplasia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/craniometaphyseal-dysplasia
 synonym(1): ANK

@@ -1,7 +1,7 @@
 name: UV-sensitive syndrome
 ghr-page: https://ghr.nlm.nih.gov/condition/uv-sensitive-syndrome
 text/text-role: description
-text/html: <p>UV-sensitive syndrome is a condition that is characterized by sensitivity to the ultraviolet (UV) rays in sunlight. Even a small amount of sun exposure can cause a sunburn in affected individuals. In addition, these individuals can have freckles, dryness, or changes in coloring (pigmentation) on sun-exposed areas of skin after repeated exposure. Some people with UV-sensitive syndrome have small clusters of enlarged blood vessels just under the skin (telangiectasia), usually on the cheeks and nose. Although UV exposure can cause skin cancers, people with UV-sensitive syndrome do not have an increased risk of developing these forms of cancer compared with the general population.</p>
+text/html/html:p: UV-sensitive syndrome is a condition that is characterized by sensitivity to the ultraviolet (UV) rays in sunlight. Even a small amount of sun exposure can cause a sunburn in affected individuals. In addition, these individuals can have freckles, dryness, or changes in coloring (pigmentation) on sun-exposed areas of skin after repeated exposure. Some people with UV-sensitive syndrome have small clusters of enlarged blood vessels just under the skin (telangiectasia), usually on the cheeks and nose. Although UV exposure can cause skin cancers, people with UV-sensitive syndrome do not have an increased risk of developing these forms of cancer compared with the general population.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene(1)/gene-symbol: ERCC6

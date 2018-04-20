@@ -1,7 +1,8 @@
 name: Bladder cancer
 ghr-page: https://ghr.nlm.nih.gov/condition/bladder-cancer
 text/text-role: description
-text/html: <p>Bladder cancer is a disease in which certain cells in the bladder become abnormal and multiply without control or order.  The bladder is a hollow, muscular organ in the lower abdomen that stores urine until it is ready to be excreted from the body. The most common type of bladder cancer begins in cells lining the inside of the bladder and is called transitional cell carcinoma (TCC).</p><p>Bladder cancer may cause blood in the urine, pain during urination, frequent urination, or the feeling that one needs to urinate without results. These signs and symptoms are not specific to bladder cancer, however. They also can be caused by noncancerous conditions such as infections.</p>
+text/html/html:p(1): Bladder cancer is a disease in which certain cells in the bladder become abnormal and multiply without control or order.  The bladder is a hollow, muscular organ in the lower abdomen that stores urine until it is ready to be excreted from the body. The most common type of bladder cancer begins in cells lining the inside of the bladder and is called transitional cell carcinoma (TCC).
+text/html/html:p(2): Bladder cancer may cause blood in the urine, pain during urination, frequent urination, or the feeling that one needs to urinate without results. These signs and symptoms are not specific to bladder cancer, however. They also can be caused by noncancerous conditions such as infections.
 inheritance-pattern/code: n
 inheritance-pattern/memo: not inherited
 related-gene(1)/gene-symbol: FGFR3

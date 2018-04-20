@@ -2,7 +2,8 @@ gene-symbol: WNT5A
 name: Wnt family member 5A
 ghr-page: https://ghr.nlm.nih.gov/gene/WNT5A
 text/text-role: function
-text/html: <p>The <i>WNT5A</i> gene is part of a large family of WNT genes, which play critical roles in development starting before birth. These genes provide instructions for making proteins that participate in chemical signaling pathways in the body. Wnt signaling controls the activity of certain genes and regulates the interactions between cells during embryonic development.</p><p>The protein produced from the <i>WNT5A</i> gene is part of chemical signaling pathways that control the movement of cells (cell migration) and attachment of cells to one another (cell adhesion) during early development. Studies suggest that the WNT5A protein plays important roles in the normal development of many parts of the body, including the brain, skeleton, blood cells, and fatty (adipose) tissue.</p>
+text/html/html:p(1): The <i>WNT5A</i> gene is part of a large family of WNT genes, which play critical roles in development starting before birth. These genes provide instructions for making proteins that participate in chemical signaling pathways in the body. Wnt signaling controls the activity of certain genes and regulates the interactions between cells during embryonic development.
+text/html/html:p(2): The protein produced from the <i>WNT5A</i> gene is part of chemical signaling pathways that control the movement of cells (cell migration) and attachment of cells to one another (cell adhesion) during early development. Studies suggest that the WNT5A protein plays important roles in the normal development of many parts of the body, including the brain, skeleton, blood cells, and fatty (adipose) tissue.
 related-health-condition/name: Robinow syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/robinow-syndrome
 synonym(1): hWNT5A

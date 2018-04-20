@@ -1,7 +1,7 @@
 name: Potassium-aggravated myotonia
 ghr-page: https://ghr.nlm.nih.gov/condition/potassium-aggravated-myotonia
 text/text-role: description
-text/html: <p>Potassium-aggravated myotonia is a disorder that affects muscles used for movement (skeletal muscles). Beginning in childhood or adolescence, people with this condition experience bouts of sustained muscle tensing (myotonia) that prevent muscles from relaxing normally. Myotonia causes muscle stiffness that worsens after exercise and may be aggravated by eating potassium-rich foods such as bananas and potatoes. Stiffness occurs in skeletal muscles throughout the body. Potassium-aggravated myotonia ranges in severity from mild episodes of muscle stiffness to severe, disabling disease with frequent attacks. Unlike some other forms of myotonia, potassium-aggravated myotonia is not associated with episodes of muscle weakness.</p>
+text/html/html:p: Potassium-aggravated myotonia is a disorder that affects muscles used for movement (skeletal muscles). Beginning in childhood or adolescence, people with this condition experience bouts of sustained muscle tensing (myotonia) that prevent muscles from relaxing normally. Myotonia causes muscle stiffness that worsens after exercise and may be aggravated by eating potassium-rich foods such as bananas and potatoes. Stiffness occurs in skeletal muscles throughout the body. Potassium-aggravated myotonia ranges in severity from mild episodes of muscle stiffness to severe, disabling disease with frequent attacks. Unlike some other forms of myotonia, potassium-aggravated myotonia is not associated with episodes of muscle weakness.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene/gene-symbol: SCN4A

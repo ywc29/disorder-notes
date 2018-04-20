@@ -2,7 +2,7 @@ gene-symbol: SNCB
 name: synuclein beta
 ghr-page: https://ghr.nlm.nih.gov/gene/SNCB
 text/text-role: function
-text/html: <p>The <i>SNCB</i> gene provides instructions for making a protein called beta-synuclein. The exact function of this protein is unknown, but it is likely involved in a process called synaptic plasticity. Synaptic plasticity is the ability of the connections between nerve cells (called synapses) to change and adapt over time in response to experience. This process is critical for learning and memory. Beta-synuclein may also prevent harmful accumulation of a similar protein called alpha-synuclein in nerve cells.</p>
+text/html/html:p: The <i>SNCB</i> gene provides instructions for making a protein called beta-synuclein. The exact function of this protein is unknown, but it is likely involved in a process called synaptic plasticity. Synaptic plasticity is the ability of the connections between nerve cells (called synapses) to change and adapt over time in response to experience. This process is critical for learning and memory. Beta-synuclein may also prevent harmful accumulation of a similar protein called alpha-synuclein in nerve cells.
 related-health-condition/name: dementia with Lewy bodies
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/dementia-with-lewy-bodies
 synonym: beta-synuclein

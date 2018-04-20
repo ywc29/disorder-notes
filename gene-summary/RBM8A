@@ -2,7 +2,7 @@ gene-symbol: RBM8A
 name: RNA binding motif protein 8A
 ghr-page: https://ghr.nlm.nih.gov/gene/RBM8A
 text/text-role: function
-text/html: <p>The <i>RBM8A</i> gene provides instructions for making a protein called RNA-binding motif protein 8A. This protein is believed to be involved in several important cellular functions involving protein production. These functions include helping to transport molecules called messenger RNA (mRNA), which serve as the genetic blueprint for making proteins. RNA-binding motif protein 8A likely carries mRNA molecules from the nucleus to areas of the cell where proteins are assembled. It may also be involved in controlling how the instructions in mRNA molecules are used to build proteins and in destroying mRNA that is defective or not needed.</p>
+text/html/html:p: The <i>RBM8A</i> gene provides instructions for making a protein called RNA-binding motif protein 8A. This protein is believed to be involved in several important cellular functions involving protein production. These functions include helping to transport molecules called messenger RNA (mRNA), which serve as the genetic blueprint for making proteins. RNA-binding motif protein 8A likely carries mRNA molecules from the nucleus to areas of the cell where proteins are assembled. It may also be involved in controlling how the instructions in mRNA molecules are used to build proteins and in destroying mRNA that is defective or not needed.
 related-health-condition/name: thrombocytopenia-absent radius syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/thrombocytopenia-absent-radius-syndrome
 synonym(1): binder of OVCA1-1

@@ -2,7 +2,8 @@ gene-symbol: ARSE
 name: arylsulfatase E (chondrodysplasia punctata 1)
 ghr-page: https://ghr.nlm.nih.gov/gene/ARSE
 text/text-role: function
-text/html: <p>The <i>ARSE</i> gene provides instructions for making an enzyme called arylsulfatase E. This enzyme is part of a group known as sulfatases, which are enzymes that help process molecules that contain chemical groups known as sulfates. Sulfatases play important roles in cartilage and bone development.</p><p>Within cells, arylsulfatase E is located in the Golgi apparatus, a structure that modifies newly produced enzymes and other proteins. The function of this enzyme is unknown, although researchers believe it participates in a chemical pathway involving vitamin K. Evidence suggests that vitamin K normally plays a role in bone growth and maintenance of bone density.</p>
+text/html/html:p(1): The <i>ARSE</i> gene provides instructions for making an enzyme called arylsulfatase E. This enzyme is part of a group known as sulfatases, which are enzymes that help process molecules that contain chemical groups known as sulfates. Sulfatases play important roles in cartilage and bone development.
+text/html/html:p(2): Within cells, arylsulfatase E is located in the Golgi apparatus, a structure that modifies newly produced enzymes and other proteins. The function of this enzyme is unknown, although researchers believe it participates in a chemical pathway involving vitamin K. Evidence suggests that vitamin K normally plays a role in bone growth and maintenance of bone density.
 related-health-condition/name: X-linked chondrodysplasia punctata 1
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-chondrodysplasia-punctata-1
 synonym(1): ARSE_HUMAN

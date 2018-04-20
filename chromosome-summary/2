@@ -1,7 +1,8 @@
 name: 2
 ghr-page: https://ghr.nlm.nih.gov/chromosome/2
 text/text-role: description
-text/html: <p>Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 2, one copy inherited from each parent, form one of the pairs. Chromosome 2 is the second largest human chromosome, spanning about 243 million building blocks of DNA (base pairs) and representing almost 8 percent of the total DNA in cells.</p><p>Identifying genes on each chromosome is an active area of genetic research.  Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 2 likely contains 1,300 to 1,400 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.</p>
+text/html/html:p(1): Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 2, one copy inherited from each parent, form one of the pairs. Chromosome 2 is the second largest human chromosome, spanning about 243 million building blocks of DNA (base pairs) and representing almost 8 percent of the total DNA in cells.
+text/html/html:p(2): Identifying genes on each chromosome is an active area of genetic research.  Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 2 likely contains 1,300 to 1,400 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.
 related-health-condition(1)/name: 2q37 deletion syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/2q37-deletion-syndrome
 related-health-condition(2)/name: SATB2-associated syndrome

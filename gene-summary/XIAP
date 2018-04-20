@@ -2,7 +2,7 @@ gene-symbol: XIAP
 name: X-linked inhibitor of apoptosis
 ghr-page: https://ghr.nlm.nih.gov/gene/XIAP
 text/text-role: function
-text/html: <p>The <i>XIAP</i> gene provides instructions for making a protein that is found in many types of cells, including immune cells. It helps protect these cells from self-destructing (undergoing apoptosis) by blocking (inhibiting) the action of certain enzymes called caspases, which are necessary for apoptosis. Specifically, the XIAP protein inhibits caspase enzymes 3, 7, and 9. The XIAP protein also plays a role in several other signaling pathways that are involved in various functions in the body.</p>
+text/html/html:p: The <i>XIAP</i> gene provides instructions for making a protein that is found in many types of cells, including immune cells. It helps protect these cells from self-destructing (undergoing apoptosis) by blocking (inhibiting) the action of certain enzymes called caspases, which are necessary for apoptosis. Specifically, the XIAP protein inhibits caspase enzymes 3, 7, and 9. The XIAP protein also plays a role in several other signaling pathways that are involved in various functions in the body.
 related-health-condition/name: X-linked lymphoproliferative disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-lymphoproliferative-disease
 synonym(1): API3

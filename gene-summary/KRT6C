@@ -2,7 +2,8 @@ gene-symbol: KRT6C
 name: keratin 6C
 ghr-page: https://ghr.nlm.nih.gov/gene/KRT6C
 text/text-role: function
-text/html: <p>The <i>KRT6C</i> gene provides instructions for making a protein called keratin 6c or K6c. Keratins are a group of tough, fibrous proteins that form the structural framework of certain cells, particularly cells that make up the skin, hair, and nails. Keratin 6c is found in the skin, although it is unknown which other tissues may produce this protein.</p><p>Keratin 6c is a component of molecules called keratin intermediate filaments. These filaments assemble into dense networks that provide strength and resilience to the skin, nails, and other tissues. Networks of keratin intermediate filaments protect these tissues from being damaged by friction and other everyday physical stresses.</p>
+text/html/html:p(1): The <i>KRT6C</i> gene provides instructions for making a protein called keratin 6c or K6c. Keratins are a group of tough, fibrous proteins that form the structural framework of certain cells, particularly cells that make up the skin, hair, and nails. Keratin 6c is found in the skin, although it is unknown which other tissues may produce this protein.
+text/html/html:p(2): Keratin 6c is a component of molecules called keratin intermediate filaments. These filaments assemble into dense networks that provide strength and resilience to the skin, nails, and other tissues. Networks of keratin intermediate filaments protect these tissues from being damaged by friction and other everyday physical stresses.
 related-health-condition/name: pachyonychia congenita
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pachyonychia-congenita
 synonym(1): CK-6C

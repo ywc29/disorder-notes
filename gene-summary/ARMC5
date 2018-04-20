@@ -2,7 +2,7 @@ gene-symbol: ARMC5
 name: armadillo repeat containing 5
 ghr-page: https://ghr.nlm.nih.gov/gene/ARMC5
 text/text-role: function
-text/html: <p>The <i>ARMC5</i> gene provides instructions for making a protein about which little is known. It is found mainly in the fluid surrounding the cell nucleus (cytoplasm), and studies suggest that its function depends on interacting with other proteins. It is thought to act as a tumor suppressor, which means that it helps to prevent cells from growing and dividing too rapidly or in an uncontrolled way.</p>
+text/html/html:p: The <i>ARMC5</i> gene provides instructions for making a protein about which little is known. It is found mainly in the fluid surrounding the cell nucleus (cytoplasm), and studies suggest that its function depends on interacting with other proteins. It is thought to act as a tumor suppressor, which means that it helps to prevent cells from growing and dividing too rapidly or in an uncontrolled way.
 related-health-condition/name: primary macronodular adrenal hyperplasia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/primary-macronodular-adrenal-hyperplasia
 synonym: FLJ13063

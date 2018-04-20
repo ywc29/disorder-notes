@@ -2,7 +2,7 @@ gene-symbol: RBPJ
 name: recombination signal binding protein for immunoglobulin kappa J region
 ghr-page: https://ghr.nlm.nih.gov/gene/RBPJ
 text/text-role: function
-text/html: <p>The <i>RBPJ</i> gene provides instructions for making a protein called RBP-J, which is an integral part of a signaling pathway known as the Notch pathway. Notch signaling controls how certain types of cells develop in the growing embryo, including those that form the bones, heart, muscles, nerves, and blood. Signaling through the Notch pathway stimulates the RBP-J protein to attach (bind) to specific regions of DNA and control the activity of genes that play a role in cellular development.</p>
+text/html/html:p: The <i>RBPJ</i> gene provides instructions for making a protein called RBP-J, which is an integral part of a signaling pathway known as the Notch pathway. Notch signaling controls how certain types of cells develop in the growing embryo, including those that form the bones, heart, muscles, nerves, and blood. Signaling through the Notch pathway stimulates the RBP-J protein to attach (bind) to specific regions of DNA and control the activity of genes that play a role in cellular development.
 related-health-condition(1)/name: Adams-Oliver syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/adams-oliver-syndrome
 related-health-condition(2)/name: rheumatoid arthritis

@@ -2,7 +2,7 @@ gene-symbol: HPRT1
 name: hypoxanthine phosphoribosyltransferase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/HPRT1
 text/text-role: function
-text/html: <p>The <i>HPRT1</i> gene provides instructions for producing an enzyme called hypoxanthine phosphoribosyltransferase 1. This enzyme allows cells to recycle purines, a type of building block of DNA and its chemical cousin RNA.   Manufacturing purines uses more energy and takes more time than recycling purines, which makes recycling these molecules more efficient.  Recycling purines ensures that cells have a plentiful supply of building blocks for the production of DNA and RNA.  The process of recycling purines is also known as the purine salvage pathway.</p>
+text/html/html:p: The <i>HPRT1</i> gene provides instructions for producing an enzyme called hypoxanthine phosphoribosyltransferase 1. This enzyme allows cells to recycle purines, a type of building block of DNA and its chemical cousin RNA.   Manufacturing purines uses more energy and takes more time than recycling purines, which makes recycling these molecules more efficient.  Recycling purines ensures that cells have a plentiful supply of building blocks for the production of DNA and RNA.  The process of recycling purines is also known as the purine salvage pathway.
 related-health-condition/name: Lesch-Nyhan syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/lesch-nyhan-syndrome
 synonym(1): Guanine Phosphoribosyltransferase

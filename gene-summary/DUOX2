@@ -2,7 +2,7 @@ gene-symbol: DUOX2
 name: dual oxidase 2
 ghr-page: https://ghr.nlm.nih.gov/gene/DUOX2
 text/text-role: function
-text/html: <p>The <i>DUOX2</i> gene provides instructions for making an enzyme called dual oxidase 2. This enzyme is found in the thyroid gland, which is a butterfly-shaped tissue in the lower neck. The enzyme is also found in salivary glands, the digestive tract, and airways in the throat and lungs. Dual oxidase 2 helps generate a chemical called hydrogen peroxide. In the thyroid, hydrogen peroxide is required for one of the final steps in the production of thyroid hormones. Thyroid hormones play an important role in regulating growth, brain development, and the rate of chemical reactions in the body (metabolism).</p>
+text/html/html:p: The <i>DUOX2</i> gene provides instructions for making an enzyme called dual oxidase 2. This enzyme is found in the thyroid gland, which is a butterfly-shaped tissue in the lower neck. The enzyme is also found in salivary glands, the digestive tract, and airways in the throat and lungs. Dual oxidase 2 helps generate a chemical called hydrogen peroxide. In the thyroid, hydrogen peroxide is required for one of the final steps in the production of thyroid hormones. Thyroid hormones play an important role in regulating growth, brain development, and the rate of chemical reactions in the body (metabolism).
 related-health-condition/name: congenital hypothyroidism
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-hypothyroidism
 synonym(1): DUOX2_HUMAN

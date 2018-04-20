@@ -2,7 +2,7 @@ gene-symbol: CASK
 name: calcium/calmodulin dependent serine protein kinase
 ghr-page: https://ghr.nlm.nih.gov/gene/CASK
 text/text-role: function
-text/html: <p>The <i>CASK</i> gene provides instructions for making a protein called calcium/calmodulin-dependent serine protein kinase (CASK). The CASK protein is primarily found in nerve cells (neurons) in the brain, where it helps control the activity (expression) of other genes that are involved in brain development. It also helps regulate the movement of chemicals called neurotransmitters and of charged atoms (ions), which are necessary for signaling between neurons. Research suggests that the CASK protein may also interact with the protein produced from another gene, <i>FRMD7</i>, to promote development of the nerves that control eye movement (the oculomotor neural network).</p>
+text/html/html:p: The <i>CASK</i> gene provides instructions for making a protein called calcium/calmodulin-dependent serine protein kinase (CASK). The CASK protein is primarily found in nerve cells (neurons) in the brain, where it helps control the activity (expression) of other genes that are involved in brain development. It also helps regulate the movement of chemicals called neurotransmitters and of charged atoms (ions), which are necessary for signaling between neurons. Research suggests that the CASK protein may also interact with the protein produced from another gene, <i>FRMD7</i>, to promote development of the nerves that control eye movement (the oculomotor neural network).
 related-health-condition(1)/name: CASK-related intellectual disability
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cask-related-intellectual-disability
 related-health-condition(2)/name: FG syndrome

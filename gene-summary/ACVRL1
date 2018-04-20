@@ -2,7 +2,8 @@ gene-symbol: ACVRL1
 name: activin A receptor like type 1
 ghr-page: https://ghr.nlm.nih.gov/gene/ACVRL1
 text/text-role: function
-text/html: <p>The <i>ACVRL1</i> gene provides instructions for making a protein called activin receptor-like kinase 1. This protein is found on the surface of cells, especially in the lining of developing arteries.</p><p>The ACVRL1 protein is a receptor. It acts as a "lock" waiting for a specific protein, called its ligand, to serve as the "key." In the case of the ACVRL1 protein, the ligand is called transforming growth factor beta. The interaction between these proteins plays a role in the development of blood vessels. In particular, this protein interaction is involved in the specialization of new blood vessels into arteries or veins.</p>
+text/html/html:p(1): The <i>ACVRL1</i> gene provides instructions for making a protein called activin receptor-like kinase 1. This protein is found on the surface of cells, especially in the lining of developing arteries.
+text/html/html:p(2): The ACVRL1 protein is a receptor. It acts as a "lock" waiting for a specific protein, called its ligand, to serve as the "key." In the case of the ACVRL1 protein, the ligand is called transforming growth factor beta. The interaction between these proteins plays a role in the development of blood vessels. In particular, this protein interaction is involved in the specialization of new blood vessels into arteries or veins.
 related-health-condition(1)/name: hereditary hemorrhagic telangiectasia
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-hemorrhagic-telangiectasia
 related-health-condition(2)/name: pulmonary arterial hypertension

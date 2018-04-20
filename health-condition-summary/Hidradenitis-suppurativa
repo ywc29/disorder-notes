@@ -1,7 +1,9 @@
 name: Hidradenitis suppurativa
 ghr-page: https://ghr.nlm.nih.gov/condition/hidradenitis-suppurativa
 text/text-role: description
-text/html: <p>Hidradenitis suppurativa, also known as acne inversa, is a chronic skin disease characterized by recurrent boil-like lumps (nodules) under the skin. The nodules become inflamed and painful. They tend to break open (rupture), causing abscesses that drain fluid and pus. As the abscesses heal, they produce significant scarring of the skin.</p><p>The signs and symptoms of hidradenitis suppurativa appear after puberty, usually in a person's teens or twenties. Nodules are most likely to form in the armpits and groin. They may also develop around the anus, on the buttocks, or under the breasts. In some cases, nodules appear in other areas, such as the nape of the neck, waist, and inner thighs.</p><p>The recurrent nodules and abscesses cause chronic pain and can lead to self-consciousness, social isolation, and depression. Rarely, nodules on the buttocks can develop into a type of skin cancer called squamous cell carcinoma.</p>
+text/html/html:p(1): Hidradenitis suppurativa, also known as acne inversa, is a chronic skin disease characterized by recurrent boil-like lumps (nodules) under the skin. The nodules become inflamed and painful. They tend to break open (rupture), causing abscesses that drain fluid and pus. As the abscesses heal, they produce significant scarring of the skin.
+text/html/html:p(2): The signs and symptoms of hidradenitis suppurativa appear after puberty, usually in a person's teens or twenties. Nodules are most likely to form in the armpits and groin. They may also develop around the anus, on the buttocks, or under the breasts. In some cases, nodules appear in other areas, such as the nape of the neck, waist, and inner thighs.
+text/html/html:p(3): The recurrent nodules and abscesses cause chronic pain and can lead to self-consciousness, social isolation, and depression. Rarely, nodules on the buttocks can develop into a type of skin cancer called squamous cell carcinoma.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene(1)/gene-symbol: NCSTN

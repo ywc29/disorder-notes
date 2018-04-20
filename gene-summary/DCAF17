@@ -2,7 +2,7 @@ gene-symbol: DCAF17
 name: DDB1 and CUL4 associated factor 17
 ghr-page: https://ghr.nlm.nih.gov/gene/DCAF17
 text/text-role: function
-text/html: <p>The <i>DCAF17</i> gene provides instructions for making a protein whose function is unknown. The gene is active (expressed) in several organs and tissues in the body, including the brain, skin, and liver. Within cells, the protein produced from this gene is found in the nucleolus, which is a small region inside the nucleus where cell structures called ribosomes are assembled. It is not clear whether the DCAF17 protein plays a role in this process.</p>
+text/html/html:p: The <i>DCAF17</i> gene provides instructions for making a protein whose function is unknown. The gene is active (expressed) in several organs and tissues in the body, including the brain, skin, and liver. Within cells, the protein produced from this gene is found in the nucleolus, which is a small region inside the nucleus where cell structures called ribosomes are assembled. It is not clear whether the DCAF17 protein plays a role in this process.
 related-health-condition/name: Woodhouse-Sakati syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/woodhouse-sakati-syndrome
 synonym(1): C2orf37

@@ -2,7 +2,8 @@ gene-symbol: RPS6KA3
 name: ribosomal protein S6 kinase A3
 ghr-page: https://ghr.nlm.nih.gov/gene/RPS6KA3
 text/text-role: function
-text/html: <p>The <i>RPS6KA3</i> gene provides instructions for making a protein that is part of a family called ribosomal S6 kinases (RSKs). These proteins help regulate the activity of certain genes and are involved in signaling within cells. RSK proteins are thought to play a role in several important cellular processes including cell growth and division (proliferation), cell specialization (differentiation), and the self-destruction of cells (apoptosis).</p><p>The protein made by the <i>RPS6KA3</i> gene appears to play an important role in the brain. The protein is involved in cell signaling pathways that are required for learning, the formation of long-term memories, and the survival of nerve cells.</p>
+text/html/html:p(1): The <i>RPS6KA3</i> gene provides instructions for making a protein that is part of a family called ribosomal S6 kinases (RSKs). These proteins help regulate the activity of certain genes and are involved in signaling within cells. RSK proteins are thought to play a role in several important cellular processes including cell growth and division (proliferation), cell specialization (differentiation), and the self-destruction of cells (apoptosis).
+text/html/html:p(2): The protein made by the <i>RPS6KA3</i> gene appears to play an important role in the brain. The protein is involved in cell signaling pathways that are required for learning, the formation of long-term memories, and the survival of nerve cells.
 related-health-condition/name: Coffin-Lowry syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/coffin-lowry-syndrome
 synonym(1): HU-2

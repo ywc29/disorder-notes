@@ -1,7 +1,7 @@
 name: Glycoprotein VI deficiency
 ghr-page: https://ghr.nlm.nih.gov/condition/glycoprotein-vi-deficiency
 text/text-role: description
-text/html: <p>Glycoprotein VI deficiency is a bleeding disorder associated with a decreased ability to form blood clots. Normally, blood clots protect the body after an injury by sealing off damaged blood vessels and preventing further blood loss. Because people with glycoprotein VI deficiency cannot form blood clots normally, they have an increased risk of nosebleeds (epistaxis) and may experience abnormally heavy or prolonged bleeding following minor injury or surgery. In some affected individuals, spontaneous bleeding under the skin causes areas of discoloration (ecchymosis). Women with glycoprotein VI deficiency often have heavy or prolonged menstrual periods (menorrhagia).</p>
+text/html/html:p: Glycoprotein VI deficiency is a bleeding disorder associated with a decreased ability to form blood clots. Normally, blood clots protect the body after an injury by sealing off damaged blood vessels and preventing further blood loss. Because people with glycoprotein VI deficiency cannot form blood clots normally, they have an increased risk of nosebleeds (epistaxis) and may experience abnormally heavy or prolonged bleeding following minor injury or surgery. In some affected individuals, spontaneous bleeding under the skin causes areas of discoloration (ecchymosis). Women with glycoprotein VI deficiency often have heavy or prolonged menstrual periods (menorrhagia).
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: GP6

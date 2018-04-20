@@ -2,7 +2,7 @@ gene-symbol: SCN5A
 name: sodium voltage-gated channel alpha subunit 5
 ghr-page: https://ghr.nlm.nih.gov/gene/SCN5A
 text/text-role: function
-text/html: <p>The <i>SCN5A</i> gene belongs to a family of genes that provide instructions for making sodium channels. These channels open and close at specific times to control the flow of positively charged sodium atoms (sodium ions) into cells. The sodium channels containing proteins produced from the <i>SCN5A</i> gene are abundant in heart (cardiac) muscle cells and play key roles in these cells' ability to generate and transmit electrical signals. These channels play a major role in signaling the start of each heartbeat, coordinating the contractions of the upper and lower chambers of the heart, and maintaining a normal heart rhythm.</p>
+text/html/html:p: The <i>SCN5A</i> gene belongs to a family of genes that provide instructions for making sodium channels. These channels open and close at specific times to control the flow of positively charged sodium atoms (sodium ions) into cells. The sodium channels containing proteins produced from the <i>SCN5A</i> gene are abundant in heart (cardiac) muscle cells and play key roles in these cells' ability to generate and transmit electrical signals. These channels play a major role in signaling the start of each heartbeat, coordinating the contractions of the upper and lower chambers of the heart, and maintaining a normal heart rhythm.
 related-health-condition(1)/name: Brugada syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/brugada-syndrome
 related-health-condition(2)/name: familial atrial fibrillation

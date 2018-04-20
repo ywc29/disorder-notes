@@ -2,7 +2,7 @@ gene-symbol: CEP290
 name: centrosomal protein 290
 ghr-page: https://ghr.nlm.nih.gov/gene/CEP290
 text/text-role: function
-text/html: <p>The <i>CEP290</i> gene provides instructions for making a protein that is present in many types of cells. Although this protein's function is not well understood, studies suggest that it plays an important role in cell structures called centrosomes and cilia. Centrosomes are involved in cell division and the assembly of microtubules, which are proteins that transport materials in cells and help the cell maintain its shape. Cilia are microscopic, finger-like projections that stick out from the surface of cells. Cilia are involved in cell movement and many different chemical signaling pathways. They are also necessary for the perception of sensory input (such as vision, hearing, and smell).</p>
+text/html/html:p: The <i>CEP290</i> gene provides instructions for making a protein that is present in many types of cells. Although this protein's function is not well understood, studies suggest that it plays an important role in cell structures called centrosomes and cilia. Centrosomes are involved in cell division and the assembly of microtubules, which are proteins that transport materials in cells and help the cell maintain its shape. Cilia are microscopic, finger-like projections that stick out from the surface of cells. Cilia are involved in cell movement and many different chemical signaling pathways. They are also necessary for the perception of sensory input (such as vision, hearing, and smell).
 related-health-condition(1)/name: Bardet-Biedl syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/bardet-biedl-syndrome
 related-health-condition(2)/name: Joubert syndrome

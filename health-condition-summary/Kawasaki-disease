@@ -1,7 +1,8 @@
 name: Kawasaki disease
 ghr-page: https://ghr.nlm.nih.gov/condition/kawasaki-disease
 text/text-role: description
-text/html: <p>Kawasaki disease is a sudden and time-limited (acute) illness that affects infants and young children. Affected children develop a prolonged fever lasting several days, a skin rash, and swollen lymph nodes in the neck (cervical lymphadenopathy). They also develop redness in the whites of the eyes (conjunctivitis) and redness (erythema) of the lips, lining of the mouth (oral mucosa), tongue, palms of the hands, and soles of the feet.</p><p>Without treatment, 15 to 25 percent of individuals with Kawasaki disease develop bulging and thinning of the walls of the arteries that supply blood to the heart muscle (coronary artery aneurysms) or other damage to the coronary arteries, which can be life-threatening.</p>
+text/html/html:p(1): Kawasaki disease is a sudden and time-limited (acute) illness that affects infants and young children. Affected children develop a prolonged fever lasting several days, a skin rash, and swollen lymph nodes in the neck (cervical lymphadenopathy). They also develop redness in the whites of the eyes (conjunctivitis) and redness (erythema) of the lips, lining of the mouth (oral mucosa), tongue, palms of the hands, and soles of the feet.
+text/html/html:p(2): Without treatment, 15 to 25 percent of individuals with Kawasaki disease develop bulging and thinning of the walls of the arteries that supply blood to the heart muscle (coronary artery aneurysms) or other damage to the coronary arteries, which can be life-threatening.
 inheritance-pattern/code: u
 inheritance-pattern/memo: pattern unknown
 related-gene/gene-symbol: ITPKC

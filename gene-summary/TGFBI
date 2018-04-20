@@ -2,7 +2,7 @@ gene-symbol: TGFBI
 name: transforming growth factor beta induced
 ghr-page: https://ghr.nlm.nih.gov/gene/TGFBI
 text/text-role: function
-text/html: <p>The <i>TGFBI</i> gene provides instructions for making a protein called transforming growth factor beta induced (TGFBI). This protein is released (secreted) from cells and becomes part of the extracellular matrix, which is an intricate network that forms in the spaces between cells and provides structural support to tissues. The TGFBI protein is thought to play a role in the attachment of cells to one another (cell adhesion) and cell movement (migration). This protein is found in many tissues in the body, including the the clear, outer covering of the eye (the cornea).</p>
+text/html/html:p: The <i>TGFBI</i> gene provides instructions for making a protein called transforming growth factor beta induced (TGFBI). This protein is released (secreted) from cells and becomes part of the extracellular matrix, which is an intricate network that forms in the spaces between cells and provides structural support to tissues. The TGFBI protein is thought to play a role in the attachment of cells to one another (cell adhesion) and cell movement (migration). This protein is found in many tissues in the body, including the the clear, outer covering of the eye (the cornea).
 related-health-condition(1)/name: keratoconus
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/keratoconus
 related-health-condition(2)/name: lattice corneal dystrophy type I

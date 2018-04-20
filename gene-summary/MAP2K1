@@ -2,7 +2,7 @@ gene-symbol: MAP2K1
 name: mitogen-activated protein kinase kinase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/MAP2K1
 text/text-role: function
-text/html: <p>The <i>MAP2K1</i> gene provides instructions for making a protein known as MEK1 protein kinase. This protein is part of a signaling pathway called the RAS/MAPK pathway, which transmits chemical signals from outside the cell to the cell's nucleus. RAS/MAPK signaling helps control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (migration), and the self-destruction of cells (apoptosis). MEK1 protein kinase appears to be essential for normal development before birth and for survival after birth.</p>
+text/html/html:p: The <i>MAP2K1</i> gene provides instructions for making a protein known as MEK1 protein kinase. This protein is part of a signaling pathway called the RAS/MAPK pathway, which transmits chemical signals from outside the cell to the cell's nucleus. RAS/MAPK signaling helps control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (migration), and the self-destruction of cells (apoptosis). MEK1 protein kinase appears to be essential for normal development before birth and for survival after birth.
 related-health-condition(1)/name: cardiofaciocutaneous syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cardiofaciocutaneous-syndrome
 related-health-condition(2)/name: Langerhans cell histiocytosis

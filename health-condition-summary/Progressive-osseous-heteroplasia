@@ -1,7 +1,8 @@
 name: Progressive osseous heteroplasia
 ghr-page: https://ghr.nlm.nih.gov/condition/progressive-osseous-heteroplasia
 text/text-role: description
-text/html: <p>Progressive osseous heteroplasia is a disorder in which bone forms within skin and muscle tissue. Bone that forms outside the skeleton is called heterotopic or ectopic bone. In progressive osseous heteroplasia, ectopic bone formation begins in the deep layers of the skin (dermis and subcutaneous fat) and gradually moves into other tissues such as skeletal muscle and tendons. The bony lesions within the skin may be painful and may develop into open sores (ulcers). Over time, joints can become involved, resulting in impaired mobility.</p><p>Signs and symptoms of progressive osseous heteroplasia usually become noticeable during infancy. In some affected individuals, however, the disorder may not become evident until later in childhood or in early adulthood.</p>
+text/html/html:p(1): Progressive osseous heteroplasia is a disorder in which bone forms within skin and muscle tissue. Bone that forms outside the skeleton is called heterotopic or ectopic bone. In progressive osseous heteroplasia, ectopic bone formation begins in the deep layers of the skin (dermis and subcutaneous fat) and gradually moves into other tissues such as skeletal muscle and tendons. The bony lesions within the skin may be painful and may develop into open sores (ulcers). Over time, joints can become involved, resulting in impaired mobility.
+text/html/html:p(2): Signs and symptoms of progressive osseous heteroplasia usually become noticeable during infancy. In some affected individuals, however, the disorder may not become evident until later in childhood or in early adulthood.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene/gene-symbol: GNAS

@@ -2,7 +2,9 @@ gene-symbol: RAD21
 name: RAD21 cohesin complex component
 ghr-page: https://ghr.nlm.nih.gov/gene/RAD21
 text/text-role: function
-text/html: <p>The <i>RAD21</i> gene provides instructions for making a protein that is involved in regulating the structure and organization of chromosomes during cell division.</p><p>Before cells divide, they must copy all of their chromosomes. The copied DNA from each chromosome is arranged into two identical structures, called sister chromatids, which are attached to one another during the early stages of cell division. The RAD21 protein is part of a protein group called the cohesin complex that holds the sister chromatids together.</p><p>Researchers believe that the RAD21 protein, as a structural component of the cohesin complex, also plays important roles in stabilizing cells' genetic information, repairing damaged DNA, and regulating the activity of certain genes that are essential for normal development.</p>
+text/html/html:p(1): The <i>RAD21</i> gene provides instructions for making a protein that is involved in regulating the structure and organization of chromosomes during cell division.
+text/html/html:p(2): Before cells divide, they must copy all of their chromosomes. The copied DNA from each chromosome is arranged into two identical structures, called sister chromatids, which are attached to one another during the early stages of cell division. The RAD21 protein is part of a protein group called the cohesin complex that holds the sister chromatids together.
+text/html/html:p(3): Researchers believe that the RAD21 protein, as a structural component of the cohesin complex, also plays important roles in stabilizing cells' genetic information, repairing damaged DNA, and regulating the activity of certain genes that are essential for normal development.
 related-health-condition(1)/name: Cornelia de Lange syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cornelia-de-lange-syndrome
 related-health-condition(2)/name: trichorhinophalangeal syndrome type II

@@ -2,7 +2,7 @@ gene-symbol: SLITRK1
 name: SLIT and NTRK like family member 1
 ghr-page: https://ghr.nlm.nih.gov/gene/SLITRK1
 text/text-role: function
-text/html: <p>The <i>SLITRK1</i> gene provides instructions for making a protein that is a member of the SLITRK family.  Proteins in this family are found in the brain, where they play a role in the growth and development of nerve cells. The SLITRK1 protein may help guide the growth of specialized extensions (axons and dendrites) that allow each nerve cell to communicate with nearby cells.</p>
+text/html/html:p: The <i>SLITRK1</i> gene provides instructions for making a protein that is a member of the SLITRK family.  Proteins in this family are found in the brain, where they play a role in the growth and development of nerve cells. The SLITRK1 protein may help guide the growth of specialized extensions (axons and dendrites) that allow each nerve cell to communicate with nearby cells.
 related-health-condition/name: Tourette syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/tourette-syndrome
 synonym(1): KIAA0918

@@ -2,7 +2,8 @@ gene-symbol: USP9Y
 name: ubiquitin specific peptidase 9, Y-linked
 ghr-page: https://ghr.nlm.nih.gov/gene/USP9Y
 text/text-role: function
-text/html: <p>The <i>USP9Y</i> gene provides instructions for making a protein called ubiquitin-specific protease 9. This gene is found on the Y chromosome. People normally have 46 chromosomes in each cell. Two of the 46 chromosomes are sex chromosomes, called X and Y. Females have two X chromosomes (46,XX), and males have one X chromosome and one Y chromosome (46,XY).</p><p>Because it is located on the Y chromosome, the <i>USP9Y</i> gene is present only in males. It occurs in a region of the Y chromosome called azoospermia factor A (AZFA). Azoospermia is the absence of sperm cells. The <i>USP9Y</i> gene is believed to be involved in sperm cell development, but its specific function is not well understood.</p>
+text/html/html:p(1): The <i>USP9Y</i> gene provides instructions for making a protein called ubiquitin-specific protease 9. This gene is found on the Y chromosome. People normally have 46 chromosomes in each cell. Two of the 46 chromosomes are sex chromosomes, called X and Y. Females have two X chromosomes (46,XX), and males have one X chromosome and one Y chromosome (46,XY).
+text/html/html:p(2): Because it is located on the Y chromosome, the <i>USP9Y</i> gene is present only in males. It occurs in a region of the Y chromosome called azoospermia factor A (AZFA). Azoospermia is the absence of sperm cells. The <i>USP9Y</i> gene is believed to be involved in sperm cell development, but its specific function is not well understood.
 related-health-condition/name: Y chromosome infertility
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/y-chromosome-infertility
 synonym(1): AZF

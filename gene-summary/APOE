@@ -2,7 +2,8 @@ gene-symbol: APOE
 name: apolipoprotein E
 ghr-page: https://ghr.nlm.nih.gov/gene/APOE
 text/text-role: function
-text/html: <p>The <i>APOE</i> gene provides instructions for making a protein called apolipoprotein E. This protein combines with fats (lipids) in the body to form molecules called lipoproteins. Lipoproteins are responsible for packaging cholesterol and other fats and carrying them through the bloodstream. Maintaining normal levels of cholesterol is essential for the prevention of disorders that affect the heart and blood vessels (cardiovascular diseases), including heart attack and stroke.</p><p>There are at least three slightly different versions (alleles) of the <i>APOE</i> gene. The major alleles are called e2, e3, and e4. The most common allele is e3, which is found in more than half of the general population.</p>
+text/html/html:p(1): The <i>APOE</i> gene provides instructions for making a protein called apolipoprotein E. This protein combines with fats (lipids) in the body to form molecules called lipoproteins. Lipoproteins are responsible for packaging cholesterol and other fats and carrying them through the bloodstream. Maintaining normal levels of cholesterol is essential for the prevention of disorders that affect the heart and blood vessels (cardiovascular diseases), including heart attack and stroke.
+text/html/html:p(2): There are at least three slightly different versions (alleles) of the <i>APOE</i> gene. The major alleles are called e2, e3, and e4. The most common allele is e3, which is found in more than half of the general population.
 related-health-condition(1)/name: age-related hearing loss
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-hearing-loss
 related-health-condition(2)/name: age-related macular degeneration

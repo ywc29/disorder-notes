@@ -2,7 +2,7 @@ gene-symbol: PYGL
 name: glycogen phosphorylase L
 ghr-page: https://ghr.nlm.nih.gov/gene/PYGL
 text/text-role: function
-text/html: <p>The <i>PYGL</i> gene provides instructions for making an enzyme called liver glycogen phosphorylase. This enzyme breaks down a complex sugar called glycogen. Liver glycogen phosphorylase is one of three related enzymes that break down glycogen in cells; the other glycogen phosphorylases are found in the brain and in muscles. Liver glycogen phosphorylase is found only in liver cells, where it breaks down glycogen into a type of sugar called glucose-1-phosphate. Additional steps convert glucose-1-phosphate into glucose, a simple sugar that is the main energy source for most cells in the body.</p>
+text/html/html:p: The <i>PYGL</i> gene provides instructions for making an enzyme called liver glycogen phosphorylase. This enzyme breaks down a complex sugar called glycogen. Liver glycogen phosphorylase is one of three related enzymes that break down glycogen in cells; the other glycogen phosphorylases are found in the brain and in muscles. Liver glycogen phosphorylase is found only in liver cells, where it breaks down glycogen into a type of sugar called glucose-1-phosphate. Additional steps convert glucose-1-phosphate into glucose, a simple sugar that is the main energy source for most cells in the body.
 related-health-condition/name: glycogen storage disease type VI
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-vi
 synonym(1): glycogen phosphorylase, liver form

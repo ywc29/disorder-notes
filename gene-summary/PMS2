@@ -2,7 +2,7 @@ gene-symbol: PMS2
 name: PMS1 homolog 2, mismatch repair system component
 ghr-page: https://ghr.nlm.nih.gov/gene/PMS2
 text/text-role: function
-text/html: <p>The <i>PMS2</i> gene provides instructions for making a protein that plays an essential role in repairing DNA. This protein helps fix errors that are made when DNA is copied (DNA replication) in preparation for cell division. The PMS2 protein joins with another protein called MLH1 (produced from the <i>MLH1</i> gene) to form a protein complex. This complex coordinates the activities of other proteins that repair errors made during DNA replication. Repairs are made by removing the section of DNA that contains errors and replacing it with a corrected DNA sequence. The <i>PMS2</i> gene is a member of a set of genes known as the mismatch repair (MMR) genes.</p>
+text/html/html:p: The <i>PMS2</i> gene provides instructions for making a protein that plays an essential role in repairing DNA. This protein helps fix errors that are made when DNA is copied (DNA replication) in preparation for cell division. The PMS2 protein joins with another protein called MLH1 (produced from the <i>MLH1</i> gene) to form a protein complex. This complex coordinates the activities of other proteins that repair errors made during DNA replication. Repairs are made by removing the section of DNA that contains errors and replacing it with a corrected DNA sequence. The <i>PMS2</i> gene is a member of a set of genes known as the mismatch repair (MMR) genes.
 related-health-condition(1)/name: Lynch syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/lynch-syndrome
 related-health-condition(2)/name: ovarian cancer

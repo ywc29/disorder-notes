@@ -1,7 +1,7 @@
 name: Myostatin-related muscle hypertrophy
 ghr-page: https://ghr.nlm.nih.gov/condition/myostatin-related-muscle-hypertrophy
 text/text-role: description
-text/html: <p>Myostatin-related muscle hypertrophy is a rare condition characterized by reduced body fat and increased muscle size.  Affected individuals have up to twice the usual amount of muscle mass in their bodies.  They also tend to have increased muscle strength.  Myostatin-related muscle hypertrophy is not known to cause any medical problems, and affected individuals are intellectually normal.</p>
+text/html/html:p: Myostatin-related muscle hypertrophy is a rare condition characterized by reduced body fat and increased muscle size.  Affected individuals have up to twice the usual amount of muscle mass in their bodies.  They also tend to have increased muscle strength.  Myostatin-related muscle hypertrophy is not known to cause any medical problems, and affected individuals are intellectually normal.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene/gene-symbol: MSTN

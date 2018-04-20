@@ -2,7 +2,7 @@ gene-symbol: PKLR
 name: pyruvate kinase L/R
 ghr-page: https://ghr.nlm.nih.gov/gene/PKLR
 text/text-role: function
-text/html: <p>The <i>PKLR</i> gene is active (expressed) in the liver and in red blood cells, where it provides instructions for producing an enzyme called pyruvate kinase. This enzyme is involved in a critical energy-producing process known as glycolysis. During glycolysis, the simple sugar glucose is broken down to produce energy. Specifically, pyruvate kinase is involved in the last step of the glycolytic pathway. In this step, a cluster of oxygen and phosphorus atoms (a phosphate group) is moved from a molecule called phosphoenolpyruvate to another molecule called adenosine diphosphate (ADP), resulting in molecules called pyruvate and adenosine triphosphate (ATP). ATP is the cell's main energy source.</p>
+text/html/html:p: The <i>PKLR</i> gene is active (expressed) in the liver and in red blood cells, where it provides instructions for producing an enzyme called pyruvate kinase. This enzyme is involved in a critical energy-producing process known as glycolysis. During glycolysis, the simple sugar glucose is broken down to produce energy. Specifically, pyruvate kinase is involved in the last step of the glycolytic pathway. In this step, a cluster of oxygen and phosphorus atoms (a phosphate group) is moved from a molecule called phosphoenolpyruvate to another molecule called adenosine diphosphate (ADP), resulting in molecules called pyruvate and adenosine triphosphate (ATP). ATP is the cell's main energy source.
 related-health-condition/name: pyruvate kinase deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pyruvate-kinase-deficiency
 synonym(1): KPYR_HUMAN

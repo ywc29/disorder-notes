@@ -1,7 +1,8 @@
 name: Steatocystoma multiplex
 ghr-page: https://ghr.nlm.nih.gov/condition/steatocystoma-multiplex
 text/text-role: description
-text/html: <p>Steatocystoma multiplex is a skin disorder characterized by the development of multiple noncancerous (benign) cysts known as steatocystomas. These growths begin in the skin's sebaceous glands, which normally produce an oily substance called sebum that lubricates the skin and hair. Steatocystomas are filled with sebum.</p><p>In affected individuals, steatocystomas typically first appear during adolescence and are found most often on the torso, neck, upper arms, and upper legs. These cysts are usually the only sign of the condition. However, some affected individuals also have mild abnormalities involving the teeth or the fingernails and toenails.</p>
+text/html/html:p(1): Steatocystoma multiplex is a skin disorder characterized by the development of multiple noncancerous (benign) cysts known as steatocystomas. These growths begin in the skin's sebaceous glands, which normally produce an oily substance called sebum that lubricates the skin and hair. Steatocystomas are filled with sebum.
+text/html/html:p(2): In affected individuals, steatocystomas typically first appear during adolescence and are found most often on the torso, neck, upper arms, and upper legs. These cysts are usually the only sign of the condition. However, some affected individuals also have mild abnormalities involving the teeth or the fingernails and toenails.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene/gene-symbol: KRT17

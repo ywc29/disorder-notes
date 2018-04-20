@@ -1,7 +1,7 @@
 name: Familial male-limited precocious puberty
 ghr-page: https://ghr.nlm.nih.gov/condition/familial-male-limited-precocious-puberty
 text/text-role: description
-text/html: <p>Familial male-limited precocious puberty is a condition that causes early sexual development in males; females are not affected. Boys with this disorder begin exhibiting the signs of puberty in early childhood, between the ages of 2 and 5. Signs of male puberty include a deepening voice, acne, increased body hair, underarm odor, growth of the penis and testes, and spontaneous erections. Changes in behavior, such as increased aggression and early interest in sex, may also occur. Without treatment, affected boys grow quickly at first, but they stop growing earlier than usual. As a result, they tend to be shorter in adulthood compared with other members of their family.</p>
+text/html/html:p: Familial male-limited precocious puberty is a condition that causes early sexual development in males; females are not affected. Boys with this disorder begin exhibiting the signs of puberty in early childhood, between the ages of 2 and 5. Signs of male puberty include a deepening voice, acne, increased body hair, underarm odor, growth of the penis and testes, and spontaneous erections. Changes in behavior, such as increased aggression and early interest in sex, may also occur. Without treatment, affected boys grow quickly at first, but they stop growing earlier than usual. As a result, they tend to be shorter in adulthood compared with other members of their family.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene/gene-symbol: LHCGR

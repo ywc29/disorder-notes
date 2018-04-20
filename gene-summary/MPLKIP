@@ -2,7 +2,7 @@ gene-symbol: MPLKIP
 name: M-phase specific PLK1 interacting protein
 ghr-page: https://ghr.nlm.nih.gov/gene/MPLKIP
 text/text-role: function
-text/html: <p>The <i>MPLKIP</i> gene (formerly known as <i>C7orf11</i>) provides instructions for making a protein called M-phase specific PLK1 interacting protein. The function of this protein is unclear. Based on its interaction with a protein called Plk1, the MPLKIP protein is thought to play a role in cell growth and division. In particular, it may help regulate the cell cycle, which is the cell's way of replicating itself in an organized, step-by-step fashion. Researchers speculate that the MPLKIP protein may also be involved in gene transcription, which is the first step in protein production.</p>
+text/html/html:p: The <i>MPLKIP</i> gene (formerly known as <i>C7orf11</i>) provides instructions for making a protein called M-phase specific PLK1 interacting protein. The function of this protein is unclear. Based on its interaction with a protein called Plk1, the MPLKIP protein is thought to play a role in cell growth and division. In particular, it may help regulate the cell cycle, which is the cell's way of replicating itself in an organized, step-by-step fashion. Researchers speculate that the MPLKIP protein may also be involved in gene transcription, which is the first step in protein production.
 related-health-condition/name: trichothiodystrophy
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/trichothiodystrophy
 synonym(1): ABHS

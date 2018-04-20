@@ -2,7 +2,8 @@ gene-symbol: SBDS
 name: SBDS, ribosome maturation factor
 ghr-page: https://ghr.nlm.nih.gov/gene/SBDS
 text/text-role: function
-text/html: <p>The <i>SBDS</i> gene provides instructions for making a protein whose function is unknown.  Because mutations in this gene cause health problems affecting many body systems, researchers believe that the SBDS protein has an essential function in cells throughout the body.</p><p>Studies suggest that the SBDS protein may play a role in processing RNA, a molecule that is a chemical cousin of DNA.  This protein may also be involved in building ribosomes, which are cellular structures that use the instructions encoded by RNA to create proteins.  More research is needed to clarify the protein's role in these processes.</p>
+text/html/html:p(1): The <i>SBDS</i> gene provides instructions for making a protein whose function is unknown.  Because mutations in this gene cause health problems affecting many body systems, researchers believe that the SBDS protein has an essential function in cells throughout the body.
+text/html/html:p(2): Studies suggest that the SBDS protein may play a role in processing RNA, a molecule that is a chemical cousin of DNA.  This protein may also be involved in building ribosomes, which are cellular structures that use the instructions encoded by RNA to create proteins.  More research is needed to clarify the protein's role in these processes.
 related-health-condition/name: Shwachman-Diamond syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/shwachman-diamond-syndrome
 synonym(1): CGI-97

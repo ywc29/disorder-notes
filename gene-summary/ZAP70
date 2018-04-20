@@ -2,7 +2,8 @@ gene-symbol: ZAP70
 name: zeta chain of T cell receptor associated protein kinase 70
 ghr-page: https://ghr.nlm.nih.gov/gene/ZAP70
 text/text-role: function
-text/html: <p>The <i>ZAP70</i> gene provides instructions for making a protein called zeta-chain-associated protein kinase. This protein is part of a signaling pathway that directs the development of and turns on (activates) immune system cells called T cells. T cells identify foreign substances and defend the body against infection.</p><p>The <i>ZAP70</i> gene is important for the development and function of several types of T cells. These include cytotoxic T cells (CD8+ T cells), whose functions include destroying cells infected by viruses. The <i>ZAP70</i> gene is also involved in the activation of helper T cells (CD4+ T cells). These cells direct and assist the functions of the immune system by influencing the activities of other immune system cells.</p>
+text/html/html:p(1): The <i>ZAP70</i> gene provides instructions for making a protein called zeta-chain-associated protein kinase. This protein is part of a signaling pathway that directs the development of and turns on (activates) immune system cells called T cells. T cells identify foreign substances and defend the body against infection.
+text/html/html:p(2): The <i>ZAP70</i> gene is important for the development and function of several types of T cells. These include cytotoxic T cells (CD8+ T cells), whose functions include destroying cells infected by viruses. The <i>ZAP70</i> gene is also involved in the activation of helper T cells (CD4+ T cells). These cells direct and assist the functions of the immune system by influencing the activities of other immune system cells.
 related-health-condition/name: ZAP70-related severe combined immunodeficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/zap70-related-severe-combined-immunodeficiency
 synonym(1): FLJ17670

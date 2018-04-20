@@ -1,7 +1,7 @@
 name: North American Indian childhood cirrhosis
 ghr-page: https://ghr.nlm.nih.gov/condition/north-american-indian-childhood-cirrhosis
 text/text-role: description
-text/html: <p>North American Indian childhood cirrhosis is a rare liver disorder that occurs in children. The liver malfunction causes yellowing of the skin and whites of the eyes (jaundice) in affected infants. The disorder worsens with age, progressively damaging the liver and leading to chronic, irreversible liver disease (cirrhosis) in childhood or adolescence. Unless it is treated with liver transplantation, North American Indian childhood cirrhosis typically causes life-threatening complications including liver failure.</p>
+text/html/html:p: North American Indian childhood cirrhosis is a rare liver disorder that occurs in children. The liver malfunction causes yellowing of the skin and whites of the eyes (jaundice) in affected infants. The disorder worsens with age, progressively damaging the liver and leading to chronic, irreversible liver disease (cirrhosis) in childhood or adolescence. Unless it is treated with liver transplantation, North American Indian childhood cirrhosis typically causes life-threatening complications including liver failure.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: UTP4

@@ -2,7 +2,7 @@ gene-symbol: SUMF1
 name: sulfatase modifying factor 1
 ghr-page: https://ghr.nlm.nih.gov/gene/SUMF1
 text/text-role: function
-text/html: <p>The <i>SUMF1</i> gene provides instructions for making an enzyme called formylglycine-generating enzyme (FGE). This enzyme is found in a cell structure called the endoplasmic reticulum, which is involved in protein processing and transport. The FGE enzyme modifies other enzymes called sulfatases, which aid in breaking down substances that contain chemical groups known as sulfates. These substances include a variety of sugars, fats, and hormones. Specifically, FGE converts a protein building block (amino acid) within sulfatases called cysteine into a molecule called C-alpha-formylglycine.</p>
+text/html/html:p: The <i>SUMF1</i> gene provides instructions for making an enzyme called formylglycine-generating enzyme (FGE). This enzyme is found in a cell structure called the endoplasmic reticulum, which is involved in protein processing and transport. The FGE enzyme modifies other enzymes called sulfatases, which aid in breaking down substances that contain chemical groups known as sulfates. These substances include a variety of sugars, fats, and hormones. Specifically, FGE converts a protein building block (amino acid) within sulfatases called cysteine into a molecule called C-alpha-formylglycine.
 related-health-condition/name: multiple sulfatase deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/multiple-sulfatase-deficiency
 synonym(1): AAPA3037

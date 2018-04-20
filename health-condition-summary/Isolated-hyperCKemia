@@ -1,7 +1,7 @@
 name: Isolated hyperCKemia
 ghr-page: https://ghr.nlm.nih.gov/condition/isolated-hyperckemia
 text/text-role: description
-text/html: <p>Isolated hyperCKemia is a condition characterized by elevated levels of an enzyme called creatine kinase in the blood. In affected individuals, levels of this enzyme are typically 3 to 10 times higher than normal. While elevated creatine kinase often accompanies various muscle diseases, individuals with isolated hyperCKemia have no muscle weakness or other symptoms. Some people with this condition have abnormalities of muscle cells that can be seen with a microscope, such as unusual variability in the size of muscle fibers, but these changes do not affect the function of the muscle.</p>
+text/html/html:p: Isolated hyperCKemia is a condition characterized by elevated levels of an enzyme called creatine kinase in the blood. In affected individuals, levels of this enzyme are typically 3 to 10 times higher than normal. While elevated creatine kinase often accompanies various muscle diseases, individuals with isolated hyperCKemia have no muscle weakness or other symptoms. Some people with this condition have abnormalities of muscle cells that can be seen with a microscope, such as unusual variability in the size of muscle fibers, but these changes do not affect the function of the muscle.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene/gene-symbol: CAV3

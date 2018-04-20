@@ -2,7 +2,9 @@ gene-symbol: XPC
 name: XPC complex subunit, DNA damage recognition and repair factor
 ghr-page: https://ghr.nlm.nih.gov/gene/XPC
 text/text-role: function
-text/html: <p>The <i>XPC</i> gene provides instructions for making a protein that is involved in repairing damaged DNA. DNA can be damaged by ultraviolet (UV) rays from the sun and by toxic chemicals, radiation, and unstable molecules called free radicals.</p><p>DNA damage occurs frequently, but normal cells are usually able to fix it before it can cause problems. One of the major mechanisms that cells use to fix DNA is known as nucleotide excision repair (NER). The XPC protein starts this repair process by detecting DNA damage. Then a group (complex) of other proteins unwind the section of DNA where the damage has occurred, snip out (excise) the abnormal section, and replace the damaged area with the correct DNA.</p><p>Studies suggest that the XPC protein may have additional roles in DNA repair and in other cell activities. Less is known about these proposed functions of the XPC protein.</p>
+text/html/html:p(1): The <i>XPC</i> gene provides instructions for making a protein that is involved in repairing damaged DNA. DNA can be damaged by ultraviolet (UV) rays from the sun and by toxic chemicals, radiation, and unstable molecules called free radicals.
+text/html/html:p(2): DNA damage occurs frequently, but normal cells are usually able to fix it before it can cause problems. One of the major mechanisms that cells use to fix DNA is known as nucleotide excision repair (NER). The XPC protein starts this repair process by detecting DNA damage. Then a group (complex) of other proteins unwind the section of DNA where the damage has occurred, snip out (excise) the abnormal section, and replace the damaged area with the correct DNA.
+text/html/html:p(3): Studies suggest that the XPC protein may have additional roles in DNA repair and in other cell activities. Less is known about these proposed functions of the XPC protein.
 related-health-condition/name: xeroderma pigmentosum
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/xeroderma-pigmentosum
 synonym(1): RAD4

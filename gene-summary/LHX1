@@ -2,7 +2,8 @@ gene-symbol: LHX1
 name: LIM homeobox 1
 ghr-page: https://ghr.nlm.nih.gov/gene/LHX1
 text/text-role: function
-text/html: <p>The <i>LHX1</i> gene provides instructions for making a protein that attaches (binds) to specific regions of DNA and regulates the activity of other genes. On the basis of this role, the protein produced from the <i>LHX1</i> gene is called a transcription factor. The LHX1 protein is part of a large group of transcription factors called homeodomain proteins. The homeodomain is a region of the protein that allows it to bind to DNA.</p><p>The LHX1 protein is found in many of the body's organs and tissues. Studies suggest that it plays particularly important roles in the development of the brain and female reproductive system.</p>
+text/html/html:p(1): The <i>LHX1</i> gene provides instructions for making a protein that attaches (binds) to specific regions of DNA and regulates the activity of other genes. On the basis of this role, the protein produced from the <i>LHX1</i> gene is called a transcription factor. The LHX1 protein is part of a large group of transcription factors called homeodomain proteins. The homeodomain is a region of the protein that allows it to bind to DNA.
+text/html/html:p(2): The LHX1 protein is found in many of the body's organs and tissues. Studies suggest that it plays particularly important roles in the development of the brain and female reproductive system.
 related-health-condition(1)/name: 17q12 deletion syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/17q12-deletion-syndrome
 related-health-condition(2)/name: Mayer-Rokitansky-Küster-Hauser syndrome

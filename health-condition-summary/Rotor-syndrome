@@ -1,7 +1,8 @@
 name: Rotor syndrome
 ghr-page: https://ghr.nlm.nih.gov/condition/rotor-syndrome
 text/text-role: description
-text/html: <p>Rotor syndrome is a relatively mild condition characterized by elevated levels of a substance called bilirubin in the blood (hyperbilirubinemia). Bilirubin is produced when red blood cells are broken down. It has an orange-yellow tint, and buildup of this substance can cause yellowing of the skin or whites of the eyes (jaundice). In people with Rotor syndrome, jaundice is usually evident shortly after birth or in childhood and may come and go; yellowing of the whites of the eyes (also called conjunctival icterus) is often the only symptom.</p><p>There are two forms of bilirubin in the body: a toxic form called unconjugated bilirubin and a nontoxic form called conjugated bilirubin. People with Rotor syndrome have a buildup of both unconjugated and conjugated bilirubin in their blood, but the majority is conjugated.</p>
+text/html/html:p(1): Rotor syndrome is a relatively mild condition characterized by elevated levels of a substance called bilirubin in the blood (hyperbilirubinemia). Bilirubin is produced when red blood cells are broken down. It has an orange-yellow tint, and buildup of this substance can cause yellowing of the skin or whites of the eyes (jaundice). In people with Rotor syndrome, jaundice is usually evident shortly after birth or in childhood and may come and go; yellowing of the whites of the eyes (also called conjunctival icterus) is often the only symptom.
+text/html/html:p(2): There are two forms of bilirubin in the body: a toxic form called unconjugated bilirubin and a nontoxic form called conjugated bilirubin. People with Rotor syndrome have a buildup of both unconjugated and conjugated bilirubin in their blood, but the majority is conjugated.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene(1)/gene-symbol: SLCO1B1

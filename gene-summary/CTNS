@@ -2,7 +2,7 @@ gene-symbol: CTNS
 name: cystinosin, lysosomal cystine transporter
 ghr-page: https://ghr.nlm.nih.gov/gene/CTNS
 text/text-role: function
-text/html: <p>The <i>CTNS</i> gene provides instructions for making a protein called cystinosin.  This protein is located in the membrane of lysosomes, which are compartments in the cell that digest and recycle materials.   Proteins digested inside lysosomes are broken down into smaller building blocks, called amino acids.  The amino acids are then moved out of lysosomes by transport proteins.  Cystinosin is a transport protein that specifically moves the amino acid cystine out of the lysosome.</p>
+text/html/html:p: The <i>CTNS</i> gene provides instructions for making a protein called cystinosin.  This protein is located in the membrane of lysosomes, which are compartments in the cell that digest and recycle materials.   Proteins digested inside lysosomes are broken down into smaller building blocks, called amino acids.  The amino acids are then moved out of lysosomes by transport proteins.  Cystinosin is a transport protein that specifically moves the amino acid cystine out of the lysosome.
 related-health-condition/name: cystinosis
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cystinosis
 synonym(1): CTNS-LSB

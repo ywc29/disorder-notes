@@ -2,7 +2,7 @@ gene-symbol: TAT
 name: tyrosine aminotransferase
 ghr-page: https://ghr.nlm.nih.gov/gene/TAT
 text/text-role: function
-text/html: <p>The <i>TAT</i> gene provides instructions for making a liver enzyme called tyrosine aminotransferase.  This enzyme is the first in a series of five enzymes that work to break down the amino acid tyrosine, a protein building block found in many foods. Specifically, tyrosine aminotransferase converts tyrosine into a byproduct called 4-hydroxyphenylpyruvate. Continuing the process, 4-hydroxyphenylpyruvate is further broken down and ultimately smaller molecules are produced that are either excreted by the kidneys or used to produce energy or make other substances in the body.</p>
+text/html/html:p: The <i>TAT</i> gene provides instructions for making a liver enzyme called tyrosine aminotransferase.  This enzyme is the first in a series of five enzymes that work to break down the amino acid tyrosine, a protein building block found in many foods. Specifically, tyrosine aminotransferase converts tyrosine into a byproduct called 4-hydroxyphenylpyruvate. Continuing the process, 4-hydroxyphenylpyruvate is further broken down and ultimately smaller molecules are produced that are either excreted by the kidneys or used to produce energy or make other substances in the body.
 related-health-condition/name: tyrosinemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/tyrosinemia
 synonym(1): ATTY_HUMAN

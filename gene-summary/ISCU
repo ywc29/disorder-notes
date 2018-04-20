@@ -2,7 +2,7 @@ gene-symbol: ISCU
 name: iron-sulfur cluster assembly enzyme
 ghr-page: https://ghr.nlm.nih.gov/gene/ISCU
 text/text-role: function
-text/html: <p>The <i>ISCU</i> gene provides instructions for making a protein called the iron-sulfur cluster assembly enzyme. As its name suggests, this enzyme is involved in the formation of clusters of iron and sulfur atoms (Fe-S clusters). Specifically, the enzyme acts as a platform, or scaffold, for the assembly of these clusters. Fe-S clusters are critical for the function of many different proteins, including those needed for DNA repair and the regulation of iron levels. Proteins containing Fe-S clusters are also necessary for energy production within mitochondria, which are the cell structures that convert the energy from food into a form that cells can use.</p>
+text/html/html:p: The <i>ISCU</i> gene provides instructions for making a protein called the iron-sulfur cluster assembly enzyme. As its name suggests, this enzyme is involved in the formation of clusters of iron and sulfur atoms (Fe-S clusters). Specifically, the enzyme acts as a platform, or scaffold, for the assembly of these clusters. Fe-S clusters are critical for the function of many different proteins, including those needed for DNA repair and the regulation of iron levels. Proteins containing Fe-S clusters are also necessary for energy production within mitochondria, which are the cell structures that convert the energy from food into a form that cells can use.
 related-health-condition/name: myopathy with deficiency of iron-sulfur cluster assembly enzyme
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/myopathy-with-deficiency-of-iron-sulfur-cluster-assembly-enzyme
 synonym(1): HML

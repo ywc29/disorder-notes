@@ -1,7 +1,8 @@
 name: Cole disease
 ghr-page: https://ghr.nlm.nih.gov/condition/cole-disease
 text/text-role: description
-text/html: <p>Cole disease is a disorder that affects the skin. People with this disorder have areas of unusually light-colored skin (hypopigmentation), typically on the arms and legs, and spots of thickened skin on the palms of the hands and the soles of the feet (punctate palmoplantar keratoderma). These skin features are present at birth or develop in the first year of life.</p><p>In some cases, individuals with Cole disease develop abnormal accumulations of the mineral calcium (calcifications) in the tendons, which can cause pain during movement. Calcifications may also occur in the skin or breast tissue.</p>
+text/html/html:p(1): Cole disease is a disorder that affects the skin. People with this disorder have areas of unusually light-colored skin (hypopigmentation), typically on the arms and legs, and spots of thickened skin on the palms of the hands and the soles of the feet (punctate palmoplantar keratoderma). These skin features are present at birth or develop in the first year of life.
+text/html/html:p(2): In some cases, individuals with Cole disease develop abnormal accumulations of the mineral calcium (calcifications) in the tendons, which can cause pain during movement. Calcifications may also occur in the skin or breast tissue.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene/gene-symbol: ENPP1

@@ -2,7 +2,7 @@ gene-symbol: HPD
 name: 4-hydroxyphenylpyruvate dioxygenase
 ghr-page: https://ghr.nlm.nih.gov/gene/HPD
 text/text-role: function
-text/html: <p>The <i>HPD</i> gene provides instructions for making an enzyme called 4-hydroxyphenylpyruvate dioxygenase. This enzyme is abundant in the liver, and smaller amounts are found in the kidneys. It is second in a series of five  enzymes that work to break down the amino acid tyrosine, a protein building block found in many foods. Specifically, 4-hydroxyphenylpyruvate dioxygenase converts a tyrosine byproduct called 4-hydroxyphenylpyruvate to homogentisic acid. Continuing the process, homogentisic acid is further broken down and ultimately smaller molecules are produced that are either excreted by the kidneys or used to produce energy or make other substances in the body.</p>
+text/html/html:p: The <i>HPD</i> gene provides instructions for making an enzyme called 4-hydroxyphenylpyruvate dioxygenase. This enzyme is abundant in the liver, and smaller amounts are found in the kidneys. It is second in a series of five  enzymes that work to break down the amino acid tyrosine, a protein building block found in many foods. Specifically, 4-hydroxyphenylpyruvate dioxygenase converts a tyrosine byproduct called 4-hydroxyphenylpyruvate to homogentisic acid. Continuing the process, homogentisic acid is further broken down and ultimately smaller molecules are produced that are either excreted by the kidneys or used to produce energy or make other substances in the body.
 related-health-condition/name: tyrosinemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/tyrosinemia
 synonym(1): 4-HPPD

@@ -2,7 +2,7 @@ gene-symbol: STAT4
 name: signal transducer and activator of transcription 4
 ghr-page: https://ghr.nlm.nih.gov/gene/STAT4
 text/text-role: function
-text/html: <p>The <i>STAT4</i> gene provides instructions for a protein that acts as a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of certain genes. The STAT4 protein is turned on (activated) by immune system proteins called cytokines, which are part of the inflammatory response to fight infection. When activated, the STAT4 protein increases the activity of genes that help immune cells called T-cells mature into specialized T-cells. These specialized T-cells, called Th1 cells, produce specific cytokines and stimulate other immune cells to get rid of foreign invaders (pathogens) in the cell.</p>
+text/html/html:p: The <i>STAT4</i> gene provides instructions for a protein that acts as a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of certain genes. The STAT4 protein is turned on (activated) by immune system proteins called cytokines, which are part of the inflammatory response to fight infection. When activated, the STAT4 protein increases the activity of genes that help immune cells called T-cells mature into specialized T-cells. These specialized T-cells, called Th1 cells, produce specific cytokines and stimulate other immune cells to get rid of foreign invaders (pathogens) in the cell.
 related-health-condition(1)/name: juvenile idiopathic arthritis
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-idiopathic-arthritis
 related-health-condition(2)/name: rheumatoid arthritis

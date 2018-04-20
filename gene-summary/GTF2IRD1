@@ -2,7 +2,8 @@ gene-symbol: GTF2IRD1
 name: GTF2I repeat domain containing 1
 ghr-page: https://ghr.nlm.nih.gov/gene/GTF2IRD1
 text/text-role: function
-text/html: <p>The <i>GTF2IRD1</i> gene provides instructions for making a protein that regulates the activity of many other genes.  This protein probably interacts with specific regions of DNA and with other proteins to turn genes on or off.  Based on this role, the GTF2IRD1 protein is called a transcription factor.</p><p>Although its exact function is unknown, the <i>GTF2IRD1</i> gene is active in many of the body's tissues.  It appears to be particularly important for gene regulation in the brain and in muscles used for movement (skeletal muscles).  Studies suggest that this gene also plays a role in the development of tissues in the head and face (craniofacial development).</p>
+text/html/html:p(1): The <i>GTF2IRD1</i> gene provides instructions for making a protein that regulates the activity of many other genes.  This protein probably interacts with specific regions of DNA and with other proteins to turn genes on or off.  Based on this role, the GTF2IRD1 protein is called a transcription factor.
+text/html/html:p(2): Although its exact function is unknown, the <i>GTF2IRD1</i> gene is active in many of the body's tissues.  It appears to be particularly important for gene regulation in the brain and in muscles used for movement (skeletal muscles).  Studies suggest that this gene also plays a role in the development of tissues in the head and face (craniofacial development).
 related-health-condition/name: Williams syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/williams-syndrome
 synonym(1): CREAM1

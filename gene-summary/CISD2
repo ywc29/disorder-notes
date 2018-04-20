@@ -2,7 +2,7 @@ gene-symbol: CISD2
 name: CDGSH iron sulfur domain 2
 ghr-page: https://ghr.nlm.nih.gov/gene/CISD2
 text/text-role: function
-text/html: <p>The <i>CISD2</i> gene provides instructions for making a protein that is found in the outer membrane of cell structures called mitochondria. Mitochondria are involved in a wide variety of cellular activities, including energy production, chemical signaling, and regulation of cell growth and division. The exact function of the CISD2 protein is unknown, but it is thought to help keep mitochondria functioning normally.</p>
+text/html/html:p: The <i>CISD2</i> gene provides instructions for making a protein that is found in the outer membrane of cell structures called mitochondria. Mitochondria are involved in a wide variety of cellular activities, including energy production, chemical signaling, and regulation of cell growth and division. The exact function of the CISD2 protein is unknown, but it is thought to help keep mitochondria functioning normally.
 related-health-condition/name: Wolfram syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/wolfram-syndrome
 synonym(1): CDGSH iron-sulfur domain-containing protein 2

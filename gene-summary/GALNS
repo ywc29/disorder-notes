@@ -2,7 +2,7 @@ gene-symbol: GALNS
 name: galactosamine (N-acetyl)-6-sulfatase
 ghr-page: https://ghr.nlm.nih.gov/gene/GALNS
 text/text-role: function
-text/html: <p>The <i>GALNS</i> gene provides instructions for producing an enzyme called N-acetylgalactosamine 6-sulfatase. This enzyme is located in lysosomes, which are compartments within cells that break down and recycle different types of molecules. N-acetylgalactosamine 6-sulfatase is involved in the breakdown of large sugar molecules called glycosaminoglycans (GAGs) or mucopolysaccharides. Specifically, this enzyme removes a chemical group known as a sulfate from a GAG called keratan sulfate. Keratan sulfate is particularly abundant in cartilage and the clear covering of the eye (cornea).</p>
+text/html/html:p: The <i>GALNS</i> gene provides instructions for producing an enzyme called N-acetylgalactosamine 6-sulfatase. This enzyme is located in lysosomes, which are compartments within cells that break down and recycle different types of molecules. N-acetylgalactosamine 6-sulfatase is involved in the breakdown of large sugar molecules called glycosaminoglycans (GAGs) or mucopolysaccharides. Specifically, this enzyme removes a chemical group known as a sulfate from a GAG called keratan sulfate. Keratan sulfate is particularly abundant in cartilage and the clear covering of the eye (cornea).
 related-health-condition/name: mucopolysaccharidosis type IV
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-iv
 synonym(1): chondroitinase

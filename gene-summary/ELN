@@ -2,7 +2,7 @@ gene-symbol: ELN
 name: elastin
 ghr-page: https://ghr.nlm.nih.gov/gene/ELN
 text/text-role: function
-text/html: <p>The <i>ELN</i> gene provides instructions for making a protein called tropoelastin. Multiple copies of the tropoelastin protein attach to one another and are processed to form a mature protein called elastin. Elastin is the major component of elastic fibers, which are slender bundles of proteins that provide strength and flexibility to connective tissue (tissue that supports the body's joints and organs). Elastic fibers are found in the intricate lattice that forms in the spaces between cells (the extracellular matrix), where they give structural support to organs and tissues such as the heart, skin, lungs, ligaments, and blood vessels.</p>
+text/html/html:p: The <i>ELN</i> gene provides instructions for making a protein called tropoelastin. Multiple copies of the tropoelastin protein attach to one another and are processed to form a mature protein called elastin. Elastin is the major component of elastic fibers, which are slender bundles of proteins that provide strength and flexibility to connective tissue (tissue that supports the body's joints and organs). Elastic fibers are found in the intricate lattice that forms in the spaces between cells (the extracellular matrix), where they give structural support to organs and tissues such as the heart, skin, lungs, ligaments, and blood vessels.
 related-health-condition(1)/name: 7q11.23 duplication syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/7q1123-duplication-syndrome
 related-health-condition(2)/name: cutis laxa

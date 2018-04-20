@@ -2,7 +2,7 @@ gene-symbol: MTHFR
 name: methylenetetrahydrofolate reductase
 ghr-page: https://ghr.nlm.nih.gov/gene/MTHFR
 text/text-role: function
-text/html: <p>The <i>MTHFR</i> gene provides instructions for making an enzyme called methylenetetrahydrofolate reductase. This enzyme plays a role in processing amino acids, the building blocks of proteins. Methylenetetrahydrofolate reductase is important for a chemical reaction involving forms of the vitamin folate (also called vitamin B9). Specifically, this enzyme converts a molecule called 5,10-methylenetetrahydrofolate to a molecule called 5-methyltetrahydrofolate. This reaction is required for the multistep process that converts the amino acid homocysteine to another amino acid, methionine. The body uses methionine to make proteins and other important compounds.</p>
+text/html/html:p: The <i>MTHFR</i> gene provides instructions for making an enzyme called methylenetetrahydrofolate reductase. This enzyme plays a role in processing amino acids, the building blocks of proteins. Methylenetetrahydrofolate reductase is important for a chemical reaction involving forms of the vitamin folate (also called vitamin B9). Specifically, this enzyme converts a molecule called 5,10-methylenetetrahydrofolate to a molecule called 5-methyltetrahydrofolate. This reaction is required for the multistep process that converts the amino acid homocysteine to another amino acid, methionine. The body uses methionine to make proteins and other important compounds.
 related-health-condition(1)/name: age-related hearing loss
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-hearing-loss
 related-health-condition(2)/name: anencephaly

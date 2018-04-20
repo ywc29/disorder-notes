@@ -2,7 +2,7 @@ gene-symbol: TG
 name: thyroglobulin
 ghr-page: https://ghr.nlm.nih.gov/gene/TG
 text/text-role: function
-text/html: <p>The <i>TG</i> gene provides instructions for making a protein called thyroglobulin, one of the largest proteins in the body. This protein is found only in the thyroid gland, a butterfly-shaped tissue in the lower neck. Thyroglobulin combines with iodine and is modified and broken down to release small molecules known as thyroid hormones. Thyroid hormones play an important role in regulating growth, brain development, and the rate of chemical reactions in the body (metabolism). Thyroglobulin also serves as a protein storehouse for iodine and inactive thyroid hormone until these substances are needed.</p>
+text/html/html:p: The <i>TG</i> gene provides instructions for making a protein called thyroglobulin, one of the largest proteins in the body. This protein is found only in the thyroid gland, a butterfly-shaped tissue in the lower neck. Thyroglobulin combines with iodine and is modified and broken down to release small molecules known as thyroid hormones. Thyroid hormones play an important role in regulating growth, brain development, and the rate of chemical reactions in the body (metabolism). Thyroglobulin also serves as a protein storehouse for iodine and inactive thyroid hormone until these substances are needed.
 related-health-condition(1)/name: congenital hypothyroidism
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/congenital-hypothyroidism
 related-health-condition(2)/name: Graves disease

@@ -2,7 +2,7 @@ gene-symbol: FAH
 name: fumarylacetoacetate hydrolase
 ghr-page: https://ghr.nlm.nih.gov/gene/FAH
 text/text-role: function
-text/html: <p>The <i>FAH</i> gene provides instructions for making an enzyme called fumarylacetoacetate hydrolase. This enzyme is abundant in the liver and kidneys, and smaller amounts are found in many tissues throughout the body. Fumarylacetoacetate hydrolase is the last in a series of five enzymes that work to break down the amino acid tyrosine, a protein building block found in many foods. Specifically, fumarylacetoacetate hydrolase converts a tyrosine byproduct called fumarylacetoacetate into smaller molecules that are either excreted by the kidneys or used to produce energy or make other substances in the body.</p>
+text/html/html:p: The <i>FAH</i> gene provides instructions for making an enzyme called fumarylacetoacetate hydrolase. This enzyme is abundant in the liver and kidneys, and smaller amounts are found in many tissues throughout the body. Fumarylacetoacetate hydrolase is the last in a series of five enzymes that work to break down the amino acid tyrosine, a protein building block found in many foods. Specifically, fumarylacetoacetate hydrolase converts a tyrosine byproduct called fumarylacetoacetate into smaller molecules that are either excreted by the kidneys or used to produce energy or make other substances in the body.
 related-health-condition/name: tyrosinemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/tyrosinemia
 synonym(1): beta-diketonase

@@ -2,7 +2,7 @@ gene-symbol: FAS
 name: Fas cell surface death receptor
 ghr-page: https://ghr.nlm.nih.gov/gene/FAS
 text/text-role: function
-text/html: <p>The <i>FAS</i> gene provides instructions for making a protein that is involved in signaling. Three FAS proteins group together to form a structure called a trimer, which then interacts with other molecules to perform its signaling function. This signaling initiates a process called a caspase cascade. The caspase cascade is a series of steps that results in the self-destruction of cells (apoptosis) when they are not needed.</p>
+text/html/html:p: The <i>FAS</i> gene provides instructions for making a protein that is involved in signaling. Three FAS proteins group together to form a structure called a trimer, which then interacts with other molecules to perform its signaling function. This signaling initiates a process called a caspase cascade. The caspase cascade is a series of steps that results in the self-destruction of cells (apoptosis) when they are not needed.
 related-health-condition/name: autoimmune lymphoproliferative syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autoimmune-lymphoproliferative-syndrome
 synonym(1): APO-1

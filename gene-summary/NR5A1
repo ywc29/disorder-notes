@@ -2,7 +2,7 @@ gene-symbol: NR5A1
 name: nuclear receptor subfamily 5 group A member 1
 ghr-page: https://ghr.nlm.nih.gov/gene/NR5A1
 text/text-role: function
-text/html: <p>The <i>NR5A1</i> gene provides instructions for producing a transcription factor  called the steroidogenic factor 1. A transcription factor is a protein that attaches (binds) to specific regions of DNA and helps control the activity of particular genes. Steroidogenic factor 1 helps control the activity of several genes related to the development of the gonads (ovaries and testes) and the adrenal glands, which are small glands located on top of each kidney.</p>
+text/html/html:p: The <i>NR5A1</i> gene provides instructions for producing a transcription factor  called the steroidogenic factor 1. A transcription factor is a protein that attaches (binds) to specific regions of DNA and helps control the activity of particular genes. Steroidogenic factor 1 helps control the activity of several genes related to the development of the gonads (ovaries and testes) and the adrenal glands, which are small glands located on top of each kidney.
 related-health-condition/name: Swyer syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/swyer-syndrome
 synonym(1): AD4BP

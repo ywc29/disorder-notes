@@ -2,7 +2,7 @@ gene-symbol: LIPA
 name: lipase A, lysosomal acid type
 ghr-page: https://ghr.nlm.nih.gov/gene/LIPA
 text/text-role: function
-text/html: <p>The <i>LIPA</i> gene provides instructions for producing an enzyme called lysosomal acid lipase. This enzyme is found in cell compartments called lysosomes, which digest and recycle materials the cell no longer needs. Lysosomal acid lipase breaks down fats (lipids) such as triglycerides and cholesteryl esters.  Cholesteryl esters are made up of two lipids that are attached to each other, cholesterol and a fatty acid. Lysosomal acid lipase separates the cholesterol from the fatty acid. Triglycerides are stored fats that can be broken down into fatty acids that are used for energy. The lipids produced from these processes are used by the body or transported to the liver for removal.</p>
+text/html/html:p: The <i>LIPA</i> gene provides instructions for producing an enzyme called lysosomal acid lipase. This enzyme is found in cell compartments called lysosomes, which digest and recycle materials the cell no longer needs. Lysosomal acid lipase breaks down fats (lipids) such as triglycerides and cholesteryl esters.  Cholesteryl esters are made up of two lipids that are attached to each other, cholesterol and a fatty acid. Lysosomal acid lipase separates the cholesterol from the fatty acid. Triglycerides are stored fats that can be broken down into fatty acids that are used for energy. The lipids produced from these processes are used by the body or transported to the liver for removal.
 related-health-condition/name: lysosomal acid lipase deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/lysosomal-acid-lipase-deficiency
 synonym(1): cholesterol ester hydrolase

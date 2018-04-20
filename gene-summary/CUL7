@@ -2,7 +2,8 @@ gene-symbol: CUL7
 name: cullin 7
 ghr-page: https://ghr.nlm.nih.gov/gene/CUL7
 text/text-role: function
-text/html: <p>The <i>CUL7</i> gene provides instructions for making a protein called cullin-7. This protein plays a role in the cell machinery that breaks down (degrades) unwanted proteins, called the ubiquitin-proteasome system.</p><p>Cullin-7 helps to assemble a complex known as an E3 ubiquitin ligase. This complex tags damaged and excess proteins with molecules called ubiquitin. Ubiquitin serves as a signal to specialized cell structures known as proteasomes, which attach (bind) to the tagged proteins and degrade them. The ubiquitin-proteasome system acts as the cell's quality control system by disposing of damaged, misshapen, and excess proteins. This system also regulates the level of proteins involved in several critical cell activities such as the timing of cell division and growth.</p>
+text/html/html:p(1): The <i>CUL7</i> gene provides instructions for making a protein called cullin-7. This protein plays a role in the cell machinery that breaks down (degrades) unwanted proteins, called the ubiquitin-proteasome system.
+text/html/html:p(2): Cullin-7 helps to assemble a complex known as an E3 ubiquitin ligase. This complex tags damaged and excess proteins with molecules called ubiquitin. Ubiquitin serves as a signal to specialized cell structures known as proteasomes, which attach (bind) to the tagged proteins and degrade them. The ubiquitin-proteasome system acts as the cell's quality control system by disposing of damaged, misshapen, and excess proteins. This system also regulates the level of proteins involved in several critical cell activities such as the timing of cell division and growth.
 related-health-condition/name: 3-M syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/3-m-syndrome
 synonym(1): CUL7_HUMAN

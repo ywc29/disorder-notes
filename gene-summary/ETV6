@@ -2,7 +2,7 @@ gene-symbol: ETV6
 name: ETS variant 6
 ghr-page: https://ghr.nlm.nih.gov/gene/ETV6
 text/text-role: function
-text/html: <p>The <i>ETV6</i> gene provides instructions for producing a protein that functions as a transcription factor, which means that it attaches (binds) to specific regions of DNA and controls the activity of certain genes. The ETV6 protein is found in the nucleus of cells throughout the body, where it turns off (represses) gene activity. It plays a key role in development before birth and in regulating blood cell formation.</p>
+text/html/html:p: The <i>ETV6</i> gene provides instructions for producing a protein that functions as a transcription factor, which means that it attaches (binds) to specific regions of DNA and controls the activity of certain genes. The ETV6 protein is found in the nucleus of cells throughout the body, where it turns off (represses) gene activity. It plays a key role in development before birth and in regulating blood cell formation.
 related-health-condition/name: PDGFRB-associated chronic eosinophilic leukemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pdgfrb-associated-chronic-eosinophilic-leukemia
 synonym(1): ETS-related protein Tel1

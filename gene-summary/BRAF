@@ -2,7 +2,8 @@ gene-symbol: BRAF
 name: B-Raf proto-oncogene, serine/threonine kinase
 ghr-page: https://ghr.nlm.nih.gov/gene/BRAF
 text/text-role: function
-text/html: <p>The <i>BRAF</i> gene provides instructions for making a protein that helps transmit chemical signals from outside the cell to the cell's nucleus.  This protein is part of a signaling pathway known as the RAS/MAPK pathway, which controls several important cell functions. Specifically, the RAS/MAPK pathway regulates the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (migration), and the self-destruction of cells (apoptosis). Chemical signaling through this pathway is essential for normal development before birth.</p><p>The <i>BRAF</i> gene belongs to a class of genes known as oncogenes. When mutated, oncogenes have the potential to cause normal cells to become cancerous.</p>
+text/html/html:p(1): The <i>BRAF</i> gene provides instructions for making a protein that helps transmit chemical signals from outside the cell to the cell's nucleus.  This protein is part of a signaling pathway known as the RAS/MAPK pathway, which controls several important cell functions. Specifically, the RAS/MAPK pathway regulates the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (migration), and the self-destruction of cells (apoptosis). Chemical signaling through this pathway is essential for normal development before birth.
+text/html/html:p(2): The <i>BRAF</i> gene belongs to a class of genes known as oncogenes. When mutated, oncogenes have the potential to cause normal cells to become cancerous.
 related-health-condition(1)/name: cardiofaciocutaneous syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cardiofaciocutaneous-syndrome
 related-health-condition(2)/name: cholangiocarcinoma

@@ -2,7 +2,7 @@ gene-symbol: TREX1
 name: three prime repair exonuclease 1
 ghr-page: https://ghr.nlm.nih.gov/gene/TREX1
 text/text-role: function
-text/html: <p>The <i>TREX1</i> gene provides instructions for making the 3-prime repair exonuclease 1 enzyme. This enzyme is a DNA exonuclease, which means that it trims molecules of DNA by removing DNA building blocks (nucleotides) from the ends of the molecules. In this way, it breaks down unneeded DNA molecules or fragments that may be generated during copying (replication) of cells' genetic material in preparation for cell division. These fragments may also be generated during DNA repair, cell death (apoptosis), and other processes.</p>
+text/html/html:p: The <i>TREX1</i> gene provides instructions for making the 3-prime repair exonuclease 1 enzyme. This enzyme is a DNA exonuclease, which means that it trims molecules of DNA by removing DNA building blocks (nucleotides) from the ends of the molecules. In this way, it breaks down unneeded DNA molecules or fragments that may be generated during copying (replication) of cells' genetic material in preparation for cell division. These fragments may also be generated during DNA repair, cell death (apoptosis), and other processes.
 related-health-condition(1)/name: Aicardi-Goutières syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/aicardi-goutieres-syndrome
 related-health-condition(2)/name: systemic lupus erythematosus

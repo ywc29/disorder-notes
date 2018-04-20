@@ -2,7 +2,7 @@ gene-symbol: CLPB
 name: ClpB homolog, mitochondrial AAA ATPase chaperonin
 ghr-page: https://ghr.nlm.nih.gov/gene/CLPB
 text/text-role: function
-text/html: <p>The <i>CLPB</i> gene provides instructions for making a protein whose function is unknown. The CLPB protein is found in cells throughout the body but is most abundant in the brain. Based on its similarity to a protein in other organisms, researchers speculate that the CLPB protein helps unfold misfolded proteins so they can be refolded correctly. When misfolded, proteins cannot function properly and may be damaging to cells.</p>
+text/html/html:p: The <i>CLPB</i> gene provides instructions for making a protein whose function is unknown. The CLPB protein is found in cells throughout the body but is most abundant in the brain. Based on its similarity to a protein in other organisms, researchers speculate that the CLPB protein helps unfold misfolded proteins so they can be refolded correctly. When misfolded, proteins cannot function properly and may be damaging to cells.
 related-health-condition/name: CLPB deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/clpb-deficiency
 synonym(1): ANKCLB

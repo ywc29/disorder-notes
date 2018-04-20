@@ -1,7 +1,9 @@
 name: Amish lethal microcephaly
 ghr-page: https://ghr.nlm.nih.gov/condition/amish-lethal-microcephaly
 text/text-role: description
-text/html: <p>Amish lethal microcephaly is a disorder in which infants are born with a very small head and underdeveloped brain.</p><p>Infants with Amish lethal microcephaly have a sloping forehead and an extremely small head size. They may also have an unusually small lower jaw and chin (micrognathia) and an enlarged liver (hepatomegaly).</p><p>Affected infants may have seizures and difficulty maintaining their body temperature. Often they become very irritable starting in the second or third month of life. A compound called alpha-ketoglutaric acid can be detected in their urine (alpha-ketoglutaric aciduria), and during episodes of viral illness they tend to develop elevated levels of acid in the blood and tissues (metabolic acidosis). Infants with this disorder typically feed adequately but do not develop skills such as purposeful movement or the ability to track faces and sounds. Affected infants live only about six months.</p>
+text/html/html:p(1): Amish lethal microcephaly is a disorder in which infants are born with a very small head and underdeveloped brain.
+text/html/html:p(2): Infants with Amish lethal microcephaly have a sloping forehead and an extremely small head size. They may also have an unusually small lower jaw and chin (micrognathia) and an enlarged liver (hepatomegaly).
+text/html/html:p(3): Affected infants may have seizures and difficulty maintaining their body temperature. Often they become very irritable starting in the second or third month of life. A compound called alpha-ketoglutaric acid can be detected in their urine (alpha-ketoglutaric aciduria), and during episodes of viral illness they tend to develop elevated levels of acid in the blood and tissues (metabolic acidosis). Infants with this disorder typically feed adequately but do not develop skills such as purposeful movement or the ability to track faces and sounds. Affected infants live only about six months.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: SLC25A19

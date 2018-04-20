@@ -2,7 +2,7 @@ gene-symbol: DHODH
 name: dihydroorotate dehydrogenase (quinone)
 ghr-page: https://ghr.nlm.nih.gov/gene/DHODH
 text/text-role: function
-text/html: <p>The <i>DHODH</i> gene provides instructions for making an enzyme called dihydroorotate dehydrogenase. This enzyme is involved in producing pyrimidines, which  are building blocks of DNA, its chemical cousin RNA, and molecules such as ATP and GTP that serve as energy sources in the cell. Dihydroorotate dehydrogenase functions within mitochondria, the energy-producing centers within cells. Specifically, this enzyme converts a molecule called dihydroorotate to a molecule called orotic acid. In subsequent steps, other enzymes modify orotic acid to produce pyrimidines.</p>
+text/html/html:p: The <i>DHODH</i> gene provides instructions for making an enzyme called dihydroorotate dehydrogenase. This enzyme is involved in producing pyrimidines, which  are building blocks of DNA, its chemical cousin RNA, and molecules such as ATP and GTP that serve as energy sources in the cell. Dihydroorotate dehydrogenase functions within mitochondria, the energy-producing centers within cells. Specifically, this enzyme converts a molecule called dihydroorotate to a molecule called orotic acid. In subsequent steps, other enzymes modify orotic acid to produce pyrimidines.
 related-health-condition/name: Miller syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/miller-syndrome
 synonym(1): DHOdehase

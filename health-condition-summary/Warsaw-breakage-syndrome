@@ -1,7 +1,7 @@
 name: Warsaw breakage syndrome
 ghr-page: https://ghr.nlm.nih.gov/condition/warsaw-breakage-syndrome
 text/text-role: description
-text/html: <p>Warsaw breakage syndrome is a condition that can cause multiple abnormalities. People with Warsaw breakage syndrome have intellectual disability that varies from mild to severe. They also have impaired growth from birth leading to short stature and a small head size (microcephaly). Affected individuals have distinctive facial features that may include a small forehead, a short nose, a small lower jaw, a flat area between the nose and mouth (philtrum), and prominent cheeks. Other common features include hearing loss caused by nerve damage in the inner ear (sensorineural hearing loss) and heart malformations.</p>
+text/html/html:p: Warsaw breakage syndrome is a condition that can cause multiple abnormalities. People with Warsaw breakage syndrome have intellectual disability that varies from mild to severe. They also have impaired growth from birth leading to short stature and a small head size (microcephaly). Affected individuals have distinctive facial features that may include a small forehead, a short nose, a small lower jaw, a flat area between the nose and mouth (philtrum), and prominent cheeks. Other common features include hearing loss caused by nerve damage in the inner ear (sensorineural hearing loss) and heart malformations.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: DDX11

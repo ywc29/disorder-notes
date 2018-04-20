@@ -1,7 +1,7 @@
 name: Czech dysplasia
 ghr-page: https://ghr.nlm.nih.gov/condition/czech-dysplasia
 text/text-role: description
-text/html: <p>Czech dysplasia is an inherited condition that affects joint function and bone development.  People with this condition have joint pain (osteoarthritis) that begins in adolescence or early adulthood.  The joint pain mainly affects the hips, knees, shoulders, and spine and may impair mobility.  People with Czech dysplasia often have shortened bones in their third and fourth toes, which make their first two toes appear unusually long.  Affected individuals may have flattened bones of the spine (platyspondyly) or an abnormal spinal curvature, such as a rounded upper back that also curves to the side (kyphoscoliosis).  Some people with Czech dysplasia have progressive hearing loss.</p>
+text/html/html:p: Czech dysplasia is an inherited condition that affects joint function and bone development.  People with this condition have joint pain (osteoarthritis) that begins in adolescence or early adulthood.  The joint pain mainly affects the hips, knees, shoulders, and spine and may impair mobility.  People with Czech dysplasia often have shortened bones in their third and fourth toes, which make their first two toes appear unusually long.  Affected individuals may have flattened bones of the spine (platyspondyly) or an abnormal spinal curvature, such as a rounded upper back that also curves to the side (kyphoscoliosis).  Some people with Czech dysplasia have progressive hearing loss.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene/gene-symbol: COL2A1

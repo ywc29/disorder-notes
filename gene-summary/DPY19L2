@@ -2,7 +2,8 @@ gene-symbol: DPY19L2
 name: dpy-19 like 2
 ghr-page: https://ghr.nlm.nih.gov/gene/DPY19L2
 text/text-role: function
-text/html: <p>The <i>DPY19L2</i> gene provides instructions for making a protein that is found in developing sperm cells. The DPY19L2 protein plays a role in the development of the acrosome, a cap-like structure in the head of sperm cells. The acrosome contains enzymes that break down the outer membrane of egg cells, allowing the sperm to fertilize an egg.</p><p>The developing acrosome is attached to the nucleus of the cell. The DPY19L2 protein, which is found within the membrane of the nucleus, helps attach the forming acrosome to the nuclear membrane. As the acrosome develops and the sperm cell matures, the acrosome moves to the tip of the head of the sperm, which helps the head elongate into an oval shape.</p>
+text/html/html:p(1): The <i>DPY19L2</i> gene provides instructions for making a protein that is found in developing sperm cells. The DPY19L2 protein plays a role in the development of the acrosome, a cap-like structure in the head of sperm cells. The acrosome contains enzymes that break down the outer membrane of egg cells, allowing the sperm to fertilize an egg.
+text/html/html:p(2): The developing acrosome is attached to the nucleus of the cell. The DPY19L2 protein, which is found within the membrane of the nucleus, helps attach the forming acrosome to the nuclear membrane. As the acrosome develops and the sperm cell matures, the acrosome moves to the tip of the head of the sperm, which helps the head elongate into an oval shape.
 related-health-condition/name: globozoospermia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/globozoospermia
 synonym(1): D19L2_HUMAN

@@ -1,7 +1,8 @@
 name: 7
 ghr-page: https://ghr.nlm.nih.gov/chromosome/7
 text/text-role: description
-text/html: <p>Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 7, one copy inherited from each parent, form one of the pairs. Chromosome 7 spans about 159 million DNA building blocks (base pairs) and represents more than 5 percent of the total DNA in cells.</p><p>Identifying genes on each chromosome is an active area of genetic research.  Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 7 likely contains 900 to 1,000 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.</p>
+text/html/html:p(1): Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 7, one copy inherited from each parent, form one of the pairs. Chromosome 7 spans about 159 million DNA building blocks (base pairs) and represents more than 5 percent of the total DNA in cells.
+text/html/html:p(2): Identifying genes on each chromosome is an active area of genetic research.  Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 7 likely contains 900 to 1,000 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.
 related-health-condition(1)/name: 7q11.23 duplication syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/7q1123-duplication-syndrome
 related-health-condition(2)/name: FOXP2-related speech and language disorder

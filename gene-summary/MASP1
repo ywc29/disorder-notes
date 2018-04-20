@@ -2,7 +2,8 @@ gene-symbol: MASP1
 name: mannan binding lectin serine peptidase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/MASP1
 text/text-role: function
-text/html: <p>The <i>MASP1</i> gene provides instructions for making proteins that are involved in a series of reactions called the lectin complement pathway. This pathway is thought to help direct the movement (migration) of cells during early development before birth to form the organs and systems of the body. It appears to be particularly important in directing the migration of neural crest cells, which give rise to various tissues including many tissues in the face and skull, the glands that produce hormones (endocrine glands), and portions of the nervous system. After birth, the lectin complement pathway is involved in the immune system.</p><p>Three different proteins, MASP-1, MASP-3, and MAp44 can be produced from the <i>MASP1</i> gene, depending on how the gene's instructions are pieced together.</p>
+text/html/html:p(1): The <i>MASP1</i> gene provides instructions for making proteins that are involved in a series of reactions called the lectin complement pathway. This pathway is thought to help direct the movement (migration) of cells during early development before birth to form the organs and systems of the body. It appears to be particularly important in directing the migration of neural crest cells, which give rise to various tissues including many tissues in the face and skull, the glands that produce hormones (endocrine glands), and portions of the nervous system. After birth, the lectin complement pathway is involved in the immune system.
+text/html/html:p(2): Three different proteins, MASP-1, MASP-3, and MAp44 can be produced from the <i>MASP1</i> gene, depending on how the gene's instructions are pieced together.
 related-health-condition/name: 3MC syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/3mc-syndrome
 synonym(1): 3MC1

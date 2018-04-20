@@ -1,7 +1,9 @@
 name: Distal hereditary motor neuropathy, type V
 ghr-page: https://ghr.nlm.nih.gov/condition/distal-hereditary-motor-neuropathy-type-v
 text/text-role: description
-text/html: <p>Distal hereditary motor neuropathy, type V is a progressive disorder that affects nerve cells in the spinal cord. It results in muscle weakness and affects movement of the hands and feet.</p><p>Symptoms of distal hereditary motor neuropathy, type V usually begin during adolescence, but onset varies from infancy to the mid-thirties.  Cramps in the hand brought on by exposure to cold temperatures are often the initial symptom.</p><p>The characteristic features of distal hereditary motor neuropathy, type V are weakness and wasting (atrophy) of muscles of the hand, specifically on the thumb side of the index finger and in the palm at the base of the thumb.  Foot abnormalities, such as a high arch (pes cavus), are also common, and some affected individuals eventually develop problems with walking (gait disturbance). People with this disorder have normal life expectancies.</p>
+text/html/html:p(1): Distal hereditary motor neuropathy, type V is a progressive disorder that affects nerve cells in the spinal cord. It results in muscle weakness and affects movement of the hands and feet.
+text/html/html:p(2): Symptoms of distal hereditary motor neuropathy, type V usually begin during adolescence, but onset varies from infancy to the mid-thirties.  Cramps in the hand brought on by exposure to cold temperatures are often the initial symptom.
+text/html/html:p(3): The characteristic features of distal hereditary motor neuropathy, type V are weakness and wasting (atrophy) of muscles of the hand, specifically on the thumb side of the index finger and in the palm at the base of the thumb.  Foot abnormalities, such as a high arch (pes cavus), are also common, and some affected individuals eventually develop problems with walking (gait disturbance). People with this disorder have normal life expectancies.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene(1)/gene-symbol: BSCL2

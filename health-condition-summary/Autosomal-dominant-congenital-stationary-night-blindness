@@ -1,7 +1,8 @@
 name: Autosomal dominant congenital stationary night blindness
 ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-dominant-congenital-stationary-night-blindness
 text/text-role: description
-text/html: <p>Autosomal dominant congenital stationary night blindness is a disorder of the retina, which is the specialized tissue at the back of the eye that detects light and color. People with this condition typically have difficulty seeing and distinguishing objects in low light (night blindness). For example, they are not able to identify road signs at night and some people cannot see stars in the night sky. Affected individuals have normal daytime vision and typically do not have other vision problems related to this disorder.</p><p>The night blindness associated with this condition is congenital, which means it is present from birth. This vision impairment tends to remain stable (stationary); it does not worsen over time.</p>
+text/html/html:p(1): Autosomal dominant congenital stationary night blindness is a disorder of the retina, which is the specialized tissue at the back of the eye that detects light and color. People with this condition typically have difficulty seeing and distinguishing objects in low light (night blindness). For example, they are not able to identify road signs at night and some people cannot see stars in the night sky. Affected individuals have normal daytime vision and typically do not have other vision problems related to this disorder.
+text/html/html:p(2): The night blindness associated with this condition is congenital, which means it is present from birth. This vision impairment tends to remain stable (stationary); it does not worsen over time.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene(1)/gene-symbol: GNAT1

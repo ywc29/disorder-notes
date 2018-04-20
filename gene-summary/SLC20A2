@@ -2,7 +2,7 @@ gene-symbol: SLC20A2
 name: solute carrier family 20 member 2
 ghr-page: https://ghr.nlm.nih.gov/gene/SLC20A2
 text/text-role: function
-text/html: <p>The <i>SLC20A2</i> gene provides instructions for making a protein called sodium-dependent phosphate transporter 2 (PiT-2). This protein plays a major role in regulating phosphate levels within the body (phosphate homeostasis) by transporting phosphate across cell membranes. Phosphate is needed for many functions including the breakdown of substances (metabolic processes), signaling between cells, and the production of DNA building blocks (nucleic acids) and fats. PiT-2 uses positively charged sodium atoms (ions) to transport phosphate across the cell membrane.</p>
+text/html/html:p: The <i>SLC20A2</i> gene provides instructions for making a protein called sodium-dependent phosphate transporter 2 (PiT-2). This protein plays a major role in regulating phosphate levels within the body (phosphate homeostasis) by transporting phosphate across cell membranes. Phosphate is needed for many functions including the breakdown of substances (metabolic processes), signaling between cells, and the production of DNA building blocks (nucleic acids) and fats. PiT-2 uses positively charged sodium atoms (ions) to transport phosphate across the cell membrane.
 related-health-condition/name: familial idiopathic basal ganglia calcification
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-idiopathic-basal-ganglia-calcification
 synonym(1): gibbon ape leukemia virus receptor 2

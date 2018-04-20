@@ -2,7 +2,8 @@ gene-symbol: TCOF1
 name: treacle ribosome biogenesis factor 1
 ghr-page: https://ghr.nlm.nih.gov/gene/TCOF1
 text/text-role: function
-text/html: <p>The <i>TCOF1</i> gene provides instructions for making a protein called treacle.  This protein is active during early embryonic development in structures that become bones and other tissues of the face, and it appears to play a critical role in the formation of these structures.</p><p>Studies suggest that treacle is involved in the production of a molecule called ribosomal RNA (rRNA), a chemical cousin of DNA. Ribosomal RNA helps assemble protein building blocks (amino acids) into functioning proteins, which is essential for the normal functioning and survival of cells. Treacle is active in the nucleolus, which is a small region inside the nucleus where rRNA is produced.</p>
+text/html/html:p(1): The <i>TCOF1</i> gene provides instructions for making a protein called treacle.  This protein is active during early embryonic development in structures that become bones and other tissues of the face, and it appears to play a critical role in the formation of these structures.
+text/html/html:p(2): Studies suggest that treacle is involved in the production of a molecule called ribosomal RNA (rRNA), a chemical cousin of DNA. Ribosomal RNA helps assemble protein building blocks (amino acids) into functioning proteins, which is essential for the normal functioning and survival of cells. Treacle is active in the nucleolus, which is a small region inside the nucleus where rRNA is produced.
 related-health-condition/name: Treacher Collins syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/treacher-collins-syndrome
 synonym(1): TCOF_HUMAN

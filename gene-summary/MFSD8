@@ -2,7 +2,7 @@ gene-symbol: MFSD8
 name: major facilitator superfamily domain containing 8
 ghr-page: https://ghr.nlm.nih.gov/gene/MFSD8
 text/text-role: function
-text/html: <p>The <i>MFSD8</i> gene provides instructions for making a protein whose function is unknown. The MFSD8 protein is embedded in the membrane of cell compartments called lysosomes, which digest and recycle different types of molecules. It is one of a large group of related proteins called the major facilitator superfamily of secondary active transporter proteins. Proteins in this family move certain molecules within a cell or in and out of cells. While it is likely that the MFSD8 protein transports molecules across the lysosomal membrane, the specific molecules it moves have not been identified.</p>
+text/html/html:p: The <i>MFSD8</i> gene provides instructions for making a protein whose function is unknown. The MFSD8 protein is embedded in the membrane of cell compartments called lysosomes, which digest and recycle different types of molecules. It is one of a large group of related proteins called the major facilitator superfamily of secondary active transporter proteins. Proteins in this family move certain molecules within a cell or in and out of cells. While it is likely that the MFSD8 protein transports molecules across the lysosomal membrane, the specific molecules it moves have not been identified.
 related-health-condition/name: CLN7 disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cln7-disease
 synonym(1): ceroid-lipofuscinosis neuronal protein 7

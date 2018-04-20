@@ -1,7 +1,7 @@
 name: X-linked infantile nystagmus
 ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-infantile-nystagmus
 text/text-role: description
-text/html: <p>X-linked infantile nystagmus is a condition characterized by abnormal eye movements.  Nystagmus is a term that refers to involuntary side-to-side movements of the eyes.  In people with this condition, nystagmus is present at birth or develops within the first six months of life.  The abnormal eye movements may worsen when an affected person is feeling anxious or tries to stare directly at an object.  The severity of nystagmus varies, even among affected individuals within the same family.  Sometimes, affected individuals will turn or tilt their head to compensate for the irregular eye movements.</p>
+text/html/html:p: X-linked infantile nystagmus is a condition characterized by abnormal eye movements.  Nystagmus is a term that refers to involuntary side-to-side movements of the eyes.  In people with this condition, nystagmus is present at birth or develops within the first six months of life.  The abnormal eye movements may worsen when an affected person is feeling anxious or tries to stare directly at an object.  The severity of nystagmus varies, even among affected individuals within the same family.  Sometimes, affected individuals will turn or tilt their head to compensate for the irregular eye movements.
 inheritance-pattern/code: x
 inheritance-pattern/memo: X-linked
 related-gene/gene-symbol: FRMD7

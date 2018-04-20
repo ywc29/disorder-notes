@@ -2,7 +2,8 @@ gene-symbol: MYOC
 name: myocilin
 ghr-page: https://ghr.nlm.nih.gov/gene/MYOC
 text/text-role: function
-text/html: <p>The <i>MYOC</i> gene provides instructions for producing a protein called myocilin. Myocilin is found in certain structures of the eye, called the trabecular meshwork and the ciliary body, that regulate the pressure within the eye (intraocular pressure). It is also found in various types of muscle. Myocilin's function is not well understood, but it may help to control the intraocular pressure through its action in the muscle tissue of the ciliary body.</p><p>Researchers believe that myocilin functions together with other proteins as part of a protein complex. Myocilin may interact with a number of other proteins including a form of the cytochrome P450 protein, the product of the <i>CYP1B1</i> gene. Like myocilin, this protein is found in the trabecular meshwork, ciliary body, and other structures of the eye.</p>
+text/html/html:p(1): The <i>MYOC</i> gene provides instructions for producing a protein called myocilin. Myocilin is found in certain structures of the eye, called the trabecular meshwork and the ciliary body, that regulate the pressure within the eye (intraocular pressure). It is also found in various types of muscle. Myocilin's function is not well understood, but it may help to control the intraocular pressure through its action in the muscle tissue of the ciliary body.
+text/html/html:p(2): Researchers believe that myocilin functions together with other proteins as part of a protein complex. Myocilin may interact with a number of other proteins including a form of the cytochrome P450 protein, the product of the <i>CYP1B1</i> gene. Like myocilin, this protein is found in the trabecular meshwork, ciliary body, and other structures of the eye.
 related-health-condition/name: early-onset glaucoma
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/early-onset-glaucoma
 synonym(1): GLC1A

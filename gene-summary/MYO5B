@@ -2,7 +2,7 @@ gene-symbol: MYO5B
 name: myosin VB
 ghr-page: https://ghr.nlm.nih.gov/gene/MYO5B
 text/text-role: function
-text/html: <p>The <i>MYO5B</i> gene provides instructions for making a protein called myosin Vb. This protein is one of a group of proteins with similar structures called myosins, which are involved in cell movement and the transport of materials within and between cells. Myosin Vb helps to determine the position of various components within cells (cell polarity). Myosin Vb also plays a role in moving components from the cell membrane to the interior of the cell for recycling.</p>
+text/html/html:p: The <i>MYO5B</i> gene provides instructions for making a protein called myosin Vb. This protein is one of a group of proteins with similar structures called myosins, which are involved in cell movement and the transport of materials within and between cells. Myosin Vb helps to determine the position of various components within cells (cell polarity). Myosin Vb also plays a role in moving components from the cell membrane to the interior of the cell for recycling.
 related-health-condition/name: microvillus inclusion disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/microvillus-inclusion-disease
 synonym(1): KIAA1119

@@ -2,7 +2,7 @@ gene-symbol: AASS
 name: aminoadipate-semialdehyde synthase
 ghr-page: https://ghr.nlm.nih.gov/gene/AASS
 text/text-role: function
-text/html: <p>The <i>AASS</i> gene provides instructions for making an enzyme called aminoadipic semialdehyde synthase.  This enzyme is found in most tissues, with the highest amounts found in the liver.  Aminoadipic semialdehyde synthase is involved in the breakdown of the amino acid lysine, a building block of most proteins.  It is called a bifunctional enzyme because is performs two functions.  One function, called lysine-ketoglutarate reductase, breaks down lysine to a molecule called saccharopine.  The other function, called saccharopine dehydrogenase, breaks down saccharopine to a molecule called alpha-aminoadipate semialdehyde.</p>
+text/html/html:p: The <i>AASS</i> gene provides instructions for making an enzyme called aminoadipic semialdehyde synthase.  This enzyme is found in most tissues, with the highest amounts found in the liver.  Aminoadipic semialdehyde synthase is involved in the breakdown of the amino acid lysine, a building block of most proteins.  It is called a bifunctional enzyme because is performs two functions.  One function, called lysine-ketoglutarate reductase, breaks down lysine to a molecule called saccharopine.  The other function, called saccharopine dehydrogenase, breaks down saccharopine to a molecule called alpha-aminoadipate semialdehyde.
 related-health-condition/name: hyperlysinemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hyperlysinemia
 synonym(1): AASS_HUMAN

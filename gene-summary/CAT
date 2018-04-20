@@ -2,7 +2,8 @@ gene-symbol: CAT
 name: catalase
 ghr-page: https://ghr.nlm.nih.gov/gene/CAT
 text/text-role: function
-text/html: <p>The <i>CAT</i> gene provides instructions for making pieces (subunits) of an enzyme called catalase. Four identical subunits, each attached (bound) to an iron-containing molecule called a heme group, form the functional enzyme.</p><p>Catalase is active in cells and tissues throughout the body, where it breaks down hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) molecules into oxygen (O<sub>2</sub>) and water (H<sub>2</sub>O). Hydrogen peroxide is produced through chemical reactions within cells. At low levels, it is involved in several chemical signaling pathways, but at high levels it is toxic to cells. If hydrogen peroxide is not broken down by catalase, additional reactions convert it into compounds called reactive oxygen species that can damage DNA, proteins, and cell membranes.</p>
+text/html/html:p(1): The <i>CAT</i> gene provides instructions for making pieces (subunits) of an enzyme called catalase. Four identical subunits, each attached (bound) to an iron-containing molecule called a heme group, form the functional enzyme.
+text/html/html:p(2): Catalase is active in cells and tissues throughout the body, where it breaks down hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) molecules into oxygen (O<sub>2</sub>) and water (H<sub>2</sub>O). Hydrogen peroxide is produced through chemical reactions within cells. At low levels, it is involved in several chemical signaling pathways, but at high levels it is toxic to cells. If hydrogen peroxide is not broken down by catalase, additional reactions convert it into compounds called reactive oxygen species that can damage DNA, proteins, and cell membranes.
 related-health-condition/name: acatalasemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/acatalasemia
 synonym(1): CATA_HUMAN

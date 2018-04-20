@@ -2,7 +2,7 @@ gene-symbol: COL4A4
 name: collagen type IV alpha 4 chain
 ghr-page: https://ghr.nlm.nih.gov/gene/COL4A4
 text/text-role: function
-text/html: <p>The <i>COL4A4</i> gene provides instructions for making one component of type IV collagen, which is a flexible protein. Specifically, this gene makes the alpha4(IV) chain of type IV collagen. This chain combines with two other types of alpha (IV) chains (the alpha3 and alpha5 chains) to make a complete type IV collagen molecule. Type IV collagen molecules attach to each other to form complex protein networks. These networks make up a large portion of basement membranes, which are thin sheet-like structures that separate and support cells in many tissues. Type IV collagen alpha3-4-5 networks play an especially important role in the basement membranes of the kidney, inner ear, and eye.</p>
+text/html/html:p: The <i>COL4A4</i> gene provides instructions for making one component of type IV collagen, which is a flexible protein. Specifically, this gene makes the alpha4(IV) chain of type IV collagen. This chain combines with two other types of alpha (IV) chains (the alpha3 and alpha5 chains) to make a complete type IV collagen molecule. Type IV collagen molecules attach to each other to form complex protein networks. These networks make up a large portion of basement membranes, which are thin sheet-like structures that separate and support cells in many tissues. Type IV collagen alpha3-4-5 networks play an especially important role in the basement membranes of the kidney, inner ear, and eye.
 related-health-condition(1)/name: Alport syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/alport-syndrome
 related-health-condition(2)/name: keratoconus

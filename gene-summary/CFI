@@ -2,7 +2,7 @@ gene-symbol: CFI
 name: complement factor I
 ghr-page: https://ghr.nlm.nih.gov/gene/CFI
 text/text-role: function
-text/html: <p>The <i>CFI</i> gene provides instructions for making a protein called complement factor I. This protein helps regulate a part of the body's immune response known as the complement system. The complement system is a group of proteins that work together to destroy foreign invaders (such as bacteria and viruses), trigger inflammation, and remove debris from cells and tissues. This system must be carefully regulated so it targets only unwanted materials and does not attack the body's healthy cells. Complement factor I and several related proteins protect healthy cells by preventing activation of the complement system when it is not needed.</p>
+text/html/html:p: The <i>CFI</i> gene provides instructions for making a protein called complement factor I. This protein helps regulate a part of the body's immune response known as the complement system. The complement system is a group of proteins that work together to destroy foreign invaders (such as bacteria and viruses), trigger inflammation, and remove debris from cells and tissues. This system must be carefully regulated so it targets only unwanted materials and does not attack the body's healthy cells. Complement factor I and several related proteins protect healthy cells by preventing activation of the complement system when it is not needed.
 related-health-condition(1)/name: age-related macular degeneration
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
 related-health-condition(2)/name: atypical hemolytic-uremic syndrome

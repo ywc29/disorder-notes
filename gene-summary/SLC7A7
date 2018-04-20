@@ -2,7 +2,7 @@ gene-symbol: SLC7A7
 name: solute carrier family 7 member 7
 ghr-page: https://ghr.nlm.nih.gov/gene/SLC7A7
 text/text-role: function
-text/html: <p>The <i>SLC7A7</i> gene provides instructions for producing a protein called y+L amino acid transporter 1 (y+LAT-1), which is involved in transporting certain building blocks of protein (amino acids), namely lysine, arginine, and ornithine.  The transportation of amino acids from the small intestines and kidneys to the rest of the body is necessary for the body to be able to use proteins.  The y+LAT-1 protein forms one part (the light subunit) of a complex called the heterodimeric cationic amino acid transporter.  This subunit is responsible for binding to the amino acids that are transported.</p>
+text/html/html:p: The <i>SLC7A7</i> gene provides instructions for producing a protein called y+L amino acid transporter 1 (y+LAT-1), which is involved in transporting certain building blocks of protein (amino acids), namely lysine, arginine, and ornithine.  The transportation of amino acids from the small intestines and kidneys to the rest of the body is necessary for the body to be able to use proteins.  The y+LAT-1 protein forms one part (the light subunit) of a complex called the heterodimeric cationic amino acid transporter.  This subunit is responsible for binding to the amino acids that are transported.
 related-health-condition/name: lysinuric protein intolerance
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/lysinuric-protein-intolerance
 synonym(1): LAT3

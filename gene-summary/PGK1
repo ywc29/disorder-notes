@@ -2,7 +2,9 @@ gene-symbol: PGK1
 name: phosphoglycerate kinase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/PGK1
 text/text-role: function
-text/html: <p>The <i>PGK1</i> gene provides instructions for making an enzyme called phosphoglycerate kinase. This enzyme is found in cells and tissues throughout the body, where it is involved in a critical energy-producing process known as glycolysis. During glycolysis, the simple sugar glucose is broken down to produce energy.</p><p>Phosphoglycerate kinase helps carry out a chemical reaction that converts a molecule called 1,3-diphosphoglycerate, which is produced during the breakdown of glucose, to another molecule called 3-phosphoglycerate. This reaction generates one molecule of adenosine triphosphate (ATP), which is the main energy source in cells.</p><p>Researchers suspect that phosphoglycerate kinase may have additional functions, although little is known about the other roles this enzyme may play in cells.</p>
+text/html/html:p(1): The <i>PGK1</i> gene provides instructions for making an enzyme called phosphoglycerate kinase. This enzyme is found in cells and tissues throughout the body, where it is involved in a critical energy-producing process known as glycolysis. During glycolysis, the simple sugar glucose is broken down to produce energy.
+text/html/html:p(2): Phosphoglycerate kinase helps carry out a chemical reaction that converts a molecule called 1,3-diphosphoglycerate, which is produced during the breakdown of glucose, to another molecule called 3-phosphoglycerate. This reaction generates one molecule of adenosine triphosphate (ATP), which is the main energy source in cells.
+text/html/html:p(3): Researchers suspect that phosphoglycerate kinase may have additional functions, although little is known about the other roles this enzyme may play in cells.
 related-health-condition/name: phosphoglycerate kinase deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/phosphoglycerate-kinase-deficiency
 synonym(1): cell migration-inducing gene 10 protein

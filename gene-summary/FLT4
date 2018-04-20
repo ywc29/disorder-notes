@@ -2,7 +2,7 @@ gene-symbol: FLT4
 name: fms related tyrosine kinase 4
 ghr-page: https://ghr.nlm.nih.gov/gene/FLT4
 text/text-role: function
-text/html: <p>The <i>FLT4</i> gene provides instructions for making a protein called vascular endothelial growth factor receptor 3 (VEGFR-3), which regulates the development and maintenance of the lymphatic system. The lymphatic system produces and transports fluids and immune cells throughout the body. VEGFR-3 is turned on (activated) by two proteins called vascular endothelial growth factor C (VEGF-C) and vascular endothelial growth factor D (VEGF-D). When VEGF-C and VEGF-D attach (bind) to VEGFR-3, chemical signals are produced that regulate the growth, movement, and survival of lymphatic cells.</p>
+text/html/html:p: The <i>FLT4</i> gene provides instructions for making a protein called vascular endothelial growth factor receptor 3 (VEGFR-3), which regulates the development and maintenance of the lymphatic system. The lymphatic system produces and transports fluids and immune cells throughout the body. VEGFR-3 is turned on (activated) by two proteins called vascular endothelial growth factor C (VEGF-C) and vascular endothelial growth factor D (VEGF-D). When VEGF-C and VEGF-D attach (bind) to VEGFR-3, chemical signals are produced that regulate the growth, movement, and survival of lymphatic cells.
 related-health-condition/name: Milroy disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/milroy-disease
 synonym(1): FLT41

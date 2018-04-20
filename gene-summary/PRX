@@ -2,7 +2,8 @@ gene-symbol: PRX
 name: periaxin
 ghr-page: https://ghr.nlm.nih.gov/gene/PRX
 text/text-role: function
-text/html: <p>The <i>PRX</i> gene provides instructions for making a protein called periaxin.  Periaxin is required for the maintenance of myelin, the protective substance that covers nerves and promotes the efficient transmission of nerve impulses.  The exact function of periaxin is unclear, but research suggests that it helps stabilize myelin.</p><p>The <i>PRX</i> gene produces two forms of periaxin, called long (L) and short (S) because they differ in size.  Research studies show that the short form (S-periaxin) is distributed throughout the cytoplasm, the fluid inside cells.  The long form (L-periaxin) is concentrated initially in the nucleus, then relocates to the cell membrane during the formation of myelin.  L- and S-periaxin probably have slightly different functions, based on their different cell locations.</p>
+text/html/html:p(1): The <i>PRX</i> gene provides instructions for making a protein called periaxin.  Periaxin is required for the maintenance of myelin, the protective substance that covers nerves and promotes the efficient transmission of nerve impulses.  The exact function of periaxin is unclear, but research suggests that it helps stabilize myelin.
+text/html/html:p(2): The <i>PRX</i> gene produces two forms of periaxin, called long (L) and short (S) because they differ in size.  Research studies show that the short form (S-periaxin) is distributed throughout the cytoplasm, the fluid inside cells.  The long form (L-periaxin) is concentrated initially in the nucleus, then relocates to the cell membrane during the formation of myelin.  L- and S-periaxin probably have slightly different functions, based on their different cell locations.
 related-health-condition/name: Charcot-Marie-Tooth disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
 synonym(1): KIAA1620

@@ -2,7 +2,7 @@ gene-symbol: GM2A
 name: GM2 ganglioside activator
 ghr-page: https://ghr.nlm.nih.gov/gene/GM2A
 text/text-role: function
-text/html: <p>The <i>GM2A</i> gene provides instructions for making a protein called the GM2 ganglioside activator. This protein is necessary for the normal function of an enzyme called beta-hexosaminidase A, which plays a critical role in the brain and spinal cord (central nervous system).  Beta-hexosaminidase A and the GM2 ganglioside activator protein work together in lysosomes, which are structures in cells that break down toxic substances and act as recycling centers. Within lysosomes, the activator protein binds to a fatty substance called GM2 ganglioside and presents it to beta-hexosaminidase A to be broken down.</p>
+text/html/html:p: The <i>GM2A</i> gene provides instructions for making a protein called the GM2 ganglioside activator. This protein is necessary for the normal function of an enzyme called beta-hexosaminidase A, which plays a critical role in the brain and spinal cord (central nervous system).  Beta-hexosaminidase A and the GM2 ganglioside activator protein work together in lysosomes, which are structures in cells that break down toxic substances and act as recycling centers. Within lysosomes, the activator protein binds to a fatty substance called GM2 ganglioside and presents it to beta-hexosaminidase A to be broken down.
 related-health-condition/name: GM2-gangliosidosis, AB variant
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/gm2-gangliosidosis-ab-variant
 synonym(1): cerebroside sulfate activator protein

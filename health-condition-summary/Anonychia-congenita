@@ -1,7 +1,8 @@
 name: Anonychia congenita
 ghr-page: https://ghr.nlm.nih.gov/condition/anonychia-congenita
 text/text-role: description
-text/html: <p>Anonychia congenita is a condition that affects the fingernails and toenails. Individuals with this condition are typically missing all of their fingernails and toenails (anonychia). This absence of nails is noticeable from birth (congenital). In some cases, only part of the nail is missing (hyponychia) or not all fingers and toes are affected. All of the other tissues at the tips of the fingers and toes, including structures that usually support the nail and its growth (such as the nail bed), are normal.</p><p>Individuals with anonychia congenita do not have any other health problems related to the condition.</p>
+text/html/html:p(1): Anonychia congenita is a condition that affects the fingernails and toenails. Individuals with this condition are typically missing all of their fingernails and toenails (anonychia). This absence of nails is noticeable from birth (congenital). In some cases, only part of the nail is missing (hyponychia) or not all fingers and toes are affected. All of the other tissues at the tips of the fingers and toes, including structures that usually support the nail and its growth (such as the nail bed), are normal.
+text/html/html:p(2): Individuals with anonychia congenita do not have any other health problems related to the condition.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: RSPO4

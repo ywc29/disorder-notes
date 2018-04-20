@@ -2,7 +2,7 @@ gene-symbol: NGLY1
 name: N-glycanase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/NGLY1
 text/text-role: function
-text/html: <p>The <i>NGLY1</i> gene provides instructions for making an enzyme called <i>N</i>-glycanase 1. This enzyme is involved in a process called deglycosylation, by which chains of sugar molecules (glycans) are removed from proteins. Specifically, <i>N</i>-glycanase 1 removes glycans from misfolded proteins. This step is thought to be essential for certain abnormal proteins to be broken down (degraded).</p>
+text/html/html:p: The <i>NGLY1</i> gene provides instructions for making an enzyme called <i>N</i>-glycanase 1. This enzyme is involved in a process called deglycosylation, by which chains of sugar molecules (glycans) are removed from proteins. Specifically, <i>N</i>-glycanase 1 removes glycans from misfolded proteins. This step is thought to be essential for certain abnormal proteins to be broken down (degraded).
 related-health-condition/name: NGLY1-congenital disorder of deglycosylation
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ngly1-congenital-disorder-of-deglycosylation
 synonym(1): CDDG

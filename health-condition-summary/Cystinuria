@@ -1,7 +1,8 @@
 name: Cystinuria
 ghr-page: https://ghr.nlm.nih.gov/condition/cystinuria
 text/text-role: description
-text/html: <p>Cystinuria is a condition characterized by the buildup of the amino acid cystine, a building block of most proteins, in the kidneys and bladder. As the kidneys filter blood to create urine, cystine is normally absorbed back into the bloodstream.  People with cystinuria cannot properly reabsorb cystine into their bloodstream, so the amino acid accumulates in their urine.</p><p>As urine becomes more concentrated in the kidneys, the excess cystine forms crystals. Larger crystals become stones that may lodge in the kidneys or in the bladder. Sometimes cystine crystals combine with calcium molecules in the kidneys to form large stones. These crystals and stones can  create blockages in the urinary tract and reduce the ability of the kidneys to eliminate waste through urine. The stones also provide sites where bacteria may cause infections.</p>
+text/html/html:p(1): Cystinuria is a condition characterized by the buildup of the amino acid cystine, a building block of most proteins, in the kidneys and bladder. As the kidneys filter blood to create urine, cystine is normally absorbed back into the bloodstream.  People with cystinuria cannot properly reabsorb cystine into their bloodstream, so the amino acid accumulates in their urine.
+text/html/html:p(2): As urine becomes more concentrated in the kidneys, the excess cystine forms crystals. Larger crystals become stones that may lodge in the kidneys or in the bladder. Sometimes cystine crystals combine with calcium molecules in the kidneys to form large stones. These crystals and stones can  create blockages in the urinary tract and reduce the ability of the kidneys to eliminate waste through urine. The stones also provide sites where bacteria may cause infections.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene(1)/gene-symbol: SLC3A1

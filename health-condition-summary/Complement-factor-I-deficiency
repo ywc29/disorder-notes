@@ -1,7 +1,8 @@
 name: Complement factor I deficiency
 ghr-page: https://ghr.nlm.nih.gov/condition/complement-factor-i-deficiency
 text/text-role: description
-text/html: <p>Complement factor I deficiency is a disorder that affects the immune system. People with this condition are prone to recurrent infections, including infections of the upper respiratory tract, ears, skin, and urinary tract. They may also contract more serious infections such as pneumonia, meningitis, and sepsis, which may be life-threatening.</p><p>Some people with complement factor I deficiency have a kidney disorder called glomerulonephritis with isolated C3 deposits. Complement factor I deficiency can also be associated with autoimmune disorders such as rheumatoid arthritis or systemic lupus erythematosus (SLE). Autoimmune disorders occur when the immune system malfunctions and attacks the body's tissues and organs.</p>
+text/html/html:p(1): Complement factor I deficiency is a disorder that affects the immune system. People with this condition are prone to recurrent infections, including infections of the upper respiratory tract, ears, skin, and urinary tract. They may also contract more serious infections such as pneumonia, meningitis, and sepsis, which may be life-threatening.
+text/html/html:p(2): Some people with complement factor I deficiency have a kidney disorder called glomerulonephritis with isolated C3 deposits. Complement factor I deficiency can also be associated with autoimmune disorders such as rheumatoid arthritis or systemic lupus erythematosus (SLE). Autoimmune disorders occur when the immune system malfunctions and attacks the body's tissues and organs.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: CFI

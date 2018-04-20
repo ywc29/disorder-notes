@@ -2,7 +2,7 @@ gene-symbol: FIG4
 name: FIG4 phosphoinositide 5-phosphatase
 ghr-page: https://ghr.nlm.nih.gov/gene/FIG4
 text/text-role: function
-text/html: <p>The <i>FIG4</i> gene provides instructions for making a protein called Fig4, whose function is not well understood. Researchers believe that the Fig4 protein plays a role in regulating a compound called phosphatidylinositol-3,5-bisphosphate, or PtdIns(3,5)P(2). This compound is involved in the movement of small sac-like structures called vesicles that transport certain substances within cells (vesicle trafficking). The Fig4 protein also seems to help in the survival of nerve cells (neurons).</p>
+text/html/html:p: The <i>FIG4</i> gene provides instructions for making a protein called Fig4, whose function is not well understood. Researchers believe that the Fig4 protein plays a role in regulating a compound called phosphatidylinositol-3,5-bisphosphate, or PtdIns(3,5)P(2). This compound is involved in the movement of small sac-like structures called vesicles that transport certain substances within cells (vesicle trafficking). The Fig4 protein also seems to help in the survival of nerve cells (neurons).
 related-health-condition(1)/name: amyotrophic lateral sclerosis
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/amyotrophic-lateral-sclerosis
 related-health-condition(2)/name: Charcot-Marie-Tooth disease

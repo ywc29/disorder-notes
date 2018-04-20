@@ -2,7 +2,7 @@ gene-symbol: PNPO
 name: pyridoxamine 5'-phosphate oxidase
 ghr-page: https://ghr.nlm.nih.gov/gene/PNPO
 text/text-role: function
-text/html: <p>The <i>PNPO</i> gene provides instructions for producing an enzyme called pyridoxine 5'-phosphate oxidase.  This enzyme is involved in the breakdown (metabolism) of vitamin B6.  Specifically, it chemically modifies two forms of vitamin B6 derived from food (pyridoxine and pyridoxamine) to form pyridoxal 5'-phosphate (PLP).  PLP is the active form of vitamin B6 and is necessary for many processes in the body, including protein metabolism and the production of chemicals that transmit signals in the brain (neurotransmitters).  Pyridoxine 5'-phosphate oxidase is active (expressed) in cells throughout the body, with the highest amounts found in the liver.</p>
+text/html/html:p: The <i>PNPO</i> gene provides instructions for producing an enzyme called pyridoxine 5'-phosphate oxidase.  This enzyme is involved in the breakdown (metabolism) of vitamin B6.  Specifically, it chemically modifies two forms of vitamin B6 derived from food (pyridoxine and pyridoxamine) to form pyridoxal 5'-phosphate (PLP).  PLP is the active form of vitamin B6 and is necessary for many processes in the body, including protein metabolism and the production of chemicals that transmit signals in the brain (neurotransmitters).  Pyridoxine 5'-phosphate oxidase is active (expressed) in cells throughout the body, with the highest amounts found in the liver.
 related-health-condition/name: pyridoxal 5'-phosphate-dependent epilepsy
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pyridoxal-5-phosphate-dependent-epilepsy
 synonym(1): FLJ10535

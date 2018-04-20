@@ -1,7 +1,8 @@
 name: Horizontal gaze palsy with progressive scoliosis
 ghr-page: https://ghr.nlm.nih.gov/condition/horizontal-gaze-palsy-with-progressive-scoliosis
 text/text-role: description
-text/html: <p>Horizontal gaze palsy with progressive scoliosis (HGPPS) is a disorder that affects vision and also causes an abnormal curvature of the spine (scoliosis). People with this condition are unable to move their eyes side-to-side (horizontally). As a result, affected individuals must turn their head instead of moving their eyes to track moving objects. Up-and-down (vertical) eye movements are typically normal.</p><p>In people with HGPPS, an abnormal side-to-side curvature of the spine develops in infancy or childhood. It tends to be moderate to severe and worsens over time. Because the abnormal spine position can be painful and interfere with movement, it is often treated with surgery early in life.</p>
+text/html/html:p(1): Horizontal gaze palsy with progressive scoliosis (HGPPS) is a disorder that affects vision and also causes an abnormal curvature of the spine (scoliosis). People with this condition are unable to move their eyes side-to-side (horizontally). As a result, affected individuals must turn their head instead of moving their eyes to track moving objects. Up-and-down (vertical) eye movements are typically normal.
+text/html/html:p(2): In people with HGPPS, an abnormal side-to-side curvature of the spine develops in infancy or childhood. It tends to be moderate to severe and worsens over time. Because the abnormal spine position can be painful and interfere with movement, it is often treated with surgery early in life.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: ROBO3

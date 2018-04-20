@@ -1,7 +1,9 @@
 name: Juvenile Paget disease
 ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-paget-disease
 text/text-role: description
-text/html: <p>Juvenile Paget disease is a disorder that affects bone growth. This disease causes bones to be abnormally large, misshapen, and easily broken (fractured).</p><p>The signs of juvenile Paget disease appear in infancy or early childhood. As bones grow, they become progressively weaker and more deformed. These abnormalities usually become more severe during the adolescent growth spurt, when bones grow very quickly.</p><p>Juvenile Paget disease affects the entire skeleton, resulting in widespread bone and joint pain. The bones of the skull tend to grow unusually large and thick, which can lead to hearing loss. The disease also affects bones of the spine (vertebrae). The deformed vertebrae can collapse, leading to abnormal curvature of the spine. Additionally, weight-bearing long bones in the legs tend to bow and fracture easily, which can interfere with standing and walking.</p>
+text/html/html:p(1): Juvenile Paget disease is a disorder that affects bone growth. This disease causes bones to be abnormally large, misshapen, and easily broken (fractured).
+text/html/html:p(2): The signs of juvenile Paget disease appear in infancy or early childhood. As bones grow, they become progressively weaker and more deformed. These abnormalities usually become more severe during the adolescent growth spurt, when bones grow very quickly.
+text/html/html:p(3): Juvenile Paget disease affects the entire skeleton, resulting in widespread bone and joint pain. The bones of the skull tend to grow unusually large and thick, which can lead to hearing loss. The disease also affects bones of the spine (vertebrae). The deformed vertebrae can collapse, leading to abnormal curvature of the spine. Additionally, weight-bearing long bones in the legs tend to bow and fracture easily, which can interfere with standing and walking.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: TNFRSF11B

@@ -1,7 +1,7 @@
 name: Prothrombin deficiency
 ghr-page: https://ghr.nlm.nih.gov/condition/prothrombin-deficiency
 text/text-role: description
-text/html: <p>Prothrombin deficiency is a bleeding disorder that slows the blood clotting process. People with this condition often experience prolonged bleeding following an injury, surgery, or having a tooth pulled. In severe cases of prothrombin deficiency, heavy bleeding occurs after minor trauma or even in the absence of injury (spontaneous bleeding). Women with prothrombin deficiency can have prolonged and sometimes abnormally heavy menstrual bleeding.  Serious complications can result from bleeding into the joints, muscles, brain, or other internal organs. Milder forms of prothrombin deficiency do not involve spontaneous bleeding, and the condition may only become apparent following surgery or a serious injury.</p>
+text/html/html:p: Prothrombin deficiency is a bleeding disorder that slows the blood clotting process. People with this condition often experience prolonged bleeding following an injury, surgery, or having a tooth pulled. In severe cases of prothrombin deficiency, heavy bleeding occurs after minor trauma or even in the absence of injury (spontaneous bleeding). Women with prothrombin deficiency can have prolonged and sometimes abnormally heavy menstrual bleeding.  Serious complications can result from bleeding into the joints, muscles, brain, or other internal organs. Milder forms of prothrombin deficiency do not involve spontaneous bleeding, and the condition may only become apparent following surgery or a serious injury.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: F2

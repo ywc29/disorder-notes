@@ -2,7 +2,8 @@ gene-symbol: KRT1
 name: keratin 1
 ghr-page: https://ghr.nlm.nih.gov/gene/KRT1
 text/text-role: function
-text/html: <p>The <i>KRT1</i> gene provides instructions for making a protein called keratin 1. Keratins are a group of tough, fibrous proteins that form the structural framework of cells called keratinocytes that make up the skin, hair, and nails. Keratin 1 is produced in keratinocytes in the outer layer of the skin (the epidermis), including the skin on the palms of the hands and soles of the feet.</p><p>The keratin 1 protein partners with another keratin protein, either keratin 9 or keratin 10, to form molecules called keratin intermediate filaments. These filaments assemble into strong networks that provide strength and resiliency to the skin and protect it from being damaged by friction and other everyday physical stresses.</p>
+text/html/html:p(1): The <i>KRT1</i> gene provides instructions for making a protein called keratin 1. Keratins are a group of tough, fibrous proteins that form the structural framework of cells called keratinocytes that make up the skin, hair, and nails. Keratin 1 is produced in keratinocytes in the outer layer of the skin (the epidermis), including the skin on the palms of the hands and soles of the feet.
+text/html/html:p(2): The keratin 1 protein partners with another keratin protein, either keratin 9 or keratin 10, to form molecules called keratin intermediate filaments. These filaments assemble into strong networks that provide strength and resiliency to the skin and protect it from being damaged by friction and other everyday physical stresses.
 related-health-condition/name: epidermolytic hyperkeratosis
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/epidermolytic-hyperkeratosis
 synonym(1): 67 kDa cytokeratin

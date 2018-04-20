@@ -2,7 +2,7 @@ gene-symbol: RNASET2
 name: ribonuclease T2
 ghr-page: https://ghr.nlm.nih.gov/gene/RNASET2
 text/text-role: function
-text/html: <p>The <i>RNASET2</i> gene provides instructions for making a protein called ribonuclease T2 (RNAse T2), which is abundant in the brain. Ribonucleases help break down RNA, a chemical cousin of DNA. Studies suggest that ribonuclease T2 may also be involved in other functions within cells, such as controlling the development of blood vessels (angiogenesis) and helping to prevent the growth of cancerous tumors. These potential roles of the protein are not well understood.</p>
+text/html/html:p: The <i>RNASET2</i> gene provides instructions for making a protein called ribonuclease T2 (RNAse T2), which is abundant in the brain. Ribonucleases help break down RNA, a chemical cousin of DNA. Studies suggest that ribonuclease T2 may also be involved in other functions within cells, such as controlling the development of blood vessels (angiogenesis) and helping to prevent the growth of cancerous tumors. These potential roles of the protein are not well understood.
 related-health-condition/name: RNAse T2-deficient leukoencephalopathy
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/rnase-t2-deficient-leukoencephalopathy
 synonym(1): bA514O12.3

@@ -2,7 +2,8 @@ gene-symbol: SPRED1
 name: sprouty related EVH1 domain containing 1
 ghr-page: https://ghr.nlm.nih.gov/gene/SPRED1
 text/text-role: function
-text/html: <p>The <i>SPRED1</i> gene provides instructions for making the Spred-1 protein, which helps control (regulate) the Ras/MAPK signaling pathway. The Ras/MAPK pathway is involved in the growth and division of cells (proliferation), the process by which cells mature to carry out specific functions (differentiation), cell movement, and the self-destruction of cells (apoptosis).</p><p>The Spred-1 protein attaches (binds) to a protein called Raf, which is part of the Ras/MAPK pathway. The binding of the Spred-1 protein blocks the activation of Raf, stopping the signaling through the remainder of the Ras/MAPK pathway.</p>
+text/html/html:p(1): The <i>SPRED1</i> gene provides instructions for making the Spred-1 protein, which helps control (regulate) the Ras/MAPK signaling pathway. The Ras/MAPK pathway is involved in the growth and division of cells (proliferation), the process by which cells mature to carry out specific functions (differentiation), cell movement, and the self-destruction of cells (apoptosis).
+text/html/html:p(2): The Spred-1 protein attaches (binds) to a protein called Raf, which is part of the Ras/MAPK pathway. The binding of the Spred-1 protein blocks the activation of Raf, stopping the signaling through the remainder of the Ras/MAPK pathway.
 related-health-condition/name: Legius syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/legius-syndrome
 synonym(1): EVH1/Sprouty domain containing protein

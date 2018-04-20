@@ -2,7 +2,7 @@ gene-symbol: WAS
 name: Wiskott-Aldrich syndrome
 ghr-page: https://ghr.nlm.nih.gov/gene/WAS
 text/text-role: function
-text/html: <p>The <i>WAS</i> gene provides instructions for making a protein called WASP. This protein is found in all blood cells. WASP is involved in relaying signals from the surface of blood cells to the actin cytoskeleton, which is a network of fibers that make up the cell's structural framework. WASP signaling triggers the cell to move and attach to other cells and tissues (adhesion). In white blood cells, which protect the body from infection, this signaling allows the actin cytoskeleton to establish the interaction between cells and the foreign invaders that they target (immune synapse).</p>
+text/html/html:p: The <i>WAS</i> gene provides instructions for making a protein called WASP. This protein is found in all blood cells. WASP is involved in relaying signals from the surface of blood cells to the actin cytoskeleton, which is a network of fibers that make up the cell's structural framework. WASP signaling triggers the cell to move and attach to other cells and tissues (adhesion). In white blood cells, which protect the body from infection, this signaling allows the actin cytoskeleton to establish the interaction between cells and the foreign invaders that they target (immune synapse).
 related-health-condition(1)/name: severe congenital neutropenia
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/severe-congenital-neutropenia
 related-health-condition(2)/name: Wiskott-Aldrich syndrome

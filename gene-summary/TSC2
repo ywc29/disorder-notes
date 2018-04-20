@@ -2,7 +2,7 @@ gene-symbol: TSC2
 name: TSC complex subunit 2
 ghr-page: https://ghr.nlm.nih.gov/gene/TSC2
 text/text-role: function
-text/html: <p>The <i>TSC2</i> gene provides instructions for producing a protein called tuberin, whose function is not fully understood.  Within cells, tuberin interacts with a protein called hamartin, which is produced from the <i>TSC1</i> gene.  These two proteins help control cell growth and size. Proteins that normally prevent cells from growing and dividing too fast or in an uncontrolled way are known as tumor suppressors. Hamartin and tuberin carry out their tumor suppressor function by interacting with and regulating a wide variety of other proteins.</p>
+text/html/html:p: The <i>TSC2</i> gene provides instructions for producing a protein called tuberin, whose function is not fully understood.  Within cells, tuberin interacts with a protein called hamartin, which is produced from the <i>TSC1</i> gene.  These two proteins help control cell growth and size. Proteins that normally prevent cells from growing and dividing too fast or in an uncontrolled way are known as tumor suppressors. Hamartin and tuberin carry out their tumor suppressor function by interacting with and regulating a wide variety of other proteins.
 related-health-condition(1)/name: lymphangioleiomyomatosis
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/lymphangioleiomyomatosis
 related-health-condition(2)/name: tuberous sclerosis complex

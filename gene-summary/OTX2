@@ -2,7 +2,8 @@ gene-symbol: OTX2
 name: orthodenticle homeobox 2
 ghr-page: https://ghr.nlm.nih.gov/gene/OTX2
 text/text-role: function
-text/html: <p>The <i>OTX2</i> gene provides instructions for producing a protein that regulates the activity of other genes. On the basis of this action, the OTX2 protein is called a transcription factor. The <i>OTX2</i> gene is part of a family of homeobox genes, which act during early embryonic development to control the formation of many body structures.</p><p>The <i>OTX2</i> gene plays a critical role in the development of the eyes and related structures, such as the nerves that carry visual information from the eyes to the brain (optic nerves). It is also involved in brain development, including the formation of the pituitary gland at the base of the brain. The pituitary gland produces hormones that help control growth, reproduction, and other critical body functions.</p>
+text/html/html:p(1): The <i>OTX2</i> gene provides instructions for producing a protein that regulates the activity of other genes. On the basis of this action, the OTX2 protein is called a transcription factor. The <i>OTX2</i> gene is part of a family of homeobox genes, which act during early embryonic development to control the formation of many body structures.
+text/html/html:p(2): The <i>OTX2</i> gene plays a critical role in the development of the eyes and related structures, such as the nerves that carry visual information from the eyes to the brain (optic nerves). It is also involved in brain development, including the formation of the pituitary gland at the base of the brain. The pituitary gland produces hormones that help control growth, reproduction, and other critical body functions.
 related-health-condition(1)/name: coloboma
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/coloboma
 related-health-condition(2)/name: combined pituitary hormone deficiency

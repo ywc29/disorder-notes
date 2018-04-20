@@ -2,7 +2,7 @@ gene-symbol: CYP2C9
 name: cytochrome P450 family 2 subfamily C member 9
 ghr-page: https://ghr.nlm.nih.gov/gene/CYP2C9
 text/text-role: function
-text/html: <p>The <i>CYP2C9</i> gene provides instructions for making an enzyme that is found in a cell structure called the endoplasmic reticulum, which is involved in protein processing and transport. The CYP2C9 enzyme breaks down (metabolizes) compounds including steroid hormones and fatty acids. The CYP2C9 enzyme also plays a major role in breaking down the drug warfarin, which thins the blood and prevents blood clots from forming. This enzyme also assists in metabolizing other drugs such as ibuprofen, which reduces inflammation.</p>
+text/html/html:p: The <i>CYP2C9</i> gene provides instructions for making an enzyme that is found in a cell structure called the endoplasmic reticulum, which is involved in protein processing and transport. The CYP2C9 enzyme breaks down (metabolizes) compounds including steroid hormones and fatty acids. The CYP2C9 enzyme also plays a major role in breaking down the drug warfarin, which thins the blood and prevents blood clots from forming. This enzyme also assists in metabolizing other drugs such as ibuprofen, which reduces inflammation.
 related-health-condition/name: warfarin sensitivity
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/warfarin-sensitivity
 synonym(1): CYPIIC9

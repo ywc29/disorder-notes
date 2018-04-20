@@ -2,7 +2,8 @@ gene-symbol: EP300
 name: E1A binding protein p300
 ghr-page: https://ghr.nlm.nih.gov/gene/EP300
 text/text-role: function
-text/html: <p>The <i>EP300</i> gene provides instructions for making a protein called p300.  This protein regulates the activity of many genes in tissues throughout the body. It plays an essential role in controlling cell growth and division and prompting cells to mature and assume specialized functions (differentiate). The p300 protein appears to be critical for normal development before and after birth.</p><p>The p300 protein carries out its function by activating transcription, the process of making a blueprint of a gene for protein production. Specifically, p300 connects transcription factors, which are proteins that start the transcription process, with the complex of proteins that carries out transcription. On the basis of this function, p300 is called a transcriptional coactivator.</p>
+text/html/html:p(1): The <i>EP300</i> gene provides instructions for making a protein called p300.  This protein regulates the activity of many genes in tissues throughout the body. It plays an essential role in controlling cell growth and division and prompting cells to mature and assume specialized functions (differentiate). The p300 protein appears to be critical for normal development before and after birth.
+text/html/html:p(2): The p300 protein carries out its function by activating transcription, the process of making a blueprint of a gene for protein production. Specifically, p300 connects transcription factors, which are proteins that start the transcription process, with the complex of proteins that carries out transcription. On the basis of this function, p300 is called a transcriptional coactivator.
 related-health-condition(1)/name: prostate cancer
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/prostate-cancer
 related-health-condition(2)/name: Rubinstein-Taybi syndrome

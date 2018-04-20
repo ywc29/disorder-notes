@@ -2,7 +2,8 @@ gene-symbol: KAT6B
 name: lysine acetyltransferase 6B
 ghr-page: https://ghr.nlm.nih.gov/gene/KAT6B
 text/text-role: function
-text/html: <p>The <i>KAT6B</i> gene provides instructions for making a type of enzyme called a histone acetyltransferase. These enzymes modify histones, which are structural proteins that attach (bind) to DNA and give chromosomes their shape. By adding a small molecule called an acetyl group to particular locations on histones, histone acetyltransferases control the activity of certain genes.</p><p>Little is known about the function of the histone acetyltransferase produced from the <i>KAT6B</i> gene. It is active in cells and tissues throughout the body, where it interacts with many other proteins. It appears to regulate genes that are important for early development, including development of the skeleton and nervous system.</p>
+text/html/html:p(1): The <i>KAT6B</i> gene provides instructions for making a type of enzyme called a histone acetyltransferase. These enzymes modify histones, which are structural proteins that attach (bind) to DNA and give chromosomes their shape. By adding a small molecule called an acetyl group to particular locations on histones, histone acetyltransferases control the activity of certain genes.
+text/html/html:p(2): Little is known about the function of the histone acetyltransferase produced from the <i>KAT6B</i> gene. It is active in cells and tissues throughout the body, where it interacts with many other proteins. It appears to regulate genes that are important for early development, including development of the skeleton and nervous system.
 related-health-condition(1)/name: genitopatellar syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/genitopatellar-syndrome
 related-health-condition(2)/name: Ohdo syndrome, Say-Barber-Biesecker-Young-Simpson variant

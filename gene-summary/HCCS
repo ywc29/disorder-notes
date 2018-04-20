@@ -2,7 +2,9 @@ gene-symbol: HCCS
 name: holocytochrome c synthase
 ghr-page: https://ghr.nlm.nih.gov/gene/HCCS
 text/text-role: function
-text/html: <p>The <i>HCCS</i> gene carries instructions for producing an enzyme called holocytochrome c-type synthase. This enzyme is active in many tissues of the body and is found in the mitochondria, the energy-producing centers within cells.</p><p>Within the mitochondria, the holocytochrome c-type synthase enzyme helps produce a molecule called cytochrome c. Specifically, holocytochrome c-type synthase is involved in a reaction that adds an iron-containing molecule called heme to make mature cytochrome c, also called holocytochrome c, from a precursor form called apocytochrome c.</p><p>Cytochrome c is involved in a process called oxidative phosphorylation, by which mitochondria generate adenosine triphosphate (ATP), the cell's main energy source. It also plays a role in the self-destruction of cells (apoptosis).</p>
+text/html/html:p(1): The <i>HCCS</i> gene carries instructions for producing an enzyme called holocytochrome c-type synthase. This enzyme is active in many tissues of the body and is found in the mitochondria, the energy-producing centers within cells.
+text/html/html:p(2): Within the mitochondria, the holocytochrome c-type synthase enzyme helps produce a molecule called cytochrome c. Specifically, holocytochrome c-type synthase is involved in a reaction that adds an iron-containing molecule called heme to make mature cytochrome c, also called holocytochrome c, from a precursor form called apocytochrome c.
+text/html/html:p(3): Cytochrome c is involved in a process called oxidative phosphorylation, by which mitochondria generate adenosine triphosphate (ATP), the cell's main energy source. It also plays a role in the self-destruction of cells (apoptosis).
 related-health-condition/name: microphthalmia with linear skin defects syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/microphthalmia-with-linear-skin-defects-syndrome
 synonym(1): CCHL

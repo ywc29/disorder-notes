@@ -2,7 +2,8 @@ gene-symbol: TGM3
 name: transglutaminase 3
 ghr-page: https://ghr.nlm.nih.gov/gene/TGM3
 text/text-role: function
-text/html: <p>The <i>TGM3</i> gene provides instructions for making an enzyme called transglutaminase 3. This enzyme is found in certain skin cells called keratinocytes and corneocytes, as well as in various structures that make up scalp hair, including the root and strand (shaft).</p><p>Transglutaminase 3 helps proteins attach (bind) to each other at specific protein building blocks (amino acids). Specifically, transglutaminase 3 helps bind proteins together at their glutamine and lysine amino acids. This binding forms stabilizing cross-links between proteins. These protein cross-links provide strength and structure to cells, particularly skin and hair cells.</p>
+text/html/html:p(1): The <i>TGM3</i> gene provides instructions for making an enzyme called transglutaminase 3. This enzyme is found in certain skin cells called keratinocytes and corneocytes, as well as in various structures that make up scalp hair, including the root and strand (shaft).
+text/html/html:p(2): Transglutaminase 3 helps proteins attach (bind) to each other at specific protein building blocks (amino acids). Specifically, transglutaminase 3 helps bind proteins together at their glutamine and lysine amino acids. This binding forms stabilizing cross-links between proteins. These protein cross-links provide strength and structure to cells, particularly skin and hair cells.
 related-health-condition/name: uncombable hair syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/uncombable-hair-syndrome
 synonym(1): E polypeptide, protein-glutamine-gamma-glutamyltransferase

@@ -1,7 +1,7 @@
 name: Alkaptonuria
 ghr-page: https://ghr.nlm.nih.gov/condition/alkaptonuria
 text/text-role: description
-text/html: <p>Alkaptonuria is an inherited condition that causes urine to turn black when exposed to air. Ochronosis, a buildup of dark pigment in connective tissues such as cartilage and skin, is also characteristic of the disorder.  This blue-black pigmentation usually appears after age 30.  People with alkaptonuria typically develop arthritis, particularly in the spine and large joints, beginning in early adulthood.  Other features of this condition can include heart problems, kidney stones, and prostate stones.</p>
+text/html/html:p: Alkaptonuria is an inherited condition that causes urine to turn black when exposed to air. Ochronosis, a buildup of dark pigment in connective tissues such as cartilage and skin, is also characteristic of the disorder.  This blue-black pigmentation usually appears after age 30.  People with alkaptonuria typically develop arthritis, particularly in the spine and large joints, beginning in early adulthood.  Other features of this condition can include heart problems, kidney stones, and prostate stones.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: HGD

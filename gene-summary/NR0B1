@@ -2,7 +2,7 @@ gene-symbol: NR0B1
 name: nuclear receptor subfamily 0 group B member 1
 ghr-page: https://ghr.nlm.nih.gov/gene/NR0B1
 text/text-role: function
-text/html: <p>The <i>NR0B1</i> gene provides instructions for making a protein called DAX1. This protein plays an important role in the development and function of several hormone-producing (endocrine) tissues in the body. These tissues include the small glands located on top of each kidney (the adrenal glands), two hormone-secreting glands in the brain (the hypothalamus and pituitary), and the gonads (ovaries in females and testes in males).  Before birth, the DAX1 protein helps regulate genes that direct the formation of these tissues.  DAX1 also helps regulate hormone production in endocrine tissues after they have been formed.</p>
+text/html/html:p: The <i>NR0B1</i> gene provides instructions for making a protein called DAX1. This protein plays an important role in the development and function of several hormone-producing (endocrine) tissues in the body. These tissues include the small glands located on top of each kidney (the adrenal glands), two hormone-secreting glands in the brain (the hypothalamus and pituitary), and the gonads (ovaries in females and testes in males).  Before birth, the DAX1 protein helps regulate genes that direct the formation of these tissues.  DAX1 also helps regulate hormone production in endocrine tissues after they have been formed.
 related-health-condition(1)/name: Swyer syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/swyer-syndrome
 related-health-condition(2)/name: X-linked adrenal hypoplasia congenita

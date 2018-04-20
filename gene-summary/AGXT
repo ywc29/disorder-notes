@@ -2,7 +2,7 @@ gene-symbol: AGXT
 name: alanine-glyoxylate aminotransferase
 ghr-page: https://ghr.nlm.nih.gov/gene/AGXT
 text/text-role: function
-text/html: <p>The <i>AGXT</i> gene provides instructions for making an enzyme called alanine-glyoxylate aminotransferase. This enzyme is found in liver cells, specifically within cell structures called peroxisomes. These structures are important for several cellular activities, such as ridding the cell of toxic substances and helping to break down certain fats. In the peroxisome, alanine-glyoxylate aminotransferase converts a compound called glyoxylate to the protein building block (amino acid) glycine.</p>
+text/html/html:p: The <i>AGXT</i> gene provides instructions for making an enzyme called alanine-glyoxylate aminotransferase. This enzyme is found in liver cells, specifically within cell structures called peroxisomes. These structures are important for several cellular activities, such as ridding the cell of toxic substances and helping to break down certain fats. In the peroxisome, alanine-glyoxylate aminotransferase converts a compound called glyoxylate to the protein building block (amino acid) glycine.
 related-health-condition/name: primary hyperoxaluria
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/primary-hyperoxaluria
 synonym(1): AGT

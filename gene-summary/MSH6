@@ -2,7 +2,7 @@ gene-symbol: MSH6
 name: mutS homolog 6
 ghr-page: https://ghr.nlm.nih.gov/gene/MSH6
 text/text-role: function
-text/html: <p>The <i>MSH6</i> gene provides instructions for making a protein that plays an essential role in repairing DNA. This protein helps fix errors that are made when DNA is copied (DNA replication) in preparation for cell division. The MSH6 protein joins with another protein called MSH2 (produced from the <i>MSH2</i> gene) to form a protein complex. This complex identifies locations on the DNA where errors have been made during DNA replication. Another group of proteins, the MLH1-PMS2 protein complex, then repairs the errors. The <i>MSH6</i> gene is a member of a set of genes known as the mismatch repair (MMR) genes.</p>
+text/html/html:p: The <i>MSH6</i> gene provides instructions for making a protein that plays an essential role in repairing DNA. This protein helps fix errors that are made when DNA is copied (DNA replication) in preparation for cell division. The MSH6 protein joins with another protein called MSH2 (produced from the <i>MSH2</i> gene) to form a protein complex. This complex identifies locations on the DNA where errors have been made during DNA replication. Another group of proteins, the MLH1-PMS2 protein complex, then repairs the errors. The <i>MSH6</i> gene is a member of a set of genes known as the mismatch repair (MMR) genes.
 related-health-condition(1)/name: Lynch syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/lynch-syndrome
 related-health-condition(2)/name: ovarian cancer

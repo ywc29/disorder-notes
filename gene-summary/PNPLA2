@@ -2,7 +2,7 @@ gene-symbol: PNPLA2
 name: patatin like phospholipase domain containing 2
 ghr-page: https://ghr.nlm.nih.gov/gene/PNPLA2
 text/text-role: function
-text/html: <p>The <i>PNPLA2</i> gene provides instructions for making an enzyme called adipose triglyceride lipase (ATGL).  The ATGL enzyme plays a role in breaking down fats called triglycerides, which are the main source of stored energy in cells.  Triglycerides are the major component of cell structures called lipid droplets (also called adiposomes).  The ATGL enzyme is found on the surface of lipid droplets. When activated, the ATGL enzyme breaks down triglycerides to provide energy for the body.</p>
+text/html/html:p: The <i>PNPLA2</i> gene provides instructions for making an enzyme called adipose triglyceride lipase (ATGL).  The ATGL enzyme plays a role in breaking down fats called triglycerides, which are the main source of stored energy in cells.  Triglycerides are the major component of cell structures called lipid droplets (also called adiposomes).  The ATGL enzyme is found on the surface of lipid droplets. When activated, the ATGL enzyme breaks down triglycerides to provide energy for the body.
 related-health-condition/name: neutral lipid storage disease with myopathy
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/neutral-lipid-storage-disease-with-myopathy
 synonym(1): adipose triglyceride lipase

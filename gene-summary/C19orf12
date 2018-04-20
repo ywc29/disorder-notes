@@ -2,7 +2,7 @@ gene-symbol: C19orf12
 name: chromosome 19 open reading frame 12
 ghr-page: https://ghr.nlm.nih.gov/gene/C19orf12
 text/text-role: function
-text/html: <p>The <i>C19orf12</i> gene provides instructions for making a protein whose function is unknown. The protein is found in the membrane of cellular structures called mitochondria, which are the cell's energy-producing centers. Researchers suggest that the C19orf12 protein plays a role in the maintenance of fat (lipid) molecules, a process known as lipid homeostasis.</p>
+text/html/html:p: The <i>C19orf12</i> gene provides instructions for making a protein whose function is unknown. The protein is found in the membrane of cellular structures called mitochondria, which are the cell's energy-producing centers. Researchers suggest that the C19orf12 protein plays a role in the maintenance of fat (lipid) molecules, a process known as lipid homeostasis.
 related-health-condition/name: mitochondrial membrane protein-associated neurodegeneration
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mitochondrial-membrane-protein-associated-neurodegeneration
 synonym(1): NBIA3

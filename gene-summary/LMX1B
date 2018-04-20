@@ -2,7 +2,7 @@ gene-symbol: LMX1B
 name: LIM homeobox transcription factor 1 beta
 ghr-page: https://ghr.nlm.nih.gov/gene/LMX1B
 text/text-role: function
-text/html: <p>The <i>LMX1B</i> gene provides instructions for producing a protein that attaches (binds) to specific regions of DNA and regulates the activity of other genes. On the basis of this role, the LMX1B protein is called a transcription factor. The LMX1B protein appears to be particularly important during early embryonic development of the limbs, kidneys, and eyes.</p>
+text/html/html:p: The <i>LMX1B</i> gene provides instructions for producing a protein that attaches (binds) to specific regions of DNA and regulates the activity of other genes. On the basis of this role, the LMX1B protein is called a transcription factor. The LMX1B protein appears to be particularly important during early embryonic development of the limbs, kidneys, and eyes.
 related-health-condition/name: nail-patella syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nail-patella-syndrome
 synonym(1): LIM homeo box transcription factor 1, beta

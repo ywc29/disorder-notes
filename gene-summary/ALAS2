@@ -2,7 +2,9 @@ gene-symbol: ALAS2
 name: 5'-aminolevulinate synthase 2
 ghr-page: https://ghr.nlm.nih.gov/gene/ALAS2
 text/text-role: function
-text/html: <p>The <i>ALAS2</i> gene provides instructions for making an enzyme called 5'-aminolevulinate synthase 2 or erythroid ALA-synthase. This version of the enzyme is found only in developing red blood cells called erythroblasts.</p><p>ALA-synthase plays an important role in the production of heme. Heme is a component of iron-containing proteins called hemoproteins, including hemoglobin (the protein that carries oxygen in the blood). Heme is vital for all of the body's organs, although it is most abundant in the blood, bone marrow, and liver.</p><p>The production of heme is a multi-step process that requires eight different enzymes. ALA-synthase is responsible for the first step in this process, the formation of a compound called delta-aminolevulinic acid (ALA). In subsequent steps, seven other enzymes produce and modify compounds that ultimately lead to heme.</p>
+text/html/html:p(1): The <i>ALAS2</i> gene provides instructions for making an enzyme called 5'-aminolevulinate synthase 2 or erythroid ALA-synthase. This version of the enzyme is found only in developing red blood cells called erythroblasts.
+text/html/html:p(2): ALA-synthase plays an important role in the production of heme. Heme is a component of iron-containing proteins called hemoproteins, including hemoglobin (the protein that carries oxygen in the blood). Heme is vital for all of the body's organs, although it is most abundant in the blood, bone marrow, and liver.
+text/html/html:p(3): The production of heme is a multi-step process that requires eight different enzymes. ALA-synthase is responsible for the first step in this process, the formation of a compound called delta-aminolevulinic acid (ALA). In subsequent steps, seven other enzymes produce and modify compounds that ultimately lead to heme.
 related-health-condition(1)/name: porphyria
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/porphyria
 related-health-condition(2)/name: X-linked sideroblastic anemia

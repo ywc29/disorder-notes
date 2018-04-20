@@ -2,7 +2,8 @@ gene-symbol: CST3
 name: cystatin C
 ghr-page: https://ghr.nlm.nih.gov/gene/CST3
 text/text-role: function
-text/html: <p>The <i>CST3</i> gene provides instructions for making a protein called cystatin C. This protein is part of a family of proteins called cysteine protease inhibitors that help control several types of chemical reactions by blocking (inhibiting) the activity of certain enzymes. Cystatin C inhibits the activity of enzymes called cathepsins that cut apart other proteins in order to break them down.</p><p>Cystatin C is found in biological fluids, such as blood. Its levels are especially high in the fluid that surrounds and protects the brain and spinal cord (the cerebrospinal fluid or CSF).</p>
+text/html/html:p(1): The <i>CST3</i> gene provides instructions for making a protein called cystatin C. This protein is part of a family of proteins called cysteine protease inhibitors that help control several types of chemical reactions by blocking (inhibiting) the activity of certain enzymes. Cystatin C inhibits the activity of enzymes called cathepsins that cut apart other proteins in order to break them down.
+text/html/html:p(2): Cystatin C is found in biological fluids, such as blood. Its levels are especially high in the fluid that surrounds and protects the brain and spinal cord (the cerebrospinal fluid or CSF).
 related-health-condition(1)/name: age-related macular degeneration
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/age-related-macular-degeneration
 related-health-condition(2)/name: hereditary cerebral amyloid angiopathy

@@ -1,7 +1,7 @@
 name: Bernard-Soulier syndrome
 ghr-page: https://ghr.nlm.nih.gov/condition/bernard-soulier-syndrome
 text/text-role: description
-text/html: <p>Bernard-Soulier syndrome is a bleeding disorder associated with abnormal platelets, which are blood cell fragments involved in blood clotting. In affected individuals, platelets are unusually large and fewer in number than usual (a combination known as macrothrombocytopenia). People with Bernard-Soulier syndrome tend to bruise easily and have an increased risk of nosebleeds (epistaxis). They may also experience abnormally heavy or prolonged bleeding following minor injury or surgery or even without trauma (spontaneous bleeding). In some affected individuals, bleeding under the skin causes tiny red or purple spots on the skin called petechiae. Women with Bernard-Soulier syndrome often have heavy or prolonged menstrual periods (menorrhagia).</p>
+text/html/html:p: Bernard-Soulier syndrome is a bleeding disorder associated with abnormal platelets, which are blood cell fragments involved in blood clotting. In affected individuals, platelets are unusually large and fewer in number than usual (a combination known as macrothrombocytopenia). People with Bernard-Soulier syndrome tend to bruise easily and have an increased risk of nosebleeds (epistaxis). They may also experience abnormally heavy or prolonged bleeding following minor injury or surgery or even without trauma (spontaneous bleeding). In some affected individuals, bleeding under the skin causes tiny red or purple spots on the skin called petechiae. Women with Bernard-Soulier syndrome often have heavy or prolonged menstrual periods (menorrhagia).
 inheritance-pattern(1)/code: ad
 inheritance-pattern(1)/memo: autosomal dominant
 inheritance-pattern(2)/code: ar

@@ -2,7 +2,7 @@ gene-symbol: ALDH5A1
 name: aldehyde dehydrogenase 5 family member A1
 ghr-page: https://ghr.nlm.nih.gov/gene/ALDH5A1
 text/text-role: function
-text/html: <p>The <i>ALDH5A1</i> gene provides instructions for producing the succinic semialdehyde dehydrogenase enzyme.  This enzyme is found in the energy-producing centers of cells (mitochondria).  Succinic semialdehyde dehydrogenase is involved in the breakdown of a chemical that transmits signals in the brain (neurotransmitter) called gamma-amino butyric acid (GABA).   The primary role of GABA is to prevent the brain from being overloaded with too many signals.  Once GABA molecules have been released from nerve cells, they are broken down by succinic semialdehyde dehydrogenase and other enzymes.</p>
+text/html/html:p: The <i>ALDH5A1</i> gene provides instructions for producing the succinic semialdehyde dehydrogenase enzyme.  This enzyme is found in the energy-producing centers of cells (mitochondria).  Succinic semialdehyde dehydrogenase is involved in the breakdown of a chemical that transmits signals in the brain (neurotransmitter) called gamma-amino butyric acid (GABA).   The primary role of GABA is to prevent the brain from being overloaded with too many signals.  Once GABA molecules have been released from nerve cells, they are broken down by succinic semialdehyde dehydrogenase and other enzymes.
 related-health-condition/name: succinic semialdehyde dehydrogenase deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/succinic-semialdehyde-dehydrogenase-deficiency
 synonym(1): aldehyde dehydrogenase 5 family, member A1

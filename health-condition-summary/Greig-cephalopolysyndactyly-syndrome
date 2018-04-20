@@ -1,7 +1,7 @@
 name: Greig cephalopolysyndactyly syndrome
 ghr-page: https://ghr.nlm.nih.gov/condition/greig-cephalopolysyndactyly-syndrome
 text/text-role: description
-text/html: <p>Greig cephalopolysyndactyly syndrome is a disorder that affects development of the limbs, head, and face. The features of this syndrome are highly variable, ranging from very mild to severe. People with this condition typically have one or more extra fingers or toes (polydactyly) or an abnormally wide thumb or big toe (hallux). The skin between the fingers and toes may be fused (cutaneous syndactyly). This disorder is also characterized by widely spaced eyes (ocular hypertelorism), an abnormally large head size (macrocephaly), and a high, prominent forehead. Rarely, affected individuals may have more serious medical problems including seizures, delayed development, and intellectual disability.</p>
+text/html/html:p: Greig cephalopolysyndactyly syndrome is a disorder that affects development of the limbs, head, and face. The features of this syndrome are highly variable, ranging from very mild to severe. People with this condition typically have one or more extra fingers or toes (polydactyly) or an abnormally wide thumb or big toe (hallux). The skin between the fingers and toes may be fused (cutaneous syndactyly). This disorder is also characterized by widely spaced eyes (ocular hypertelorism), an abnormally large head size (macrocephaly), and a high, prominent forehead. Rarely, affected individuals may have more serious medical problems including seizures, delayed development, and intellectual disability.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene/gene-symbol: GLI3

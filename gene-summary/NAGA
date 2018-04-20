@@ -2,7 +2,7 @@ gene-symbol: NAGA
 name: alpha-N-acetylgalactosaminidase
 ghr-page: https://ghr.nlm.nih.gov/gene/NAGA
 text/text-role: function
-text/html: <p>The <i>NAGA</i> gene provides instructions for making the enzyme alpha-N-acetylgalactosaminidase. This enzyme works in the lysosomes, which are compartments within cells that digest and recycle materials. Within lysosomes, the enzyme helps break down complexes called glycoproteins and glycolipids, which consist of sugar molecules attached to certain proteins and fats. Specifically, alpha-N-acetylgalactosaminidase helps remove a molecule called alpha-N-acetylgalactosamine from sugars in these complexes.</p>
+text/html/html:p: The <i>NAGA</i> gene provides instructions for making the enzyme alpha-N-acetylgalactosaminidase. This enzyme works in the lysosomes, which are compartments within cells that digest and recycle materials. Within lysosomes, the enzyme helps break down complexes called glycoproteins and glycolipids, which consist of sugar molecules attached to certain proteins and fats. Specifically, alpha-N-acetylgalactosaminidase helps remove a molecule called alpha-N-acetylgalactosamine from sugars in these complexes.
 related-health-condition/name: Schindler disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/schindler-disease
 synonym(1): Acetylgalactosaminidase, alpha-N- (alpha-galactosidase B)

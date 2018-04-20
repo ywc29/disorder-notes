@@ -2,7 +2,7 @@ gene-symbol: OPA3
 name: OPA3, outer mitochondrial membrane lipid metabolism regulator
 ghr-page: https://ghr.nlm.nih.gov/gene/OPA3
 text/text-role: function
-text/html: <p>The <i>OPA3</i> gene provides instructions for making a protein whose exact function is unknown. The OPA3 protein is found in structures called mitochondria, which are the energy-producing centers of cells. Researchers speculate that the OPA3 protein is involved in regulating the shape of mitochondria.</p>
+text/html/html:p: The <i>OPA3</i> gene provides instructions for making a protein whose exact function is unknown. The OPA3 protein is found in structures called mitochondria, which are the energy-producing centers of cells. Researchers speculate that the OPA3 protein is involved in regulating the shape of mitochondria.
 related-health-condition/name: Costeff syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/costeff-syndrome
 synonym(1): FLJ22187

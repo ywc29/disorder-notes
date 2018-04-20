@@ -2,7 +2,7 @@ gene-symbol: AGA
 name: aspartylglucosaminidase
 ghr-page: https://ghr.nlm.nih.gov/gene/AGA
 text/text-role: function
-text/html: <p>The <i>AGA</i> gene provides instructions for producing an enzyme called aspartylglucosaminidase.  This enzyme is active in lysosomes, which are structures inside cells that act as recycling centers.  Within lysosomes, the enzyme helps break down complexes of sugar molecules (oligosaccharides) attached to certain proteins (glycoproteins).  Specifically, this enzyme cuts glycoproteins between a protein building block (amino acid) called asparagine and a sugar molecule called N-acetylglucosamine.  This cut is one of the last steps in breaking down a glycoprotein in the lysosome.</p>
+text/html/html:p: The <i>AGA</i> gene provides instructions for producing an enzyme called aspartylglucosaminidase.  This enzyme is active in lysosomes, which are structures inside cells that act as recycling centers.  Within lysosomes, the enzyme helps break down complexes of sugar molecules (oligosaccharides) attached to certain proteins (glycoproteins).  Specifically, this enzyme cuts glycoproteins between a protein building block (amino acid) called asparagine and a sugar molecule called N-acetylglucosamine.  This cut is one of the last steps in breaking down a glycoprotein in the lysosome.
 related-health-condition/name: aspartylglucosaminuria
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/aspartylglucosaminuria
 synonym(1): ASRG

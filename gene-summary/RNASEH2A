@@ -2,7 +2,8 @@ gene-symbol: RNASEH2A
 name: ribonuclease H2 subunit A
 ghr-page: https://ghr.nlm.nih.gov/gene/RNASEH2A
 text/text-role: function
-text/html: <p>The <i>RNASEH2A</i> gene provides instructions for making one part (subunit) of a group of proteins called the RNase H2 complex. This complex is a ribonuclease, which means it is an enzyme that helps break down molecules containing RNA, a chemical cousin of DNA. In particular, the RNase H2 complex normally helps break down molecules in which one strand of RNA is combined with one strand of DNA (RNA-DNA hybrids) when these molecules are no longer needed. RNA-DNA hybrids are formed during DNA copying (replication) and are found in all cells.</p><p>The RNase H2 complex is also thought to be involved in DNA replication, error repair, and other cellular processes, including helping to prevent inappropriate immune system activation.</p>
+text/html/html:p(1): The <i>RNASEH2A</i> gene provides instructions for making one part (subunit) of a group of proteins called the RNase H2 complex. This complex is a ribonuclease, which means it is an enzyme that helps break down molecules containing RNA, a chemical cousin of DNA. In particular, the RNase H2 complex normally helps break down molecules in which one strand of RNA is combined with one strand of DNA (RNA-DNA hybrids) when these molecules are no longer needed. RNA-DNA hybrids are formed during DNA copying (replication) and are found in all cells.
+text/html/html:p(2): The RNase H2 complex is also thought to be involved in DNA replication, error repair, and other cellular processes, including helping to prevent inappropriate immune system activation.
 related-health-condition/name: Aicardi-Goutières syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/aicardi-goutieres-syndrome
 synonym(1): AGS4

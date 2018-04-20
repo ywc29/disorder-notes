@@ -2,7 +2,8 @@ gene-symbol: NF1
 name: neurofibromin 1
 ghr-page: https://ghr.nlm.nih.gov/gene/NF1
 text/text-role: function
-text/html: <p>The <i>NF1</i> gene provides instructions for making a protein called neurofibromin. This protein is produced in many types of cells, including nerve cells and specialized cells called oligodendrocytes and Schwann cells that surround nerves.  These specialized cells form myelin sheaths, which are the fatty coverings that insulate and protect certain nerve cells.</p><p>Neurofibromin acts as a tumor suppressor protein. Tumor suppressors normally prevent cells from growing and dividing too rapidly or in an uncontrolled way. This protein appears to prevent cell overgrowth by turning off another protein (called ras) that stimulates cell growth and division. Other potential functions for neurofibromin are under investigation.</p>
+text/html/html:p(1): The <i>NF1</i> gene provides instructions for making a protein called neurofibromin. This protein is produced in many types of cells, including nerve cells and specialized cells called oligodendrocytes and Schwann cells that surround nerves.  These specialized cells form myelin sheaths, which are the fatty coverings that insulate and protect certain nerve cells.
+text/html/html:p(2): Neurofibromin acts as a tumor suppressor protein. Tumor suppressors normally prevent cells from growing and dividing too rapidly or in an uncontrolled way. This protein appears to prevent cell overgrowth by turning off another protein (called ras) that stimulates cell growth and division. Other potential functions for neurofibromin are under investigation.
 related-health-condition(1)/name: lung cancer
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/lung-cancer
 related-health-condition(2)/name: neurofibromatosis type 1

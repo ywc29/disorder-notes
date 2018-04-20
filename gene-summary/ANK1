@@ -2,7 +2,8 @@ gene-symbol: ANK1
 name: ankyrin 1
 ghr-page: https://ghr.nlm.nih.gov/gene/ANK1
 text/text-role: function
-text/html: <p>The <i>ANK1</i> gene provides instruction for making a protein called ankyrin-1. This protein is primarily active (expressed) in red blood cells, but it is also found in muscle and brain cells. In red blood cells, ankyrin-1 is located at the cell membrane, where it attaches (binds) to other membrane proteins. The binding of membrane proteins to one another maintains the stability and structure of red blood cells but also allows for their flexibility. The proteins allow the cell to change shape without breaking when passing through narrow blood vessels.</p><p>In muscle and brain cells, ankyrin-1 performs similar functions, binding to other membrane proteins to play a role in cell stability, cell movement, and other cell functions.</p>
+text/html/html:p(1): The <i>ANK1</i> gene provides instruction for making a protein called ankyrin-1. This protein is primarily active (expressed) in red blood cells, but it is also found in muscle and brain cells. In red blood cells, ankyrin-1 is located at the cell membrane, where it attaches (binds) to other membrane proteins. The binding of membrane proteins to one another maintains the stability and structure of red blood cells but also allows for their flexibility. The proteins allow the cell to change shape without breaking when passing through narrow blood vessels.
+text/html/html:p(2): In muscle and brain cells, ankyrin-1 performs similar functions, binding to other membrane proteins to play a role in cell stability, cell movement, and other cell functions.
 related-health-condition/name: hereditary spherocytosis
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-spherocytosis
 synonym(1): ANK

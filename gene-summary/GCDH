@@ -2,7 +2,7 @@ gene-symbol: GCDH
 name: glutaryl-CoA dehydrogenase
 ghr-page: https://ghr.nlm.nih.gov/gene/GCDH
 text/text-role: function
-text/html: <p>The <i>GCDH</i> gene provides instructions for making the enzyme glutaryl-CoA dehydrogenase. This enzyme is found in mitochondria, the energy-producing centers of cells. The GCDH enzyme is involved in the breakdown of the amino acids lysine, hydroxylysine, and tryptophan, which are building blocks of proteins.</p>
+text/html/html:p: The <i>GCDH</i> gene provides instructions for making the enzyme glutaryl-CoA dehydrogenase. This enzyme is found in mitochondria, the energy-producing centers of cells. The GCDH enzyme is involved in the breakdown of the amino acids lysine, hydroxylysine, and tryptophan, which are building blocks of proteins.
 related-health-condition/name: glutaric acidemia type I
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glutaric-acidemia-type-i
 synonym(1): ACAD5

@@ -2,7 +2,7 @@ gene-symbol: CDC73
 name: cell division cycle 73
 ghr-page: https://ghr.nlm.nih.gov/gene/CDC73
 text/text-role: function
-text/html: <p>The <i>CDC73</i> gene (also known as <i>HRPT2</i>) provides instructions for making a protein called parafibromin. This protein is found primarily in the nucleus of cells and is likely involved in regulating gene transcription, which is the first step in protein production. Parafibromin functions as a tumor suppressor, which means it keeps cells from growing and dividing (proliferating) too rapidly or in an uncontrolled way. When parafibromin is found outside the nucleus, it appears to be involved in the organization of the cell's structural framework (the cytoskeleton).</p>
+text/html/html:p: The <i>CDC73</i> gene (also known as <i>HRPT2</i>) provides instructions for making a protein called parafibromin. This protein is found primarily in the nucleus of cells and is likely involved in regulating gene transcription, which is the first step in protein production. Parafibromin functions as a tumor suppressor, which means it keeps cells from growing and dividing (proliferating) too rapidly or in an uncontrolled way. When parafibromin is found outside the nucleus, it appears to be involved in the organization of the cell's structural framework (the cytoskeleton).
 related-health-condition(1)/name: familial isolated hyperparathyroidism
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-isolated-hyperparathyroidism
 related-health-condition(2)/name: hyperparathyroidism-jaw tumor syndrome

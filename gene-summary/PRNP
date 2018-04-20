@@ -2,7 +2,8 @@ gene-symbol: PRNP
 name: prion protein
 ghr-page: https://ghr.nlm.nih.gov/gene/PRNP
 text/text-role: function
-text/html: <p>The <i>PRNP</i> gene provides instructions for making a protein called prion protein (PrP), which is active in the brain and several other tissues. Although the precise function of this protein is unknown, researchers have proposed roles in several important processes. These include the transport of copper into cells and protection of brain cells (neurons) from injury (neuroprotection). Studies have also suggested a role for PrP in the formation of synapses, which are the junctions between nerve cells (neurons) where cell-to-cell communication occurs.</p><p>Different forms of PrP have been identified. The normal version is often designated PrP<sup>C</sup> to distinguish it from abnormal forms of the protein, which are generally designated PrP<sup>Sc</sup>.</p>
+text/html/html:p(1): The <i>PRNP</i> gene provides instructions for making a protein called prion protein (PrP), which is active in the brain and several other tissues. Although the precise function of this protein is unknown, researchers have proposed roles in several important processes. These include the transport of copper into cells and protection of brain cells (neurons) from injury (neuroprotection). Studies have also suggested a role for PrP in the formation of synapses, which are the junctions between nerve cells (neurons) where cell-to-cell communication occurs.
+text/html/html:p(2): Different forms of PrP have been identified. The normal version is often designated PrP<sup>C</sup> to distinguish it from abnormal forms of the protein, which are generally designated PrP<sup>Sc</sup>.
 related-health-condition(1)/name: Huntington disease-like syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/huntington-disease-like-syndrome
 related-health-condition(2)/name: prion disease

@@ -2,7 +2,8 @@ gene-symbol: TBXT
 name: T-box transcription factor T
 ghr-page: https://ghr.nlm.nih.gov/gene/TBXT
 text/text-role: function
-text/html: <p>The <i>TBXT</i> gene provides instructions for making a protein called brachyury. Brachyury is a member of a protein family called T-box proteins, which play critical roles during embryonic development. T-box proteins regulate the activity of other genes by attaching (binding) to specific regions of DNA. On the basis of this action, T-box proteins are called transcription factors.</p><p>The brachyury protein is important for the development of the notochord, which is the precursor of the spinal column in the embryo. The notochord disappears before birth, but in a small percentage of individuals, some of its cells remain in the base of the skull or in the spine. The notochord helps control the development of the neural tube, which is a layer of cells that ultimately develops into the brain and spinal cord.</p>
+text/html/html:p(1): The <i>TBXT</i> gene provides instructions for making a protein called brachyury. Brachyury is a member of a protein family called T-box proteins, which play critical roles during embryonic development. T-box proteins regulate the activity of other genes by attaching (binding) to specific regions of DNA. On the basis of this action, T-box proteins are called transcription factors.
+text/html/html:p(2): The brachyury protein is important for the development of the notochord, which is the precursor of the spinal column in the embryo. The notochord disappears before birth, but in a small percentage of individuals, some of its cells remain in the base of the skull or in the spine. The notochord helps control the development of the neural tube, which is a layer of cells that ultimately develops into the brain and spinal cord.
 related-health-condition/name: chordoma
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/chordoma
 synonym(1): BRAC_HUMAN

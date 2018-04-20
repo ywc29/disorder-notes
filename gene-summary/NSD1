@@ -2,7 +2,7 @@ gene-symbol: NSD1
 name: nuclear receptor binding SET domain protein 1
 ghr-page: https://ghr.nlm.nih.gov/gene/NSD1
 text/text-role: function
-text/html: <p>The <i>NSD1</i> gene provides instructions for making a protein that functions as a histone methyltransferase. Histone methyltransferases are enzymes that modify structural proteins called histones, which attach (bind) to DNA and give chromosomes their shape. By adding a molecule called a methyl group to histones (a process called methylation), histone methyltransferases control (regulate) the activity of certain genes and can turn them on and off as needed. The NSD1 enzyme controls the activity of genes involved in normal growth and development, although most of these genes have not been identified.</p>
+text/html/html:p: The <i>NSD1</i> gene provides instructions for making a protein that functions as a histone methyltransferase. Histone methyltransferases are enzymes that modify structural proteins called histones, which attach (bind) to DNA and give chromosomes their shape. By adding a molecule called a methyl group to histones (a process called methylation), histone methyltransferases control (regulate) the activity of certain genes and can turn them on and off as needed. The NSD1 enzyme controls the activity of genes involved in normal growth and development, although most of these genes have not been identified.
 related-health-condition/name: Sotos syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/sotos-syndrome
 synonym(1): androgen receptor-associated coregulator 267

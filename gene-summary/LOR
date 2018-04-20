@@ -2,7 +2,8 @@ gene-symbol: LOR
 name: loricrin
 ghr-page: https://ghr.nlm.nih.gov/gene/LOR
 text/text-role: function
-text/html: <p>The <i>LOR</i> gene is part of a cluster of genes on chromosome 1 called the epidermal differentiation complex. These genes are involved in the formation and maintenance of the outer layer of skin (the epidermis), particularly its tough outer surface (the stratum corneum). The stratum corneum, which is formed in a process known as cornification, provides a sturdy barrier between the body and its environment. Each cell of the stratum corneum, called a corneocyte, is surrounded by a protein shell called a cornified envelope.</p><p>The <i>LOR</i> gene provides instructions for making a protein called loricrin, which is a major component of the cornified envelope. Links between loricrin and other components of the envelopes hold the corneocytes together and help give the stratum corneum its strength.</p>
+text/html/html:p(1): The <i>LOR</i> gene is part of a cluster of genes on chromosome 1 called the epidermal differentiation complex. These genes are involved in the formation and maintenance of the outer layer of skin (the epidermis), particularly its tough outer surface (the stratum corneum). The stratum corneum, which is formed in a process known as cornification, provides a sturdy barrier between the body and its environment. Each cell of the stratum corneum, called a corneocyte, is surrounded by a protein shell called a cornified envelope.
+text/html/html:p(2): The <i>LOR</i> gene provides instructions for making a protein called loricrin, which is a major component of the cornified envelope. Links between loricrin and other components of the envelopes hold the corneocytes together and help give the stratum corneum its strength.
 related-health-condition/name: Vohwinkel syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/vohwinkel-syndrome
 synonym: LORI_HUMAN

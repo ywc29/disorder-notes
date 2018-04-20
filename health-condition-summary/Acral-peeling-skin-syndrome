@@ -1,7 +1,7 @@
 name: Acral peeling skin syndrome
 ghr-page: https://ghr.nlm.nih.gov/condition/acral-peeling-skin-syndrome
 text/text-role: description
-text/html: <p>Acral peeling skin syndrome is a skin disorder characterized by painless peeling of the top layer of skin. The term "acral" refers to the fact that the skin peeling in this condition is most apparent on the hands and feet. Occasionally, peeling also occurs on the arms and legs. The peeling is usually evident from birth, although the condition can also begin in childhood or later in life. Skin peeling is made worse by exposure to heat, humidity and other forms of moisture, and friction. The underlying skin may be temporarily red and itchy, but it typically heals without scarring. Acral peeling skin syndrome is not associated with any other health problems.</p>
+text/html/html:p: Acral peeling skin syndrome is a skin disorder characterized by painless peeling of the top layer of skin. The term "acral" refers to the fact that the skin peeling in this condition is most apparent on the hands and feet. Occasionally, peeling also occurs on the arms and legs. The peeling is usually evident from birth, although the condition can also begin in childhood or later in life. Skin peeling is made worse by exposure to heat, humidity and other forms of moisture, and friction. The underlying skin may be temporarily red and itchy, but it typically heals without scarring. Acral peeling skin syndrome is not associated with any other health problems.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: TGM5

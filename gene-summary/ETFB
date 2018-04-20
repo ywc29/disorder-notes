@@ -2,7 +2,7 @@ gene-symbol: ETFB
 name: electron transfer flavoprotein beta subunit
 ghr-page: https://ghr.nlm.nih.gov/gene/ETFB
 text/text-role: function
-text/html: <p>The <i>ETFB</i> gene provides instructions for making one part (the beta subunit) of an enzyme called electron transfer flavoprotein. This enzyme is normally active in the mitochondria, the energy-producing centers in cells. Electron transfer flavoprotein is involved in the process by which fats and proteins are broken down to produce energy.</p>
+text/html/html:p: The <i>ETFB</i> gene provides instructions for making one part (the beta subunit) of an enzyme called electron transfer flavoprotein. This enzyme is normally active in the mitochondria, the energy-producing centers in cells. Electron transfer flavoprotein is involved in the process by which fats and proteins are broken down to produce energy.
 related-health-condition/name: glutaric acidemia type II
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glutaric-acidemia-type-ii
 synonym(1): electron transfer flavoprotein, beta polypeptide

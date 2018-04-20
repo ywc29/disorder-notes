@@ -1,7 +1,8 @@
 name: Liddle syndrome
 ghr-page: https://ghr.nlm.nih.gov/condition/liddle-syndrome
 text/text-role: description
-text/html: <p>Liddle syndrome is an inherited form of high blood pressure (hypertension). This condition is characterized by severe hypertension that begins unusually early in life, often in childhood, although some affected individuals are not diagnosed until adulthood. Some people with Liddle syndrome have no additional signs or symptoms, especially in childhood. Over time, however, untreated hypertension can lead to heart disease or stroke, which may be fatal.</p><p>In addition to hypertension, affected individuals can have low levels of potassium in the blood (hypokalemia). Signs and symptoms of hypokalemia include muscle weakness or pain, fatigue, constipation, or heart palpitations. The shortage of potassium can also raise the pH of the blood, a condition known as metabolic alkalosis.</p>
+text/html/html:p(1): Liddle syndrome is an inherited form of high blood pressure (hypertension). This condition is characterized by severe hypertension that begins unusually early in life, often in childhood, although some affected individuals are not diagnosed until adulthood. Some people with Liddle syndrome have no additional signs or symptoms, especially in childhood. Over time, however, untreated hypertension can lead to heart disease or stroke, which may be fatal.
+text/html/html:p(2): In addition to hypertension, affected individuals can have low levels of potassium in the blood (hypokalemia). Signs and symptoms of hypokalemia include muscle weakness or pain, fatigue, constipation, or heart palpitations. The shortage of potassium can also raise the pH of the blood, a condition known as metabolic alkalosis.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene(1)/gene-symbol: SCNN1B

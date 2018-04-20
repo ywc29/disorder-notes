@@ -1,7 +1,8 @@
 name: Atelosteogenesis type 2
 ghr-page: https://ghr.nlm.nih.gov/condition/atelosteogenesis-type-2
 text/text-role: description
-text/html: <p>Atelosteogenesis type 2 is a severe disorder of cartilage and bone development.  Infants born with this condition have very short arms and legs, a narrow chest, and a prominent, rounded abdomen.  This disorder is also characterized by an opening in the roof of the mouth (a cleft palate), distinctive facial features, an inward- and upward-turning foot (clubfoot), and unusually positioned thumbs (hitchhiker thumbs).</p><p>The signs and symptoms of atelosteogenesis type 2 are similar to those of another skeletal disorder called diastrophic dysplasia; however, atelosteogenesis type 2 is typically more severe.  As a result of serious health problems, infants with this disorder are usually stillborn or die soon after birth from respiratory failure. Some infants, however, have lived for a short time with intensive medical support.</p>
+text/html/html:p(1): Atelosteogenesis type 2 is a severe disorder of cartilage and bone development.  Infants born with this condition have very short arms and legs, a narrow chest, and a prominent, rounded abdomen.  This disorder is also characterized by an opening in the roof of the mouth (a cleft palate), distinctive facial features, an inward- and upward-turning foot (clubfoot), and unusually positioned thumbs (hitchhiker thumbs).
+text/html/html:p(2): The signs and symptoms of atelosteogenesis type 2 are similar to those of another skeletal disorder called diastrophic dysplasia; however, atelosteogenesis type 2 is typically more severe.  As a result of serious health problems, infants with this disorder are usually stillborn or die soon after birth from respiratory failure. Some infants, however, have lived for a short time with intensive medical support.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: SLC26A2

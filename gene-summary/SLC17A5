@@ -2,7 +2,8 @@ gene-symbol: SLC17A5
 name: solute carrier family 17 member 5
 ghr-page: https://ghr.nlm.nih.gov/gene/SLC17A5
 text/text-role: function
-text/html: <p>The <i>SLC17A5</i> gene provides instructions for producing a protein called sialin that is located mainly on the membranes of lysosomes, compartments in the cell that digest and recycle materials. Sialin moves a molecule called free sialic acid, which is produced when certain proteins and fats are broken down, out of the lysosomes to other parts of the cell. Free sialic acid means that the sialic acid is not attached (bound) to other molecules.</p><p>Researchers believe that sialin may also have other functions in brain cells, in addition to those associated with the lysosomes, but these additional functions are not well understood.</p>
+text/html/html:p(1): The <i>SLC17A5</i> gene provides instructions for producing a protein called sialin that is located mainly on the membranes of lysosomes, compartments in the cell that digest and recycle materials. Sialin moves a molecule called free sialic acid, which is produced when certain proteins and fats are broken down, out of the lysosomes to other parts of the cell. Free sialic acid means that the sialic acid is not attached (bound) to other molecules.
+text/html/html:p(2): Researchers believe that sialin may also have other functions in brain cells, in addition to those associated with the lysosomes, but these additional functions are not well understood.
 related-health-condition/name: sialic acid storage disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/sialic-acid-storage-disease
 synonym(1): AST

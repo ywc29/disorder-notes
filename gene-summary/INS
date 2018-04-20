@@ -2,7 +2,8 @@ gene-symbol: INS
 name: insulin
 ghr-page: https://ghr.nlm.nih.gov/gene/INS
 text/text-role: function
-text/html: <p>The <i>INS</i> gene provides instructions for producing the hormone insulin, which is necessary for the control of glucose levels in the blood. Glucose is a simple sugar and the primary energy source for most cells in the body.</p><p>Insulin is produced in a precursor form called proinsulin, which consists of a single chain of protein building blocks (amino acids). The proinsulin chain is cut (cleaved) to form individual pieces called the A and B chains, which are joined together by connections called disulfide bonds to form insulin.</p>
+text/html/html:p(1): The <i>INS</i> gene provides instructions for producing the hormone insulin, which is necessary for the control of glucose levels in the blood. Glucose is a simple sugar and the primary energy source for most cells in the body.
+text/html/html:p(2): Insulin is produced in a precursor form called proinsulin, which consists of a single chain of protein building blocks (amino acids). The proinsulin chain is cut (cleaved) to form individual pieces called the A and B chains, which are joined together by connections called disulfide bonds to form insulin.
 related-health-condition(1)/name: permanent neonatal diabetes mellitus
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/permanent-neonatal-diabetes-mellitus
 related-health-condition(2)/name: type 1 diabetes

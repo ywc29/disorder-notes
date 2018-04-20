@@ -2,7 +2,7 @@ gene-symbol: EXT2
 name: exostosin glycosyltransferase 2
 ghr-page: https://ghr.nlm.nih.gov/gene/EXT2
 text/text-role: function
-text/html: <p>The <i>EXT2</i> gene provides instructions for producing a protein called exostosin-2. This protein is found in a cell structure called the Golgi apparatus, which modifies newly produced enzymes and other proteins. In the Golgi apparatus, exostosin-2 attaches (binds) to another protein, exostosin-1, to form a complex that modifies a protein called heparan sulfate so it can be used in the body. Heparan sulfate is involved in regulating a variety of body processes including the formation of blood vessels (angiogenesis) and blood clotting.  It also has a role in the spread (metastasis) of cancer cells.</p>
+text/html/html:p: The <i>EXT2</i> gene provides instructions for producing a protein called exostosin-2. This protein is found in a cell structure called the Golgi apparatus, which modifies newly produced enzymes and other proteins. In the Golgi apparatus, exostosin-2 attaches (binds) to another protein, exostosin-1, to form a complex that modifies a protein called heparan sulfate so it can be used in the body. Heparan sulfate is involved in regulating a variety of body processes including the formation of blood vessels (angiogenesis) and blood clotting.  It also has a role in the spread (metastasis) of cancer cells.
 related-health-condition(1)/name: hereditary multiple osteochondromas
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/hereditary-multiple-osteochondromas
 related-health-condition(2)/name: Potocki-Shaffer syndrome

@@ -1,7 +1,8 @@
 name: Uncombable hair syndrome
 ghr-page: https://ghr.nlm.nih.gov/condition/uncombable-hair-syndrome
 text/text-role: description
-text/html: <p>Uncombable hair syndrome is a condition that is characterized by dry, frizzy hair that cannot be combed flat. This condition develops in childhood, often between infancy and age 3, but can appear as late as age 12. Affected children have light-colored hair, described as blond or silvery with a glistening sheen. The hair does not grow downward but out from the scalp in multiple directions. Despite its appearance, the hair is not fragile or brittle, and it grows at a normal or slightly slower rate. Only scalp hair is affected in uncombable hair syndrome.</p><p>For unknown reasons, this condition usually improves over time. By adolescence individuals with uncombable hair syndrome have hair that lies flat and has normal or nearly normal texture.</p>
+text/html/html:p(1): Uncombable hair syndrome is a condition that is characterized by dry, frizzy hair that cannot be combed flat. This condition develops in childhood, often between infancy and age 3, but can appear as late as age 12. Affected children have light-colored hair, described as blond or silvery with a glistening sheen. The hair does not grow downward but out from the scalp in multiple directions. Despite its appearance, the hair is not fragile or brittle, and it grows at a normal or slightly slower rate. Only scalp hair is affected in uncombable hair syndrome.
+text/html/html:p(2): For unknown reasons, this condition usually improves over time. By adolescence individuals with uncombable hair syndrome have hair that lies flat and has normal or nearly normal texture.
 inheritance-pattern(1)/code: ad
 inheritance-pattern(1)/memo: autosomal dominant
 inheritance-pattern(2)/code: ar

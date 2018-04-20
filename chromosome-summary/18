@@ -1,7 +1,8 @@
 name: 18
 ghr-page: https://ghr.nlm.nih.gov/chromosome/18
 text/text-role: description
-text/html: <p>Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 18, one copy inherited from each parent, form one of the pairs. Chromosome 18 spans about 78 million DNA building blocks (base pairs) and represents approximately 2.5 percent of the total DNA in cells.</p><p>Identifying genes on each chromosome is an active area of genetic research. Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 18 likely contains 200 to 300 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.</p>
+text/html/html:p(1): Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 18, one copy inherited from each parent, form one of the pairs. Chromosome 18 spans about 78 million DNA building blocks (base pairs) and represents approximately 2.5 percent of the total DNA in cells.
+text/html/html:p(2): Identifying genes on each chromosome is an active area of genetic research. Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 18 likely contains 200 to 300 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.
 related-health-condition(1)/name: distal 18q deletion syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/distal-18q-deletion-syndrome
 related-health-condition(2)/name: proximal 18q deletion syndrome

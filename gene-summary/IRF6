@@ -2,7 +2,8 @@ gene-symbol: IRF6
 name: interferon regulatory factor 6
 ghr-page: https://ghr.nlm.nih.gov/gene/IRF6
 text/text-role: function
-text/html: <p>The <i>IRF6</i> gene provides instructions for making a protein that plays an important role in early development. This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of particular genes.</p><p>The IRF6 protein is active in cells that give rise to tissues in the head and face. It is also involved in the development of other parts of the body, including the skin and genitals.</p>
+text/html/html:p(1): The <i>IRF6</i> gene provides instructions for making a protein that plays an important role in early development. This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of particular genes.
+text/html/html:p(2): The IRF6 protein is active in cells that give rise to tissues in the head and face. It is also involved in the development of other parts of the body, including the skin and genitals.
 related-health-condition(1)/name: popliteal pterygium syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/popliteal-pterygium-syndrome
 related-health-condition(2)/name: van der Woude syndrome

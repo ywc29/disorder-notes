@@ -2,7 +2,7 @@ gene-symbol: FH
 name: fumarate hydratase
 ghr-page: https://ghr.nlm.nih.gov/gene/FH
 text/text-role: function
-text/html: <p>The <i>FH</i> gene provides instructions for making an enzyme called fumarase (also known as fumarate hydratase). Fumarase participates in an important series of reactions known as the citric acid cycle or Krebs cycle, which allows cells to use oxygen and generate energy. Specifically, fumarase helps convert a molecule called fumarate to a molecule called malate.</p>
+text/html/html:p: The <i>FH</i> gene provides instructions for making an enzyme called fumarase (also known as fumarate hydratase). Fumarase participates in an important series of reactions known as the citric acid cycle or Krebs cycle, which allows cells to use oxygen and generate energy. Specifically, fumarase helps convert a molecule called fumarate to a molecule called malate.
 related-health-condition(1)/name: fumarase deficiency
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/fumarase-deficiency
 related-health-condition(2)/name: hereditary leiomyomatosis and renal cell cancer

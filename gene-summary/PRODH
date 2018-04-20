@@ -2,7 +2,8 @@ gene-symbol: PRODH
 name: proline dehydrogenase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/PRODH
 text/text-role: function
-text/html: <p>The <i>PRODH</i> gene provides instructions for producing the enzyme proline oxidase (also known as proline dehydrogenase), which is found primarily in the brain, liver, and kidney. Within cells of these organs, this enzyme functions in energy-producing structures called mitochondria.</p><p>Proline oxidase begins the process of breaking down the protein building block (amino acid) proline by starting the reaction that converts it to pyrroline-5-carboxylate. A subsequent step converts this intermediate product to the amino acid glutamate. The conversion between proline and glutamate is important in maintaining a supply of the amino acids needed for protein production, and for energy transfer within the cell.</p>
+text/html/html:p(1): The <i>PRODH</i> gene provides instructions for producing the enzyme proline oxidase (also known as proline dehydrogenase), which is found primarily in the brain, liver, and kidney. Within cells of these organs, this enzyme functions in energy-producing structures called mitochondria.
+text/html/html:p(2): Proline oxidase begins the process of breaking down the protein building block (amino acid) proline by starting the reaction that converts it to pyrroline-5-carboxylate. A subsequent step converts this intermediate product to the amino acid glutamate. The conversion between proline and glutamate is important in maintaining a supply of the amino acids needed for protein production, and for energy transfer within the cell.
 related-health-condition/name: hyperprolinemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hyperprolinemia
 synonym(1): FLJ33744

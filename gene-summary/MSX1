@@ -2,7 +2,7 @@ gene-symbol: MSX1
 name: msh homeobox 1
 ghr-page: https://ghr.nlm.nih.gov/gene/MSX1
 text/text-role: function
-text/html: <p>The <i>MSX1</i> gene provides instructions for making a protein that regulates the activity of other genes. The <i>MSX1</i> gene is part of a larger family of homeobox genes, which act during early development to control the formation of many body structures.  Specifically, this gene is critical for the normal development of the teeth and other structures in the mouth. It may also be important for development of the fingernails and toenails.</p>
+text/html/html:p: The <i>MSX1</i> gene provides instructions for making a protein that regulates the activity of other genes. The <i>MSX1</i> gene is part of a larger family of homeobox genes, which act during early development to control the formation of many body structures.  Specifically, this gene is critical for the normal development of the teeth and other structures in the mouth. It may also be important for development of the fingernails and toenails.
 related-health-condition/name: Wolf-Hirschhorn syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/wolf-hirschhorn-syndrome
 synonym(1): homeobox 7

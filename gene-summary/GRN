@@ -2,7 +2,8 @@ gene-symbol: GRN
 name: granulin precursor
 ghr-page: https://ghr.nlm.nih.gov/gene/GRN
 text/text-role: function
-text/html: <p>The <i>GRN</i> gene provides instructions for making a protein called granulin (also known as progranulin). This protein is found in tissues throughout the body. It is most active in cells that are dividing rapidly, such as skin cells and cells that line the gastrointestinal tract. Granulin helps regulate the growth, division, and survival of these cells. It also plays important roles in early embryonic development, regulation of the body's immune system response, and wound healing.</p><p>Granulin is active in several types of brain cells, although much less is known about this protein's function in the brain. It appears to be critical for the survival of nerve cells (neurons).</p>
+text/html/html:p(1): The <i>GRN</i> gene provides instructions for making a protein called granulin (also known as progranulin). This protein is found in tissues throughout the body. It is most active in cells that are dividing rapidly, such as skin cells and cells that line the gastrointestinal tract. Granulin helps regulate the growth, division, and survival of these cells. It also plays important roles in early embryonic development, regulation of the body's immune system response, and wound healing.
+text/html/html:p(2): Granulin is active in several types of brain cells, although much less is known about this protein's function in the brain. It appears to be critical for the survival of nerve cells (neurons).
 related-health-condition/name: GRN-related frontotemporal dementia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/grn-related-frontotemporal-dementia
 synonym(1): acrogranin

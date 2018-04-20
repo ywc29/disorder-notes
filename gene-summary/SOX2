@@ -2,7 +2,7 @@ gene-symbol: SOX2
 name: SRY-box 2
 ghr-page: https://ghr.nlm.nih.gov/gene/SOX2
 text/text-role: function
-text/html: <p>The <i>SOX2</i> gene provides instructions for making a protein that plays a critical role in the formation of many different tissues and organs during embryonic development. The SOX2 protein is especially important for the development of the eyes. This protein regulates the activity of other genes by attaching (binding) to specific regions of DNA. On the basis of this action, the SOX2 protein is called a transcription factor.</p>
+text/html/html:p: The <i>SOX2</i> gene provides instructions for making a protein that plays a critical role in the formation of many different tissues and organs during embryonic development. The SOX2 protein is especially important for the development of the eyes. This protein regulates the activity of other genes by attaching (binding) to specific regions of DNA. On the basis of this action, the SOX2 protein is called a transcription factor.
 related-health-condition(1)/name: combined pituitary hormone deficiency
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/combined-pituitary-hormone-deficiency
 related-health-condition(2)/name: microphthalmia

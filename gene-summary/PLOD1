@@ -2,7 +2,8 @@ gene-symbol: PLOD1
 name: procollagen-lysine,2-oxoglutarate 5-dioxygenase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/PLOD1
 text/text-role: function
-text/html: <p>The <i>PLOD1</i> gene provides instructions for making an enzyme called lysyl hydroxylase 1. This enzyme modifies an amino acid called lysine, which is one of the building blocks used to make proteins. Specifically, lysyl hydroxylase 1 converts lysine to a similar molecule, hydroxylysine, through a chemical reaction called hydroxylation. Hydroxylysine is commonly found in collagens, which are complex molecules that provide strength and support to many body tissues.</p><p>Hydroxylysine is essential for collagen molecules to form stable interactions, called cross-links, with one another in the spaces between cells. The cross-links result in the formation of very strong collagen fibers.</p>
+text/html/html:p(1): The <i>PLOD1</i> gene provides instructions for making an enzyme called lysyl hydroxylase 1. This enzyme modifies an amino acid called lysine, which is one of the building blocks used to make proteins. Specifically, lysyl hydroxylase 1 converts lysine to a similar molecule, hydroxylysine, through a chemical reaction called hydroxylation. Hydroxylysine is commonly found in collagens, which are complex molecules that provide strength and support to many body tissues.
+text/html/html:p(2): Hydroxylysine is essential for collagen molecules to form stable interactions, called cross-links, with one another in the spaces between cells. The cross-links result in the formation of very strong collagen fibers.
 related-health-condition/name: Ehlers-Danlos syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ehlers-danlos-syndrome
 synonym(1): collagen lysyl hydroxylase

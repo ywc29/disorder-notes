@@ -2,7 +2,7 @@ gene-symbol: HOGA1
 name: 4-hydroxy-2-oxoglutarate aldolase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/HOGA1
 text/text-role: function
-text/html: <p>The <i>HOGA1</i> gene provides instructions for making the 4-hydroxy-2-oxoglutarate aldolase (HOGA) enzyme. This enzyme is found in liver and kidney cells, specifically within structures called mitochondria, which are the energy-producing centers in cells. The HOGA enzyme is involved in breaking down a protein building block (amino acid) called hydroxyproline. Specifically, during the breakdown process, HOGA cuts (cleaves) a substance called 4-hydroxy-2-oxoglutarate to produce two smaller substances called pyruvate and glyoxylate. In mitochondria, pyruvate is likely involved in energy production, but the function of glyoxylate is unclear.</p>
+text/html/html:p: The <i>HOGA1</i> gene provides instructions for making the 4-hydroxy-2-oxoglutarate aldolase (HOGA) enzyme. This enzyme is found in liver and kidney cells, specifically within structures called mitochondria, which are the energy-producing centers in cells. The HOGA enzyme is involved in breaking down a protein building block (amino acid) called hydroxyproline. Specifically, during the breakdown process, HOGA cuts (cleaves) a substance called 4-hydroxy-2-oxoglutarate to produce two smaller substances called pyruvate and glyoxylate. In mitochondria, pyruvate is likely involved in energy production, but the function of glyoxylate is unclear.
 related-health-condition/name: primary hyperoxaluria
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/primary-hyperoxaluria
 synonym(1): DHDPS2

@@ -2,7 +2,8 @@ gene-symbol: PTPN22
 name: protein tyrosine phosphatase, non-receptor type 22
 ghr-page: https://ghr.nlm.nih.gov/gene/PTPN22
 text/text-role: function
-text/html: <p>The <i>PTPN22</i> gene provides instructions for making a protein that belongs to the PTP (protein tyrosine phosphatases) family. PTP proteins play a role in regulating a process called signal transduction. In signal transduction, the protein relays signals from outside the cell to the cell nucleus. These signals instruct the cell to grow and divide or to mature and take on specialized functions.</p><p>The PTPN22 protein is involved in signaling that helps control the activity of immune system cells called T cells. T cells identify foreign substances and defend the body against infection.</p>
+text/html/html:p(1): The <i>PTPN22</i> gene provides instructions for making a protein that belongs to the PTP (protein tyrosine phosphatases) family. PTP proteins play a role in regulating a process called signal transduction. In signal transduction, the protein relays signals from outside the cell to the cell nucleus. These signals instruct the cell to grow and divide or to mature and take on specialized functions.
+text/html/html:p(2): The PTPN22 protein is involved in signaling that helps control the activity of immune system cells called T cells. T cells identify foreign substances and defend the body against infection.
 related-health-condition(1)/name: autoimmune Addison disease
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autoimmune-addison-disease
 related-health-condition(2)/name: Graves disease

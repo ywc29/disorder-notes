@@ -2,7 +2,7 @@ gene-symbol: SGSH
 name: N-sulfoglucosamine sulfohydrolase
 ghr-page: https://ghr.nlm.nih.gov/gene/SGSH
 text/text-role: function
-text/html: <p>The <i>SGSH</i> gene provides instructions for producing an enzyme called sulfamidase. This enzyme is located in lysosomes, compartments within cells that digest and recycle different types of molecules. Sulfamidase is involved in the step-wise breakdown of large molecules called glycosaminoglycans (GAGs). GAGs are composed of sugar molecules that are linked together to form a long string. To break down these large molecules, individual sugars are removed one at a time from one end of the molecule. Sulfamidase removes a chemical group known as a sulfate from a sugar called glucosamine when it is at the end of the GAG chain.</p>
+text/html/html:p: The <i>SGSH</i> gene provides instructions for producing an enzyme called sulfamidase. This enzyme is located in lysosomes, compartments within cells that digest and recycle different types of molecules. Sulfamidase is involved in the step-wise breakdown of large molecules called glycosaminoglycans (GAGs). GAGs are composed of sugar molecules that are linked together to form a long string. To break down these large molecules, individual sugars are removed one at a time from one end of the molecule. Sulfamidase removes a chemical group known as a sulfate from a sugar called glucosamine when it is at the end of the GAG chain.
 related-health-condition/name: mucopolysaccharidosis type III
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-iii
 synonym(1): heparan N-sulfatase

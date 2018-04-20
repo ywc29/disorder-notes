@@ -2,7 +2,8 @@ gene-symbol: KRT4
 name: keratin 4
 ghr-page: https://ghr.nlm.nih.gov/gene/KRT4
 text/text-role: function
-text/html: <p>The <i>KRT4</i> gene provides instructions for making a protein called keratin 4. Keratins are a group of tough, fibrous proteins that form the structural framework of epithelial cells, which are cells that line the surfaces and cavities of the body. Keratin 4 is found in the moist lining (mucosae) of the mouth, nose, esophagus, genitals, and anus.</p><p>Keratin 4 partners with a similar protein, keratin 13 (produced from the <i>KRT13</i> gene), to form molecules known as intermediate filaments. These filaments assemble into strong networks that provide strength and resilience to the different mucosae. Networks of intermediate filaments protect the mucosae from being damaged by friction or other everyday physical stresses.</p>
+text/html/html:p(1): The <i>KRT4</i> gene provides instructions for making a protein called keratin 4. Keratins are a group of tough, fibrous proteins that form the structural framework of epithelial cells, which are cells that line the surfaces and cavities of the body. Keratin 4 is found in the moist lining (mucosae) of the mouth, nose, esophagus, genitals, and anus.
+text/html/html:p(2): Keratin 4 partners with a similar protein, keratin 13 (produced from the <i>KRT13</i> gene), to form molecules known as intermediate filaments. These filaments assemble into strong networks that provide strength and resilience to the different mucosae. Networks of intermediate filaments protect the mucosae from being damaged by friction or other everyday physical stresses.
 related-health-condition/name: white sponge nevus
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/white-sponge-nevus
 synonym(1): CK-4

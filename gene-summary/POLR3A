@@ -2,7 +2,7 @@ gene-symbol: POLR3A
 name: RNA polymerase III subunit A
 ghr-page: https://ghr.nlm.nih.gov/gene/POLR3A
 text/text-role: function
-text/html: <p>The <i>POLR3A</i> gene provides instructions for making the largest part (subunit) of an enzyme called RNA polymerase III. This enzyme is involved in the production (synthesis) of ribonucleic acid (RNA), a chemical cousin of DNA. The RNA polymerase III enzyme attaches (binds) to DNA and synthesizes RNA in accordance with the instructions carried by the DNA, a process called transcription. RNA polymerase III helps synthesize several forms of RNA, including ribosomal RNA (rRNA) and transfer RNA (tRNA). Molecules of rRNA and tRNA assemble protein building blocks (amino acids) into working proteins; this process is essential for the normal functioning and survival of cells.</p>
+text/html/html:p: The <i>POLR3A</i> gene provides instructions for making the largest part (subunit) of an enzyme called RNA polymerase III. This enzyme is involved in the production (synthesis) of ribonucleic acid (RNA), a chemical cousin of DNA. The RNA polymerase III enzyme attaches (binds) to DNA and synthesizes RNA in accordance with the instructions carried by the DNA, a process called transcription. RNA polymerase III helps synthesize several forms of RNA, including ribosomal RNA (rRNA) and transfer RNA (tRNA). Molecules of rRNA and tRNA assemble protein building blocks (amino acids) into working proteins; this process is essential for the normal functioning and survival of cells.
 related-health-condition(1)/name: Pol III-related leukodystrophy
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/pol-iii-related-leukodystrophy
 related-health-condition(2)/name: shingles

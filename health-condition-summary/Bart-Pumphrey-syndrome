@@ -1,7 +1,10 @@
 name: Bart-Pumphrey syndrome
 ghr-page: https://ghr.nlm.nih.gov/condition/bart-pumphrey-syndrome
 text/text-role: description
-text/html: <p>Bart-Pumphrey syndrome is characterized by nail and skin abnormalities and hearing loss.</p><p>People with Bart-Pumphrey syndrome typically have a white discoloration of the nails (leukonychia); the nails may also be thick and crumbly. Affected individuals often have wart-like (verrucous) skin growths called knuckle pads on the knuckles of the fingers and toes. They may also have thickening of the skin on the palms of the hands and soles of the feet (palmoplantar keratoderma). The skin abnormalities generally become noticeable during childhood.</p><p>The hearing loss associated with Bart-Pumphrey syndrome ranges from moderate to profound and is typically present from birth (congenital).</p><p>The signs and symptoms of this disorder may vary even within the same family; while almost all affected individuals have hearing loss, they may have different combinations of the other associated features.</p>
+text/html/html:p(1): Bart-Pumphrey syndrome is characterized by nail and skin abnormalities and hearing loss.
+text/html/html:p(2): People with Bart-Pumphrey syndrome typically have a white discoloration of the nails (leukonychia); the nails may also be thick and crumbly. Affected individuals often have wart-like (verrucous) skin growths called knuckle pads on the knuckles of the fingers and toes. They may also have thickening of the skin on the palms of the hands and soles of the feet (palmoplantar keratoderma). The skin abnormalities generally become noticeable during childhood.
+text/html/html:p(3): The hearing loss associated with Bart-Pumphrey syndrome ranges from moderate to profound and is typically present from birth (congenital).
+text/html/html:p(4): The signs and symptoms of this disorder may vary even within the same family; while almost all affected individuals have hearing loss, they may have different combinations of the other associated features.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene/gene-symbol: GJB2

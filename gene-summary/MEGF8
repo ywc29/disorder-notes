@@ -2,7 +2,7 @@ gene-symbol: MEGF8
 name: multiple EGF like domains 8
 ghr-page: https://ghr.nlm.nih.gov/gene/MEGF8
 text/text-role: function
-text/html: <p>The <i>MEGF8</i> gene provides instructions for making a protein whose function is unclear. Based on its structure, the Megf8 protein may be involved in cell processes such as attaching cells to one another (cell adhesion) and helping proteins interact with each other. Researchers also suspect that the Megf8 protein plays a role in the normal shaping (patterning) of many parts of the body during embryonic development.</p>
+text/html/html:p: The <i>MEGF8</i> gene provides instructions for making a protein whose function is unclear. Based on its structure, the Megf8 protein may be involved in cell processes such as attaching cells to one another (cell adhesion) and helping proteins interact with each other. Researchers also suspect that the Megf8 protein plays a role in the normal shaping (patterning) of many parts of the body during embryonic development.
 related-health-condition/name: Carpenter syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/carpenter-syndrome
 synonym(1): C19orf49

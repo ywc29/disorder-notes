@@ -2,7 +2,7 @@ gene-symbol: PRRT2
 name: proline rich transmembrane protein 2
 ghr-page: https://ghr.nlm.nih.gov/gene/PRRT2
 text/text-role: function
-text/html: <p>The <i>PRRT2</i> gene provides instructions for making the proline-rich transmembrane protein 2 (PRRT2). The function of this protein is unknown, although it is thought to be involved in signaling in the brain. Studies show that it interacts with another protein called SNAP25, which is involved in signaling between nerve cells (neurons) in the brain. SNAP25 helps control the release of neurotransmitters, which are chemicals that relay signals from one neuron to another.</p>
+text/html/html:p: The <i>PRRT2</i> gene provides instructions for making the proline-rich transmembrane protein 2 (PRRT2). The function of this protein is unknown, although it is thought to be involved in signaling in the brain. Studies show that it interacts with another protein called SNAP25, which is involved in signaling between nerve cells (neurons) in the brain. SNAP25 helps control the release of neurotransmitters, which are chemicals that relay signals from one neuron to another.
 related-health-condition(1)/name: familial hemiplegic migraine
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/familial-hemiplegic-migraine
 related-health-condition(2)/name: familial paroxysmal kinesigenic dyskinesia

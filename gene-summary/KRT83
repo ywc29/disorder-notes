@@ -2,7 +2,7 @@ gene-symbol: KRT83
 name: keratin 83
 ghr-page: https://ghr.nlm.nih.gov/gene/KRT83
 text/text-role: function
-text/html: <p>The <i>KRT83</i> gene provides instructions for making the type II hair keratin K83 protein (K83). This protein belongs to a group of proteins known as keratins, which are tough, fibrous proteins that form the structural framework of cells that make up the hair, skin, and nails. Each keratin protein partners with another keratin protein to form molecules called intermediate filaments. These filaments assemble into strong networks that provide strength and resiliency to the tissues and protect them from being damaged by everyday physical stresses. The K83 protein is found in cells that make up the inner compartment of the hair shaft known as the cortex, and this protein helps give hair its strength and elasticity.</p>
+text/html/html:p: The <i>KRT83</i> gene provides instructions for making the type II hair keratin K83 protein (K83). This protein belongs to a group of proteins known as keratins, which are tough, fibrous proteins that form the structural framework of cells that make up the hair, skin, and nails. Each keratin protein partners with another keratin protein to form molecules called intermediate filaments. These filaments assemble into strong networks that provide strength and resiliency to the tissues and protect them from being damaged by everyday physical stresses. The K83 protein is found in cells that make up the inner compartment of the hair shaft known as the cortex, and this protein helps give hair its strength and elasticity.
 related-health-condition/name: monilethrix
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/monilethrix
 synonym(1): hair keratin K2.10

@@ -2,7 +2,8 @@ gene-symbol: EGR2
 name: early growth response 2
 ghr-page: https://ghr.nlm.nih.gov/gene/EGR2
 text/text-role: function
-text/html: <p>The <i>EGR2</i> gene provides instructions for making a protein called early growth response 2, which is part of the early growth response family of proteins.  These proteins bind to specific areas of DNA and help control the activity of particular genes.   On the basis of this action, the proteins are called transcription factors.</p><p>The early growth response 2 protein activates several genes that are involved in the formation and maintenance of myelin, the protective substance that covers nerve cells.  Myelin is essential for the efficient transmission of nerve impulses.</p>
+text/html/html:p(1): The <i>EGR2</i> gene provides instructions for making a protein called early growth response 2, which is part of the early growth response family of proteins.  These proteins bind to specific areas of DNA and help control the activity of particular genes.   On the basis of this action, the proteins are called transcription factors.
+text/html/html:p(2): The early growth response 2 protein activates several genes that are involved in the formation and maintenance of myelin, the protective substance that covers nerve cells.  Myelin is essential for the efficient transmission of nerve impulses.
 related-health-condition/name: Charcot-Marie-Tooth disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
 synonym(1): early growth response 2 (Krox-20 homolog, Drosophila)

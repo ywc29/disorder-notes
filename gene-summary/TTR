@@ -2,7 +2,7 @@ gene-symbol: TTR
 name: transthyretin
 ghr-page: https://ghr.nlm.nih.gov/gene/TTR
 text/text-role: function
-text/html: <p>The <i>TTR</i> gene provides instructions for producing a protein called transthyretin. This protein transports vitamin A (retinol) and a hormone called thyroxine throughout the body. To transport thyroxine, four transthyretin proteins must be attached (bound) to each other to form a four-protein unit (tetramer). To transport retinol, transthyretin must form a tetramer and also bind to retinol binding protein. Transthyretin is produced primarily in the liver. A small amount of this protein is produced in an area of the brain called the choroid plexus and in the light-sensitive tissue that lines the back of the eye (the retina).</p>
+text/html/html:p: The <i>TTR</i> gene provides instructions for producing a protein called transthyretin. This protein transports vitamin A (retinol) and a hormone called thyroxine throughout the body. To transport thyroxine, four transthyretin proteins must be attached (bound) to each other to form a four-protein unit (tetramer). To transport retinol, transthyretin must form a tetramer and also bind to retinol binding protein. Transthyretin is produced primarily in the liver. A small amount of this protein is produced in an area of the brain called the choroid plexus and in the light-sensitive tissue that lines the back of the eye (the retina).
 related-health-condition/name: transthyretin amyloidosis
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/transthyretin-amyloidosis
 synonym(1): ATTR

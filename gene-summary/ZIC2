@@ -2,7 +2,7 @@ gene-symbol: ZIC2
 name: Zic family member 2
 ghr-page: https://ghr.nlm.nih.gov/gene/ZIC2
 text/text-role: function
-text/html: <p>The <i>ZIC2</i> gene provides instructions for making a protein that plays an important role in the development of the front part of the brain (forebrain). This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of certain genes. The ZIC2 protein regulates genes involved in both early and late stages of forebrain development.</p>
+text/html/html:p: The <i>ZIC2</i> gene provides instructions for making a protein that plays an important role in the development of the front part of the brain (forebrain). This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity of certain genes. The ZIC2 protein regulates genes involved in both early and late stages of forebrain development.
 related-health-condition/name: nonsyndromic holoprosencephaly
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-holoprosencephaly
 synonym(1): HPE5

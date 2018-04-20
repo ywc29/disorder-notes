@@ -1,7 +1,8 @@
 name: Autosomal recessive congenital stationary night blindness
 ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-congenital-stationary-night-blindness
 text/text-role: description
-text/html: <p>Autosomal recessive congenital stationary night blindness is a disorder of the retina, which is the specialized tissue at the back of the eye that detects light and color. People with this condition typically have difficulty seeing and distinguishing objects in low light (night blindness). For example, they may not be able to identify road signs at night or see stars in the night sky. They also often have other vision problems, including loss of sharpness (reduced acuity), nearsightedness (myopia), involuntary movements of the eyes (nystagmus), and eyes that do not look in the same direction (strabismus).</p><p>The vision problems associated with this condition are congenital, which means they are present from birth. They tend to remain stable (stationary) over time.</p>
+text/html/html:p(1): Autosomal recessive congenital stationary night blindness is a disorder of the retina, which is the specialized tissue at the back of the eye that detects light and color. People with this condition typically have difficulty seeing and distinguishing objects in low light (night blindness). For example, they may not be able to identify road signs at night or see stars in the night sky. They also often have other vision problems, including loss of sharpness (reduced acuity), nearsightedness (myopia), involuntary movements of the eyes (nystagmus), and eyes that do not look in the same direction (strabismus).
+text/html/html:p(2): The vision problems associated with this condition are congenital, which means they are present from birth. They tend to remain stable (stationary) over time.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene(1)/gene-symbol: CABP4

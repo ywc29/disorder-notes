@@ -2,7 +2,7 @@ gene-symbol: MLPH
 name: melanophilin
 ghr-page: https://ghr.nlm.nih.gov/gene/MLPH
 text/text-role: function
-text/html: <p>The <i>MLPH</i> gene provides instructions for making a protein called melanophilin. This protein is found in pigment-producing cells called melanocytes, where it helps transport structures called melanosomes. These structures produce a pigment called melanin, which is the substance that gives skin, hair, and eyes their color (pigmentation). Melanophilin interacts with proteins produced from the <i>MYO5A</i> and <i>RAB27A</i> genes to form a complex that transports melanosomes to the outer edges of melanocytes. From there, the melanosomes are transferred to other types of cells, where they provide the pigment needed for normal hair, skin, and eye coloring.</p>
+text/html/html:p: The <i>MLPH</i> gene provides instructions for making a protein called melanophilin. This protein is found in pigment-producing cells called melanocytes, where it helps transport structures called melanosomes. These structures produce a pigment called melanin, which is the substance that gives skin, hair, and eyes their color (pigmentation). Melanophilin interacts with proteins produced from the <i>MYO5A</i> and <i>RAB27A</i> genes to form a complex that transports melanosomes to the outer edges of melanocytes. From there, the melanosomes are transferred to other types of cells, where they provide the pigment needed for normal hair, skin, and eye coloring.
 related-health-condition/name: Griscelli syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/griscelli-syndrome
 synonym(1): exophilin-3

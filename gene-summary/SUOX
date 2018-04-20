@@ -2,7 +2,7 @@ gene-symbol: SUOX
 name: sulfite oxidase
 ghr-page: https://ghr.nlm.nih.gov/gene/SUOX
 text/text-role: function
-text/html: <p>The <i>SUOX</i> gene provides instructions for making an enzyme called sulfite oxidase, which helps break down protein building blocks (amino acids) that contain sulfur when they are no longer needed. Specifically, sulfite oxidase is involved in the final step of this process, in which sulfur-containing molecules called sulfites are converted to other molecules called sulfates by adding an oxygen atom (a process called oxidation).</p>
+text/html/html:p: The <i>SUOX</i> gene provides instructions for making an enzyme called sulfite oxidase, which helps break down protein building blocks (amino acids) that contain sulfur when they are no longer needed. Specifically, sulfite oxidase is involved in the final step of this process, in which sulfur-containing molecules called sulfites are converted to other molecules called sulfates by adding an oxygen atom (a process called oxidation).
 related-health-condition(1)/name: isolated sulfite oxidase deficiency
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/isolated-sulfite-oxidase-deficiency
 related-health-condition(2)/name: polycystic ovary syndrome

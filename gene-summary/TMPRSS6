@@ -2,7 +2,7 @@ gene-symbol: TMPRSS6
 name: transmembrane serine protease 6
 ghr-page: https://ghr.nlm.nih.gov/gene/TMPRSS6
 text/text-role: function
-text/html: <p>The <i>TMPRSS6</i> gene provides instructions for making a protein called matriptase-2. This protein is part of a signaling pathway that controls the levels of another protein called hepcidin, which is a key regulator of iron balance in the body. When blood iron levels are low, this signaling pathway reduces hepcidin production, allowing more iron from the diet to be absorbed through the intestines and transported out of storage sites (particularly in the liver and spleen) into the bloodstream. Iron is an essential component of hemoglobin, which is the molecule in red blood cells that carries oxygen.</p>
+text/html/html:p: The <i>TMPRSS6</i> gene provides instructions for making a protein called matriptase-2. This protein is part of a signaling pathway that controls the levels of another protein called hepcidin, which is a key regulator of iron balance in the body. When blood iron levels are low, this signaling pathway reduces hepcidin production, allowing more iron from the diet to be absorbed through the intestines and transported out of storage sites (particularly in the liver and spleen) into the bloodstream. Iron is an essential component of hemoglobin, which is the molecule in red blood cells that carries oxygen.
 related-health-condition/name: iron-refractory iron deficiency anemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/iron-refractory-iron-deficiency-anemia
 synonym(1): matriptase 2

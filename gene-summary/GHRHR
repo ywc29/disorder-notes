@@ -2,7 +2,7 @@ gene-symbol: GHRHR
 name: growth hormone releasing hormone receptor
 ghr-page: https://ghr.nlm.nih.gov/gene/GHRHR
 text/text-role: function
-text/html: <p>The <i>GHRHR</i> gene provides instructions for making the growth hormone releasing hormone receptor. This receptor is active (expressed) on the growth-stimulating somatotropic cells in the pituitary gland. This gland is is located at the base of the brain and produces many hormones, including growth hormone. Growth hormone is necessary for the normal growth of the body's bones and tissues. The GHRHR receptor attaches (binds) to a molecule called growth hormone releasing hormone. This binding, along with the actions of other molecules, triggers the production of growth hormone and its release from the pituitary gland.</p>
+text/html/html:p: The <i>GHRHR</i> gene provides instructions for making the growth hormone releasing hormone receptor. This receptor is active (expressed) on the growth-stimulating somatotropic cells in the pituitary gland. This gland is is located at the base of the brain and produces many hormones, including growth hormone. Growth hormone is necessary for the normal growth of the body's bones and tissues. The GHRHR receptor attaches (binds) to a molecule called growth hormone releasing hormone. This binding, along with the actions of other molecules, triggers the production of growth hormone and its release from the pituitary gland.
 related-health-condition/name: isolated growth hormone deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/isolated-growth-hormone-deficiency
 synonym(1): GHRFR

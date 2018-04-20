@@ -2,7 +2,7 @@ gene-symbol: VKORC1
 name: vitamin K epoxide reductase complex subunit 1
 ghr-page: https://ghr.nlm.nih.gov/gene/VKORC1
 text/text-role: function
-text/html: <p>The <i>VKORC1</i> gene provides instructions for making a vitamin K epoxide reductase enzyme. The VKORC1 enzyme is made primarily in the liver. It spans the membrane of a cellular structure called the endoplasmic reticulum, which is involved with protein processing and transport. The VKORC1 enzyme helps turn on (activate) clotting proteins in the pathway that forms blood clots. Specifically, the VKORC1 enzyme converts one form of vitamin K into a different form of vitamin K that assists in activating clotting proteins.</p>
+text/html/html:p: The <i>VKORC1</i> gene provides instructions for making a vitamin K epoxide reductase enzyme. The VKORC1 enzyme is made primarily in the liver. It spans the membrane of a cellular structure called the endoplasmic reticulum, which is involved with protein processing and transport. The VKORC1 enzyme helps turn on (activate) clotting proteins in the pathway that forms blood clots. Specifically, the VKORC1 enzyme converts one form of vitamin K into a different form of vitamin K that assists in activating clotting proteins.
 related-health-condition(1)/name: warfarin resistance
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/warfarin-resistance
 related-health-condition(2)/name: warfarin sensitivity

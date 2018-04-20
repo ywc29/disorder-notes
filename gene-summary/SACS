@@ -2,7 +2,7 @@ gene-symbol: SACS
 name: sacsin molecular chaperone
 ghr-page: https://ghr.nlm.nih.gov/gene/SACS
 text/text-role: function
-text/html: <p>The <i>SACS</i> gene provides instructions for producing a protein called sacsin.  Sacsin is found in the brain, skin cells, muscles used for movement (skeletal muscles), and at low levels in the pancreas, but the specific function of the protein is unknown.  Research suggests that sacsin may play a role in folding newly produced proteins into the proper 3-dimensional shape because it shares similar regions with other proteins that perform this function.</p>
+text/html/html:p: The <i>SACS</i> gene provides instructions for producing a protein called sacsin.  Sacsin is found in the brain, skin cells, muscles used for movement (skeletal muscles), and at low levels in the pancreas, but the specific function of the protein is unknown.  Research suggests that sacsin may play a role in folding newly produced proteins into the proper 3-dimensional shape because it shares similar regions with other proteins that perform this function.
 related-health-condition/name: autosomal recessive spastic ataxia of Charlevoix-Saguenay
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/autosomal-recessive-spastic-ataxia-of-charlevoix-saguenay
 synonym(1): ARSACS

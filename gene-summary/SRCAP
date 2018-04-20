@@ -2,7 +2,7 @@ gene-symbol: SRCAP
 name: Snf2 related CREBBP activator protein
 ghr-page: https://ghr.nlm.nih.gov/gene/SRCAP
 text/text-role: function
-text/html: <p>The <i>SRCAP</i> gene provides instructions for making a protein called Snf2-related CREBBP activator protein, or SRCAP. SRCAP is one of several proteins that help activate a gene called <i>CREBBP</i>. The protein produced from the <i>CREBBP</i> gene, called CREB binding protein, plays a key role in regulating cell growth and division and is important for normal development.</p>
+text/html/html:p: The <i>SRCAP</i> gene provides instructions for making a protein called Snf2-related CREBBP activator protein, or SRCAP. SRCAP is one of several proteins that help activate a gene called <i>CREBBP</i>. The protein produced from the <i>CREBBP</i> gene, called CREB binding protein, plays a key role in regulating cell growth and division and is important for normal development.
 related-health-condition/name: Floating-Harbor syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/floating-harbor-syndrome
 synonym(1): domino homolog 2

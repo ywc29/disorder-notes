@@ -2,7 +2,7 @@ gene-symbol: PPT1
 name: palmitoyl-protein thioesterase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/PPT1
 text/text-role: function
-text/html: <p>The <i>PPT1</i> gene provides instructions for making an enzyme called palmitoyl-protein thioesterase 1. This enzyme is found in structures called lysosomes, which are compartments within cells that break down and recycle different types of molecules. Palmitoyl-protein thioesterase 1 removes certain fats called long-chain fatty acids from specific proteins, typically a fatty acid called palmitate. Removing these fatty acids helps break the proteins down when they are no longer needed. Palmitoyl-protein thioesterase 1 is also thought to be involved in a variety of other cell functions, such as the development of synapses, which are the connections between nerve cells where cell-to-cell communication occurs.</p>
+text/html/html:p: The <i>PPT1</i> gene provides instructions for making an enzyme called palmitoyl-protein thioesterase 1. This enzyme is found in structures called lysosomes, which are compartments within cells that break down and recycle different types of molecules. Palmitoyl-protein thioesterase 1 removes certain fats called long-chain fatty acids from specific proteins, typically a fatty acid called palmitate. Removing these fatty acids helps break the proteins down when they are no longer needed. Palmitoyl-protein thioesterase 1 is also thought to be involved in a variety of other cell functions, such as the development of synapses, which are the connections between nerve cells where cell-to-cell communication occurs.
 related-health-condition/name: CLN1 disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cln1-disease
 synonym(1): ceriod-lipofuscinosis, neuronal 1

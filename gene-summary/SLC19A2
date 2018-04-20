@@ -2,7 +2,7 @@ gene-symbol: SLC19A2
 name: solute carrier family 19 member 2
 ghr-page: https://ghr.nlm.nih.gov/gene/SLC19A2
 text/text-role: function
-text/html: <p>The <i>SLC19A2</i> gene provides instructions for making a protein called thiamine transporter 1. This protein is located on the surface of cells, where it works to bring vitamin B1 (thiamine) into cells. Thiamine helps the body convert carbohydrates into energy, and it is also essential for the functioning of the heart, muscles, and nervous system. This vitamin must be obtained from the diet because the body cannot produce thiamine on its own. Many different foods contain thiamine, including whole grains, pasta, fortified breads and cereals, lean meats, fish, and beans.</p>
+text/html/html:p: The <i>SLC19A2</i> gene provides instructions for making a protein called thiamine transporter 1. This protein is located on the surface of cells, where it works to bring vitamin B1 (thiamine) into cells. Thiamine helps the body convert carbohydrates into energy, and it is also essential for the functioning of the heart, muscles, and nervous system. This vitamin must be obtained from the diet because the body cannot produce thiamine on its own. Many different foods contain thiamine, including whole grains, pasta, fortified breads and cereals, lean meats, fish, and beans.
 related-health-condition/name: thiamine-responsive megaloblastic anemia syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/thiamine-responsive-megaloblastic-anemia-syndrome
 synonym(1): high affinity thiamine transporter

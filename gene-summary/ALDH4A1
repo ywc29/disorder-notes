@@ -2,7 +2,8 @@ gene-symbol: ALDH4A1
 name: aldehyde dehydrogenase 4 family member A1
 ghr-page: https://ghr.nlm.nih.gov/gene/ALDH4A1
 text/text-role: function
-text/html: <p>The <i>ALDH4A1</i> gene provides instructions for producing the enzyme pyrroline-5-carboxylate dehydrogenase, which is found in tissues throughout the body. Within the cells of these tissues, this enzyme functions in energy-producing structures called mitochondria.</p><p>Pyrroline-5-carboxylate dehydrogenase starts the second step in the process that breaks down the protein building block (amino acid) proline. This step converts pyrroline-5-carboxylate, which is produced in the first step, to the amino acid glutamate. The conversion between proline and glutamate is important in maintaining a supply of the amino acids needed for protein production, and for energy transfer within the cell.</p>
+text/html/html:p(1): The <i>ALDH4A1</i> gene provides instructions for producing the enzyme pyrroline-5-carboxylate dehydrogenase, which is found in tissues throughout the body. Within the cells of these tissues, this enzyme functions in energy-producing structures called mitochondria.
+text/html/html:p(2): Pyrroline-5-carboxylate dehydrogenase starts the second step in the process that breaks down the protein building block (amino acid) proline. This step converts pyrroline-5-carboxylate, which is produced in the first step, to the amino acid glutamate. The conversion between proline and glutamate is important in maintaining a supply of the amino acids needed for protein production, and for energy transfer within the cell.
 related-health-condition/name: hyperprolinemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hyperprolinemia
 synonym(1): AL4H1_HUMAN

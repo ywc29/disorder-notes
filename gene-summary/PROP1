@@ -2,7 +2,7 @@ gene-symbol: PROP1
 name: PROP paired-like homeobox 1
 ghr-page: https://ghr.nlm.nih.gov/gene/PROP1
 text/text-role: function
-text/html: <p>The <i>PROP1</i> gene provides instructions for making a protein that helps control the activity of many other genes. On the basis of this action, the PROP1 protein is known as a transcription factor. This protein is found only in the pituitary gland, which is located at the base of the brain. The pituitary gland releases hormones needed for growth, reproduction, and other critical body functions. The PROP1 protein helps in the specialization (differentiation) of cell types within the pituitary gland.</p>
+text/html/html:p: The <i>PROP1</i> gene provides instructions for making a protein that helps control the activity of many other genes. On the basis of this action, the PROP1 protein is known as a transcription factor. This protein is found only in the pituitary gland, which is located at the base of the brain. The pituitary gland releases hormones needed for growth, reproduction, and other critical body functions. The PROP1 protein helps in the specialization (differentiation) of cell types within the pituitary gland.
 related-health-condition/name: combined pituitary hormone deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/combined-pituitary-hormone-deficiency
 synonym(1): homeobox protein prophet of Pit-1

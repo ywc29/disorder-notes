@@ -1,7 +1,8 @@
 name: Maple syrup urine disease
 ghr-page: https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
 text/text-role: description
-text/html: <p>Maple syrup urine disease is an inherited disorder in which the body is unable to process certain protein building blocks (amino acids) properly. The condition gets its name from the distinctive sweet odor of affected infants' urine. It is also characterized by poor feeding, vomiting, lack of energy (lethargy), abnormal movements, and delayed development. If untreated, maple syrup urine disease can lead to seizures, coma, and death.</p><p>Maple syrup urine disease is often classified by its pattern of signs and symptoms. The most common and severe form of the disease is the classic type, which becomes apparent soon after birth. Variant forms of the disorder become apparent later in infancy or childhood and are typically milder, but they still lead to delayed development and other health problems if not treated.</p>
+text/html/html:p(1): Maple syrup urine disease is an inherited disorder in which the body is unable to process certain protein building blocks (amino acids) properly. The condition gets its name from the distinctive sweet odor of affected infants' urine. It is also characterized by poor feeding, vomiting, lack of energy (lethargy), abnormal movements, and delayed development. If untreated, maple syrup urine disease can lead to seizures, coma, and death.
+text/html/html:p(2): Maple syrup urine disease is often classified by its pattern of signs and symptoms. The most common and severe form of the disease is the classic type, which becomes apparent soon after birth. Variant forms of the disorder become apparent later in infancy or childhood and are typically milder, but they still lead to delayed development and other health problems if not treated.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene(1)/gene-symbol: BCKDHA

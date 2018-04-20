@@ -2,7 +2,7 @@ gene-symbol: MVK
 name: mevalonate kinase
 ghr-page: https://ghr.nlm.nih.gov/gene/MVK
 text/text-role: function
-text/html: <p>The <i>MVK</i> gene provides instructions for making the mevalonate kinase enzyme. This enzyme converts a substance called mevalonic acid into mevalonate-5-phosphate. This conversion is the second step in a pathway that produces cholesterol. The cholesterol is later converted into steroid hormones and bile acids. Steroid hormones are needed for normal development and reproduction, and bile acids are used to digest fats. Mevalonate kinase also helps to produce other substances that are necessary for certain cellular functions, such as cell growth, cell maturation (differentiation), formation of the cell's structural framework (the cytoskeleton), gene activity (expression), and protein production and modification.</p>
+text/html/html:p: The <i>MVK</i> gene provides instructions for making the mevalonate kinase enzyme. This enzyme converts a substance called mevalonic acid into mevalonate-5-phosphate. This conversion is the second step in a pathway that produces cholesterol. The cholesterol is later converted into steroid hormones and bile acids. Steroid hormones are needed for normal development and reproduction, and bile acids are used to digest fats. Mevalonate kinase also helps to produce other substances that are necessary for certain cellular functions, such as cell growth, cell maturation (differentiation), formation of the cell's structural framework (the cytoskeleton), gene activity (expression), and protein production and modification.
 related-health-condition/name: mevalonate kinase deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mevalonate-kinase-deficiency
 synonym(1): KIME_HUMAN

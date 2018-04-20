@@ -2,7 +2,7 @@ gene-symbol: SH3TC2
 name: SH3 domain and tetratricopeptide repeats 2
 ghr-page: https://ghr.nlm.nih.gov/gene/SH3TC2
 text/text-role: function
-text/html: <p>The <i>SH3TC2</i> gene is active in the nervous system and provides instructions for making a protein whose function is unknown.  Based on its structure, the SH3TC2 protein probably interacts with other proteins and may assist in assembling proteins into a group or complex.</p>
+text/html/html:p: The <i>SH3TC2</i> gene is active in the nervous system and provides instructions for making a protein whose function is unknown.  Based on its structure, the SH3TC2 protein probably interacts with other proteins and may assist in assembling proteins into a group or complex.
 related-health-condition/name: Charcot-Marie-Tooth disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
 synonym(1): CMT4C

@@ -1,7 +1,8 @@
 name: Globozoospermia
 ghr-page: https://ghr.nlm.nih.gov/condition/globozoospermia
 text/text-role: description
-text/html: <p>Globozoospermia is a condition that affects only males. It is characterized by abnormal sperm and leads to an inability to father biological children (infertility).</p><p>Normal sperm cells have an oval-shaped head with a cap-like covering called the acrosome. The acrosome contains enzymes that break down the outer membrane of an egg cell, allowing the sperm to fertilize the egg. The sperm cells of males with globozoospermia, however, have a round head and no acrosome. The abnormal sperm are unable to fertilize an egg cell, leading to infertility.</p>
+text/html/html:p(1): Globozoospermia is a condition that affects only males. It is characterized by abnormal sperm and leads to an inability to father biological children (infertility).
+text/html/html:p(2): Normal sperm cells have an oval-shaped head with a cap-like covering called the acrosome. The acrosome contains enzymes that break down the outer membrane of an egg cell, allowing the sperm to fertilize the egg. The sperm cells of males with globozoospermia, however, have a round head and no acrosome. The abnormal sperm are unable to fertilize an egg cell, leading to infertility.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: DPY19L2

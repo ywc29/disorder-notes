@@ -2,7 +2,7 @@ gene-symbol: EFTUD2
 name: elongation factor Tu GTP binding domain containing 2
 ghr-page: https://ghr.nlm.nih.gov/gene/EFTUD2
 text/text-role: function
-text/html: <p>The <i>EFTUD2</i> gene provides instructions for making one part (subunit) of two complexes called the major and minor spliceosomes. Spliceosomes help process messenger RNA (mRNA), which is a chemical cousin of DNA that serves as a genetic blueprint for making proteins. The spliceosomes recognize and then remove regions called introns to help produce mature mRNA molecules.</p>
+text/html/html:p: The <i>EFTUD2</i> gene provides instructions for making one part (subunit) of two complexes called the major and minor spliceosomes. Spliceosomes help process messenger RNA (mRNA), which is a chemical cousin of DNA that serves as a genetic blueprint for making proteins. The spliceosomes recognize and then remove regions called introns to help produce mature mRNA molecules.
 related-health-condition/name: mandibulofacial dysostosis with microcephaly
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mandibulofacial-dysostosis-with-microcephaly
 synonym(1): 116 kDa U5 small nuclear ribonucleoprotein component

@@ -2,7 +2,8 @@ gene-symbol: TECTA
 name: tectorin alpha
 ghr-page: https://ghr.nlm.nih.gov/gene/TECTA
 text/text-role: function
-text/html: <p>The <i>TECTA</i> gene provides instructions for making a protein called alpha-tectorin. This protein is found in the tectorial membrane, which is part of a snail-shaped structure called the cochlea in the inner ear. The cochlea converts sound waves into nerve impulses, which are then transmitted to the brain. This process is critical for normal hearing.</p><p>Alpha-tectorin is large protein with multiple regions (called domains) through which it interacts with other proteins. These interactions are critical for the normal formation of the tectorial membrane.</p>
+text/html/html:p(1): The <i>TECTA</i> gene provides instructions for making a protein called alpha-tectorin. This protein is found in the tectorial membrane, which is part of a snail-shaped structure called the cochlea in the inner ear. The cochlea converts sound waves into nerve impulses, which are then transmitted to the brain. This process is critical for normal hearing.
+text/html/html:p(2): Alpha-tectorin is large protein with multiple regions (called domains) through which it interacts with other proteins. These interactions are critical for the normal formation of the tectorial membrane.
 related-health-condition/name: nonsyndromic hearing loss
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/nonsyndromic-hearing-loss
 synonym(1): DFNA8

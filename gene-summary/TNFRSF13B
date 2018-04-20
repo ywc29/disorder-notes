@@ -2,7 +2,7 @@ gene-symbol: TNFRSF13B
 name: TNF receptor superfamily member 13B
 ghr-page: https://ghr.nlm.nih.gov/gene/TNFRSF13B
 text/text-role: function
-text/html: <p>The <i>TNFRSF13B</i> gene provides instructions for making a protein called TACI. The TACI protein is found on the surface of immune system cells called B cells. These specialized white blood cells help protect the body against infection from foreign invaders such as bacteria and viruses. When B cells mature, they produce special proteins called antibodies (also known as immunoglobulins). Antibodies attach to specific foreign invaders, marking them for destruction. Through interactions with other proteins, TACI promotes cell signaling, plays a role in B cell survival and maturation, and is involved in the production of antibodies.</p>
+text/html/html:p: The <i>TNFRSF13B</i> gene provides instructions for making a protein called TACI. The TACI protein is found on the surface of immune system cells called B cells. These specialized white blood cells help protect the body against infection from foreign invaders such as bacteria and viruses. When B cells mature, they produce special proteins called antibodies (also known as immunoglobulins). Antibodies attach to specific foreign invaders, marking them for destruction. Through interactions with other proteins, TACI promotes cell signaling, plays a role in B cell survival and maturation, and is involved in the production of antibodies.
 related-health-condition/name: common variable immune deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/common-variable-immune-deficiency
 synonym(1): CD267

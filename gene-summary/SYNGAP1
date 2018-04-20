@@ -2,7 +2,7 @@ gene-symbol: SYNGAP1
 name: synaptic Ras GTPase activating protein 1
 ghr-page: https://ghr.nlm.nih.gov/gene/SYNGAP1
 text/text-role: function
-text/html: <p>The <i>SYNGAP1</i> gene provides instructions for making a protein, called SynGAP, that plays an important role in nerve cells in the brain. SynGAP is found at the junctions between nerve cells (synapses) where cell-to-cell communication takes place. Connected nerve cells act as the "wiring" in the circuitry of the brain. Synapses are able to change and adapt over time, rewiring brain circuits, which is critical for learning and memory. SynGAP helps regulate synapse adaptations and promotes proper brain wiring. The protein's function is particularly important during a critical period of early brain development that affects future cognitive ability.</p>
+text/html/html:p: The <i>SYNGAP1</i> gene provides instructions for making a protein, called SynGAP, that plays an important role in nerve cells in the brain. SynGAP is found at the junctions between nerve cells (synapses) where cell-to-cell communication takes place. Connected nerve cells act as the "wiring" in the circuitry of the brain. Synapses are able to change and adapt over time, rewiring brain circuits, which is critical for learning and memory. SynGAP helps regulate synapse adaptations and promotes proper brain wiring. The protein's function is particularly important during a critical period of early brain development that affects future cognitive ability.
 related-health-condition(1)/name: autism spectrum disorder
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/autism-spectrum-disorder
 related-health-condition(2)/name: SYNGAP1-related intellectual disability

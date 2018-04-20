@@ -2,7 +2,7 @@ gene-symbol: SOX9
 name: SRY-box 9
 ghr-page: https://ghr.nlm.nih.gov/gene/SOX9
 text/text-role: function
-text/html: <p>The <i>SOX9</i> gene provides instructions for making a protein that plays a critical role during embryonic development. The SOX9 protein is especially important for development of the skeleton and plays a key role in the determination of sex before birth. The SOX9 protein attaches (binds) to specific regions of DNA and regulates the activity of other genes, particularly those that control skeletal development and sex determination. On the basis of this action, the SOX9 protein is called a transcription factor.</p>
+text/html/html:p: The <i>SOX9</i> gene provides instructions for making a protein that plays a critical role during embryonic development. The SOX9 protein is especially important for development of the skeleton and plays a key role in the determination of sex before birth. The SOX9 protein attaches (binds) to specific regions of DNA and regulates the activity of other genes, particularly those that control skeletal development and sex determination. On the basis of this action, the SOX9 protein is called a transcription factor.
 related-health-condition(1)/name: 46,XX testicular disorder of sex development
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/46xx-testicular-disorder-of-sex-development
 related-health-condition(2)/name: campomelic dysplasia

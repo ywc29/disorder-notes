@@ -2,7 +2,7 @@ gene-symbol: RP2
 name: RP2, ARL3 GTPase activating protein
 ghr-page: https://ghr.nlm.nih.gov/gene/RP2
 text/text-role: function
-text/html: <p>The <i>RP2</i> gene provides instructions for making a protein that is essential for normal vision. The RP2 protein is active in cells throughout the body, including cells that make up the light-sensitive tissue at the back of the eye (the retina). However, the function of the RP2 protein is not well understood. Studies suggest that it may be involved in transporting proteins within the retina's specialized light receptor cells (photoreceptors). Its role in other types of cells is unknown.</p>
+text/html/html:p: The <i>RP2</i> gene provides instructions for making a protein that is essential for normal vision. The RP2 protein is active in cells throughout the body, including cells that make up the light-sensitive tissue at the back of the eye (the retina). However, the function of the RP2 protein is not well understood. Studies suggest that it may be involved in transporting proteins within the retina's specialized light receptor cells (photoreceptors). Its role in other types of cells is unknown.
 related-health-condition/name: retinitis pigmentosa
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/retinitis-pigmentosa
 synonym(1): DELXp11.3

@@ -2,7 +2,7 @@ gene-symbol: GATM
 name: glycine amidinotransferase
 ghr-page: https://ghr.nlm.nih.gov/gene/GATM
 text/text-role: function
-text/html: <p>The <i>GATM</i> gene provides instructions for making the enzyme arginine:glycine amidinotransferase. This enzyme participates in the two-step production (synthesis) of the compound creatine from the protein building blocks (amino acids) glycine, arginine, and methionine. Specifically, arginine:glycine amidinotransferase controls the first step of the process. In this step, a compound called guanidinoacetic acid is produced by transferring a cluster of nitrogen and hydrogen atoms called a guanidino group from arginine to glycine. Guanidinoacetic acid is converted to creatine in the second step of the process. Creatine is needed for the body to store and use energy properly.</p>
+text/html/html:p: The <i>GATM</i> gene provides instructions for making the enzyme arginine:glycine amidinotransferase. This enzyme participates in the two-step production (synthesis) of the compound creatine from the protein building blocks (amino acids) glycine, arginine, and methionine. Specifically, arginine:glycine amidinotransferase controls the first step of the process. In this step, a compound called guanidinoacetic acid is produced by transferring a cluster of nitrogen and hydrogen atoms called a guanidino group from arginine to glycine. Guanidinoacetic acid is converted to creatine in the second step of the process. Creatine is needed for the body to store and use energy properly.
 related-health-condition/name: arginine:glycine amidinotransferase deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/arginineglycine-amidinotransferase-deficiency
 synonym(1): AGAT

@@ -2,7 +2,7 @@ gene-symbol: ARFGEF2
 name: ADP ribosylation factor guanine nucleotide exchange factor 2
 ghr-page: https://ghr.nlm.nih.gov/gene/ARFGEF2
 text/text-role: function
-text/html: <p>The <i>ARFGEF2</i> gene provides instructions for making a protein that helps with the movement (trafficking) of small sac-like structures (vesicles) within the cell. The ARFGEF2 protein converts a molecule called guanine diphosphate (GDP) to another molecule called guanine triphosphate (GTP). This reaction activates an ADP-ribosylation factor, a molecule that is involved in vesicle trafficking. Vesicles transport many types of molecules from the interior of the cell to its surface, where they may attach and interact with other substances, or be secreted by the cell.</p>
+text/html/html:p: The <i>ARFGEF2</i> gene provides instructions for making a protein that helps with the movement (trafficking) of small sac-like structures (vesicles) within the cell. The ARFGEF2 protein converts a molecule called guanine diphosphate (GDP) to another molecule called guanine triphosphate (GTP). This reaction activates an ADP-ribosylation factor, a molecule that is involved in vesicle trafficking. Vesicles transport many types of molecules from the interior of the cell to its surface, where they may attach and interact with other substances, or be secreted by the cell.
 related-health-condition/name: periventricular heterotopia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/periventricular-heterotopia
 synonym(1): ADP-ribosylation factor guanine nucleotide-exchange factor 2

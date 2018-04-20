@@ -2,7 +2,7 @@ gene-symbol: SAMD9L
 name: sterile alpha motif domain containing 9 like
 ghr-page: https://ghr.nlm.nih.gov/gene/SAMD9L
 text/text-role: function
-text/html: <p>The <i>SAMD9L</i> gene provides instructions for making a protein that is active in cells throughout the body. The protein is involved in regulating the growth and division (proliferation) and maturation (differentiation) of cells, particularly cells in the bone marrow that give rise to blood cells. Studies suggest that the SAMD9L protein acts as a tumor suppressor, keeping cells from growing and dividing too rapidly or in an uncontrolled way. The SAMD9L protein also appears to play an important role in the brain, particularly the part of the brain that coordinates movement (the cerebellum), although less is known about the protein's function there.</p>
+text/html/html:p: The <i>SAMD9L</i> gene provides instructions for making a protein that is active in cells throughout the body. The protein is involved in regulating the growth and division (proliferation) and maturation (differentiation) of cells, particularly cells in the bone marrow that give rise to blood cells. Studies suggest that the SAMD9L protein acts as a tumor suppressor, keeping cells from growing and dividing too rapidly or in an uncontrolled way. The SAMD9L protein also appears to play an important role in the brain, particularly the part of the brain that coordinates movement (the cerebellum), although less is known about the protein's function there.
 related-health-condition/name: ataxia-pancytopenia syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ataxia-pancytopenia-syndrome
 synonym(1): ATXPC

@@ -2,7 +2,7 @@ gene-symbol: ELANE
 name: elastase, neutrophil expressed
 ghr-page: https://ghr.nlm.nih.gov/gene/ELANE
 text/text-role: function
-text/html: <p>The <i>ELANE</i> gene provides instructions for making a protein called neutrophil elastase. This protein is found in neutrophils, a type of white blood cell that plays a role in inflammation and in fighting infection. When the body starts an immune response to fight an infection, neutrophils release neutrophil elastase. This protein then modifies the function of certain cells and proteins to fight the infection.</p>
+text/html/html:p: The <i>ELANE</i> gene provides instructions for making a protein called neutrophil elastase. This protein is found in neutrophils, a type of white blood cell that plays a role in inflammation and in fighting infection. When the body starts an immune response to fight an infection, neutrophils release neutrophil elastase. This protein then modifies the function of certain cells and proteins to fight the infection.
 related-health-condition(1)/name: cyclic neutropenia
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cyclic-neutropenia
 related-health-condition(2)/name: severe congenital neutropenia

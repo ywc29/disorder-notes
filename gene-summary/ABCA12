@@ -2,7 +2,7 @@ gene-symbol: ABCA12
 name: ATP binding cassette subfamily A member 12
 ghr-page: https://ghr.nlm.nih.gov/gene/ABCA12
 text/text-role: function
-text/html: <p>The <i>ABCA12</i> gene provides instructions for making a protein known as an ATP-binding cassette (ABC) transporter.  ABC transporter proteins carry many types of molecules across cell membranes.  In particular, the ABCA12 protein plays a major role in transporting fats (lipids) in cells that make up the outermost layer of skin (the epidermis). This lipid transport is needed to maintain the layers of lipids within the epidermis that are necessary to prevent water loss (dehydration) and for normal development of the skin. The ABCA12 protein is also found in several other tissues, including the testes, placenta, lungs, stomach, fetal brain, and liver.</p>
+text/html/html:p: The <i>ABCA12</i> gene provides instructions for making a protein known as an ATP-binding cassette (ABC) transporter.  ABC transporter proteins carry many types of molecules across cell membranes.  In particular, the ABCA12 protein plays a major role in transporting fats (lipids) in cells that make up the outermost layer of skin (the epidermis). This lipid transport is needed to maintain the layers of lipids within the epidermis that are necessary to prevent water loss (dehydration) and for normal development of the skin. The ABCA12 protein is also found in several other tissues, including the testes, placenta, lungs, stomach, fetal brain, and liver.
 related-health-condition(1)/name: harlequin ichthyosis
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/harlequin-ichthyosis
 related-health-condition(2)/name: lamellar ichthyosis

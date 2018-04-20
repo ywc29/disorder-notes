@@ -2,7 +2,7 @@ gene-symbol: DBH
 name: dopamine beta-hydroxylase
 ghr-page: https://ghr.nlm.nih.gov/gene/DBH
 text/text-role: function
-text/html: <p>The <i>DBH</i> gene provides instructions for producing the enzyme dopamine beta (β)-hydroxylase.  This enzyme converts dopamine to norepinephrine, both of which are chemical messengers (neurotransmitters) that transmit signals between nerve cells.  Norepinephrine plays an important role in the autonomic nervous system, which controls involuntary body processes such as the regulation of blood pressure and body temperature.</p>
+text/html/html:p: The <i>DBH</i> gene provides instructions for producing the enzyme dopamine beta (β)-hydroxylase.  This enzyme converts dopamine to norepinephrine, both of which are chemical messengers (neurotransmitters) that transmit signals between nerve cells.  Norepinephrine plays an important role in the autonomic nervous system, which controls involuntary body processes such as the regulation of blood pressure and body temperature.
 related-health-condition/name: dopamine beta-hydroxylase deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/dopamine-beta-hydroxylase-deficiency
 synonym(1): DBM

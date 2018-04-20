@@ -1,7 +1,7 @@
 name: Hyperlysinemia
 ghr-page: https://ghr.nlm.nih.gov/condition/hyperlysinemia
 text/text-role: description
-text/html: <p>Hyperlysinemia is an inherited condition characterized by elevated blood levels of the amino acid lysine, a building block of most proteins.  Hyperlysinemia is caused by the shortage (deficiency) of the enzyme that breaks down lysine.  Hyperlysinemia typically causes no health problems, and most people with elevated lysine levels are unaware that they have this condition.  Rarely, people with hyperlysinemia have intellectual disability or behavioral problems.  It is not clear whether these problems are due to hyperlysinemia or another cause.</p>
+text/html/html:p: Hyperlysinemia is an inherited condition characterized by elevated blood levels of the amino acid lysine, a building block of most proteins.  Hyperlysinemia is caused by the shortage (deficiency) of the enzyme that breaks down lysine.  Hyperlysinemia typically causes no health problems, and most people with elevated lysine levels are unaware that they have this condition.  Rarely, people with hyperlysinemia have intellectual disability or behavioral problems.  It is not clear whether these problems are due to hyperlysinemia or another cause.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: AASS

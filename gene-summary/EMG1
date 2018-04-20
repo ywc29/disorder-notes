@@ -2,7 +2,8 @@ gene-symbol: EMG1
 name: EMG1, N1-specific pseudouridine methyltransferase
 ghr-page: https://ghr.nlm.nih.gov/gene/EMG1
 text/text-role: function
-text/html: <p>The <i>EMG1</i> gene provides instructions for making a protein that is involved in the production of cellular structures called ribosomes, which process the cell's genetic instructions to create new proteins. Ribosomes are assembled in a cell compartment called the nucleolus.</p><p>The EMG1 protein is involved in the assembly of a part of the ribosome called the small subunit (SSU). In this role, the EMG1 protein functions as part of a protein complex called the SSU processome. In addition to helping to assemble the SSU, the SSU processome is involved in the maturation of a molecule called 18S rRNA, which is a chemical cousin of DNA that is incorporated into the SSU.</p>
+text/html/html:p(1): The <i>EMG1</i> gene provides instructions for making a protein that is involved in the production of cellular structures called ribosomes, which process the cell's genetic instructions to create new proteins. Ribosomes are assembled in a cell compartment called the nucleolus.
+text/html/html:p(2): The EMG1 protein is involved in the assembly of a part of the ribosome called the small subunit (SSU). In this role, the EMG1 protein functions as part of a protein complex called the SSU processome. In addition to helping to assemble the SSU, the SSU processome is involved in the maturation of a molecule called 18S rRNA, which is a chemical cousin of DNA that is incorporated into the SSU.
 related-health-condition/name: Bowen-Conradi syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/bowen-conradi-syndrome
 synonym(1): 18S rRNA (pseudouridine-N1-)-methyltransferase NEP1

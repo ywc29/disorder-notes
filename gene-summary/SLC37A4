@@ -2,7 +2,7 @@ gene-symbol: SLC37A4
 name: solute carrier family 37 member 4
 ghr-page: https://ghr.nlm.nih.gov/gene/SLC37A4
 text/text-role: function
-text/html: <p>The <i>SLC37A4</i> gene provides instructions for making a protein called glucose 6-phosphate translocase. This protein transports the sugar molecule glucose 6-phosphate from the fluid inside the cell (cytoplasm) to the endoplasmic reticulum, which is a structure inside cells that is involved in protein processing and transport. At the membrane of the endoplasmic reticulum, glucose 6-phosphate translocase works together with the glucose 6-phosphatase protein (produced from the <i>G6PC</i> gene) to break down glucose 6-phosphate. The breakdown of this molecule produces the simple sugar glucose, which is the primary energy source for most cells in the body.</p>
+text/html/html:p: The <i>SLC37A4</i> gene provides instructions for making a protein called glucose 6-phosphate translocase. This protein transports the sugar molecule glucose 6-phosphate from the fluid inside the cell (cytoplasm) to the endoplasmic reticulum, which is a structure inside cells that is involved in protein processing and transport. At the membrane of the endoplasmic reticulum, glucose 6-phosphate translocase works together with the glucose 6-phosphatase protein (produced from the <i>G6PC</i> gene) to break down glucose 6-phosphate. The breakdown of this molecule produces the simple sugar glucose, which is the primary energy source for most cells in the body.
 related-health-condition/name: glycogen storage disease type I
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glycogen-storage-disease-type-i
 synonym(1): G6PT1

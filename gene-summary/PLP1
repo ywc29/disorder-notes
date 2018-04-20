@@ -2,7 +2,7 @@ gene-symbol: PLP1
 name: proteolipid protein 1
 ghr-page: https://ghr.nlm.nih.gov/gene/PLP1
 text/text-role: function
-text/html: <p>The <i>PLP1</i> gene provides instructions for producing proteolipid protein 1 and a modified version (isoform) of that protein called DM20. Proteolipid protein 1 is found primarily in nerves in the brain and spinal cord (the central nervous system) and DM20 is produced mainly in nerves that connect the brain and spinal cord to muscles (the peripheral nervous system). These two proteins are found within the cell membrane of nerve cells, where they make up a large proportion of myelin and help myelin stay anchored to the cells. Myelin is the fatty covering that insulates nerve fibers and promotes the rapid transmission of nerve impulses.</p>
+text/html/html:p: The <i>PLP1</i> gene provides instructions for producing proteolipid protein 1 and a modified version (isoform) of that protein called DM20. Proteolipid protein 1 is found primarily in nerves in the brain and spinal cord (the central nervous system) and DM20 is produced mainly in nerves that connect the brain and spinal cord to muscles (the peripheral nervous system). These two proteins are found within the cell membrane of nerve cells, where they make up a large proportion of myelin and help myelin stay anchored to the cells. Myelin is the fatty covering that insulates nerve fibers and promotes the rapid transmission of nerve impulses.
 related-health-condition(1)/name: Pelizaeus-Merzbacher disease
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/pelizaeus-merzbacher-disease
 related-health-condition(2)/name: spastic paraplegia type 2

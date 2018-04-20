@@ -1,7 +1,8 @@
 name: Palmoplantar keratoderma with deafness
 ghr-page: https://ghr.nlm.nih.gov/condition/palmoplantar-keratoderma-with-deafness
 text/text-role: description
-text/html: <p>Palmoplantar keratoderma with deafness is a disorder characterized by skin abnormalities and hearing loss. Affected individuals develop unusually thick skin on the palms of the hands and soles of the feet (palmoplantar keratoderma) beginning in childhood. Hearing loss ranges from mild to profound. It begins in early childhood and gets worse over time. Affected individuals have particular trouble hearing high-pitched sounds.</p><p>The signs and symptoms of this disorder may vary even within the same family, with some individuals developing only skin abnormalities and others developing only hearing loss.</p>
+text/html/html:p(1): Palmoplantar keratoderma with deafness is a disorder characterized by skin abnormalities and hearing loss. Affected individuals develop unusually thick skin on the palms of the hands and soles of the feet (palmoplantar keratoderma) beginning in childhood. Hearing loss ranges from mild to profound. It begins in early childhood and gets worse over time. Affected individuals have particular trouble hearing high-pitched sounds.
+text/html/html:p(2): The signs and symptoms of this disorder may vary even within the same family, with some individuals developing only skin abnormalities and others developing only hearing loss.
 inheritance-pattern(1)/code: ad
 inheritance-pattern(1)/memo: autosomal dominant
 inheritance-pattern(2)/code: m

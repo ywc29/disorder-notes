@@ -2,7 +2,8 @@ gene-symbol: AMT
 name: aminomethyltransferase
 ghr-page: https://ghr.nlm.nih.gov/gene/AMT
 text/text-role: function
-text/html: <p>The <i>AMT</i> gene provides instructions for making an enzyme called aminomethyltransferase. This enzyme is one of four components (subunits) that make up a large complex called glycine cleavage enzyme. Within cells, this complex is active in specialized energy-producing centers called mitochondria.</p><p>As its name suggests, glycine cleavage enzyme processes a molecule called glycine by cutting (cleaving) it into smaller pieces. Glycine is an amino acid, which is a building block of proteins. This molecule also acts as a neurotransmitter, which is a chemical messenger that transmits signals in the brain. The breakdown of excess glycine is necessary for the normal development and function of nerve cells in the brain and spinal cord.</p>
+text/html/html:p(1): The <i>AMT</i> gene provides instructions for making an enzyme called aminomethyltransferase. This enzyme is one of four components (subunits) that make up a large complex called glycine cleavage enzyme. Within cells, this complex is active in specialized energy-producing centers called mitochondria.
+text/html/html:p(2): As its name suggests, glycine cleavage enzyme processes a molecule called glycine by cutting (cleaving) it into smaller pieces. Glycine is an amino acid, which is a building block of proteins. This molecule also acts as a neurotransmitter, which is a chemical messenger that transmits signals in the brain. The breakdown of excess glycine is necessary for the normal development and function of nerve cells in the brain and spinal cord.
 related-health-condition/name: glycine encephalopathy
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glycine-encephalopathy
 synonym(1): GCE

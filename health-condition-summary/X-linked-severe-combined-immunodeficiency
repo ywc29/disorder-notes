@@ -1,7 +1,7 @@
 name: X-linked severe combined immunodeficiency
 ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-severe-combined-immunodeficiency
 text/text-role: description
-text/html: <p>X-linked severe combined immunodeficiency (SCID) is an inherited disorder of the immune system that occurs almost exclusively in males. Boys with X-linked SCID are prone to recurrent and persistent infections because they lack the necessary immune cells to fight off certain bacteria, viruses, and fungi. Many infants with X-linked SCID develop chronic diarrhea, a fungal infection called thrush, and skin rashes. Affected individuals also grow more slowly than other children. Without treatment, males with X-linked SCID usually do not live beyond infancy.</p>
+text/html/html:p: X-linked severe combined immunodeficiency (SCID) is an inherited disorder of the immune system that occurs almost exclusively in males. Boys with X-linked SCID are prone to recurrent and persistent infections because they lack the necessary immune cells to fight off certain bacteria, viruses, and fungi. Many infants with X-linked SCID develop chronic diarrhea, a fungal infection called thrush, and skin rashes. Affected individuals also grow more slowly than other children. Without treatment, males with X-linked SCID usually do not live beyond infancy.
 inheritance-pattern/code: xr
 inheritance-pattern/memo: X-linked recessive
 related-gene/gene-symbol: IL2RG

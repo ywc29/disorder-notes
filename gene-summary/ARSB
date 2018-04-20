@@ -2,7 +2,7 @@ gene-symbol: ARSB
 name: arylsulfatase B
 ghr-page: https://ghr.nlm.nih.gov/gene/ARSB
 text/text-role: function
-text/html: <p>The <i>ARSB</i> gene provides instructions for producing an enzyme called arylsulfatase B, which is involved in the breakdown of large sugar molecules called glycosaminoglycans (GAGs). Specifically, arylsulfatase B removes a chemical group known as a sulfate from two GAGs called dermatan sulfate and chondroitin sulfate. Arylsulfatase B is located in lysosomes, compartments within cells that digest and recycle different types of molecules.</p>
+text/html/html:p: The <i>ARSB</i> gene provides instructions for producing an enzyme called arylsulfatase B, which is involved in the breakdown of large sugar molecules called glycosaminoglycans (GAGs). Specifically, arylsulfatase B removes a chemical group known as a sulfate from two GAGs called dermatan sulfate and chondroitin sulfate. Arylsulfatase B is located in lysosomes, compartments within cells that digest and recycle different types of molecules.
 related-health-condition/name: mucopolysaccharidosis type VI
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/mucopolysaccharidosis-type-vi
 synonym(1): ARSB_HUMAN

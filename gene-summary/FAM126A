@@ -2,7 +2,7 @@ gene-symbol: FAM126A
 name: family with sequence similarity 126 member A
 ghr-page: https://ghr.nlm.nih.gov/gene/FAM126A
 text/text-role: function
-text/html: <p>The <i>FAM126A</i> gene provides instructions for making a protein called hyccin, which is active (expressed) throughout the nervous system.  Researchers believe that hyccin is involved in the formation of myelin, which is the covering that protects nerves and promotes the efficient transmission of nerve impulses.  Hyccin is also active in the lens of the eye, the heart, and the kidneys; however, the protein's function in these tissues is unclear.</p>
+text/html/html:p: The <i>FAM126A</i> gene provides instructions for making a protein called hyccin, which is active (expressed) throughout the nervous system.  Researchers believe that hyccin is involved in the formation of myelin, which is the covering that protects nerves and promotes the efficient transmission of nerve impulses.  Hyccin is also active in the lens of the eye, the heart, and the kidneys; however, the protein's function in these tissues is unclear.
 related-health-condition/name: hypomyelination and congenital cataract
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/hypomyelination-and-congenital-cataract
 synonym(1): DRCTNNB1A

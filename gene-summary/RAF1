@@ -2,7 +2,8 @@ gene-symbol: RAF1
 name: Raf-1 proto-oncogene, serine/threonine kinase
 ghr-page: https://ghr.nlm.nih.gov/gene/RAF1
 text/text-role: function
-text/html: <p>The <i>RAF1</i> gene provides instructions for making a protein that is part of a signaling pathway called the RAS/MAPK pathway, which transmits chemical signals from outside the cell to the cell's nucleus. RAS/MAPK signaling helps control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (migration), and the self-destruction of cells (apoptosis).</p><p>The <i>RAF1</i> gene belongs to a class of genes known as oncogenes. When mutated, oncogenes have the potential to cause normal cells to become cancerous.</p>
+text/html/html:p(1): The <i>RAF1</i> gene provides instructions for making a protein that is part of a signaling pathway called the RAS/MAPK pathway, which transmits chemical signals from outside the cell to the cell's nucleus. RAS/MAPK signaling helps control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (migration), and the self-destruction of cells (apoptosis).
+text/html/html:p(2): The <i>RAF1</i> gene belongs to a class of genes known as oncogenes. When mutated, oncogenes have the potential to cause normal cells to become cancerous.
 related-health-condition(1)/name: Noonan syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/noonan-syndrome
 related-health-condition(2)/name: Noonan syndrome with multiple lentigines

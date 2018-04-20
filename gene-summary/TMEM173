@@ -2,7 +2,7 @@ gene-symbol: TMEM173
 name: transmembrane protein 173
 ghr-page: https://ghr.nlm.nih.gov/gene/TMEM173
 text/text-role: function
-text/html: <p>The <i>TMEM173</i> gene provides instructions for making a protein called STING, which is involved in immune system function. STING helps produce beta-interferon, a member of a class of proteins called cytokines that promote inflammation. Inflammation normally occurs when the immune system sends signaling molecules and white blood cells to a site of injury or disease to fight microbial invaders and help with tissue repair.</p>
+text/html/html:p: The <i>TMEM173</i> gene provides instructions for making a protein called STING, which is involved in immune system function. STING helps produce beta-interferon, a member of a class of proteins called cytokines that promote inflammation. Inflammation normally occurs when the immune system sends signaling molecules and white blood cells to a site of injury or disease to fight microbial invaders and help with tissue repair.
 related-health-condition/name: STING-associated vasculopathy with onset in infancy
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/sting-associated-vasculopathy-with-onset-in-infancy
 synonym(1): endoplasmic reticulum IFN stimulator

@@ -1,7 +1,7 @@
 name: Factor V deficiency
 ghr-page: https://ghr.nlm.nih.gov/condition/factor-v-deficiency
 text/text-role: description
-text/html: <p>Factor V deficiency is a rare bleeding disorder. The signs and symptoms of this condition can begin at any age, although the most severe cases are apparent in childhood. Factor V deficiency commonly causes nosebleeds; easy bruising; bleeding under the skin; bleeding of the gums; and prolonged or excessive bleeding following surgery, trauma, or childbirth. Women with factor V deficiency can have heavy or prolonged menstrual bleeding (menorrhagia). Bleeding into joint spaces (hemarthrosis) can also occur, although it is rare. Severely affected individuals have an increased risk of bleeding inside the skull (intracranial hemorrhage), in the lungs (pulmonary hemorrhage), or in the gastrointestinal tract, which can be life-threatening.</p>
+text/html/html:p: Factor V deficiency is a rare bleeding disorder. The signs and symptoms of this condition can begin at any age, although the most severe cases are apparent in childhood. Factor V deficiency commonly causes nosebleeds; easy bruising; bleeding under the skin; bleeding of the gums; and prolonged or excessive bleeding following surgery, trauma, or childbirth. Women with factor V deficiency can have heavy or prolonged menstrual bleeding (menorrhagia). Bleeding into joint spaces (hemarthrosis) can also occur, although it is rare. Severely affected individuals have an increased risk of bleeding inside the skull (intracranial hemorrhage), in the lungs (pulmonary hemorrhage), or in the gastrointestinal tract, which can be life-threatening.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene/gene-symbol: F5

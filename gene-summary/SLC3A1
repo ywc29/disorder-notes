@@ -2,7 +2,7 @@ gene-symbol: SLC3A1
 name: solute carrier family 3 member 1
 ghr-page: https://ghr.nlm.nih.gov/gene/SLC3A1
 text/text-role: function
-text/html: <p>The <i>SLC3A1</i> gene provides instructions for producing one part (subunit) of a protein made primarily in the kidneys. This subunit joins with another protein subunit, produced from the <i>SLC7A9</i> gene, to form a transporter protein complex. During the process of urine formation in the kidneys, this protein complex absorbs particular protein building blocks (amino acids) back into the blood.  In particular, the amino acids cystine, ornithine, arginine, and lysine are absorbed back into the blood through this mechanism.</p>
+text/html/html:p: The <i>SLC3A1</i> gene provides instructions for producing one part (subunit) of a protein made primarily in the kidneys. This subunit joins with another protein subunit, produced from the <i>SLC7A9</i> gene, to form a transporter protein complex. During the process of urine formation in the kidneys, this protein complex absorbs particular protein building blocks (amino acids) back into the blood.  In particular, the amino acids cystine, ornithine, arginine, and lysine are absorbed back into the blood through this mechanism.
 related-health-condition/name: cystinuria
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cystinuria
 synonym(1): amino acid transporter 1

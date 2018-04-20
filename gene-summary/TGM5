@@ -2,7 +2,7 @@ gene-symbol: TGM5
 name: transglutaminase 5
 ghr-page: https://ghr.nlm.nih.gov/gene/TGM5
 text/text-role: function
-text/html: <p>The <i>TGM5</i> gene provides instructions for making an enzyme called transglutaminase 5. This enzyme is found in many of the body's tissues, although it seems to play a particularly important role in the outer layer of skin (the epidermis). In the epidermis, transglutaminase 5 is involved in the formation of the cornified cell envelope, which is a structure that surrounds cells and  helps the skin form a protective barrier between the body and its environment. Specifically, transglutaminase 5 forms strong bonds, called cross-links, between the structural proteins that make up the cornified cell envelope. This cross-linking provides strength and stability to the epidermis.</p>
+text/html/html:p: The <i>TGM5</i> gene provides instructions for making an enzyme called transglutaminase 5. This enzyme is found in many of the body's tissues, although it seems to play a particularly important role in the outer layer of skin (the epidermis). In the epidermis, transglutaminase 5 is involved in the formation of the cornified cell envelope, which is a structure that surrounds cells and  helps the skin form a protective barrier between the body and its environment. Specifically, transglutaminase 5 forms strong bonds, called cross-links, between the structural proteins that make up the cornified cell envelope. This cross-linking provides strength and stability to the epidermis.
 related-health-condition/name: acral peeling skin syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/acral-peeling-skin-syndrome
 synonym(1): protein-glutamine gamma-glutamyltransferase 5

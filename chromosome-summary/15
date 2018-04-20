@@ -1,7 +1,8 @@
 name: 15
 ghr-page: https://ghr.nlm.nih.gov/chromosome/15
 text/text-role: description
-text/html: <p>Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 15, one copy inherited from each parent, form one of the pairs.  Chromosome 15 spans more than 102 million DNA building blocks (base pairs) and represents more than 3 percent of the total DNA in cells.</p><p>Identifying genes on each chromosome is an active area of genetic research.  Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 15 likely contains 600 to 700 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.</p>
+text/html/html:p(1): Humans normally have 46 chromosomes in each cell, divided into 23 pairs. Two copies of chromosome 15, one copy inherited from each parent, form one of the pairs.  Chromosome 15 spans more than 102 million DNA building blocks (base pairs) and represents more than 3 percent of the total DNA in cells.
+text/html/html:p(2): Identifying genes on each chromosome is an active area of genetic research.  Because researchers use different approaches to predict the number of genes on each chromosome, the estimated number of genes varies. Chromosome 15 likely contains 600 to 700 genes that provide instructions for making proteins. These proteins perform a variety of different roles in the body.
 related-health-condition(1)/name: 15q13.3 microdeletion
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/15q133-microdeletion
 related-health-condition(2)/name: 15q24 microdeletion

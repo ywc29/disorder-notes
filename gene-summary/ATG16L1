@@ -2,7 +2,7 @@ gene-symbol: ATG16L1
 name: autophagy related 16 like 1
 ghr-page: https://ghr.nlm.nih.gov/gene/ATG16L1
 text/text-role: function
-text/html: <p>The <i>ATG16L1</i> gene provides instructions for making a protein that is required for a process called autophagy. Cells use this process to recycle worn-out cell parts and break down certain proteins when they are no longer needed. Autophagy also plays an important role in controlled cell death (apoptosis). Additionally, autophagy is involved in the body's inflammatory response and helps the immune system destroy some types of harmful bacteria and viruses.</p>
+text/html/html:p: The <i>ATG16L1</i> gene provides instructions for making a protein that is required for a process called autophagy. Cells use this process to recycle worn-out cell parts and break down certain proteins when they are no longer needed. Autophagy also plays an important role in controlled cell death (apoptosis). Additionally, autophagy is involved in the body's inflammatory response and helps the immune system destroy some types of harmful bacteria and viruses.
 related-health-condition/name: Crohn disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/crohn-disease
 synonym(1): APG16 autophagy 16-like

@@ -2,7 +2,7 @@ gene-symbol: MCEE
 name: methylmalonyl-CoA epimerase
 ghr-page: https://ghr.nlm.nih.gov/gene/MCEE
 text/text-role: function
-text/html: <p>The <i>MCEE</i> gene provides instructions for making an enzyme called methylmalonyl CoA epimerase, which converts one form of the molecule methylmalonyl CoA to another. Specifically, the enzyme converts D-methylmalonyl CoA to L-methylmalonyl CoA. This conversion takes place within the pathway that converts the molecule propionyl-CoA to succinyl-CoA. This pathway is important in the breakdown of certain protein building blocks (amino acids), specific fats (lipids), and cholesterol.</p>
+text/html/html:p: The <i>MCEE</i> gene provides instructions for making an enzyme called methylmalonyl CoA epimerase, which converts one form of the molecule methylmalonyl CoA to another. Specifically, the enzyme converts D-methylmalonyl CoA to L-methylmalonyl CoA. This conversion takes place within the pathway that converts the molecule propionyl-CoA to succinyl-CoA. This pathway is important in the breakdown of certain protein building blocks (amino acids), specific fats (lipids), and cholesterol.
 related-health-condition/name: methylmalonic acidemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia
 synonym(1): DL-methylmalonyl-CoA racemase

@@ -2,7 +2,7 @@ gene-symbol: DGUOK
 name: deoxyguanosine kinase
 ghr-page: https://ghr.nlm.nih.gov/gene/DGUOK
 text/text-role: function
-text/html: <p>The <i>DGUOK</i> gene provides instructions for making the enzyme deoxyguanosine kinase. This enzyme plays a critical role in mitochondria, which are structures within cells that convert the energy from food into a form that cells can use. Mitochondria each contain a small amount of DNA, known as mitochondrial DNA or mtDNA, which is essential for the normal function of these structures. Deoxyguanosine kinase is involved in producing and maintaining the building blocks of mitochondrial DNA.</p>
+text/html/html:p: The <i>DGUOK</i> gene provides instructions for making the enzyme deoxyguanosine kinase. This enzyme plays a critical role in mitochondria, which are structures within cells that convert the energy from food into a form that cells can use. Mitochondria each contain a small amount of DNA, known as mitochondrial DNA or mtDNA, which is essential for the normal function of these structures. Deoxyguanosine kinase is involved in producing and maintaining the building blocks of mitochondrial DNA.
 related-health-condition/name: deoxyguanosine kinase deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/deoxyguanosine-kinase-deficiency
 synonym(1): deoxyguanosine kinase isoform a precursor

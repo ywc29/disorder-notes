@@ -2,7 +2,8 @@ gene-symbol: LZTR1
 name: leucine zipper like transcription regulator 1
 ghr-page: https://ghr.nlm.nih.gov/gene/LZTR1
 text/text-role: function
-text/html: <p>The <i>LZTR1</i> gene provides instructions for making a protein whose exact function is unknown. The LZTR1 protein is made in cells throughout the body. Within cells, it is found in the Golgi apparatus, which is a structure in which newly produced proteins are modified. Studies suggest that the LZTR1 protein may help stabilize this structure. Researchers suspect that this protein may also be associated with the CUL3 ubiquitin ligase complex, which is part of the cell machinery that breaks down (degrades) unneeded proteins.</p><p>Based on its role in several tumor types, the LZTR1 protein is thought to act as a tumor suppressor. Tumor suppressors are proteins that keep cells from growing and dividing too rapidly or in an uncontrolled way.</p>
+text/html/html:p(1): The <i>LZTR1</i> gene provides instructions for making a protein whose exact function is unknown. The LZTR1 protein is made in cells throughout the body. Within cells, it is found in the Golgi apparatus, which is a structure in which newly produced proteins are modified. Studies suggest that the LZTR1 protein may help stabilize this structure. Researchers suspect that this protein may also be associated with the CUL3 ubiquitin ligase complex, which is part of the cell machinery that breaks down (degrades) unneeded proteins.
+text/html/html:p(2): Based on its role in several tumor types, the LZTR1 protein is thought to act as a tumor suppressor. Tumor suppressors are proteins that keep cells from growing and dividing too rapidly or in an uncontrolled way.
 related-health-condition(1)/name: Noonan syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/noonan-syndrome
 related-health-condition(2)/name: schwannomatosis

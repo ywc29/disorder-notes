@@ -2,7 +2,7 @@ gene-symbol: ABCB11
 name: ATP binding cassette subfamily B member 11
 ghr-page: https://ghr.nlm.nih.gov/gene/ABCB11
 text/text-role: function
-text/html: <p>The <i>ABCB11</i> gene provides instructions for making a protein called the bile salt export pump (BSEP), which is found in the liver.  Bile salts are a component of bile, which is used to digest fats.  Bile salts are produced by liver cells and then transported out of the cell by BSEP to make bile. The release of bile salts from liver cells is critical for the normal secretion of bile.</p>
+text/html/html:p: The <i>ABCB11</i> gene provides instructions for making a protein called the bile salt export pump (BSEP), which is found in the liver.  Bile salts are a component of bile, which is used to digest fats.  Bile salts are produced by liver cells and then transported out of the cell by BSEP to make bile. The release of bile salts from liver cells is critical for the normal secretion of bile.
 related-health-condition(1)/name: benign recurrent intrahepatic cholestasis
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/benign-recurrent-intrahepatic-cholestasis
 related-health-condition(2)/name: intrahepatic cholestasis of pregnancy

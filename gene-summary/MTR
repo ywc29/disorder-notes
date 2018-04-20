@@ -2,7 +2,7 @@ gene-symbol: MTR
 name: 5-methyltetrahydrofolate-homocysteine methyltransferase
 ghr-page: https://ghr.nlm.nih.gov/gene/MTR
 text/text-role: function
-text/html: <p>The <i>MTR</i> gene provides instructions for making an enzyme called methionine synthase. This enzyme plays a role in processing amino acids, the building blocks of proteins. Specifically, methionine synthase carries out a chemical reaction that converts the amino acid homocysteine to another amino acid called methionine. The body uses methionine to make proteins and other important compounds. To function properly, methionine synthase requires methylcobalamin (a form of vitamin B12) and another enzyme called methionine synthase reductase, which is produced from the <i>MTRR</i> gene.</p>
+text/html/html:p: The <i>MTR</i> gene provides instructions for making an enzyme called methionine synthase. This enzyme plays a role in processing amino acids, the building blocks of proteins. Specifically, methionine synthase carries out a chemical reaction that converts the amino acid homocysteine to another amino acid called methionine. The body uses methionine to make proteins and other important compounds. To function properly, methionine synthase requires methylcobalamin (a form of vitamin B12) and another enzyme called methionine synthase reductase, which is produced from the <i>MTRR</i> gene.
 related-health-condition/name: homocystinuria
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/homocystinuria
 synonym(1): 5-methyltetrahydrofolate-homocysteine methyltransferase 1

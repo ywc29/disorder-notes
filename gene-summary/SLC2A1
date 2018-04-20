@@ -2,7 +2,8 @@ gene-symbol: SLC2A1
 name: solute carrier family 2 member 1
 ghr-page: https://ghr.nlm.nih.gov/gene/SLC2A1
 text/text-role: function
-text/html: <p>The <i>SLC2A1</i> gene  provides instructions for producing a protein called the glucose transporter protein type 1 (GLUT1). The GLUT1 protein is embedded in the outer membrane surrounding cells, where it transports a simple sugar called glucose into cells from the blood or from other cells for use as fuel.</p><p>In the brain, the GLUT1 protein is involved in moving glucose, which is the brain's main energy source, across the blood-brain barrier. The blood-brain barrier acts as a boundary between tiny blood vessels (capillaries) and the surrounding brain tissue; it protects the brain's delicate nerve tissue by preventing many other types of molecules from entering the brain. The GLUT1 protein also moves glucose between cells in the brain called glia, which protect and maintain nerve cells (neurons).</p>
+text/html/html:p(1): The <i>SLC2A1</i> gene  provides instructions for producing a protein called the glucose transporter protein type 1 (GLUT1). The GLUT1 protein is embedded in the outer membrane surrounding cells, where it transports a simple sugar called glucose into cells from the blood or from other cells for use as fuel.
+text/html/html:p(2): In the brain, the GLUT1 protein is involved in moving glucose, which is the brain's main energy source, across the blood-brain barrier. The blood-brain barrier acts as a boundary between tiny blood vessels (capillaries) and the surrounding brain tissue; it protects the brain's delicate nerve tissue by preventing many other types of molecules from entering the brain. The GLUT1 protein also moves glucose between cells in the brain called glia, which protect and maintain nerve cells (neurons).
 related-health-condition/name: GLUT1 deficiency syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/glut1-deficiency-syndrome
 synonym(1): DYT9

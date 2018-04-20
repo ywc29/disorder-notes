@@ -2,7 +2,7 @@ gene-symbol: PLA2G6
 name: phospholipase A2 group VI
 ghr-page: https://ghr.nlm.nih.gov/gene/PLA2G6
 text/text-role: function
-text/html: <p>The <i>PLA2G6</i> gene provides instructions for making a type of enzyme called an A2 phospholipase. This type of enzyme is involved in breaking down (metabolizing) fats called phospholipids. Phospholipid metabolism is important for many body processes, including helping to maintain the integrity of the cell membrane. Specifically, the A2 phospholipase produced from the <i>PLA2G6</i> gene, sometimes called PLA2 group VI, helps to regulate the levels of a compound called phosphatidylcholine, which is abundant in the cell membrane.</p>
+text/html/html:p: The <i>PLA2G6</i> gene provides instructions for making a type of enzyme called an A2 phospholipase. This type of enzyme is involved in breaking down (metabolizing) fats called phospholipids. Phospholipid metabolism is important for many body processes, including helping to maintain the integrity of the cell membrane. Specifically, the A2 phospholipase produced from the <i>PLA2G6</i> gene, sometimes called PLA2 group VI, helps to regulate the levels of a compound called phosphatidylcholine, which is abundant in the cell membrane.
 related-health-condition/name: infantile neuroaxonal dystrophy
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/infantile-neuroaxonal-dystrophy
 synonym(1): CaI-PLA2

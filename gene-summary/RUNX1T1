@@ -2,7 +2,7 @@ gene-symbol: RUNX1T1
 name: RUNX1 translocation partner 1
 ghr-page: https://ghr.nlm.nih.gov/gene/RUNX1T1
 text/text-role: function
-text/html: <p>The <i>RUNX1T1</i> gene provides instructions for making a protein commonly referred to as ETO, which helps regulate the activity of genes. ETO is considered a transcriptional corepressor because it turns off (represses) gene activity. It performs this function by attaching (binding) to proteins that normally turn genes on and blocking their activity. It also interacts with other corepressors to help keep genes turned off.</p>
+text/html/html:p: The <i>RUNX1T1</i> gene provides instructions for making a protein commonly referred to as ETO, which helps regulate the activity of genes. ETO is considered a transcriptional corepressor because it turns off (represses) gene activity. It performs this function by attaching (binding) to proteins that normally turn genes on and blocking their activity. It also interacts with other corepressors to help keep genes turned off.
 related-health-condition/name: core binding factor acute myeloid leukemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/core-binding-factor-acute-myeloid-leukemia
 synonym(1): acute myelogenous leukemia 1 translocation 1, cyclin-D related

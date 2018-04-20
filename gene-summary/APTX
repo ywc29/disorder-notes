@@ -2,7 +2,7 @@ gene-symbol: APTX
 name: aprataxin
 ghr-page: https://ghr.nlm.nih.gov/gene/APTX
 text/text-role: function
-text/html: <p>The <i>APTX</i> gene provides instructions for making a protein called aprataxin that is involved in the repair of damaged DNA or RNA, the chemical cousin of DNA.  Aprataxin is located in the nucleus of cells and is produced in various tissues, including the brain, spinal cord, and muscles. Different regions of the aprataxin protein aid in its DNA or RNA repair function by allowing the protein to interact with other DNA repair proteins and to attach (bind) to DNA or RNA molecules. At the site of damage, aprataxin modifies the broken ends of the DNA or RNA strands so they can be joined back together.</p>
+text/html/html:p: The <i>APTX</i> gene provides instructions for making a protein called aprataxin that is involved in the repair of damaged DNA or RNA, the chemical cousin of DNA.  Aprataxin is located in the nucleus of cells and is produced in various tissues, including the brain, spinal cord, and muscles. Different regions of the aprataxin protein aid in its DNA or RNA repair function by allowing the protein to interact with other DNA repair proteins and to attach (bind) to DNA or RNA molecules. At the site of damage, aprataxin modifies the broken ends of the DNA or RNA strands so they can be joined back together.
 related-health-condition/name: ataxia with oculomotor apraxia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/ataxia-with-oculomotor-apraxia
 synonym(1): AOA

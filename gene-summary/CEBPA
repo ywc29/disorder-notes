@@ -2,7 +2,7 @@ gene-symbol: CEBPA
 name: CCAAT enhancer binding protein alpha
 ghr-page: https://ghr.nlm.nih.gov/gene/CEBPA
 text/text-role: function
-text/html: <p>The <i>CEBPA</i> gene provides instructions for making a protein called CCAAT enhancer-binding protein alpha. This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity (expression) of certain genes. CCAAT enhancer-binding protein alpha is involved in the maturation (differentiation) of certain blood cells. It is also believed to act as a tumor suppressor, which means that it is involved in cellular mechanisms that help prevent the cells from growing and dividing too rapidly or in an uncontrolled way.</p>
+text/html/html:p: The <i>CEBPA</i> gene provides instructions for making a protein called CCAAT enhancer-binding protein alpha. This protein is a transcription factor, which means that it attaches (binds) to specific regions of DNA and helps control the activity (expression) of certain genes. CCAAT enhancer-binding protein alpha is involved in the maturation (differentiation) of certain blood cells. It is also believed to act as a tumor suppressor, which means that it is involved in cellular mechanisms that help prevent the cells from growing and dividing too rapidly or in an uncontrolled way.
 related-health-condition(1)/name: cytogenetically normal acute myeloid leukemia
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/cytogenetically-normal-acute-myeloid-leukemia
 related-health-condition(2)/name: familial acute myeloid leukemia with mutated CEBPA

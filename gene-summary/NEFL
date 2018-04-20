@@ -2,7 +2,7 @@ gene-symbol: NEFL
 name: neurofilament light
 ghr-page: https://ghr.nlm.nih.gov/gene/NEFL
 text/text-role: function
-text/html: <p>The <i>NEFL</i> gene provides instructions for making the smallest protein component (the light subunit) of neurofilaments, which are essential for normal nerve cell function. Neurofilaments are assembled from light, medium, and heavy subunits.  They form a structural framework that helps to define the shape and size of nerve cells.  Cross-linking or bridging between neurofilaments maintains the diameter of the fiber, or axon, that extends from a nerve cell.  Maintaining the proper axon diameter is essential for the transmission of nerve impulses.</p>
+text/html/html:p: The <i>NEFL</i> gene provides instructions for making the smallest protein component (the light subunit) of neurofilaments, which are essential for normal nerve cell function. Neurofilaments are assembled from light, medium, and heavy subunits.  They form a structural framework that helps to define the shape and size of nerve cells.  Cross-linking or bridging between neurofilaments maintains the diameter of the fiber, or axon, that extends from a nerve cell.  Maintaining the proper axon diameter is essential for the transmission of nerve impulses.
 related-health-condition/name: Charcot-Marie-Tooth disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/charcot-marie-tooth-disease
 synonym(1): CMT1F

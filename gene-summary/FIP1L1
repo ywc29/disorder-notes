@@ -2,7 +2,7 @@ gene-symbol: FIP1L1
 name: FIP1 like 1 (S. cerevisiae)
 ghr-page: https://ghr.nlm.nih.gov/gene/FIP1L1
 text/text-role: function
-text/html: <p>The <i>FIP1L1</i> gene provides instructions for making part of a protein complex named cleavage and polyadenylation specificity factor (CPSF). This complex of proteins plays an important role in processing molecules called messenger RNAs (mRNAs), which serve as the genetic blueprints for making proteins. The CPSF protein complex helps add a string of the RNA building block adenine to the mRNA, creating a polyadenine tail or poly(A) tail. The poly(A) tail is important for stability of the mRNA and for protein production from the blueprint.</p>
+text/html/html:p: The <i>FIP1L1</i> gene provides instructions for making part of a protein complex named cleavage and polyadenylation specificity factor (CPSF). This complex of proteins plays an important role in processing molecules called messenger RNAs (mRNAs), which serve as the genetic blueprints for making proteins. The CPSF protein complex helps add a string of the RNA building block adenine to the mRNA, creating a polyadenine tail or poly(A) tail. The poly(A) tail is important for stability of the mRNA and for protein production from the blueprint.
 related-health-condition/name: PDGFRA-associated chronic eosinophilic leukemia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/pdgfra-associated-chronic-eosinophilic-leukemia
 synonym(1): FIP1-like 1 protein

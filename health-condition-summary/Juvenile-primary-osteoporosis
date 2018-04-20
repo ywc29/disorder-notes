@@ -1,7 +1,7 @@
 name: Juvenile primary osteoporosis
 ghr-page: https://ghr.nlm.nih.gov/condition/juvenile-primary-osteoporosis
 text/text-role: description
-text/html: <p>Juvenile primary osteoporosis is a skeletal disorder characterized by thinning of the bones (osteoporosis) that begins in childhood. Osteoporosis is caused by a shortage of calcium and other minerals in bones (decreased bone mineral density), which makes the bones brittle and prone to fracture. Affected individuals often have multiple fractures in the long bones of the arms and legs, especially in the regions where new bone forms (metaphyses). They also have fractures in the bones that form the spine (vertebrae), which can cause collapse of the affected vertebrae (compressed vertebrae). Multiple fractures can cause bone pain and lead to movement problems.</p>
+text/html/html:p: Juvenile primary osteoporosis is a skeletal disorder characterized by thinning of the bones (osteoporosis) that begins in childhood. Osteoporosis is caused by a shortage of calcium and other minerals in bones (decreased bone mineral density), which makes the bones brittle and prone to fracture. Affected individuals often have multiple fractures in the long bones of the arms and legs, especially in the regions where new bone forms (metaphyses). They also have fractures in the bones that form the spine (vertebrae), which can cause collapse of the affected vertebrae (compressed vertebrae). Multiple fractures can cause bone pain and lead to movement problems.
 inheritance-pattern/code: ad
 inheritance-pattern/memo: autosomal dominant
 related-gene/gene-symbol: LRP5

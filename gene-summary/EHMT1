@@ -2,7 +2,7 @@ gene-symbol: EHMT1
 name: euchromatic histone lysine methyltransferase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/EHMT1
 text/text-role: function
-text/html: <p>The <i>EHMT1</i> gene provides instructions for making an enzyme called euchromatic histone methyltransferase 1. Histone methyltransferases are enzymes that modify proteins called histones. Histones are structural proteins that attach (bind) to DNA and give chromosomes their shape. By adding a molecule called a methyl group to histones, histone methyltransferases can turn off (suppress) the activity of certain genes, which is essential for normal development and function.</p>
+text/html/html:p: The <i>EHMT1</i> gene provides instructions for making an enzyme called euchromatic histone methyltransferase 1. Histone methyltransferases are enzymes that modify proteins called histones. Histones are structural proteins that attach (bind) to DNA and give chromosomes their shape. By adding a molecule called a methyl group to histones, histone methyltransferases can turn off (suppress) the activity of certain genes, which is essential for normal development and function.
 related-health-condition/name: Kleefstra syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/kleefstra-syndrome
 synonym(1): bA188C12.1

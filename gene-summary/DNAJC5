@@ -2,7 +2,7 @@ gene-symbol: DNAJC5
 name: DnaJ heat shock protein family (Hsp40) member C5
 ghr-page: https://ghr.nlm.nih.gov/gene/DNAJC5
 text/text-role: function
-text/html: <p>The <i>DNAJC5</i> gene provides instructions for making a protein called cysteine string protein alpha (CSPα). This protein is found near nerve cells in the brain, where it plays a role in the transmission of nerve impulses. Specifically, CSPα is part of a group (complex) of proteins that is found on the membrane of sac-like structures called synaptic vesicles. Synaptic vesicles are found close to the ends of nerve cells and contain chemical messengers that transmit signals from one nerve cell to another. CSPα is involved in recycling proteins that are involved in nerve impulse transmission by re-folding misshapen proteins so that they can be used in additional transmissions.</p>
+text/html/html:p: The <i>DNAJC5</i> gene provides instructions for making a protein called cysteine string protein alpha (CSPα). This protein is found near nerve cells in the brain, where it plays a role in the transmission of nerve impulses. Specifically, CSPα is part of a group (complex) of proteins that is found on the membrane of sac-like structures called synaptic vesicles. Synaptic vesicles are found close to the ends of nerve cells and contain chemical messengers that transmit signals from one nerve cell to another. CSPα is involved in recycling proteins that are involved in nerve impulse transmission by re-folding misshapen proteins so that they can be used in additional transmissions.
 related-health-condition/name: CLN4 disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cln4-disease
 synonym(1): CLN4

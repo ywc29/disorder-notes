@@ -2,7 +2,7 @@ gene-symbol: MANBA
 name: mannosidase beta
 ghr-page: https://ghr.nlm.nih.gov/gene/MANBA
 text/text-role: function
-text/html: <p>The <i>MANBA</i> gene provides instructions for making the enzyme beta-mannosidase. This enzyme works in the lysosomes, which are compartments that digest and recycle materials in the cell. Within lysosomes, the enzyme helps break down complexes of sugar molecules (oligosaccharides) attached to certain proteins (glycoproteins). Beta-mannosidase is involved in the last step of this process, helping to break down complexes of two sugar molecules (disaccharides) containing a sugar molecule called mannose.</p>
+text/html/html:p: The <i>MANBA</i> gene provides instructions for making the enzyme beta-mannosidase. This enzyme works in the lysosomes, which are compartments that digest and recycle materials in the cell. Within lysosomes, the enzyme helps break down complexes of sugar molecules (oligosaccharides) attached to certain proteins (glycoproteins). Beta-mannosidase is involved in the last step of this process, helping to break down complexes of two sugar molecules (disaccharides) containing a sugar molecule called mannose.
 related-health-condition/name: beta-mannosidosis
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/beta-mannosidosis
 synonym(1): MANB1

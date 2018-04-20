@@ -2,7 +2,8 @@ gene-symbol: HNF1B
 name: HNF1 homeobox B
 ghr-page: https://ghr.nlm.nih.gov/gene/HNF1B
 text/text-role: function
-text/html: <p>The <i>HNF1B</i> gene provides instructions for making a protein that attaches (binds) to specific regions of DNA and regulates the activity of other genes. On the basis of this role, the protein produced from the <i>HNF1B</i> gene is called a transcription factor. The HNF1B protein is part of a large group of transcription factors called homeodomain proteins. The homeodomain is a region of the protein that allows it to bind to DNA.</p><p>The HNF1B protein is found in many organs and tissues, including the lungs, liver, intestines, pancreas, kidneys, reproductive system, and urinary tract. Researchers suspect that this protein may play a role in the development of many of these parts of the body.</p>
+text/html/html:p(1): The <i>HNF1B</i> gene provides instructions for making a protein that attaches (binds) to specific regions of DNA and regulates the activity of other genes. On the basis of this role, the protein produced from the <i>HNF1B</i> gene is called a transcription factor. The HNF1B protein is part of a large group of transcription factors called homeodomain proteins. The homeodomain is a region of the protein that allows it to bind to DNA.
+text/html/html:p(2): The HNF1B protein is found in many organs and tissues, including the lungs, liver, intestines, pancreas, kidneys, reproductive system, and urinary tract. Researchers suspect that this protein may play a role in the development of many of these parts of the body.
 related-health-condition(1)/name: 17q12 deletion syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/17q12-deletion-syndrome
 related-health-condition(2)/name: prostate cancer

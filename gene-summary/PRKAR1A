@@ -2,7 +2,7 @@ gene-symbol: PRKAR1A
 name: protein kinase cAMP-dependent type I regulatory subunit alpha
 ghr-page: https://ghr.nlm.nih.gov/gene/PRKAR1A
 text/text-role: function
-text/html: <p>The <i>PRKAR1A</i> gene provides instructions for making one part (subunit) of an enzyme called protein kinase A. This enzyme promotes cell growth and division (proliferation). Protein kinase A is made up of four protein subunits, two of which are called regulatory subunits because they control whether this enzyme is turned on or off. The <i>PRKAR1A</i> gene provides instructions for making one of these regulatory subunits, called type 1 alpha. Protein kinase A remains turned off when the regulatory subunits are attached to the other two subunits of the enzyme. In order to turn on protein kinase A, the regulatory subunits must break away from the enzyme.</p>
+text/html/html:p: The <i>PRKAR1A</i> gene provides instructions for making one part (subunit) of an enzyme called protein kinase A. This enzyme promotes cell growth and division (proliferation). Protein kinase A is made up of four protein subunits, two of which are called regulatory subunits because they control whether this enzyme is turned on or off. The <i>PRKAR1A</i> gene provides instructions for making one of these regulatory subunits, called type 1 alpha. Protein kinase A remains turned off when the regulatory subunits are attached to the other two subunits of the enzyme. In order to turn on protein kinase A, the regulatory subunits must break away from the enzyme.
 related-health-condition/name: Carney complex
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/carney-complex
 synonym(1): cAMP-dependent protein kinase regulatory subunit RIalpha

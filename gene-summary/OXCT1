@@ -2,7 +2,7 @@ gene-symbol: OXCT1
 name: 3-oxoacid CoA-transferase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/OXCT1
 text/text-role: function
-text/html: <p>The <i>OXCT1</i> gene provides instruction for making an enzyme called succinyl-CoA:3-ketoacid CoA transferase, often abbreviated as SCOT. The SCOT enzyme is made in the energy-producing centers of cells (mitochondria). The enzyme plays a role in the breakdown of ketones, which are molecules produced by the liver during the breakdown of fats. Ketones are an important source of energy during prolonged periods without food (fasting) or when energy demands are increased, such as during illness or when exercising. In the processing of ketones, the SCOT enzyme converts the molecule acetoacetate to acetoacetyl-CoA.</p>
+text/html/html:p: The <i>OXCT1</i> gene provides instruction for making an enzyme called succinyl-CoA:3-ketoacid CoA transferase, often abbreviated as SCOT. The SCOT enzyme is made in the energy-producing centers of cells (mitochondria). The enzyme plays a role in the breakdown of ketones, which are molecules produced by the liver during the breakdown of fats. Ketones are an important source of energy during prolonged periods without food (fasting) or when energy demands are increased, such as during illness or when exercising. In the processing of ketones, the SCOT enzyme converts the molecule acetoacetate to acetoacetyl-CoA.
 related-health-condition/name: succinyl-CoA:3-ketoacid CoA transferase deficiency
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/succinyl-coa3-ketoacid-coa-transferase-deficiency
 synonym(1): 3-oxoacid CoA transferase 1

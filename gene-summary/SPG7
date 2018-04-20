@@ -2,7 +2,7 @@ gene-symbol: SPG7
 name: SPG7, paraplegin matrix AAA peptidase subunit
 ghr-page: https://ghr.nlm.nih.gov/gene/SPG7
 text/text-role: function
-text/html: <p>The <i>SPG7</i> gene provides instructions for producing a protein called paraplegin, which is a member of the AAA protein family.  This protein family plays a role in many cellular activities, including regulation of cell components and proteins.  Located within the inner membrane of the energy-producing centers of cells (mitochondria), paraplegin is one of the proteins that form a complex called the m-AAA protease.  The m-AAA protease is responsible for assembling ribosomes (cellular structures that process the cell's genetic instructions to create proteins) and removing nonfunctional proteins in the mitochondria.</p>
+text/html/html:p: The <i>SPG7</i> gene provides instructions for producing a protein called paraplegin, which is a member of the AAA protein family.  This protein family plays a role in many cellular activities, including regulation of cell components and proteins.  Located within the inner membrane of the energy-producing centers of cells (mitochondria), paraplegin is one of the proteins that form a complex called the m-AAA protease.  The m-AAA protease is responsible for assembling ribosomes (cellular structures that process the cell's genetic instructions to create proteins) and removing nonfunctional proteins in the mitochondria.
 related-health-condition(1)/name: progressive external ophthalmoplegia
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/progressive-external-ophthalmoplegia
 related-health-condition(2)/name: spastic paraplegia type 7

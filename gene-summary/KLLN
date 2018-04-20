@@ -2,7 +2,7 @@ gene-symbol: KLLN
 name: killin, p53 regulated DNA replication inhibitor
 ghr-page: https://ghr.nlm.nih.gov/gene/KLLN
 text/text-role: function
-text/html: <p>The <i>KLLN</i> gene provides instructions for making a protein called killin. The activity of the <i>KLLN</i> gene is controlled by a protein called p53 (which is produced from the <i>TP53</i> gene). Little is known about the function of killin, although it is thought to trigger cells to self-destruct (undergo apoptosis) when they are damaged or no longer needed. In this way, killin helps to prevent abnormal cells from growing and dividing unchecked to form tumors. Based on this role, killin is thought to be a tumor suppressor.</p>
+text/html/html:p: The <i>KLLN</i> gene provides instructions for making a protein called killin. The activity of the <i>KLLN</i> gene is controlled by a protein called p53 (which is produced from the <i>TP53</i> gene). Little is known about the function of killin, although it is thought to trigger cells to self-destruct (undergo apoptosis) when they are damaged or no longer needed. In this way, killin helps to prevent abnormal cells from growing and dividing unchecked to form tumors. Based on this role, killin is thought to be a tumor suppressor.
 related-health-condition/name: Cowden syndrome
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/cowden-syndrome
 synonym(1): KILIN_HUMAN

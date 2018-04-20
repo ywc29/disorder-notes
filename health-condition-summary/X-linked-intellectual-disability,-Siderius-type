@@ -1,7 +1,9 @@
 name: X-linked intellectual disability, Siderius type
 ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-intellectual-disability-siderius-type
 text/text-role: description
-text/html: <p>X-linked intellectual disability, Siderius type is a condition characterized by mild to moderate intellectual disability that affects only males. Affected boys often have delayed development of motor skills such as walking, and their speech may be delayed.</p><p>Individuals with X-linked intellectual disability, Siderius type frequently also have an opening in the lip (cleft lip) with an opening in the roof of the mouth (cleft palate). A cleft can occur on one or both sides of the upper lip.</p><p>Some boys and men with this condition have distinctive facial features, including a long face, a sloping forehead, a broad nasal bridge, a prominent bone in the lower forehead (supraorbital ridge), and outside corners of the eyes that point upward (upslanting palpebral fissures). Affected individuals may also have low-set ears and large hands.</p>
+text/html/html:p(1): X-linked intellectual disability, Siderius type is a condition characterized by mild to moderate intellectual disability that affects only males. Affected boys often have delayed development of motor skills such as walking, and their speech may be delayed.
+text/html/html:p(2): Individuals with X-linked intellectual disability, Siderius type frequently also have an opening in the lip (cleft lip) with an opening in the roof of the mouth (cleft palate). A cleft can occur on one or both sides of the upper lip.
+text/html/html:p(3): Some boys and men with this condition have distinctive facial features, including a long face, a sloping forehead, a broad nasal bridge, a prominent bone in the lower forehead (supraorbital ridge), and outside corners of the eyes that point upward (upslanting palpebral fissures). Affected individuals may also have low-set ears and large hands.
 inheritance-pattern/code: xr
 inheritance-pattern/memo: X-linked recessive
 related-gene/gene-symbol: PHF8

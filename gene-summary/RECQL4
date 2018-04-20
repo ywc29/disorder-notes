@@ -2,7 +2,8 @@ gene-symbol: RECQL4
 name: RecQ like helicase 4
 ghr-page: https://ghr.nlm.nih.gov/gene/RECQL4
 text/text-role: function
-text/html: <p>The <i>RECQL4</i> gene provides instructions for making one member of a protein family called RecQ helicases. Helicases are enzymes that bind to DNA and temporarily unwind the two spiral strands (double helix) of the DNA molecule.  This unwinding is necessary for copying (replicating) DNA in preparation for cell division, and for repairing damaged DNA. Because RecQ helicases maintain the structure and integrity of DNA, they are known as the "caretakers of the genome."</p><p>The RECQL4 protein is active in several types of cells before and after birth. Researchers believe that this protein is particularly important in cells of the developing bones and skin. It has also been found in enterocytes, which are cells that line the intestine and absorb nutrients.</p>
+text/html/html:p(1): The <i>RECQL4</i> gene provides instructions for making one member of a protein family called RecQ helicases. Helicases are enzymes that bind to DNA and temporarily unwind the two spiral strands (double helix) of the DNA molecule.  This unwinding is necessary for copying (replicating) DNA in preparation for cell division, and for repairing damaged DNA. Because RecQ helicases maintain the structure and integrity of DNA, they are known as the "caretakers of the genome."
+text/html/html:p(2): The RECQL4 protein is active in several types of cells before and after birth. Researchers believe that this protein is particularly important in cells of the developing bones and skin. It has also been found in enterocytes, which are cells that line the intestine and absorb nutrients.
 related-health-condition(1)/name: Baller-Gerold syndrome
 related-health-condition(1)/ghr-page: https://ghr.nlm.nih.gov/condition/baller-gerold-syndrome
 related-health-condition(2)/name: RAPADILINO syndrome

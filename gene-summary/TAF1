@@ -2,7 +2,8 @@ gene-symbol: TAF1
 name: TATA-box binding protein associated factor 1
 ghr-page: https://ghr.nlm.nih.gov/gene/TAF1
 text/text-role: function
-text/html: <p>The <i>TAF1</i> gene provides instructions for making part of a protein called transcription factor IID (TFIID). This protein is active in cells and tissues throughout the body, where it attaches (binds) to DNA.  Transcription factor IID  plays an essential role in regulating the activity of most genes.</p><p>The <i>TAF1</i> gene is part of a complex region of DNA known as the <i>TAF1/DYT3</i> multiple transcript system. This region consists of short stretches of DNA from the <i>TAF1</i> gene plus some extra segments of genetic material near the gene. These stretches of DNA can be combined in different ways to create various sets of instructions for making proteins. Researchers believe that some of these variations are critical for the normal function of nerve cells (neurons) in the brain.</p>
+text/html/html:p(1): The <i>TAF1</i> gene provides instructions for making part of a protein called transcription factor IID (TFIID). This protein is active in cells and tissues throughout the body, where it attaches (binds) to DNA.  Transcription factor IID  plays an essential role in regulating the activity of most genes.
+text/html/html:p(2): The <i>TAF1</i> gene is part of a complex region of DNA known as the <i>TAF1/DYT3</i> multiple transcript system. This region consists of short stretches of DNA from the <i>TAF1</i> gene plus some extra segments of genetic material near the gene. These stretches of DNA can be combined in different ways to create various sets of instructions for making proteins. Researchers believe that some of these variations are critical for the normal function of nerve cells (neurons) in the brain.
 related-health-condition/name: X-linked dystonia-parkinsonism
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/x-linked-dystonia-parkinsonism
 synonym(1): BA2R

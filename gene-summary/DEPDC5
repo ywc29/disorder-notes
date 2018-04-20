@@ -2,7 +2,8 @@ gene-symbol: DEPDC5
 name: DEP domain containing 5
 ghr-page: https://ghr.nlm.nih.gov/gene/DEPDC5
 text/text-role: function
-text/html: <p>The <i>DEPDC5</i> gene provides instructions for making a protein that is one piece of a group of proteins (complex) called GATOR1. This complex is found in cells throughout the body, where it regulates a signaling pathway called the mTOR pathway. The mTOR pathway is involved in cell growth and division (proliferation), the survival of cells, and the creation (synthesis) of new proteins. The role of the GATOR1 complex is to block this pathway by inhibiting (stopping) the activity of a complex called mTOR complex 1 (mTORC1) that is integral to the mTOR pathway.</p><p>In the brain, the mTOR pathway regulates many processes, including the growth and development of nerve cells and their ability to change and adapt over time (plasticity).</p>
+text/html/html:p(1): The <i>DEPDC5</i> gene provides instructions for making a protein that is one piece of a group of proteins (complex) called GATOR1. This complex is found in cells throughout the body, where it regulates a signaling pathway called the mTOR pathway. The mTOR pathway is involved in cell growth and division (proliferation), the survival of cells, and the creation (synthesis) of new proteins. The role of the GATOR1 complex is to block this pathway by inhibiting (stopping) the activity of a complex called mTOR complex 1 (mTORC1) that is integral to the mTOR pathway.
+text/html/html:p(2): In the brain, the mTOR pathway regulates many processes, including the growth and development of nerve cells and their ability to change and adapt over time (plasticity).
 related-health-condition/name: familial focal epilepsy with variable foci
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-focal-epilepsy-with-variable-foci
 synonym(1): DEP.5

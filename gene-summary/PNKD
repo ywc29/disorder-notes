@@ -2,7 +2,8 @@ gene-symbol: PNKD
 name: paroxysmal nonkinesigenic dyskinesia
 ghr-page: https://ghr.nlm.nih.gov/gene/PNKD
 text/text-role: function
-text/html: <p>Researchers have not determined the role of the <i>PNKD</i> gene (frequently called the <i>MR1</i> gene) in the human body. This gene is highly active (expressed) in the brain, which suggests that it plays an important role in normal brain function. The protein produced from the <i>PNKD</i> gene may help control the release of chemicals called neurotransmitters, which allow nerve cells (neurons) to communicate with one another.</p><p>The PNKD protein is similar to another protein that helps break down a chemical called methylglyoxal. Methylglyoxal is found in alcoholic beverages, coffee, tea, and cola. Research has demonstrated that this chemical is toxic to nerve cells (neurons). The PNKD protein may perform a function similar to this protein.</p>
+text/html/html:p(1): Researchers have not determined the role of the <i>PNKD</i> gene (frequently called the <i>MR1</i> gene) in the human body. This gene is highly active (expressed) in the brain, which suggests that it plays an important role in normal brain function. The protein produced from the <i>PNKD</i> gene may help control the release of chemicals called neurotransmitters, which allow nerve cells (neurons) to communicate with one another.
+text/html/html:p(2): The PNKD protein is similar to another protein that helps break down a chemical called methylglyoxal. Methylglyoxal is found in alcoholic beverages, coffee, tea, and cola. Research has demonstrated that this chemical is toxic to nerve cells (neurons). The PNKD protein may perform a function similar to this protein.
 related-health-condition/name: familial paroxysmal nonkinesigenic dyskinesia
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/familial-paroxysmal-nonkinesigenic-dyskinesia
 synonym(1): brain protein 17

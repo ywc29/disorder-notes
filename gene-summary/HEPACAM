@@ -2,7 +2,7 @@ gene-symbol: HEPACAM
 name: hepatic and glial cell adhesion molecule
 ghr-page: https://ghr.nlm.nih.gov/gene/HEPACAM
 text/text-role: function
-text/html: <p>The <i>HEPACAM</i> gene provides instructions for making a protein called GlialCAM. This protein is found in liver cells and certain brain cells known as glial cells. In liver cells, GlialCAM plays a role in the attachment of cells to one another (adhesion) and cell movement. In glial cells, GlialCAM attaches (binds) to other GlialCAM proteins or to other proteins called MLC1 and ClC-2. GlialCAM ensures that these proteins are transported to junctions that connect neighboring glial cells. The function of GlialCAM at the cell junction is unclear.</p>
+text/html/html:p: The <i>HEPACAM</i> gene provides instructions for making a protein called GlialCAM. This protein is found in liver cells and certain brain cells known as glial cells. In liver cells, GlialCAM plays a role in the attachment of cells to one another (adhesion) and cell movement. In glial cells, GlialCAM attaches (binds) to other GlialCAM proteins or to other proteins called MLC1 and ClC-2. GlialCAM ensures that these proteins are transported to junctions that connect neighboring glial cells. The function of GlialCAM at the cell junction is unclear.
 related-health-condition/name: megalencephalic leukoencephalopathy with subcortical cysts
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/megalencephalic-leukoencephalopathy-with-subcortical-cysts
 synonym(1): FLJ25530

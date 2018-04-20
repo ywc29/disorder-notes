@@ -1,7 +1,7 @@
 name: Sensorineural deafness and male infertility
 ghr-page: https://ghr.nlm.nih.gov/condition/sensorineural-deafness-and-male-infertility
 text/text-role: description
-text/html: <p>Sensorineural deafness and male infertility is a condition characterized by hearing loss and an inability to father children. Affected individuals have moderate to severe sensorineural hearing loss, which is caused by abnormalities in the inner ear. The hearing loss is typically diagnosed in early childhood and does not worsen over time. Males with this condition produce sperm that have decreased movement (motility), causing affected males to be infertile.</p>
+text/html/html:p: Sensorineural deafness and male infertility is a condition characterized by hearing loss and an inability to father children. Affected individuals have moderate to severe sensorineural hearing loss, which is caused by abnormalities in the inner ear. The hearing loss is typically diagnosed in early childhood and does not worsen over time. Males with this condition produce sperm that have decreased movement (motility), causing affected males to be infertile.
 inheritance-pattern/code: ar
 inheritance-pattern/memo: autosomal recessive
 related-gene(1)/gene-symbol: CATSPER2

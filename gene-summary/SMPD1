@@ -2,7 +2,7 @@ gene-symbol: SMPD1
 name: sphingomyelin phosphodiesterase 1
 ghr-page: https://ghr.nlm.nih.gov/gene/SMPD1
 text/text-role: function
-text/html: <p>The <i>SMPD1</i> gene provides instructions for making an enzyme called acid sphingomyelinase. This enzyme is found in lysosomes, which are small compartments in the cell that digest and recycle molecules. Acid sphingomyelinase is responsible for the conversion of a fat (lipid) called sphingomyelin into another type of lipid called ceramide. Sphingomyelin also binds (attaches) to a fat called cholesterol and helps to form other lipids that play roles in various cell processes. The formations of these lipids is critical for the normal structure and function of cells and tissues.</p>
+text/html/html:p: The <i>SMPD1</i> gene provides instructions for making an enzyme called acid sphingomyelinase. This enzyme is found in lysosomes, which are small compartments in the cell that digest and recycle molecules. Acid sphingomyelinase is responsible for the conversion of a fat (lipid) called sphingomyelin into another type of lipid called ceramide. Sphingomyelin also binds (attaches) to a fat called cholesterol and helps to form other lipids that play roles in various cell processes. The formations of these lipids is critical for the normal structure and function of cells and tissues.
 related-health-condition/name: Niemann-Pick disease
 related-health-condition/ghr-page: https://ghr.nlm.nih.gov/condition/niemann-pick-disease
 synonym(1): acid sphingomyelinase
