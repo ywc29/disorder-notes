@@ -5,9 +5,15 @@ rows = [] ; curRow = [] ; curCell = [] ; colspan = 0
 def flushRows():
     global rows
     if not rows: return
-    print "----------------------------------------"
+    lastH = None
     for h,v in zip(headings,zip(*rows)):
-        print h+": "+" ".join(v).strip()
+        v = " ".join(v).strip()
+        if not h:
+            if not lastH or not v: continue
+            h = lastH
+        print h+": "+v
+        lastH = h
+    print
     rows = []
 class Parser(HTMLParser):
     def handle_starttag(self, tag, attrs):
