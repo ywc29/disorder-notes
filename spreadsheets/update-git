@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# Make sure LXDE runs us in a terminal
+if ! test "a$1" == at; then lxterminal -e '/bin/bash -c "$HOME/disorder-notes/spreadsheets/update-git t"'; exit; fi
+
+echo Starting
+if ! cd ~/disorder-notes/spreadsheets; then echo directory fail; read; exit 1; fi
+for N in ~/Desktop/For\ oncofocus/*.xlsx; do
+  echo "Converting $N"
+  ssconvert -S "$N" "$(echo "$N"|sed -e 's,.*/,,' -e 's/.xlsx*$//').%s.csv"
+  ssconvert -S "$N" "$(echo "$N"|sed -e 's,.*/,,' -e 's/.xlsx*$//').%s.html"
+done
+echo Committing...
+git add *csv *html
+git commit -am update
+echo Uploading...
+git push
+echo Done
