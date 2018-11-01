@@ -2,16 +2,15 @@ import re
 from HTMLParser import HTMLParser,HTMLParseError
 headings = None
 rows = [] ; curRow = [] ; curCell = [] ; colspan = 0
+print "# -*- mode: rec -*-\n"
 def flushRows():
     global rows
     if not rows: return
     lastH = None
     for h,v in zip(headings,zip(*rows)):
         v = " ".join(v).strip()
-        if not h:
-            if not lastH or not v: continue
-            h = lastH
-        print h+": "+v
+        if not h and lastH: h = lastH+"_"
+        if h and v: print h+": "+v
         lastH = h
     print
     rows = []
@@ -23,7 +22,7 @@ class Parser(HTMLParser):
             if "colspan" in attrsD:
                 colspan = int(attrsD["colspan"])
             else: colspan = 1
-            style = re.sub("font-size:[0-9]*pt; *","",attrsD.get("style","").strip())
+            style = re.sub(" *font-size:[0-9]*pt; *","",attrsD.get("style","").strip())
             if style:
                 curCell.append('<span style="'+style+'">')
                 endNeed = '</span>'
