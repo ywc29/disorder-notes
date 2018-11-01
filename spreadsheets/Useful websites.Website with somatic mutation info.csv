@@ -1,0 +1,9 @@
+"Useful website with somatic mutation informations",,
+Name,Website,Function
+"The Cancer Genomic Atlas (TCGA)",https://cancergenome.nih.gov/,"categorize and characterize mutations"
+"The International Cancer Genomic Consortium (ICGC)",https://dcc.icgc.org/,"categorize and characterize mutations"
+"Catalogue of Somatic Mutations in Cancer (COSMIC)",https://cancer.sanger.ac.uk/cosmic,"categorize and characterize mutations"
+"DGV: Database of Genomic Variants",http://dgv.tcag.ca/dgv/app/home,目的是提供人类染色体结构变异的概况信息，数据库记录了一系列基因变异与表型相关的信息，数据库信息持续更新中。
+"Ref Seq-NCBI Reference Sequence Database",www.ncbi.nlm.nih.gov/refseq,
+"CFTR2 database",https://www.cftr2.org/,"Provides information for patients, researchers, and the general public about specific variants in what is commonly referred to as the cystic fibrosis (CF) gene. For each variant or variant combination included in the database, the website will provide information about:1. Whether the variant or variant combination is CF-causing, and2. Information about sweat chloride, lung function, pancreatic status, and Pseudomonas infection rate in patients in the CFTR2 database with this variant or variant combination."
+SNPaedia,SNPedia.com,"SNPedia is a collection of the subset of SNPs that have been reported to be meaningful, either medically or for other reasons (such as for genealogy). The emphasis in SNPedia is on SNPs that have significant medical consequences, are common, are reproducible (or found in meta-analyses or studies of at least 500 patients), and/or have other historic or medical significance. "
