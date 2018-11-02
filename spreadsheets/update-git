@@ -20,7 +20,7 @@ for N in ~/Desktop/For\ oncofocus/*.xlsx; do
   done
 done &&
 echo Committing... &&
-git add *csv *html *rec &&
+git add *csv *html ../recfiles/*rec &&
 git commit -am update &&
 echo Uploading... &&
 git push &&

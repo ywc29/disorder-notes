@@ -1,100 +1,116 @@
 # -*- mode: rec -*-
 
-%allowed: Record-Type RecordType-Descr Company-name Web-address What-the-company-does Cost Country-of-the-company Remarks
+%allowed: Record_Type Record_SubType RecordType_Descr Company_name Web_address What_the_company_does Cost Country_of_the_company Remarks
 
-Record-Type: gene test companies
-Company-name: Genetic Genie
-Web-address: http://geneticgenie.org/
-What-the-company-does: Methylation and detox analysis from 23andMe results
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: Genetic Genie
+Web_address: http://geneticgenie.org/
+What_the_company_does: Methylation and detox analysis from 23andMe results
 Cost: Free. Donations are needed to pay for the domain and server.
-Country-of-the-company: USA
+Country_of_the_company: USA
 
-Record-Type: gene test companies
-Company-name: Promethease
-Web-address: https://promethease.com/
-What-the-company-does: Thorough analysis of data from 23andMe, Ancestry, FamilyTreeDNA, and Genos,
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: Promethease
+Web_address: https://promethease.com/
+What_the_company_does: Thorough analysis of data from 23andMe, Ancestry, FamilyTreeDNA, and Genos,
 Cost: Most reports cost $10 and are produced in under 10 minutes. Much larger data files (such as imputed full genomes) have increased runtime. Uploading additional data files into the same report costs an additional $4.
 
-Record-Type: gene test companies
-Company-name: LiveWello
-Web-address: https://livewello.com/genetics
-What-the-company-does: Work with raw data from several direct-to-consumer genetic services. LiveWello can process genetic raw data from: 23andMe.com, Ancestry.com (Autosomal DNA), Family Tree DNA (Autosomal DNA), Gene By Gene
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: LiveWello
+Web_address: https://livewello.com/genetics
+What_the_company_does: Work with raw data from several direct-to-consumer genetic services. LiveWello can process genetic raw data from: 23andMe.com, Ancestry.com (Autosomal DNA), Family Tree DNA (Autosomal DNA), Gene By Gene
 Cost: a one time fee of $19.95
 Remarks: LiveWello's Genetic tools will give you reports for 600,000 SNPs, AND attach 12 resources for learning about each gene. As long as a SNP has an rsID and Minor Allele, LiveWello will generate a gene report for you. The reason for this feature is that people should really have all the information about ALL the genes in their raw data not just some of them. That way, you and your Health Practitioner can have the benefit of all this information when creating your treatment plan.
 
-Record-Type: gene test companies
-Company-name: Know your genetics
-Web-address: https://www.knowyourgenetics.com/
-What-the-company-does: Analyze raw SNP data’s methylation pattern and produce nutritional report
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: Know your genetics
+Web_address: https://www.knowyourgenetics.com/
+What_the_company_does: Analyze raw SNP data’s methylation pattern and produce nutritional report
 Cost: Free
 Remarks: Very skeptical website (Scam website????)
 
-Record-Type: gene test companies
-Company-name: Ancestry ProGeneologists
-Web-address: https://www.progenealogists.com/
-What-the-company-does: Using online and offline resources—and experts around the world—we have the experience and passion to help you reach your family history goals, large or small. Expert genetic genealogists can help you find birth parents. Prices start at $2,500 for 20 hours of research
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: Ancestry ProGeneologists
+Web_address: https://www.progenealogists.com/
+What_the_company_does: Using online and offline resources—and experts around the world—we have the experience and passion to help you reach your family history goals, large or small. Expert genetic genealogists can help you find birth parents. Prices start at $2,500 for 20 hours of research
 Cost: 2500GBP 20hrs research
-Country-of-the-company: USA based. Served Canada, UK, IE, Australia
+Country_of_the_company: USA based. Served Canada, UK, IE, Australia
 
-Record-Type: gene test companies
-Company-name: Company name
-Web-address: Website
-What-the-company-does: Products
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: Company name
+Web_address: Website
+What_the_company_does: Products
 Cost: Technology used
-Country-of-the-company: Gene panel
+Country_of_the_company: Gene panel
 Remarks: Sample
 
-Record-Type: gene test companies
-Company-name: Foundation Medicine (to patient/ clinician)
-Web-address: https://www.foundationmedicine.com/
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: Foundation Medicine (to patient/ clinician)
+Web_address: https://www.foundationmedicine.com/
 Remarks: Tumor
 
-Record-Type: gene test companies
-Company-name: Guardant Health (to patient/ clinician)
-Web-address: http://www.guardanthealth.com/
-What-the-company-does: Guardant360 assay
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: Guardant Health (to patient/ clinician)
+Web_address: http://www.guardanthealth.com/
+What_the_company_does: Guardant360 assay
 Remarks: Blood (2 vials)
 
-Record-Type: gene test companies
-Company-name: Oncofocus (to patient/ clinician)
-Web-address: https://www.oncologica.com/oncofocus/?utm_source=adwordsutm_medium=cpcutm_campaign=TESTOLDgclid=Cj0KCQiAgNrQBRC0ARIsAE-m-1wJPtccRf1GXxstv05ze9dtPWyG_guo6CiReSTnSoxu8x0ChPT4TQYaAmi4EALw_wcB
-What-the-company-does: Oncofocus®Test
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: Oncofocus (to patient/ clinician)
+Web_address: https://www.oncologica.com/oncofocus/?utm_source=adwordsutm_medium=cpcutm_campaign=TESTOLDgclid=Cj0KCQiAgNrQBRC0ARIsAE-m-1wJPtccRf1GXxstv05ze9dtPWyG_guo6CiReSTnSoxu8x0ChPT4TQYaAmi4EALw_wcB
+What_the_company_does: Oncofocus®Test
 Cost: next generation sequencing (NGS) by Semiconductor sequencing
-Remarks: <span style="color:#0000FF;"><a href="https://www.oncologica.com/precision-oncology/oncofocus-precision-testing/"><font color="#0000FF">works by firstly sequencing the DNA and RNA of a patient’s tumour which has been extracted from the routine histology sample used for diagnosis.</font></a></span>
+Remarks: works by firstly sequencing the DNA and RNA of a patient’s tumour which has been extracted from the routine histology sample used for diagnosis.
+# NOTE: works by firstly sequencing the DNA and RNA of a patient’s tumour which has been extracted from the routine histology sample used for diagnosis.
 
-Record-Type: gene test companies
-Company-name: Personal Genome Diagnostic (to research companies)
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: Personal Genome Diagnostic (to research companies)
 
-Record-Type: gene test companies
-Company-name: Name of the Company
-Web-address: Website
-What-the-company-does: Sample
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: Name of the Company
+Web_address: Website
+What_the_company_does: Sample
 Cost: Technology platform
-Country-of-the-company: Remarks
+Country_of_the_company: Remarks
 Remarks: Company info
 
-Record-Type: gene test companies
-Company-name: 23andMe
-Web-address: 23andMe.com
-What-the-company-does: saliva
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: 23andMe
+Web_address: 23andMe.com
+What_the_company_does: saliva
 Cost: SNP: V4 chip
-Country-of-the-company: Has sequenced close to a million people and provides comprehensives ancestry reports and genetic health information.
+Country_of_the_company: Has sequenced close to a million people and provides comprehensives ancestry reports and genetic health information.
 
-Record-Type: gene test companies
-Company-name: Promethease
-Web-address: https://promethease.com/
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: Promethease
+Web_address: https://promethease.com/
 
-Record-Type: gene test companies
-Company-name: ancestryDNA
-Web-address: https://www.ancestrydna.co.uk/kits?slid=pgrid=49763031765ptaid=kwd-298852588755s_kwcid=+genetic++testgclid=Cj0KCQjw3KzdBRDWARIsAIJ8TMT99gkUEtAEHE-NQSNN0Ngm94S6Dc1YVYdP5O9AbyxgS-DoWCbWzqcaAkjAEALw_wcBrd=https%3a%2f%2fwww.ancestrydna.co.uk%2fkits%3fo_xid=81658o_lid=81658o_sch=Paid+Search+Non+Brand
-What-the-company-does: saliva
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: ancestryDNA
+Web_address: https://www.ancestrydna.co.uk/kits?slid=pgrid=49763031765ptaid=kwd-298852588755s_kwcid=+genetic++testgclid=Cj0KCQjw3KzdBRDWARIsAIJ8TMT99gkUEtAEHE-NQSNN0Ngm94S6Dc1YVYdP5O9AbyxgS-DoWCbWzqcaAkjAEALw_wcBrd=https%3a%2f%2fwww.ancestrydna.co.uk%2fkits%3fo_xid=81658o_lid=81658o_sch=Paid+Search+Non+Brand
+What_the_company_does: saliva
 Cost: uses microarray-based autosomal DNA testing, which surveys a person’s entire genome at over 700,000 locations, all with a simple saliva sample.
-Country-of-the-company: 79GBP+shipping. estimate your origins to more than 350 regions around the world. more than 10 million people now in our database, help deliver the richest family stories—and solve the toughest family mysteries. normally take about 6-8 weeks to process from the time that the lab receives your DNA sample. Please note that you must also activate your DNA kit online in order to begin processing.
+Country_of_the_company: 79GBP+shipping. estimate your origins to more than 350 regions around the world. more than 10 million people now in our database, help deliver the richest family stories—and solve the toughest family mysteries. normally take about 6-8 weeks to process from the time that the lab receives your DNA sample. Please note that you must also activate your DNA kit online in order to begin processing.
 
-Record-Type: gene test companies
-Company-name: MyHeritage DNA
-Web-address: https://www.myheritage.com/dna?utm_source=ppc_googleutm_medium=cpcutm_campaign=mh_search_uk_en_des_mhdna_phrase_dna-genericutm_content=263088622745utm_term=genetics+testingtr_camp_id=696842150tr_ad_group=genetic_testingtr_ag_id=35708474305tr_placement=tr_device=ctr_account=626-021-8538keyword=tr_size=recordtype=recordlocation=gclid=Cj0KCQjw3KzdBRDWARIsAIJ8TMSTc7ZZjqaqk3urzu8sPxcHBW6mK1FZzcywc1gaghIA0xAZOPBA7MIaAsWmEALw_wcB
-What-the-company-does: saliva
-Country-of-the-company: Uncover your ethnic origins and find new relatives with our simple DNA test. Was 75GBP, now 59GBP for promotion time. All testing is done in our world-leading CLIA-certified, CAP-accredited laboratory in the United States.
+Record_Type: gene test companies
+Record_SubType: Raw genetic data reanalysis
+Company_name: MyHeritage DNA
+Web_address: https://www.myheritage.com/dna?utm_source=ppc_googleutm_medium=cpcutm_campaign=mh_search_uk_en_des_mhdna_phrase_dna-genericutm_content=263088622745utm_term=genetics+testingtr_camp_id=696842150tr_ad_group=genetic_testingtr_ag_id=35708474305tr_placement=tr_device=ctr_account=626-021-8538keyword=tr_size=recordtype=recordlocation=gclid=Cj0KCQjw3KzdBRDWARIsAIJ8TMSTc7ZZjqaqk3urzu8sPxcHBW6mK1FZzcywc1gaghIA0xAZOPBA7MIaAsWmEALw_wcB
+What_the_company_does: saliva
+Country_of_the_company: Uncover your ethnic origins and find new relatives with our simple DNA test. Was 75GBP, now 59GBP for promotion time. All testing is done in our world-leading CLIA-certified, CAP-accredited laboratory in the United States.
 Remarks: Based in USA. Served EU, UK, Aus
 

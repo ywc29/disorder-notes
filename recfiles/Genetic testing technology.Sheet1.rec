@@ -1,43 +1,50 @@
 # -*- mode: rec -*-
 
-%allowed: Record-Type RecordType-Descr Name Principle Machines Developed-Company Function Website
+%allowed: Record_Type Record_SubType RecordType_Descr Name Principle Machines Developed_Company Function Website
 
-Record-Type: Genetic testing technology
-RecordType-Descr: Genetic-Testing-Technology
+Record_Type: Genetic testing technology
+Record_SubType: Sheet1
+RecordType_Descr: Genetic_Testing_Technology
 Name: Next generation sequencing
 Principle: Synthesis by chemistry
 Machines: HiSeq, MiSeq
-Developed-Company: Illumina
+Developed_Company: Illumina
 Function: High throughput sequencing
 Website: https://emea.illumina.com/
 
-Record-Type: Genetic testing technology
-RecordType-Descr: Genetic-Testing-Technology
+Record_Type: Genetic testing technology
+Record_SubType: Sheet1
+RecordType_Descr: Genetic_Testing_Technology
 Name: XNA (Xenonucleic acid) molecular clamping technology
-Developed-Company: DiaCarta
+Developed_Company: DiaCarta
 Function: Detects reliably below 1% Mutant DNA by PCR
-Website: <span style="color:#0000FF;"><a href="http://www.diacarta.com/"><font color="#0000FF">http://www.diacarta.com</font></a></span>
+Website: http://www.diacarta.com
+# NOTE: http://www.diacarta.com
 
-Record-Type: Genetic testing technology
-RecordType-Descr: Genetic-Testing-Technology
+Record_Type: Genetic testing technology
+Record_SubType: Sheet1
+RecordType_Descr: Genetic_Testing_Technology
 Name: Microarray
 Principle: Microarray
-Developed-Company: Affymetrix
+Developed_Company: Affymetrix
 Website: https://www.thermofisher.com/uk/en/home/life-science/microarray-analysis/microarray-analysis-instruments-software-services/microarray-analysis-services.html
 
-Record-Type: Genetic testing technology
-RecordType-Descr: Genetic-Testing-Technology
+Record_Type: Genetic testing technology
+Record_SubType: Sheet1
+RecordType_Descr: Genetic_Testing_Technology
 Name: Microarray
-Developed-Company: Agilent
+Developed_Company: Agilent
 Website: https://www.agilent.com/labs/features/2011_101_microarray.html
 
-Record-Type: Genetic testing technology
-RecordType-Descr: Genetic-Testing-Technology
+Record_Type: Genetic testing technology
+Record_SubType: Sheet1
+RecordType_Descr: Genetic_Testing_Technology
 Name: Roche/454
-Developed-Company: Roche
+Developed_Company: Roche
 
-Record-Type: Genetic testing technology
-RecordType-Descr: Genetic-Testing-Technology
+Record_Type: Genetic testing technology
+Record_SubType: Sheet1
+RecordType_Descr: Genetic_Testing_Technology
 Name: SOLiD
-Developed-Company: Life Technologies
+Developed_Company: Life Technologies
 

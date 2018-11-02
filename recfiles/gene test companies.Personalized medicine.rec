@@ -1,106 +1,128 @@
 # -*- mode: rec -*-
 
-%allowed: Record-Type RecordType-Descr Company-name Website Products Technology-used Gene-panel Sample Leader/-Team Aim Location Remarks
+%allowed: Record_Type Record_SubType RecordType_Descr Company_name Website Products Technology_used Gene_panel Sample Leader/_Team Aim Location Remarks
 
-Record-Type: gene test companies
-Company-name: Foundation Medicine (to patient/ clinician)
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: Foundation Medicine (to patient/ clinician)
 Website: https://www.foundationmedicine.com/
 Sample: Tumor
 Aim: Our assays provide biomarker information to help match patients to approved targeted therapies, immunotherapies, and clinical trials—giving doctors and patients powerful actionable insights for navigating cancer care.
 Location: CA, USA
 
-Record-Type: gene test companies
-Company-name: Guardant Health (to patient/ clinician)
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: Guardant Health (to patient/ clinician)
 Website: http://www.guardanthealth.com/
 Products: Guardant360 assay
 Sample: Blood (2 vials)
 Aim: focused on conquering cancer by using its breakthrough blood-based assays, vast data sets, and advanced analytics.
 
-Record-Type: gene test companies
-Company-name: Oncofocus (to patient/ clinician)
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: Oncofocus (to patient/ clinician)
 Website: https://www.oncologica.com/oncofocus/?utm_source=adwordsutm_medium=cpcutm_campaign=TESTOLDgclid=Cj0KCQiAgNrQBRC0ARIsAE-m-1wJPtccRf1GXxstv05ze9dtPWyG_guo6CiReSTnSoxu8x0ChPT4TQYaAmi4EALw_wcB
 Products: Oncofocus®Test
-Technology-used: next generation sequencing (NGS) by Semiconductor sequencing
-Sample: <span style="color:#0000FF;"><a href="https://www.oncologica.com/precision-oncology/oncofocus-precision-testing/"><font color="#0000FF">works by firstly sequencing the DNA and RNA of a patient’s tumour which has been extracted from the routine histology sample used for diagnosis.</font></a></span>
+Technology_used: next generation sequencing (NGS) by Semiconductor sequencing
+Sample: works by firstly sequencing the DNA and RNA of a patient’s tumour which has been extracted from the routine histology sample used for diagnosis.
+# NOTE: works by firstly sequencing the DNA and RNA of a patient’s tumour which has been extracted from the routine histology sample used for diagnosis.
 Aim: New Precision Oncology Cancer Test to identify the most effective anti cancer-treatment,
 Location: Chesterford Research Park, Cambridge, UK
 Remarks: Oncofocus®currently targets 505 genes covering  oncogenes, fusion genes, genes susceptible to copy number variation and tumour suppressors. The Test also includes analysis of tumour mutational burden (TMB) which specifically predicts response to immunotherapy. Actionable genetic variants detected by Oncofocus®are currently linked to 717 anti-cancer targeted therapies/therapy combinations. Targeted actionable hotspots include SNVs, indels, CNVs and gene fusions. Notably these driver cancer genes have been selected because they are the most clinically relevant and have been approved for reimbursement in the US.
 
-Record-Type: gene test companies
-Company-name: Personal Genome Diagnostic (to research companies)
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: Personal Genome Diagnostic (to research companies)
 
-Record-Type: gene test companies
-Company-name: Name of the Company
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: Name of the Company
 Website: Website
 Products: Sample
-Technology-used: Technology platform
-Gene-panel: Remarks
+Technology_used: Technology platform
+Gene_panel: Remarks
 Sample: Company info
 
-Record-Type: gene test companies
-Company-name: 23andMe
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: 23andMe
 Website: 23andMe.com
 Products: saliva
-Technology-used: SNP: V4 chip
-Gene-panel: Has sequenced close to a million people and provides comprehensives ancestry reports and genetic health information.
+Technology_used: SNP: V4 chip
+Gene_panel: Has sequenced close to a million people and provides comprehensives ancestry reports and genetic health information.
 
-Record-Type: gene test companies
-Company-name: Promethease
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: Promethease
 Website: https://promethease.com/
 
-Record-Type: gene test companies
-Company-name: ancestryDNA
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: ancestryDNA
 Website: https://www.ancestrydna.co.uk/kits?slid=pgrid=49763031765ptaid=kwd-298852588755s_kwcid=+genetic++testgclid=Cj0KCQjw3KzdBRDWARIsAIJ8TMT99gkUEtAEHE-NQSNN0Ngm94S6Dc1YVYdP5O9AbyxgS-DoWCbWzqcaAkjAEALw_wcBrd=https%3a%2f%2fwww.ancestrydna.co.uk%2fkits%3fo_xid=81658o_lid=81658o_sch=Paid+Search+Non+Brand
 Products: saliva
-Technology-used: uses microarray-based autosomal DNA testing, which surveys a person’s entire genome at over 700,000 locations, all with a simple saliva sample.
-Gene-panel: 79GBP+shipping. estimate your origins to more than 350 regions around the world. more than 10 million people now in our database, help deliver the richest family stories—and solve the toughest family mysteries. normally take about 6-8 weeks to process from the time that the lab receives your DNA sample. Please note that you must also activate your DNA kit online in order to begin processing.
+Technology_used: uses microarray-based autosomal DNA testing, which surveys a person’s entire genome at over 700,000 locations, all with a simple saliva sample.
+Gene_panel: 79GBP+shipping. estimate your origins to more than 350 regions around the world. more than 10 million people now in our database, help deliver the richest family stories—and solve the toughest family mysteries. normally take about 6-8 weeks to process from the time that the lab receives your DNA sample. Please note that you must also activate your DNA kit online in order to begin processing.
 
-Record-Type: gene test companies
-Company-name: MyHeritage DNA
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: MyHeritage DNA
 Website: https://www.myheritage.com/dna?utm_source=ppc_googleutm_medium=cpcutm_campaign=mh_search_uk_en_des_mhdna_phrase_dna-genericutm_content=263088622745utm_term=genetics+testingtr_camp_id=696842150tr_ad_group=genetic_testingtr_ag_id=35708474305tr_placement=tr_device=ctr_account=626-021-8538keyword=tr_size=recordtype=recordlocation=gclid=Cj0KCQjw3KzdBRDWARIsAIJ8TMSTc7ZZjqaqk3urzu8sPxcHBW6mK1FZzcywc1gaghIA0xAZOPBA7MIaAsWmEALw_wcB
 Products: saliva
-Gene-panel: Uncover your ethnic origins and find new relatives with our simple DNA test. Was 75GBP, now 59GBP for promotion time. All testing is done in our world-leading CLIA-certified, CAP-accredited laboratory in the United States.
+Gene_panel: Uncover your ethnic origins and find new relatives with our simple DNA test. Was 75GBP, now 59GBP for promotion time. All testing is done in our world-leading CLIA-certified, CAP-accredited laboratory in the United States.
 Sample: Based in USA. Served EU, UK, Aus
 
-Record-Type: gene test companies
-Company-name: <b>Company name</b>
-Website: <b>Web address</b>
-Products: <b>What the company does</b>
-Technology-used: <b>Cost</b>
-Gene-panel: <b>Country of the company</b>
-Sample: <b>Remarks</b>
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: Company name
+# NOTE: Company name
+Website: Web address
+# NOTE: Web address
+Products: What the company does
+# NOTE: What the company does
+Technology_used: Cost
+# NOTE: Cost
+Gene_panel: Country of the company
+# NOTE: Country of the company
+Sample: Remarks
+# NOTE: Remarks
 
-Record-Type: gene test companies
-Company-name: Genetic Genie
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: Genetic Genie
 Website: http://geneticgenie.org/
 Products: Methylation and detox analysis from 23andMe results
-Technology-used: Free. Donations are needed to pay for the domain and server.
-Gene-panel: USA
+Technology_used: Free. Donations are needed to pay for the domain and server.
+Gene_panel: USA
 
-Record-Type: gene test companies
-Company-name: Promethease
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: Promethease
 Website: https://promethease.com/
 Products: Thorough analysis of data from 23andMe, Ancestry, FamilyTreeDNA, and Genos,
-Technology-used: Most reports cost $10 and are produced in under 10 minutes. Much larger data files (such as imputed full genomes) have increased runtime. Uploading additional data files into the same report costs an additional $4.
+Technology_used: Most reports cost $10 and are produced in under 10 minutes. Much larger data files (such as imputed full genomes) have increased runtime. Uploading additional data files into the same report costs an additional $4.
 
-Record-Type: gene test companies
-Company-name: LiveWello
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: LiveWello
 Website: https://livewello.com/genetics
 Products: Work with raw data from several direct-to-consumer genetic services. LiveWello can process genetic raw data from: 23andMe.com, Ancestry.com (Autosomal DNA), Family Tree DNA (Autosomal DNA), Gene By Gene
-Technology-used: a one time fee of $19.95
+Technology_used: a one time fee of $19.95
 Sample: LiveWello's Genetic tools will give you reports for 600,000 SNPs, AND attach 12 resources for learning about each gene. As long as a SNP has an rsID and Minor Allele, LiveWello will generate a gene report for you. The reason for this feature is that people should really have all the information about ALL the genes in their raw data not just some of them. That way, you and your Health Practitioner can have the benefit of all this information when creating your treatment plan.
 
-Record-Type: gene test companies
-Company-name: Know your genetics
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: Know your genetics
 Website: https://www.knowyourgenetics.com/
 Products: Analyze raw SNP data’s methylation pattern and produce nutritional report
-Technology-used: Free
+Technology_used: Free
 Sample: Very skeptical website (Scam website????)
 
-Record-Type: gene test companies
-Company-name: Ancestry ProGeneologists
+Record_Type: gene test companies
+Record_SubType: Personalized medicine
+Company_name: Ancestry ProGeneologists
 Website: https://www.progenealogists.com/
 Products: Using online and offline resources—and experts around the world—we have the experience and passion to help you reach your family history goals, large or small. Expert genetic genealogists can help you find birth parents. Prices start at $2,500 for 20 hours of research
-Technology-used: 2500GBP 20hrs research
-Gene-panel: USA based. Served Canada, UK, IE, Australia
+Technology_used: 2500GBP 20hrs research
+Gene_panel: USA based. Served Canada, UK, IE, Australia
 

@@ -1,126 +1,168 @@
 # -*- mode: rec -*-
 
-%allowed: Record-Type RecordType-Descr Genes-and-drugs https://www.ncbi.nlm.nih.gov/books/NBK61999/
+%allowed: Record_Type Record_SubType RecordType_Descr Genes_and_drugs https://www.ncbi.nlm.nih.gov/books/NBK61999/
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Disease
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Disease
 https://www.ncbi.nlm.nih.gov/books/NBK61999/: Drug
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: HIV
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: HIV
 https://www.ncbi.nlm.nih.gov/books/NBK61999/: Abacavir
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: gout and hyperuricemia
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: gout and hyperuricemia
 https://www.ncbi.nlm.nih.gov/books/NBK61999/: Allopurinol
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: major depression, obsessive-compulsive disorder, panic attacks, generalized anxiety disorder, post-traumatic stress disorder, and bulimia
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: major depression, obsessive-compulsive disorder, panic attacks, generalized anxiety disorder, post-traumatic stress disorder, and bulimia
 https://www.ncbi.nlm.nih.gov/books/NBK61999/: Amitriptyline
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: schizophrenia, bipolar disorder, major depressive disorder, irritability associated with autistic disorder, and treatment of Tourette’s disorder
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: schizophrenia, bipolar disorder, major depressive disorder, irritability associated with autistic disorder, and treatment of Tourette’s disorder
 https://www.ncbi.nlm.nih.gov/books/NBK61999/: Aripiprazole
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Company Logo
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Company Logo
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: List of acredited laboratories all over the world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: List of acredited laboratories all over the world
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: <b>Country</b>
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Country
+# NOTE: Country
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: <u>America</u>
-https://www.ncbi.nlm.nih.gov/books/NBK61999/: <u></u>
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: America
+# NOTE: America
+https://www.ncbi.nlm.nih.gov/books/NBK61999/: 
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: USA
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: USA
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Canada
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Canada
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Mexico
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Mexico
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Colombia
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Colombia
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Brazil
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Brazil
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Argentina
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Argentina
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: <u>Europe</u>
-https://www.ncbi.nlm.nih.gov/books/NBK61999/: <u></u>
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Europe
+# NOTE: Europe
+https://www.ncbi.nlm.nih.gov/books/NBK61999/: 
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Finland
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Finland
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Sweden
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Sweden
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Poland
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Poland
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Hungary
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Hungary
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Germany
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Germany
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: France
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: France
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Greece
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Greece
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Italy
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Italy
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: England
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: England
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: <u>Asia</u>
-https://www.ncbi.nlm.nih.gov/books/NBK61999/: <u></u>
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Asia
+# NOTE: Asia
+https://www.ncbi.nlm.nih.gov/books/NBK61999/: 
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: India
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: India
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: China
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: China
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Australia
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Australia
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: New Zealand
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: New Zealand
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Taiwan
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Taiwan
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Japan
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Japan
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: South Korea
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: South Korea
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Prenatal test
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Prenatal test
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: AIDs test
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: AIDs test
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Cancer risk test
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Cancer risk test
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: Dementia risk test
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: Dementia risk test
 
-Record-Type: structure of the website for genetic testing
-Genes-and-drugs: IQ test
+Record_Type: structure of the website for genetic testing
+Record_SubType: Genes and drugs
+Genes_and_drugs: IQ test
 

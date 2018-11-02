@@ -1,161 +1,207 @@
 # -*- mode: rec -*-
 
-%allowed: Record-Type RecordType-Descr Country Address Website Services-provides Price
+%allowed: Record_Type Record_SubType RecordType_Descr Country Address Website Services_provides Price
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
-Country: <u>America</u> <u></u>
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
+Country: America 
+# NOTE: America
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: USA
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Canada
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Mexico
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Colombia
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Brazil
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Argentina
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
-Country: <u>Europe</u> <u></u>
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
+Country: Europe 
+# NOTE: Europe
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Finland
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Sweden
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Poland
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Hungary
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Germany
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: France
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Greece
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Italy
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: England
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
-Country: <u>Asia</u> <u></u>
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
+Country: Asia 
+# NOTE: Asia
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: India
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: China
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Australia
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: New Zealand
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Taiwan
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Japan
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: South Korea
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Company Logo
-Address: day and time   <span style="color:#00000A;"><font color="#00000A">主頁</font></span> 尋找我的基因檢測服務  Ask what type of test:  婚前Premarital test (gender, ethnic group, want to check infertility? Cancer risk? Dementia risk)  癌症cancer risk (gender  腦退化risk of dementia  基因缺陷genetic defects  risk of自身免疫缺乏症  IQ/EQ testing  藥物反應
-Website: Clinic search Locations   <span style="color:#00000A;"><font color="#00000A">有關基因檢測</font></span>  -基因檢測類型  -基因檢測流程
-Services-provides: login/registration <span style="color:#00000A;"><font color="#00000A">CS在線諮詢</font></span>   瞭解這些事 <span style="color:#00000A;"><font color="#00000A">常見問題</font></span> 男丶女不孕的多種基因因素  流產，習慣性流產  多了染色體  無月經  脊髓性肌肉萎縮症  Sudden death  Down’s syndrome  早死：夭折、活不過大人/小孩/嬰兒  Increased risk of having cancer  lack of apitide  factors affecting hair loss  factors affecting anxiety  factors leading to seizures  factors affecting movement  lack of energy?  Male?Female?  Vision loss  Hearing loss  Breast Cancer risk (man and woman)  Ovarian Cancer  Feminine cancer
-Price: <span style="color:#00000A;"><font color="#00000A">關於我們</font></span> Call us Webchat email us
+Address: day and time   主頁 尋找我的基因檢測服務  Ask what type of test:  婚前Premarital test (gender, ethnic group, want to check infertility? Cancer risk? Dementia risk)  癌症cancer risk (gender  腦退化risk of dementia  基因缺陷genetic defects  risk of自身免疫缺乏症  IQ/EQ testing  藥物反應
+# NOTE: 主頁
+Website: Clinic search Locations   有關基因檢測  -基因檢測類型  -基因檢測流程
+# NOTE: 有關基因檢測
+Services_provides: login/registration CS在線諮詢   瞭解這些事 常見問題 男丶女不孕的多種基因因素  流產，習慣性流產  多了染色體  無月經  脊髓性肌肉萎縮症  Sudden death  Down’s syndrome  早死：夭折、活不過大人/小孩/嬰兒  Increased risk of having cancer  lack of apitide  factors affecting hair loss  factors affecting anxiety  factors leading to seizures  factors affecting movement  lack of energy?  Male?Female?  Vision loss  Hearing loss  Breast Cancer risk (man and woman)  Ovarian Cancer  Feminine cancer
+# NOTE: CS在線諮詢
+# NOTE: 常見問題
+Price: 關於我們 Call us Webchat email us
+# NOTE: 關於我們
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Prenatal test
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: AIDs test
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Cancer risk test
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Dementia risk test
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: IQ test
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Genes and drugs https://www.ncbi.nlm.nih.gov/books/NBK61999/
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: Disease Drug
 Address: Molecules involved
 Website: website
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: HIV Abacavir
 Address: HLA-B*57:01
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: gout and hyperuricemia Allopurinol
-Address: <i>HLA-B*58:01</i>
+Address: HLA-B*58:01
+# NOTE: HLA-B*58:01
 Website: https://www.ncbi.nlm.nih.gov/books/NBK127547/
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: major depression, obsessive-compulsive disorder, panic attacks, generalized anxiety disorder, post-traumatic stress disorder, and bulimia Amitriptyline
 
-Record-Type: structure of the website for genetic testing
-RecordType-Descr: List-of-acredited-laboratories-all-over-the-world
+Record_Type: structure of the website for genetic testing
+Record_SubType: Lab list
+RecordType_Descr: List_of_acredited_laboratories_all_over_the_world
 Country: schizophrenia, bipolar disorder, major depressive disorder, irritability associated with autistic disorder, and treatment of Tourette’s disorder Aripiprazole
 

@@ -1,821 +1,965 @@
 # -*- mode: rec -*-
 
-%allowed: Record-Type RecordType-Descr Country Company-name Website Service-provides
+%allowed: Record_Type Record_SubType RecordType_Descr Country Company_name Website Service_provides
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: USA 1
-Company-name: Illumina
+Company_name: Illumina
 Website: https://emea.illumina.com/
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: DNA extraction service
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Companies providing genetic data analysis
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Name
-Company-name: Website
+Company_name: Website
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Software for genetic analysis
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Name
-Company-name: Website
+Company_name: Website
 Website: Target
-Service-provides: Price
+Service_provides: Price
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Companies providing genetic tests
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Country
-Company-name: <b>Company name</b>
-Website: <b>Website</b>
-Service-provides: <b>Services provide</b>
+Company_name: Company name
+# NOTE: Company name
+Website: Website
+# NOTE: Website
+Service_provides: Services provide
+# NOTE: Services provide
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: UK
-Company-name: Atlas Biomed
+Company_name: Atlas Biomed
 Website: https://atlasbiomed.com/uk
-Service-provides: Atlas DNA Test (149GBP) and the Atlas Microbiome Test (139GBP)
+Service_provides: Atlas DNA Test (149GBP) and the Atlas Microbiome Test (139GBP)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: UK
-Company-name: GeneHealth UK
+Company_name: GeneHealth UK
 Website: https://www.genehealthuk.com/genetic-testing-cancer?keyword=genetic%20testing%20for%20cancermatchtype=enetwork=gdevice=cgclid=Cj0KCQiAgNrQBRC0ARIsAE-m-1zL3pCav8qwgC283WSIrkUt1kVX61iRZyYlDvvNMe54nzeCQpEliv4aAslyEALw_wcB
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: CA
-Company-name: 23andMe
+Company_name: 23andMe
 Website: https://www.23andme.com/en-gb/compare-dna-tests/
-Service-provides: Ancestry service (79GBP) Health + Ancestry service (149 GBP) (can review the DNA result regularly, for genetic traits info and health risk) (remarks: raw data feature is suitably only for informational use and not for medical, diagnostic or other use. Consult with a healthcare professional before making any major changes in lifestyle) (The test does not cover the variants that maybe more common in people of Asian descent)All saliva samples are processed in labs in the United States that meet local regulations. Once participants answer online survey questions, researchers link their genetic data to study topics from ancestry, to traits, to disease. These contributions help drive scientific discoveries. The choice to opt into or out of research is always up to the participant. 23andMe is the first and only genetic service available directly to consumers that includes reports that meet FDA standards.
+Service_provides: Ancestry service (79GBP) Health + Ancestry service (149 GBP) (can review the DNA result regularly, for genetic traits info and health risk) (remarks: raw data feature is suitably only for informational use and not for medical, diagnostic or other use. Consult with a healthcare professional before making any major changes in lifestyle) (The test does not cover the variants that maybe more common in people of Asian descent)All saliva samples are processed in labs in the United States that meet local regulations. Once participants answer online survey questions, researchers link their genetic data to study topics from ancestry, to traits, to disease. These contributions help drive scientific discoveries. The choice to opt into or out of research is always up to the participant. 23andMe is the first and only genetic service available directly to consumers that includes reports that meet FDA standards.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: CA
-Company-name: Bambni Test (Berry Genomics贝瑞和康)
+Company_name: Bambni Test (Berry Genomics贝瑞和康)
 Website: http://www.berrygenomics.com/bambnitest/technology/theory/
-Service-provides: Noninvasive prenatal test (PINT)
+Service_provides: Noninvasive prenatal test (PINT)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: CA
-Company-name: MaterniT21 PLUS Test (Sequenom)
-Service-provides: Noninvasive prenatal test (PINT)
+Company_name: MaterniT21 PLUS Test (Sequenom)
+Service_provides: Noninvasive prenatal test (PINT)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: CA
-Company-name: NIFTY Test (BGI)
-Service-provides: Noninvasive prenatal test (PINT)
+Company_name: NIFTY Test (BGI)
+Service_provides: Noninvasive prenatal test (PINT)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: CA
-Company-name: Panorama Prenatal Screen (Natera)
-Service-provides: Noninvasive prenatal test (PINT)
+Company_name: Panorama Prenatal Screen (Natera)
+Service_provides: Noninvasive prenatal test (PINT)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: CA
-Company-name: PrenaTest (LifeCodexx AG)
-Service-provides: Noninvasive prenatal test (PINT)
+Company_name: PrenaTest (LifeCodexx AG)
+Service_provides: Noninvasive prenatal test (PINT)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: CA
-Company-name: Verifi Prenatal Test (Illumina)
-Service-provides: Noninvasive prenatal test (PINT) that screens for multiple fetal chromosomal aneuploidies. Directly analyzes cell-free fetal and maternal DNA; High detection rate. Test as early as 10 weeks gestational age (8 weeks of fetal age as determined by date of conception) with no limitations regarding ethnicity, body mass index (BMI), assisted reproductive technology (ART), or egg donor cases. *Noninvasive prenatal testing (NIPT) is a screening test. Results should be confirmed by diagnostic testing prior to making any pregnancy management decisions.
+Company_name: Verifi Prenatal Test (Illumina)
+Service_provides: Noninvasive prenatal test (PINT) that screens for multiple fetal chromosomal aneuploidies. Directly analyzes cell-free fetal and maternal DNA; High detection rate. Test as early as 10 weeks gestational age (8 weeks of fetal age as determined by date of conception) with no limitations regarding ethnicity, body mass index (BMI), assisted reproductive technology (ART), or egg donor cases. *Noninvasive prenatal testing (NIPT) is a screening test. Results should be confirmed by diagnostic testing prior to making any pregnancy management decisions.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: CA
-Company-name: IONA Test (Premaltha)
-Service-provides: Noninvasive prenatal test (PINT)
+Company_name: IONA Test (Premaltha)
+Service_provides: Noninvasive prenatal test (PINT)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: CA
-Company-name: Harmony Prenatal Test (Arlosa)*
-Service-provides: Noninvasive prenatal test (PINT)
+Company_name: Harmony Prenatal Test (Arlosa)*
+Service_provides: Noninvasive prenatal test (PINT)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: CA
-Company-name: 香港雅士能基因科技有限公司（Xcelom
+Company_name: 香港雅士能基因科技有限公司（Xcelom
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Germany
-Company-name: MGZ Medical Genetics Center.
-Service-provides: 90% of the samples MGZ analyzes with the CytoSNP-850K BeadChip are postnatal. These analyses help identify the causes of autism spectrum disorders, intellectual disability (ID), dysmorphic features, or neurological disorders such as epilepsy. MGZ also performs prenatal analysis with conventional karyotyping, chromosomal microarrays, and noninvasive prenatal testing (NIPT) for chromosomal aneuploidy (abnormal number of chromosomes). Uses the MiSeq and NextSeq®500 Systems to run a large number of custom panels to identify variants associated with rare hereditary diseases and the TruSight Cancer Sequencing Panel, which targets 94 genes with suspected associations to common and rare cancers. The sequencing panel also includes 284 SNPs suspected to correlate with cancer through genome-wide association studies (GWAS).The TruSight Cancer Sequencing Panel is a test method that anyone<br>can adapt easily in their laboratory,”Dr. Benet-Pagès said.“It’s easy to implement in automated workflows and performs with high repeatability and reproducibility. The TruSight Cancer Panel enables us to analyze more genes in a single workflow than previous technologies. The advantage is that we can identify potential mutations in cancer associated genes not primarily tested.
+Company_name: MGZ Medical Genetics Center.
+Service_provides: 90% of the samples MGZ analyzes with the CytoSNP-850K BeadChip are postnatal. These analyses help identify the causes of autism spectrum disorders, intellectual disability (ID), dysmorphic features, or neurological disorders such as epilepsy. MGZ also performs prenatal analysis with conventional karyotyping, chromosomal microarrays, and noninvasive prenatal testing (NIPT) for chromosomal aneuploidy (abnormal number of chromosomes). Uses the MiSeq and NextSeq®500 Systems to run a large number of custom panels to identify variants associated with rare hereditary diseases and the TruSight Cancer Sequencing Panel, which targets 94 genes with suspected associations to common and rare cancers. The sequencing panel also includes 284 SNPs suspected to correlate with cancer through genome-wide association studies (GWAS).The TruSight Cancer Sequencing Panel is a test method that anyonecan adapt easily in their laboratory,”Dr. Benet-Pagès said.“It’s easy to implement in automated workflows and performs with high repeatability and reproducibility. The TruSight Cancer Panel enables us to analyze more genes in a single workflow than previous technologies. The advantage is that we can identify potential mutations in cancer associated genes not primarily tested.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Germany
-Company-name: SynapDx
-Service-provides: Study autism
+Company_name: SynapDx
+Service_provides: Study autism
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Germany
-Company-name: Hamilton
+Company_name: Hamilton
 Website: https://www.hamiltoncompany.com/products/automated-liquid-handling/standard-solutions/veriseq-nipt-microlab-star
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Germany
-Company-name: Atlas-Biolabs
+Company_name: Atlas-Biolabs
 Website: http://www.atlas-biolabs.com/company
-Service-provides: ATLAS Biolabs performs genome-wide gene expression and SNP analyses, array CGH, comprehensive mutation profiling and next-generation sequencing for academic institutions, pharmaceutical and biotechnological enterprises, as well as for clinicians and registered doctors. ATLAS Biolabs is a Certified Affymetrix, Agilent and NimbleGen Service Provider. ATLAS Biolabs is certified according to the international standard DIN EN ISO 9001:2008 and EN ISO 13485:2012 + AC:2012. All production processes are subject to rigorous quality control at all steps.
+Service_provides: ATLAS Biolabs performs genome-wide gene expression and SNP analyses, array CGH, comprehensive mutation profiling and next-generation sequencing for academic institutions, pharmaceutical and biotechnological enterprises, as well as for clinicians and registered doctors. ATLAS Biolabs is a Certified Affymetrix, Agilent and NimbleGen Service Provider. ATLAS Biolabs is certified according to the international standard DIN EN ISO 9001:2008 and EN ISO 13485:2012 + AC:2012. All production processes are subject to rigorous quality control at all steps.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: UK
-Company-name: Birmingham’s woman NHS
-Service-provides: solid tumour 28 gene panel solid tumour 60 gene panel solid tumour 9 gene panel
+Company_name: Birmingham’s woman NHS
+Service_provides: solid tumour 28 gene panel solid tumour 60 gene panel solid tumour 9 gene panel
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: HK
-Company-name: Rainbow genomics
+Company_name: Rainbow genomics
 Website: https://www.rainbowgenomics.com/new-index-2#new-page-7
-Service-provides: Cancer risk test
+Service_provides: Cancer risk test
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Human Genetic test kits
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: <b>Name</b>
-Company-name: <b>Remarks</b>
-Website: <b>Provider company</b>
-Service-provides: <b>Input DNA</b>
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
+Country: Name
+# NOTE: Name
+Company_name: Remarks
+# NOTE: Remarks
+Website: Provider company
+# NOTE: Provider company
+Service_provides: Input DNA
+# NOTE: Input DNA
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: https://emea.illumina.com/products/by-type/microarray-kits.html
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: HumanCytoSNP-12 v2.1 BeadChip Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: Human DNA from solid tumor or haematological disease
+Service_provides: Human DNA from solid tumor or haematological disease
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: HumanCytoSNP FFPE-12 v2.1 DNA Analysis BeadChip Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA. From paired normal and tumor tissue
+Service_provides: FFPE tissue. 200 ng human DNA. From paired normal and tumor tissue
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium Core-24 Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium CoreExome-24 BeadChip
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. Human DNA.
+Service_provides: FFPE tissue. Human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium CytoSNP-850K v1.1 BeadChip
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium Exome-24 Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium®Global Screening Array-24 v1.0 Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: Saliva, blood, buccal swabs, and formalin-fixed, paraffin-embedded (FFPE) samples (with optional FFPE restore kit). 200Ng human DNA
+Service_provides: Saliva, blood, buccal swabs, and formalin-fixed, paraffin-embedded (FFPE) samples (with optional FFPE restore kit). 200Ng human DNA
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium ImmunoArray-24 v2 BeadChip Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium MethylationEPIC BeadChip Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue, Low-Input Samples. 250 ng human DNA
+Service_provides: FFPE tissue, Low-Input Samples. 250 ng human DNA
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium Multi-Ethnic AMR/AFR-8 v1.0 Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium Multi-Ethnic EUR/EAS/SAS-8 v1.0 Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium Multi-Ethnic Global-8 v1.0 Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium Omni2.5-8 v1.3 Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium Omni2.5Exome-8 v1.3 Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium®Omni5-4 v1.2 Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 400 ng human DNA.
+Service_provides: FFPE tissue. 400 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium Omni5Exome-4 Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 400 ng human DNA.
+Service_provides: FFPE tissue. 400 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium OmniExpress-24 v1.2 Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium OmniExpressExome-8 v1.4 Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium OmniZhongHua-8 v1.3 Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium OncoArray-500K BeadChip
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium PsychArray-24 v1.2 Kit (48 samples)
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Infinium QCArray-24 v1.2 Kit (48 samples)
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: FFPE tissue. 200 ng human DNA.
+Service_provides: FFPE tissue. 200 ng human DNA.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: HumanKaryomap-12 DNA Analysis Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: 400 ng genomic DNA from each parent and reference samples, single or multi-cell embryo biopsy samples amplified by Multiple Displacement Amplification (A suitable MDA kit should be used for amplifying DNA from embryo biopsy samples. Customers can transition to the REPLI-g Single Cell Kit for whole genome amplification (WGA) from QIAGEN). DNA amplification needs
+Service_provides: 400 ng genomic DNA from each parent and reference samples, single or multi-cell embryo biopsy samples amplified by Multiple Displacement Amplification (A suitable MDA kit should be used for amplifying DNA from embryo biopsy samples. Customers can transition to the REPLI-g Single Cell Kit for whole genome amplification (WGA) from QIAGEN). DNA amplification needs
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: https://emea.illumina.com/areas-of-interest/cancer/research/sequencing-methods/targeted-cancer-seq.html
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: TruSight Cancer
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: 50ng DNA
+Service_provides: 50ng DNA
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: TruSight Cardio Sequencing Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: 50ng DNA
+Service_provides: 50ng DNA
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: TruSight HLA v2 Sequencing Panel
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: 400ng DNA
+Service_provides: 400ng DNA
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: TruSight Inherited Disease Sequencing Panel
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: 50ng DNA
+Service_provides: 50ng DNA
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: TruSight RNA Pan-Cancer Panel
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: 10 ng of total RNA input (or 20-100 ng from FFPE samples)
+Service_provides: 10 ng of total RNA input (or 20-100 ng from FFPE samples)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: TruSight Tumor 170
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: FFPE Tissue, Low-Input Samples, 40 ng DNA and/or RNA
+Service_provides: FFPE Tissue, Low-Input Samples, 40 ng DNA and/or RNA
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: TruSight Tumor 15
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: FFPE Tissue, 20 ng DNA
+Service_provides: FFPE Tissue, 20 ng DNA
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: TruSight Tumor 26
-Company-name: Research use only
+Company_name: Research use only
 Website: Illumina
-Service-provides: 30 to 300 ng DNA from FFPE
+Service_provides: 30 to 300 ng DNA from FFPE
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: TruSight RNA Fusion Panel
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: 10 ng total RNA, 20–100 ng FFPE RNA
+Service_provides: 10 ng total RNA, 20–100 ng FFPE RNA
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: TruSight Myeloid Sequencing Panel
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: 50ng DNA isolated from blood, bone marrow, or fine needle aspirates
+Service_provides: 50ng DNA isolated from blood, bone marrow, or fine needle aspirates
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: AmpliSeq for Illumina BRCA Panel
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: FFPE Tissue. 1–100 ng (10 ng recommended per pool)
+Service_provides: FFPE Tissue. 1–100 ng (10 ng recommended per pool)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: AmpliSeq for Illumina Cancer Hotspot Panel v2
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: From as little as 1 ng of high quality blood samples or 10 ng of formalin-fixed, paraffin-embedded (FFPE) samples
+Service_provides: From as little as 1 ng of high quality blood samples or 10 ng of formalin-fixed, paraffin-embedded (FFPE) samples
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: AmpliSeq for Illumina Comprehensive Cancer Panel
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: From as little as 1 ng of high quality DNA/RNA from blood samples or 10 ng of formalin-fixed, paraffin-embedded (FFPE) input samples
+Service_provides: From as little as 1 ng of high quality DNA/RNA from blood samples or 10 ng of formalin-fixed, paraffin-embedded (FFPE) input samples
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: AmpliSeq for Illumina Comprehensive Panel v3
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: From as little as 1 ng of high quality DNA/RNA from blood samples or 10 ng of formalin-fixed, paraffin-embedded (FFPE) input samples
+Service_provides: From as little as 1 ng of high quality DNA/RNA from blood samples or 10 ng of formalin-fixed, paraffin-embedded (FFPE) input samples
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: AmpliSeq for Illumina Exome Panel
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: 50ng DNA minimum from blood or FFPE
+Service_provides: 50ng DNA minimum from blood or FFPE
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: AmpliSeq for Illumina Focus Panel
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: 1–100 ng (10 ng recommended per pool) DNA/RNA from blood or FFPE
+Service_provides: 1–100 ng (10 ng recommended per pool) DNA/RNA from blood or FFPE
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: AmpliSeq for Illumina Immune Response Panel
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: As little as 1 ng of high quality RNA or 10 ng of formalin-fixed, paraffin-embedded (FFPE) RNA input samples
+Service_provides: As little as 1 ng of high quality RNA or 10 ng of formalin-fixed, paraffin-embedded (FFPE) RNA input samples
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: TruSeq DNA Exome
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: 100ng genomic DNA
+Service_provides: 100ng genomic DNA
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: TruSeq RNA Exome
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: As little as 10 ng total RNA from fresh or frozen samples or 20 ng total RNA from degraded samples. FFPE or low input samples
+Service_provides: As little as 10 ng total RNA from fresh or frozen samples or 20 ng total RNA from degraded samples. FFPE or low input samples
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: TruSeq Amplicon - Cancer Panel
-Company-name: Clinical cancer research
+Company_name: Clinical cancer research
 Website: Illumina
-Service-provides: 250 ng high-quality genomic DNA, 250 ng FFPE genomic DNA
+Service_provides: 250 ng high-quality genomic DNA, 250 ng FFPE genomic DNA
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: https://emea.illumina.com/products/by-type/ivd-products.html
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Praxis Extended RAS Panel
-Company-name: In vitro diagnostic product
+Company_name: In vitro diagnostic product
 Website: Illumina
-Service-provides: DNA extracted from formalin-fixed, paraffin-embedded (FFPE) colorectal cancer (CRC) tissue samples.
+Service_provides: DNA extracted from formalin-fixed, paraffin-embedded (FFPE) colorectal cancer (CRC) tissue samples.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: MiSeqDx Cystic Fibrosis 139-Variant Assay
-Company-name: In vitro diagnostic product
+Company_name: In vitro diagnostic product
 Website: Illumina
-Service-provides: 250ng genomic DNA from peripheral whole blood sample
+Service_provides: 250ng genomic DNA from peripheral whole blood sample
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: MiSeqDx Cystic Fibrosis Clinical Sequencing Assay
-Company-name: In vitro diagnostic product
+Company_name: In vitro diagnostic product
 Website: Illumina
-Service-provides: 250ng genomic DNA isolated from human peripheral whole blood specimens collected in K2EDTA
+Service_provides: 250ng genomic DNA isolated from human peripheral whole blood specimens collected in K2EDTA
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: OptiSeq™Pan-Cancer Panel (65 Genes)
-Company-name: CLIA certified facility
+Company_name: CLIA certified facility
 Website: DiaCarta
-Service-provides: Liquid biopsy/FFPE DNA: 10 ng for detection of somatic mutations (SNP)/100 pg for germline mutations
+Service_provides: Liquid biopsy/FFPE DNA: 10 ng for detection of somatic mutations (SNP)/100 pg for germline mutations
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: OptiSeq™Lung Cancer Panel (29 Genes)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: OptiSeq™Actionable Panel (12 Genes)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: OptiSeq™Prostate Panel (32 Genes)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: OptiSeq™Target Panel (33 Genes) 
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: OptiSeq™Colon Panel (38 Genes)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: OptiSeq™Breast Panel (44 Genes)
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: OptiSeq™Comprehensive Panel (76 Genes)      
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: *Whole genome sequencing 全基因组测序
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Exome sequencing全外显子测序
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: mRNA sequencing转录组测序
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Small RNA (miRNA, shRNA) sequencing  
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: ChlP sequencing
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Amplicon sequencing
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: 16S metagenomics sequencing 16S测序
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: 建库测序?
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: 甲基化测序?
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: SureSelect Human All Exon V7
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: OneSeq Constitutional Research Panel
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: SureSelectXT Human Methyl-Seq
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: ClearSeq Comprehensive Cancer
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: ClearSeq AML panel
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: ClearSeq Cancer
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: ClearSeq Human DNA Kinome Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: ClearSeq Human RNA Kinome Kit
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: BRCA Hereditary Cancer MASTR Plus (BRCA HC MASTR Plus)
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: BRCA HP
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: BRCA MAQ
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: BRCA MASTR Dx
-Company-name: CE-IVD diagnostic assay
+Company_name: CE-IVD diagnostic assay
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: The BRCA MASTR Plus Dx
-Company-name: CE-IVD diagnostic assay
+Company_name: CE-IVD diagnostic assay
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: CLL MASTR Plus
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: EGFR 18-21 MASTR
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: FAP MASTR
 Website: Agilent
-Service-provides: As low as 20 ng per multiplex PCR reaction.
+Service_provides: As low as 20 ng per multiplex PCR reaction.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: GIST MASTR
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: HNPCC MASTR
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: SOMATIC 1 MASTR Plus Dx
-Company-name: CE-IVD diagnostic assay
+Company_name: CE-IVD diagnostic assay
 Website: Agilent
-Service-provides: As low as 4 ng per multiplex PCR reaction.
+Service_provides: As low as 4 ng per multiplex PCR reaction.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: TP53 MASTR
 Website: Agilent
-Service-provides: As low as 4 ng per multiplex PCR reaction.
+Service_provides: As low as 4 ng per multiplex PCR reaction.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: ALPORT MASTR
 Website: Agilent
-Service-provides: 20-50 ng per multiplex PCR reaction.
+Service_provides: 20-50 ng per multiplex PCR reaction.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: CFTR MASTR Dx
-Company-name: CE-IVD diagnostic assay
+Company_name: CE-IVD diagnostic assay
 Website: Agilent
-Service-provides: 20 ng per multiplex reaction
+Service_provides: 20 ng per multiplex reaction
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: DMD MASTR
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: FMF MASTR Dx
-Company-name: CE-IVD diagnostic assay
+Company_name: CE-IVD diagnostic assay
 Website: Agilent
-Service-provides: 20-50 ng per multiplex PCR reaction.
+Service_provides: 20-50 ng per multiplex PCR reaction.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: MARFAN MASTR panel
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: MODY MASTR panel
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: STARGARDT MASTR panel
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: ADH MASTR v2 panel
 Website: Agilent
-Service-provides: 20 ng per multiplex reaction
+Service_provides: 20 ng per multiplex reaction
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: HCM MASTR panel
 Website: Agilent
-Service-provides: 20-50 ng per multiplex PCR reaction.
+Service_provides: 20-50 ng per multiplex PCR reaction.
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: PED MASTR panel
 Website: Agilent
-Service-provides: 20 ng per multiplex reaction
+Service_provides: 20 ng per multiplex reaction
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Clarigo
-Company-name: CE-IVD diagnostic assay
+Company_name: CE-IVD diagnostic assay
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: *Whole genome sequencing
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: GenetiSure Postnatal Research CGH+SNP Array
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: SurePrint Human Genome CGH+SNP Microarrays
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: SurePrint Human Genome CGH Microarray
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: SurePrint Postnatal Research CGHCGH+SNP Microarrays
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: SurePrint G3 Human Gene Expression v3 Microarray
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: SurePrint G3 Human Exon Microarrays
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: SurePrint G3 Human Gene Expression Microarrays
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: SurePrint G3 Human Exon Microarrays
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: SurePrint Human miRNA Microarrays
-Company-name: Research use only
+Company_name: Research use only
 Website: Agilent
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: Harmony®
-Company-name: http://sequencing.roche.com/en/products-solutions/by-application/clinical/nipt/harmony-test-technology.html
+Company_name: http://sequencing.roche.com/en/products-solutions/by-application/clinical/nipt/harmony-test-technology.html
 Website: Roche     Thermo Fisher
 
-Record-Type: Genetic test kits
-RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
+Record_Type: Genetic test kits
+Record_SubType: Companies providing sequencing service
+RecordType_Descr: Sequencing_service_:_(whole_genome_sequencing,_target_sequencing,_SNPs)
 Country: * Depends largely how the library is prepared. Library preparation is a critical step in the WGS workflow.  DNA is first fragmented to the appropriate size, after which platform-specific adapters are added. PCR-free workflows are preferred for WGS, but in cases where input DNA is limited or is of poor quality, library amplification has to be performed. WGS library construction protocols typically include a size-selection step as libraries with a narrow fragment distribution are generally preferred. After sequencing, the sequence reads are aligned against a reference genome (reference-guided sequence assembly), or when no such reference is available, compared to each other and assembled into long contiguous segments (de novo sequencing).
 
