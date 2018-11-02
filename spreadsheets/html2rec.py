@@ -14,10 +14,20 @@ def flushRows():
     if not rows: return
     if heads==None: firstFlush()
     for i in colsFold: rows = map(lambda r:r[:i-1]+[" ".join(r[i-1:i+1])]+r[i+1:],rows)
-    print "Record-Type:",sys.argv[1]
+    if "." in sys.argv[1]:
+        rt,rs = sys.argv[1].split(".",1)
+        print "Record_Type:",rt
+        print "Record_SubType:",rs
+    else: print "Record_Type:",sys.argv[1]
     for h,v in zip(heads,zip(*rows)):
-        v = " ".join(v).strip()
-        if h and v: print h+": "+v
+        v = " ".join(v).strip() # TODO: try "\n+ ".join ?
+        if h and v:
+            v2 = re.sub("<[^>]*>","",v)
+            print h+": "+v2
+            if not v==v2:
+                for note in re.findall("<[^/][^>]*>([^<][^<]*)</[^>]*>",v):
+                    note = note.strip()
+                    if note: print "# NOTE:",note
     print
     rows = []
     sys.stderr.write(".")
@@ -56,14 +66,14 @@ class Parser(HTMLParser.HTMLParser):
             colspan = 0
         elif tag=="tr":
             if not headings:
-                curRow = map(lambda x:re.sub("<[^>]*>","",x).replace(" ","-"),curRow)
+                curRow = map(lambda x:re.sub("<[^>]*>","",x).replace("-","_").replace(" ","_"),curRow)
                 while curRow and not curRow[-1]:
                     curRow=curRow[:-1]
-                if len(curRow)==1: sys.argv[1] += "\nRecordType-Descr: "+curRow[0]
+                if len(curRow)==1: sys.argv[1] += "\nRecordType_Descr: "+curRow[0]
                 elif curRow:
                     headings = curRow
                     if headings[0]=="1": headings[0] = ""
-                    print "%allowed: Record-Type RecordType-Descr "+" ".join(h for h in headings if h)+"\n"
+                    print "%allowed: Record_Type Record_SubType RecordType_Descr "+" ".join(h for h in headings if h)+"\n"
             else:
                 if curRow[0]: flushRows()
                 rows.append(curRow)
