@@ -1,6 +1,6 @@
 # -*- mode: rec -*-
 
-%allowed: Record_Type Record_SubType RecordType_Descr Company_name Website Products Technology_used Gene_panel Sample Leader/_Team Aim Location Remarks
+%allowed: Record_Type Record_SubType RecordType_Descr Company_name Website Products Technology_used Gene_panel Sample Leader/_team Aim Location Remarks
 
 Record_Type: gene test companies
 Record_SubType: Personalized medicine

@@ -1,34 +1,34 @@
 # -*- mode: rec -*-
 
-%allowed: Record_Type Record_SubType RecordType_Descr Gene Involved_codon_(s)
+%allowed: Record_Type Record_SubType RecordType_Descr Gene Involved_codons
 
 Record_Type: genes tested by companies
 Record_SubType: Sheet1
 Gene: BRAF
-Involved_codon_(s): 600 (DiaCarta)
+Involved_codons: 600 (DiaCarta)
 
 Record_Type: genes tested by companies
 Record_SubType: Sheet1
 Gene: C-kit
-Involved_codon_(s): 816 (DiaCarta)
+Involved_codons: 816 (DiaCarta)
 
 Record_Type: genes tested by companies
 Record_SubType: Sheet1
 Gene: EGFR
-Involved_codon_(s): 719, ex19Del, 790, 858, 861 (DiaCarta)
+Involved_codons: 719, ex19Del, 790, 858, 861 (DiaCarta)
 
 Record_Type: genes tested by companies
 Record_SubType: Sheet1
 Gene: KRAS
-Involved_codon_(s): 12, 13, 59, 61, 117, 146 (DiaCarta)
+Involved_codons: 12, 13, 59, 61, 117, 146 (DiaCarta)
 
 Record_Type: genes tested by companies
 Record_SubType: Sheet1
 Gene: NRAS
-Involved_codon_(s): 12, 13, 59, 61, 117, 146 (DiaCarta)
+Involved_codons: 12, 13, 59, 61, 117, 146 (DiaCarta)
 
 Record_Type: genes tested by companies
 Record_SubType: Sheet1
 Gene: PIK3CA
-Involved_codon_(s): 542, 545, 1047 (DiaCarta)
+Involved_codons: 542, 545, 1047 (DiaCarta)
 

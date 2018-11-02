@@ -1,330 +1,330 @@
 # -*- mode: rec -*-
 
-%allowed: Record_Type Record_SubType RecordType_Descr Company_Logo day_and_time Clinic search login/registration CS在線諮詢
+%allowed: Record_Type Record_SubType RecordType_Descr Company_logo Day_and_time Clinic Search Login/registration Cs在線諮詢
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: 主頁
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: 主頁
 # NOTE: 主頁
-day_and_time: 尋找我的基因檢測服務 Ask what type of test: 婚前Premarital test (gender, ethnic group, want to check infertility? Cancer risk? Dementia risk) 癌症cancer risk (gender 腦退化risk of dementia 基因缺陷genetic defects risk of自身免疫缺乏症 IQ/EQ testing 藥物反應
+Day_and_time: 尋找我的基因檢測服務 Ask what type of test: 婚前Premarital test (gender, ethnic group, want to check infertility? Cancer risk? Dementia risk) 癌症cancer risk (gender 腦退化risk of dementia 基因缺陷genetic defects risk of自身免疫缺乏症 IQ/EQ testing 藥物反應
 Clinic: Locations
-search: 有關基因檢測 -基因檢測類型 -基因檢測流程
+Search: 有關基因檢測 -基因檢測類型 -基因檢測流程
 # NOTE: 有關基因檢測
-login/registration: 瞭解這些事 男丶女不孕的多種基因因素 流產，習慣性流產 多了染色體 無月經 脊髓性肌肉萎縮症 Sudden death Down’s syndrome 早死：夭折、活不過大人/小孩/嬰兒 Increased risk of having cancer lack of apitide factors affecting hair loss factors affecting anxiety factors leading to seizures factors affecting movement lack of energy? Male?Female? Vision loss Hearing loss Breast Cancer risk (man and woman) Ovarian Cancer Feminine cancer
-CS在線諮詢: 常見問題
+Login/registration: 瞭解這些事 男丶女不孕的多種基因因素 流產，習慣性流產 多了染色體 無月經 脊髓性肌肉萎縮症 Sudden death Down’s syndrome 早死：夭折、活不過大人/小孩/嬰兒 Increased risk of having cancer lack of apitide factors affecting hair loss factors affecting anxiety factors leading to seizures factors affecting movement lack of energy? Male?Female? Vision loss Hearing loss Breast Cancer risk (man and woman) Ovarian Cancer Feminine cancer
+Cs在線諮詢: 常見問題
 # NOTE: 常見問題
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: List of acredited laboratories all over the world
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: List of acredited laboratories all over the world
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Country  Address
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Country  Address
 # NOTE: Country
 # NOTE: Address
 Clinic: Website
 # NOTE: Website
-login/registration: Services provides
+Login/registration: Services provides
 # NOTE: Services provides
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: America 
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: America 
 # NOTE: America
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: USA
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: USA
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Canada
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Canada
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Mexico
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Mexico
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Colombia
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Colombia
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Brazil
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Brazil
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Argentina
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Argentina
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Europe 
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Europe 
 # NOTE: Europe
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Finland
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Finland
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Sweden
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Sweden
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Poland
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Poland
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Hungary
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Hungary
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Germany
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Germany
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: France
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: France
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Greece
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Greece
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Italy
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Italy
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: England
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: England
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Asia 
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Asia 
 # NOTE: Asia
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: India
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: India
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: China
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: China
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Australia
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Australia
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: New Zealand
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: New Zealand
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Taiwan
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Taiwan
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Japan
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Japan
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: South Korea
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: South Korea
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Genes and drugs https://www.ncbi.nlm.nih.gov/books/NBK61999/
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Genes and drugs https://www.ncbi.nlm.nih.gov/books/NBK61999/
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: Disease Drug Molecules involved
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: Disease Drug Molecules involved
 Clinic: website
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: HIV Abacavir HLA-B*57:01
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: HIV Abacavir HLA-B*57:01
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: gout and hyperuricemia Allopurinol HLA-B*58:01
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: gout and hyperuricemia Allopurinol HLA-B*58:01
 # NOTE: HLA-B*58:01
 Clinic: https://www.ncbi.nlm.nih.gov/books/NBK127547/
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: major depression, obsessive-compulsive disorder, panic attacks, generalized anxiety disorder, post-traumatic stress disorder, and bulimia Amitriptyline
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: major depression, obsessive-compulsive disorder, panic attacks, generalized anxiety disorder, post-traumatic stress disorder, and bulimia Amitriptyline
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Gene package from companies
-RecordType_Descr: Prenatal_test
-RecordType_Descr: AIDs_test
-RecordType_Descr: Cancer_risk_test
-RecordType_Descr: Dementia_risk_test
-RecordType_Descr: IQ_test
-Company_Logo: schizophrenia, bipolar disorder, major depressive disorder, irritability associated with autistic disorder, and treatment of Tourette’s disorder Aripiprazole
+RecordType_Descr: Prenatal test
+RecordType_Descr: AIDs test
+RecordType_Descr: Cancer risk test
+RecordType_Descr: Dementia risk test
+RecordType_Descr: IQ test
+Company_logo: schizophrenia, bipolar disorder, major depressive disorder, irritability associated with autistic disorder, and treatment of Tourette’s disorder Aripiprazole
 

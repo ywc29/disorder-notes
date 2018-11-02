@@ -4,17 +4,17 @@
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: DNA extraction service
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Sequencing service : (whole genome sequencing, target sequencing, SNPs)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Country
 Website: Company name
 Target: Website
@@ -22,30 +22,30 @@ Price: Service provides
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: USA 1
 Website: Illumina
 Target: https://emea.illumina.com/
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Companies providing genetic data analysis
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Name
 Website: Website
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Companies providing genetic tests
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Country
 Website: Company name
 # NOTE: Company name
@@ -56,7 +56,7 @@ Price: Services provide
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: UK
 Website: Atlas Biomed
 Target: https://atlasbiomed.com/uk
@@ -64,14 +64,14 @@ Price: Atlas DNA Test (149GBP) and the Atlas Microbiome Test (139GBP)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: UK
 Website: GeneHealth UK
 Target: https://www.genehealthuk.com/genetic-testing-cancer?keyword=genetic%20testing%20for%20cancermatchtype=enetwork=gdevice=cgclid=Cj0KCQiAgNrQBRC0ARIsAE-m-1zL3pCav8qwgC283WSIrkUt1kVX61iRZyYlDvvNMe54nzeCQpEliv4aAslyEALw_wcB
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: CA
 Website: 23andMe
 Target: https://www.23andme.com/en-gb/compare-dna-tests/
@@ -79,7 +79,7 @@ Price: Ancestry service (79GBP) Health + Ancestry service (149 GBP) (can review 
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: CA
 Website: Bambni Test (Berry Genomics贝瑞和康)
 Target: http://www.berrygenomics.com/bambnitest/technology/theory/
@@ -87,83 +87,83 @@ Price: Noninvasive prenatal test (PINT)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: CA
 Website: MaterniT21 PLUS Test (Sequenom)
 Price: Noninvasive prenatal test (PINT)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: CA
 Website: NIFTY Test (BGI)
 Price: Noninvasive prenatal test (PINT)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: CA
 Website: Panorama Prenatal Screen (Natera)
 Price: Noninvasive prenatal test (PINT)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: CA
 Website: PrenaTest (LifeCodexx AG)
 Price: Noninvasive prenatal test (PINT)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: CA
 Website: Verifi Prenatal Test (Illumina)
 Price: Noninvasive prenatal test (PINT) that screens for multiple fetal chromosomal aneuploidies. Directly analyzes cell-free fetal and maternal DNA; High detection rate. Test as early as 10 weeks gestational age (8 weeks of fetal age as determined by date of conception) with no limitations regarding ethnicity, body mass index (BMI), assisted reproductive technology (ART), or egg donor cases. *Noninvasive prenatal testing (NIPT) is a screening test. Results should be confirmed by diagnostic testing prior to making any pregnancy management decisions.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: CA
 Website: IONA Test (Premaltha)
 Price: Noninvasive prenatal test (PINT)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: CA
 Website: Harmony Prenatal Test (Arlosa)*
 Price: Noninvasive prenatal test (PINT)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: CA
 Website: 香港雅士能基因科技有限公司（Xcelom
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Germany
 Website: MGZ Medical Genetics Center.
 Price: 90% of the samples MGZ analyzes with the CytoSNP-850K BeadChip are postnatal. These analyses help identify the causes of autism spectrum disorders, intellectual disability (ID), dysmorphic features, or neurological disorders such as epilepsy. MGZ also performs prenatal analysis with conventional karyotyping, chromosomal microarrays, and noninvasive prenatal testing (NIPT) for chromosomal aneuploidy (abnormal number of chromosomes). Uses the MiSeq and NextSeq®500 Systems to run a large number of custom panels to identify variants associated with rare hereditary diseases and the TruSight Cancer Sequencing Panel, which targets 94 genes with suspected associations to common and rare cancers. The sequencing panel also includes 284 SNPs suspected to correlate with cancer through genome-wide association studies (GWAS).The TruSight Cancer Sequencing Panel is a test method that anyonecan adapt easily in their laboratory,”Dr. Benet-Pagès said.“It’s easy to implement in automated workflows and performs with high repeatability and reproducibility. The TruSight Cancer Panel enables us to analyze more genes in a single workflow than previous technologies. The advantage is that we can identify potential mutations in cancer associated genes not primarily tested.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Germany
 Website: SynapDx
 Price: Study autism
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Germany
 Website: Hamilton
 Target: https://www.hamiltoncompany.com/products/automated-liquid-handling/standard-solutions/veriseq-nipt-microlab-star
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Germany
 Website: Atlas-Biolabs
 Target: http://www.atlas-biolabs.com/company
@@ -171,14 +171,14 @@ Price: ATLAS Biolabs performs genome-wide gene expression and SNP analyses, arra
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: UK
 Website: Birmingham’s woman NHS
 Price: solid tumour 28 gene panel solid tumour 60 gene panel solid tumour 9 gene panel
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: HK
 Website: Rainbow genomics
 Target: https://www.rainbowgenomics.com/new-index-2#new-page-7
@@ -186,12 +186,12 @@ Price: Cancer risk test
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Human Genetic test kits
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Name
 # NOTE: Name
 Website: Remarks
@@ -203,12 +203,12 @@ Price: Input DNA
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: https://emea.illumina.com/products/by-type/microarray-kits.html
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: HumanCytoSNP-12 v2.1 BeadChip Kit
 Website: Research use only
 Target: Illumina
@@ -216,7 +216,7 @@ Price: Human DNA from solid tumor or haematological disease
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: HumanCytoSNP FFPE-12 v2.1 DNA Analysis BeadChip Kit
 Website: Research use only
 Target: Illumina
@@ -224,7 +224,7 @@ Price: FFPE tissue. 200 ng human DNA. From paired normal and tumor tissue
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium Core-24 Kit
 Website: Research use only
 Target: Illumina
@@ -232,7 +232,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium CoreExome-24 BeadChip
 Website: Research use only
 Target: Illumina
@@ -240,7 +240,7 @@ Price: FFPE tissue. Human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium CytoSNP-850K v1.1 BeadChip
 Website: Research use only
 Target: Illumina
@@ -248,7 +248,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium Exome-24 Kit
 Website: Research use only
 Target: Illumina
@@ -256,7 +256,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium®Global Screening Array-24 v1.0 Kit
 Website: Research use only
 Target: Illumina
@@ -264,7 +264,7 @@ Price: Saliva, blood, buccal swabs, and formalin-fixed, paraffin-embedded (FFPE)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium ImmunoArray-24 v2 BeadChip Kit
 Website: Research use only
 Target: Illumina
@@ -272,7 +272,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium MethylationEPIC BeadChip Kit
 Website: Research use only
 Target: Illumina
@@ -280,7 +280,7 @@ Price: FFPE tissue, Low-Input Samples. 250 ng human DNA
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium Multi-Ethnic AMR/AFR-8 v1.0 Kit
 Website: Research use only
 Target: Illumina
@@ -288,7 +288,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium Multi-Ethnic EUR/EAS/SAS-8 v1.0 Kit
 Website: Research use only
 Target: Illumina
@@ -296,7 +296,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium Multi-Ethnic Global-8 v1.0 Kit
 Website: Research use only
 Target: Illumina
@@ -304,7 +304,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium Omni2.5-8 v1.3 Kit
 Website: Research use only
 Target: Illumina
@@ -312,7 +312,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium Omni2.5Exome-8 v1.3 Kit
 Website: Research use only
 Target: Illumina
@@ -320,7 +320,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium®Omni5-4 v1.2 Kit
 Website: Research use only
 Target: Illumina
@@ -328,7 +328,7 @@ Price: FFPE tissue. 400 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium Omni5Exome-4 Kit
 Website: Research use only
 Target: Illumina
@@ -336,7 +336,7 @@ Price: FFPE tissue. 400 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium OmniExpress-24 v1.2 Kit
 Website: Research use only
 Target: Illumina
@@ -344,7 +344,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium OmniExpressExome-8 v1.4 Kit
 Website: Research use only
 Target: Illumina
@@ -352,7 +352,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium OmniZhongHua-8 v1.3 Kit
 Website: Research use only
 Target: Illumina
@@ -360,7 +360,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium OncoArray-500K BeadChip
 Website: Research use only
 Target: Illumina
@@ -368,7 +368,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium PsychArray-24 v1.2 Kit (48 samples)
 Website: Research use only
 Target: Illumina
@@ -376,7 +376,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Infinium QCArray-24 v1.2 Kit (48 samples)
 Website: Research use only
 Target: Illumina
@@ -384,7 +384,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: HumanKaryomap-12 DNA Analysis Kit
 Website: Research use only
 Target: Illumina
@@ -392,12 +392,12 @@ Price: 400 ng genomic DNA from each parent and reference samples, single or mult
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: https://emea.illumina.com/areas-of-interest/cancer/research/sequencing-methods/targeted-cancer-seq.html
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: TruSight Cancer
 Website: Clinical cancer research
 Target: Illumina
@@ -405,7 +405,7 @@ Price: 50ng DNA
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: TruSight Cardio Sequencing Kit
 Website: Research use only
 Target: Illumina
@@ -413,7 +413,7 @@ Price: 50ng DNA
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: TruSight HLA v2 Sequencing Panel
 Website: Research use only
 Target: Illumina
@@ -421,7 +421,7 @@ Price: 400ng DNA
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: TruSight Inherited Disease Sequencing Panel
 Website: Research use only
 Target: Illumina
@@ -429,7 +429,7 @@ Price: 50ng DNA
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: TruSight RNA Pan-Cancer Panel
 Website: Clinical cancer research
 Target: Illumina
@@ -437,7 +437,7 @@ Price: 10 ng of total RNA input (or 20-100 ng from FFPE samples)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: TruSight Tumor 170
 Website: Clinical cancer research
 Target: Illumina
@@ -445,7 +445,7 @@ Price: FFPE Tissue, Low-Input Samples, 40 ng DNA and/or RNA
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: TruSight Tumor 15
 Website: Clinical cancer research
 Target: Illumina
@@ -453,7 +453,7 @@ Price: FFPE Tissue, 20 ng DNA
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: TruSight Tumor 26
 Website: Research use only
 Target: Illumina
@@ -461,7 +461,7 @@ Price: 30 to 300 ng DNA from FFPE
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: TruSight RNA Fusion Panel
 Website: Clinical cancer research
 Target: Illumina
@@ -469,7 +469,7 @@ Price: 10 ng total RNA, 20–100 ng FFPE RNA
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: TruSight Myeloid Sequencing Panel
 Website: Clinical cancer research
 Target: Illumina
@@ -477,7 +477,7 @@ Price: 50ng DNA isolated from blood, bone marrow, or fine needle aspirates
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: AmpliSeq for Illumina BRCA Panel
 Website: Clinical cancer research
 Target: Illumina
@@ -485,7 +485,7 @@ Price: FFPE Tissue. 1–100 ng (10 ng recommended per pool)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: AmpliSeq for Illumina Cancer Hotspot Panel v2
 Website: Clinical cancer research
 Target: Illumina
@@ -493,7 +493,7 @@ Price: From as little as 1 ng of high quality blood samples or 10 ng of formalin
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: AmpliSeq for Illumina Comprehensive Cancer Panel
 Website: Clinical cancer research
 Target: Illumina
@@ -501,7 +501,7 @@ Price: From as little as 1 ng of high quality DNA/RNA from blood samples or 10 n
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: AmpliSeq for Illumina Comprehensive Panel v3
 Website: Clinical cancer research
 Target: Illumina
@@ -509,7 +509,7 @@ Price: From as little as 1 ng of high quality DNA/RNA from blood samples or 10 n
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: AmpliSeq for Illumina Exome Panel
 Website: Clinical cancer research
 Target: Illumina
@@ -517,7 +517,7 @@ Price: 50ng DNA minimum from blood or FFPE
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: AmpliSeq for Illumina Focus Panel
 Website: Clinical cancer research
 Target: Illumina
@@ -525,7 +525,7 @@ Price: 1–100 ng (10 ng recommended per pool) DNA/RNA from blood or FFPE
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: AmpliSeq for Illumina Immune Response Panel
 Website: Clinical cancer research
 Target: Illumina
@@ -533,7 +533,7 @@ Price: As little as 1 ng of high quality RNA or 10 ng of formalin-fixed, paraffi
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: TruSeq DNA Exome
 Website: Clinical cancer research
 Target: Illumina
@@ -541,7 +541,7 @@ Price: 100ng genomic DNA
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: TruSeq RNA Exome
 Website: Clinical cancer research
 Target: Illumina
@@ -549,7 +549,7 @@ Price: As little as 10 ng total RNA from fresh or frozen samples or 20 ng total 
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: TruSeq Amplicon - Cancer Panel
 Website: Clinical cancer research
 Target: Illumina
@@ -557,12 +557,12 @@ Price: 250 ng high-quality genomic DNA, 250 ng FFPE genomic DNA
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: https://emea.illumina.com/products/by-type/ivd-products.html
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Praxis Extended RAS Panel
 Website: In vitro diagnostic product
 Target: Illumina
@@ -570,7 +570,7 @@ Price: DNA extracted from formalin-fixed, paraffin-embedded (FFPE) colorectal ca
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: MiSeqDx Cystic Fibrosis 139-Variant Assay
 Website: In vitro diagnostic product
 Target: Illumina
@@ -578,7 +578,7 @@ Price: 250ng genomic DNA from peripheral whole blood sample
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: MiSeqDx Cystic Fibrosis Clinical Sequencing Assay
 Website: In vitro diagnostic product
 Target: Illumina
@@ -586,7 +586,7 @@ Price: 250ng genomic DNA isolated from human peripheral whole blood specimens co
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: OptiSeq™Pan-Cancer Panel (65 Genes)
 Website: CLIA certified facility
 Target: DiaCarta
@@ -594,206 +594,206 @@ Price: Liquid biopsy/FFPE DNA: 10 ng for detection of somatic mutations (SNP)/10
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: OptiSeq™Lung Cancer Panel (29 Genes)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: OptiSeq™Actionable Panel (12 Genes)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: OptiSeq™Prostate Panel (32 Genes)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: OptiSeq™Target Panel (33 Genes) 
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: OptiSeq™Colon Panel (38 Genes)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: OptiSeq™Breast Panel (44 Genes)
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: OptiSeq™Comprehensive Panel (76 Genes)      
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: *Whole genome sequencing 全基因组测序
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Exome sequencing全外显子测序
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: mRNA sequencing转录组测序
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Small RNA (miRNA, shRNA) sequencing  
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: ChlP sequencing
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Amplicon sequencing
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: 16S metagenomics sequencing 16S测序
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: 建库测序?
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: 甲基化测序?
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: SureSelect Human All Exon V7
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: OneSeq Constitutional Research Panel
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: SureSelectXT Human Methyl-Seq
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: ClearSeq Comprehensive Cancer
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: ClearSeq AML panel
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: ClearSeq Cancer
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: ClearSeq Human DNA Kinome Kit
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: ClearSeq Human RNA Kinome Kit
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: BRCA Hereditary Cancer MASTR Plus (BRCA HC MASTR Plus)
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: BRCA HP
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: BRCA MAQ
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: BRCA MASTR Dx
 Website: CE-IVD diagnostic assay
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: The BRCA MASTR Plus Dx
 Website: CE-IVD diagnostic assay
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: CLL MASTR Plus
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: EGFR 18-21 MASTR
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: FAP MASTR
 Target: Agilent
 Price: As low as 20 ng per multiplex PCR reaction.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: GIST MASTR
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: HNPCC MASTR
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: SOMATIC 1 MASTR Plus Dx
 Website: CE-IVD diagnostic assay
 Target: Agilent
@@ -801,21 +801,21 @@ Price: As low as 4 ng per multiplex PCR reaction.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: TP53 MASTR
 Target: Agilent
 Price: As low as 4 ng per multiplex PCR reaction.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: ALPORT MASTR
 Target: Agilent
 Price: 20-50 ng per multiplex PCR reaction.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: CFTR MASTR Dx
 Website: CE-IVD diagnostic assay
 Target: Agilent
@@ -823,13 +823,13 @@ Price: 20 ng per multiplex reaction
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: DMD MASTR
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: FMF MASTR Dx
 Website: CE-IVD diagnostic assay
 Target: Agilent
@@ -837,129 +837,129 @@ Price: 20-50 ng per multiplex PCR reaction.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: MARFAN MASTR panel
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: MODY MASTR panel
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: STARGARDT MASTR panel
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: ADH MASTR v2 panel
 Target: Agilent
 Price: 20 ng per multiplex reaction
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: HCM MASTR panel
 Target: Agilent
 Price: 20-50 ng per multiplex PCR reaction.
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: PED MASTR panel
 Target: Agilent
 Price: 20 ng per multiplex reaction
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Clarigo
 Website: CE-IVD diagnostic assay
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: *Whole genome sequencing
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: GenetiSure Postnatal Research CGH+SNP Array
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: SurePrint Human Genome CGH+SNP Microarrays
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: SurePrint Human Genome CGH Microarray
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: SurePrint Postnatal Research CGHCGH+SNP Microarrays
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: SurePrint G3 Human Gene Expression v3 Microarray
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: SurePrint G3 Human Exon Microarrays
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: SurePrint G3 Human Gene Expression Microarrays
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: SurePrint G3 Human Exon Microarrays
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: SurePrint Human miRNA Microarrays
 Website: Research use only
 Target: Agilent
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: Harmony®
 Website: http://sequencing.roche.com/en/products-solutions/by-application/clinical/nipt/harmony-test-technology.html
 Target: Roche     Thermo Fisher
 
 Record_Type: Genetic test kits
 Record_SubType: Software for genetic data analysis
-RecordType_Descr: Software_for_genetic_analysis
+RecordType_Descr: Software for genetic analysis
 Name: * Depends largely how the library is prepared. Library preparation is a critical step in the WGS workflow.  DNA is first fragmented to the appropriate size, after which platform-specific adapters are added. PCR-free workflows are preferred for WGS, but in cases where input DNA is limited or is of poor quality, library amplification has to be performed. WGS library construction protocols typically include a size-selection step as libraries with a narrow fragment distribution are generally preferred. After sequencing, the sequence reads are aligned against a reference genome (reference-guided sequence assembly), or when no such reference is available, compared to each other and assembled into long contiguous segments (de novo sequencing).
 

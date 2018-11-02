@@ -1,6 +1,6 @@
 # -*- mode: rec -*-
 
-%allowed: Record_Type Record_SubType RecordType_Descr Company_name Website Products Technology_used Gene_panel Sample Leader/_Team Aim Location Remarks
+%allowed: Record_Type Record_SubType RecordType_Descr Company_name Website Products Technology_used Gene_panel Sample Leader/_team Aim Location Remarks
 
 Record_Type: gene test companies
 Record_SubType: clinical test
@@ -35,7 +35,7 @@ Record_SubType: clinical test
 Company_name: Personal Genome Diagnostic (to research companies)
 Website: http://www.personalgenome.com/
 # NOTE: http://www.personalgenome.com/
-Leader/_Team: PGDx was founded in 2010 by Luis Diaz and Victor Velculescu
+Leader/_team: PGDx was founded in 2010 by Luis Diaz and Victor Velculescu
 Location: Baltimore, MD, USA
 
 Record_Type: gene test companies

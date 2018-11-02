@@ -1,180 +1,180 @@
 # -*- mode: rec -*-
 
-%allowed: Record_Type Record_SubType RecordType_Descr Company_Logo day_and_time Clinic search login/registration CS在線諮詢
+%allowed: Record_Type Record_SubType RecordType_Descr Company_logo Day_and_time Clinic Search Login/registration Cs在線諮詢
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: 主頁
+Company_logo: 主頁
 # NOTE: 主頁
-day_and_time: 尋找我的基因檢測服務 Ask what type of test: 婚前Premarital test (gender, ethnic group, want to check infertility? Cancer risk? Dementia risk) 癌症cancer risk (gender 腦退化risk of dementia 基因缺陷genetic defects risk of自身免疫缺乏症 IQ/EQ testing 藥物反應
+Day_and_time: 尋找我的基因檢測服務 Ask what type of test: 婚前Premarital test (gender, ethnic group, want to check infertility? Cancer risk? Dementia risk) 癌症cancer risk (gender 腦退化risk of dementia 基因缺陷genetic defects risk of自身免疫缺乏症 IQ/EQ testing 藥物反應
 Clinic: Locations
-search: 有關基因檢測 -基因檢測類型 -基因檢測流程
+Search: 有關基因檢測 -基因檢測類型 -基因檢測流程
 # NOTE: 有關基因檢測
-login/registration: 瞭解這些事 男丶女不孕的多種基因因素 流產，習慣性流產 多了染色體 無月經 脊髓性肌肉萎縮症 Sudden death Down’s syndrome 早死：夭折、活不過大人/小孩/嬰兒 Increased risk of having cancer lack of apitide factors affecting hair loss factors affecting anxiety factors leading to seizures factors affecting movement lack of energy? Male?Female? Vision loss Hearing loss Breast Cancer risk (man and woman) Ovarian Cancer Feminine cancer
-CS在線諮詢: 常見問題
+Login/registration: 瞭解這些事 男丶女不孕的多種基因因素 流產，習慣性流產 多了染色體 無月經 脊髓性肌肉萎縮症 Sudden death Down’s syndrome 早死：夭折、活不過大人/小孩/嬰兒 Increased risk of having cancer lack of apitide factors affecting hair loss factors affecting anxiety factors leading to seizures factors affecting movement lack of energy? Male?Female? Vision loss Hearing loss Breast Cancer risk (man and woman) Ovarian Cancer Feminine cancer
+Cs在線諮詢: 常見問題
 # NOTE: 常見問題
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: List of acredited laboratories all over the world
+Company_logo: List of acredited laboratories all over the world
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Country  Address
+Company_logo: Country  Address
 # NOTE: Country
 # NOTE: Address
 Clinic: Website
 # NOTE: Website
-login/registration: Services provides
+Login/registration: Services provides
 # NOTE: Services provides
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: America 
+Company_logo: America 
 # NOTE: America
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: USA
+Company_logo: USA
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Canada
+Company_logo: Canada
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Mexico
+Company_logo: Mexico
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Colombia
+Company_logo: Colombia
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Brazil
+Company_logo: Brazil
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Argentina
+Company_logo: Argentina
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Europe 
+Company_logo: Europe 
 # NOTE: Europe
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Finland
+Company_logo: Finland
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Sweden
+Company_logo: Sweden
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Poland
+Company_logo: Poland
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Hungary
+Company_logo: Hungary
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Germany
+Company_logo: Germany
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: France
+Company_logo: France
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Greece
+Company_logo: Greece
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Italy
+Company_logo: Italy
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: England
+Company_logo: England
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Asia 
+Company_logo: Asia 
 # NOTE: Asia
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: India
+Company_logo: India
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: China
+Company_logo: China
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Australia
+Company_logo: Australia
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: New Zealand
+Company_logo: New Zealand
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Taiwan
+Company_logo: Taiwan
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Japan
+Company_logo: Japan
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: South Korea
+Company_logo: South Korea
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Prenatal test
+Company_logo: Prenatal test
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: AIDs test
+Company_logo: AIDs test
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Cancer risk test
+Company_logo: Cancer risk test
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Dementia risk test
+Company_logo: Dementia risk test
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: IQ test
+Company_logo: IQ test
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Genes and drugs https://www.ncbi.nlm.nih.gov/books/NBK61999/
+Company_logo: Genes and drugs https://www.ncbi.nlm.nih.gov/books/NBK61999/
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: Disease Drug Molecules involved
+Company_logo: Disease Drug Molecules involved
 Clinic: website
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: HIV Abacavir HLA-B*57:01
+Company_logo: HIV Abacavir HLA-B*57:01
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: gout and hyperuricemia Allopurinol HLA-B*58:01
+Company_logo: gout and hyperuricemia Allopurinol HLA-B*58:01
 # NOTE: HLA-B*58:01
 Clinic: https://www.ncbi.nlm.nih.gov/books/NBK127547/
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: major depression, obsessive-compulsive disorder, panic attacks, generalized anxiety disorder, post-traumatic stress disorder, and bulimia Amitriptyline
+Company_logo: major depression, obsessive-compulsive disorder, panic attacks, generalized anxiety disorder, post-traumatic stress disorder, and bulimia Amitriptyline
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: The website
-Company_Logo: schizophrenia, bipolar disorder, major depressive disorder, irritability associated with autistic disorder, and treatment of Tourette’s disorder Aripiprazole
+Company_logo: schizophrenia, bipolar disorder, major depressive disorder, irritability associated with autistic disorder, and treatment of Tourette’s disorder Aripiprazole
 

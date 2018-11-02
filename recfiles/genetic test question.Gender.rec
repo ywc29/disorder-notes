@@ -1,6 +1,6 @@
 # -*- mode: rec -*-
 
-%allowed: Record_Type Record_SubType RecordType_Descr Name website frequency Condition
+%allowed: Record_Type Record_SubType RecordType_Descr Name Website Frequency Condition
 
 Record_Type: genetic test question
 Record_SubType: Gender
@@ -14,53 +14,53 @@ Name: Information of the person to have test
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: Gender
-website: M/F/don’t know 17-beta hydroxysteroid dehydrogenase 3 deficiency is a condition that affects male sexual development. People with this condition are genetically male, with one X and one Y chromosome in each cell, and they have male gonads (testes). Most people with 17-beta hydroxysteroid dehydrogenase 3 deficiency are born with external genitalia that appear female. Men with this disorder are generally unable to father children (infertile).
+Website: M/F/don’t know 17-beta hydroxysteroid dehydrogenase 3 deficiency is a condition that affects male sexual development. People with this condition are genetically male, with one X and one Y chromosome in each cell, and they have male gonads (testes). Most people with 17-beta hydroxysteroid dehydrogenase 3 deficiency are born with external genitalia that appear female. Men with this disorder are generally unable to father children (infertile).
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: Age
-website: Certain diseases happen in sometimes of the life：huntington/血栓塞;罕見疾病多在兒童時期發病;
+Website: Certain diseases happen in sometimes of the life：huntington/血栓塞;罕見疾病多在兒童時期發病;
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: Ethnicity
-website: Askenzies Jews; suitable test for different ethnicity ie the mutation leading to breast cancer is different between Western and Asian ; if Chinese-ask province 17-beta hydroxysteroid dehydrogenase 3 deficiency is common in the Arab population of Gaza affects 1 in 200 to 300 people.
+Website: Askenzies Jews; suitable test for different ethnicity ie the mutation leading to breast cancer is different between Western and Asian ; if Chinese-ask province 17-beta hydroxysteroid dehydrogenase 3 deficiency is common in the Arab population of Gaza affects 1 in 200 to 300 people.
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: health status
-website: no obvious health problem; receiving cancer treatment: need personalized genetic test?
+Website: no obvious health problem; receiving cancer treatment: need personalized genetic test?
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: Place of staying
-website: Northern Europe: risk of depression-can suggest to test the risk for depression; the place that you would like to have test ie uk’s NHS provide clinical test for certain area of people, USA restricts the use of genetic test for cancer prediction;最快2017今年底起，可能有第一批「港產」遺傳科醫生誕生，將遺傳科知識有系統地傳承下去。
+Website: Northern Europe: risk of depression-can suggest to test the risk for depression; the place that you would like to have test ie uk’s NHS provide clinical test for certain area of people, USA restricts the use of genetic test for cancer prediction;最快2017今年底起，可能有第一批「港產」遺傳科醫生誕生，將遺傳科知識有系統地傳承下去。
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: Family history?
-website: 親屬出現早發性乳癌（四十五歲或以下發病） 一般大腸癌在60、70歲出現，若在30、40歲病發的個案便比較「唔正常」，尤其是近親家族中不止一宗病例，更要小心，有可能是遺傳基因導致疾病一代傳一代。 遺傳性大腸癌在臨牀上並不少見，而乳腺癌同樣有遺傳情况，一旦發現有此情况，可採取一系列預防措施，如更早或更頻密檢查，及早發現和治療病變，並透過計劃生育早作預防。 很多人以為一出生便出現的先天性疾病，才是遺傳病，其實不然，人類的疾病不少都是從遺傳得來，再加上後天的誘發因素而發病。每個人都是由精子與卵子結合成胎兒，所以父母的基因在胚胎形成時已經遺傳下來，包括變異的基因，若在胎兒出生前已經引起病變便是先天性疾病，到嬰兒出生後才出現便是後天性疾病，但也與遺傳基因有關，最常見由基因引發的後天疾病就是癌症。心血管疾病及糖尿病亦是遺傳基因和後天環境因素配合而病發。因此，現在學者希望從遺傳基因着手，目的是達到防病的效果。他指出，若家族有相關病史，成員的患病率會相對較高，建議及早改善生活習慣，以減低發病風險。 孩子患遺傳性疾病 多名成員患乳癌（最少兩名） 患上卵巢癌，家族有患乳癌及/或卵巢癌病史 本身有乳癌、卵巢癌或輸卵管癌病史，特別是高分化漿液性腺癌和絕經前卵巢和輸卵管癌
+Website: 親屬出現早發性乳癌（四十五歲或以下發病） 一般大腸癌在60、70歲出現，若在30、40歲病發的個案便比較「唔正常」，尤其是近親家族中不止一宗病例，更要小心，有可能是遺傳基因導致疾病一代傳一代。 遺傳性大腸癌在臨牀上並不少見，而乳腺癌同樣有遺傳情况，一旦發現有此情况，可採取一系列預防措施，如更早或更頻密檢查，及早發現和治療病變，並透過計劃生育早作預防。 很多人以為一出生便出現的先天性疾病，才是遺傳病，其實不然，人類的疾病不少都是從遺傳得來，再加上後天的誘發因素而發病。每個人都是由精子與卵子結合成胎兒，所以父母的基因在胚胎形成時已經遺傳下來，包括變異的基因，若在胎兒出生前已經引起病變便是先天性疾病，到嬰兒出生後才出現便是後天性疾病，但也與遺傳基因有關，最常見由基因引發的後天疾病就是癌症。心血管疾病及糖尿病亦是遺傳基因和後天環境因素配合而病發。因此，現在學者希望從遺傳基因着手，目的是達到防病的效果。他指出，若家族有相關病史，成員的患病率會相對較高，建議及早改善生活習慣，以減低發病風險。 孩子患遺傳性疾病 多名成員患乳癌（最少兩名） 患上卵巢癌，家族有患乳癌及/或卵巢癌病史 本身有乳癌、卵巢癌或輸卵管癌病史，特別是高分化漿液性腺癌和絕經前卵巢和輸卵管癌
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: current weight
-website: related with metabolic disease? High risk of
+Website: related with metabolic disease? High risk of
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: current height
-website: related with heart diseases?
+Website: related with heart diseases?
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: What do you test for?
-website: risk of getting cancer? Parent child or siblings relationship test (https://www.gov.uk/get-dna-test) for accredited laboratories ;  personalized genomic? Diagnosi? Find ancestor? ‘天赋基因’检测服务没有项目资质，不该出现在市场上。在美国，这类基因检测仅停留在实验室研究阶段，禁止进入市场赚钱。人的天赋具体由哪些基因决定、如何决定，以目前的科技水平还没办法给出准确解答。比如，智商与基因有密切关系，但智商由成千上万的基因综合决定，从基因测序的角度看，很难检测出某人的智商天赋。相反，某个基因突变导致智商很低是完全能够检测出来的，例如唐氏综合征、结节性硬化症，但这是基因检测在医学上的应用。
+Website: risk of getting cancer? Parent child or siblings relationship test (https://www.gov.uk/get-dna-test) for accredited laboratories ;  personalized genomic? Diagnosi? Find ancestor? ‘天赋基因’检测服务没有项目资质，不该出现在市场上。在美国，这类基因检测仅停留在实验室研究阶段，禁止进入市场赚钱。人的天赋具体由哪些基因决定、如何决定，以目前的科技水平还没办法给出准确解答。比如，智商与基因有密切关系，但智商由成千上万的基因综合决定，从基因测序的角度看，很难检测出某人的智商天赋。相反，某个基因突变导致智商很低是完全能够检测出来的，例如唐氏综合征、结节性硬化症，但这是基因检测在医学上的应用。
 # NOTE: risk of getting cancer? Parent child or siblings relationship test (https://www.gov.uk/get-dna-test) for accredited laboratories ;  personalized genomic? Diagnosi? Find ancestor?
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: Language
-website: Don’t mind English or Chinese
+Website: Don’t mind English or Chinese
 
 Record_Type: genetic test question
 Record_SubType: Gender
@@ -97,45 +97,45 @@ Name: 你通常要得到GP或專業醫生的轉介，才能得到基因測試
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: Name
-website: website
-frequency: frequency
+Website: website
+Frequency: frequency
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: 16p11.2 duplication
-website: https://ghr.nlm.nih.gov/condition/16p112-duplication
-frequency: 16p11.2 duplications have been estimated to occur in about 3 in 10,000 people. These changes are present in about 4 in 10,000 people who have mental health problems or difficulties with speech and language. Many people with the duplication are likely never diagnosed because there are many causes of these problems, and some people with the duplication have no related health or developmental problems.
+Website: https://ghr.nlm.nih.gov/condition/16p112-duplication
+Frequency: 16p11.2 duplications have been estimated to occur in about 3 in 10,000 people. These changes are present in about 4 in 10,000 people who have mental health problems or difficulties with speech and language. Many people with the duplication are likely never diagnosed because there are many causes of these problems, and some people with the duplication have no related health or developmental problems.
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: 16p12.2 microdeletion
-website: https://ghr.nlm.nih.gov/condition/16p122-microdeletion
-frequency: Researchers estimate that about 1 in 2,000 newborns have a 16p12.2 microdeletion and show signs and symptoms of the condition. However, the actual number may be higher because many people with the microdeletion are likely never diagnosed. Some never come to medical attention because they have no related health or behavioral problems or have only mild signs and symptoms. Others have nonspecific features for which there can be many causes.
+Website: https://ghr.nlm.nih.gov/condition/16p122-microdeletion
+Frequency: Researchers estimate that about 1 in 2,000 newborns have a 16p12.2 microdeletion and show signs and symptoms of the condition. However, the actual number may be higher because many people with the microdeletion are likely never diagnosed. Some never come to medical attention because they have no related health or behavioral problems or have only mild signs and symptoms. Others have nonspecific features for which there can be many causes.
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: Name
-website: website
-frequency: frequency
+Website: website
+Frequency: frequency
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: 17-beta hydroxysteroid dehydrogenase 3 deficiency
 # NOTE: 17-beta hydroxysteroid dehydrogenase 3 deficiency
-website: https://ghr.nlm.nih.gov/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiecy
+Website: https://ghr.nlm.nih.gov/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiecy
 # NOTE: https://ghr.nlm.nih.gov/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiecy
-frequency: 17-beta hydroxysteroid dehydrogenase 3 deficiency is a rare disorder. It is more common in the Arab population of Gaza, where it affects 1 in 200 to 300 people.
+Frequency: 17-beta hydroxysteroid dehydrogenase 3 deficiency is a rare disorder. It is more common in the Arab population of Gaza, where it affects 1 in 200 to 300 people.
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: Name
-website: website
-frequency: condition
+Website: website
+Frequency: condition
 
 Record_Type: genetic test question
 Record_SubType: Gender
 Name: 17q12 deletion syndrome
-website: https://ghr.nlm.nih.gov/condition/17q12-deletion-syndrome
-frequency: Many affected individuals also develop a form of diabetes called maturity-onset diabetes of the young type 5 (MODY5), which is caused by a malfunction of certain cells in the pancreas. MODY5 usually appears in adolescence or early adulthood, most often before age 25.
+Website: https://ghr.nlm.nih.gov/condition/17q12-deletion-syndrome
+Frequency: Many affected individuals also develop a form of diabetes called maturity-onset diabetes of the young type 5 (MODY5), which is caused by a malfunction of certain cells in the pancreas. MODY5 usually appears in adolescence or early adulthood, most often before age 25.
 # NOTE: Many affected individuals also develop a form of diabetes called maturity-onset diabetes of the young type 5 (MODY5), which is caused by a malfunction of certain cells in the pancreas. MODY5 usually appears in adolescence or early adulthood, most often before age 25.
 

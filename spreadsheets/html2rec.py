@@ -59,19 +59,19 @@ class Parser(HTMLParser.HTMLParser):
         if tag=="td":
             curCell.append(endNeed)
             if endNeed and len(curCell)==2:
-                curCell=[] # <span...></span>
+                curCell=[] # just <span...></span>
             curRow.append("".join(curCell).replace("<b></b>",""))
             curCell = []
             curRow += [""]*(colspan-1)
             colspan = 0
         elif tag=="tr":
             if not headings:
-                curRow = map(lambda x:re.sub("<[^>]*>","",x).replace("-","_").replace(" ","_"),curRow)
+                curRow = map(lambda x:re.sub("<[^>]*>","",x),curRow)
                 while curRow and not curRow[-1]:
                     curRow=curRow[:-1]
                 if len(curRow)==1: sys.argv[1] += "\nRecordType_Descr: "+curRow[0]
                 elif curRow:
-                    headings = curRow
+                    headings = map(lambda x:(x[:1].upper()+x[1:].lower()).replace("-","_").replace(" ","_"),curRow)
                     if headings[0]=="1": headings[0] = ""
                     print "%allowed: Record_Type Record_SubType RecordType_Descr "+" ".join(h for h in headings if h)+"\n"
             else:

@@ -1,31 +1,31 @@
 # -*- mode: rec -*-
 
-%allowed: Record_Type Record_SubType RecordType_Descr Genes_and_drugs https://www.ncbi.nlm.nih.gov/books/NBK61999/
+%allowed: Record_Type Record_SubType RecordType_Descr Genes_and_drugs Https://www.ncbi.nlm.nih.gov/books/nbk61999/
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Genes and drugs
 Genes_and_drugs: Disease
-https://www.ncbi.nlm.nih.gov/books/NBK61999/: Drug
+Https://www.ncbi.nlm.nih.gov/books/nbk61999/: Drug
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Genes and drugs
 Genes_and_drugs: HIV
-https://www.ncbi.nlm.nih.gov/books/NBK61999/: Abacavir
+Https://www.ncbi.nlm.nih.gov/books/nbk61999/: Abacavir
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Genes and drugs
 Genes_and_drugs: gout and hyperuricemia
-https://www.ncbi.nlm.nih.gov/books/NBK61999/: Allopurinol
+Https://www.ncbi.nlm.nih.gov/books/nbk61999/: Allopurinol
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Genes and drugs
 Genes_and_drugs: major depression, obsessive-compulsive disorder, panic attacks, generalized anxiety disorder, post-traumatic stress disorder, and bulimia
-https://www.ncbi.nlm.nih.gov/books/NBK61999/: Amitriptyline
+Https://www.ncbi.nlm.nih.gov/books/nbk61999/: Amitriptyline
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Genes and drugs
 Genes_and_drugs: schizophrenia, bipolar disorder, major depressive disorder, irritability associated with autistic disorder, and treatment of Tourette’s disorder
-https://www.ncbi.nlm.nih.gov/books/NBK61999/: Aripiprazole
+Https://www.ncbi.nlm.nih.gov/books/nbk61999/: Aripiprazole
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Genes and drugs
@@ -44,7 +44,7 @@ Record_Type: structure of the website for genetic testing
 Record_SubType: Genes and drugs
 Genes_and_drugs: America
 # NOTE: America
-https://www.ncbi.nlm.nih.gov/books/NBK61999/: 
+Https://www.ncbi.nlm.nih.gov/books/nbk61999/: 
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Genes and drugs
@@ -74,7 +74,7 @@ Record_Type: structure of the website for genetic testing
 Record_SubType: Genes and drugs
 Genes_and_drugs: Europe
 # NOTE: Europe
-https://www.ncbi.nlm.nih.gov/books/NBK61999/: 
+Https://www.ncbi.nlm.nih.gov/books/nbk61999/: 
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Genes and drugs
@@ -116,7 +116,7 @@ Record_Type: structure of the website for genetic testing
 Record_SubType: Genes and drugs
 Genes_and_drugs: Asia
 # NOTE: Asia
-https://www.ncbi.nlm.nih.gov/books/NBK61999/: 
+Https://www.ncbi.nlm.nih.gov/books/nbk61999/: 
 
 Record_Type: structure of the website for genetic testing
 Record_SubType: Genes and drugs

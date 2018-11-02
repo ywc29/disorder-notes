@@ -1,1146 +1,1146 @@
 # -*- mode: rec -*-
 
-%allowed: Record_Type Record_SubType RecordType_Descr symptoms symptoms_development
+%allowed: Record_Type Record_SubType RecordType_Descr Symptoms Symptoms_development
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Intellectual disability
+Symptoms: Intellectual disability
 # NOTE: Intellectual disability
-symptoms_development: present at birth
+Symptoms_development: present at birth
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: seizures (epilepsy)
+Symptoms: seizures (epilepsy)
 # NOTE: seizures (epilepsy)
-symptoms_development: develop over time
+Symptoms_development: develop over time
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: psychiatric disorder
+Symptoms: psychiatric disorder
 # NOTE: psychiatric disorder
-symptoms_development: begins in childhood, usually before 4
+Symptoms_development: begins in childhood, usually before 4
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: learning problem/difficulties
+Symptoms: learning problem/difficulties
 # NOTE: learning problem/difficulties
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Growth development problem, eg slow growth (before birth(intrauterine) or after birth, growth spurt (adolescent)), rapid growth and overgrowth (macrosomia), early growth, growth failure and delayed growth. Reduced puberty growth, lack of growth spurt
+Symptoms: Growth development problem, eg slow growth (before birth(intrauterine) or after birth, growth spurt (adolescent)), rapid growth and overgrowth (macrosomia), early growth, growth failure and delayed growth. Reduced puberty growth, lack of growth spurt
 # NOTE: Growth development problem, eg slow growth (before birth(intrauterine) or after birth, growth spurt (adolescent)), rapid growth and overgrowth (macrosomia), early growth, growth failure and delayed growth. Reduced puberty growth, lack of growth spurt
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Underdevelopment (Hypoplasia) : a flat or sunken appearance of the middle of the face (midface hypoplasia); muscle hypoplasia; underdevelopment of the region at the back of the eye responsible for sharp central vision (foveal hypoplasia); thin enamel on the teeth (enamel hypoplasia); hypoplasia of cerebellum and the pons; underdevelopment of the nerves that carry information from the eyes to the brain (optic nerve hypoplasia); (hypoplasia) of the tips of the fingers or toes, or hypoplasia or absence of the nails; corpus callosum hypoplasia; underdevelopment of the lungs (pulmonary hypoplasia); underdevelopment of one side of the upper or lower jaw (maxillary or mandibular hypoplasia);  thin or missing patches of skin on the scalp (dermal hypoplasia or aplasia); underdeveloped thumbs (thumb hypoplasia); very thin skin (dermal hypoplasia); focal dermal hypoplasia; underdevelopment of pituitary gland (pituitary hypoplasia);  hypoplasia of Leydig cells in the testes; cerebellar hypoplasia;   malar hypoplasia; mandibular hypoplasia, also called micrognathia; hypoplasia of the labia majora; (hypoplasia) of a peg-like bone in the neck called the odontoid process; heart, lung, brain underdevelopment; thyroid; (hypoplasia) of one or both kidneys; genital hypoplasia; bones of the skull; scrotum; underdevelopment of the wing-shaped structures of pelvis (hypoplastic iliac wings); ear canal
+Symptoms: Underdevelopment (Hypoplasia) : a flat or sunken appearance of the middle of the face (midface hypoplasia); muscle hypoplasia; underdevelopment of the region at the back of the eye responsible for sharp central vision (foveal hypoplasia); thin enamel on the teeth (enamel hypoplasia); hypoplasia of cerebellum and the pons; underdevelopment of the nerves that carry information from the eyes to the brain (optic nerve hypoplasia); (hypoplasia) of the tips of the fingers or toes, or hypoplasia or absence of the nails; corpus callosum hypoplasia; underdevelopment of the lungs (pulmonary hypoplasia); underdevelopment of one side of the upper or lower jaw (maxillary or mandibular hypoplasia);  thin or missing patches of skin on the scalp (dermal hypoplasia or aplasia); underdeveloped thumbs (thumb hypoplasia); very thin skin (dermal hypoplasia); focal dermal hypoplasia; underdevelopment of pituitary gland (pituitary hypoplasia);  hypoplasia of Leydig cells in the testes; cerebellar hypoplasia;   malar hypoplasia; mandibular hypoplasia, also called micrognathia; hypoplasia of the labia majora; (hypoplasia) of a peg-like bone in the neck called the odontoid process; heart, lung, brain underdevelopment; thyroid; (hypoplasia) of one or both kidneys; genital hypoplasia; bones of the skull; scrotum; underdevelopment of the wing-shaped structures of pelvis (hypoplastic iliac wings); ear canal
 # NOTE: Underdevelopment (Hypoplasia) : a flat or sunken appearance of the middle of the face (midface hypoplasia); muscle hypoplasia; underdevelopment of the region at the back of the eye responsible for sharp central vision (foveal hypoplasia); thin enamel on the teeth (enamel hypoplasia); hypoplasia of cerebellum and the pons; underdevelopment of the nerves that carry information from the eyes to the brain (optic nerve hypoplasia); (hypoplasia) of the tips of the fingers or toes, or hypoplasia or absence of the nails; corpus callosum hypoplasia; underdevelopment of the lungs (pulmonary hypoplasia); underdevelopment of one side of the upper or lower jaw (maxillary or mandibular hypoplasia);  thin or missing patches of skin on the scalp (dermal hypoplasia or aplasia); underdeveloped thumbs (thumb hypoplasia); very thin skin (dermal hypoplasia); focal dermal hypoplasia; underdevelopment of pituitary gland (pituitary hypoplasia);  hypoplasia of Leydig cells in the testes; cerebellar hypoplasia;   malar hypoplasia; mandibular hypoplasia, also called micrognathia; hypoplasia of the labia majora; (hypoplasia) of a peg-like bone in the neck called the odontoid process; heart, lung, brain underdevelopment; thyroid; (hypoplasia) of one or both kidneys; genital hypoplasia; bones of the skull; scrotum; underdevelopment of the wing-shaped structures of pelvis (hypoplastic iliac wings); ear canal
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Reduced production of hormones directs sexual development (hypogonadotropic hypogonadism);
+Symptoms: Reduced production of hormones directs sexual development (hypogonadotropic hypogonadism);
 # NOTE: Reduced production of hormones directs sexual development (hypogonadotropic hypogonadism);
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Poor muscle development
+Symptoms: Poor muscle development
 # NOTE: Poor muscle development
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: deformities of joint that limiting movement (contractures) of hips, knees, ankles, or elbows; distal arthrogryposis; (camptodactyly), bent fingers and toes hand deformity in which all of the fingers are angled outward toward the fifth finger (ulnar deviation, also called"windmill vane hand");  inward- and downward-turning feet (clubfoot); contractures in the legs and hips; turning in (valgus deformity) of the feet; contractures affecting elbows and wrists
+Symptoms: deformities of joint that limiting movement (contractures) of hips, knees, ankles, or elbows; distal arthrogryposis; (camptodactyly), bent fingers and toes hand deformity in which all of the fingers are angled outward toward the fifth finger (ulnar deviation, also called"windmill vane hand");  inward- and downward-turning feet (clubfoot); contractures in the legs and hips; turning in (valgus deformity) of the feet; contractures affecting elbows and wrists
 # NOTE: deformities of joint that limiting movement (contractures) of hips, knees, ankles, or elbows; distal arthrogryposis; (camptodactyly), bent fingers and toes hand deformity in which all of the fingers are angled outward toward the fifth finger (ulnar deviation, also called"windmill vane hand");  inward- and downward-turning feet (clubfoot); contractures in the legs and hips; turning in (valgus deformity) of the feet; contractures affecting elbows and wrists
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: disrupt sexual development and maturation
+Symptoms: disrupt sexual development and maturation
 # NOTE: disrupt sexual development and maturation
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: secondary development of sexual characteristic
+Symptoms: secondary development of sexual characteristic
 # NOTE: secondary development of sexual characteristic
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: schizophrenia
+Symptoms: schizophrenia
 # NOTE: schizophrenia
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: psychomotor regression
+Symptoms: psychomotor regression
 # NOTE: psychomotor regression
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Developmental disorder
+Symptoms: Developmental disorder
 # NOTE: Developmental disorder
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Delay development and disability
+Symptoms: Delay development and disability
 # NOTE: Delay development and disability
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Delayed development: involuntary movements (motor tics)
+Symptoms: Delayed development: involuntary movements (motor tics)
 # NOTE: Delayed development: involuntary movements (motor tics)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Developmental delays: physical
+Symptoms: Developmental delays: physical
 # NOTE: Developmental delays: physical
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Developmental delays: skills
+Symptoms: Developmental delays: skills
 # NOTE: Developmental delays: skills
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Developmental delays: delayed development of mental and motor skills such as crawling, sitting, standing, holding up the head and rolling over,reaching for a toy and walking (psychomotor)
+Symptoms: Developmental delays: delayed development of mental and motor skills such as crawling, sitting, standing, holding up the head and rolling over,reaching for a toy and walking (psychomotor)
 # NOTE: Developmental delays: delayed development of mental and motor skills such as crawling, sitting, standing, holding up the head and rolling over,reaching for a toy and walking (psychomotor)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Developmental delays: delayed development of speech
+Symptoms: Developmental delays: delayed development of speech
 # NOTE: Developmental delays: delayed development of speech
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: dysarthria構音障礙
+Symptoms: dysarthria構音障礙
 # NOTE: dysarthria構音障礙
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Developmental delays: growth delays
+Symptoms: Developmental delays: growth delays
 # NOTE: Developmental delays: growth delays
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Developmental delay: expressive language skills
+Symptoms: Developmental delay: expressive language skills
 # NOTE: Developmental delay: expressive language skills
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Autism: Impaired communication
+Symptoms: Autism: Impaired communication
 # NOTE: Autism: Impaired communication
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Autism: Disorder in social interaction
+Symptoms: Autism: Disorder in social interaction
 # NOTE: Autism: Disorder in social interaction
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Autism spectrum disorder(s) (ASD)
+Symptoms: Autism spectrum disorder(s) (ASD)
 # NOTE: Autism spectrum disorder(s) (ASD)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: behavioral problems
+Symptoms: behavioral problems
 # NOTE: behavioral problems
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: short attention span
+Symptoms: short attention span
 # NOTE: short attention span
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: physical aggression
+Symptoms: physical aggression
 # NOTE: physical aggression
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: aggressive behavior
+Symptoms: aggressive behavior
 # NOTE: aggressive behavior
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: hyperactive
+Symptoms: hyperactive
 # NOTE: hyperactive
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: anxiety
+Symptoms: anxiety
 # NOTE: anxiety
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: bipolar disorder
+Symptoms: bipolar disorder
 # NOTE: bipolar disorder
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: depression/ depressive disorder
+Symptoms: depression/ depressive disorder
 # NOTE: depression/ depressive disorder
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: heart defect
+Symptoms: heart defect
 # NOTE: heart defect
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: heart defect: tetralogy of Fallot
+Symptoms: heart defect: tetralogy of Fallot
 # NOTE: heart defect: tetralogy of Fallot
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: heart defect: patent ductus arteriosus (PDA)
+Symptoms: heart defect: patent ductus arteriosus (PDA)
 # NOTE: heart defect: patent ductus arteriosus (PDA)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: heart defect: aortic root dilatation
+Symptoms: heart defect: aortic root dilatation
 # NOTE: heart defect: aortic root dilatation
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: heart defect: (ASD) artricular septal defects or ventricular septal defects (VSD)
+Symptoms: heart defect: (ASD) artricular septal defects or ventricular septal defects (VSD)
 # NOTE: heart defect: (ASD) artricular septal defects or ventricular septal defects (VSD)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal heart rhythm (arrhythmia)
+Symptoms: abnormal heart rhythm (arrhythmia)
 # NOTE: abnormal heart rhythm (arrhythmia)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: dwarfism
+Symptoms: dwarfism
 # NOTE: dwarfism
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: short stature
+Symptoms: short stature
 # NOTE: short stature
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: tall stature
+Symptoms: tall stature
 # NOTE: tall stature
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: small stature
+Symptoms: small stature
 # NOTE: small stature
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Shaking; Rhythmic shaking; tremor; trembling震顫
+Symptoms: Shaking; Rhythmic shaking; tremor; trembling震顫
 # NOTE: Shaking; Rhythmic shaking; tremor; trembling震顫
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: bone abnormalities in their hands and arms
+Symptoms: bone abnormalities in their hands and arms
 # NOTE: bone abnormalities in their hands and arms
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: weak/ low muscle tone (hypotonia)
+Symptoms: weak/ low muscle tone (hypotonia)
 # NOTE: weak/ low muscle tone (hypotonia)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: hand tremor
+Symptoms: hand tremor
 # NOTE: hand tremor
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: head tremor
+Symptoms: head tremor
 # NOTE: head tremor
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: vocal tremor
+Symptoms: vocal tremor
 # NOTE: vocal tremor
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: essential tremor
+Symptoms: essential tremor
 # NOTE: essential tremor
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: intention tremor; involuntary rhythmic shaking; tremor occurs during movement
+Symptoms: intention tremor; involuntary rhythmic shaking; tremor occurs during movement
 # NOTE: intention tremor; involuntary rhythmic shaking; tremor occurs during movement
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: resting tremor
+Symptoms: resting tremor
 # NOTE: resting tremor
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: arm and hand shaking
+Symptoms: arm and hand shaking
 # NOTE: arm and hand shaking
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: leg tremor
+Symptoms: leg tremor
 # NOTE: leg tremor
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: postural tremor; shaking when holding a position
+Symptoms: postural tremor; shaking when holding a position
 # NOTE: postural tremor; shaking when holding a position
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: problems with coordinating muscle movement and balance (ataxia)
+Symptoms: problems with coordinating muscle movement and balance (ataxia)
 # NOTE: problems with coordinating muscle movement and balance (ataxia)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: genital abnormalities: unusually small penis (micropenis)
+Symptoms: genital abnormalities: unusually small penis (micropenis)
 # NOTE: genital abnormalities: unusually small penis (micropenis)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: opening of the urethra on the underside of the penis (hypospadias)
+Symptoms: opening of the urethra on the underside of the penis (hypospadias)
 # NOTE: opening of the urethra on the underside of the penis (hypospadias)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: external genital abnormalities
+Symptoms: external genital abnormalities
 # NOTE: external genital abnormalities
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal male genitalia
+Symptoms: abnormal male genitalia
 # NOTE: abnormal male genitalia
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: ambiguous genitalia
+Symptoms: ambiguous genitalia
 # NOTE: ambiguous genitalia
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Abnormalities of the genitalia and urinary tract(genitourinary abnormalities) (genitourinary anomalies)
+Symptoms: Abnormalities of the genitalia and urinary tract(genitourinary abnormalities) (genitourinary anomalies)
 # NOTE: Abnormalities of the genitalia and urinary tract(genitourinary abnormalities) (genitourinary anomalies)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: small external genital
+Symptoms: small external genital
 # NOTE: small external genital
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: skeletal abnormalities
+Symptoms: skeletal abnormalities
 # NOTE: skeletal abnormalities
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: loose joints (joints laxity, hyperextensible)  /very flexible (hypermobile)
+Symptoms: loose joints (joints laxity, hyperextensible)  /very flexible (hypermobile)
 # NOTE: loose joints (joints laxity, hyperextensible)  /very flexible (hypermobile)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: stiff joints
+Symptoms: stiff joints
 # NOTE: stiff joints
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: misalignment of hip joints (hip dysplasia)
+Symptoms: misalignment of hip joints (hip dysplasia)
 # NOTE: misalignment of hip joints (hip dysplasia)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: develop arthritis in large joints
+Symptoms: develop arthritis in large joints
 # NOTE: develop arthritis in large joints
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: joint movement restriction
+Symptoms: joint movement restriction
 # NOTE: joint movement restriction
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: deterioration of joints
+Symptoms: deterioration of joints
 # NOTE: deterioration of joints
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: joint inflammation
+Symptoms: joint inflammation
 # NOTE: joint inflammation
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: vertebrae joint inflammation (spondylities)
+Symptoms: vertebrae joint inflammation (spondylities)
 # NOTE: vertebrae joint inflammation (spondylities)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Inflammation of joints between spine and ribs
+Symptoms: Inflammation of joints between spine and ribs
 # NOTE: Inflammation of joints between spine and ribs
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: swelling of joints
+Symptoms: swelling of joints
 # NOTE: swelling of joints
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: pain joints
+Symptoms: pain joints
 # NOTE: pain joints
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: sacroiliac joints (joints between the pelvic bones (the ilia) and the base of the spine (the sacrum) ) inflammation (sacroiliitis)
+Symptoms: sacroiliac joints (joints between the pelvic bones (the ilia) and the base of the spine (the sacrum) ) inflammation (sacroiliitis)
 # NOTE: sacroiliac joints (joints between the pelvic bones (the ilia) and the base of the spine (the sacrum) ) inflammation (sacroiliitis)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Arthritis: Inflammation of the lining of joints (synovium)
+Symptoms: Arthritis: Inflammation of the lining of joints (synovium)
 # NOTE: Arthritis: Inflammation of the lining of joints (synovium)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Inflammation of the joints of the hands, feet, wrist and ankle (synovitis)
+Symptoms: Inflammation of the joints of the hands, feet, wrist and ankle (synovitis)
 # NOTE: Inflammation of the joints of the hands, feet, wrist and ankle (synovitis)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Charcot joints: bones and tissue surrounding joints are destroyed
+Symptoms: Charcot joints: bones and tissue surrounding joints are destroyed
 # NOTE: Charcot joints: bones and tissue surrounding joints are destroyed
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: stiff, rigid joints (arthrogryposis)
+Symptoms: stiff, rigid joints (arthrogryposis)
 # NOTE: stiff, rigid joints (arthrogryposis)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: degeneration of (avascular necrosis) of the hip and shoulder joints
+Symptoms: degeneration of (avascular necrosis) of the hip and shoulder joints
 # NOTE: degeneration of (avascular necrosis) of the hip and shoulder joints
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: enlarged wrist and ankled knee and ankle joints
+Symptoms: enlarged wrist and ankled knee and ankle joints
 # NOTE: enlarged wrist and ankled knee and ankle joints
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: webbing of the skin (pterygium) at the joints
+Symptoms: webbing of the skin (pterygium) at the joints
 # NOTE: webbing of the skin (pterygium) at the joints
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: low weight
+Symptoms: low weight
 # NOTE: low weight
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal wrist and elbow joint development
+Symptoms: abnormal wrist and elbow joint development
 # NOTE: abnormal wrist and elbow joint development
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: calcium deposits in the joints
+Symptoms: calcium deposits in the joints
 # NOTE: calcium deposits in the joints
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: muscle stiffness (spasticity)
+Symptoms: muscle stiffness (spasticity)
 # NOTE: muscle stiffness (spasticity)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: muscle weakness (myopathy)
+Symptoms: muscle weakness (myopathy)
 # NOTE: muscle weakness (myopathy)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Poor muscle tone; Uncontrolled muscle tensing/cramping/contraction (dystonia): cervical dystonia, focal dystonia of hand; dystonia affecting arms and legs; Musician's dystonia is a form of task-specific focal dystonia; embouchure dystonia
+Symptoms: Poor muscle tone; Uncontrolled muscle tensing/cramping/contraction (dystonia): cervical dystonia, focal dystonia of hand; dystonia affecting arms and legs; Musician's dystonia is a form of task-specific focal dystonia; embouchure dystonia
 # NOTE: Poor muscle tone; Uncontrolled muscle tensing/cramping/contraction (dystonia): cervical dystonia, focal dystonia of hand; dystonia affecting arms and legs; Musician's dystonia is a form of task-specific focal dystonia; embouchure dystonia
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: shortage of red blood cells
+Symptoms: shortage of red blood cells
 # NOTE: shortage of red blood cells
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal development of bone marrow cells called megakaryocytes
+Symptoms: abnormal development of bone marrow cells called megakaryocytes
 # NOTE: abnormal development of bone marrow cells called megakaryocytes
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: aplasia cutis congenita: abnormal skin development
+Symptoms: aplasia cutis congenita: abnormal skin development
 # NOTE: aplasia cutis congenita: abnormal skin development
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: eczema
+Symptoms: eczema
 # NOTE: eczema
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: teeth to be unusually small, discolored, pitted or grooved,  and prone to rapid wear and breakage
+Symptoms: teeth to be unusually small, discolored, pitted or grooved,  and prone to rapid wear and breakage
 # NOTE: teeth to be unusually small, discolored, pitted or grooved,  and prone to rapid wear and breakage
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Abnormal development of ectodermal tissues including the skin, hair, teeth, and sweat
+Symptoms: Abnormal development of ectodermal tissues including the skin, hair, teeth, and sweat
 # NOTE: Abnormal development of ectodermal tissues including the skin, hair, teeth, and sweat
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Abnormal development of the ears and lower jaw (mandible);abnormality called a"question-mark ear,"in which the ears have a distinctive question-mark shape caused by a split that separates the upper part of the ear from the earlobe
+Symptoms: Abnormal development of the ears and lower jaw (mandible);abnormality called a"question-mark ear,"in which the ears have a distinctive question-mark shape caused by a split that separates the upper part of the ear from the earlobe
 # NOTE: Abnormal development of the ears and lower jaw (mandible);abnormality called a"question-mark ear,"in which the ears have a distinctive question-mark shape caused by a split that separates the upper part of the ear from the earlobe
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: cupped ears
+Symptoms: cupped ears
 # NOTE: cupped ears
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: ears with fewer folds
+Symptoms: ears with fewer folds
 # NOTE: ears with fewer folds
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: narrow ear canals
+Symptoms: narrow ear canals
 # NOTE: narrow ear canals
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: small skin tags in front of or behind the ears
+Symptoms: small skin tags in front of or behind the ears
 # NOTE: small skin tags in front of or behind the ears
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: ears that are rotated backward
+Symptoms: ears that are rotated backward
 # NOTE: ears that are rotated backward
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: loss of hearings
+Symptoms: loss of hearings
 # NOTE: loss of hearings
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: repititive behaviour
+Symptoms: repititive behaviour
 # NOTE: repititive behaviour
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: loss of underarm and pubic hair
+Symptoms: loss of underarm and pubic hair
 # NOTE: loss of underarm and pubic hair
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: brain dysfunction (encephalopathy)
+Symptoms: brain dysfunction (encephalopathy)
 # NOTE: brain dysfunction (encephalopathy)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: involuntary limb movements (choreoathetosis)
+Symptoms: involuntary limb movements (choreoathetosis)
 # NOTE: involuntary limb movements (choreoathetosis)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: narrowing of the eye opening (blepharophimosis), droopy eyelids (ptosis), and an upward fold of the skin of the lower eyelid near the inner corner of the eye (epicanthus inversus)
+Symptoms: narrowing of the eye opening (blepharophimosis), droopy eyelids (ptosis), and an upward fold of the skin of the lower eyelid near the inner corner of the eye (epicanthus inversus)
 # NOTE: narrowing of the eye opening (blepharophimosis), droopy eyelids (ptosis), and an upward fold of the skin of the lower eyelid near the inner corner of the eye (epicanthus inversus)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Abnormal branchial arch development
+Symptoms: Abnormal branchial arch development
 # NOTE: Abnormal branchial arch development
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: unusually small eyeballs (microphthalmia),(anophthalmia), a gap or split in structures that make up the eyes (coloboma) or blockage of the tear ducts (nasolacrimal duct stenosis).
+Symptoms: unusually small eyeballs (microphthalmia),(anophthalmia), a gap or split in structures that make up the eyes (coloboma) or blockage of the tear ducts (nasolacrimal duct stenosis).
 # NOTE: unusually small eyeballs (microphthalmia),(anophthalmia), a gap or split in structures that make up the eyes (coloboma) or blockage of the tear ducts (nasolacrimal duct stenosis).
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: distinctive facial features
+Symptoms: distinctive facial features
 # NOTE: distinctive facial features
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal development of the second branchial arch forming masses in the neck called branchial cleft cysts.
+Symptoms: abnormal development of the second branchial arch forming masses in the neck called branchial cleft cysts.
 # NOTE: abnormal development of the second branchial arch forming masses in the neck called branchial cleft cysts.
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: High levels of cortisol (hypercortisolism)
+Symptoms: High levels of cortisol (hypercortisolism)
 # NOTE: High levels of cortisol (hypercortisolism)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: increased pressure within the skull (intracranial pressure)
+Symptoms: increased pressure within the skull (intracranial pressure)
 # NOTE: increased pressure within the skull (intracranial pressure)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: genital agenesis
+Symptoms: genital agenesis
 # NOTE: genital agenesis
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: impair vision
+Symptoms: impair vision
 # NOTE: impair vision
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: undescended testes (cryptorchidism)
+Symptoms: undescended testes (cryptorchidism)
 # NOTE: undescended testes (cryptorchidism)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: a swollen, rounded cheeks
+Symptoms: a swollen, rounded cheeks
 # NOTE: a swollen, rounded cheeks
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Abnormal development of the diaphragm
+Symptoms: Abnormal development of the diaphragm
 # NOTE: Abnormal development of the diaphragm
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: development of small yellow deposits of fat under the skin called eruptive xanthomas
+Symptoms: development of small yellow deposits of fat under the skin called eruptive xanthomas
 # NOTE: development of small yellow deposits of fat under the skin called eruptive xanthomas
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: inflammation of the pancreas (pancreatitis).
+Symptoms: inflammation of the pancreas (pancreatitis).
 # NOTE: inflammation of the pancreas (pancreatitis).
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: sparse hair, small or missing teeth, short fingernails and toenails, and loose skin.
+Symptoms: sparse hair, small or missing teeth, short fingernails and toenails, and loose skin.
 # NOTE: sparse hair, small or missing teeth, short fingernails and toenails, and loose skin.
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: developmental abnormalities involving the skull (cranium) and face
+Symptoms: developmental abnormalities involving the skull (cranium) and face
 # NOTE: developmental abnormalities involving the skull (cranium) and face
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: problems with regulating blood sugar levels
+Symptoms: problems with regulating blood sugar levels
 # NOTE: problems with regulating blood sugar levels
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: development of inward- and upward-turning feet (clubfeet)
+Symptoms: development of inward- and upward-turning feet (clubfeet)
 # NOTE: development of inward- and upward-turning feet (clubfeet)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: development of a noncancerous tumor in the pituitary gland (pituitary adenoma)
+Symptoms: development of a noncancerous tumor in the pituitary gland (pituitary adenoma)
 # NOTE: development of a noncancerous tumor in the pituitary gland (pituitary adenoma)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal eye development, including missing eyebrows or eyelashes or a patch of hair extending from the side hairline to the eyebrow.
+Symptoms: abnormal eye development, including missing eyebrows or eyelashes or a patch of hair extending from the side hairline to the eyebrow.
 # NOTE: abnormal eye development, including missing eyebrows or eyelashes or a patch of hair extending from the side hairline to the eyebrow.
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal bone development (dysostosis multiplex)
+Symptoms: abnormal bone development (dysostosis multiplex)
 # NOTE: abnormal bone development (dysostosis multiplex)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal development of the ovaries (polycystic ovaries)
+Symptoms: abnormal development of the ovaries (polycystic ovaries)
 # NOTE: abnormal development of the ovaries (polycystic ovaries)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: malformation of the hands and feet called ectrodactyly.
+Symptoms: malformation of the hands and feet called ectrodactyly.
 # NOTE: malformation of the hands and feet called ectrodactyly.
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: multiple abnormalities in the blood vessels
+Symptoms: multiple abnormalities in the blood vessels
 # NOTE: multiple abnormalities in the blood vessels
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: premature tooth loss
+Symptoms: premature tooth loss
 # NOTE: premature tooth loss
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: development of wart-like skin
+Symptoms: development of wart-like skin
 # NOTE: development of wart-like skin
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: hyperpigmentation; skin coloring (pigmentation)
+Symptoms: hyperpigmentation; skin coloring (pigmentation)
 # NOTE: hyperpigmentation; skin coloring (pigmentation)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: development of swellings called spheroid bodies in the axons, the fibers that extend from nerve cells (neurons)
+Symptoms: development of swellings called spheroid bodies in the axons, the fibers that extend from nerve cells (neurons)
 # NOTE: development of swellings called spheroid bodies in the axons, the fibers that extend from nerve cells (neurons)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: paralysis of the limbs (paraplegia)
+Symptoms: paralysis of the limbs (paraplegia)
 # NOTE: paralysis of the limbs (paraplegia)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal development of the ovaries (ovarian dysgenesis)
+Symptoms: abnormal development of the ovaries (ovarian dysgenesis)
 # NOTE: abnormal development of the ovaries (ovarian dysgenesis)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal development of arms,  resulting in characteristic arm malformations
+Symptoms: abnormal development of arms,  resulting in characteristic arm malformations
 # NOTE: abnormal development of arms,  resulting in characteristic arm malformations
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: brain having a smooth appearance (lissencephaly)
+Symptoms: brain having a smooth appearance (lissencephaly)
 # NOTE: brain having a smooth appearance (lissencephaly)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: painful bumps or blisters on the face, neck, back, and arms.
+Symptoms: painful bumps or blisters on the face, neck, back, and arms.
 # NOTE: painful bumps or blisters on the face, neck, back, and arms.
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: extra fingers and/or toes (digits; polydactyly)
+Symptoms: extra fingers and/or toes (digits; polydactyly)
 # NOTE: extra fingers and/or toes (digits; polydactyly)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: disability that ranges from mild to severe
+Symptoms: disability that ranges from mild to severe
 # NOTE: disability that ranges from mild to severe
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: problems with the development of the roof of the mouth (palate), and
+Symptoms: problems with the development of the roof of the mouth (palate), and
 # NOTE: problems with the development of the roof of the mouth (palate), and
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormally smooth brain with fewer folds and grooves (lissencephaly)
+Symptoms: abnormally smooth brain with fewer folds and grooves (lissencephaly)
 # NOTE: abnormally smooth brain with fewer folds and grooves (lissencephaly)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: premature closure of certain bones of the skull (craniosynostosis)
+Symptoms: premature closure of certain bones of the skull (craniosynostosis)
 # NOTE: premature closure of certain bones of the skull (craniosynostosis)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal development of the Müllerian ducts, which are structures in the embryo that develop into the uterus, fallopian tubes, cervix, and the upper part of the vagina.
+Symptoms: abnormal development of the Müllerian ducts, which are structures in the embryo that develop into the uterus, fallopian tubes, cervix, and the upper part of the vagina.
 # NOTE: abnormal development of the Müllerian ducts, which are structures in the embryo that develop into the uterus, fallopian tubes, cervix, and the upper part of the vagina.
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: underdeveloped or absent uterus and may also have abnormalities of other reproductive organs
+Symptoms: underdeveloped or absent uterus and may also have abnormalities of other reproductive organs
 # NOTE: underdeveloped or absent uterus and may also have abnormalities of other reproductive organs
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal development of normal blood cells
+Symptoms: abnormal development of normal blood cells
 # NOTE: abnormal development of normal blood cells
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: high blood pressure (hypertension)
+Symptoms: high blood pressure (hypertension)
 # NOTE: high blood pressure (hypertension)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: narrowing (stenosis) of the heart valves or blood vessels
+Symptoms: narrowing (stenosis) of the heart valves or blood vessels
 # NOTE: narrowing (stenosis) of the heart valves or blood vessels
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: tightening of the pericardium
+Symptoms: tightening of the pericardium
 # NOTE: tightening of the pericardium
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: myoclonus
+Symptoms: myoclonus
 # NOTE: myoclonus
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal development of retina: immature retinal cells accumulating at the back of the eye
+Symptoms: abnormal development of retina: immature retinal cells accumulating at the back of the eye
 # NOTE: abnormal development of retina: immature retinal cells accumulating at the back of the eye
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Abnormal development of the heart (cardio-)
+Symptoms: Abnormal development of the heart (cardio-)
 # NOTE: Abnormal development of the heart (cardio-)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: problems with development of the oral cavity
+Symptoms: problems with development of the oral cavity
 # NOTE: problems with development of the oral cavity
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: dentinogenesis imperfecta
+Symptoms: dentinogenesis imperfecta
 # NOTE: dentinogenesis imperfecta
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormally small, fragile rib cage
+Symptoms: abnormally small, fragile rib cage
 # NOTE: abnormally small, fragile rib cage
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: problems with the development of blood-forming cells
+Symptoms: problems with the development of blood-forming cells
 # NOTE: problems with the development of blood-forming cells
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: cloudy cornea (opaque) which causes blurred vision
+Symptoms: cloudy cornea (opaque) which causes blurred vision
 # NOTE: cloudy cornea (opaque) which causes blurred vision
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: unusually small head size (microcephaly)
+Symptoms: unusually small head size (microcephaly)
 # NOTE: unusually small head size (microcephaly)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: impaired brain development,
+Symptoms: impaired brain development,
 # NOTE: impaired brain development,
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: underdevelopment of the tissue connecting the left and right halves of the brain (corpus callosum),
+Symptoms: underdevelopment of the tissue connecting the left and right halves of the brain (corpus callosum),
 # NOTE: underdevelopment of the tissue connecting the left and right halves of the brain (corpus callosum),
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: underdevelopment or absence of the bones in the forearms and the thumbs, which are known as radial ray malformations
+Symptoms: underdevelopment or absence of the bones in the forearms and the thumbs, which are known as radial ray malformations
 # NOTE: underdevelopment or absence of the bones in the forearms and the thumbs, which are known as radial ray malformations
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: feeding problems
+Symptoms: feeding problems
 # NOTE: feeding problems
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: small kidneys
+Symptoms: small kidneys
 # NOTE: small kidneys
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: development of scar tissue around blood vessels
+Symptoms: development of scar tissue around blood vessels
 # NOTE: development of scar tissue around blood vessels
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: respiratory problems
+Symptoms: respiratory problems
 # NOTE: respiratory problems
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: patchy white matter abnormalities (lesions) in the brain
+Symptoms: patchy white matter abnormalities (lesions) in the brain
 # NOTE: patchy white matter abnormalities (lesions) in the brain
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: osteopenia or osteoporosis
+Symptoms: osteopenia or osteoporosis
 # NOTE: osteopenia or osteoporosis
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: low blood sugar (hypoglycemia)
+Symptoms: low blood sugar (hypoglycemia)
 # NOTE: low blood sugar (hypoglycemia)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: enlarged liver and spleen (hepatosplenomegaly)
+Symptoms: enlarged liver and spleen (hepatosplenomegaly)
 # NOTE: enlarged liver and spleen (hepatosplenomegaly)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: unusual breast development (gynecomastia)
+Symptoms: unusual breast development (gynecomastia)
 # NOTE: unusual breast development (gynecomastia)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: development of bones in the spine and ribs ie mishapen and abnormally joint the bones of the spine (vertebrae)
+Symptoms: development of bones in the spine and ribs ie mishapen and abnormally joint the bones of the spine (vertebrae)
 # NOTE: development of bones in the spine and ribs ie mishapen and abnormally joint the bones of the spine (vertebrae)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: problems with breathing
+Symptoms: problems with breathing
 # NOTE: problems with breathing
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: lack of development of the gonads
+Symptoms: lack of development of the gonads
 # NOTE: lack of development of the gonads
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: development of female secondary sex characteristics
+Symptoms: development of female secondary sex characteristics
 # NOTE: development of female secondary sex characteristics
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: underdevelopment of the facial bones that  may restrict an affected infant's airway causing potentially life-threatening respiratory problems.
+Symptoms: underdevelopment of the facial bones that  may restrict an affected infant's airway causing potentially life-threatening respiratory problems.
 # NOTE: underdevelopment of the facial bones that  may restrict an affected infant's airway causing potentially life-threatening respiratory problems.
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: shortage of normal blood cells (pancytopenia)
+Symptoms: shortage of normal blood cells (pancytopenia)
 # NOTE: shortage of normal blood cells (pancytopenia)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal development (dysplasia) of heart (cardiac) valves
+Symptoms: abnormal development (dysplasia) of heart (cardiac) valves
 # NOTE: abnormal development (dysplasia) of heart (cardiac) valves
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: fragile bones
+Symptoms: fragile bones
 # NOTE: fragile bones
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: abnormal curvature of the spine (scoliosis)
+Symptoms: abnormal curvature of the spine (scoliosis)
 # NOTE: abnormal curvature of the spine (scoliosis)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Symptoms    Symptoms development periods (before birth, at birth, childhood, adolescent)
+Symptoms: Symptoms    Symptoms development periods (before birth, at birth, childhood, adolescent)
 # NOTE: Symptoms
 # NOTE: Symptoms development periods (before birth, at birth, childhood, adolescent)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Mental health problem Psychiatric disorder such as schizophrenia (common symptoms include false beliefs, unclear or confused thinking, hearing voices that others do not, reduced social engagement and emotional expression, and a lack of motivation); Bipolar disorder-a mental disorder that causes periods of depression and periods of elevated mood. The elevated mood is significant and is known as mania or hypomania, depending on its severity, or whether symptoms of psychosis are present; depression; anxiety; sleep disturbances; hallucinations; irritability; psychomotor regression; distorted view of reality (psychosis); visual hallucination;
+Symptoms: Mental health problem Psychiatric disorder such as schizophrenia (common symptoms include false beliefs, unclear or confused thinking, hearing voices that others do not, reduced social engagement and emotional expression, and a lack of motivation); Bipolar disorder-a mental disorder that causes periods of depression and periods of elevated mood. The elevated mood is significant and is known as mania or hypomania, depending on its severity, or whether symptoms of psychosis are present; depression; anxiety; sleep disturbances; hallucinations; irritability; psychomotor regression; distorted view of reality (psychosis); visual hallucination;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Intellectual problems disability; learning difficulties; disability that ranges from mild to severe; impaired receptive language skills (the ability to understand speech); IQ is 26 points lower, in average, than their parents without the genetic aberation; decline in intellectual function (dementia); memory loss; loss of executive function; cognitive decline; Memory loss; get lost; Routine tasks can be challenging; difficult to recognize people; loss of language skills; progressive loss of intellectual function (dementia); range from normal to mild or moderate intellectual disability
+Symptoms: Intellectual problems disability; learning difficulties; disability that ranges from mild to severe; impaired receptive language skills (the ability to understand speech); IQ is 26 points lower, in average, than their parents without the genetic aberation; decline in intellectual function (dementia); memory loss; loss of executive function; cognitive decline; Memory loss; get lost; Routine tasks can be challenging; difficult to recognize people; loss of language skills; progressive loss of intellectual function (dementia); range from normal to mild or moderate intellectual disability
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Expression Delayed development of speech and language; Developmental delay in expressive language skills; Dysarthria-characterized by slurred or slow speech that can be difficult to understand; Impaired communication; Delayed development of speech; expressive language skills (vocabulary and the production of speech) are severely affected; do not speak, or speak only a few words; absent of speech; expressionless face; speech abnormalities; speech impairments; loss of language skills;
+Symptoms: Expression Delayed development of speech and language; Developmental delay in expressive language skills; Dysarthria-characterized by slurred or slow speech that can be difficult to understand; Impaired communication; Delayed development of speech; expressive language skills (vocabulary and the production of speech) are severely affected; do not speak, or speak only a few words; absent of speech; expressionless face; speech abnormalities; speech impairments; loss of language skills;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Interaction (autism spectrum disorder) Impaired communicaion and socialization skills; impaired receptive language skills (the ability to understand speech); do not speak, or speak only a few words; poor eye contact; sensitivity to touch; features of autism spectrum disorders; social phobias; selctive mutism, inability to speak in certain circumstances);  lack of eye contact; loss of social inhibitions;  trouble interacting in a socially appropriate manner; communication problems; impaired social skills; reduced eye contact;
+Symptoms: Interaction (autism spectrum disorder) Impaired communicaion and socialization skills; impaired receptive language skills (the ability to understand speech); do not speak, or speak only a few words; poor eye contact; sensitivity to touch; features of autism spectrum disorders; social phobias; selctive mutism, inability to speak in certain circumstances);  lack of eye contact; loss of social inhibitions;  trouble interacting in a socially appropriate manner; communication problems; impaired social skills; reduced eye contact;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Behavioral problem short attention span; aggressive behavior; impulsive behaviour; hyperactivity; repititive behaviour; self-injury; attention deficit hyperactivity disorder;  temper tantrums; bites themselves; chew on non-food items; obsessive-compulsive disorder (OCD); features of autism spectrum disorders; excessively defiant behavior (oppositional disorder); a weak cry; repetitive behaviors; lack of eye contact; autistic behavior; irritability; confusion;  sleep problems; loss of social inhibitions; extremely irritable; personality and behavioral changes; Changes in personality and behavior; agitation, restlessness, withdrawal; very irritable; paranoia; have a happy, excitable demeanor with frequent smiling, laughter, and hand-flapping movements; fascination with water; startle easily;  sleep disturbances;  obsessive-compulsive disorder;  eating disorders; repetition of words or noises (echolalia); perseveration; strongly resist disruptions such as changes in schedule; decreased appetite; craving for salty foods;
+Symptoms: Behavioral problem short attention span; aggressive behavior; impulsive behaviour; hyperactivity; repititive behaviour; self-injury; attention deficit hyperactivity disorder;  temper tantrums; bites themselves; chew on non-food items; obsessive-compulsive disorder (OCD); features of autism spectrum disorders; excessively defiant behavior (oppositional disorder); a weak cry; repetitive behaviors; lack of eye contact; autistic behavior; irritability; confusion;  sleep problems; loss of social inhibitions; extremely irritable; personality and behavioral changes; Changes in personality and behavior; agitation, restlessness, withdrawal; very irritable; paranoia; have a happy, excitable demeanor with frequent smiling, laughter, and hand-flapping movements; fascination with water; startle easily;  sleep disturbances;  obsessive-compulsive disorder;  eating disorders; repetition of words or noises (echolalia); perseveration; strongly resist disruptions such as changes in schedule; decreased appetite; craving for salty foods;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Epilepsy/ Seizures; convulsion Recurrent seizures (epilepsy);  myoclonus; spasms; convulsion; spasticity; seizure-like episodes (which can include muscle jerking, twitching, and stiffening); eyelid twitching (blepharospasm); grimmacing; abdominal cramps; cramps after exercise or prolonged physical activity (exercise intolerance); seizures beginning in infancy (infantile spasms); stiffness in the arms and/or legs (spasticity); muscle twitching; back or leg cramps; seizures occur at night (nocturnally); seizures usually characterized by sound-related (auditory) symptoms such as buzzing, humming, ringing, specific voices or music, or changes in the volume of sounds; receptive aphasia;
+Symptoms: Epilepsy/ Seizures; convulsion Recurrent seizures (epilepsy);  myoclonus; spasms; convulsion; spasticity; seizure-like episodes (which can include muscle jerking, twitching, and stiffening); eyelid twitching (blepharospasm); grimmacing; abdominal cramps; cramps after exercise or prolonged physical activity (exercise intolerance); seizures beginning in infancy (infantile spasms); stiffness in the arms and/or legs (spasticity); muscle twitching; back or leg cramps; seizures occur at night (nocturnally); seizures usually characterized by sound-related (auditory) symptoms such as buzzing, humming, ringing, specific voices or music, or changes in the volume of sounds; receptive aphasia;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Movement problems/ problems with movement difficult to walk; shaking; reduced sensation in their legs; Rhythmic shaking; tremor; trembling震顫; Delayed development of involuntary movements (motor tics); psychomotor regression; psychomotor delay; hand tremor; arms and hands shaking; head tremor; hand tremors; vocal tremor; essential tremor; intention tremor; involuntary rhythmic shaking; tremor occurs during movement; resting tremor, leg tremor; postural tremor; shaking when holding a position; problems with coordinating muscle movement and balance (ataxia); difficulties with movement and balance (ataxia); involuntary limb movements (choreoathetosis); problems with fine motor skills (such as holding a pencil); involuntory movement (motor tics); poor coordination;  involuntary movements of one side of the body that mirror intentional movements of the other side;  (dystonia) of the head and neck; repetitive movements;  jerking movements (chorea); eyelid twitching (blepharospasm); grimacing; limited motion at the elbows; involuntary back-and-forth eye movements (nystagmus); difficulty with controlling head movements; tremor in the fingers and hands; head, torso, legs, and tongue tremor; unusually slow movement (bradykinesia); unable to walk, speak, and care for themselves; dizziness;  problems with balance (presbystasis); temporary paralysis; recurrent episodes of temporary paralysis, often affecting one side of the body (hemiplegia偏瘫)the paralysis alternates from one side of the body to the other or affects both sides at the same time. The paralysis lasts from minutes to days; alternating hemiplegia; hypermobility; coordination problems; paralysis; episodes of muscle weakness (periodic paralysis); abnormal or absent reflexes (areflexia); begin walking between ages 3 and 4 and lose this ability by their teenage years; involuntary eye movements (nystagmus); stiffness; difficulty moving; uncontrolled movements, especially of the head and neck; drooling; dysmetria; dysdiadochokinesis;
+Symptoms: Movement problems/ problems with movement difficult to walk; shaking; reduced sensation in their legs; Rhythmic shaking; tremor; trembling震顫; Delayed development of involuntary movements (motor tics); psychomotor regression; psychomotor delay; hand tremor; arms and hands shaking; head tremor; hand tremors; vocal tremor; essential tremor; intention tremor; involuntary rhythmic shaking; tremor occurs during movement; resting tremor, leg tremor; postural tremor; shaking when holding a position; problems with coordinating muscle movement and balance (ataxia); difficulties with movement and balance (ataxia); involuntary limb movements (choreoathetosis); problems with fine motor skills (such as holding a pencil); involuntory movement (motor tics); poor coordination;  involuntary movements of one side of the body that mirror intentional movements of the other side;  (dystonia) of the head and neck; repetitive movements;  jerking movements (chorea); eyelid twitching (blepharospasm); grimacing; limited motion at the elbows; involuntary back-and-forth eye movements (nystagmus); difficulty with controlling head movements; tremor in the fingers and hands; head, torso, legs, and tongue tremor; unusually slow movement (bradykinesia); unable to walk, speak, and care for themselves; dizziness;  problems with balance (presbystasis); temporary paralysis; recurrent episodes of temporary paralysis, often affecting one side of the body (hemiplegia偏瘫)the paralysis alternates from one side of the body to the other or affects both sides at the same time. The paralysis lasts from minutes to days; alternating hemiplegia; hypermobility; coordination problems; paralysis; episodes of muscle weakness (periodic paralysis); abnormal or absent reflexes (areflexia); begin walking between ages 3 and 4 and lose this ability by their teenage years; involuntary eye movements (nystagmus); stiffness; difficulty moving; uncontrolled movements, especially of the head and neck; drooling; dysmetria; dysdiadochokinesis;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Respiratory problems Breathing problems;  asthma; respiratory insufficiency; breathing slows or stops for short periods (apnea); shallow breaths (hypoventilate); bronchiectasis; respiratory problems; develop respiratory distress within a few minutes to a few hours after birth; shortness of breath; Breathing becomes difficult; paralysis of the muscles needed for breathing; difficulty breathing; poorly controlled breathing rate; rapid breathing; asthma; feeling of breathlessness; overly fast breathing (hyperventilation);
+Symptoms: Respiratory problems Breathing problems;  asthma; respiratory insufficiency; breathing slows or stops for short periods (apnea); shallow breaths (hypoventilate); bronchiectasis; respiratory problems; develop respiratory distress within a few minutes to a few hours after birth; shortness of breath; Breathing becomes difficult; paralysis of the muscles needed for breathing; difficulty breathing; poorly controlled breathing rate; rapid breathing; asthma; feeling of breathlessness; overly fast breathing (hyperventilation);
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Feeding and digestion problems / digestive problems vomiting; abdominal pain; swallowing difficulties (dysphagia);  weight loss, dehydration; poor absorption of nutrients; diarrhea; lose large amounts of sodium in their urine; vomiting and nausea (cyclic vomiting); dehydration;  poor appetite; excrete large amounts of acid in their urine (aciduria); 3-methylglutaconic acid in urine (3-methylglutaconic aciduria); 3-methylglutaric acid in urine (3-methylglutaconic aciduria); impaired peristalsis; malabsorption of fat-soluble vitamins (vitamins A, D, E, and K) and dietary fat; vitamin C deficiency; fatty, foul-smelling stools (steatorrhea); deficiency of vitamin E; excess protein in the urine (proteinurea); blood in the urine (hematuria); loss of appetite; difficulty releasing urine; presence of tiny grains of reddish-brown material in the baby's diaper caused by the passing of stones; blood in the urine (hematurea); malnutrition; difficulty feeding; difficulty controlling the flow of urine; scurvy; urine to turn black when exposed to air; chronic constipation; alpha-ketoglutaric aciduria; refusal to eat; unwilling to eat; feed poorly; vitamin B12 deficiency; hypercalciuria; the formation of kidney stones (nephrolithiasis);
+Symptoms: Feeding and digestion problems / digestive problems vomiting; abdominal pain; swallowing difficulties (dysphagia);  weight loss, dehydration; poor absorption of nutrients; diarrhea; lose large amounts of sodium in their urine; vomiting and nausea (cyclic vomiting); dehydration;  poor appetite; excrete large amounts of acid in their urine (aciduria); 3-methylglutaconic acid in urine (3-methylglutaconic aciduria); 3-methylglutaric acid in urine (3-methylglutaconic aciduria); impaired peristalsis; malabsorption of fat-soluble vitamins (vitamins A, D, E, and K) and dietary fat; vitamin C deficiency; fatty, foul-smelling stools (steatorrhea); deficiency of vitamin E; excess protein in the urine (proteinurea); blood in the urine (hematuria); loss of appetite; difficulty releasing urine; presence of tiny grains of reddish-brown material in the baby's diaper caused by the passing of stones; blood in the urine (hematurea); malnutrition; difficulty feeding; difficulty controlling the flow of urine; scurvy; urine to turn black when exposed to air; chronic constipation; alpha-ketoglutaric aciduria; refusal to eat; unwilling to eat; feed poorly; vitamin B12 deficiency; hypercalciuria; the formation of kidney stones (nephrolithiasis);
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: gastrointestinal problems Constipation; diarrhea; chronic diarrhea; poor feeding; feeding difficulty; gastroesophageal reflux; gastrointestinal difficulties; high levels of modified protein N-acetylated amino acids, in the urin;
+Symptoms: gastrointestinal problems Constipation; diarrhea; chronic diarrhea; poor feeding; feeding difficulty; gastroesophageal reflux; gastrointestinal difficulties; high levels of modified protein N-acetylated amino acids, in the urin;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Pain painful bumps or blisters on the face, neck, back, and arms; back pain; bones and joins pains; pain during urination; muscle pain (myalgia); tingling and numbness; pain in the arms and legs; abdominal pain; tingling sensation in the lips, fingers, and toes; prickling, or tingling sensations (paresthesias);
+Symptoms: Pain painful bumps or blisters on the face, neck, back, and arms; back pain; bones and joins pains; pain during urination; muscle pain (myalgia); tingling and numbness; pain in the arms and legs; abdominal pain; tingling sensation in the lips, fingers, and toes; prickling, or tingling sensations (paresthesias);
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Tumor kidney cancer called Wilms tumor; increases risk of developing various cancerous and noncancerous tumors; childhood brain cancer called a medulloblastoma; hepatocellular carcinoma;
+Symptoms: Tumor kidney cancer called Wilms tumor; increases risk of developing various cancerous and noncancerous tumors; childhood brain cancer called a medulloblastoma; hepatocellular carcinoma;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Tiredness Lack of energy; extremely tiredness (lethargy); low energy levels; extreme tiredness (fatigue); weakness; night sweats? What category?; severe progressive weakness; tend to tire easily
+Symptoms: Tiredness Lack of energy; extremely tiredness (lethargy); low energy levels; extreme tiredness (fatigue); weakness; night sweats? What category?; severe progressive weakness; tend to tire easily
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Bleeding Nosebleed;  bleeding from the gums; excessive menstrual bleeding; problems with blood clotting; abnormal clotting or bleeding episodes; abnormal bleeding due to low numbers of platelets (thrombocytopenia); abnormal bleeding;
+Symptoms: Bleeding Nosebleed;  bleeding from the gums; excessive menstrual bleeding; problems with blood clotting; abnormal clotting or bleeding episodes; abnormal bleeding due to low numbers of platelets (thrombocytopenia); abnormal bleeding;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Recovery heal slowly from injuries
+Symptoms: Recovery heal slowly from injuries
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Coma
+Symptoms: Coma
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Sudden death
+Symptoms: Sudden death
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: sickness intermittent fevers in sterile pyrexias; difficulty maintaining their body temperature; fainting (syncope); inability to sweat (anhidrosis); reduced ability to sweat; dangerously high body temperature (hyperthermia); increased sensitivity to heat; chronic sinus; fainting (syncope); early delivery; pregnancy loss (miscarriage); migraine headaches; unusually heavy sweating (hyperhidrosis); may experience seizures, especially when they have a fever; poorly controlled body temperature; inappropriate or impaired sweating; reduced ability to control body temperature; sudden death; sensation of fluttering; pounding in the chest (palpitations); light-headedness; stroke; disorder that impairs the body's ability to use vitamin E obtained from the diet; hay fever (allergic rhinitis); food allergies; easy bruising; dizziness when standing up quickly; excessive daytime sleepiness (narcolepsy); dangerously high body temperature;  tingling, shivering, a sense of fear, dizziness (vertigo);
+Symptoms: sickness intermittent fevers in sterile pyrexias; difficulty maintaining their body temperature; fainting (syncope); inability to sweat (anhidrosis); reduced ability to sweat; dangerously high body temperature (hyperthermia); increased sensitivity to heat; chronic sinus; fainting (syncope); early delivery; pregnancy loss (miscarriage); migraine headaches; unusually heavy sweating (hyperhidrosis); may experience seizures, especially when they have a fever; poorly controlled body temperature; inappropriate or impaired sweating; reduced ability to control body temperature; sudden death; sensation of fluttering; pounding in the chest (palpitations); light-headedness; stroke; disorder that impairs the body's ability to use vitamin E obtained from the diet; hay fever (allergic rhinitis); food allergies; easy bruising; dizziness when standing up quickly; excessive daytime sleepiness (narcolepsy); dangerously high body temperature;  tingling, shivering, a sense of fear, dizziness (vertigo);
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Autoimmune disorder systemic lupus erythematosus; malfunctioning immune system that attacks the adrenal glands; Guillain-Barre syndrome
+Symptoms: Autoimmune disorder systemic lupus erythematosus; malfunctioning immune system that attacks the adrenal glands; Guillain-Barre syndrome
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Infection recurrent infection; recurrent lung infection; recurrent ear infections; recurrent sinuses infections; chronic active viral infections; Epstein-Barr virus infection; cytomegalovirus infections; fever; cough; congestion; flu-like symptoms; frequent infections; urinary tract infection; upper respiratory infection; infections in the lungs (pneumonia), ears (otitis media), sinuses (sinusitis), lymph nodes (lymphadenitis), skin, bones, and gastrointestinal tract; recurrent ear infections;  frequent upper respiratory infections; frequent infections due to low numbers of white blood cells neutropenia; infections of the skin, the nails, and the moist lining of body cavities (mucous membranes) caused by a type of fungus called Candida; yeast infections;  infections of the oral cavity (known as thrush); Infections of the esophagus; vaginal infections;  recurrent infections that are severe and can be life-threatening;
+Symptoms: Infection recurrent infection; recurrent lung infection; recurrent ear infections; recurrent sinuses infections; chronic active viral infections; Epstein-Barr virus infection; cytomegalovirus infections; fever; cough; congestion; flu-like symptoms; frequent infections; urinary tract infection; upper respiratory infection; infections in the lungs (pneumonia), ears (otitis media), sinuses (sinusitis), lymph nodes (lymphadenitis), skin, bones, and gastrointestinal tract; recurrent ear infections;  frequent upper respiratory infections; frequent infections due to low numbers of white blood cells neutropenia; infections of the skin, the nails, and the moist lining of body cavities (mucous membranes) caused by a type of fungus called Candida; yeast infections;  infections of the oral cavity (known as thrush); Infections of the esophagus; vaginal infections;  recurrent infections that are severe and can be life-threatening;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Inflammation inflammation of various tissues; inflammation of the blood vessels (vasculitis); uncontrolled inflammation of skin, gastrointestinal system, kidneys, and nervous system; pneumonia; inflammation of small blood vessels; spondyloarthropathies; inflammation of the joints between the pelvic bones (the ilia) and the base of the spine (the sacrum) ie sacroiliac joints inflammation (sacroiliitis); vertebrae inflammation (spondylitis); inflammation of joints of shoulders, hips, and knees; inflammation of joints between the spine and ribs; eye inflammation called acute iritis; inflammation of the skin (dermatitis); rashes commonly occur on the face, scalp, hands, and feet; inflammatory bowel disease; oral ulcers;
+Symptoms: Inflammation inflammation of various tissues; inflammation of the blood vessels (vasculitis); uncontrolled inflammation of skin, gastrointestinal system, kidneys, and nervous system; pneumonia; inflammation of small blood vessels; spondyloarthropathies; inflammation of the joints between the pelvic bones (the ilia) and the base of the spine (the sacrum) ie sacroiliac joints inflammation (sacroiliitis); vertebrae inflammation (spondylitis); inflammation of joints of shoulders, hips, and knees; inflammation of joints between the spine and ribs; eye inflammation called acute iritis; inflammation of the skin (dermatitis); rashes commonly occur on the face, scalp, hands, and feet; inflammatory bowel disease; oral ulcers;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Impaired immune system abnormally low levels of antibodies particularly immunoglobulin G (IgG); reduction in antibodies; T cells and B cells have a decreased ability to recognize and respond to foreigninvaders; weakened immune system; immunodeficiency;
+Symptoms: Impaired immune system abnormally low levels of antibodies particularly immunoglobulin G (IgG); reduction in antibodies; T cells and B cells have a decreased ability to recognize and respond to foreigninvaders; weakened immune system; immunodeficiency;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: stroke recurrent strokes;
+Symptoms: stroke recurrent strokes;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Growth Slow growth, rapid growth, overgrowth (macrosomia); early growth spurt; delay; low weight; not grow and gain weight at the expected rate (failure to thrive); Intrauterine growth retardation;  failure to gain weight and grow at the expected rate (failure to thrive); impaired growth during fetal development; excessive weight gain; stop growing sooner than usual (advanced bone age); lack of a growth spurt;
+Symptoms: Growth Slow growth, rapid growth, overgrowth (macrosomia); early growth spurt; delay; low weight; not grow and gain weight at the expected rate (failure to thrive); Intrauterine growth retardation;  failure to gain weight and grow at the expected rate (failure to thrive); impaired growth during fetal development; excessive weight gain; stop growing sooner than usual (advanced bone age); lack of a growth spurt;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Developmental abnormalities Developmental regression typically before 5; Disrupt sexual development and maturation;  developmental disorder; developmental delay and disability;  Delayed development of involuntary movements (motor tics); physical developmental delays; Delayed development of speech; Developmental delayed of motor skills such as crawling, sitting, standing, holding up the head and rolling over,reaching for a toy and walking (psychomotor); aplasia cutis congenita: abnormal skin development; Abnormal development of ectodermal tissues including the skin, hair, teeth, and sweat; developmental abnormalities involving the skull (cranium) and face; problems with the development of blood-forming cells; developmental regression; bodies are unable to respond to certain male sex hormones (called androgens); body's tissues are partially sensitive to the effects of androgens (Reifenstein syndrome); neural tube fails to close during the first few weeks of embryonic development; neural tube fails to close; abnormal development of ectodermal tissues including the skin, hair, nails, teeth,  and sweat glands; absent tear duct openings in the eyes; underdeveloped placenta (placental insufficiency);
+Symptoms: Developmental abnormalities Developmental regression typically before 5; Disrupt sexual development and maturation;  developmental disorder; developmental delay and disability;  Delayed development of involuntary movements (motor tics); physical developmental delays; Delayed development of speech; Developmental delayed of motor skills such as crawling, sitting, standing, holding up the head and rolling over,reaching for a toy and walking (psychomotor); aplasia cutis congenita: abnormal skin development; Abnormal development of ectodermal tissues including the skin, hair, teeth, and sweat; developmental abnormalities involving the skull (cranium) and face; problems with the development of blood-forming cells; developmental regression; bodies are unable to respond to certain male sex hormones (called androgens); body's tissues are partially sensitive to the effects of androgens (Reifenstein syndrome); neural tube fails to close during the first few weeks of embryonic development; neural tube fails to close; abnormal development of ectodermal tissues including the skin, hair, nails, teeth,  and sweat glands; absent tear duct openings in the eyes; underdeveloped placenta (placental insufficiency);
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Stature Dwarfism; short stature; tall stature; small stature; small; obesity/ overweight; low weight; abnormally tall;
+Symptoms: Stature Dwarfism; short stature; tall stature; small stature; small; obesity/ overweight; low weight; abnormally tall;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Figure chest with prominent shoulder blades and square shoulders; breast enlargement (gynecomastia); enlarged abdomen; excess fluid builds up in the body before birth(hydrops fetalis);  bowed legs; unevenness (asymmetry) in the shoulders, hips, or waist, or having one leg that appears longer than the other; swelling (edema); barrel-shaped chest; rounded upper back; male experience breast enlargement at puberty; abnormal swelling in the legs or abdomen; chest that is either sunken (pectus excavatum) or protruding (pectus carinatum); extremely narrow, bell-shaped chest;
+Symptoms: Figure chest with prominent shoulder blades and square shoulders; breast enlargement (gynecomastia); enlarged abdomen; excess fluid builds up in the body before birth(hydrops fetalis);  bowed legs; unevenness (asymmetry) in the shoulders, hips, or waist, or having one leg that appears longer than the other; swelling (edema); barrel-shaped chest; rounded upper back; male experience breast enlargement at puberty; abnormal swelling in the legs or abdomen; chest that is either sunken (pectus excavatum) or protruding (pectus carinatum); extremely narrow, bell-shaped chest;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Blood Circulation Bleeding; High blood pressure (hypertension); pulmonary hypertension; high blood sugar (hyperglyemia); diabetes; low blood sugar (hypoglycemia; problems with regulating blood sugar levels; low levels of potassium in the blood (hypokalemia); shortage of red blood cells; abnormal development of bone marrow cells called megakaryocytes; multiple abnormalities in the blood vessels; abnormal development of normal blood cells; narrowing (stenosis) of the blood vessels; problems with the development of blood-forming cell; development of scar tissue around blood vessel; shortage of normal blood cells (pancytopenia); abnormal development of megakaryocytes (hypolobted magakaryocytes); excess platelets; cysts, swollen and knotted (varicose) veins; low blood calcium;  elevated levels of acid in their blood (metabolic acidosis); high levels of insulin (hyperinsulinism); developing bulges in blood vessel walls (aneurysms) in the brain; narrowing of the blood vessels in the legs (peripheral vascular disease);  deep vein thrombosis (DVT); , type2 diabetes; shortage of red blood cells (anemia); star-shaped red blood cells (acanthocytosis);unusually large red blood cells; aortic dilation; aortic dissection; aortic ruptures; high number of white blood cells (leukocytes); excess eosinophils (eosinophilia); lactic acidosis; diabetes mellitus; low blood iron;  low numbers of white blood cells (lymphonepia); lymph node enlargement (lymphadenopathy); white blood cells can build up to form solid masses (nodular lymphoid hyperplasia); B cell lymphoma; overgrowth of promyelocytes (immature white blood cells); shortage of normal white blood cells; shortage of red blood cells; shortage of platelets (thrombocytopenia); mild anemia; high levels of a protein called ferritin; pulmonic stenosis; irregular heart beat (atrial fibrillation); reduces the production of hemoglobin; shortage of red blood cells (anemia); alveolar capillaries fail to develop normally; number of capillaries is drastically reduced; capillaries are improperly positioned within the walls of the alveoli; (pulmonary veins) are improperly positioned and may be abnormally bundled together with (pulmonary arteries); irregular and uncoordinated electrical activity in the heart’s lower chambers (ventricular fibrillation);  irregular and uncoordinated electrical activity in the heart's upper chambers (atrial fibrillation);  (thrombophilia); pregnancy-induced high blood pressure (preeclampsia); premature breakdown of red blood cells (hemolysis); purplish skin discoloration (livedo reticularis); amino acid arginine and ammonia to accumulate gradually in the blood; ammonia accumulate in the blood; blood vessel abnormalities;  abnormal twists and turns (tortuosity) of arteries; abnormal elongation of the arteries; constriction (stenosis) and abnormal bulging (aneurysm) of vessels; small clusters of enlarged blood vessels just under the skin (telangiectasia); massive loss of blood from the circulatory system; shortage of one or more types of normal blood cells: red blood cells, white blood cells, and platelets; shortage of 3 normal blood cells: red blood cells, white blood cells (pancytopenia); high amounts of a protein called alpha-fetoprotein (AFP) in their blood; decreased amounts of albumin in bloodstream; increase in the amount of cholesterol circulating in the bloodstream; Increased cholesterol levels; increased blood cholesterol; high amount of creatine phosphokinase (CPK) in their blood; abnormal blood clots (thrombi) to form in small blood vessels in the kidneys; hemolytic anemia; hypotension; low blood sodium (hyponatremia); high level of potassium (hyperkalemia); increase in the number of white blood cells (lymphocytosis); production of an abnormally large number of lymphocytes (lymphoproliferation); enlargement of the lymph nodes (lymphadenopathy); autoimmune hemolytic anemia; autoimmune neutropenia; autoimmune thrombocytopenia; abnormally high levels of an immune system protein called immunoglobulin E (IgE) in the blood; low levels of calcium in the blood (hypocalcemia); hyperphosphatemia; hypomagnesemia; hyperaldosteronism; metabolic alkalosis; sharp drop in blood pressure upon standing (orthostatic hypotension);
+Symptoms: Blood Circulation Bleeding; High blood pressure (hypertension); pulmonary hypertension; high blood sugar (hyperglyemia); diabetes; low blood sugar (hypoglycemia; problems with regulating blood sugar levels; low levels of potassium in the blood (hypokalemia); shortage of red blood cells; abnormal development of bone marrow cells called megakaryocytes; multiple abnormalities in the blood vessels; abnormal development of normal blood cells; narrowing (stenosis) of the blood vessels; problems with the development of blood-forming cell; development of scar tissue around blood vessel; shortage of normal blood cells (pancytopenia); abnormal development of megakaryocytes (hypolobted magakaryocytes); excess platelets; cysts, swollen and knotted (varicose) veins; low blood calcium;  elevated levels of acid in their blood (metabolic acidosis); high levels of insulin (hyperinsulinism); developing bulges in blood vessel walls (aneurysms) in the brain; narrowing of the blood vessels in the legs (peripheral vascular disease);  deep vein thrombosis (DVT); , type2 diabetes; shortage of red blood cells (anemia); star-shaped red blood cells (acanthocytosis);unusually large red blood cells; aortic dilation; aortic dissection; aortic ruptures; high number of white blood cells (leukocytes); excess eosinophils (eosinophilia); lactic acidosis; diabetes mellitus; low blood iron;  low numbers of white blood cells (lymphonepia); lymph node enlargement (lymphadenopathy); white blood cells can build up to form solid masses (nodular lymphoid hyperplasia); B cell lymphoma; overgrowth of promyelocytes (immature white blood cells); shortage of normal white blood cells; shortage of red blood cells; shortage of platelets (thrombocytopenia); mild anemia; high levels of a protein called ferritin; pulmonic stenosis; irregular heart beat (atrial fibrillation); reduces the production of hemoglobin; shortage of red blood cells (anemia); alveolar capillaries fail to develop normally; number of capillaries is drastically reduced; capillaries are improperly positioned within the walls of the alveoli; (pulmonary veins) are improperly positioned and may be abnormally bundled together with (pulmonary arteries); irregular and uncoordinated electrical activity in the heart’s lower chambers (ventricular fibrillation);  irregular and uncoordinated electrical activity in the heart's upper chambers (atrial fibrillation);  (thrombophilia); pregnancy-induced high blood pressure (preeclampsia); premature breakdown of red blood cells (hemolysis); purplish skin discoloration (livedo reticularis); amino acid arginine and ammonia to accumulate gradually in the blood; ammonia accumulate in the blood; blood vessel abnormalities;  abnormal twists and turns (tortuosity) of arteries; abnormal elongation of the arteries; constriction (stenosis) and abnormal bulging (aneurysm) of vessels; small clusters of enlarged blood vessels just under the skin (telangiectasia); massive loss of blood from the circulatory system; shortage of one or more types of normal blood cells: red blood cells, white blood cells, and platelets; shortage of 3 normal blood cells: red blood cells, white blood cells (pancytopenia); high amounts of a protein called alpha-fetoprotein (AFP) in their blood; decreased amounts of albumin in bloodstream; increase in the amount of cholesterol circulating in the bloodstream; Increased cholesterol levels; increased blood cholesterol; high amount of creatine phosphokinase (CPK) in their blood; abnormal blood clots (thrombi) to form in small blood vessels in the kidneys; hemolytic anemia; hypotension; low blood sodium (hyponatremia); high level of potassium (hyperkalemia); increase in the number of white blood cells (lymphocytosis); production of an abnormally large number of lymphocytes (lymphoproliferation); enlargement of the lymph nodes (lymphadenopathy); autoimmune hemolytic anemia; autoimmune neutropenia; autoimmune thrombocytopenia; abnormally high levels of an immune system protein called immunoglobulin E (IgE) in the blood; low levels of calcium in the blood (hypocalcemia); hyperphosphatemia; hypomagnesemia; hyperaldosteronism; metabolic alkalosis; sharp drop in blood pressure upon standing (orthostatic hypotension);
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Hormone system congenital adrenal hyperplasia; Hormone imbalances; underdevelopment of pituitary gland (pituitary hypoplasia); hypoplasia of Leydig cells, which produce androgen, in the testes; thyroid hypoplasia; hypogonadotropic hypogonadism/secondary/ central hypogonadism/ gonadotropin-releasing hormone deficiency/ gonadotropin deficiency (GD)-iReduced production of hormones directs sexual development; High levels of cortisol (hypercortisolism); testosterone shortage; hypogonadism; testosterone shortage; dihydrotestosterone (DHT) shortage; insulin shortage;  develop a single benign tumor in one of the adrenal glands; (hypergonadotropic hypogonadism); reduced levels of the female sex hormone estrogen and increased levels of the male sex hormone testosterone;  elevated levels of the female sex hormone estrogen in both males and females; reduced parathyroid hormone production (hypoparathyroidism); adrenal gland insufficiency;
+Symptoms: Hormone system congenital adrenal hyperplasia; Hormone imbalances; underdevelopment of pituitary gland (pituitary hypoplasia); hypoplasia of Leydig cells, which produce androgen, in the testes; thyroid hypoplasia; hypogonadotropic hypogonadism/secondary/ central hypogonadism/ gonadotropin-releasing hormone deficiency/ gonadotropin deficiency (GD)-iReduced production of hormones directs sexual development; High levels of cortisol (hypercortisolism); testosterone shortage; hypogonadism; testosterone shortage; dihydrotestosterone (DHT) shortage; insulin shortage;  develop a single benign tumor in one of the adrenal glands; (hypergonadotropic hypogonadism); reduced levels of the female sex hormone estrogen and increased levels of the male sex hormone testosterone;  elevated levels of the female sex hormone estrogen in both males and females; reduced parathyroid hormone production (hypoparathyroidism); adrenal gland insufficiency;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Skin thin or missing patches of skin on the scalp (dermal hypoplasia or aplasia); very thin skin (dermal hypoplasia); aplasia cutis congenita: abnormal skin development; eczema; development of small yellow deposits of fat under the skin called eruptive xanthoma; loose skin; development of wart-like skin; hyperpigmentation; skin coloring (pigmentation; painful bumps or blisters on the face, neck, back, and arms; excessive body hair growth (hirsutism); eczema; yellowing of the skin; skin ulcers; , allergies; painless peeling of the top layers of skin; loss of sensation; susceptible to developing bruises; small red dots under the skin (petechiae); scarring on the affected area; reddish or purplish net-like pattern on the skin; net-like, mottled skin discoloration; skin rashes; absence of ridges on the skin on the pads of the fingers and toes, as well as on the palms of the hands and soles of the feet, ie not fingerprints (lack of dermatoglyphs);  milia on the face;  blistering of the skin in areas exposed to heat or friction; reduced number of sweat glands on the hands and feet; painful, itchy skin lesions that are puffy and red, and usually appear on the fingers, toes, and ears (Chilblains);  yellowish tinge in the skin; itchy skin; deposits of cholesterol in the skin (xanthomas); hardened skin with painful lumps or patches (panniculitis); pale skin; skin in body folds and creases to become thick, dark, and velvety(acanthosis nigricans); sudden redness and warmth (flushing) ; unusual paleness (pallor) of the skin; bluish appearance of the skin, mucous membranes, or the area underneath the fingernails caused by a lack of oxygen in the blood (cyanosis); unusually fair skin with light-colored hair; skin areas that are dry, wrinkled, or darker in color than the surrounding skin; reduced ability to sweat (hypohidrosis); fewer sweat glands than normal; sweat glands do not function properly; missing patches of skin (erosions); changes in skin coloring; (ulcers) on the skin; oily skin with severe acne; skin lesions;  unusually soft and stretchable skin; enlarged blood vessels called telangiectases, which occur in the eyes and on the surface of the skin; very sensitive to the effects of radiation exposure, including medical x-rays; abnormally dark areas of skin (hyperpigmentation), especially in regions that experience a lot of friction, such as the armpits, elbows, knuckles, and palm creases; hives (urticaria);  loss of skin color in blotches (vitiligo); accumulations of pus (abscesses); open sores; scaling; bluish appearance of the skin, lips, and nails (cyanosis); erythema;  itchiness (pruritus);
+Symptoms: Skin thin or missing patches of skin on the scalp (dermal hypoplasia or aplasia); very thin skin (dermal hypoplasia); aplasia cutis congenita: abnormal skin development; eczema; development of small yellow deposits of fat under the skin called eruptive xanthoma; loose skin; development of wart-like skin; hyperpigmentation; skin coloring (pigmentation; painful bumps or blisters on the face, neck, back, and arms; excessive body hair growth (hirsutism); eczema; yellowing of the skin; skin ulcers; , allergies; painless peeling of the top layers of skin; loss of sensation; susceptible to developing bruises; small red dots under the skin (petechiae); scarring on the affected area; reddish or purplish net-like pattern on the skin; net-like, mottled skin discoloration; skin rashes; absence of ridges on the skin on the pads of the fingers and toes, as well as on the palms of the hands and soles of the feet, ie not fingerprints (lack of dermatoglyphs);  milia on the face;  blistering of the skin in areas exposed to heat or friction; reduced number of sweat glands on the hands and feet; painful, itchy skin lesions that are puffy and red, and usually appear on the fingers, toes, and ears (Chilblains);  yellowish tinge in the skin; itchy skin; deposits of cholesterol in the skin (xanthomas); hardened skin with painful lumps or patches (panniculitis); pale skin; skin in body folds and creases to become thick, dark, and velvety(acanthosis nigricans); sudden redness and warmth (flushing) ; unusual paleness (pallor) of the skin; bluish appearance of the skin, mucous membranes, or the area underneath the fingernails caused by a lack of oxygen in the blood (cyanosis); unusually fair skin with light-colored hair; skin areas that are dry, wrinkled, or darker in color than the surrounding skin; reduced ability to sweat (hypohidrosis); fewer sweat glands than normal; sweat glands do not function properly; missing patches of skin (erosions); changes in skin coloring; (ulcers) on the skin; oily skin with severe acne; skin lesions;  unusually soft and stretchable skin; enlarged blood vessels called telangiectases, which occur in the eyes and on the surface of the skin; very sensitive to the effects of radiation exposure, including medical x-rays; abnormally dark areas of skin (hyperpigmentation), especially in regions that experience a lot of friction, such as the armpits, elbows, knuckles, and palm creases; hives (urticaria);  loss of skin color in blotches (vitiligo); accumulations of pus (abscesses); open sores; scaling; bluish appearance of the skin, lips, and nails (cyanosis); erythema;  itchiness (pruritus);
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Hair loss of underarm and pubic hair; sparse hair; excessive body hair growth (hirsutism); early beard growth; premature pubic hair growth; low facial and body hair;  absence of hair growth in the affected area; have sparse or absent hair in the pubic area and under the arms; sparse scalp and body hair (hypotrichosis);  brittle, sparse, missing hair; patches of missing hair in the eyebrows; brittle hair; hair loss caused by a malfunctioning immune reaction (alopecia areata); hair loss (alopecia); sparse hair (hypotrichosis) on the scalp beginning in infancy; hair is usually coarse, dry, and tightly curled, woolly hair; Scalp hair lighter in color than expected; fragile and easily broken scalp hair; cannot grow hair longer than a few inches;
+Symptoms: Hair loss of underarm and pubic hair; sparse hair; excessive body hair growth (hirsutism); early beard growth; premature pubic hair growth; low facial and body hair;  absence of hair growth in the affected area; have sparse or absent hair in the pubic area and under the arms; sparse scalp and body hair (hypotrichosis);  brittle, sparse, missing hair; patches of missing hair in the eyebrows; brittle hair; hair loss caused by a malfunctioning immune reaction (alopecia areata); hair loss (alopecia); sparse hair (hypotrichosis) on the scalp beginning in infancy; hair is usually coarse, dry, and tightly curled, woolly hair; Scalp hair lighter in color than expected; fragile and easily broken scalp hair; cannot grow hair longer than a few inches;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Bone abnormalities hypoplasia of bones of the skull; (valgus deformity)  the bone segment distal to a joint is angled outward, that is, angled laterally, away from the body's midline. The opposite deformation, where the twist or angulation is directed medially, toward the center of the body, is called varus; bone abnormalities in their hands and arms; skeletal abnormalitie; abnormal bone development (dysostosis multiplex; abnormally small, fragile rib cage; underdevelopment or absence of the bones in the forearms and the thumbs, which are known as radial ray malformations; osteopenia or osteoporosis; fragile bones; slender long bones in the arms and legs; abnormal fusion of certain bones in the skulls (craniosynostosis); abnormal fusion of certain bones in the forearms (radioulnar synostosis); outgrowth of the tailbone (caudal appendage); skeletal abnormalities involving the spine, ribs, or skull; lack of normal bone formation (ossification) in the skull, spine, and pelvis; problem in converting cartilage into bone (ossification); slowed mineralization of bone (delayed bone age); underdevelopment of the bone under the skin; buildup of dark pigment in connective tissues; knock knees; unusually shaped collarbones (clavicles) and pelvic bones; Bones in the spine, rib cage, pelvis, and limbs may be underdeveloped or in some cases absent; disorder of cartilage and bone development; Bones in the spine, rib cage, pelvis, and limbs may be underdeveloped or in some cases absent
+Symptoms: Bone abnormalities hypoplasia of bones of the skull; (valgus deformity)  the bone segment distal to a joint is angled outward, that is, angled laterally, away from the body's midline. The opposite deformation, where the twist or angulation is directed medially, toward the center of the body, is called varus; bone abnormalities in their hands and arms; skeletal abnormalitie; abnormal bone development (dysostosis multiplex; abnormally small, fragile rib cage; underdevelopment or absence of the bones in the forearms and the thumbs, which are known as radial ray malformations; osteopenia or osteoporosis; fragile bones; slender long bones in the arms and legs; abnormal fusion of certain bones in the skulls (craniosynostosis); abnormal fusion of certain bones in the forearms (radioulnar synostosis); outgrowth of the tailbone (caudal appendage); skeletal abnormalities involving the spine, ribs, or skull; lack of normal bone formation (ossification) in the skull, spine, and pelvis; problem in converting cartilage into bone (ossification); slowed mineralization of bone (delayed bone age); underdevelopment of the bone under the skin; buildup of dark pigment in connective tissues; knock knees; unusually shaped collarbones (clavicles) and pelvic bones; Bones in the spine, rib cage, pelvis, and limbs may be underdeveloped or in some cases absent; disorder of cartilage and bone development; Bones in the spine, rib cage, pelvis, and limbs may be underdeveloped or in some cases absent
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Head unusually small head size (microcephaly); short and wide head in proportion to its size (microbrachycephaly); large head size (macrocephaly); male pattern baldness; long, narrow head; sparse hair; unusually long and narrow in shape (dolichocephalic); triangle-shaped face;  flattened in the back (brachycephaly); wide, short skull (brachycephaly); localized areas of missing skin typically occurring on the top of the head (the skull vertex); Migraine; thickening of the bones at the top of the skull (calvaria); Hair is lost in a well-defined pattern, beginning above both temples. Over time, the hairline recedes to form a characteristic"M"shape. Hair also thins at the crown (near the top of the head), often progressing to partial or complete baldness (male-pattern baldness); the hair becomes thinner all over the head, and the hairline does not recede; premature fusion of certain skull bones (craniosynostosis); malfunction of the temporomandibular joint (TMJ),
+Symptoms: Head unusually small head size (microcephaly); short and wide head in proportion to its size (microbrachycephaly); large head size (macrocephaly); male pattern baldness; long, narrow head; sparse hair; unusually long and narrow in shape (dolichocephalic); triangle-shaped face;  flattened in the back (brachycephaly); wide, short skull (brachycephaly); localized areas of missing skin typically occurring on the top of the head (the skull vertex); Migraine; thickening of the bones at the top of the skull (calvaria); Hair is lost in a well-defined pattern, beginning above both temples. Over time, the hairline recedes to form a characteristic"M"shape. Hair also thins at the crown (near the top of the head), often progressing to partial or complete baldness (male-pattern baldness); the hair becomes thinner all over the head, and the hairline does not recede; premature fusion of certain skull bones (craniosynostosis); malfunction of the temporomandibular joint (TMJ),
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Spine abnormalities hypoplasia of a peg-like bone in the neck called the odontoid process; development of bones in the spine and ribs ie mishapen and abnormally joint the bones of the spine (vertebrae); abnormal curvature of the spine (scoliosis)脊柱側彎ie kyphoscoliosis or hyperlordosis; abnormal side-to-side curvature of the spine (scoliosis); rounded upper back that also curves to the side (kyphoscoliosis); exaggerated curvature of the lower back (hyperlordosis); tall, narrow spinal bones (vertebrae); pronounced and permanent sway of the lower back (lordosis) ; abnormal front-to-back curvature of the spine (kyphosis); abnormally shaped bones of the spine (vertebrae); spinal and rib abnormalities; deformations of the bones in the spine (vertebrae); Dislocation of the bones at the top of the spine (atlantoaxial subluxation); pinching (compression) of the spinal cord; dislocation of the hips; spondyloarthropathies; fusion of spinal bones in the neck (cervical vertebrae);
+Symptoms: Spine abnormalities hypoplasia of a peg-like bone in the neck called the odontoid process; development of bones in the spine and ribs ie mishapen and abnormally joint the bones of the spine (vertebrae); abnormal curvature of the spine (scoliosis)脊柱側彎ie kyphoscoliosis or hyperlordosis; abnormal side-to-side curvature of the spine (scoliosis); rounded upper back that also curves to the side (kyphoscoliosis); exaggerated curvature of the lower back (hyperlordosis); tall, narrow spinal bones (vertebrae); pronounced and permanent sway of the lower back (lordosis) ; abnormal front-to-back curvature of the spine (kyphosis); abnormally shaped bones of the spine (vertebrae); spinal and rib abnormalities; deformations of the bones in the spine (vertebrae); Dislocation of the bones at the top of the spine (atlantoaxial subluxation); pinching (compression) of the spinal cord; dislocation of the hips; spondyloarthropathies; fusion of spinal bones in the neck (cervical vertebrae);
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Pelvis underdevelopment of the wing-shaped structures of pelvis (hypoplastic iliac wings);
+Symptoms: Pelvis underdevelopment of the wing-shaped structures of pelvis (hypoplastic iliac wings);
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Joints Deformities of joint (contracturers) of hips, knees, ankles, elbows, or wrists; (camptodactyly) bent fingers and toes hand deformity in which all of the fingers are angled outward toward the fifth finger (ulnar deviation, also called"windmill vane hand");  inward- and downward-turning feet (clubfoot); (valgus deformity)  the bone segment distal to a joint is angled outward, that is, angled laterally, away from the body's midline. The opposite deformation, where the twist or angulation is directed medially, toward the center of the body, is called varus; loose joints (joints laxity, hyperextensible)  /very flexible (hypermobile; stiff joints; stiff, rigid joints (arthrogryposis); misalignment of hip joints (hip dysplasia); develop arthritis in large joints; deterioration of joints; joint movement restriction; joint inflammation; vertebrae joint inflammation (spondylities;  Inflammation of joints between spine and rib; swelling of joints ; pain joints; sacroiliac joints;  (joints between the pelvic bones (the ilia) and the base of the spine (the sacrum) ) inflammation (sacroiliitis;   degeneration of (avascular necrosis) of the hip and shoulder joints;  osteoarthritis: Inflammation of the lining of joints (synovium;   Inflammation of the joints of the hands, feet, wrist and ankle (synovitis;  Charcot joints: bones and tissue surrounding joints are destroyed; enlarged wrist and ankled knee and ankle joints; webbing of the skin (pterygium) at the joints; abnormal wrist and elbow joint development; calcium deposits in the joint; rheumatoid arthritis; unusually large range of joint movement (hypermobility); ongoing joint inflammation (chronic inflammatory arthritis); joints that are either loose and very flexible (hypermobile); dislocations of the hips, knees, and elbows; unusually large range of joint movement (hyperextensibility);
+Symptoms: Joints Deformities of joint (contracturers) of hips, knees, ankles, elbows, or wrists; (camptodactyly) bent fingers and toes hand deformity in which all of the fingers are angled outward toward the fifth finger (ulnar deviation, also called"windmill vane hand");  inward- and downward-turning feet (clubfoot); (valgus deformity)  the bone segment distal to a joint is angled outward, that is, angled laterally, away from the body's midline. The opposite deformation, where the twist or angulation is directed medially, toward the center of the body, is called varus; loose joints (joints laxity, hyperextensible)  /very flexible (hypermobile; stiff joints; stiff, rigid joints (arthrogryposis); misalignment of hip joints (hip dysplasia); develop arthritis in large joints; deterioration of joints; joint movement restriction; joint inflammation; vertebrae joint inflammation (spondylities;  Inflammation of joints between spine and rib; swelling of joints ; pain joints; sacroiliac joints;  (joints between the pelvic bones (the ilia) and the base of the spine (the sacrum) ) inflammation (sacroiliitis;   degeneration of (avascular necrosis) of the hip and shoulder joints;  osteoarthritis: Inflammation of the lining of joints (synovium;   Inflammation of the joints of the hands, feet, wrist and ankle (synovitis;  Charcot joints: bones and tissue surrounding joints are destroyed; enlarged wrist and ankled knee and ankle joints; webbing of the skin (pterygium) at the joints; abnormal wrist and elbow joint development; calcium deposits in the joint; rheumatoid arthritis; unusually large range of joint movement (hypermobility); ongoing joint inflammation (chronic inflammatory arthritis); joints that are either loose and very flexible (hypermobile); dislocations of the hips, knees, and elbows; unusually large range of joint movement (hyperextensibility);
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Muscle Decrease in the mass/ muscle wasting (atrophy); loss of tissue (atrophy); hypoplasia; poor/ weak/ low muscle tone (hypotonia); poor muscle development; muscle stiffness (spasticity); muscle weakness (myopathy); Uncontrolled muscle tensing/cramping/contraction (dystonia): cervical dystonia, focal dystonia of hand; dystonia affecting arms and legs; Musician's dystonia is a form of task-specific focal dystonia; embouchure dystonia; poor muscle coordination; involuntory muscle contractions (dystonia) of the head and neck; sudden attacks of uncontrollable muscle activity; muscle wasting (amyotrophy);  facial muscle weakness; muscle spasms; disorder that affects connective tissue; muscle cramps; muscle spasms in the hands and feet (carpopedal spasms); muscle cramping;
+Symptoms: Muscle Decrease in the mass/ muscle wasting (atrophy); loss of tissue (atrophy); hypoplasia; poor/ weak/ low muscle tone (hypotonia); poor muscle development; muscle stiffness (spasticity); muscle weakness (myopathy); Uncontrolled muscle tensing/cramping/contraction (dystonia): cervical dystonia, focal dystonia of hand; dystonia affecting arms and legs; Musician's dystonia is a form of task-specific focal dystonia; embouchure dystonia; poor muscle coordination; involuntory muscle contractions (dystonia) of the head and neck; sudden attacks of uncontrollable muscle activity; muscle wasting (amyotrophy);  facial muscle weakness; muscle spasms; disorder that affects connective tissue; muscle cramps; muscle spasms in the hands and feet (carpopedal spasms); muscle cramping;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Inside Organs Underdevelopment of the lungs (pulmonary hypoplasia); heart abnormality; heart hypoplasia; hypoplasia of one or both kidneys; heart defec; heart defects: tetralogy of Fallot; heart defect: abnormal connection between two major arteries, patent ductus arteriosus (PDA); heart defect: aortic root dilatatio; heart defect: (ASD) artricular septal defects or ventricular septal defects (VSD); abnormal heart rhythm (arrhythmia;  enlarged, weakened heart muscle (hypertrophic cardiomyopathy); abnormal development (dysplasia) of heart (cardiac) valves; narrowing (stenosis) of the heart valves; tightening of the pericardium; Abnormal development of the heart (cardio-); tetralogy of Fallot; weakened and enlarged heart (cardiomyopathy); abnormal development of the diaphragm; abnormally small, fragile rib cage; enlarged liver and spleen (hepatosplenomegaly); inflammation of the pancreas (pancreatitis); small kidneys; abnormalities with kidney: malformations of the kidneys and urinary system;  malformations of urinary tract; malfunction of kidneys and urinary systems; Fluid-filled sacs (cysts) in the kidneys; problems with gastrointestinal systems; liver problems; abnormalities of the bladder; intestinal abnormalities; gastrointestinal disorder; enlargement of the spleen (splenomegaly: enlargement of the liver (hepatomegaly); intestinal damage; narrowing or absence of a portion of intestine (intestinal atresia); twisting of the intestine; problems with liver and kidney functions; kidney (renal) disease; kidney stones; urinary tract stones; chronic lung damage; excess iron stored in the body's tissues and organs particularly the liver, bone marrow, and spleen; chronic liver disease (cirrhosis); hepatocellular carcinoma; tuberculosis; elevated blood levels of liver enzymes; liver damage; bile ducts may be narrow, malformed, and reduced in number (bile duct paucity); prostate stone; liver damage (cirrhosis); loss of kidney function; dilated cardiomyopathy; abnormal twisting (malrotation) of the large intestine; malformations of the gastrointestinal tract; changes in heart rhythm (arrhythmia); disruption in the rhythm of the heart's lower chambers (ventricular arrhythmia); a heart condition that causes the heart (cardiac) muscle to take longer than usual to recharge between beats (long QT); irregular heartbeats; cardiac arrest; catecholaminergic polymorphic ventricular tachycardia (CPVT); abnormally fast and irregular heartbeat called ventricular tachycardia; Progressive liver damage; fatty liver; myocardium to break down over time; heart failure; protrusion of organs through gaps in muscles (hernias); elongation of the intestines; pouches called diverticula in the intestinal walls; heart attacks; kidney (renal) abnormalities; narrowing of the airway (subglottic stenosis); fluid-filled sacs (cysts) in the pancreas; inflammatory bowel disease; kidney failure; rapid heart rate;  kidney damage; acute kidney failure; glomerulonephritis; autoimmune hepatitis; absent of spleen (asplenia); Inability to control the bowels or the flow of urine (incontinence); uncontrollable crying or laughing (pseudobulbar signs); frequent bouts of pneumonia; pneumatoceles; difficulty with bowel and bladder function; narrowing of the anus (anal stenosis)
+Symptoms: Inside Organs Underdevelopment of the lungs (pulmonary hypoplasia); heart abnormality; heart hypoplasia; hypoplasia of one or both kidneys; heart defec; heart defects: tetralogy of Fallot; heart defect: abnormal connection between two major arteries, patent ductus arteriosus (PDA); heart defect: aortic root dilatatio; heart defect: (ASD) artricular septal defects or ventricular septal defects (VSD); abnormal heart rhythm (arrhythmia;  enlarged, weakened heart muscle (hypertrophic cardiomyopathy); abnormal development (dysplasia) of heart (cardiac) valves; narrowing (stenosis) of the heart valves; tightening of the pericardium; Abnormal development of the heart (cardio-); tetralogy of Fallot; weakened and enlarged heart (cardiomyopathy); abnormal development of the diaphragm; abnormally small, fragile rib cage; enlarged liver and spleen (hepatosplenomegaly); inflammation of the pancreas (pancreatitis); small kidneys; abnormalities with kidney: malformations of the kidneys and urinary system;  malformations of urinary tract; malfunction of kidneys and urinary systems; Fluid-filled sacs (cysts) in the kidneys; problems with gastrointestinal systems; liver problems; abnormalities of the bladder; intestinal abnormalities; gastrointestinal disorder; enlargement of the spleen (splenomegaly: enlargement of the liver (hepatomegaly); intestinal damage; narrowing or absence of a portion of intestine (intestinal atresia); twisting of the intestine; problems with liver and kidney functions; kidney (renal) disease; kidney stones; urinary tract stones; chronic lung damage; excess iron stored in the body's tissues and organs particularly the liver, bone marrow, and spleen; chronic liver disease (cirrhosis); hepatocellular carcinoma; tuberculosis; elevated blood levels of liver enzymes; liver damage; bile ducts may be narrow, malformed, and reduced in number (bile duct paucity); prostate stone; liver damage (cirrhosis); loss of kidney function; dilated cardiomyopathy; abnormal twisting (malrotation) of the large intestine; malformations of the gastrointestinal tract; changes in heart rhythm (arrhythmia); disruption in the rhythm of the heart's lower chambers (ventricular arrhythmia); a heart condition that causes the heart (cardiac) muscle to take longer than usual to recharge between beats (long QT); irregular heartbeats; cardiac arrest; catecholaminergic polymorphic ventricular tachycardia (CPVT); abnormally fast and irregular heartbeat called ventricular tachycardia; Progressive liver damage; fatty liver; myocardium to break down over time; heart failure; protrusion of organs through gaps in muscles (hernias); elongation of the intestines; pouches called diverticula in the intestinal walls; heart attacks; kidney (renal) abnormalities; narrowing of the airway (subglottic stenosis); fluid-filled sacs (cysts) in the pancreas; inflammatory bowel disease; kidney failure; rapid heart rate;  kidney damage; acute kidney failure; glomerulonephritis; autoimmune hepatitis; absent of spleen (asplenia); Inability to control the bowels or the flow of urine (incontinence); uncontrollable crying or laughing (pseudobulbar signs); frequent bouts of pneumonia; pneumatoceles; difficulty with bowel and bladder function; narrowing of the anus (anal stenosis)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Four Limbs paralysis of the limbs (paraplegia); abnormal development of arms,  resulting in characteristic arm malformation; painful bumps or blisters on the arms; underdevelopment or absence of the bones in the forearms and the thumbs, which are known as radial ray malformations; slender long bones in the arms and legs; weakness of the arms and legs (spastic quadriparesis); abnormal fusion of certain bones in the forearms (radioulnar synostosis); elbow abnormalities; abnormal fusion of certain bones in the forearm (radioulnar synostosis); short limbs; short-limbed;  bowed legs; weakness in the limbs (peripheral neuropathy); limbs malformations; one leg that appears longer than the other; reduced sensation in their legs; stiffness in the arms and/or legs (spasticity); reduced sensation in their arms and legs (peripheral neuropathy); involuntary movements of the arms and legs; uncontrollable movements of the limbs (choreoathetosis); involuntary limb movements (choreoathetosis); swollen legs; weakness and loss of sensation in the limbs; short limbs; loss of sensation in the limbs; shortened bones in the arms and legs; lower limb areflexia; very short arms and legs; swelling (lymphedema) of the limbs;
+Symptoms: Four Limbs paralysis of the limbs (paraplegia); abnormal development of arms,  resulting in characteristic arm malformation; painful bumps or blisters on the arms; underdevelopment or absence of the bones in the forearms and the thumbs, which are known as radial ray malformations; slender long bones in the arms and legs; weakness of the arms and legs (spastic quadriparesis); abnormal fusion of certain bones in the forearms (radioulnar synostosis); elbow abnormalities; abnormal fusion of certain bones in the forearm (radioulnar synostosis); short limbs; short-limbed;  bowed legs; weakness in the limbs (peripheral neuropathy); limbs malformations; one leg that appears longer than the other; reduced sensation in their legs; stiffness in the arms and/or legs (spasticity); reduced sensation in their arms and legs (peripheral neuropathy); involuntary movements of the arms and legs; uncontrollable movements of the limbs (choreoathetosis); involuntary limb movements (choreoathetosis); swollen legs; weakness and loss of sensation in the limbs; short limbs; loss of sensation in the limbs; shortened bones in the arms and legs; lower limb areflexia; very short arms and legs; swelling (lymphedema) of the limbs;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: trunk soft out-pouching around the belly-button (an umbilical hernia); soft out-pouching in the lower abdomen (inguinal hernia); opening in the center of the abdominal wall where the umbilical cord meets the abdomen. (intestines, stomach, and liver) protrude through the opening into the umbilical cord and are covered by the same protective membrane that covers the umbilical (Omphalocele).  A defect in the abdominal wall, usually to the right of the umbilical cord, through which the large and small intestines protrude. no membrane covering the exposed organs in gastroschisis.(Gastroschisis);  narrow chest; short ribs; prominent, rounded abdomen; enlarged abdomen; swollen abdomen; prominent, rounded abdomen; underdeveloped rib cage; redundant periumbilical skin;
+Symptoms: trunk soft out-pouching around the belly-button (an umbilical hernia); soft out-pouching in the lower abdomen (inguinal hernia); opening in the center of the abdominal wall where the umbilical cord meets the abdomen. (intestines, stomach, and liver) protrude through the opening into the umbilical cord and are covered by the same protective membrane that covers the umbilical (Omphalocele).  A defect in the abdominal wall, usually to the right of the umbilical cord, through which the large and small intestines protrude. no membrane covering the exposed organs in gastroschisis.(Gastroschisis);  narrow chest; short ribs; prominent, rounded abdomen; enlarged abdomen; swollen abdomen; prominent, rounded abdomen; underdeveloped rib cage; redundant periumbilical skin;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Hands and feet development of inward- and upward-turning feet (clubfeet); malformation of the hands and feet called ectrodactyly; abnormality involving hands; feet abnormalities; numbness, tingling, and weakness in the hands and fingers (carpal tunnel syndrome); large and fleshy hands and/or feet; prominent heels; flat feet (pes planus); small depressions (pits) in the skin of the palms of the hands and soles of the feet; a single crease across the palm; short upper arms and thighs; short arms and legs; hand abnormality; small hands; hand malformations; swollen feet; soles of the feet that are rounded outward (rocker-bottom feet); deep split in the hands or feet with missing fingers or toes and fusion of the remaining digits (ectrodactyly); hands and feet are wide;
+Symptoms: Hands and feet development of inward- and upward-turning feet (clubfeet); malformation of the hands and feet called ectrodactyly; abnormality involving hands; feet abnormalities; numbness, tingling, and weakness in the hands and fingers (carpal tunnel syndrome); large and fleshy hands and/or feet; prominent heels; flat feet (pes planus); small depressions (pits) in the skin of the palms of the hands and soles of the feet; a single crease across the palm; short upper arms and thighs; short arms and legs; hand abnormality; small hands; hand malformations; swollen feet; soles of the feet that are rounded outward (rocker-bottom feet); deep split in the hands or feet with missing fingers or toes and fusion of the remaining digits (ectrodactyly); hands and feet are wide;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: fingers and toes hypoplasia of the tips of the fingers or toes, underdeveloped thumbs (thumb hypoplasia); underdevelopment or loss of nails; short fingers and toes; short fingernails and toenails; extra fingers and/or toes (digits; polydactyly); partially webbed toes (partial syndactyly); fused fingers and toes (syndactyly); numbness, tingling, and weakness in the fingers; fusion of the skin of the fingers or toes (syndactyly); small or abnormal toenails; unusually short fingers and toes (brachymetaphalangy); unusual curving of the fingers (clinodactyly); unusual curving of the fingers or toes (clinodactyly); short fifth (pinky) fingers;  short fingers (brachydactyly); missing fingers (oligodactyly); webbing of the skin between some fingers (cutaneous syndactyly); diverge of ring finger and middle finger, three-pronged (trident) fingers;  extra digits can be on the same side of the hand or foot as the pinky or little toe (postaxial polydactyly) or on the same side as the thumb or great toe (preaxial polydactyly); finger abnormalities;  long, slender fingers and toes (arachnodactyly);  unusually fleshy pads at the tips of the fingers and toes;  big toe that crosses over the other toes; partial fusion (syndactyly) of the second and third toe; misshapen or absent fingernails and toenails; bent fingers and toes (camptodactyly); missing all of their fingernails and toenails (anonychia);  part of the nail is missing (hyponychia); at a minimum, three digits on each hand and foot are fused together; hitchhiker thumbs; broad fingers and toes;
+Symptoms: fingers and toes hypoplasia of the tips of the fingers or toes, underdeveloped thumbs (thumb hypoplasia); underdevelopment or loss of nails; short fingers and toes; short fingernails and toenails; extra fingers and/or toes (digits; polydactyly); partially webbed toes (partial syndactyly); fused fingers and toes (syndactyly); numbness, tingling, and weakness in the fingers; fusion of the skin of the fingers or toes (syndactyly); small or abnormal toenails; unusually short fingers and toes (brachymetaphalangy); unusual curving of the fingers (clinodactyly); unusual curving of the fingers or toes (clinodactyly); short fifth (pinky) fingers;  short fingers (brachydactyly); missing fingers (oligodactyly); webbing of the skin between some fingers (cutaneous syndactyly); diverge of ring finger and middle finger, three-pronged (trident) fingers;  extra digits can be on the same side of the hand or foot as the pinky or little toe (postaxial polydactyly) or on the same side as the thumb or great toe (preaxial polydactyly); finger abnormalities;  long, slender fingers and toes (arachnodactyly);  unusually fleshy pads at the tips of the fingers and toes;  big toe that crosses over the other toes; partial fusion (syndactyly) of the second and third toe; misshapen or absent fingernails and toenails; bent fingers and toes (camptodactyly); missing all of their fingernails and toenails (anonychia);  part of the nail is missing (hyponychia); at a minimum, three digits on each hand and foot are fused together; hitchhiker thumbs; broad fingers and toes;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Face a flat or sunken appearance of the middle of the face (midface hypoplasia); round face; hypoplastic midface; long, narrow face; unusual facial features; narrow forehead; underdevelopment of one side of the upper or lower jaw (maxillary or mandibular hypoplasia); malar hypoplasia; mandibullar hypoplasia (micrognathia);  very small lower jaw (micrognathia); distinctive facial feature; a swollen, rounded cheek; developmental abnormalities involving face; painful bumps or blisters on the face; underdevelopment of the facial bones that  may restrict an affected infant's airway causing potentially life-threatening respiratory problem; subtle differences in facial features; a high (front) hairline; broad eyebrows, wide-set eyes (hypertelorism); widely-spaced eyes (hypertelorism); narrowing of the eye opening (blepharophimosis); prominent forehead; broad, prominent forehead (frontal bossing); outside corners of the eyes that point downward (downslanting palpebral fissures);  long eyelashes; a broad nasal bridge; a full lower lip; a long, smooth space between the upper lip and nose (philtrum); narrow space between the nose and upper lip (short philtrum); low-set ears; prominent ears; large ears; minor ear abnormality; malformed ears; cleft lip; cleft palate; deep-set eyes; straight eyebrows; droopy eyelids (ptosis); broad, flat nose; malformed nose; pointed chin; small, pointed chin; sharp, rounded nasal tips; broad nose tips; broad nasal bridge; early beard growth; long, narrow head; flat nasal bridge; high bridge of the nose; full eyebrows; prominent mouth; full lips; open mouth with an upper lip that points outward (tented lips); upturned nose with a fleshy tip; small jaw (micrognathia); abnormally pale appearance (pallor);  vertical skin creases; upward- or downward-slanting eyes; short nose; widow's peak hairline; small chin; milia on the face; upslanting or downslanting palpebral fissures);  thin upper lip; prominent nasal bridge; rounded eyebrows; protruding jaw; sloping forehead; closely spaced eyes (hypotelorism); protruding chin (prognathism); widely spaced eyes (ocular hypertelorism); underdeveloped upper jaw;   tend to develop acne;  look older than their age; droopy cheeks; square-shaped face; broad forehead; prominent cheeks; facial asymmetry;
+Symptoms: Face a flat or sunken appearance of the middle of the face (midface hypoplasia); round face; hypoplastic midface; long, narrow face; unusual facial features; narrow forehead; underdevelopment of one side of the upper or lower jaw (maxillary or mandibular hypoplasia); malar hypoplasia; mandibullar hypoplasia (micrognathia);  very small lower jaw (micrognathia); distinctive facial feature; a swollen, rounded cheek; developmental abnormalities involving face; painful bumps or blisters on the face; underdevelopment of the facial bones that  may restrict an affected infant's airway causing potentially life-threatening respiratory problem; subtle differences in facial features; a high (front) hairline; broad eyebrows, wide-set eyes (hypertelorism); widely-spaced eyes (hypertelorism); narrowing of the eye opening (blepharophimosis); prominent forehead; broad, prominent forehead (frontal bossing); outside corners of the eyes that point downward (downslanting palpebral fissures);  long eyelashes; a broad nasal bridge; a full lower lip; a long, smooth space between the upper lip and nose (philtrum); narrow space between the nose and upper lip (short philtrum); low-set ears; prominent ears; large ears; minor ear abnormality; malformed ears; cleft lip; cleft palate; deep-set eyes; straight eyebrows; droopy eyelids (ptosis); broad, flat nose; malformed nose; pointed chin; small, pointed chin; sharp, rounded nasal tips; broad nose tips; broad nasal bridge; early beard growth; long, narrow head; flat nasal bridge; high bridge of the nose; full eyebrows; prominent mouth; full lips; open mouth with an upper lip that points outward (tented lips); upturned nose with a fleshy tip; small jaw (micrognathia); abnormally pale appearance (pallor);  vertical skin creases; upward- or downward-slanting eyes; short nose; widow's peak hairline; small chin; milia on the face; upslanting or downslanting palpebral fissures);  thin upper lip; prominent nasal bridge; rounded eyebrows; protruding jaw; sloping forehead; closely spaced eyes (hypotelorism); protruding chin (prognathism); widely spaced eyes (ocular hypertelorism); underdeveloped upper jaw;   tend to develop acne;  look older than their age; droopy cheeks; square-shaped face; broad forehead; prominent cheeks; facial asymmetry;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Nose small nose; bulbous nose with upturned nostrils;  a flat nose with an upturned tips; large ears; sparse eyebrows; flattened bridge of the nose; upturned nostrils; beaked nose; nasal congestion; short and broad nose; upturned nose with a grooved tip; underdeveloped nose;
+Symptoms: Nose small nose; bulbous nose with upturned nostrils;  a flat nose with an upturned tips; large ears; sparse eyebrows; flattened bridge of the nose; upturned nostrils; beaked nose; nasal congestion; short and broad nose; upturned nose with a grooved tip; underdeveloped nose;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Mouth problems with the development of the roof of the mouth (palate); problems with development of the oral cavit; cleft lip; cleft palate; high, arched roof of the mouth (palate); high arch of the hard palate at the roof of the mouth; prominent mouth; full lips; unusually large tongue (macroglossia); a small mouth with thick lips; overgrown gums; large tongue; upper lip is shaped like an upside-down"V"; lower lip tends to be prominent; full lips; unusually small mouth (microstomia); lips and the inside lining of the mouth can also be unusually dark;
+Symptoms: Mouth problems with the development of the roof of the mouth (palate); problems with development of the oral cavit; cleft lip; cleft palate; high, arched roof of the mouth (palate); high arch of the hard palate at the roof of the mouth; prominent mouth; full lips; unusually large tongue (macroglossia); a small mouth with thick lips; overgrown gums; large tongue; upper lip is shaped like an upside-down"V"; lower lip tends to be prominent; full lips; unusually small mouth (microstomia); lips and the inside lining of the mouth can also be unusually dark;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Teeth/ dental problems thin enamel on the teeth (enamel hypoplasia); teeth to be unusually small, discolored, pitted or grooved,  and prone to rapid wear and breakage; small or missing teeth; premature tooth los; dentinogenesis imperfecta; dental abnormalities; delayed appearance of the primary (baby) or secondary (adult) teeth; crowded and/or misaligned teeth; multiple cavities?; eruption of primary teeth; widely spaced teeth; have fewer teeth than normal (hypodontia); malformed teeth; missing teeth; crowded teeth; primary (baby) teeth do not fall out at the usual time during childhood but are retained as the adult teeth grow in;
+Symptoms: Teeth/ dental problems thin enamel on the teeth (enamel hypoplasia); teeth to be unusually small, discolored, pitted or grooved,  and prone to rapid wear and breakage; small or missing teeth; premature tooth los; dentinogenesis imperfecta; dental abnormalities; delayed appearance of the primary (baby) or secondary (adult) teeth; crowded and/or misaligned teeth; multiple cavities?; eruption of primary teeth; widely spaced teeth; have fewer teeth than normal (hypodontia); malformed teeth; missing teeth; crowded teeth; primary (baby) teeth do not fall out at the usual time during childhood but are retained as the adult teeth grow in;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Eyes abnormalities underdevelopment of the region at the back of the eye responsible for sharp central vision (foveal hypoplasia); narrowing of the eye opening (blepharophimosis), droopy eyelids (ptosis), and an upward fold of the skin of the lower eyelid near the inner corner of the eye (epicanthus inversus), unusually small eyeballs (microphthalmia),(anophthalmia), a gap or split in structures that make up the eyes (coloboma) or blockage of the tear ducts (nasolacrimal duct stenosis, impair vision; abnormal eye development, including missing eyebrows or eyelashes or a patch of hair extending from the side hairline to the eyebrow; highly arched eyebrows; abnormal development of retina: immature retinal cells accumulating at the back of the eye; cloudy cornea (opaque) which causes blurred vision; Progressive vision loss; eyes problems that impair vision: eyes that do not point in the same direction (strabismus); underdevelopment of the optic nerves; vision problems; eye problems such as clouding of the lenses (cataracts);  optic atrophy degeneration (atrophy) of nerve cells that carry visual information from the eyes to the brain; skin folds covering the inner corner of the eyes (epicanthal folds); yellowing of the whites of the eyes (jaundice);  progressive degeneration of the light-sensitive layer (retina) at the back of the eye which can cause vision loss.(retinitis pigmentosa);  small opaque spots; areas of tissue degeneration (atrophy) around the edges of the retina;  partial or total absence of color vision; increased sensitivity to light and glare (photophobia); significantly reduced sharpness of vision (low visual acuity); farsightedness (hyperopia); nearsightedness (myopia); sharply defined eyebrows; Eye abnormality; Vision abnormality; farsightedness (hyperopia); buildup of yellowish deposits called drusen beneath the retina; growth of abnormal, fragile blood vessels underneath the macula; central vision appear blurry and distorted; defects in the light-sensitive tissue at the back of the eye, retina (chorioretinal lacunae); small or poorly developed eyes (microphthalmia); blindness; yellowish tinges in the whites of the eyes (jaundice); involuntary eye movements (nystagmus); vision loss; retinitis pigmentosa which cause vision loss; misshapen lenses in the eyes (anterior lenticonus); abnormal coloration of retina; progressive loss of vision; difficulty following movements with the eyes (gaze palsy); complete or partial absence of the colored part of the eye (the iris); pupils to be abnormal or misshapen; reduction in the sharpness of vision (visual acuity);  increased sensitivity to light (photophobia); Increased pressure in the eye (glaucoma); Clouding of the lens of the eye (cataracts); strands of tissue partially or completely fuse the upper and lower eyelids (ankyloblepharon filiforme adnatum); bulging and wide-set eyes; oculogyric crises; miosis; cone-shaped and abnormally thin cornea (keratoconus); retinal dystrophy; weakness of the external muscles of the eye (ophthalmoplegia);  involuntary back-and-forth eye movements (nystagmus);  difficult to move their eyes side-to-side, have to turn their head to see things in their side (peripheral) vision (oculomotor apraxia); uveitis; difficulty seeing and distinguishing objects in low light (night blindness); microcornea; shallow anterior chamber; white spots on the retina; colored part of the eye (the iris), may be thin or poorly developed; pupil that is off-center (corectopia); extra holes in the iris that can look like multiple pupils (polycoria);
+Symptoms: Eyes abnormalities underdevelopment of the region at the back of the eye responsible for sharp central vision (foveal hypoplasia); narrowing of the eye opening (blepharophimosis), droopy eyelids (ptosis), and an upward fold of the skin of the lower eyelid near the inner corner of the eye (epicanthus inversus), unusually small eyeballs (microphthalmia),(anophthalmia), a gap or split in structures that make up the eyes (coloboma) or blockage of the tear ducts (nasolacrimal duct stenosis, impair vision; abnormal eye development, including missing eyebrows or eyelashes or a patch of hair extending from the side hairline to the eyebrow; highly arched eyebrows; abnormal development of retina: immature retinal cells accumulating at the back of the eye; cloudy cornea (opaque) which causes blurred vision; Progressive vision loss; eyes problems that impair vision: eyes that do not point in the same direction (strabismus); underdevelopment of the optic nerves; vision problems; eye problems such as clouding of the lenses (cataracts);  optic atrophy degeneration (atrophy) of nerve cells that carry visual information from the eyes to the brain; skin folds covering the inner corner of the eyes (epicanthal folds); yellowing of the whites of the eyes (jaundice);  progressive degeneration of the light-sensitive layer (retina) at the back of the eye which can cause vision loss.(retinitis pigmentosa);  small opaque spots; areas of tissue degeneration (atrophy) around the edges of the retina;  partial or total absence of color vision; increased sensitivity to light and glare (photophobia); significantly reduced sharpness of vision (low visual acuity); farsightedness (hyperopia); nearsightedness (myopia); sharply defined eyebrows; Eye abnormality; Vision abnormality; farsightedness (hyperopia); buildup of yellowish deposits called drusen beneath the retina; growth of abnormal, fragile blood vessels underneath the macula; central vision appear blurry and distorted; defects in the light-sensitive tissue at the back of the eye, retina (chorioretinal lacunae); small or poorly developed eyes (microphthalmia); blindness; yellowish tinges in the whites of the eyes (jaundice); involuntary eye movements (nystagmus); vision loss; retinitis pigmentosa which cause vision loss; misshapen lenses in the eyes (anterior lenticonus); abnormal coloration of retina; progressive loss of vision; difficulty following movements with the eyes (gaze palsy); complete or partial absence of the colored part of the eye (the iris); pupils to be abnormal or misshapen; reduction in the sharpness of vision (visual acuity);  increased sensitivity to light (photophobia); Increased pressure in the eye (glaucoma); Clouding of the lens of the eye (cataracts); strands of tissue partially or completely fuse the upper and lower eyelids (ankyloblepharon filiforme adnatum); bulging and wide-set eyes; oculogyric crises; miosis; cone-shaped and abnormally thin cornea (keratoconus); retinal dystrophy; weakness of the external muscles of the eye (ophthalmoplegia);  involuntary back-and-forth eye movements (nystagmus);  difficult to move their eyes side-to-side, have to turn their head to see things in their side (peripheral) vision (oculomotor apraxia); uveitis; difficulty seeing and distinguishing objects in low light (night blindness); microcornea; shallow anterior chamber; white spots on the retina; colored part of the eye (the iris), may be thin or poorly developed; pupil that is off-center (corectopia); extra holes in the iris that can look like multiple pupils (polycoria);
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Ears hearing loss (from birth or progressive); hearing problem; sensorineural hearing loss; abnormally shaped ears; unusually shaped ears; ear canal hypoplasia; Abnormal development of the ears and lower jaw (mandible);abnormality called a"question-mark ear"in which the ears have a distinctive question-mark shape caused by a split that separates the upper part of the ear from the earlobe; cupped ear; ears with fewer fold; narrow ear canal; small skin tags in front of or behind the ears; ears that are rotated backward; low-set ears; large ears; ear infections; deafness; tinnitus; sensorineural hearing loss; small ears; malformed outer ears; ears with fewer folds and grooves than usual (simple ears); narrow ear canals; sensorineural deafness;
+Symptoms: Ears hearing loss (from birth or progressive); hearing problem; sensorineural hearing loss; abnormally shaped ears; unusually shaped ears; ear canal hypoplasia; Abnormal development of the ears and lower jaw (mandible);abnormality called a"question-mark ear"in which the ears have a distinctive question-mark shape caused by a split that separates the upper part of the ear from the earlobe; cupped ear; ears with fewer fold; narrow ear canal; small skin tags in front of or behind the ears; ears that are rotated backward; low-set ears; large ears; ear infections; deafness; tinnitus; sensorineural hearing loss; small ears; malformed outer ears; ears with fewer folds and grooves than usual (simple ears); narrow ear canals; sensorineural deafness;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Neck abnormal development of the second branchial arch forming masses in the neck called branchial cleft cysts; painful bumps or blisters on the neck; short, broad neck
+Symptoms: Neck abnormal development of the second branchial arch forming masses in the neck called branchial cleft cysts; painful bumps or blisters on the neck; short, broad neck
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Back painful bumps or blisters on the back; outgrowth of the tailbone (caudal appendage)
+Symptoms: Back painful bumps or blisters on the back; outgrowth of the tailbone (caudal appendage)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Brain abnormalities cerebellum and the pons hypoplasia; underdevelopment of the tissue connecting the left and right halves of the brain (corpus callosum hypoplasia);  Absence (agenesis) or malformation of the tissue connecting the left and right halves of the brain (corpus callosum); cerebellar hypoplasia; brain dysfunction (encephalopathy); increased pressure within the skull (intracranial pressure); developmental abnormalities involving the skull; development of a noncancerous tumor in the pituitary gland (pituitary adenoma); brain having a smooth appearance with fewer folds and grooves (lissencephaly); impaired brain developmen; patchy white matter abnormalities (lesions) in the brain; brain structure abnormalities; cerebrum abnormalities; developing bulges in blood vessel walls (aneurysms) in the brain; white matter brain tissue damage ((leukoencephalopathy); accumulate 3-methylglutaconic acid in their body fluids; abnormal fusion of certain bones in the skulls (craniosynostosis); reduced production of myelin or delayed maturation of myelin. Myelin is the protective covering that insulates nerves and ensures the rapid transmission of nerve impulse; premature fusion of certain bones in the skull (metopic craniosynostosis); buildup of fluid in the brain (hydrocephalus); Iron accumulation in the brain; agenesis of the corpus callosum;  growth of large cysts in brain tissue; swelling (edema), bleeding (hemorrhage), and then tissue death (necrosis) of brain region;  permanent brain damage; permanent loss of brain tissue; spheroids in the axons of the brain (axon damage); abnormally pigmented glial cells; damage to myelin; loss of white matter (leukodystrophy);  (calcification) in the brain; agenesis or dysgenesis of the corpus callosum; asymmetry between the two sides of the brain; brain folds and grooves that are small in size or reduced in number, cysts; enlargement of the fluid-filled cavities (ventricles) near the center of the brain; enlarged brain and head size (megalencephaly); abnormal protein deposits known as Rosenthal fibers; decreased brain function;  missing large parts of the brain; dysmetria; organic brain syndrome;
+Symptoms: Brain abnormalities cerebellum and the pons hypoplasia; underdevelopment of the tissue connecting the left and right halves of the brain (corpus callosum hypoplasia);  Absence (agenesis) or malformation of the tissue connecting the left and right halves of the brain (corpus callosum); cerebellar hypoplasia; brain dysfunction (encephalopathy); increased pressure within the skull (intracranial pressure); developmental abnormalities involving the skull; development of a noncancerous tumor in the pituitary gland (pituitary adenoma); brain having a smooth appearance with fewer folds and grooves (lissencephaly); impaired brain developmen; patchy white matter abnormalities (lesions) in the brain; brain structure abnormalities; cerebrum abnormalities; developing bulges in blood vessel walls (aneurysms) in the brain; white matter brain tissue damage ((leukoencephalopathy); accumulate 3-methylglutaconic acid in their body fluids; abnormal fusion of certain bones in the skulls (craniosynostosis); reduced production of myelin or delayed maturation of myelin. Myelin is the protective covering that insulates nerves and ensures the rapid transmission of nerve impulse; premature fusion of certain bones in the skull (metopic craniosynostosis); buildup of fluid in the brain (hydrocephalus); Iron accumulation in the brain; agenesis of the corpus callosum;  growth of large cysts in brain tissue; swelling (edema), bleeding (hemorrhage), and then tissue death (necrosis) of brain region;  permanent brain damage; permanent loss of brain tissue; spheroids in the axons of the brain (axon damage); abnormally pigmented glial cells; damage to myelin; loss of white matter (leukodystrophy);  (calcification) in the brain; agenesis or dysgenesis of the corpus callosum; asymmetry between the two sides of the brain; brain folds and grooves that are small in size or reduced in number, cysts; enlargement of the fluid-filled cavities (ventricles) near the center of the brain; enlarged brain and head size (megalencephaly); abnormal protein deposits known as Rosenthal fibers; decreased brain function;  missing large parts of the brain; dysmetria; organic brain syndrome;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: neurological problems underdevelopment of the nerves that carry information from the eyes to the brain (optic nerve hypoplasia); development of swellings called spheroid bodies in the axons, the fibers that extend from nerve cells (neurons); optic atrophy degeneration (atrophy) of nerve cells that carry visual information from the eyes to the brain;  neurological problems; damage to myeline; unable to walk, speak, and look after themselves; peripheral neuropathy; a gap or hole (coloboma) in the optic nerve; myelin deteriorates; reduced sensation in their arms and legs (peripheral neuropathy); damages of the nerves used for muscle movement and sensation (motor and sensory neuropathy); abnormal function of certain cranial nerves; hearing loss (from birth or progressive); hearing problem; sensorineural hearing loss; abnormally shaped ears; unusually shaped ears; ear canal hypoplasia; Abnormal development of the ears and lower jaw (mandible);abnormality called a"question-mark ear,"in which the ears have a distinctive question-mark shape caused by a split that separates the upper part of the ear from the earlobe; cupped ear; ears with fewer fold; narrow ear canal; small skin tags in front of or behind the ears; ears that are rotated backward; low-set ears; large ears; ear infections; deafness; tinnitus; sensorineural hearing loss; motor neuropathy: disturbance in the nerves used for muscle movemen; disturbances in nerve function (neuropathy); numbness, tingling, or pain in the arms and legs (sensory neropathy); twitching of the nerves and muscles (neuromuscular irritability); nephrocalcinosis; neuromyotonia;
+Symptoms: neurological problems underdevelopment of the nerves that carry information from the eyes to the brain (optic nerve hypoplasia); development of swellings called spheroid bodies in the axons, the fibers that extend from nerve cells (neurons); optic atrophy degeneration (atrophy) of nerve cells that carry visual information from the eyes to the brain;  neurological problems; damage to myeline; unable to walk, speak, and look after themselves; peripheral neuropathy; a gap or hole (coloboma) in the optic nerve; myelin deteriorates; reduced sensation in their arms and legs (peripheral neuropathy); damages of the nerves used for muscle movement and sensation (motor and sensory neuropathy); abnormal function of certain cranial nerves; hearing loss (from birth or progressive); hearing problem; sensorineural hearing loss; abnormally shaped ears; unusually shaped ears; ear canal hypoplasia; Abnormal development of the ears and lower jaw (mandible);abnormality called a"question-mark ear,"in which the ears have a distinctive question-mark shape caused by a split that separates the upper part of the ear from the earlobe; cupped ear; ears with fewer fold; narrow ear canal; small skin tags in front of or behind the ears; ears that are rotated backward; low-set ears; large ears; ear infections; deafness; tinnitus; sensorineural hearing loss; motor neuropathy: disturbance in the nerves used for muscle movemen; disturbances in nerve function (neuropathy); numbness, tingling, or pain in the arms and legs (sensory neropathy); twitching of the nerves and muscles (neuromuscular irritability); nephrocalcinosis; neuromyotonia;
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Sex Organ hypoplasia of the labia majora; genital hypoplasia; scrotum hypoplasia; secondary development of sexual characteristic; genital abnormalities: genital agenesiu; abnormal male genitalia; small penis (micropenis);  opening of the urethra on the underside of the penis (hypospadias); scrotum divided into two lobes (bifid scrotum); external genital abnormalities;  ambiguous genitali; Abnormalities of the genitalia and urinary tract (genitourinary abnormalities) (genitourinary anomalies); small external genital; undescended testes (cryptorchidism),ie testis located in the abdomen (undescended); small testes; abnormal development of the ovaries (polycystic ovaries); abnormal development of the ovaries (ovarian dysgenesis; abnormal development of the Müllerian ducts, which are structures in the embryo that develop into the uterus, fallopian tubes, cervix, and the upper part of the vagin; underdeveloped or absent uterus and may also have abnormalities of other reproductive organ; unusual breast development (gynecomastia); lack of development of the gonads; development of female secondary sex characteristic; underdevelopment of reproductive organs, including the uterus and ovaries; no developmnt of secondary sex characteristics, such as breasts and pubic hair; do not menstruate (amenorrhea); irregular menstruation; infertile; no female internal reproductive organs; breast enlargement (gynecomastia) in male during adolescent; underdevelopment or absence of the vagina; underdevelopment or absence of uterus; urinary system abnormality; scrotum surround the penis instead of hanging below (shawl scrotum); male internal sex organs (testes) that are undescended; do not develop secondary sexual characteristics, such as breast growth and menstrual periods; decreased sex drive; abnormal sperm production; increased breast growth (macromastia); irregular menstrual period; premature ovarian failure; erectile dysfunction; early loss of ovarian function (primary ovarian insufficiency);
+Symptoms: Sex Organ hypoplasia of the labia majora; genital hypoplasia; scrotum hypoplasia; secondary development of sexual characteristic; genital abnormalities: genital agenesiu; abnormal male genitalia; small penis (micropenis);  opening of the urethra on the underside of the penis (hypospadias); scrotum divided into two lobes (bifid scrotum); external genital abnormalities;  ambiguous genitali; Abnormalities of the genitalia and urinary tract (genitourinary abnormalities) (genitourinary anomalies); small external genital; undescended testes (cryptorchidism),ie testis located in the abdomen (undescended); small testes; abnormal development of the ovaries (polycystic ovaries); abnormal development of the ovaries (ovarian dysgenesis; abnormal development of the Müllerian ducts, which are structures in the embryo that develop into the uterus, fallopian tubes, cervix, and the upper part of the vagin; underdeveloped or absent uterus and may also have abnormalities of other reproductive organ; unusual breast development (gynecomastia); lack of development of the gonads; development of female secondary sex characteristic; underdevelopment of reproductive organs, including the uterus and ovaries; no developmnt of secondary sex characteristics, such as breasts and pubic hair; do not menstruate (amenorrhea); irregular menstruation; infertile; no female internal reproductive organs; breast enlargement (gynecomastia) in male during adolescent; underdevelopment or absence of the vagina; underdevelopment or absence of uterus; urinary system abnormality; scrotum surround the penis instead of hanging below (shawl scrotum); male internal sex organs (testes) that are undescended; do not develop secondary sexual characteristics, such as breast growth and menstrual periods; decreased sex drive; abnormal sperm production; increased breast growth (macromastia); irregular menstrual period; premature ovarian failure; erectile dysfunction; early loss of ovarian function (primary ovarian insufficiency);
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Ethnic/ family group Gaza in Arab; Iceland; Siberia; Dominican Republic, Papua New Guinea, Turkey; Egypt; Japan; Hungary; Switzerland; White; African American;  Netherlands; Belgium; Africa; Mediterranean countries, Africa, the Middle East, India, and Central Asia; Southeast Asia; northern Sweden; United States; Old Order Amish population of Pennsylvania;  Chamorro people of Guam and people from the Kii Peninsula of Japan; French-Canadian population of the Saguenay-Lac-St.-Jean and Charlevoix regions of northeastern Quebec; Taiwan; Finland; Portugal; Iranian Jews; Sardinians; Finns; Beauce and Bas-Saint-Laurent regions of Quebec, Canada; northern Pakistan; Charlevoix-Saguenay region of Quebec; Japan, Turkey, Tunisia, Spain, Italy, and Belgium
+Symptoms: Ethnic/ family group Gaza in Arab; Iceland; Siberia; Dominican Republic, Papua New Guinea, Turkey; Egypt; Japan; Hungary; Switzerland; White; African American;  Netherlands; Belgium; Africa; Mediterranean countries, Africa, the Middle East, India, and Central Asia; Southeast Asia; northern Sweden; United States; Old Order Amish population of Pennsylvania;  Chamorro people of Guam and people from the Kii Peninsula of Japan; French-Canadian population of the Saguenay-Lac-St.-Jean and Charlevoix regions of northeastern Quebec; Taiwan; Finland; Portugal; Iranian Jews; Sardinians; Finns; Beauce and Bas-Saint-Laurent regions of Quebec, Canada; northern Pakistan; Charlevoix-Saguenay region of Quebec; Japan, Turkey, Tunisia, Spain, Italy, and Belgium
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Gendar Female; Male
+Symptoms: Gendar Female; Male
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Skeletal abnormality: Joints, bones
+Symptoms: Skeletal abnormality: Joints, bones
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-symptoms: Usefaul term:  Physical abnormality; intellectual abnormality; cognitive abnormality eg intellectual disability; behavioural abnormality;
+Symptoms: Usefaul term:  Physical abnormality; intellectual abnormality; cognitive abnormality eg intellectual disability; behavioural abnormality;
 

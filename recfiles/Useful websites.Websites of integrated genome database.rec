@@ -4,19 +4,19 @@
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: KEGG: Kyoto Encyclopedia of Genes and Genomes
 Website: http://www.genome.jp/kegg/
 Function: KEGG is a collection of databases dealing with genomes, biological pathways, diseases, drugs, and chemical substances
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: Useful website with somatic mutation informations
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: Name
 # NOTE: Name
 Website: Website
@@ -26,28 +26,28 @@ Function: Function
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: The Cancer Genomic Atlas (TCGA)
 Website: https://cancergenome.nih.gov/
 Function: categorize and characterize mutations
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: The International Cancer Genomic Consortium (ICGC)
 Website: https://dcc.icgc.org/
 Function: categorize and characterize mutations
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: Catalogue of Somatic Mutations in Cancer (COSMIC)
 Website: https://cancer.sanger.ac.uk/cosmic
 Function: categorize and characterize mutations
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: DGV: Database of Genomic Variants
 Website: http://dgv.tcag.ca/dgv/app/home
 # NOTE: http://dgv.tcag.ca/dgv/app/home
@@ -55,20 +55,20 @@ Function: 目的是提供人类染色体结构变异的概况信息，数据库�
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: Ref Seq-NCBI Reference Sequence Database
 Website: www.ncbi.nlm.nih.gov/refseq
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: CFTR2 database
 Website: https://www.cftr2.org/
 Function: Provides information for patients, researchers, and the general public about specific variants in what is commonly referred to as the cystic fibrosis (CF) gene. For each variant or variant combination included in the database, the website will provide information about:1. Whether the variant or variant combination is CF-causing, and2. Information about sweat chloride, lung function, pancreatic status, and Pseudomonas infection rate in patients in the CFTR2 database with this variant or variant combination.
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: SNPaedia
 Website: SNPedia.com
 # NOTE: SNPedia.com
@@ -76,29 +76,29 @@ Function: SNPedia is a collection of the subset of SNPs that have been reported 
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: Useful websites with genomic news
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: Website
 Website: Web address
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: Illumina news center
 Website: https://emea.illumina.com/company/news-center.html?langsel=/gb/
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: Inheritance disease database
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: Name
 # NOTE: Name
 Website: Website
@@ -108,7 +108,7 @@ Function: Remarks
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: OMIM :0nline Mendelian Inheritance in Man”
 Website: http://www.omim.org/
 # NOTE: http://www.omim.org/
@@ -116,7 +116,7 @@ Function: 数据库持续更新，主要着眼于可遗传的或遗传性的基�
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: DECIPHER: Database of Chromosomal Imbalance and Phenotype in Humans using Ensembl Resources
 Website: https://decipher.sanger.ac.uk/index
 # NOTE: https://decipher.sanger.ac.uk/index
@@ -124,7 +124,7 @@ Function: 用户可以通过检索数据库，发现一系列相关的遗传疾�
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: DGV: Database of Genomic Variants
 Website: http://dgv.tcag.ca/dgv/app/home
 # NOTE: http://dgv.tcag.ca/dgv/app/home
@@ -132,7 +132,7 @@ Function: 目的是提供人类染色体结构变异的概况信息，数据库�
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: Orphanet
 Website: http://www.orpha.net/consor/cgi-bin/index.php?lng=EN
 # NOTE: http://www.orpha.net/consor/cgi-bin/index.php?lng=EN
@@ -140,12 +140,12 @@ Function: 数据库是为所有用户提供罕见病和罕见病药物信息的�
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: Reference sequence databases
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: Name
 # NOTE: Name
 Website: Website
@@ -155,25 +155,25 @@ Function: Function
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: Ref Seq-NCBI Reference Sequence Database
 Website: www.ncbi.nlm.nih.gov/refseq
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: CCDS-ConsensusCDS(CCDS)Database.
 Website: www.ncbi.nlm.nih.gov/projects/CCDS/CcdsBrowse.cgi.
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: ENSEMBL-Ensembl Genome Browser.
 Website: www.ensembl.org/index.html
 
 Record_Type: Useful websites
 Record_SubType: Websites of integrated genome database
-RecordType_Descr: Integrated_genome_database
+RecordType_Descr: Integrated genome database
 Name: GENCODE-GENCODE Project: Encyclopedia of genes and gene variants
 Website: www.gencodegenes.org/
 

@@ -1,10 +1,10 @@
 # -*- mode: rec -*-
 
-%allowed: Record_Type Record_SubType RecordType_Descr Name_of_the_Company Website Sample Technology_platform Remarks Company_info
+%allowed: Record_Type Record_SubType RecordType_Descr Name_of_the_company Website Sample Technology_platform Remarks Company_info
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: 23andMe
+Name_of_the_company: 23andMe
 Website: 23andMe.com
 Sample: saliva
 Technology_platform: SNP: V4 chip
@@ -12,12 +12,12 @@ Remarks: Has sequenced close to a million people and provides comprehensives anc
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: Promethease
+Name_of_the_company: Promethease
 Website: https://promethease.com/
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: ancestryDNA
+Name_of_the_company: ancestryDNA
 Website: https://www.ancestrydna.co.uk/kits?slid=pgrid=49763031765ptaid=kwd-298852588755s_kwcid=+genetic++testgclid=Cj0KCQjw3KzdBRDWARIsAIJ8TMT99gkUEtAEHE-NQSNN0Ngm94S6Dc1YVYdP5O9AbyxgS-DoWCbWzqcaAkjAEALw_wcBrd=https%3a%2f%2fwww.ancestrydna.co.uk%2fkits%3fo_xid=81658o_lid=81658o_sch=Paid+Search+Non+Brand
 Sample: saliva
 Technology_platform: uses microarray-based autosomal DNA testing, which surveys a person’s entire genome at over 700,000 locations, all with a simple saliva sample.
@@ -25,7 +25,7 @@ Remarks: 79GBP+shipping. estimate your origins to more than 350 regions around t
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: MyHeritage DNA
+Name_of_the_company: MyHeritage DNA
 Website: https://www.myheritage.com/dna?utm_source=ppc_googleutm_medium=cpcutm_campaign=mh_search_uk_en_des_mhdna_phrase_dna-genericutm_content=263088622745utm_term=genetics+testingtr_camp_id=696842150tr_ad_group=genetic_testingtr_ag_id=35708474305tr_placement=tr_device=ctr_account=626-021-8538keyword=tr_size=recordtype=recordlocation=gclid=Cj0KCQjw3KzdBRDWARIsAIJ8TMSTc7ZZjqaqk3urzu8sPxcHBW6mK1FZzcywc1gaghIA0xAZOPBA7MIaAsWmEALw_wcB
 Sample: saliva
 Remarks: Uncover your ethnic origins and find new relatives with our simple DNA test. Was 75GBP, now 59GBP for promotion time. All testing is done in our world-leading CLIA-certified, CAP-accredited laboratory in the United States.
@@ -33,7 +33,7 @@ Company_info: Based in USA. Served EU, UK, Aus
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: Company name
+Name_of_the_company: Company name
 Website: Website
 Sample: Products
 Technology_platform: Technology used
@@ -42,20 +42,20 @@ Company_info: Sample
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: Foundation Medicine (to patient/ clinician)
+Name_of_the_company: Foundation Medicine (to patient/ clinician)
 Website: https://www.foundationmedicine.com/
 Company_info: Tumor
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: Guardant Health (to patient/ clinician)
+Name_of_the_company: Guardant Health (to patient/ clinician)
 Website: http://www.guardanthealth.com/
 Sample: Guardant360 assay
 Company_info: Blood (2 vials)
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: Oncofocus (to patient/ clinician)
+Name_of_the_company: Oncofocus (to patient/ clinician)
 Website: https://www.oncologica.com/oncofocus/?utm_source=adwordsutm_medium=cpcutm_campaign=TESTOLDgclid=Cj0KCQiAgNrQBRC0ARIsAE-m-1wJPtccRf1GXxstv05ze9dtPWyG_guo6CiReSTnSoxu8x0ChPT4TQYaAmi4EALw_wcB
 Sample: Oncofocus®Test
 Technology_platform: next generation sequencing (NGS) by Semiconductor sequencing
@@ -64,11 +64,11 @@ Company_info: works by firstly sequencing the DNA and RNA of a patient’s tumou
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: Personal Genome Diagnostic (to research companies)
+Name_of_the_company: Personal Genome Diagnostic (to research companies)
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: Company name
+Name_of_the_company: Company name
 # NOTE: Company name
 Website: Web address
 # NOTE: Web address
@@ -83,7 +83,7 @@ Company_info: Remarks
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: Genetic Genie
+Name_of_the_company: Genetic Genie
 Website: http://geneticgenie.org/
 Sample: Methylation and detox analysis from 23andMe results
 Technology_platform: Free. Donations are needed to pay for the domain and server.
@@ -91,14 +91,14 @@ Remarks: USA
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: Promethease
+Name_of_the_company: Promethease
 Website: https://promethease.com/
 Sample: Thorough analysis of data from 23andMe, Ancestry, FamilyTreeDNA, and Genos,
 Technology_platform: Most reports cost $10 and are produced in under 10 minutes. Much larger data files (such as imputed full genomes) have increased runtime. Uploading additional data files into the same report costs an additional $4.
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: LiveWello
+Name_of_the_company: LiveWello
 Website: https://livewello.com/genetics
 Sample: Work with raw data from several direct-to-consumer genetic services. LiveWello can process genetic raw data from: 23andMe.com, Ancestry.com (Autosomal DNA), Family Tree DNA (Autosomal DNA), Gene By Gene
 Technology_platform: a one time fee of $19.95
@@ -106,7 +106,7 @@ Company_info: LiveWello's Genetic tools will give you reports for 600,000 SNPs, 
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: Know your genetics
+Name_of_the_company: Know your genetics
 Website: https://www.knowyourgenetics.com/
 Sample: Analyze raw SNP data’s methylation pattern and produce nutritional report
 Technology_platform: Free
@@ -114,7 +114,7 @@ Company_info: Very skeptical website (Scam website????)
 
 Record_Type: gene test companies
 Record_SubType: direct to consumer tests
-Name_of_the_Company: Ancestry ProGeneologists
+Name_of_the_company: Ancestry ProGeneologists
 Website: https://www.progenealogists.com/
 Sample: Using online and offline resources—and experts around the world—we have the experience and passion to help you reach your family history goals, large or small. Expert genetic genealogists can help you find birth parents. Prices start at $2,500 for 20 hours of research
 Technology_platform: 2500GBP 20hrs research
