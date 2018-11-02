@@ -16,7 +16,7 @@ for N in ~/Desktop/For\ oncofocus/*.xlsx; do
   echo "Converting $N to REC"
   for H in "$B".*.html ; do
       echo "$H"
-      ./html2rec.py "$(echo "$H"|sed -e s/.html$//)" < "$H" > "$(echo "$H"|sed -e s/html$/rec/)"
+      ./html2rec.py "$(echo "$H"|sed -e s/.html$//)" < "$H" > ../recfiles/"$(echo "$H"|sed -e s/html$/rec/)"
   done
 done &&
 echo Committing... &&
