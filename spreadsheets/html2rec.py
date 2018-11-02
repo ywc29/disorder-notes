@@ -3,28 +3,33 @@
 def main():
     parser = Parser()
     parser.feed(sys.stdin.read()) ; parser.close()
-    flushRows()
+    flushRows() ; sys.stderr.write("\n")
 
 import re, os, sys, HTMLParser
-headings = None
+headings = heads = None
 rows = [] ; curRow = [] ; curCell = [] ; colspan = 0
 print "# -*- mode: rec -*-\n"
 def flushRows():
     global rows
     if not rows: return
-    i = 1
-    heads = headings[:]
-    while i < len(heads):
-        while i < len(heads) and not heads[i]:
-            heads = heads[:i]+heads[i+1:]
-            rows = map(lambda r:r[:i-1]+[" ".join(r[i-1:i+1])]+r[i+1:],rows)
-        i += 1
+    if heads==None: firstFlush()
+    for i in colsFold: rows = map(lambda r:r[:i-1]+[" ".join(r[i-1:i+1])]+r[i+1:],rows)
     print "Record-Type:",sys.argv[1]
     for h,v in zip(heads,zip(*rows)):
         v = " ".join(v).strip()
         if h and v: print h+": "+v
     print
     rows = []
+    sys.stderr.write(".")
+def firstFlush():
+    global heads,colsFold ; colsFold = []
+    heads = headings[:]
+    i = 1
+    while i < len(heads):
+        while i < len(heads) and not heads[i]:
+            heads = heads[:i]+heads[i+1:]
+            colsFold.append(i)
+        i += 1
 class Parser(HTMLParser.HTMLParser):
     def handle_starttag(self, tag, attrs):
         global colspan, endNeed
@@ -52,6 +57,7 @@ class Parser(HTMLParser.HTMLParser):
         elif tag=="tr":
             if not headings:
                 headings = map(lambda x:re.sub("<[^>]*>","",x).replace(" ","-"),curRow)
+                if headings[0]=="1": headings[0] = ""
                 print "%allowed: Record-Type "+" ".join(h for h in headings if h)+"\n"
             else:
                 if curRow[0]: flushRows()
