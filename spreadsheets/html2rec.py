@@ -1,20 +1,24 @@
-import re
-from HTMLParser import HTMLParser,HTMLParseError
+#!/usr/bin/env python2
+import re, os, sys, HTMLParser
 headings = None
 rows = [] ; curRow = [] ; curCell = [] ; colspan = 0
 print "# -*- mode: rec -*-\n"
 def flushRows():
     global rows
     if not rows: return
-    lastH = None
-    for h,v in zip(headings,zip(*rows)):
+    i = 1
+    heads = headings[:]
+    while i < len(heads):
+        while i < len(heads) and not heads[i]:
+            heads = heads[:i]+heads[i+1:]
+            rows = map(lambda r:r[:i-1]+[" ".join(r[i-1:i+1])]+r[i+1:],rows)
+        i += 1
+    for h,v in zip(heads,zip(*rows)):
         v = " ".join(v).strip()
-        if not h and lastH: h = lastH+"_"
         if h and v: print h+": "+v
-        lastH = h
     print
     rows = []
-class Parser(HTMLParser):
+class Parser(HTMLParser.HTMLParser):
     def handle_starttag(self, tag, attrs):
         global colspan, endNeed
         if tag=="td":
@@ -39,7 +43,9 @@ class Parser(HTMLParser):
             curRow += [""]*(colspan-1)
             colspan = 0
         elif tag=="tr":
-            if not headings: headings = map(lambda x:re.sub("<[^>]*>","",x),curRow)
+            if not headings:
+                headings = map(lambda x:re.sub("<[^>]*>","",x).replace(" ","-"),curRow)
+                print "%allowed: "+" ".join(h for h in headings if h)+"\n"
             else:
                 if curRow[0]: flushRows()
                 rows.append(curRow)
@@ -48,6 +54,7 @@ class Parser(HTMLParser):
     def handle_data(self,data):
         data = data.strip()
         if data and colspan: curCell.append(data)
+
 parser = Parser()
-parser.feed(open("Condition-freq.Sheet1.html").read()) ; parser.close()
+parser.feed(sys.stdin.read()) ; parser.close()
 flushRows()

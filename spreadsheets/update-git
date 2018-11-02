@@ -8,12 +8,16 @@ if ! cd ~/disorder-notes/spreadsheets; then echo directory fail; read; exit 1; f
 echo Syncing...
 git pull &&
 for N in ~/Desktop/For\ oncofocus/*.xlsx; do
-  echo "Converting $N"
-  ssconvert -S "$N" "$(echo "$N"|sed -e 's,.*/,,' -e 's/.xlsx*$//').%s.csv"
-  ssconvert -S "$N" "$(echo "$N"|sed -e 's,.*/,,' -e 's/.xlsx*$//').%s.html"
+  export B="$(echo "$N"|sed -e 's,.*/,,' -e 's/.xlsx*$//')"
+  echo "Converting $N to CSV"
+  ssconvert -S "$N" "$B.%s.csv"
+  echo "Converting $N to HTML"
+  ssconvert -S "$N" "$B.%s.html"
+  echo "Converting $N to REC"
+  for H in "$B.*.html" ; do ./html2rec.py < "$H" > "$(echo $H|sed -e s/html$/rec/)";done
 done &&
 echo Committing... &&
-git add *csv *html &&
+git add *csv *html *rec &&
 git commit -am update &&
 echo Uploading... &&
 git push &&
