@@ -1,0 +1,135 @@
+# -*- mode: rec -*-
+
+%allowed: Record-Type RecordType-Descr Name Website Function
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: Ref Seq-NCBI Reference Sequence Database
+Website: www.ncbi.nlm.nih.gov/refseq
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: CCDS-ConsensusCDS(CCDS)Database.
+Website: www.ncbi.nlm.nih.gov/projects/CCDS/CcdsBrowse.cgi.
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: ENSEMBL-Ensembl Genome Browser.
+Website: www.ensembl.org/index.html
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: GENCODE-GENCODE Project: Encyclopedia of genes and gene variants
+Website: www.gencodegenes.org/
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: Useful website with somatic mutation informations
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: <b>Name</b>
+Website: <b>Website</b>
+Function: <b>Function</b>
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: The Cancer Genomic Atlas (TCGA)
+Website: https://cancergenome.nih.gov/
+Function: categorize and characterize mutations
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: The International Cancer Genomic Consortium (ICGC)
+Website: https://dcc.icgc.org/
+Function: categorize and characterize mutations
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: Catalogue of Somatic Mutations in Cancer (COSMIC)
+Website: https://cancer.sanger.ac.uk/cosmic
+Function: categorize and characterize mutations
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: DGV: Database of Genomic Variants
+Website: <span style="color:#0000FF;"><a href="http://dgv.tcag.ca/dgv/app/home"><font color="#0000FF">http://dgv.tcag.ca/dgv/app/home</font></a></span>
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: Ref Seq-NCBI Reference Sequence Database
+Website: www.ncbi.nlm.nih.gov/refseq
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: CFTR2 database
+Website: https://www.cftr2.org/
+Function: Provides information for patients, researchers, and the general public about specific variants in what is commonly referred to as the cystic fibrosis (CF) gene. For each variant or variant combination included in the database, the website will provide information about:1. Whether the variant or variant combination is CF-causing, and2. Information about sweat chloride, lung function, pancreatic status, and Pseudomonas infection rate in patients in the CFTR2 database with this variant or variant combination.
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: SNPaedia
+Website: <span style="color:#0000FF;"><a href="https://snpedia.com/index.php/SNPedia"><font color="#0000FF">SNPedia.com</font></a></span>
+Function: SNPedia is a collection of the subset of SNPs that have been reported to be meaningful, either medically or for other reasons (such as for genealogy). The emphasis in SNPedia is on SNPs that have significant medical consequences, are common, are reproducible (or found in meta-analyses or studies of at least 500 patients), and/or have other historic or medical significance.
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: Useful websites with genomic news
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: Website
+Website: Web address
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: Illumina news center
+Website: https://emea.illumina.com/company/news-center.html?langsel=/gb/
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: Inheritance disease database
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: <b>Name</b>
+Website: <b>Website</b>
+Function: <b>Remarks</b>
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: OMIM :0nline Mendelian Inheritance in Man
+Website: <span style="color:#0000FF;"><a href="http://www.omim.org/"><font color="#0000FF">http://www.omim.org/</font></a></span>
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: DECIPHER: Database of Chromosomal Imbalance and Phenotype in Humans using Ensembl Resources
+Website: <span style="color:#0000FF;"><a href="https://decipher.sanger.ac.uk/index"><font color="#0000FF">https://decipher.sanger.ac.uk/index</font></a></span>
+Function: DECIPHER20010,000
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: DGV: Database of Genomic Variants
+Website: <span style="color:#0000FF;"><a href="http://dgv.tcag.ca/dgv/app/home"><font color="#0000FF">http://dgv.tcag.ca/dgv/app/home</font></a></span>
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: Orphanet
+Website: <span style="color:#0000FF;"><a href="http://www.orpha.net/consor/cgi-bin/index.php?lng=EN"><font color="#0000FF">http://www.orpha.net/consor/cgi-bin/index.php?lng=EN</font></a></span>
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: Integrated genome database
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: <b>Name</b>
+Website: <b>Website</b>
+Function: <b>Function</b>
+
+Record-Type: Useful websites
+RecordType-Descr: Reference-sequence-databases
+Name: KEGG: Kyoto Encyclopedia of Genes and Genomes
+Website: http://www.genome.jp/kegg/
+Function: KEGG is a collection of databases dealing with genomes, biological pathways, diseases, drugs, and chemical substances
+

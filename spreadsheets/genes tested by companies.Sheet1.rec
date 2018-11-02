@@ -1,0 +1,28 @@
+# -*- mode: rec -*-
+
+%allowed: Record-Type RecordType-Descr Gene Involved-codon-(s)
+
+Record-Type: genes tested by companies
+Gene: BRAF
+Involved-codon-(s): 600 (DiaCarta)
+
+Record-Type: genes tested by companies
+Gene: C-kit
+Involved-codon-(s): 816 (DiaCarta)
+
+Record-Type: genes tested by companies
+Gene: EGFR
+Involved-codon-(s): 719, ex19Del, 790, 858, 861 (DiaCarta)
+
+Record-Type: genes tested by companies
+Gene: KRAS
+Involved-codon-(s): 12, 13, 59, 61, 117, 146 (DiaCarta)
+
+Record-Type: genes tested by companies
+Gene: NRAS
+Involved-codon-(s): 12, 13, 59, 61, 117, 146 (DiaCarta)
+
+Record-Type: genes tested by companies
+Gene: PIK3CA
+Involved-codon-(s): 542, 545, 1047 (DiaCarta)
+

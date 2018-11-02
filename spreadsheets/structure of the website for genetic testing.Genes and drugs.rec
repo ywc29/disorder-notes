@@ -1,0 +1,126 @@
+# -*- mode: rec -*-
+
+%allowed: Record-Type RecordType-Descr Genes-and-drugs https://www.ncbi.nlm.nih.gov/books/NBK61999/
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Disease
+https://www.ncbi.nlm.nih.gov/books/NBK61999/: Drug
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: HIV
+https://www.ncbi.nlm.nih.gov/books/NBK61999/: Abacavir
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: gout and hyperuricemia
+https://www.ncbi.nlm.nih.gov/books/NBK61999/: Allopurinol
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: major depression, obsessive-compulsive disorder, panic attacks, generalized anxiety disorder, post-traumatic stress disorder, and bulimia
+https://www.ncbi.nlm.nih.gov/books/NBK61999/: Amitriptyline
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: schizophrenia, bipolar disorder, major depressive disorder, irritability associated with autistic disorder, and treatment of Tourettes disorder
+https://www.ncbi.nlm.nih.gov/books/NBK61999/: Aripiprazole
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Company Logo
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: List of acredited laboratories all over the world
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: <b>Country</b>
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: <u>America</u>
+https://www.ncbi.nlm.nih.gov/books/NBK61999/: <u></u>
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: USA
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Canada
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Mexico
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Colombia
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Brazil
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Argentina
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: <u>Europe</u>
+https://www.ncbi.nlm.nih.gov/books/NBK61999/: <u></u>
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Finland
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Sweden
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Poland
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Hungary
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Germany
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: France
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Greece
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Italy
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: England
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: <u>Asia</u>
+https://www.ncbi.nlm.nih.gov/books/NBK61999/: <u></u>
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: India
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: China
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Australia
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: New Zealand
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Taiwan
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Japan
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: South Korea
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Prenatal test
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: AIDs test
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Cancer risk test
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: Dementia risk test
+
+Record-Type: structure of the website for genetic testing
+Genes-and-drugs: IQ test
+

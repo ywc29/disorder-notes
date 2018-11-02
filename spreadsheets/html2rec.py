@@ -56,9 +56,14 @@ class Parser(HTMLParser.HTMLParser):
             colspan = 0
         elif tag=="tr":
             if not headings:
-                headings = map(lambda x:re.sub("<[^>]*>","",x).replace(" ","-"),curRow)
-                if headings[0]=="1": headings[0] = ""
-                print "%allowed: Record-Type "+" ".join(h for h in headings if h)+"\n"
+                curRow = map(lambda x:re.sub("<[^>]*>","",x).replace(" ","-"),curRow)
+                while curRow and not curRow[-1]:
+                    curRow=curRow[:-1]
+                if len(curRow)==1: sys.argv[1] += "\nRecordType-Descr: "+curRow[0]
+                elif curRow:
+                    headings = curRow
+                    if headings[0]=="1": headings[0] = ""
+                    print "%allowed: Record-Type RecordType-Descr "+" ".join(h for h in headings if h)+"\n"
             else:
                 if curRow[0]: flushRows()
                 rows.append(curRow)

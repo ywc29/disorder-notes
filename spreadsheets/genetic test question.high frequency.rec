@@ -1,0 +1,106 @@
+# -*- mode: rec -*-
+
+%allowed: Record-Type RecordType-Descr Name website frequency
+
+Record-Type: genetic test question
+Name: 16p11.2 duplication
+website: https://ghr.nlm.nih.gov/condition/16p112-duplication
+frequency: 16p11.2 duplications have been estimated to occur in about 3 in 10,000 people. These changes are present in about 4 in 10,000 people who have mental health problems or difficulties with speech and language. Many people with the duplication are likely never diagnosed because there are many causes of these problems, and some people with the duplication have no related health or developmental problems.
+
+Record-Type: genetic test question
+Name: 16p12.2 microdeletion
+website: https://ghr.nlm.nih.gov/condition/16p122-microdeletion
+frequency: Researchers estimate that about 1 in 2,000 newborns have a 16p12.2 microdeletion and show signs and symptoms of the condition. However, the actual number may be higher because many people with the microdeletion are likely never diagnosed. Some never come to medical attention because they have no related health or behavioral problems or have only mild signs and symptoms. Others have nonspecific features for which there can be many causes.
+
+Record-Type: genetic test question
+Name: Information of the person to have test
+
+Record-Type: genetic test question
+Name: Gender
+website: M/F/dont know 17-beta hydroxysteroid dehydrogenase 3 deficiency is a condition that affects male sexual development. People with this condition are genetically male, with one X and one Y chromosome in each cell, and they have male gonads (testes). Most people with 17-beta hydroxysteroid dehydrogenase 3 deficiency are born with external genitalia that appear female. Men with this disorder are generally unable to father children (infertile).
+
+Record-Type: genetic test question
+Name: Age
+website: Certain diseases happen in sometimes of the lifehuntington/;;
+
+Record-Type: genetic test question
+Name: Ethnicity
+website: Askenzies Jews; suitable test for different ethnicity ie the mutation leading to breast cancer is different between Western and Asian ; if Chinese-ask province 17-beta hydroxysteroid dehydrogenase 3 deficiency is common in the Arab population of Gaza affects 1 in 200 to 300 people.
+
+Record-Type: genetic test question
+Name: health status
+website: no obvious health problem; receiving cancer treatment: need personalized genetic test?
+
+Record-Type: genetic test question
+Name: Place of staying
+website: Northern Europe: risk of depression-can suggest to test the risk for depression; the place that you would like to have test ie uks NHS provide clinical test for certain area of people, USA restricts the use of genetic test for cancer prediction;2017
+
+Record-Type: genetic test question
+Name: Family history?
+website: 60703040     /
+
+Record-Type: genetic test question
+Name: current weight
+website: related with metabolic disease? High risk of
+
+Record-Type: genetic test question
+Name: current height
+website: related with heart diseases?
+
+Record-Type: genetic test question
+Name: What do you test for?
+website: <span style="color:#0000FF;"><a href="https://www.gov.uk/get-dna-test"><font color="#0000FF">risk of getting cancer? Parent child or siblings relationship test (https://www.gov.uk/get-dna-test) for accredited laboratories ;  personalized genomic? Diagnosi? Find ancestor?</font></a></span>
+
+Record-Type: genetic test question
+Name: Language
+website: Dont mind English or Chinese
+
+Record-Type: genetic test question
+Name: Result: -paragraphs descriptions saying the risk of diseases according to the information user provided
+
+Record-Type: genetic test question
+Name: list the laboratories or the tests offered by companies (name, company background, accredited awards, price, technology used, result return days)
+
+Record-Type: genetic test question
+Name: UK:
+
+Record-Type: genetic test question
+Name: If you have, for example, two or more close relatives from the same side of your familysuch as your mother, sister or daughterwho have had breast cancer under the age of 50, you may be eligible for surveillance for breast cancer, or genetic screening to look for the genes that make developing breast cancer more likely.
+
+Record-Type: genetic test question
+Name: 50NHS
+
+Record-Type: genetic test question
+Name: You'll usually need a referral from your GP or a specialist doctor for genetic testing to be carried out. Speak to your doctor about the possibility of testing if you think you may need it.
+
+Record-Type: genetic test question
+Name: GP
+
+Record-Type: genetic test question
+Name: Name
+website: website
+frequency: frequency
+
+Record-Type: genetic test question
+Name: 17-hydroxysteroid dehydrogenase type 10 deficiency
+
+Record-Type: genetic test question
+Name: Name
+website: website
+frequency: frequency
+
+Record-Type: genetic test question
+Name: <span style="background:#FFFF00;">17-beta hydroxysteroid dehydrogenase 3 deficiency</span>
+website: <span style="color:#0000FF;"><a href="https://ghr.nlm.nih.gov/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiecy"><font color="#0000FF">https://ghr.nlm.nih.gov/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiecy</font></a></span>
+frequency: 17-beta hydroxysteroid dehydrogenase 3 deficiency is a rare disorder. It is more common in the Arab population of Gaza, where it affects 1 in 200 to 300 people.
+
+Record-Type: genetic test question
+Name: Name
+website: website
+frequency: condition
+
+Record-Type: genetic test question
+Name: 17q12 deletion syndrome
+website: https://ghr.nlm.nih.gov/condition/17q12-deletion-syndrome
+frequency: <span style="color:#0000FF;"><a href="https://ghr.nlm.nih.gov/art/large/pancreas.jpeg"><font color="#0000FF">Many affected individuals also develop a form of diabetes called maturity-onset diabetes of the young type 5 (MODY5), which is caused by a malfunction of certain cells in the pancreas. MODY5 usually appears in adolescence or early adulthood, most often before age 25.</font></a></span>
+

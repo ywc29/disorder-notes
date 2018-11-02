@@ -1,0 +1,1266 @@
+# -*- mode: rec -*-
+
+%allowed: Record-Type RecordType-Descr Name Remarks Provider-company Input-DNA Function Technology Gene-database Principal Assay-time Detection-system Analysis-Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: https://emea.illumina.com/products/by-type/microarray-kits.html
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: HumanCytoSNP-12 v2.1 BeadChip Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: Human DNA from solid tumor or haematological disease
+Function: Analysis of genetic and structural variations that are most relevant to human disease. This scalable, proven solution offers substantially better resolution to detect smaller regions than fluorescence in situ hybridization (FISH) or comparative genomic hybridization (CGH).Detect many types and sizes of structural variation in the human genome that affect phenotypes, including duplications, deletions, amplifications, copy-neutral loss of heterozygosity (LOH), and mosaicism
+Technology: Microarray (Cytogenomic Array, Genome-Wide Genotyping Array)
+Gene-database: International Collaboration for Clinical Genomics (ICCG)1 and the Cancer Genomics Consortium (CGC)
+Principal: Complete panel of genome-wide tag single nucleotide polymorphisms (SNPs) and markers targeting all regions of known cytogenetic importance, incorporating ~300,000best of the bestSNPs with the highest tagging power important for cytogenetic analysis. The result is dense coverage of ~250 disease regions, including subtelomeric regions, pericentromeric regions, and sex chromosomes, commonly screened in cytogenetics labs. Sufficient SNP coverage is provided to determine dosage sensitivity of800 genes.
+Assay-time: 3 days
+Detection-system: <span style="color:#0000FF;"><font color="#0000FF">iScan, NextSeq 550</font></span>
+Analysis-Software: Comprehensive data analysis with intuitive BlueFuse Multi Software streamlines copy number assessment and results reporting (When I look at the data using the BlueFuse Multi Software, theres rarely any variant I cant match with the databases,Dr. Koehler added.I like the links to the genome browsers and the zoom in and query capability to compare regions with other results. Creating batch files is easy, too. I can import the labs entire database to the BlueFuse Multi Software with just one click. I can analyze more patients in a shorter timeframe, which is very helpful for the lab workflow.)
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: HumanCytoSNP FFPE-12 v2.1 DNA Analysis BeadChip Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA. From paired normal and tumor tissue
+Function: Detect Chromosomal Abnormalities, Copy Number Variants (CNVs), Loss of Heterozygosity (LOH), Single Nucleotide Polymorphisms (SNPs). For detection of genetic abnormality of the tumor DNA when compare with paired normal DNA
+Technology: Microarray (Cytogenomic Array, Genome-Wide Genotyping Array)
+Principal: Interrogates262,000 genomic markers. The content consists of intelligently selected tag SNPs that provide comprehensive genomic coverage. With dense and even marker spacing, the BeadChip content can also be used to precisely detect structural aberrations, allowing researchers to accurately identify structural differences between paired-normal and tumor samples.
+Assay-time: 3 days
+Detection-system: <span style="color:#0000FF;"><font color="#0000FF">iScan, NextSeq 550</font></span>
+Analysis-Software: Comprehensive data analysis with intuitive BlueFuse Multi Software streamlines copy number assessment and results reporting
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium Core-24 Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: Semi-customed microarray chip enable to perform large-scale genotyping studies. Can be used to quickly and easily obtain baseline sample datasets for a variety of downstream applications, including common variant, mtDNA, ancestry, sex confirmation, loss-of-variant, indel, and CNV detection studies.
+Technology: Microarray (Genotyping)
+Gene-database: Semi-customed designed
+Principal: The Infinium Core-24 BeadChip contains highly-informative genome-wide tag SNPs found across diverse world populations, additional high-value markers (including indels and updated exome-focused content), and has capacity to include up to 300,000 semi-custom markers.Fixed markers: 307,342, Custom marker add-on capacity: Up to 300,000 (with + kit versions)
+Assay-time: 2304 samples per week
+Detection-system: <span style="color:#0000FF;"><font color="#0000FF">iScan</font></span>
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium CoreExome-24 BeadChip
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. Human DNA.
+Function: Customizable Infinium CoreExome-24 BeadChip offers an economical way to perform and support large genetic studies, especially large-scale genotyping studies. They can also be used to quickly and easily obtain baseline sample data sets for a variety of downstream applications, including common variant, sex confirmation, mtDNA, ancestry, loss-of-variant, indel, and CNV studies.
+Technology: Microarray (Genotyping)
+Gene-database: Semi-customed designed
+Principal: Customizable Infinium CoreExome-24 BeadChip includes all the tag SNPs found on the Infinium Core-24 BeadChip, plus over 240,000 markers from the Infinium Exome-24 BeadChip. For greater flexibility, the Infinium CoreExome-24+ version of the BeadChip can be customized to include up to 100,000 additional markers. Fixed markers: 550,601, Custom marker add-on capacity: Up to 100,000 (with + kit versions)
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium CytoSNP-850K v1.1 BeadChip
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: Detect Chromosomal Abnormalities, Copy Number Variants (CNVs), Loss of Heterozygosity (LOH), Single Nucleotide Polymorphisms (SNPs). SNP-based human microarray to enables copy number calls as small as 10 kb in regions. provides comprehensive coverage of cytogenetically relevant genes on a proven platform, helping researchers find valuable information that may be missed by other technologies.This consortium-built array provides comprehensive coverage of cytogenetically relevant genes for congenital disorders and cancer research.
+Technology: Microarray (Cytogenomic Array, Genome-Wide Genotyping Array)
+Gene-database: International Collaboration for Clinical Genomics (ICCG)1 and the Cancer Genomics Consortium (CGC)
+Principal: It contains approximately 850,000 empirically selected single nucleotide polymorphisms (SNPs) spanning the entire genome with enriched coverage for 3,262 genes of known cytogenetics relevance in both constitutional and cancer applications. Use of long 50-mer probes that have high specificity to the SNP target. This increases sensitivity for low-level mosaics and offers high resolution for copy-neutral loss of heterozygosity (LOH). each SNP is represented in at least 15x redundancy to increase the signal-to-noise ratio for making accurate copy number variation (CNV) and absence of heterozygosity (AOH) calls across the genome. As few as 10 consecutive probes are necessary to make accurate CNV calls, demonstrating the high performance level of the Infinium assay
+Assay-time: 3 days
+Detection-system: <span style="color:#0000FF;"><font color="#0000FF">iScan, NextSeq 550</font></span>
+Analysis-Software: Comprehensive data analysis with intuitive BlueFuse Multi Software streamlines copy number assessment and results reporting
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium Exome-24 Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: Detect Copy Number Variants (CNVs), Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants
+Technology: Microarray (Genotyping)
+Gene-database: Semi-customed designed
+Principal: Delivers exceptional coverage of putative functional exonic variants selected from over 12,000 individual exome and whole-genome sequences representing diverse populations and a range of common conditions. Markers were identified through a close collaboration with leading geneticists with the goal of developing an extensive catalog of exome variants. The exonic content consists of240,000 markers representing diverse populations - including European, African, Chinese, and Hispanic individuals - and a range of common conditions, such as type 2 diabetes, cancer, metabolic, and psychiatric disorders. For greater flexibility, the Infinium Exome-24+ version of the BeadChip can be customized to include up to 400,000 additional markers.
+Assay-time: ~2304 samples per week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: InfiniumGlobal Screening Array-24 v1.0 Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: Saliva, blood, buccal swabs, and formalin-fixed, paraffin-embedded (FFPE) samples (with optional FFPE restore kit). 200Ng human DNA
+Function: Detects Copy Number Variants (CNVs), genotyping, Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants for Disease risk profiling studies, pharmacogenomics research, wellness characterization, and complex disease discovery.
+Technology: Microarray (Genotyping)
+Gene-database: Semi-customed designed
+Principal: Combines multi-ethnic genome-wide content, curated clinical research variants, and quality control (QC) markers for precision medicine research.The genome-wide content was selected for high imputation accuracy at minor allele frequencies of1% across all 26 1000 Genomes Project populations. The clinical research content includes variants with established disease associations, relevant pharmacogenomics markers, and curated exonic content based on ClinVar, NHGRI, PharmGKB, and ExAC databases. Fixed markers: ~ 640,000 Custom marker, add-on capacity: Up to 50,000
+Assay-time: Enables processing of thousands of samples per week with a 3-day workflow for population-scale studies.
+Detection-system: iScan
+Analysis-Software: <span style="color:#0000FF;"><a href="https://emea.illumina.com/techniques/microarrays/array-data-analysis-experimental-design/lims.html"><font color="#0000FF">Illumina Array LIMS, GenomeStudio Software, Beeline Software</font></a></span>
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium ImmunoArray-24 v2 BeadChip Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: Genotyping array for detecting genetic variation in the immune system. For immunology research
+Technology: Microarray (Genotyping)
+Gene-database: Semi-customed designed
+Principal: Content highlights: Over 250,000 immune specific markers; Over 85,000 new markers; Includes most valuable content from HumanImmuno v1 BeadChi; focused on 17 major autoimmune disorders. Fixed markers: ~253,702, Custom marker add-on capacity: Up to 390,000 (with + kit versions)
+Assay-time: ~5760 samples per week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium MethylationEPIC BeadChip Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue, Low-Input Samples. 250 ng human DNA
+Function: Use for epigenome-wide association studies.
+Technology: Microarray (Methylation)
+Principal: Detects Differentially Methylated Cytosines. Researchers can interrogate over 850,000 methylation sites quantitatively across the genome at single-nucleotide resolution. This kit includes the following content categories requested by methylation experts:CpG sites outside of CpG islands; Non-CpG methylated sites identified in human stem cells (CHH sites); Differentially methylated sites identified in tumor versus normal; FANTOM5 enhancers; ENCODE open chromatin and enhancers; Dnase hypersensitive sites; miRNA promoter regions; and90% of content contained on the Illumina HumanMethylation450K BeadChip
+Detection-system: iScan
+Analysis-Software: <span style="color:#0000FF;"><a href="https://emea.illumina.com/techniques/microarrays/array-data-analysis-experimental-design/genomestudio.html"><font color="#0000FF">GenomeStudio Methylation Module. GenomeStudio software enables researchers to effortlessly perform differential methylation analysis for small-scale studies. It features advanced visualization tools that enable researchers to view vast amounts of data in a single graph, such as heat maps, scatter plots, and line plots. These tools and the GenomeStudio Genome Browser display valuable information such as chromosomal coordinates, percent GC, location in a CpG Island, and methylationvalues.For large-scale studies, there are many free analysis packages that work in the software framework R for normalization, and differential analysis of methylation data. Instructional videos explain the use of these data analysis packages.</font></a></span>
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium Multi-Ethnic AMR/AFR-8 v1.0 Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: <span style="background:#FFFF00;">For understanding complex disease in diverse human populations, focused on Hispanic and African American populations.</span>
+Technology: Microarray (Genotyping)
+Gene-database: Semi-customed designeC.onsortium partners developed content for
+Principal: Detects Copy Number Variants (CNVs), Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants. Provides a multi-purpose, multi-ethnic genotyping array focused on Hispanic and African American populations. With1.4 million expertly selected markers, it enables identification of genetic associations with common and rare traits, providing insight to epidemiologists, health care researchers, population geneticists, and genomic researchers.Fixed markers: 1,430,141 Custom marker add-on capacity: Up to 245,000
+Assay-time: ~1067 samples per week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium Multi-Ethnic EUR/EAS/SAS-8 v1.0 Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: <span style="background:#FFFF00;">For understanding complex disease in diverse human populations, focused on European, East Asian, and South Asian populations.</span>
+Technology: Microarray (Genotyping)
+Gene-database: Combines expertly selected markers and content from the most popular Illumina commercial arrays with the most current genomic information.
+Principal: Detects Copy Number Variants (CNVs), Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants. Provides a multi-purpose, multi-ethnic genotyping array focused on European, East Asian, and South Asian populations. With1.4 million expertly selected markers, it enables identification of genetic associations with common and rare traits, providing insight to epidemiologists, health care researchers, population geneticists, and genomic researchers. Fixed markers: 1,475,140 Custom marker add-on capacity: Up to 245,000
+Assay-time: ~1067 samples per week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium Multi-Ethnic Global-8 v1.0 Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: <span style="background:#FFFF00;">For understanding complex disease in diverse human populations.  These diseases include neurodegenerative, psychiatric, and autoimmune disorders, and others.</span>
+Technology: Microarray (Genotyping)
+Gene-database: Combines expertly selected markers and content from the most popular Illumina commercial arrays with the most current genomic information.Consortium partners developed content for this multi-ethnic global genotyping array using tagging strategies with the power to perform more effective association studies in diverse populations. The novel algorithm selects population-specific and transethnic tag SNPs that maximize imputation accuracy, as imputation has become a standard practice in the interpretation of genotyping data and allows for more accurate statistical inference of genotypes not directly genotyped.Fixed markers: 1,779,819 Custom marker add-on capacity: Up to 245,000
+Principal: Detects Copy Number Variants (CNVs), Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants. With1.7 million expertly selected markers, it enables identification of genetic associations with common and rare traits, providing insight across diverse populations to epidemiologists, health care researchers, population geneticists, and genomic researchers.Researchers can detect both common and rare variants across the most commonly studied 5 major super-populations and impute variants in a vast number of subpopulations.
+Assay-time: ~1067 samples per week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium Omni2.5-8 v1.3 Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: Delivers exceptional genomic coverage rates across diverse populations
+Technology: Microarray (Genotyping)
+Gene-database: 1000 Genomes Project (MAF2.5%). Semi-customed
+Principal: Detects Copy Number Variants (CNVs), Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants. Offers an optimal and comprehensive set of both common and rare SNP content from the 1000 Genomes Project (MAF2.5%) for diverse world populations. Fixed markers: 2,338,671, Custom marker add-on capacity: Up to 200,000
+Assay-time: ~1067 samples per week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium Omni2.5Exome-8 v1.3 Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: For next-generation genotyping, GWAS, and CNV analysis.
+Technology: Microarray (Genotyping)
+Gene-database: 1000 Genomes Project (1kGP). With combined markers from the Infinium Omni2.5-8 Kit and Infinium Exome-24 Kit
+Principal: Detects Copy Number Variants (CNVs), Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants. Delivers comprehensive coverage of common, rare, and exonic SNP content, providing maximum genomic information of diverse world populations. Fixed markers: 2,608,742,
+Assay-time: ~1067 samples per week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: InfiniumOmni5-4 v1.2 Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 400 ng human DNA.
+Function: For whole-genome genotyping and CNV studies
+Technology: Microarray (Genotyping)
+Gene-database: International HapMap and 1000 Genomes Projects that target genetic variation down to 1% minor allele frequency (MAF).
+Principal: Detects Copy Number Variants (CNVs), Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants. Fixed markers: 4,284,426
+Assay-time: 460samples/ week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium Omni5Exome-4 Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 400 ng human DNA.
+Function: For whole-genome genotyping and copy number variation (CNV) analysis.
+Technology: Microarray (Genotyping)
+Principal: Detects Copy Number Variants (CNVs), Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants. delivers comprehensive coverage of the genome, providing functional exonic content for whole-genome genotyping and copy number variation (CNV) analysis. The BeadChips include optimized tag SNPs targeting genetic variation down to 1% minor allele frequency (MAF).Fixed markers: 4,548,474
+Assay-time: 460samples/ week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium OmniExpress-24 v1.2 Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: For genome-wide association studies (GWAS)
+Technology: Microarray (Genotyping)
+Gene-database: Optimized tag SNP content from all three HapMap phases has been strategically selected to capture the greatest amount of common variation and drive the discovery of novel associations with traits and diseases. Semi-customed design
+Principal: Detects Copy Number Variants (CNVs), Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants. Fixed Markers: ~710,000 Custom marker add-on capacity: Up to 30,000 (with + kit versions
+Assay-time: ~2,304 samples per week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium OmniExpressExome-8 v1.4 Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: Discover novel trait and disease associations with optimized tag SNPs and functional exonic content at an attractive price
+Technology: Microarray (Genotyping)
+Gene-database: Optimized tag SNPs from all three HapMap1 phases have been strategically selected to capture the greatest amount of common SNP variation, driving the discovery of novel associations with traits and diseases. Semi-customed design
+Principal: Detects Copy Number Variants (CNVs), Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants. The array includes over 273,000 functional exonic markers, delivering coverage of putative functional exonic variants selected from over 12,000 individual exome and whole genome sequences. Fixed markers: 958,497, Custom marker add-on capacity: Up to 30,000
+Assay-time: 960 samples per week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium OmniZhongHua-8 v1.3 Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: For genome-wide association studies (GWAS)delivers exceptional coverage of common, intermediate, and rare variation found within Chinese populations for
+Technology: Microarray (Genotyping)
+Gene-database: Optimized tag SNP content from all three HapMap phases and the 1000 Genomes Project (1kGP) has been strategically selected to create a population-focused array for the discovery of novel disease and trait associations in Chinese populations.
+Principal: Detects Copy Number Variants (CNVs), Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants.  Fixed markers: 878,291
+Assay-time: 960 samples per week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium OncoArray-500K BeadChip
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: Enables research into cancer predisposition and risk
+Technology: Microarray (Genotyping)
+Gene-database: Developed in collaboration with leading experts from the OncoArray consortium, and draws on many of the features of the successful Collaborative Oncological Gene-environment Study (iCOGS) array1.
+Principal: <span style="background:#FFFF00;">Detects Copy Number Variants (CNVs), Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants. contains 500,000 SNPs with a genome-wide backbone of 250,000 tag SNPs. Additional SNPs include genetic variants associated with breast, colorectal, lung, ovarian, and prostate cancers plus SNPs covering ancestry, quantitative traits, pharmacogenetics, and fine-mapping of common cancer susceptibility loci. Fixed markers: ~500,000 Custom marker add-on capacity: Up to 120,000 (with + kit versions)</span>
+Assay-time: ~2,304 samples per week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium PsychArray-24 v1.2 Kit (48 samples)
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: For large-scale genetic studies focused on psychiatric predisposition and risk
+Technology: Microarray (Genotyping)
+Gene-database: Developed in collaboration with the Psychiatric Genomics Consortium.
+Principal: Detects Copy Number Variants (CNVs), Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants. Includes 265,000 proven tag SNPs found on the Infinium Core-24 BeadChip, 245,000 markers from the Infinium Exome-24 BeadChip, and 50,000 additional markers associated with common psychiatric disorders.These additional SNPs include genetic variants associated with the research of common psychiatric conditions such as schizophrenia, bipolar disorder, autism spectrum disorders, attention deficit hyperactivity disorder, major depressive disorder, obsessive compulsive disorder, anorexia, and Tourettes syndrome.Fixed markers: ~593,260 Custom marker add-on capacity: Up to 60,000 (with + kit versions)
+Assay-time: ~2,304 samples per week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Infinium QCArray-24 v1.2 Kit (48 samples)
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: FFPE tissue. 200 ng human DNA.
+Function: For researchers to perform sample tracking, quality control, and stratification. It is useful for high-throughput genomics, biobanking, and any other application that requires validation of sample identity and quality.
+Technology: Microarray (Genotyping)
+Principal: Detects Copy Number Variants (CNVs), Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Structural Variants.With 15,949 markers, the Infinium QC Array-24 offers markers focused on high-value functional content including:Sex determinatio; Ethnic ancestry; ADME (absorption, distribution, metabolism, and excretion);Linkage
+Assay-time: ~5760 samples per week
+Detection-system: iScan
+Analysis-Software: GenomeStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: HumanKaryomap-12 DNA Analysis Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: 400 ng genomic DNA from each parent and reference samples, single or multi-cell embryo biopsy samples amplified by Multiple Displacement Amplification (A suitable MDA kit should be used for amplifying DNA from embryo biopsy samples. Customers can transition to the REPLI-g Single Cell Kit for whole genome amplification (WGA) from QIAGEN). DNA amplification needs
+Function: Preimplantation genetic diagnosis (PGD) mapping single gene defect by testing single cells from embryo biopsies Prenatal diagnosis (testing on foetuses or embryo)
+Technology: Microarray
+Principal: Preimplantation genetic diagnosis (PGD) with karyomapping enables screening of embryos (stage of 8 cells, 2 days after feritilization) for the likelihood of carrying the defective gene prior to transfer to the uterus. This method uses SNP (single nucleotide polymorphisms) array technology to confirm the presence or absence of a specific allele.(Current preimplantation genetic diagnosis (PGD) methods for single-gene disorders examine the inheritance of short tandem repeats (STRs) adjacent to the disorders specific loci. STR methods are expensive and time-consuming because they are developed for each individual case.) It has been banned in some countries such as switzerland, Ireland,  and Austria.
+Assay-time: 2 days
+Detection-system: <span style="color:#0000FF;"><font color="#0000FF">iScan, NextSeq 550</font></span>
+Analysis-Software: BlueFuse software provides molecular cytogenetic and in vitro fertilization (IVF) data analysis in a single framework
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: https://emea.illumina.com/areas-of-interest/cancer/research/sequencing-methods/targeted-cancer-seq.html
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: TruSight Cancer
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: 50ng DNA
+Function: Targets 94 genes suspected to play a role in predisposing to cancer, including genes associated with both common (eg, breast, colorectal) and rare cancers. In addition, the panel includes 284 SNPs suspected to be associated with cancer through genome-wide association studies (GWAS).
+Technology: SBS: sequencing by synthesis
+Gene-database: Developed in collaboration with Professor Nazneen Rahman and team at the Institute of Cancer Research (ICR), London
+Principal: Includes 94 genes associated with both common (e.g., breast, colorectal) and rare cancers. In addition, the set includes 284 SNPs found to correlate with cancer through genome-wide association studies (GWAS). The kit includes ~4,000 80-mer probes, each constructed against the human 170220 NCBI37/hg19 reference genome. The probe set was designed to enrich for1,700 exons, spanning 94 genes of Interest
+Assay-time: 1.5 days
+Detection-system: MiniSeq, MiSeq, NextSeq
+Analysis-Software: BWA Enrichment BaseSpace App, Isaac Enrichment BaseSpace App, VariantStudio
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: TruSight Cardio Sequencing Kit
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: 50ng DNA
+Function: Targeted DNA sequencing identifying causal variants implicated in inherited cardiac conditions (ICCs)
+Technology: SBS: sequencing by synthesis
+Gene-database: Expertly defined genes selected in collaboration with the National Heart and Lung Institute at the Imperial College of London. Content includes genes known to be associated with hereditary heart disease and emerging genes found in the literature.
+Principal: Detects Germline Variants, Single Nucleotide Polymorphisms (SNPs). Provides comprehensive coverage of 174 genes with known associations to 17 ICCs, including cardiomyopathies, arrhythmias, aortopathies, and more.
+Detection-system: MiSeq, NextSeq
+Analysis-Software: BWA Enrichment App, Enrichment App, VariantStudio
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: TruSight HLA v2 Sequencing Panel
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: 400ng DNA
+Function: Targeted DNA sequencing for human leukocyte antigen (HLA) typing
+Technology: SBS: sequencing by synthesis
+Principal: Detects Single Nucleotide Polymorphisms (SNPs). TruSight HLA v2 covers all commonly typed HLA loci, plus those with emerging relevance. This panel enables sequencing of Class I HLA-A, B, and C; Class II HLA-DRB1/3/4/5, HLA-DQA1, HLA-DQB1, HLA-DPA1, and HLA-DPB1. This expands coverage beyond the classic loci, with full gene coverage, enabling discovery of new alleles without the need to design new primers.
+Assay-time: 2 days
+Detection-system: MiniSeq, MiSeq, NextSeq System
+Analysis-Software: Assign 2.0 TruSight HLA Analysis Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: TruSight Inherited Disease Sequencing Panel
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: 50ng DNA
+Function: Targeted sequencing panel that focuses on 552 genes associated with severe, recessive pediatric onset diseases
+Technology: SBS: sequencing by synthesis
+Gene-database: Developed in collaboration with Dr. Stephen Kingsmore and team during his tenure at Children's Mercy Hospital (CMH) for Pediatric Genomic Medicine, Dr. Carol Saunders at CMH, and Dr. Hilger Ropers at the Max Planck Institute
+Principal: Detects Germline Variants, Single Nucleotide Polymorphisms (SNPs). Targets 552 genes, including coding exons, intron-exon boundaries, and regions known to harbor pathogenic mutations
+Assay-time: 1.5 days
+Detection-system: MiSeq, NextSeq
+Analysis-Software: BWA Enrichment BaseSpace App, Isaac Enrichment BaseSpace App
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: TruSight RNA Pan-Cancer Panel
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: 10 ng of total RNA input (or 20-100 ng from FFPE samples)
+Function: Targeted RNA sequencing includes 1,385 genes that have been implicated in cancer, including solid tumors, soft tissue cancers, and hematological malignancies.
+Technology: SBS: sequencing by synthesis
+Principal: Detects Gene Fusions, Novel Transcripts, Somatic Variants, Transcript Variants in 1,385 genes that have been implicated in cancer, including solid tumors, soft tissue cancers, and hematological malignancies..The panel can be used for gene expression profiling and variant calling, highlighting functionally relevant mutations. The panel also detects fusion genes that most DNA panels would not detect. The TruSightRNAPan-Cancer Panel provides a comprehensive assessment of cancer-related RNA transcripts for a more detailed view of cancer biology. Target exonic region: 21043; no of probes is 57010.
+Assay-time: 2.5 days
+Detection-system: MiniSeq, MiSeq
+Analysis-Software: RNA-Seq Alignment App
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: TruSight Tumor 170
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: FFPE Tissue, Low-Input Samples, 40 ng DNA and/or RNA
+Function: Targeted cancer sequencing
+Technology: SBS: sequencing by synthesis
+Principal: Detects Copy Number Variants (CNVs), Gene Fusions, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Somatic Variants, Structural Variants of 170 genes associated with common solid tumors. Variant detection as low as 5% mutant allele frequency,
+Assay-time: 2 days
+Detection-system: NextSeq Series, HiSeq 2500
+Analysis-Software: BaseSpace Sequence Hub App for TruSight Tumor 170, TruSight Tumor 170 Local App: Docker-based Software, BaseSpace Sequence Hub App TruSight Tumor 170 + Watson for Genomics Converter
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: TruSight Tumor 15
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: FFPE Tissue, 20 ng DNA
+Function: Assessment of 15 genes that are commonly mutated in solid tumors.
+Technology: SBS: sequencing by synthesis
+Gene-database: Include content cited by industry organizations such as the National Comprehensive Cancer Network (NCCN) 3 and the European Society for Medical Oncology (ESMO). 4
+Principal: Detects Insertions-Deletions (indels), Somatic Variants. Sensitive variant detection from low DNA input: Accurate somatic variant detection of 5% allele frequency. 250 amplicons with average length of 150-175bp
+Assay-time: Rapid turnaround with only 3.5 hours of hands-on time, going from DNA to data in approximately 36 hours
+Detection-system: MiniSeq, MiSeq
+Analysis-Software: VariantStudio
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: TruSight Tumor 26
+Remarks: Research use only
+Provider-company: Illumina
+Input-DNA: 30 to 300 ng DNA from FFPE
+Function: Target DNA sequencing
+Technology: SBS: sequencing by synthesis
+Gene-database: Coverage of complete exons for analysis of molecular heterogeneity in highly relevant content selected from CAP1 and NCCN2 guidelines, and late stage clinical trials3
+Principal: Detects Insertions-Deletions (indels), Somatic Variants. Takes a deeper view of variation in solid tumors including lung, colon, melanoma, gastric and ovarian. This enables clinical researchers to identify low-frequency variation across 26 genes for a more comprehensive view of somatic variation. Highly accurate variant analysis at limit of detection below 5% variant allele frequency across 174 amplicons, with 1000x minimum coverage of each region.
+Detection-system: MiniSeq, MiSeq
+Analysis-Software: VariantStudio
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: TruSight RNA Fusion Panel
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: 10 ng total RNA, 20100 ng FFPE RNA
+Function: Target RNA sequencing providing comprehensive gene fusion detection in formalin-fixed, paraffin-embedded (FFPE) and other cancer research samples
+Technology: SBS: sequencing by synthesis
+Gene-database: Selected genes cited in public databases and implicated in cancer, including solid tumors,sarcomas,and hematological malignancies.
+Principal: Detects gene fusions. Covering 507 fusion-associated genes targeted 7690 exonic regions to produce 21283 amplicons. By focusing on RNA, the panel detects gene fusions that most DNA panels would not recognize
+Assay-time: 4 days
+Detection-system: MiniSeq, MiSeq, NextSeq
+Analysis-Software: RNA-Seq Alignment App
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: TruSight Myeloid Sequencing Panel
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: 50ng DNA isolated from blood, bone marrow, or fine needle aspirates
+Function: Targets variants associated with myeloid malignancies such as AML, MDS, MPN, CML, CMML, and JMML
+Technology: SBS: sequencing by synthesis
+Gene-database: Designed by a consortium of recognized experts in blood cancer disorders and targets genes frequently mutated in: Acute myeloid leukemia (AML), Myelodysplastic syndrome (MDS), Myeloproliferative neoplasms (MPN, Chronic myelogenous leukemia (CML), Chronic myelomonocytic leukemia (CMML), and Juvenile myelomonocytic leukemia (JMML). Targeted genes include those involved in the MDS-AML continuum as cited by professional organizations including the National Comprehensive Cancer Network (NCCN) and the European Society for Medical Oncology (ESMO)
+Principal: Detects Insertions-Deletions (indels), Somatic Variants of 15 full genes (exons only) and 39 additional genes where oncogenic hotspots are covered, providing a comprehensive assessment of the key genes known to be involved in myeloid malignancies in a single test. Average amplicon size of 250bp, 568 amplicons
+Detection-system: MiniSeq, MiSeq, NextSeq
+Analysis-Software: TruSeq Amplicon BaseSpace App, BaseSpace Variant Interpreter
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: AmpliSeq for Illumina BRCA Panel
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: FFPE Tissue. 1100 ng (10 ng recommended per pool)
+Function: Targeted panel investigating somatic and germline variants in BRCA1 and BRCA2
+Technology: SBS: sequencing by synthesis
+Principal: A targeted resequencing assay for research of somatic and germline variants across BRCA1 and BRCA2 genes. Detects Germline Variants, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Somatic Variants in the BRCAs genes. Key features include:Target all exonic regions and flanking intronic sequences of BRCA1 and BRCA2; Prepare sequencing-ready libraries in a single day from as little as 1 ng of high quality or 10 ng of formalin-fixed, paraffin-embedded (FFPE) input samples; Detect somatic mutations as low as 5% variant allele frequency using local or cloud based analysis. BRCA1 and BRCA2 are human tumor suppressor genes that, when carrying specific mutations, have been implicated in an increased risk for breast and ovarian cancers. This ready-to-use panel saves researchers the time and effort of identifying targets, designing primers, and optimizing panels. 265 total amplicon in 2 pools. (Pool 1: 132 amplicons. Pool 2: 133 amplicons).96 dual index combinations
+Assay-time: 5 hrs
+Detection-system: <span style="color:#0000FF;"><font color="#0000FF">iSeq 100, MiniSeq, MiSeq, MiSeqDx in Research Mode</font></span>
+Analysis-Software: <span style="color:#0000FF;"><a href="https://emea.illumina.com/products/by-type/informatics-products/basespace-sequence-hub.html"><font color="#0000FF">BaseSpace Sequence Hub DNA Amplicon App; Local Run Manager DNA Amplicon Module</font></a></span>
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: AmpliSeq for Illumina Cancer Hotspot Panel v2
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: From as little as 1 ng of high quality blood samples or 10 ng of formalin-fixed, paraffin-embedded (FFPE) samples
+Function: Targeted panel investigating hotspot regions of 50 genes with known associations to cancer including lung, colon, breast, ovarian, melanoma, and prostate.
+Technology: SBS: sequencing by synthesis
+Gene-database: The hotspot regions of 50 genes with known associations to cancer, as identified in the Catalogue of Somatic Mutations in Cancer (COSMIC)1 database.
+Principal: Detects Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Somatic Variants. Key features include: Target ~2800 COSMIC mutations from 50 oncogenes and tumor suppressor genes; Prepare sequencing-ready libraries in a single day ; Detect somatic mutations down to 5% variant allele frequency using local or cloud-based analysis.  207 total in 1 pool.
+Assay-time: 5 hrs
+Detection-system: iSeq 100, MiniSeq, MiSeq, MiSeqDx in Research Mode
+Analysis-Software: <span style="color:#0000FF;"><a href="https://emea.illumina.com/products/by-type/informatics-products/basespace-sequence-hub.html"><font color="#0000FF">BaseSpace Sequence Hub DNA Amplicon App; Local Run Manager DNA Amplicon Module</font></a></span>
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: AmpliSeq for Illumina Comprehensive Cancer Panel
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: From as little as 1 ng of high quality DNA/RNA from blood samples or 10 ng of formalin-fixed, paraffin-embedded (FFPE) input samples
+Function: Targeted panel investigating the exonic regions of 409 genes with known associations to cancer including lung, colon, breast, ovarian, melanoma prostate, and hematologic malignancies.
+Technology: SBS: sequencing by synthesis
+Gene-database: Designs based on input from leading researchers in the respective application areas
+Principal: Detects Copy Number Variants (CNVs), Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Somatic Variants. Key features include:Target all-exon coverage of 409 cancer-associated genes;Prepare sequencing-ready libraries in a single day ; Detect somatic mutations below 5% frequency using local or cloud analysis. Amplicons of 15,992 total. 4 pools. (Pool 1: 3,996 amplicons. Pool 2: 4,008 amplicons. Pool 3: 3,991 amplicons. Pool 4: 3,997 amplicons;  96 dual index combinations). This panel detects variants within multiple cancer types, including lung, colon, breast, ovarian, melanoma, prostate, and hematologic malignancies.
+Assay-time: 6 hours
+Detection-system: NextSeq System
+Analysis-Software: <span style="color:#0000FF;"><a href="https://emea.illumina.com/products/by-type/informatics-products/basespace-sequence-hub.html"><font color="#0000FF">BaseSpace Sequence Hub DNA Amplicon App; Local Run Manager DNA Amplicon Module</font></a></span>
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: AmpliSeq for Illumina Comprehensive Panel v3
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: From as little as 1 ng of high quality DNA/RNA from blood samples or 10 ng of formalin-fixed, paraffin-embedded (FFPE) input samples
+Function: Targeted DNA and RNA panel investigating variants across 161 genes
+Technology: SBS: sequencing by synthesis
+Principal: Detects Copy Number Variants (CNVs), Gene Fusions, Insertions-Deletions (indels), Single Nucleotide Polymorphisms (SNPs), Somatic Variants of 161 genes associated with a range of cancer types. Including kinase domains and genes involved in DNA repair. The panel content spans hotspot regions, full-length genes, copy number genes, and inter- and intragenic gene fusions. Amplicons of 4,648 total 4 pools (DNA pool 1: 1,891 amplicons. DNA pool 2: 1,890 amplicons. RNA pool 1: 447 amplicons. RNA pool 2: 420 amplicons.96 dual index combinations; amplicon size for DNA is 105bp on average while 99bp for RNA on average) Prepare sequencing-ready libraries in a single day
+Assay-time: 2.5 days
+Detection-system: NextSeq System
+Analysis-Software: <span style="color:#0000FF;"><a href="https://emea.illumina.com/products/by-type/informatics-products/basespace-sequence-hub.html"><font color="#0000FF">BaseSpace Sequence Hub DNA Amplicon App; Local Run Manager DNA Amplicon Module; BaseSpace Sequence Hub Lab CNV App; BaseSpace Sequence Hub RNA Amplicon App; Local Run Manager RNA Amplicon Module</font></a></span>
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: AmpliSeq for Illumina Exome Panel
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: 50ng DNA minimum from blood or FFPE
+Function: Targeted research panel for sequencing the protein-coding regions of the human genome
+Technology: SBS: sequencing by synthesis
+Gene-database: Includes97% of the Consensus Coding Sequences (CCDS) annotation
+Principal: Detects common single nucleotide variants (SNVs), copy number variants (CNVs), and small indels. ~294,000 amplicons, 12 pools;  96 dual index combinations. Ave amplicon length is 205bp
+Detection-system: NextSeq System
+Analysis-Software: <span style="color:#0000FF;"><a href="https://emea.illumina.com/products/by-type/informatics-products/basespace-sequence-hub.html"><font color="#0000FF">BaseSpace Sequence Hub DNA Amplicon App; Local Run Manager DNA Amplicon Module</font></a></span>
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: AmpliSeq for Illumina Focus Panel
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: 1100 ng (10 ng recommended per pool) DNA/RNA from blood or FFPE
+Function: Targeted DNA and RNA panel investigating 52 genes with known relevance to solid tumors.
+Technology: SBS: sequencing by synthesis
+Gene-database: Gene content for this panel was selected based on published literature, current guidelines (National Comprehensive Cancer Network [NCCN], Association for Molecular Pathology [AMP], College of American Pathologists [CAP], European Society for Medical Oncology [ESMO], etc.), and relevant clinical trials.
+Principal: Detects SNVs, indels, CNVs, gene fusions. Amplicon of DNA is 107 bp on average while RNA is 93 bp on average. Amplicons 553 total. 2 pools. (DNA Pool: 269 amplicons. RNA Pool: 284 amplicons.)96 dual index combinations
+Assay-time: 2.5 days
+Detection-system: <span style="color:#0000FF;"><font color="#0000FF">iSeq 100, MiniSeq, MiSeq, MiSeqDx in Research Mode</font></span>
+Analysis-Software: <span style="color:#0000FF;"><a href="https://emea.illumina.com/products/by-type/informatics-products/basespace-sequence-hub.html"><font color="#0000FF">BaseSpace Sequence Hub DNA Amplicon App; Local Run Manager DNA Amplicon Module; BaseSpace Sequence Hub Lab CNV App; BaseSpace Sequence Hub RNA Amplicon App; Local Run Manager RNA Amplicon Module</font></a></span>
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: AmpliSeq for Illumina Immune Response Panel
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: As little as 1 ng of high quality RNA or 10 ng of formalin-fixed, paraffin-embedded (FFPE) RNA input samples
+Function: Targeted RNA expression panel investigating 395 genes involved in tumor-immune system interactions
+Technology: SBS: sequencing by synthesis
+Principal: Quantitate expression of cancer biomarkers in 395 genes involved in the tumorimmune system interactions. With 398 amplicons in 1 pool, use 96 dual  index combinations
+Detection-system: MiniSeq, MiSeq, NextSeq
+Analysis-Software: BaseSpace Sequence Hub RNA Amplicon, Local Run Manager RNA Amplicon Module
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: TruSeq DNA Exome
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: 100ng genomic DNA
+Function: Exome Sequencing
+Technology: SBS: sequencing by synthesis
+Gene-database: Covers 45 Mb of exonic content (98% of RefSeq, CCDS, and Ensembl coding content).
+Principal: TruSeq DNA Exome is optimized to provide uniform and specific coverage of 45Mb of exonic content. The probe set is designed to enrich 214,405exons (Table2). This focused design, paired with uniform and specific enrichment, enables comprehensive exome. Average amplicon length is 150bp.
+Assay-time: 2.5 days
+Detection-system: NextSeq, NovaSeq
+Analysis-Software: BaseSpace BWA Enrichment App, BaseSpace ISAAC Enrichment App, VariantStudio
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: TruSeq RNA Exome
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: As little as 10 ng total RNA from fresh or frozen samples or 20 ng total RNA from degraded samples. FFPE or low input samples
+Function: Captures the coding transcriptome/RNA exome
+Technology: SBS: sequencing by synthesis
+Principal: Detects Novel Transcripts, Single Nucleotide Polymorphisms (SNPs), Transcript Variants. Make use of Biotinylated capture probes that target coding RNA. Does not require RNA with poly-A tails.
+Assay-time: 2 days
+Detection-system: NextSeq, NovaSeq
+Analysis-Software: BaseSpace TopHat Alignment App, BaseSpace Cufflinks Assembly and DE App, BaseSpace RNA Express App
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: TruSeq Amplicon - Cancer Panel
+Remarks: Clinical cancer research
+Provider-company: Illumina
+Input-DNA: 250 ng high-quality genomic DNA, 250 ng FFPE genomic DNA
+Function: Targeted  resequencing detects somatic mutations in a variety of cancer-related genes
+Technology: SBS: sequencing by synthesis
+Principal: Detects Insertions-Deletions (indels), Somatic Variants. enables highly sensitive mutation detection studies of important cancer-related genes, including BRAF, KRAS, and EGFR. Mutations in these genes are linked to many cancers, including melanoma, colorectal, ovarian, and lung cancer.The TruSeq Amplicon - Cancer Panel provides pre-designed, optimized oligonucleotide probes for sequencing mutational hotspots in35 kilobases (kb) of target genomic sequence. Within in a highly multiplexed, single-tube reaction, 48 genes are targeted with 212 amplicons of average size 170bp-190bp.
+Detection-system: MiniSeq, MiSeq, NextSeq
+Analysis-Software: BaseSpace TruSeq Amplicon App, VariantStudio Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: https://emea.illumina.com/products/by-type/ivd-products.html
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Praxis Extended RAS Panel
+Remarks: In vitro diagnostic product
+Provider-company: Illumina
+Input-DNA: DNA extracted from formalin-fixed, paraffin-embedded (FFPE) colorectal cancer (CRC) tissue samples.
+Function: For evaluating RAS mutations in colorectal cancer to determine patient eligibility for treatment with Vectibix. The first FDA-approved NGS in vitro diagnostic
+Technology: SBS: sequencing by synthesis
+Gene-database: Developed according to guidelines from the American Society for Clinical Pathology (ASCP), the Association for Molecular Pathology (AMP), the College of American Pathologists (CAP), and the American Society of Clinical Oncology (ASCO)
+Principal: The PraxisExtended RAS Panel is a qualitative in vitro diagnostic test using targeted high throughput parallel sequencing for the detection of 56 specific mutations in RAS genes [KRAS (exons 2, 3 and 4) and NRAS (exons 2, 3 and 4)] The PraxisExtended RAS Panel is indicated to aid in the identification of patients with colorectal cancer for treatment with Vectibix(panitumumab) based on a no mutation detected test result. Within a single assay, the Extended RAS Panel targets 12 codons in two RAS genes ( KRAS and NRAS ), simultaneously detecting all 56 mutations that are contraindicated for Vectibix therapy.
+Detection-system: MiSeqDx
+Analysis-Software: Local Run Manager Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: MiSeqDx Cystic Fibrosis 139-Variant Assay
+Remarks: In vitro diagnostic product
+Provider-company: Illumina
+Input-DNA: 250ng genomic DNA from peripheral whole blood sample
+Function: Cystic Fibrosis testing
+Technology: SBS: sequencing by synthesis
+Gene-database: The variants include those recommended in 2004 by the American College of Medical Genetics (ACMG)3 and in 2011 by the American College of Obstetricians and Gynecologists (ACOG)4.
+Principal: The MiSeqDx Cystic Fibrosis 139-Variant Assay is an FDA-cleared in vitro diagnostic (IVD) next-generation sequencing test designed to detect 139 CFTR variants as defined in the CFTR2 database. Other methods test only for those variants most commonly found in Caucasians, potentially missing CF-causing variants across broader ethnic groups. The MiSeqDx Cystic Fibrosis 139-Variant Assay offers the largest CF variant panel to overcome this bias and provide comprehensive detection across diverse demographics. The test is intended for carrier screening in adults of reproductive age, in confirmatory diagnostic testing of newborns and children, and as an initial test to aid in the diagnosis of individuals with suspected cystic fibrosis. The results of this test are intended to be interpreted by a board-certified clinical molecular geneticist or equivalent and should be used in conjunction with other available laboratory and clinical information. This test is not indicated for use for newborn screening, fetal diagnostic testing, pre-implantation testing, or for stand-alone diagnostic purposes.
+Assay-time: 2.5 days
+Detection-system: MiSeqDx
+Analysis-Software: MiSeq Reporter
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: MiSeqDx Cystic Fibrosis Clinical Sequencing Assay
+Remarks: In vitro diagnostic product
+Provider-company: Illumina
+Input-DNA: 250ng genomic DNA isolated from human peripheral whole blood specimens collected in K2EDTA
+Function: Cystic Fibrosis testing
+Technology: SBS: sequencing by synthesis
+Principal: The MiSeqDx Cystic Fibrosis Clinical Sequencing Assay is the first FDA-clearedin vitro diagnostic (IVD) next-generation sequencing (NGS) test designed to sequence all protein coding regions and intron/exon boundaries of the CFTR gene, including two large deletions, two deep intronic mutations, and indels in homopolymeric regions such as the 2184delA deletion. The assay also automatically detects polyTG/polyT variants. Viewing the CFTR sequence eliminates any bias inherent in existing cystic fibrosis (CF) panels. As a result, the MiSeqDx Cystic Fibrosis Clinical Sequencing Assay can uncover rare mutations not accounted for in standard tests. Capture all variants in the protein coding regions and intron/exon boundaries of the CFTR gene. Deep coverage (3,000) allows detection accuracy with a Positive Agreement (PA) of 99.66%* The test is intended to be used as an aid in the diagnosis of individuals with suspected cystic fibrosis (CF). This assay is most appropriate when the patient has an atypical or non-classic presentation of CF or when other mutation panels have failed to identify both causative mutations. The results of this test are intended to be interpreted by a board-certified clinical molecular geneticist or equivalent and should be used in conjunction with other available information including clinical symptoms, other diagnostic tests, and family history. This test is not indicated for use for stand-alone diagnostic purposes, fetal diagnostic testing, preimplantation testing, carrier screening, newborn screening, or population screening.
+Assay-time: 2.5 days
+Detection-system: MiSeqDx
+Analysis-Software: MiSeq Reporter
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: OptiSeqPan-Cancer Panel (65 Genes)
+Remarks: CLIA certified facility
+Provider-company: DiaCarta
+Input-DNA: Liquid biopsy/FFPE DNA: 10 ng for detection of somatic mutations (SNP)/100 pg for germline mutations
+Function: Targeted Sequencing cancer diagnostic service. XNA-PCR
+Technology: Proprietary primer-dimer removal technology
+Principal: OptiSeqPan-Cancer Panel is designed to target 2,900 commonly observed mutational positions (hotspots) from 65 oncogenes and tumor suppressor genes. This panel contains a single pool of 601 primer pairs and the average amplicon length is 145 bpperfectly suitable for ctDNA and FFDNA sequencing.As low as 1% VAF detection. Streamlined workflow with no deep sequencing needed. DiaCartas OptiSeqNext-Gen sequencing platform removes the cost and time barriers by reducing the sequencing depth by a factor of up to 100X and enabling ultra-sensitive detection of genetic mutations. The platform combines with the proprietary XNA technology that only hybridizes the wild-type template. That way, only the mutant template is amplified and sequenced. 500 sequencing reads on the OptiSeqplatform are equivalent to 50,000 reads without using the platform.Ability to detect below 0.1% mutations
+Assay-time: 10 working days
+Analysis-Software: Qiagens Clinical Insight Interpret software suite
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: OptiSeqLung Cancer Panel (29 Genes)
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: OptiSeqActionable Panel (12 Genes)
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: OptiSeqProstate Panel (32 Genes)
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: OptiSeqTarget Panel (33 Genes)
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: OptiSeqColon Panel (38 Genes)
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: OptiSeqBreast Panel (44 Genes)
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: OptiSeqComprehensive Panel (76 Genes)
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: *Whole genome sequencing
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Exome sequencing
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: mRNA sequencing
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Small RNA (miRNA, shRNA) sequencing
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: ChlP sequencing
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Amplicon sequencing
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: 16S metagenomics sequencing 16S
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: ?
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: ?
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: SureSelect Human All Exon V7
+Remarks: Research use only
+Provider-company: Agilent
+Detection-system: Illumina Multiplexed
+Analysis-Software: Agilents SureCall software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: OneSeq Constitutional Research Panel
+Remarks: Research use only
+Provider-company: Agilent
+Detection-system: Illumina Multiplexed
+Analysis-Software: Agilents SureCall software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: SureSelectXT Human Methyl-Seq
+Remarks: Research use only
+Provider-company: Agilent
+Function: Comprehensive target enrichment system to enable researchers to focus on the regions where methylation is known to impact gene regulation
+Detection-system: Illumina Multiplexed
+Analysis-Software: Agilents SureCall software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: ClearSeq Comprehensive Cancer
+Remarks: Research use only
+Provider-company: Agilent
+Function: Targets 151 key disease-associated genes that have been implicated in studies of a wide range of cancers (eg. breast, lung, colorectal, AML) and is designed for deep coverage of target bases for confident variant detection.
+Detection-system: Illumina Multiplexed
+Analysis-Software: Agilents SureCall software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: ClearSeq AML panel
+Remarks: Research use only
+Provider-company: Agilent
+Function: Targets 20 genes that were frequently mutated in acute myeloid leukemia (AML). This panel is designed for full coverage of target regions with multiple amplicons covering each target for greater confidence in somatic variant calling. Combined with intuitive data analysis workflows in you can now achieve faster time to results using this quick and simple assay for profiling myeloid samples.
+Gene-database: In collaboration with Dr. Robert Ohgami and Dr. Daniel Arber at Stanford University
+Detection-system: Illumina Multiplexed
+Analysis-Software: Agilents SureCall software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: ClearSeq Cancer
+Remarks: Research use only
+Provider-company: Agilent
+Function: Targets a set of 47 genes found in previous research to be associated with a broad range of cancer types as well as with published drug targets
+Detection-system: Illumina Multiplexed
+Analysis-Software: Agilents SureCall software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: ClearSeq Human DNA Kinome Kit
+Remarks: Research use only
+Provider-company: Agilent
+Function: Next-generation sequencing studies on expressed kinases
+Principal: This kit targets 3.2 Mb of the genome for coverage of greater than 500 known kinases plus a number of cancer genes, 612 genes in total, and their associated untranslated regions. This multiplexed kit saves precious time and money as well as fits seamlessly into next-generation sequencing protocols for both the Illumina and SOLiD systems.
+Detection-system: Illumina Multiplexed
+Analysis-Software: Agilents SureCall software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: ClearSeq Human RNA Kinome Kit
+Remarks: Research use only
+Provider-company: Agilent
+Function: This panel targets a comprehensive set of kinases and kinase related transcripts for enrichment, including over 500 kinases and 612 genes.
+Detection-system: Illumina Multiplexed
+Analysis-Software: Agilents SureCall software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: BRCA Hereditary Cancer MASTR Plus (BRCA HC MASTR Plus)
+Provider-company: Agilent
+Function: Identification of SNVs, indels and CNVs, in 25 genes and the 3UTR of EPCAM associated with hereditary breast, ovarian and other related cancers.
+Detection-system: MiSeq, NextSeq, MiniSeq, Ion PGM and Ion S5
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: BRCA HP
+Provider-company: Agilent
+Function: Complementary homopolymer assay that operates with MASTR panels to enable rapid detection of small insertion/deletion variants in the coding homopolymer stretches of the targeted genes. Such mutations may be difficult to detect with some Next-Generation Sequencing (NGS) systems.
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: BRCA MAQ
+Provider-company: Agilent
+Function: CNV detection in BRCA1 and BRCA2 genes
+Detection-system: MiSeq, NextSeq, MiniSeq, Ion PGM and Ion S5
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: BRCA MASTR Dx
+Remarks: CE-IVD diagnostic assay
+Provider-company: Agilent
+Function: Identifies SNVs, indels in BRCA1 and BRCA2
+Principal: The MASTR Reporter enables laboratories to pay per sample, not per analysis, resulting in lower operational costs.
+Detection-system: MiSeq
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: The BRCA MASTR Plus Dx
+Remarks: CE-IVD diagnostic assay
+Provider-company: Agilent
+Function: Molecular diagnostic solution for the identification of coding region variants in the BRCA1 and BRCA2 genes
+Principal: Both germline and somatic BRCA testing are enabled. The analysis can be performed on blood-derived DNA or on tumor samples to identify individuals with increased risk for breast and/or ovarian and to analyze the BRCA status in tumor samples*. * Currently, only germline analysis is enabled on the MASTR Reporter
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: CLL MASTR Plus
+Provider-company: Agilent
+Function: CNV detection in BRCA1 and BRCA2 genes.
+Detection-system: MiSeq, NextSeq, MiniSeq, Ion PGM and Ion S5
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: EGFR 18-21 MASTR
+Provider-company: Agilent
+Function: Amplifies exons 18 to 21 in the Epidermal Growth Factor Receptor (EGFR) gene
+Principal: The assay consists of 4 amplicons in a single multiplex PCR reaction, with amplicon sizes ranging from 100 bp to 180 bp, enabling mutation detection in low amounts of FFPE-derived DNA. The panel is compatible with various NGS systems.
+Detection-system: MiSeq, NextSeq, MiniSeq, Ion PGM and Ion S5
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: FAP MASTR
+Provider-company: Agilent
+Input-DNA: As low as 20 ng per multiplex PCR reaction.
+Function: To locate and identify variants in the complete coding regions of the APC and MUTYH genes.
+Principal: The ready-to-use assay consists of all the reagents necessary to enable multiplex amplification of 52 amplicons for complete exon coverage. The assay is compatible with various NGS systems.
+Detection-system: MiSeq, NextSeq, MiniSeq, Ion PGM and Ion S5
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: GIST MASTR
+Provider-company: Agilent
+Function: Amplifies multiple exons of the KIT and PDGFRA genes
+Principal: Gastrointestinal stromal tumors (GISTs) associated to these genes, are common forms of connective tissue tumors or sarcomas. This robust, research assay assesses variants in relevant DNA samples using 17 amplicons, which are amplified in 2 multiplex PCR reactions.
+Detection-system: MiSeq, NextSeq, MiniSeq, Ion PGM and Ion S5
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: HNPCC MASTR
+Provider-company: Agilent
+Function: Identifies SNVs and CNVs in four genes (MLH1, MSH2, MSH6, and PMS2), and the 3UTR of EPCAM, associated with HNPCC
+Detection-system: MiSeq, NextSeq, MiniSeq, Ion PGM and Ion S5
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: SOMATIC 1 MASTR Plus Dx
+Remarks: CE-IVD diagnostic assay
+Provider-company: Agilent
+Input-DNA: As low as 4 ng per multiplex PCR reaction.
+Function: For the identification of SNVs and indels in NRAS, KRAS and BRAF genes associated with various types of cancer.
+Principal: The analysis of mutations in these three genes is important to decide the treatment options for cancer patients with EGFR- or BRAF inhibitors. The assay is designed for use with FFPE-derived DNA.
+Detection-system: MiSeq, NextSeq, MiniSeq, Ion PGM and Ion S5
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: TP53 MASTR
+Provider-company: Agilent
+Input-DNA: As low as 4 ng per multiplex PCR reaction.
+Function: Identifies SNVs and small indels in the coding region of TP53 (excluding promoter 5or 3UTR)
+Principal: TP53 is the most frequently mutated gene associated with cancer. The TP53 MASTR works with DNA derived from blood or FFPE samples, enabling both germline and somatic mutation detection. The research assay is a ready-to-use kit and is compatible with various Next-Generation Sequencing systems.
+Detection-system: MiSeq, NextSeq, MiniSeq, Ion PGM and Ion S5
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: ALPORT MASTR
+Provider-company: Agilent
+Input-DNA: 20-50 ng per multiplex PCR reaction.
+Function: Amplifies the coding regions of the genes COL4A3, COL4A4 and COL4A5, associated with Alport Syndrome (AS). 21 mutations/frequent SNPs associated with AS are detected using the system, without false positives.
+Principal: Multiplex amplification of 149 amplicons is enabled in 4 PCR reactions, giving complete coverage of all coding regions of target genes.
+Detection-system: Illumina MiSeq System
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: CFTR MASTR Dx
+Remarks: CE-IVD diagnostic assay
+Provider-company: Agilent
+Input-DNA: 20 ng per multiplex reaction
+Function: A molecular diagnostic solution that can be applied for first and second line testing, for whole blood and dried blood spots derived DNA.
+Principal: CFTR variants are identified in only 2 PCR reactions, featuring the multiplex amplification of 48 amplicons (ranging from 300 bp to 450 bp). 48 amplicons including 11 control amplicons
+Detection-system: Illumina MiSeq System
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: DMD MASTR
+Provider-company: Agilent
+Function: DMD MASTR panel amplifies the coding region of the DMD gene, which is associated with Duchenne and Becker Muscular Dystrophies and X-linked Dilated Cardiomyopathy
+Principal: The research assay consists of 118 amplicons (ranging from 280 bp to 400 bp) amplified in 4 multiplex PCR reactions. 118 amplicons, including 28 control amplicons for detection of copy number variations
+Detection-system: Illumina MiSeq System
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: FMF MASTR Dx
+Remarks: CE-IVD diagnostic assay
+Provider-company: Agilent
+Input-DNA: 20-50 ng per multiplex PCR reaction.
+Function: Identification of mutations in the Mediterranean Fever (MEFV) gene associated with the autosomal recessive condition FMF.
+Principal: Multiplex amplification of 23 amplicons (ranging from 300 bp to 400 bp) is enabled, in 2 PCR reactions that cover all coding sequences.
+Detection-system: Illumina MiSeq System
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: MARFAN MASTR panel
+Provider-company: Agilent
+Function: Early detection of FBN1 mutations, a gene commonly associated with Marfan Syndrome
+Principal: The research assay consists of 86 amplicons (ranging from 290 bp to 420 bp) amplified in 4 multiplex PCR reactions.
+Detection-system: Illumina NGS Systems (MiSeq)
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: MODY MASTR panel
+Provider-company: Agilent
+Function: Amplifies coding regions of multiple genes associated with Maturity Onset Diabetes of the Young (MODY), also known asmonogenic diabetes.
+Principal: Analysis of the ABCC8, GCK, HNF1A, HNF4A, HNF1B, INS and KCNJ11 genes is carried out by amplifying 118 amplicons (ranging from 280 bp to 430 bp) in 5 multiplex PCR reactions.
+Detection-system: Illumina NGS Systems (MiSeq)
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: STARGARDT MASTR panel
+Provider-company: Agilent
+Function: Early detection of ABCA4, ELOVL4 and CNGB3 mutations associated with Stargardt macular dystrophy
+Principal: The gene coding regions are analyzed in 4 multiplex PCR reactions featuring 91 amplicons (ranging from 300 bp to 430 bp), along with control amplicons to evaluate copy number variations.
+Detection-system: Illumina NGS SystemsIon Torrent NGS systems
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: ADH MASTR v2 panel
+Provider-company: Agilent
+Input-DNA: 20 ng per multiplex reaction
+Function: Identifies SNVs and CNVs, as well as 12 low-density lipoprotein cholesterol (LDL-C) raising SNPs, associated with Autosomal Dominant Hypercholesterolemia (ADH).
+Principal: Multiplex amplification of 76 amplicons is enabled in 5 PCR reactions, giving complete coverage of all coding and promoter regions of target genes. Gene analyzed: LDLR, PCSK9, APOE, part of exon 26 (c.10200 to c.11100) of APOB (SNVsCNVs), 12 LDL-C raising SNPs
+Detection-system: Illumina NGS Systems (MiSeq)
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: HCM MASTR panel
+Provider-company: Agilent
+Input-DNA: 20-50 ng per multiplex PCR reaction.
+Function: Amplifies the entire coding regions of MYBPC3, MYH7, TNNI3, TNNT2, and MYL2, the most significant identified genes associated with Familial Hypertrophic Cardiomyopathy (HCM)
+Principal: The research panel contains 131 amplicons (280-430 bp) amplified in 5 multiplex PCR reactions.
+Detection-system: Illumina NGS Systems (MiSeq)
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: PED MASTR panel
+Provider-company: Agilent
+Input-DNA: 20 ng per multiplex reaction
+Function: To identify all mutations in 51 genes that are associated with Primary Electrical Disorders (PED).
+Principal: Amplification of 952 amplicons ranging from 300 bp to 440 bp is enabled in 11 PCR reactions giving complete coverage of all coding sequences of target genes. Gene analyzed: ABCC9, GPD1L, NOS1AP, AKAP9, HCN4, NPPA, ANK2, JUP, PKP2, CACNA1C, KCNA5, PLN, CACNA2D1, KCND3, PRKAG2, CACNB2, KCNE1, RYR2, CALM1, KCNE2, SCN1B, CASQ2, KCNE3, SCN2B (excl. exon 4), CAV3, KCNE5, SCN3B, CTNNA3, KCNH2, SCN4B, DES, KCNJ2, SCN5A, DPP6, KCNJ5, SLMAP, DSC2, KCNJ8, SNTA1, DSG2, KCNQ1 (excl. exon 9), TGFB3, DSP, LMNA, TMEM43, GJA1, RANGRF, TRDN, GJA5, NKX2-5 and TRPM4.
+Detection-system: Illumina NGS Systems (MiSeq)
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Clarigo
+Remarks: CE-IVD diagnostic assay
+Provider-company: Agilent
+Function: NIPT
+Principal: This simple, robust and highly reliable test screens for the trisomy status of chromosome 21, 18 and 13 early in pregnancy. It is compatible with a variety of Next-Generation Sequencing (NGS) systems and offers the lab the flexibility to run from 10 to 192 samples in 1 run.
+Detection-system: MiSeq, HiSeq, NextSeq
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: *Whole genome sequencing
+Remarks: Research use only
+Provider-company: Agilent
+Function: WGS uses next-generation sequencing (NGS) technology and enables the identification of a variety of genetic variations, including single-nucleotide polymorphisms (SNPs), small insertions and deletions (indels), and copy number variations (CNVs). The insights into how these variants affect human health obtained through WGS has the potential to assess disease risk and responsiveness to drugs, and facilitate the development of personalized medicine approaches.
+Detection-system: Illumina Multiplexed
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: GenetiSure Postnatal Research CGH+SNP Array
+Remarks: Research use only
+Provider-company: Agilent
+Detection-system: Agilent SureScan Microarray Scanner Bundle
+Analysis-Software: Agilent CytoGenomics Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: SurePrint Human Genome CGH+SNP Microarrays
+Remarks: Research use only
+Provider-company: Agilent
+Detection-system: Agilent SureScan Microarray Scanner Bundle
+Analysis-Software: Agilent CytoGenomics Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: SurePrint Human Genome CGH Microarray
+Remarks: Research use only
+Provider-company: Agilent
+Detection-system: Agilent SureScan Microarray Scanner Bundle
+Analysis-Software: Agilent CytoGenomics Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: SurePrint Postnatal Research CGHCGH+SNP Microarrays
+Remarks: Research use only
+Provider-company: Agilent
+Gene-database: Baylor College of Medicine experts to target regions relevant to postnatal research.
+Detection-system: Agilent SureScan Microarray Scanner Bundle
+Analysis-Software: Agilent CytoGenomics Software
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: SurePrint G3 Human Gene Expression v3 Microarray
+Remarks: Research use only
+Provider-company: Agilent
+Detection-system: Agilent SureScan Microarray Scanner Bundle
+Analysis-Software: GeneSpring GX
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: SurePrint G3 Human Exon Microarrays
+Remarks: Research use only
+Provider-company: Agilent
+Detection-system: Agilent SureScan Microarray Scanner Bundle
+Analysis-Software: GeneSpring GX
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: SurePrint G3 Human Gene Expression Microarrays
+Remarks: Research use only
+Provider-company: Agilent
+Detection-system: Agilent SureScan Microarray Scanner Bundle
+Analysis-Software: GeneSpring GX
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: SurePrint G3 Human Exon Microarrays
+Remarks: Research use only
+Provider-company: Agilent
+Detection-system: Agilent SureScan Microarray Scanner Bundle
+Analysis-Software: GeneSpring GX
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: SurePrint Human miRNA Microarrays
+Remarks: Research use only
+Provider-company: Agilent
+Detection-system: SureScan Microarray Scanner
+Analysis-Software: GeneSpring GX
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Harmony
+Remarks: http://sequencing.roche.com/en/products-solutions/by-application/clinical/nipt/harmony-test-technology.html
+Provider-company: Roche     Thermo Fisher
+Function: Non-invasive Prenatal test (NIPT)
+Technology: The DANSR assay technology specifically targets just the chromosomes of interest for deep, directed analysis.1This reduces complexity of unutilized sequencing data compared to massively parallel shotgun sequencing (MPSS) techniques.1, In practice, DANSR assay technology significantly improves assay efficiency and reduces overall test cost.2  Together the DANSR assay and FORTE algorithm are optimized to provide a streamlined workflow.The Harmony test uses SNPs to analyze and report fetal fraction for every sample. SNPs are the most common type of genetic variation between individuals, with a normal occurrence of one in every 300 nucleotides.4,5 Detection of these variations allows for accurate determination of fetal fraction.     Ion semiconductor sequencing (Ion Torrent)
+Principal: Since 2012 the Harmony prenatal test has been ordered for more than 1.4 million women and is trusted by healthcare providers in more than 100 countries. Contain tests for trisomy21, 18, 13, Fetal Sex,Monosomy X*, Sex Chromosome Aneuploidies*, 22q11.2 deletion*. The Harmony test is the most broadly studied cell-free DNA test with greater than 148,000 women studied in 48 peer-reviewed publications
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: * Depends largely how the library is prepared. Library preparation is a critical step in the WGS workflow.  DNA is first fragmented to the appropriate size, after which platform-specific adapters are added. PCR-free workflows are preferred for WGS, but in cases where input DNA is limited or is of poor quality, library amplification has to be performed. WGS library construction protocols typically include a size-selection step as libraries with a narrow fragment distribution are generally preferred. After sequencing, the sequence reads are aligned against a reference genome (reference-guided sequence assembly), or when no such reference is available, compared to each other and assembled into long contiguous segments (de novo sequencing).
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: DNA extraction service
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Sequencing service : (whole genome sequencing, target sequencing, SNPs)
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Country
+Remarks: Company name
+Provider-company: Website
+Input-DNA: Service provides
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: USA 1
+Remarks: Illumina
+Provider-company: https://emea.illumina.com/
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Companies providing genetic data analysis
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Name
+Remarks: Website
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Software for genetic analysis
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Name
+Remarks: Website
+Provider-company: Target
+Input-DNA: Price
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Companies providing genetic tests
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Country
+Remarks: <b>Company name</b>
+Provider-company: <b>Website</b>
+Input-DNA: <b>Services provide</b>
+Function: <b>Sequencing Platform</b>
+Technology: <b>Sample collected</b>
+Gene-database: <b>Results</b>
+Principal: <b>Address</b>
+Assay-time: Remarks
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: UK
+Remarks: Atlas Biomed
+Provider-company: https://atlasbiomed.com/uk
+Input-DNA: Atlas DNA Test (149GBP) and the Atlas Microbiome Test (139GBP)
+Function: <span style="color:#0000FF;"><a href="https://atlasbiomed.com/uk/questions/aboutDnaTest"><font color="#0000FF">DNA microarray technology from Illumina, a world leader in the field of in vitro diagnostics in a certified EU laboratory facility, accredited with ISO 15189. (https://atlasbiomed.com/uk/questions/aboutDnaTest).it is not a diagnostic tool. If the test identifies any marker for a potentially pathological condition, contact your GP with your results for further information.</font></a></span>
+Technology: Saliva
+Gene-database: Results online 4-6 weeks after samples arrive the lab and the raw data will be available as well
+Principal: Tintagel House, 92 Albert Embankment, Lambeth, London, SE1 7TP, United Kingdom
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: UK
+Remarks: GeneHealth UK
+Provider-company: https://www.genehealthuk.com/genetic-testing-cancer?keyword=genetic%20testing%20for%20cancermatchtype=enetwork=gdevice=cgclid=Cj0KCQiAgNrQBRC0ARIsAE-m-1zL3pCav8qwgC283WSIrkUt1kVX61iRZyYlDvvNMe54nzeCQpEliv4aAslyEALw_wcB
+Function: Next Generation Sequencing covered 100% at 20x and that there are no clinically relevant gaps.
+Technology: Blood
+Gene-database: Around 4-6 weeks
+Assay-time: <span style="color:#0000FF;"><a href="https://www.genehealthuk.com/cancer-genetic-test-prices"><font color="#0000FF">We don't offer aone sizefits all standard panel. Our expert genetic counsellors will analyse your family history and recommend the most appropriate test and specific genes for you.  https://www.genehealthuk.com/cancer-genetic-test-prices For prices. Not cheap. GBP 150 for consultation, lowest GBP 630 for a test up to GBP 2150.</font></a></span>
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: CA
+Remarks: 23andMe
+Provider-company: https://www.23andme.com/en-gb/compare-dna-tests/
+Input-DNA: Ancestry service (79GBP) Health + Ancestry service (149 GBP) (can review the DNA result regularly, for genetic traits info and health risk) (remarks: raw data feature is suitably only for informational use and not for medical, diagnostic or other use. Consult with a healthcare professional before making any major changes in lifestyle) (The test does not cover the variants that maybe more common in people of Asian descent)All saliva samples are processed in labs in the United States that meet local regulations. Once participants answer online survey questions, researchers link their genetic data to study topics from ancestry, to traits, to disease. These contributions help drive scientific discoveries. The choice to opt into or out of research is always up to the participant. 23andMe is the first and only genetic service available directly to consumers that includes reports that meet FDA standards.
+Function: Genotyping. The technology 23andMe uses looks for specific typos (variants) in the gene instructions (called SNPs or Single Nucleotide Polymorphisms). This approach to testing, called genotyping, is not designed to identify all potential variants.Once our lab receives your sample, DNA is extracted from cells contained in your saliva. The lab then copies the DNA many timesa process called amplificationduplicating the tiny amount extracted from your saliva until there is enough to be genotyped.In order to be genotyped, the amplified DNA iscutinto smaller pieces, which are then applied to our DNA chip (also known as a microarray), a small glass slide with millions of microscopicbeadson its surface. Each bead is attached to aprobe,a bit of DNA that matches one of the genetic variants that we test. The cut pieces of your DNA stick to the matching DNA probes. A fluorescent label on each probe identifies which version of that genetic variant your DNA corresponds to. Genotyping Chips manufactured by Illumina and customed designed
+Technology: Saliva
+Gene-database: In approximately 6-8 weeks, we will send you an email to let you know your reports are ready in your online account.
+Principal: 899 West Evelyn Ave., Mountain View, CA 94041.
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: CA
+Remarks: Bambni Test (Berry Genomics)
+Provider-company: http://www.berrygenomics.com/bambnitest/technology/theory/
+Input-DNA: Noninvasive prenatal test (PINT)
+Function: NGS Illumina NextSeq CN 500
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: CA
+Remarks: MaterniT21 PLUS Test (Sequenom)
+Input-DNA: Noninvasive prenatal test (PINT)
+Function: NGS Illumina
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: CA
+Remarks: NIFTY Test (BGI)
+Input-DNA: Noninvasive prenatal test (PINT)
+Function: NGS Illumina
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: CA
+Remarks: Panorama Prenatal Screen (Natera)
+Input-DNA: Noninvasive prenatal test (PINT)
+Function: NGS Illumina
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: CA
+Remarks: PrenaTest (LifeCodexx AG)
+Input-DNA: Noninvasive prenatal test (PINT)
+Function: NGS Illumina
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: CA
+Remarks: Verifi Prenatal Test (Illumina)
+Input-DNA: Noninvasive prenatal test (PINT) that screens for multiple fetal chromosomal aneuploidies. Directly analyzes cell-free fetal and maternal DNA; High detection rate. Test as early as 10 weeks gestational age (8 weeks of fetal age as determined by date of conception) with no limitations regarding ethnicity, body mass index (BMI), assisted reproductive technology (ART), or egg donor cases. *Noninvasive prenatal testing (NIPT) is a screening test. Results should be confirmed by diagnostic testing prior to making any pregnancy management decisions.
+Function: NGS Illumina
+Technology: One tube of maternal blood (7-10 ml)
+Gene-database: Results reported to partner laboratory in 35 business days after sample receipt(time to report may vary based on partner laboratory providing the test)
+Assay-time: The Verifi Prenatal Test was developed by, and its performance characteristics were determined by Verinata Health, Inc. a wholly owned subsidiary of Illumina, Inc. The VHI laboratory is CAP-accredited and certified under the Clinical Laboratory Improvement Amendments (CLIA) as qualified to perform high complexity clinical laboratory testing. It has not been cleared or approved by the U.S. Food and Drug Administration.
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: CA
+Remarks: IONA Test (Premaltha)
+Input-DNA: Noninvasive prenatal test (PINT)
+Function: NGS Ion Proton
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: CA
+Remarks: Harmony Prenatal Test (Arlosa)*
+Input-DNA: Noninvasive prenatal test (PINT)
+Function: Array Affymetrix
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: CA
+Remarks: Xcelom
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Germany
+Remarks: MGZ Medical Genetics Center.
+Input-DNA: 90% of the samples MGZ analyzes with the CytoSNP-850K BeadChip are postnatal. These analyses help identify the causes of autism spectrum disorders, intellectual disability (ID), dysmorphic features, or neurological disorders such as epilepsy. MGZ also performs prenatal analysis with conventional karyotyping, chromosomal microarrays, and noninvasive prenatal testing (NIPT) for chromosomal aneuploidy (abnormal number of chromosomes). Uses the MiSeq and NextSeq500 Systems to run a large number of custom panels to identify variants associated with rare hereditary diseases and the TruSight Cancer Sequencing Panel, which targets 94 genes with suspected associations to common and rare cancers. The sequencing panel also includes 284 SNPs suspected to correlate with cancer through genome-wide association studies (GWAS).The TruSight Cancer Sequencing Panel is a test method that anyone<br>can adapt easily in their laboratory,Dr. Benet-Pags said.Its easy to implement in automated workflows and performs with high repeatability and reproducibility. The TruSight Cancer Panel enables us to analyze more genes in a single workflow than previous technologies. The advantage is that we can identify potential mutations in cancer associated genes not primarily tested.
+Function: Infinium CytoSNP-850K BeadChip
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Germany
+Remarks: SynapDx
+Input-DNA: Study autism
+Function: mRNASeq from illumina
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Germany
+Remarks: Hamilton
+Provider-company: https://www.hamiltoncompany.com/products/automated-liquid-handling/standard-solutions/veriseq-nipt-microlab-star
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: Germany
+Remarks: Atlas-Biolabs
+Provider-company: http://www.atlas-biolabs.com/company
+Input-DNA: ATLAS Biolabs performs genome-wide gene expression and SNP analyses, array CGH, comprehensive mutation profiling and next-generation sequencing for academic institutions, pharmaceutical and biotechnological enterprises, as well as for clinicians and registered doctors. ATLAS Biolabs is a Certified Affymetrix, Agilent and NimbleGen Service Provider. ATLAS Biolabs is certified according to the international standard DIN EN ISO 9001:2008 and EN ISO 13485:2012 + AC:2012. All production processes are subject to rigorous quality control at all steps.
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: UK
+Remarks: Birminghams woman NHS
+Input-DNA: solid tumour 28 gene panel solid tumour 60 gene panel solid tumour 9 gene panel
+
+Record-Type: Genetic test kits
+RecordType-Descr: Human-Genetic-test-kits
+Name: HK
+Remarks: Rainbow genomics
+Provider-company: https://www.rainbowgenomics.com/new-index-2#new-page-7
+Input-DNA: Cancer risk test
+Function: Exome sequencing
+

@@ -1,0 +1,125 @@
+# -*- mode: rec -*-
+
+%allowed: Record-Type RecordType-Descr Gender M/F/dont-know
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+M/F/dont-know: 17-beta hydroxysteroid dehydrogenase 3 deficiency is a condition that affects male sexual development. People with this condition are genetically male, with one X and one Y chromosome in each cell, and they have male gonads (testes). Most people with 17-beta hydroxysteroid dehydrogenase 3 deficiency are born with external genitalia that appear female. Men with this disorder are generally unable to father children (infertile).
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: Age
+M/F/dont-know: Certain diseases happen in sometimes of the lifehuntington/;;
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: Ethnicity
+M/F/dont-know: Askenzies Jews; suitable test for different ethnicity ie the mutation leading to breast cancer is different between Western and Asian ; if Chinese-ask province 17-beta hydroxysteroid dehydrogenase 3 deficiency is common in the Arab population of Gaza affects 1 in 200 to 300 people.
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: health status
+M/F/dont-know: no obvious health problem; receiving cancer treatment: need personalized genetic test?
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: Place of staying
+M/F/dont-know: Northern Europe: risk of depression-can suggest to test the risk for depression; the place that you would like to have test ie uks NHS provide clinical test for certain area of people, USA restricts the use of genetic test for cancer prediction;2017
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: Family history?
+M/F/dont-know: 60703040     /
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: current weight
+M/F/dont-know: related with metabolic disease? High risk of
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: current height
+M/F/dont-know: related with heart diseases?
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: What do you test for?
+M/F/dont-know: <span style="color:#0000FF;"><a href="https://www.gov.uk/get-dna-test"><font color="#0000FF">risk of getting cancer? Parent child or siblings relationship test (https://www.gov.uk/get-dna-test) for accredited laboratories ;  personalized genomic? Diagnosi? Find ancestor?</font></a></span>
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: Language
+M/F/dont-know: Dont mind English or Chinese
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: Result: -paragraphs descriptions saying the risk of diseases according to the information user provided
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: list the laboratories or the tests offered by companies (name, company background, accredited awards, price, technology used, result return days)
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: UK:
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: If you have, for example, two or more close relatives from the same side of your familysuch as your mother, sister or daughterwho have had breast cancer under the age of 50, you may be eligible for surveillance for breast cancer, or genetic screening to look for the genes that make developing breast cancer more likely.
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: 50NHS
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: You'll usually need a referral from your GP or a specialist doctor for genetic testing to be carried out. Speak to your doctor about the possibility of testing if you think you may need it.
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: GP
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: Name
+M/F/dont-know: website
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: 17-hydroxysteroid dehydrogenase type 10 deficiency
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: Name
+M/F/dont-know: website
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: 16p11.2 duplication
+M/F/dont-know: https://ghr.nlm.nih.gov/condition/16p112-duplication
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: 16p12.2 microdeletion
+M/F/dont-know: https://ghr.nlm.nih.gov/condition/16p122-microdeletion
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: Name
+M/F/dont-know: website
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: <span style="background:#FFFF00;">17-beta hydroxysteroid dehydrogenase 3 deficiency</span>
+M/F/dont-know: <span style="color:#0000FF;"><a href="https://ghr.nlm.nih.gov/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiecy"><font color="#0000FF">https://ghr.nlm.nih.gov/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiecy</font></a></span>
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: Name
+M/F/dont-know: website
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: 17q12 deletion syndrome
+M/F/dont-know: https://ghr.nlm.nih.gov/condition/17q12-deletion-syndrome
+
