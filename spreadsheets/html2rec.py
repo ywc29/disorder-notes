@@ -73,10 +73,10 @@ class Parser(HTMLParser.HTMLParser):
         data = data.strip()
         if data and colspan: curCell.append(data)
     def handle_entityref(self,name):
-        if name in htmlentitydefs.name2codepoint and not name in ['lt','gt','amp']: self.handle_data(unichr(htmlentitydefs.name2codepoint[name]).encode('utf-8'),len(name)+2)
+        if name in htmlentitydefs.name2codepoint and not name in ['lt','gt','amp']: self.handle_data(unichr(htmlentitydefs.name2codepoint[name]).encode('utf-8'))
     def handle_charref(self,name):
         if name.startswith('x'): d=unichr(int(name[1:],16))
         else: d=unichr(int(name))
         if d in u'<>&': pass # leave entity ref as-is
-        else: self.handle_data(d.encode('utf-8'),len(name)+3)
+        else: self.handle_data(d.encode('utf-8'))
 if __name__=="__main__": main()

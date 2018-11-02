@@ -519,7 +519,7 @@ gene-symbol: gene-symbol ACTA1
 name: name actin, alpha 1, skeletal muscle
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/ACTA1
 db-key-list: text-list   text text-role html  function html:p               html:p
-published: html:i ACTA1    Skeletal-actin plays an important role in skeletal muscles, which are muscles that the body uses for movement. Within skeletal muscle cells, skeletal-actin is an essential component of structures called sarcomeres. Sarcomeres are composed of thin filaments made up of actin and thick filaments made up of another protein called myosin. Attachment (binding) and release of the overlapping thick and thin filaments allows them to move relative to each other so that the muscles can contract.
+published: html:i ACTA1    Skeletalα-actin plays an important role in skeletal muscles, which are muscles that the body uses for movement. Within skeletal muscle cells, skeletalα-actin is an essential component of structures called sarcomeres. Sarcomeres are composed of thin filaments made up of actin and thick filaments made up of another protein called myosin. Attachment (binding) and release of the overlapping thick and thin filaments allows them to move relative to each other so that the muscles can contract.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -527,7 +527,7 @@ gene-symbol: gene-symbol ACTA2
 name: name actin, alpha 2, smooth muscle, aorta
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/ACTA2
 db-key-list: text-list   text text-role html  function html:p         html:p                  html:p
-published: html:i ACTA2  Smooth muscle-2 actin is found in smooth muscle cells. Smooth muscles line the internal organs, including the blood vessels, stomach, and intestines. Within smooth muscle cells, smooth muscle-2 actin forms the core of structures called sarcomeres, which are necessary for muscles to contract. Smooth muscles contract and relax as part of their normal function without being consciously controlled. Layers of smooth muscle cells are found in the walls of the arteries, which are blood vessels that carry blood from the heart to the rest of the body. Smooth muscle-2 actin contributes to the ability of these muscles to contract, which allows the arteries to maintain their shape instead of stretching out as blood is pumped through them.
+published: html:i ACTA2  Smooth muscleα-2 actin is found in smooth muscle cells. Smooth muscles line the internal organs, including the blood vessels, stomach, and intestines. Within smooth muscle cells, smooth muscleα-2 actin forms the core of structures called sarcomeres, which are necessary for muscles to contract. Smooth muscles contract and relax as part of their normal function without being consciously controlled. Layers of smooth muscle cells are found in the walls of the arteries, which are blood vessels that carry blood from the heart to the rest of the body. Smooth muscleα-2 actin contributes to the ability of these muscles to contract, which allows the arteries to maintain their shape instead of stretching out as blood is pumped through them.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -551,7 +551,7 @@ gene-symbol: gene-symbol ACTG1
 name: name actin gamma 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/ACTG1
 db-key-list: text-list   text text-role html  function html:p                        html:p
-published: html:i ACTG1       -actin is particularly abundant in certain cells in the intestines and the inner ear. Within the inner ear, this protein is found in specialized cells called hair cells, which are essential for normal hearing.
+published: html:i ACTG1       γ-actin is particularly abundant in certain cells in the intestines and the inner ear. Within the inner ear, this protein is found in specialized cells called hair cells, which are essential for normal hearing.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -559,7 +559,7 @@ gene-symbol: gene-symbol ACTG2
 name: name actin, gamma 2, smooth muscle, enteric
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/ACTG2
 db-key-list: text-list   text text-role html  function html:p                  html:p
-published: html:i ACTG2     The-2 actin protein is found in smooth muscle cells of the urinary and intestinal tracts. Smooth muscles line the internal organs; they contract and relax without being consciously controlled. The-2 actin protein is necessary for contraction of the smooth muscles in the bladder and intestines. These contractions empty urine from the bladder and move food through the intestines as part of the digestive process.
+published: html:i ACTG2     Theγ-2 actin protein is found in smooth muscle cells of the urinary and intestinal tracts. Smooth muscles line the internal organs; they contract and relax without being consciously controlled. Theγ-2 actin protein is necessary for contraction of the smooth muscles in the bladder and intestines. These contractions empty urine from the bladder and move food through the intestines as part of the digestive process.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -631,7 +631,7 @@ gene-symbol: gene-symbol ACVRL1
 name: name activin A receptor like type 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/ACVRL1
 db-key-list: text-list   text text-role html  function html:p         html:p
-published: html:i ACVRL1  The ACVRL1 protein is a receptor. It acts as alockwaiting for a specific protein, called its ligand, to serve as thekey.In the case of the ACVRL1 protein, the ligand is called transforming growth factor beta. The interaction between these proteins plays a role in the development of blood vessels. In particular, this protein interaction is involved in the specialization of new blood vessels into arteries or veins.
+published: html:i ACVRL1  The ACVRL1 protein is a receptor. It acts as a"lock"waiting for a specific protein, called its ligand, to serve as the"key."In the case of the ACVRL1 protein, the ligand is called transforming growth factor beta. The interaction between these proteins plays a role in the development of blood vessels. In particular, this protein interaction is involved in the specialization of new blood vessels into arteries or veins.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -759,7 +759,7 @@ gene-symbol: gene-symbol ADAMTSL2
 name: name ADAMTS like 2
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/ADAMTSL2
 db-key-list: text-list   text text-role html  function html:p            html:p                        html:p
-published: html:i ADAMTSL2   Studies suggest that the ADAMTSL2 protein interacts with a protein called latent transforming growth factor beta binding protein 1 (LTBP1). The LTBP1 protein is involved in the storage of transforming growth factor beta (TGF-), a critical growth factor that helps control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (motility), and the self-destruction of cells (apoptosis). Through its interaction with the LTBP1 protein, researchers suspect that the ADAMTSL2 protein may help regulate the availability of TGF-. The interaction between the ADAMTSL2 protein and the LTBP1 protein suggests that ADAMTSL2 may also play a role in the microfibrillar network. This organized clustering of thread-like filaments (called microfibrils) in the extracellular matrix provides strength and flexibility to tissues throughout the body.
+published: html:i ADAMTSL2   Studies suggest that the ADAMTSL2 protein interacts with a protein called latent transforming growth factor beta binding protein 1 (LTBP1). The LTBP1 protein is involved in the storage of transforming growth factor beta (TGF-β), a critical growth factor that helps control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (motility), and the self-destruction of cells (apoptosis). Through its interaction with the LTBP1 protein, researchers suspect that the ADAMTSL2 protein may help regulate the availability of TGF-β. The interaction between the ADAMTSL2 protein and the LTBP1 protein suggests that ADAMTSL2 may also play a role in the microfibrillar network. This organized clustering of thread-like filaments (called microfibrils) in the extracellular matrix provides strength and flexibility to tissues throughout the body.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -1991,7 +1991,7 @@ gene-symbol: gene-symbol APOA1
 name: name apolipoprotein A1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/APOA1
 db-key-list: text-list   text text-role html  function html:p                  html:p               html:p
-published: html:i APOA1     ApoA-I attaches to cell membranes and promotes the movement of cholesterol and phospholipids from inside the cell to the outer surface. Once outside the cell, these substances combine with apoA-I to form HDL. ApoA-I also triggers a reaction called cholesterol esterification that converts cholesterol to a form that can be fully integrated into HDL and transported through the bloodstream. HDL is often referred to asgood cholesterolbecause high levels of this substance reduce the chances of developing heart and blood vessel (cardiovascular) disease. The process of removing excess cholesterol from cells is extremely important for balancing cholesterol levels and maintaining cardiovascular health.
+published: html:i APOA1     ApoA-I attaches to cell membranes and promotes the movement of cholesterol and phospholipids from inside the cell to the outer surface. Once outside the cell, these substances combine with apoA-I to form HDL. ApoA-I also triggers a reaction called cholesterol esterification that converts cholesterol to a form that can be fully integrated into HDL and transported through the bloodstream. HDL is often referred to as"good cholesterol"because high levels of this substance reduce the chances of developing heart and blood vessel (cardiovascular) disease. The process of removing excess cholesterol from cells is extremely important for balancing cholesterol levels and maintaining cardiovascular health.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -2079,7 +2079,7 @@ gene-symbol: gene-symbol APP
 name: name amyloid beta precursor protein
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/APP
 db-key-list: text-list   text text-role html  function html:p                     html:p
-published: html:i APP      Amyloid precursor protein is cut by enzymes to create smaller fragments (peptides), some of which are released outside the cell. Two of these fragments are called soluble amyloid precursor protein (sAPP) and amyloid beta () peptide. Recent evidence suggests that sAPP has growth-promoting properties and may play a role in the formation of nerve cells (neurons) in the brain both before and after birth. The sAPP peptide may also control the function of certain other proteins by turning off (inhibiting) their activity. Amyloid peptide is likely involved in the ability of neurons to change and adapt over time (plasticity). Other functions of sAPP and amyloidpeptide are under investigation.
+published: html:i APP      Amyloid precursor protein is cut by enzymes to create smaller fragments (peptides), some of which are released outside the cell. Two of these fragments are called soluble amyloid precursor protein (sAPP) and amyloid beta (β) peptide. Recent evidence suggests that sAPP has growth-promoting properties and may play a role in the formation of nerve cells (neurons) in the brain both before and after birth. The sAPP peptide may also control the function of certain other proteins by turning off (inhibiting) their activity. Amyloidβ peptide is likely involved in the ability of neurons to change and adapt over time (plasticity). Other functions of sAPP and amyloidβpeptide are under investigation.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -3279,7 +3279,7 @@ gene-symbol: gene-symbol BCKDHA
 name: name branched chain keto acid dehydrogenase E1, alpha polypeptide
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/BCKDHA
 db-key-list: text-list   text text-role html  function html:p               html:p
-published: html:i BCKDHA    The BCKD enzyme complex is responsible for one step in the normal breakdown of three protein building blocks (amino acids). These amino acidsleucine, isoleucine, and valineare obtained from the diet. They are present in many kinds of food, particularly protein-rich foods such as milk, meat, and eggs. The BCKD enzyme complex is active in mitochondria, which are specialized structures inside cells that serve as energy-producing centers. The breakdown of leucine, isoleucine, and valine produces molecules that can be used for energy.
+published: html:i BCKDHA    The BCKD enzyme complex is responsible for one step in the normal breakdown of three protein building blocks (amino acids). These amino acids—leucine, isoleucine, and valine—are obtained from the diet. They are present in many kinds of food, particularly protein-rich foods such as milk, meat, and eggs. The BCKD enzyme complex is active in mitochondria, which are specialized structures inside cells that serve as energy-producing centers. The breakdown of leucine, isoleucine, and valine produces molecules that can be used for energy.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -3287,7 +3287,7 @@ gene-symbol: gene-symbol BCKDHB
 name: name branched chain keto acid dehydrogenase E1 subunit beta
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/BCKDHB
 db-key-list: text-list   text text-role html  function html:p               html:p
-published: html:i BCKDHB    The BCKD enzyme complex is responsible for one step in the normal breakdown of three protein building blocks (amino acids). These amino acidsleucine, isoleucine, and valineare obtained from the diet. They are present in many kinds of food, particularly protein-rich foods such as milk, meat, and eggs. The BCKD enzyme complex is active in mitochondria, which are specialized structures inside cells that serve as energy-producing centers. The breakdown of leucine, isoleucine, and valine produces molecules that can be used for energy.
+published: html:i BCKDHB    The BCKD enzyme complex is responsible for one step in the normal breakdown of three protein building blocks (amino acids). These amino acids—leucine, isoleucine, and valine—are obtained from the diet. They are present in many kinds of food, particularly protein-rich foods such as milk, meat, and eggs. The BCKD enzyme complex is active in mitochondria, which are specialized structures inside cells that serve as energy-producing centers. The breakdown of leucine, isoleucine, and valine produces molecules that can be used for energy.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -4263,7 +4263,7 @@ gene-symbol: gene-symbol CACNB4
 name: name calcium voltage-gated channel auxiliary subunit beta 4
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/CACNB4
 db-key-list: text-list   text text-role html  function html:p                  html:p                     html:p
-published: html:i CACNB4     Calcium channels are each made up of a large alpha-1 (1) subunit, which forms the hole (pore) through which calcium ions can flow. Each channel also includes several smaller subunits, which regulate the channel's activity and interact html:i CACNB4   In the brain, calcium channels play an essential role in communication between nerve cells (neurons). These channels help control the release of neurotransmitters, which are chemicals that relay signals from one neuron to another. Researchers believe that calcium channels are also involved in the survival of neurons and the ability of these cells to change and adapt over time (plasticity).
+published: html:i CACNB4     Calcium channels are each made up of a large alpha-1 (α1) subunit, which forms the hole (pore) through which calcium ions can flow. Each channel also includes several smaller subunits, which regulate the channel's activity and interact html:i CACNB4   In the brain, calcium channels play an essential role in communication between nerve cells (neurons). These channels help control the release of neurotransmitters, which are chemicals that relay signals from one neuron to another. Researchers believe that calcium channels are also involved in the survival of neurons and the ability of these cells to change and adapt over time (plasticity).
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -4407,7 +4407,7 @@ gene-symbol: gene-symbol CARD14
 name: name caspase recruitment domain family member 14
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/CARD14
 db-key-list: text-list   text text-role html  function html:p                     html:p
-published: html:i CARD14      The CARD14 protein is found in many of the body's tissues, but it is particularly abundant in the skin. NF-B signaling appears to play important roles in regulating inflammatory reactions in the skin and in promoting the survival of skin cells.
+published: html:i CARD14      The CARD14 protein is found in many of the body's tissues, but it is particularly abundant in the skin. NF-κB signaling appears to play important roles in regulating inflammatory reactions in the skin and in promoting the survival of skin cells.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -4575,7 +4575,7 @@ gene-symbol: gene-symbol CBFB
 name: name core-binding factor beta subunit
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/CBFB
 db-key-list: text-list   text text-role html  function html:p               html:p
-published: html:i CBFB    The presence of CBFhelps the complex bind to DNA and protects the RUNX protein from being broken down. The function of CBF depends on which RUNX protein it includes. Once bound to DNA, the RUNX1 protein controls the activity of genes involved in the development of blood cells (hematopoiesis). The RUNX2 protein regulates genes important for bone cell development and formation of the skeleton. The RUNX3 protein primarily affects genes involved in the development of nerve cells.
+published: html:i CBFB    The presence of CBFβhelps the complex bind to DNA and protects the RUNX protein from being broken down. The function of CBF depends on which RUNX protein it includes. Once bound to DNA, the RUNX1 protein controls the activity of genes involved in the development of blood cells (hematopoiesis). The RUNX2 protein regulates genes important for bone cell development and formation of the skeleton. The RUNX3 protein primarily affects genes involved in the development of nerve cells.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -5335,7 +5335,7 @@ gene-symbol: gene-symbol CDKN1C
 name: name cyclin dependent kinase inhibitor 1C
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/CDKN1C
 db-key-list: text-list   text text-role html  function html:p               html:p                     html:p
-published: html:i CDKN1C    People inherit one copy of most genes from their mother and one copy from their father. Both copies are typically active, orturned on,in cells. However, the html:i CDKN1C    html:i CDKN1C
+published: html:i CDKN1C    People inherit one copy of most genes from their mother and one copy from their father. Both copies are typically active, or"turned on,"in cells. However, the html:i CDKN1C    html:i CDKN1C
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -5879,7 +5879,7 @@ gene-symbol: gene-symbol CHN1
 name: name chimerin 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/CHN1
 db-key-list: text-list   text text-role html  function html:p                     html:p
-published: html:i CHN1      The CHN1 proteins, particularly2-chimaerin, appear to be critical for the formation of certain nerves in the head and face. Specifically, they are necessary for the development and function of cranial nerve VI and, to a lesser extent, cranial nerve III. These nerves emerge from the brain and control several of the muscles that surround the eyes (extraocular muscles). The extraocular muscles direct eye movement and determine the position of the eyes.
+published: html:i CHN1      The CHN1 proteins, particularlyα2-chimaerin, appear to be critical for the formation of certain nerves in the head and face. Specifically, they are necessary for the development and function of cranial nerve VI and, to a lesser extent, cranial nerve III. These nerves emerge from the brain and control several of the muscles that surround the eyes (extraocular muscles). The extraocular muscles direct eye movement and determine the position of the eyes.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -6703,7 +6703,7 @@ gene-symbol: gene-symbol COL3A1
 name: name collagen type III alpha 1 chain
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/COL3A1
 db-key-list: text-list   text text-role html  function html:p            html:p         html:p
-published: html:i COL3A1   The components of type III collagen, called pro-1(III) chains, are produced html:i COL3A1 The triple-stranded, rope-like procollagen molecules are processed by enzymes outside the cell to create mature type III collagen. The collagen molecules then arrange themselves into long, thin fibrils that form stable interactions (cross-links) with one another and with other types of collagen in the spaces between cells. The cross-links result in the formation of very strong collagen fibers.
+published: html:i COL3A1   The components of type III collagen, called pro-α1(III) chains, are produced html:i COL3A1 The triple-stranded, rope-like procollagen molecules are processed by enzymes outside the cell to create mature type III collagen. The collagen molecules then arrange themselves into long, thin fibrils that form stable interactions (cross-links) with one another and with other types of collagen in the spaces between cells. The cross-links result in the formation of very strong collagen fibers.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -7607,7 +7607,7 @@ gene-symbol: gene-symbol CTSA
 name: name cathepsin A
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/CTSA
 db-key-list: text-list   text text-role html  function html:p               html:p                        html:p
-published: html:i CTSA    Cathepsin A is active in cellular compartments called lysosomes. These compartments contain enzymes that digest and recycle materials when they are no longer needed. Cathepsin A interacts with the enzymes-galactosidase and neuraminidase 1, which play a role in the breakdown of complexes of sugar molecules (oligosaccharides) attached to certain proteins (glycoproteins) or fats (glycolipids). Cathepsin A forms a complex with these two enzymes and directs their transport within the cell to the lysosomes. Within lysosomes, cathepsin A activates the enzymes and prevents their breakdown. On the cell surface, cathepsin A forms a complex with neuraminidase 1 and elastin binding protein, forming the elastin binding protein receptor. This receptor complex plays a role in the formation of elastic fibers, which are a component of the connective tissue that forms the body's supportive framework.
+published: html:i CTSA    Cathepsin A is active in cellular compartments called lysosomes. These compartments contain enzymes that digest and recycle materials when they are no longer needed. Cathepsin A interacts with the enzymesβ-galactosidase and neuraminidase 1, which play a role in the breakdown of complexes of sugar molecules (oligosaccharides) attached to certain proteins (glycoproteins) or fats (glycolipids). Cathepsin A forms a complex with these two enzymes and directs their transport within the cell to the lysosomes. Within lysosomes, cathepsin A activates the enzymes and prevents their breakdown. On the cell surface, cathepsin A forms a complex with neuraminidase 1 and elastin binding protein, forming the elastin binding protein receptor. This receptor complex plays a role in the formation of elastic fibers, which are a component of the connective tissue that forms the body's supportive framework.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -7799,7 +7799,7 @@ gene-symbol: gene-symbol CYP17A1
 name: name cytochrome P450 family 17 subfamily A member 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/CYP17A1
 db-key-list: text-list   text text-role html  function html:p                     html:p
-published: html:i CYP17A1      Steroid hormones are synthesized through a series of chemical reactions. The CYP17A1 enzyme performs two important reactions in this process. The enzyme has 17 alpha()-hydroxylase activity, converting pregnenalone to 17-hydroxypregnenolone and progesterone to 17-hydroxyprogesterone. These hormone precursors are further processed to produce glucocorticoids and sex hormones. CYP17A1 also has 17,20-lyase activity, which converts 17-hydroxypregnenolone to dehydroepiandrosterone (DHEA). This reaction is integral to the production of sex hormones.
+published: html:i CYP17A1      Steroid hormones are synthesized through a series of chemical reactions. The CYP17A1 enzyme performs two important reactions in this process. The enzyme has 17 alpha(α)-hydroxylase activity, converting pregnenalone to 17-hydroxypregnenolone and progesterone to 17-hydroxyprogesterone. These hormone precursors are further processed to produce glucocorticoids and sex hormones. CYP17A1 also has 17,20-lyase activity, which converts 17-hydroxypregnenolone to dehydroepiandrosterone (DHEA). This reaction is integral to the production of sex hormones.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -8079,7 +8079,7 @@ gene-symbol: gene-symbol DBT
 name: name dihydrolipoamide branched chain transacylase E2
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/DBT
 db-key-list: text-list   text text-role html  function html:p            html:p
-published: html:i DBT   The BCKD enzyme complex is responsible for one step in the normal breakdown of three protein building blocks (amino acids). These amino acidsleucine, isoleucine, and valineare obtained from the diet. They are present in many kinds of food, particularly protein-rich foods such as milk, meat, and eggs. The BCKD enzyme complex is active in mitochondria, which are specialized structures inside cells that serve as energy-producing centers. The breakdown of leucine, isoleucine, and valine produces molecules that can be used for energy.
+published: html:i DBT   The BCKD enzyme complex is responsible for one step in the normal breakdown of three protein building blocks (amino acids). These amino acids—leucine, isoleucine, and valine—are obtained from the diet. They are present in many kinds of food, particularly protein-rich foods such as milk, meat, and eggs. The BCKD enzyme complex is active in mitochondria, which are specialized structures inside cells that serve as energy-producing centers. The breakdown of leucine, isoleucine, and valine produces molecules that can be used for energy.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -8135,7 +8135,7 @@ gene-symbol: gene-symbol DCN
 name: name decorin
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/DCN
 db-key-list: text-list   text text-role html  function html:p                  html:p                  html:p
-published: html:i DCN     Decorin is involved in the organization of proteins called collagens. Collagens strengthen and support connective tissues throughout the body. Collagens also play an important role in the cornea, which is the clear outer covering of the eye. Bundles of collagen called fibrils must be strictly organized for the cornea to be transparent. Decorin ensures that these collagen fibrils are uniformly sized and regularly spaced. Researchers have proposed several additional functions for decorin. This protein likely helps regulate cell growth and division, the attachment of cells to one another (cell adhesion), and the self-destruction of cells (apoptosis). Studies suggest that decorin plays a role in the formation of new blood vessels (angiogenesis), wound healing, bone development, inflammation, and preventing the growth of cancerous tumors. Decorin also regulates the activity of several growth factors, including transforming growth factor-beta (TGF). These growth factors control a diverse range of processes important for cell growth.
+published: html:i DCN     Decorin is involved in the organization of proteins called collagens. Collagens strengthen and support connective tissues throughout the body. Collagens also play an important role in the cornea, which is the clear outer covering of the eye. Bundles of collagen called fibrils must be strictly organized for the cornea to be transparent. Decorin ensures that these collagen fibrils are uniformly sized and regularly spaced. Researchers have proposed several additional functions for decorin. This protein likely helps regulate cell growth and division, the attachment of cells to one another (cell adhesion), and the self-destruction of cells (apoptosis). Studies suggest that decorin plays a role in the formation of new blood vessels (angiogenesis), wound healing, bone development, inflammation, and preventing the growth of cancerous tumors. Decorin also regulates the activity of several growth factors, including transforming growth factor-beta (TGFβ). These growth factors control a diverse range of processes important for cell growth.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -8551,7 +8551,7 @@ gene-symbol: gene-symbol DLD
 name: name dihydrolipoamide dehydrogenase
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/DLD
 db-key-list: text-list   text text-role html  function html:p               html:p                     html:p                        html:p
-published: html:i DLD    Branched-chain alpha-keto acid dehydrogenase, or BCKD, is one of the enzyme complexes that include dihydrolipoamide dehydrogenase. The BCKD enzyme complex performs one step in the breakdown of three protein building blocks (amino acids). These amino acidsleucine, isoleucine, and valineare obtained from the diet. They are present in many kinds of food, particularly protein-rich foods such as milk, meat, and eggs. The breakdown of these amino acids produces molecules that can be used for energy. Dihydrolipoamide dehydrogenase is also part of the pyruvate dehydrogenase (PDH) complex. This enzyme complex plays an important role in the production of energy for cells. It converts a molecule called pyruvate, which is formed from the breakdown of carbohydrates, into another molecule called acetyl-CoA. Dihydrolipoamide dehydrogenase performs one step of this chemical reaction. The conversion of pyruvate is essential to begin the series of chemical reactions that ultimately produces adenosine triphosphate (ATP), the cell's main energy source. Dihydrolipoamide dehydrogenase is part of a third enzyme complex involved in cellular energy production. This complex, called alpha-ketoglutarate dehydrogenase (KGDH), converts a molecule called-ketoglutarate to another molecule called succinyl-CoA. Further steps in this process generate ATP for cells to use as energy.
+published: html:i DLD    Branched-chain alpha-keto acid dehydrogenase, or BCKD, is one of the enzyme complexes that include dihydrolipoamide dehydrogenase. The BCKD enzyme complex performs one step in the breakdown of three protein building blocks (amino acids). These amino acids—leucine, isoleucine, and valine—are obtained from the diet. They are present in many kinds of food, particularly protein-rich foods such as milk, meat, and eggs. The breakdown of these amino acids produces molecules that can be used for energy. Dihydrolipoamide dehydrogenase is also part of the pyruvate dehydrogenase (PDH) complex. This enzyme complex plays an important role in the production of energy for cells. It converts a molecule called pyruvate, which is formed from the breakdown of carbohydrates, into another molecule called acetyl-CoA. Dihydrolipoamide dehydrogenase performs one step of this chemical reaction. The conversion of pyruvate is essential to begin the series of chemical reactions that ultimately produces adenosine triphosphate (ATP), the cell's main energy source. Dihydrolipoamide dehydrogenase is part of a third enzyme complex involved in cellular energy production. This complex, called alpha-ketoglutarate dehydrogenase (αKGDH), converts a molecule calledα-ketoglutarate to another molecule called succinyl-CoA. Further steps in this process generate ATP for cells to use as energy.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -9543,7 +9543,7 @@ gene-symbol: gene-symbol EGLN1
 name: name egl-9 family hypoxia inducible factor 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/EGLN1
 db-key-list: text-list   text text-role html  function html:p                        html:p                        html:p               html:p
-published: html:i EGLN1       The PHD2 enzyme's primary job is to target HIF-2to be broken down (degraded) so it does not build up when it is not needed. When enough oxygen is available, the PHD2 enzyme is highly active to stimulate the breakdown of HIF-2. However, when oxygen levels are lower than normal (hypoxia), the PHD2 enzyme becomes less active. As a result, HIF-2is degraded more slowly, leaving more HIF available to stimulate the formation of new blood vessels and red blood cells. These activities help maximize the amount of oxygen that can be delivered to the body's organs and tissues. html:i EGLN1    html:i EGLN1
+published: html:i EGLN1       The PHD2 enzyme's primary job is to target HIF-2αto be broken down (degraded) so it does not build up when it is not needed. When enough oxygen is available, the PHD2 enzyme is highly active to stimulate the breakdown of HIF-2α. However, when oxygen levels are lower than normal (hypoxia), the PHD2 enzyme becomes less active. As a result, HIF-2αis degraded more slowly, leaving more HIF available to stimulate the formation of new blood vessels and red blood cells. These activities help maximize the amount of oxygen that can be delivered to the body's organs and tissues. html:i EGLN1    html:i EGLN1
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -9911,7 +9911,7 @@ gene-symbol: gene-symbol EPAS1
 name: name endothelial PAS domain protein 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/EPAS1
 db-key-list: text-list   text text-role html  function html:p                     html:p                     html:p
-published: html:i EPAS1      HIF-2is constantly produced in the body. When adequate oxygen is available, other proteins target HIF-2to be broken down (degraded) so it does not build up. However, when oxygen levels are lower than normal (hypoxia), HIF-2is degraded at a slower rate. Consequently, more HIF is available to stimulate the formation of new blood vessels and the production of red blood cells. These activities help maximize the amount of oxygen that can be delivered to the body's organs and tissues. html:i EPAS1
+published: html:i EPAS1      HIF-2αis constantly produced in the body. When adequate oxygen is available, other proteins target HIF-2αto be broken down (degraded) so it does not build up. However, when oxygen levels are lower than normal (hypoxia), HIF-2αis degraded at a slower rate. Consequently, more HIF is available to stimulate the formation of new blood vessels and the production of red blood cells. These activities help maximize the amount of oxygen that can be delivered to the body's organs and tissues. html:i EPAS1
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -10783,7 +10783,7 @@ gene-symbol: gene-symbol FBN1
 name: name fibrillin 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/FBN1
 db-key-list: text-list   text text-role html  function html:p                           html:p
-published: html:i FBN1        Microfibrils store a protein called transforming growth factor beta (TGF-), a critical growth factor. TGF-affects development by helping to control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (motility), and the self-destruction of cells (apoptosis). Microfibrils help regulate the availability of TGF-, which is turned off (inactivated) when stored in microfibrils and turned on (activated) when released.
+published: html:i FBN1        Microfibrils store a protein called transforming growth factor beta (TGF-β), a critical growth factor. TGF-βaffects development by helping to control the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (motility), and the self-destruction of cells (apoptosis). Microfibrils help regulate the availability of TGF-β, which is turned off (inactivated) when stored in microfibrils and turned on (activated) when released.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -11015,7 +11015,7 @@ gene-symbol: gene-symbol FGA
 name: name fibrinogen alpha chain
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/FGA
 db-key-list: text-list   text text-role html  function html:p                     html:p
-published: html:i FGA      For coagulation to occur, another protein called thrombin removes a piece from the Aand the Bsubunits of the functional fibrinogen protein (the pieces are called the A and B fibrinopeptides). This process converts fibrinogen to fibrin, the main protein in blood clots. Fibrin proteins attach to each other, forming a stable network that makes up the blood clot.
+published: html:i FGA      For coagulation to occur, another protein called thrombin removes a piece from the Aαand the Bβsubunits of the functional fibrinogen protein (the pieces are called the A and B fibrinopeptides). This process converts fibrinogen to fibrin, the main protein in blood clots. Fibrin proteins attach to each other, forming a stable network that makes up the blood clot.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -11023,7 +11023,7 @@ gene-symbol: gene-symbol FGB
 name: name fibrinogen beta chain
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/FGB
 db-key-list: text-list   text text-role html  function html:p                     html:p
-published: html:i FGB      For coagulation to occur, another protein called thrombin removes a piece from the Aand the Bsubunits of the functional fibrinogen protein (the pieces are called the A and B fibrinopeptides). This process converts fibrinogen to fibrin, the main protein in blood clots. Fibrin proteins attach to each other, forming a stable network that makes up the blood clot.
+published: html:i FGB      For coagulation to occur, another protein called thrombin removes a piece from the Aαand the Bβsubunits of the functional fibrinogen protein (the pieces are called the A and B fibrinopeptides). This process converts fibrinogen to fibrin, the main protein in blood clots. Fibrin proteins attach to each other, forming a stable network that makes up the blood clot.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -11183,7 +11183,7 @@ gene-symbol: gene-symbol FGG
 name: name fibrinogen gamma chain
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/FGG
 db-key-list: text-list   text text-role html  function html:p                  html:p
-published: html:i FGG     For coagulation to occur, another protein called thrombin removes a piece from the Aand the Bsubunits of the functional fibrinogen protein (the pieces are called the A and B fibrinopeptides). This process converts fibrinogen to fibrin, the main protein in blood clots. Fibrin proteins attach to each other, forming a stable network that makes up the blood clot.
+published: html:i FGG     For coagulation to occur, another protein called thrombin removes a piece from the Aαand the Bβsubunits of the functional fibrinogen protein (the pieces are called the A and B fibrinopeptides). This process converts fibrinogen to fibrin, the main protein in blood clots. Fibrin proteins attach to each other, forming a stable network that makes up the blood clot.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -11303,7 +11303,7 @@ gene-symbol: gene-symbol FKRP
 name: name fukutin related protein
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/FKRP
 db-key-list: text-list   text text-role html  function html:p                  html:p               html:p
-published: html:i FKRP     FKRP is involved in a process called glycosylation. Through this chemical process, sugar molecules are added to certain proteins. In particular, FKRP adds a molecule called ribitol 5-phosphate to the chain of sugars attached to a protein called alpha ()-dystroglycan. Glycosylation is critical for the normal function of-dystroglycan. The-dystroglycan protein helps anchor the structural framework inside each cell (cytoskeleton) to the lattice of proteins and other molecules outside the cell (extracellular matrix). In skeletal muscles, glycosylated-dystroglycan helps stabilize and protect muscle fibers. In the brain, it helps direct the movement (migration) of nerve cells (neurons) during early development.
+published: html:i FKRP     FKRP is involved in a process called glycosylation. Through this chemical process, sugar molecules are added to certain proteins. In particular, FKRP adds a molecule called ribitol 5-phosphate to the chain of sugars attached to a protein called alpha (α)-dystroglycan. Glycosylation is critical for the normal function ofα-dystroglycan. Theα-dystroglycan protein helps anchor the structural framework inside each cell (cytoskeleton) to the lattice of proteins and other molecules outside the cell (extracellular matrix). In skeletal muscles, glycosylatedα-dystroglycan helps stabilize and protect muscle fibers. In the brain, it helps direct the movement (migration) of nerve cells (neurons) during early development.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -11311,7 +11311,7 @@ gene-symbol: gene-symbol FKTN
 name: name fukutin
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/FKTN
 db-key-list: text-list   text text-role html  function html:p                  html:p                  html:p
-published: html:i FKTN     The fukutin protein is involved in a protein modification process called glycosylation. Through this chemical process, sugar molecules are added to certain proteins. In particular, the fukutin protein adds a molecule called ribitol 5-phosphate to the chain of sugars attached to a protein called alpha ()-dystroglycan. Glycosylation is critical for the normal function of -dystroglycan. The-dystroglycan protein helps anchor the structural framework inside each cell (cytoskeleton) to the lattice of proteins and other molecules outside the cell (extracellular matrix). In skeletal muscles, glycosylated-dystroglycan helps stabilize and protect muscle fibers. In the brain, it helps direct the movement (migration) of nerve cells (neurons) during early development.
+published: html:i FKTN     The fukutin protein is involved in a protein modification process called glycosylation. Through this chemical process, sugar molecules are added to certain proteins. In particular, the fukutin protein adds a molecule called ribitol 5-phosphate to the chain of sugars attached to a protein called alpha (α)-dystroglycan. Glycosylation is critical for the normal function of α-dystroglycan. Theα-dystroglycan protein helps anchor the structural framework inside each cell (cytoskeleton) to the lattice of proteins and other molecules outside the cell (extracellular matrix). In skeletal muscles, glycosylatedα-dystroglycan helps stabilize and protect muscle fibers. In the brain, it helps direct the movement (migration) of nerve cells (neurons) during early development.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -11335,7 +11335,7 @@ gene-symbol: gene-symbol FLG
 name: name filaggrin
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/FLG
 db-key-list: text-list   text text-role html  function html:p                        html:p
-published: html:i FLG       The epidermis acts as a barrier to help minimize water loss and protect the body from foreign substances, including toxins, bacteria, and substances that can cause allergic reactions (allergens), such as pollen and dust mites. Filaggrin plays an important role in the skin's barrier function. It brings together structural proteins in the outermost skin cells to form tight bundles, flattening and strengthening the cells to create a strong barrier. In addition, processing of filaggrin proteins leads to production of molecules that are part of the skin'snatural moisturizing factor,which helps maintain hydration of the skin. These molecules also maintain the correct acidity (pH) of the skin, which is another important aspect of the barrier.
+published: html:i FLG       The epidermis acts as a barrier to help minimize water loss and protect the body from foreign substances, including toxins, bacteria, and substances that can cause allergic reactions (allergens), such as pollen and dust mites. Filaggrin plays an important role in the skin's barrier function. It brings together structural proteins in the outermost skin cells to form tight bundles, flattening and strengthening the cells to create a strong barrier. In addition, processing of filaggrin proteins leads to production of molecules that are part of the skin's"natural moisturizing factor,"which helps maintain hydration of the skin. These molecules also maintain the correct acidity (pH) of the skin, which is another important aspect of the barrier.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -12839,7 +12839,7 @@ gene-symbol: gene-symbol GNAT1
 name: name G protein subunit alpha transducin 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/GNAT1
 db-key-list: text-list   text text-role html  function html:p                  html:p
-published: html:i GNAT1     The transducin complex that contains-transducin is found only in specialized light receptor cells in the retina called rods. Rods are responsible for vision in low-light conditions. When light enters the eye, a rod cell protein called rhodopsin is turned on (activated), which then activates-transducin. Once activated,-transducin breaks away from the transducin complex in order to activate another protein called cGMP-PDE, which triggers a series of chemical reactions that create electrical signals. These signals are transmitted from rod cells to the brain, where they are interpreted as vision.
+published: html:i GNAT1     The transducin complex that containsα-transducin is found only in specialized light receptor cells in the retina called rods. Rods are responsible for vision in low-light conditions. When light enters the eye, a rod cell protein called rhodopsin is turned on (activated), which then activatesα-transducin. Once activated,α-transducin breaks away from the transducin complex in order to activate another protein called cGMP-PDE, which triggers a series of chemical reactions that create electrical signals. These signals are transmitted from rod cells to the brain, where they are interpreted as vision.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -12983,7 +12983,7 @@ gene-symbol: gene-symbol GP1BA
 name: name glycoprotein Ib platelet alpha subunit
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/GP1BA
 db-key-list: text-list   text text-role html  function html:p                                 html:p
-published: html:i GP1BA          To form the GPIb-IX-V complex, GPIbinteracts with other protein subunits called GPIb-beta, GPIX, and GPV, each of which is produced from a different gene. GPIbis essential for assembly of the complex at the platelet surface. It is the piece of the complex that interacts with von Willebrand factor to trigger blood clotting. GPIbalso interacts with other blood clotting proteins to aid in other steps of the clotting process.
+published: html:i GP1BA          To form the GPIb-IX-V complex, GPIbαinteracts with other protein subunits called GPIb-beta, GPIX, and GPV, each of which is produced from a different gene. GPIbαis essential for assembly of the complex at the platelet surface. It is the piece of the complex that interacts with von Willebrand factor to trigger blood clotting. GPIbαalso interacts with other blood clotting proteins to aid in other steps of the clotting process.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -12991,7 +12991,7 @@ gene-symbol: gene-symbol GP1BB
 name: name glycoprotein Ib platelet beta subunit
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/GP1BB
 db-key-list: text-list   text text-role html  function html:p                                 html:p
-published: html:i GP1BB          To form the GPIb-IX-V complex, GPIbinteracts with other protein subunits called GPIb-alpha, GPIX, and GPV, each of which is produced from a different gene. GPIbis essential for assembly of the complex at the platelet surface and helps stabilize the complex once it is formed.
+published: html:i GP1BB          To form the GPIb-IX-V complex, GPIbβinteracts with other protein subunits called GPIb-alpha, GPIX, and GPV, each of which is produced from a different gene. GPIbβis essential for assembly of the complex at the platelet surface and helps stabilize the complex once it is formed.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -13487,7 +13487,7 @@ gene-symbol: gene-symbol GUCY2D
 name: name guanylate cyclase 2D, retinal
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/GUCY2D
 db-key-list: text-list   text text-role html  function html:p                     html:p
-published: html:i GUCY2D      The GUCY2D protein is involved in a process called phototransduction. When light enters the eye, it stimulates specialized pigments in photoreceptor cells. This stimulation triggers a series of chemical reactions that produce an electrical signal, which is interpreted by the brain as vision. Once photoreceptors have been stimulated by light, they must return to their resting (ordark) state before they can be stimulated again. The GUCY2D protein is involved in a chemical reaction that helps return photoreceptors to their dark state after light exposure.
+published: html:i GUCY2D      The GUCY2D protein is involved in a process called phototransduction. When light enters the eye, it stimulates specialized pigments in photoreceptor cells. This stimulation triggers a series of chemical reactions that produce an electrical signal, which is interpreted by the brain as vision. Once photoreceptors have been stimulated by light, they must return to their resting (or"dark") state before they can be stimulated again. The GUCY2D protein is involved in a chemical reaction that helps return photoreceptors to their dark state after light exposure.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -13559,7 +13559,7 @@ gene-symbol: gene-symbol H19
 name: name H19, imprinted maternally expressed transcript (non-protein coding)
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/H19
 db-key-list: text-list   text text-role html  function html:p                  html:p                     html:p
-published: html:i H19     People inherit one copy of most genes from their mother and one copy from their father. Both copies are typically active, orturned on,in cells. However, the html:i H19    html:i H19
+published: html:i H19     People inherit one copy of most genes from their mother and one copy from their father. Both copies are typically active, or"turned on,"in cells. However, the html:i H19    html:i H19
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -13927,7 +13927,7 @@ gene-symbol: gene-symbol HFE
 name: name hemochromatosis
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/HFE
 db-key-list: text-list   text text-role html  function html:p         html:p                        html:p
-published: html:i HFE  The HFE protein interacts with other proteins on the cell surface to detect the amount of iron in the body. The HFE protein regulates the production of another protein called hepcidin, which is considered themasteriron regulatory hormone. Hepcidin is produced by the liver, and it determines how much iron is absorbed from the diet and released from storage sites in the body. When the proteins involved in iron sensing and absorption are functioning properly, iron absorption is tightly regulated. On average, the body absorbs about 10 percent of the iron obtained from the diet. The HFE protein also interacts with two proteins called transferrin receptors; however, the role of these interactions in iron regulation is unclear.
+published: html:i HFE  The HFE protein interacts with other proteins on the cell surface to detect the amount of iron in the body. The HFE protein regulates the production of another protein called hepcidin, which is considered the"master"iron regulatory hormone. Hepcidin is produced by the liver, and it determines how much iron is absorbed from the diet and released from storage sites in the body. When the proteins involved in iron sensing and absorption are functioning properly, iron absorption is tightly regulated. On average, the body absorbs about 10 percent of the iron obtained from the diet. The HFE protein also interacts with two proteins called transferrin receptors; however, the role of these interactions in iron regulation is unclear.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -14703,7 +14703,7 @@ gene-symbol: gene-symbol HSD17B10
 name: name hydroxysteroid 17-beta dehydrogenase 10
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/HSD17B10
 db-key-list: text-list   text text-role html  function html:p         html:p                  html:p                     html:p
-published: html:i HSD17B10  The HSD10 enzyme plays an important role in processing steroid hormones and fats. This enzyme also helps break down the protein building block (amino acid) isoleucine. Specifically, it is responsible for the fifth step in this process, in which 2-methyl-3-hydroxybutyryl-CoA is converted into 2-methylacetoacetyl-CoA. Through a similar method, the HSD10 enzyme processes a group of fats called branched-chain fatty acids. This enzyme is also necessary for several chemical reactions involving female sex hormones (estrogens) and male sex hormones (androgens). HSD10 inactivates a potent form of estrogen called 17-estradiol by converting it to a weaker form called estrone. This enzyme also generates a potent androgen called dihydrotestosterone from a weak androgen called 3-androstanediol. The HSD10 enzyme is essential for maintaining appropriate levels of male and female sex hormones. The HSD10 enzyme is needed for certain chemical reactions involving neurosteroids, which are substances that regulate the activity of the nervous system. This enzyme inactivates two neurosteroids called allopregnanolone and allotetrahydrodeoxycorticosterone. These neurosteroids interact with receptors that prevent the brain from being overloaded with too many signals. By regulating the activity of these neurosteroids, the HSD10 enzyme helps maintain normal brain function.
+published: html:i HSD17B10  The HSD10 enzyme plays an important role in processing steroid hormones and fats. This enzyme also helps break down the protein building block (amino acid) isoleucine. Specifically, it is responsible for the fifth step in this process, in which 2-methyl-3-hydroxybutyryl-CoA is converted into 2-methylacetoacetyl-CoA. Through a similar method, the HSD10 enzyme processes a group of fats called branched-chain fatty acids. This enzyme is also necessary for several chemical reactions involving female sex hormones (estrogens) and male sex hormones (androgens). HSD10 inactivates a potent form of estrogen called 17β-estradiol by converting it to a weaker form called estrone. This enzyme also generates a potent androgen called dihydrotestosterone from a weak androgen called 3α-androstanediol. The HSD10 enzyme is essential for maintaining appropriate levels of male and female sex hormones. The HSD10 enzyme is needed for certain chemical reactions involving neurosteroids, which are substances that regulate the activity of the nervous system. This enzyme inactivates two neurosteroids called allopregnanolone and allotetrahydrodeoxycorticosterone. These neurosteroids interact with receptors that prevent the brain from being overloaded with too many signals. By regulating the activity of these neurosteroids, the HSD10 enzyme helps maintain normal brain function.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -14847,7 +14847,7 @@ gene-symbol: gene-symbol HTRA1
 name: name HtrA serine peptidase 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/HTRA1
 db-key-list: text-list   text text-role html  function html:p               html:p                        html:p
-published: html:i HTRA1    The HTRA1 enzyme also attaches (binds) to proteins in the transforming growth factor-beta (TGF-) family and slows down (inhibits) their ability to send chemical signals. TGF-proteins normally help control many critical cell functions, including the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (motility), and the self-destruction of cells (apoptosis). TGF- signaling also plays an important role in the formation of new blood vessels (angiogenesis). Researchers have proposed several additional functions for the HTRA1 enzyme. It may play a role in the stabilization of microtubules, which are rigid, hollow fibers that make up the cell's structural framework (cytoskeleton). Additionally, the HTRA1 enzyme may be involved in depositing minerals, such as calcium and phosphorus, in developing bone (mineralization). Studies have also suggested that the HTRA1 enzyme acts as a tumor suppressor, a protein that helps prevent the development of cancerous tumors by keeping cells from growing and dividing in an uncontrolled way.
+published: html:i HTRA1    The HTRA1 enzyme also attaches (binds) to proteins in the transforming growth factor-beta (TGF-β) family and slows down (inhibits) their ability to send chemical signals. TGF-βproteins normally help control many critical cell functions, including the growth and division (proliferation) of cells, the process by which cells mature to carry out specific functions (differentiation), cell movement (motility), and the self-destruction of cells (apoptosis). TGF-β signaling also plays an important role in the formation of new blood vessels (angiogenesis). Researchers have proposed several additional functions for the HTRA1 enzyme. It may play a role in the stabilization of microtubules, which are rigid, hollow fibers that make up the cell's structural framework (cytoskeleton). Additionally, the HTRA1 enzyme may be involved in depositing minerals, such as calcium and phosphorus, in developing bone (mineralization). Studies have also suggested that the HTRA1 enzyme acts as a tumor suppressor, a protein that helps prevent the development of cancerous tumors by keeping cells from growing and dividing in an uncontrolled way.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -15167,7 +15167,7 @@ gene-symbol: gene-symbol IGF2
 name: name insulin like growth factor 2
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/IGF2
 db-key-list: text-list   text text-role html  function html:p               html:p                     html:p
-published: html:i IGF2    People inherit one copy of most genes from their mother and one copy from their father. Both copies are typically active, orturned on,in cells. However, the html:i IGF2    html:i IGF2
+published: html:i IGF2    People inherit one copy of most genes from their mother and one copy from their father. Both copies are typically active, or"turned on,"in cells. However, the html:i IGF2    html:i IGF2
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -15670,8 +15670,8 @@ gene-summary: gene-summary
 gene-symbol: gene-symbol IQCB1
 name: name IQ motif containing B1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/IQCB1
-db-key-list: related-health-condition-list   related-health-condition name ghr-page  Leber congenital amaurosis https://ghr.nlm.nih.gov/condition/leber-congenital-amaurosis    related-health-condition name ghr-page  Senior-Lken syndrome https://ghr.nlm.nih.gov/condition/senior-loken-syndrome
-published: frequency Leber congenital amaurosis occurs in 2 to 3 per 100,000 newborns. It is one of the most common causes of blindness in children. frequency Senior-Lken syndrome is a rare disorder, with an estimated prevalence of about 1 in 1 million people worldwide. Only a few families with the condition have been described in the medical literature.
+db-key-list: related-health-condition-list   related-health-condition name ghr-page  Leber congenital amaurosis https://ghr.nlm.nih.gov/condition/leber-congenital-amaurosis    related-health-condition name ghr-page  Senior-Løken syndrome https://ghr.nlm.nih.gov/condition/senior-loken-syndrome
+published: frequency Leber congenital amaurosis occurs in 2 to 3 per 100,000 newborns. It is one of the most common causes of blindness in children. frequency Senior-Løken syndrome is a rare disorder, with an estimated prevalence of about 1 in 1 million people worldwide. Only a few families with the condition have been described in the medical literature.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -15831,7 +15831,7 @@ gene-symbol: gene-symbol ISPD
 name: name isoprenoid synthase domain containing
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/ISPD
 db-key-list: text-list   text text-role html  function html:p                  html:p
-published: html:i ISPD     The-dystroglycan protein helps anchor the structural framework inside each cell (cytoskeleton) to the lattice of proteins and other molecules outside the cell (extracellular matrix). In skeletal muscles, glycosylated-dystroglycan helps stabilize and protect muscle fibers. In the brain, it helps direct the movement (migration) of nerve cells (neurons) during early development.
+published: html:i ISPD     Theα-dystroglycan protein helps anchor the structural framework inside each cell (cytoskeleton) to the lattice of proteins and other molecules outside the cell (extracellular matrix). In skeletal muscles, glycosylatedα-dystroglycan helps stabilize and protect muscle fibers. In the brain, it helps direct the movement (migration) of nerve cells (neurons) during early development.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -15855,7 +15855,7 @@ gene-symbol: gene-symbol ITGA2B
 name: name integrin subunit alpha 2b
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/ITGA2B
 db-key-list: text-list   text text-role html  function html:p                  html:p
-published: html:i ITGA2B     During clot formation, integrinIIb3 binds to a protein called fibrinogen. Attachment of integrinIIb3 from adjacent platelets to the same fibrinogen protein helps platelets cluster together (platelet cohesion) to form a blood clot. Blood clots protect the body after injury by sealing off damaged blood vessels and preventing further blood loss. IntegrinIIb3 can also bind other proteins on platelets and in blood as well as proteins within the intricate lattice that forms in the space between cells (extracellular matrix) to ensure proper clot formation and promote wound healing.
+published: html:i ITGA2B     During clot formation, integrinαIIbβ3 binds to a protein called fibrinogen. Attachment of integrinαIIbβ3 from adjacent platelets to the same fibrinogen protein helps platelets cluster together (platelet cohesion) to form a blood clot. Blood clots protect the body after injury by sealing off damaged blood vessels and preventing further blood loss. IntegrinαIIbβ3 can also bind other proteins on platelets and in blood as well as proteins within the intricate lattice that forms in the space between cells (extracellular matrix) to ensure proper clot formation and promote wound healing.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -15871,7 +15871,7 @@ gene-symbol: gene-symbol ITGA6
 name: name integrin subunit alpha 6
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/ITGA6
 db-key-list: text-list   text text-role html  function html:p                  html:p                     html:p
-published: html:i ITGA6     The64 integrin protein is found primarily in epithelial cells, which are cells that line the surfaces and cavities of the body. This protein plays a particularly important role in strengthening and stabilizing the skin. It is a component of hemidesmosomes, which are microscopic structures that anchor the outer layer of the skin (the epidermis) to underlying layers. As part of a complex network of proteins in hemidesmosomes,64 integrin helps to hold the layers of skin together. The other integrin made with the6 subunit,61 integrin, functions during the formation of organs and tissues before birth. The61 integrin protein has not been as well studied as64 integrin.
+published: html:i ITGA6     Theα6β4 integrin protein is found primarily in epithelial cells, which are cells that line the surfaces and cavities of the body. This protein plays a particularly important role in strengthening and stabilizing the skin. It is a component of hemidesmosomes, which are microscopic structures that anchor the outer layer of the skin (the epidermis) to underlying layers. As part of a complex network of proteins in hemidesmosomes,α6β4 integrin helps to hold the layers of skin together. The other integrin made with theα6 subunit,α6β1 integrin, functions during the formation of organs and tissues before birth. Theα6β1 integrin protein has not been as well studied asα6β4 integrin.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -15903,7 +15903,7 @@ gene-symbol: gene-symbol ITGB2
 name: name integrin subunit beta 2
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/ITGB2
 db-key-list: text-list   text text-role html  function html:p                     html:p
-published: html:i ITGB2      Integrins that contain the2 subunit are found embedded in the membrane that surrounds white blood cells (leukocytes).2 integrins help leukocytes gather at sites of infection or injury, where they are needed to contribute to the immune response.2 integrins recognize signs of inflammation and attach (bind) to proteins called ligands on the lining of blood vessels. This binding leads to linkage (adhesion) of the leukocyte to the blood vessel wall. Signaling through the2 integrins triggers the transport of the attached leukocyte across the blood vessel wall to the site of infection or injury.
+published: html:i ITGB2      Integrins that contain theβ2 subunit are found embedded in the membrane that surrounds white blood cells (leukocytes).β2 integrins help leukocytes gather at sites of infection or injury, where they are needed to contribute to the immune response.β2 integrins recognize signs of inflammation and attach (bind) to proteins called ligands on the lining of blood vessels. This binding leads to linkage (adhesion) of the leukocyte to the blood vessel wall. Signaling through theβ2 integrins triggers the transport of the attached leukocyte across the blood vessel wall to the site of infection or injury.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -15911,7 +15911,7 @@ gene-symbol: gene-symbol ITGB3
 name: name integrin subunit beta 3
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/ITGB3
 db-key-list: text-list   text text-role html  function html:p                  html:p
-published: html:i ITGB3     During clot formation, integrinIIb3 binds to a protein called fibrinogen. Attachment of integrinIIb3 from adjacent platelets to the same fibrinogen protein helps platelets cluster together (platelet cohesion) to form a blood clot. Blood clots protect the body after injury by sealing off damaged blood vessels and preventing further blood loss. IntegrinIIb3 can also bind other proteins on platelets and in the blood as well as proteins within the intricate lattice that forms in the space between cells (extracellular matrix) to ensure proper clot formation and promote wound healing.
+published: html:i ITGB3     During clot formation, integrinαIIbβ3 binds to a protein called fibrinogen. Attachment of integrinαIIbβ3 from adjacent platelets to the same fibrinogen protein helps platelets cluster together (platelet cohesion) to form a blood clot. Blood clots protect the body after injury by sealing off damaged blood vessels and preventing further blood loss. IntegrinαIIbβ3 can also bind other proteins on platelets and in the blood as well as proteins within the intricate lattice that forms in the space between cells (extracellular matrix) to ensure proper clot formation and promote wound healing.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -15919,7 +15919,7 @@ gene-symbol: gene-symbol ITGB4
 name: name integrin subunit beta 4
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/ITGB4
 db-key-list: text-list   text text-role html  function html:p                  html:p
-published: html:i ITGB4     The integrin protein made with the4 subunit is known as64 integrin. This protein is found primarily in epithelial cells, which are cells that line the surfaces and cavities of the body. The64 integrin protein plays a particularly important role in strengthening and stabilizing the skin. It is a component of hemidesmosomes, which are microscopic structures that anchor the outer layer of the skin (the epidermis) to underlying layers. As part of a complex network of proteins in hemidesmosomes,64 integrin helps to hold the layers of skin together.
+published: html:i ITGB4     The integrin protein made with theβ4 subunit is known asα6β4 integrin. This protein is found primarily in epithelial cells, which are cells that line the surfaces and cavities of the body. Theα6β4 integrin protein plays a particularly important role in strengthening and stabilizing the skin. It is a component of hemidesmosomes, which are microscopic structures that anchor the outer layer of the skin (the epidermis) to underlying layers. As part of a complex network of proteins in hemidesmosomes,α6β4 integrin helps to hold the layers of skin together.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -16391,7 +16391,7 @@ gene-symbol: gene-symbol KCNK9
 name: name potassium two pore domain channel subfamily K member 9
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/KCNK9
 db-key-list: text-list   text text-role html  function html:p         html:p                                    html:p
-published: html:i KCNK9  TASK3 channels are found throughout the body. They are especially abundant in nerve cells (neurons) in the brain, particularly the region of the brain that coordinates movement (cerebellum). The flow of ions through potassium channels in neurons is involved in activating (exciting) the neurons and sending electrical signals in the brain. Unlike some potassium channels that open and close in response to certain triggers, TASK3 channels are always open, although their activity can be controlled by the environment surrounding the cell. Because the channels are always open, they are often called background or leak channels. TASK3 channels maintain the cell's ability to generate electrical signals and regulate the activity (excitability) of cells. These channels also appear to play a role in the movement (migration) of certain neurons in the brain. People inherit two copies of their genes, one from their mother and one from their father. Usually both copies of each gene are active, orturned on,in cells. For some genes, however, only one of the two copies is normally turned on. Which copy is active depends on the parent of origin: some genes are normally active only when they are inherited from a person's father; others are active only when inherited from a person's mother. This phenomenon is known as html:i KCNK9
+published: html:i KCNK9  TASK3 channels are found throughout the body. They are especially abundant in nerve cells (neurons) in the brain, particularly the region of the brain that coordinates movement (cerebellum). The flow of ions through potassium channels in neurons is involved in activating (exciting) the neurons and sending electrical signals in the brain. Unlike some potassium channels that open and close in response to certain triggers, TASK3 channels are always open, although their activity can be controlled by the environment surrounding the cell. Because the channels are always open, they are often called background or leak channels. TASK3 channels maintain the cell's ability to generate electrical signals and regulate the activity (excitability) of cells. These channels also appear to play a role in the movement (migration) of certain neurons in the brain. People inherit two copies of their genes, one from their mother and one from their father. Usually both copies of each gene are active, or"turned on,"in cells. For some genes, however, only one of the two copies is normally turned on. Which copy is active depends on the parent of origin: some genes are normally active only when they are inherited from a person's father; others are active only when inherited from a person's mother. This phenomenon is known as html:i KCNK9
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -16431,7 +16431,7 @@ gene-symbol: gene-symbol KCNQ1OT1
 name: name KCNQ1 opposite strand/antisense transcript 1 (non-protein coding)
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/KCNQ1OT1
 db-key-list: text-list   text text-role html  function html:p                  html:p                     html:p
-published: html:i KCNQ1OT1     People inherit one copy of most genes from their mother and one copy from their father. Both copies are typically active, orturned on,in cells. However, the html:i KCNQ1OT1    html:i KCNQ1OT1
+published: html:i KCNQ1OT1     People inherit one copy of most genes from their mother and one copy from their father. Both copies are typically active, or"turned on,"in cells. However, the html:i KCNQ1OT1    html:i KCNQ1OT1
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -17351,7 +17351,7 @@ gene-symbol: gene-symbol LARGE1
 name: name LARGE xylosyl- and glucuronyltransferase 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/LARGE1
 db-key-list: text-list   text text-role html  function html:p                     html:p
-published: html:i LARGE1      The-dystroglycan protein helps anchor the structural framework inside each cell (cytoskeleton) to the lattice of proteins and other molecules outside the cell (extracellular matrix). In skeletal muscles, glycosylated-dystroglycan helps stabilize and protect muscle fibers. In the brain, it helps direct the movement (migration) of nerve cells (neurons) during early development.
+published: html:i LARGE1      Theα-dystroglycan protein helps anchor the structural framework inside each cell (cytoskeleton) to the lattice of proteins and other molecules outside the cell (extracellular matrix). In skeletal muscles, glycosylatedα-dystroglycan helps stabilize and protect muscle fibers. In the brain, it helps direct the movement (migration) of nerve cells (neurons) during early development.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -17399,7 +17399,7 @@ gene-symbol: gene-symbol LBR
 name: name lamin B receptor
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/LBR
 db-key-list: text-list   text text-role html  function html:p      html:p                           html:p                  html:p
-published: html:i LBR One region of the protein, called the sterol reductase domain, gives the protein sterol reductase function (specifically14-sterol reductase function). This function of the lamin B receptor plays an important role in the production (synthesis) of cholesterol. Cholesterol is a lipid (fat) that is obtained from foods that come from animals: eggs, meat, fish, and dairy products. The body also makes (synthesizes) its own cholesterol. During cholesterol synthesis, the sterol reductase function of the lamin B receptor allows the protein to perform one of several chemical reactions that convert a molecule called lanosterol to cholesterol. The body needs cholesterol to develop and function normally. Before birth, cholesterol interacts with signaling proteins that control early development of the brain, limbs, genitals, and other structures. It is also an important component of cell membranes and myelin, the fatty covering that insulates nerve cells. Additionally, cholesterol is used to make certain hormones and is important for the production of acids used in digestion (bile acids). Another region of the lamin B receptor, called the DNA-binding domain, attaches (binds) to chromatin, the complex of DNA and proteins that packages DNA into chromosomes. The lamin B receptor can be found in the membrane that surrounds the nucleus (the nuclear envelope). The protein's interaction with chromatin attaches it to the nuclear envelope and helps maintain the chromatin's structure. Proper interaction of chromatin with the nuclear envelope may play a role in several important cellular functions such as making new copies of DNA (replication), controlling the activity of genes, and regulating programmed cell death (apoptosis). The DNA-binding domain of the protein also plays a role in the formation of the nucleus within cells.
+published: html:i LBR One region of the protein, called the sterol reductase domain, gives the protein sterol reductase function (specificallyΔ14-sterol reductase function). This function of the lamin B receptor plays an important role in the production (synthesis) of cholesterol. Cholesterol is a lipid (fat) that is obtained from foods that come from animals: eggs, meat, fish, and dairy products. The body also makes (synthesizes) its own cholesterol. During cholesterol synthesis, the sterol reductase function of the lamin B receptor allows the protein to perform one of several chemical reactions that convert a molecule called lanosterol to cholesterol. The body needs cholesterol to develop and function normally. Before birth, cholesterol interacts with signaling proteins that control early development of the brain, limbs, genitals, and other structures. It is also an important component of cell membranes and myelin, the fatty covering that insulates nerve cells. Additionally, cholesterol is used to make certain hormones and is important for the production of acids used in digestion (bile acids). Another region of the lamin B receptor, called the DNA-binding domain, attaches (binds) to chromatin, the complex of DNA and proteins that packages DNA into chromosomes. The lamin B receptor can be found in the membrane that surrounds the nucleus (the nuclear envelope). The protein's interaction with chromatin attaches it to the nuclear envelope and helps maintain the chromatin's structure. Proper interaction of chromatin with the nuclear envelope may play a role in several important cellular functions such as making new copies of DNA (replication), controlling the activity of genes, and regulating programmed cell death (apoptosis). The DNA-binding domain of the protein also plays a role in the formation of the nucleus within cells.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -17503,7 +17503,7 @@ gene-symbol: gene-symbol LEMD3
 name: name LEM domain containing 3
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/LEMD3
 db-key-list: text-list   text text-role html  function html:p            html:p                        html:p
-published: html:i LEMD3   The LEMD3 protein helps control two chemical signaling pathways called the transforming growth factor beta (TGF-) pathway and the bone morphogenic protein (BMP) pathway. Signaling through these pathways turns on (activates) proteins called Smads, which attach (bind) to specific areas of DNA to activate certain genes. The TGF-and BMP pathways regulate various cellular processes, including cell growth and division (proliferation), the process by which cells mature to carry out special functions (differentiation), and the self-destruction of cells (apoptosis). These pathways are also involved in the growth of new bone. The LEMD3 protein interacts with Smads to reduce signaling through the BMP and TGF-pathways. In this way, the LEMD3 protein helps keep signaling at normal levels within the cell.
+published: html:i LEMD3   The LEMD3 protein helps control two chemical signaling pathways called the transforming growth factor beta (TGF-β) pathway and the bone morphogenic protein (BMP) pathway. Signaling through these pathways turns on (activates) proteins called Smads, which attach (bind) to specific areas of DNA to activate certain genes. The TGF-βand BMP pathways regulate various cellular processes, including cell growth and division (proliferation), the process by which cells mature to carry out special functions (differentiation), and the self-destruction of cells (apoptosis). These pathways are also involved in the growth of new bone. The LEMD3 protein interacts with Smads to reduce signaling through the BMP and TGF-βpathways. In this way, the LEMD3 protein helps keep signaling at normal levels within the cell.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -20359,7 +20359,7 @@ gene-symbol: gene-symbol MYH7
 name: name myosin heavy chain 7
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/MYH7
 db-key-list: text-list   text text-role html  function html:p                        html:p                     html:p
-published: html:i MYH7       In cardiac and skeletal muscle cells, the-myosin heavy chain forms part of a larger protein called type II myosin. Each type II myosin protein consists of html:i MYH7    Type II myosin generates the mechanical force that is needed for muscles to contract. It is integral to muscle cell structures called sarcomeres, which are the basic units of muscle contraction. Sarcomeres are composed of thick filaments made up of type II myosin and thin filaments made up of actin. The overlapping thick and thin filaments attach to each other and release, which allows the filaments to move relative to one another so that muscles can contract. In the heart, regular contractions of cardiac muscle pump blood to the rest of the body. The coordinated contraction and relaxation of skeletal muscles allow the body to move.
+published: html:i MYH7       In cardiac and skeletal muscle cells, theβ-myosin heavy chain forms part of a larger protein called type II myosin. Each type II myosin protein consists of html:i MYH7    Type II myosin generates the mechanical force that is needed for muscles to contract. It is integral to muscle cell structures called sarcomeres, which are the basic units of muscle contraction. Sarcomeres are composed of thick filaments made up of type II myosin and thin filaments made up of actin. The overlapping thick and thin filaments attach to each other and release, which allows the filaments to move relative to one another so that muscles can contract. In the heart, regular contractions of cardiac muscle pump blood to the rest of the body. The coordinated contraction and relaxation of skeletal muscles allow the body to move.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -20775,7 +20775,7 @@ gene-symbol: gene-symbol NCSTN
 name: name nicastrin
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/NCSTN
 db-key-list: text-list   text text-role html  function html:p         html:p
-published: html:i NCSTN  The-secretase complex is located in the membrane that surrounds cells, where it cuts apart (cleaves) many different proteins that span the cell membrane (transmembrane proteins). This cleavage is an important step in several chemical signaling pathways that transmit signals from outside the cell into the nucleus. One of these pathways, known as Notch signaling, is essential for the normal maturation and division of hair follicle cells and other types of skin cells. Notch signaling is also involved in normal immune system function.
+published: html:i NCSTN  Theγ-secretase complex is located in the membrane that surrounds cells, where it cuts apart (cleaves) many different proteins that span the cell membrane (transmembrane proteins). This cleavage is an important step in several chemical signaling pathways that transmit signals from outside the cell into the nucleus. One of these pathways, known as Notch signaling, is essential for the normal maturation and division of hair follicle cells and other types of skin cells. Notch signaling is also involved in normal immune system function.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -21622,8 +21622,8 @@ gene-summary: gene-summary
 gene-symbol: gene-symbol NPHP4
 name: name nephrocystin 4
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/NPHP4
-db-key-list: related-health-condition-list   related-health-condition name ghr-page  nephronophthisis https://ghr.nlm.nih.gov/condition/nephronophthisis             related-health-condition name ghr-page  Senior-Lken syndrome https://ghr.nlm.nih.gov/condition/senior-loken-syndrome
-published: frequency Nephronophthisis is found in populations worldwide. It occurs in an estimated 1 in 50,000 newborns in Canada, 1 in 100,000 in Finland, and 1 in 922,000 in the United States. Its incidence in other populations is unknown. Nephronophthisis is the most common genetic cause of ESRD in children and young adults. frequency Senior-Lken syndrome is a rare disorder, with an estimated prevalence of about 1 in 1 million people worldwide. Only a few families with the condition have been described in the medical literature.
+db-key-list: related-health-condition-list   related-health-condition name ghr-page  nephronophthisis https://ghr.nlm.nih.gov/condition/nephronophthisis             related-health-condition name ghr-page  Senior-Løken syndrome https://ghr.nlm.nih.gov/condition/senior-loken-syndrome
+published: frequency Nephronophthisis is found in populations worldwide. It occurs in an estimated 1 in 50,000 newborns in Canada, 1 in 100,000 in Finland, and 1 in 922,000 in the United States. Its incidence in other populations is unknown. Nephronophthisis is the most common genetic cause of ESRD in children and young adults. frequency Senior-Løken syndrome is a rare disorder, with an estimated prevalence of about 1 in 1 million people worldwide. Only a few families with the condition have been described in the medical literature.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -22303,7 +22303,7 @@ gene-symbol: gene-symbol OPRM1
 name: name opioid receptor mu 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/OPRM1
 db-key-list: text-list   text text-role html  function html:p                           html:p                        html:p
-published: html:i OPRM1        Theopioid receptor was the first opioid receptor to be discovered. It is the primary receptor for endogenous opioids called beta-endorphin and enkephalins, which help regulate the body's response to pain, among other functions. The opioid receptor is also the binding site for many opioids introduced from outside the body (called exogenous opioids). These include commonly prescribed pain medications such as oxycodone, fentanyl, buprenorphine, methadone, oxymorphone, hydrocodone, codeine, and morphine, as well as illegal opioid drugs such as heroin. When endogenous or exogenous opioids bind to theopioid receptor, the interaction triggers a cascade of chemical signals in the nervous system. These signals reduce the activity (excitability) of neurons in certain areas of the brain, which leads to pain relief and feelings of pleasure and intense happiness (euphoria). In addition, the chemical signaling ultimately increases the production of a chemical called dopamine. Dopamine is a chemical messenger (neurotransmitter) that helps regulate areas of the brain involved in reward-seeking behavior, attention, and mood.
+published: html:i OPRM1        Theμopioid receptor was the first opioid receptor to be discovered. It is the primary receptor for endogenous opioids called beta-endorphin and enkephalins, which help regulate the body's response to pain, among other functions. Theμ opioid receptor is also the binding site for many opioids introduced from outside the body (called exogenous opioids). These include commonly prescribed pain medications such as oxycodone, fentanyl, buprenorphine, methadone, oxymorphone, hydrocodone, codeine, and morphine, as well as illegal opioid drugs such as heroin. When endogenous or exogenous opioids bind to theμopioid receptor, the interaction triggers a cascade of chemical signals in the nervous system. These signals reduce the activity (excitability) of neurons in certain areas of the brain, which leads to pain relief and feelings of pleasure and intense happiness (euphoria). In addition, the chemical signaling ultimately increases the production of a chemical called dopamine. Dopamine is a chemical messenger (neurotransmitter) that helps regulate areas of the brain involved in reward-seeking behavior, attention, and mood.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -23007,7 +23007,7 @@ gene-symbol: gene-symbol PDGFRB
 name: name platelet derived growth factor receptor beta
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/PDGFRB
 db-key-list: text-list   text text-role html  function html:p                              html:p
-published: html:i PDGFRB         The signaling pathways stimulated by the PDGFRprotein control many important processes in the cell such as growth and division (proliferation), movement, and survival. PDGFRprotein signaling is important for the development of many types of cells throughout the body.
+published: html:i PDGFRB         The signaling pathways stimulated by the PDGFRβprotein control many important processes in the cell such as growth and division (proliferation), movement, and survival. PDGFRβprotein signaling is important for the development of many types of cells throughout the body.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -24063,7 +24063,7 @@ gene-symbol: gene-symbol PMP22
 name: name peripheral myelin protein 22
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/PMP22
 db-key-list: text-list   text text-role html  function html:p            html:p                                    html:p
-published: html:i PMP22   The PMP22 protein is a component of myelin, a protective substance that covers nerves and promotes the efficient transmission of nerve impulses. The protein is produced primarily by specialized cells called Schwann cells that wrap around and insulate nerves. Within Schwann cells, PMP22 plays a crucial role in the development and maintenance of myelin. Studies suggest that the PMP22 protein is particularly important in protecting nerves from physical pressure, helping them restore their structure after compression. Compression can interrupt nerve signaling, leading to the sensation commonly referred to as a limbfalling asleep.The ability of nerves to recover from normal, day-to-day compression, for example when sitting for long periods, keeps the limbs from constantly html:i PMP22 Before it becomes part of myelin, newly produced PMP22 protein is processed and packaged in specialized cell structures called the endoplasmic reticulum and the Golgi apparatus. Completion of these processing and packaging steps is critical for proper myelin function.
+published: html:i PMP22   The PMP22 protein is a component of myelin, a protective substance that covers nerves and promotes the efficient transmission of nerve impulses. The protein is produced primarily by specialized cells called Schwann cells that wrap around and insulate nerves. Within Schwann cells, PMP22 plays a crucial role in the development and maintenance of myelin. Studies suggest that the PMP22 protein is particularly important in protecting nerves from physical pressure, helping them restore their structure after compression. Compression can interrupt nerve signaling, leading to the sensation commonly referred to as a limb"falling asleep."The ability of nerves to recover from normal, day-to-day compression, for example when sitting for long periods, keeps the limbs from constantly html:i PMP22 Before it becomes part of myelin, newly produced PMP22 protein is processed and packaged in specialized cell structures called the endoplasmic reticulum and the Golgi apparatus. Completion of these processing and packaging steps is critical for proper myelin function.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -24279,7 +24279,7 @@ gene-symbol: gene-symbol POLG
 name: name DNA polymerase gamma, catalytic subunit
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/POLG
 db-key-list: text-list   text text-role html  function html:p                     html:p
-published: html:i POLG      Polfunctions in mitochondria. Mitochondria are structures within cells in which a process called oxidative phosphorylation converts the energy from food into a form that cells can use. Mitochondria each contain a small amount of DNA, known as mitochondrial DNA (mtDNA), which is essential for the normal function of these structures. Polis the only DNA polymerase that is active in mitochondria and that can replicate mtDNA.
+published: html:i POLG      Polγfunctions in mitochondria. Mitochondria are structures within cells in which a process called oxidative phosphorylation converts the energy from food into a form that cells can use. Mitochondria each contain a small amount of DNA, known as mitochondrial DNA (mtDNA), which is essential for the normal function of these structures. Polγis the only DNA polymerase that is active in mitochondria and that can replicate mtDNA.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -24295,7 +24295,7 @@ gene-symbol: gene-symbol POLH
 name: name DNA polymerase eta
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/POLH
 db-key-list: text-list   text text-role html  function html:p               html:p                              html:p
-published: html:i POLH    The major function of DNA polymerase eta is to replicate DNA that has been damaged, particularly by ultraviolet (UV) rays from sunlight. Most other DNA polymerases are unable to replicate DNA with this type of damage. When they reach a segment of damaged DNA, they get stuck and the replication process stalls. However, when DNA polymerase eta encounters damaged DNA, it skips over the abnormal segment and continues copying. This activity, which is known as translesion synthesis, allows cells to tolerate some abnormalities created by UV exposure. Without this tolerance, unrepaired DNA damage would block DNA replication and cause the cell to die. Therefore, DNA polymerase eta plays an essential role in protecting cells from some of the effects of DNA damage. DNA polymerase eta is a relativelyerror-pronepolymerase. When it bypasses damaged DNA, it often inserts an incorrect DNA building block (nucleotide). This type of error results in a mutation in the replicated DNA.
+published: html:i POLH    The major function of DNA polymerase eta is to replicate DNA that has been damaged, particularly by ultraviolet (UV) rays from sunlight. Most other DNA polymerases are unable to replicate DNA with this type of damage. When they reach a segment of damaged DNA, they get stuck and the replication process stalls. However, when DNA polymerase eta encounters damaged DNA, it skips over the abnormal segment and continues copying. This activity, which is known as translesion synthesis, allows cells to tolerate some abnormalities created by UV exposure. Without this tolerance, unrepaired DNA damage would block DNA replication and cause the cell to die. Therefore, DNA polymerase eta plays an essential role in protecting cells from some of the effects of DNA damage. DNA polymerase eta is a relatively"error-prone"polymerase. When it bypasses damaged DNA, it often inserts an incorrect DNA building block (nucleotide). This type of error results in a mutation in the replicated DNA.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -24343,7 +24343,7 @@ gene-symbol: gene-symbol POMC
 name: name proopiomelanocortin
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/POMC
 db-key-list: text-list   text text-role html  function html:p               html:p            html:p                  html:p               html:p            html:p
-published: html:i POMC    One peptide produced from the POMC protein is called adrenocorticotropic hormone (ACTH). ACTH binds to melanocortin 2 receptor (MC2R), stimulating the release of a hormone called cortisol. This hormone helps maintain blood sugar levels, protects the body from stress, and stops (suppresses) inflammation. Three similar peptides called alpha-, beta-, and gamma-melanocyte stimulating hormones (-,-, and-MSH) are also cut from the POMC protein. The primary role of-MSH is in the pigment-producing cells of the skin and hair (melanocytes), where it binds to melanocortin 1 receptor (MC1R). This attachment stimulates the production and release of a pigment called melanin, which is the substance that gives skin and hair their color. The-MSH peptide plays a role in weight regulation by binding to melanocortin 4 receptor (MC4R). Signaling through this receptor in the brain helps maintain the balance between energy from food taken into the body and energy spent by the body. The correct balance is important to control eating and weight. The-MSH peptide can also bind to MC4R and help maintain the correct energy balance. Studies show that-MSH binds to melanocortin 3 receptor (MC3R). Signaling stimulated by this interaction appears to be involved in regulating the amount of sodium in the body and controlling blood pressure, although the mechanism is unclear. Another peptide produced from POMC is-endorphin. Attachment of-endorphin to proteins in the brain called opioid receptors stimulates signaling for pain relief.
+published: html:i POMC    One peptide produced from the POMC protein is called adrenocorticotropic hormone (ACTH). ACTH binds to melanocortin 2 receptor (MC2R), stimulating the release of a hormone called cortisol. This hormone helps maintain blood sugar levels, protects the body from stress, and stops (suppresses) inflammation. Three similar peptides called alpha-, beta-, and gamma-melanocyte stimulating hormones (α-,β-, andγ-MSH) are also cut from the POMC protein. The primary role ofα-MSH is in the pigment-producing cells of the skin and hair (melanocytes), where it binds to melanocortin 1 receptor (MC1R). This attachment stimulates the production and release of a pigment called melanin, which is the substance that gives skin and hair their color. Theβ-MSH peptide plays a role in weight regulation by binding to melanocortin 4 receptor (MC4R). Signaling through this receptor in the brain helps maintain the balance between energy from food taken into the body and energy spent by the body. The correct balance is important to control eating and weight. Theα-MSH peptide can also bind to MC4R and help maintain the correct energy balance. Studies show thatγ-MSH binds to melanocortin 3 receptor (MC3R). Signaling stimulated by this interaction appears to be involved in regulating the amount of sodium in the body and controlling blood pressure, although the mechanism is unclear. Another peptide produced from POMC isβ-endorphin. Attachment ofβ-endorphin to proteins in the brain called opioid receptors stimulates signaling for pain relief.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -24383,7 +24383,7 @@ gene-symbol: gene-symbol POMT1
 name: name protein O-mannosyltransferase 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/POMT1
 db-key-list: text-list   text text-role html  function html:p               html:p            html:p
-published: html:i POMT1    The POMT complex helps modify a protein called alpha ()-dystroglycan. Specifically, this complex adds a sugar molecule called mannose to -dystroglycan through a process called glycosylation. Glycosylation is critical for the normal function of-dystroglycan. The-dystroglycan protein helps anchor the structural framework inside each cell (cytoskeleton) to the lattice of proteins and other molecules outside the cell (extracellular matrix). In skeletal muscles, glycosylated-dystroglycan helps stabilize and protect muscle fibers. In the brain, it helps direct the movement (migration) of nerve cells (neurons) during early development.
+published: html:i POMT1    The POMT complex helps modify a protein called alpha (α)-dystroglycan. Specifically, this complex adds a sugar molecule called mannose to α-dystroglycan through a process called glycosylation. Glycosylation is critical for the normal function ofα-dystroglycan. Theα-dystroglycan protein helps anchor the structural framework inside each cell (cytoskeleton) to the lattice of proteins and other molecules outside the cell (extracellular matrix). In skeletal muscles, glycosylatedα-dystroglycan helps stabilize and protect muscle fibers. In the brain, it helps direct the movement (migration) of nerve cells (neurons) during early development.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -24391,7 +24391,7 @@ gene-symbol: gene-symbol POMT2
 name: name protein O-mannosyltransferase 2
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/POMT2
 db-key-list: text-list   text text-role html  function html:p               html:p            html:p
-published: html:i POMT2    The POMT complex helps modify a protein called alpha ()-dystroglycan. Specifically, this complex adds a sugar molecule called mannose to -dystroglycan through a process called glycosylation. Glycosylation is critical for the normal function of-dystroglycan. The-dystroglycan protein helps anchor the structural framework inside each cell (cytoskeleton) to the lattice of proteins and other molecules outside the cell (extracellular matrix). In skeletal muscles, glycosylated-dystroglycan helps stabilize and protect muscle fibers. In the brain, it helps direct the movement (migration) of nerve cells (neurons) during early development.
+published: html:i POMT2    The POMT complex helps modify a protein called alpha (α)-dystroglycan. Specifically, this complex adds a sugar molecule called mannose to α-dystroglycan through a process called glycosylation. Glycosylation is critical for the normal function ofα-dystroglycan. Theα-dystroglycan protein helps anchor the structural framework inside each cell (cytoskeleton) to the lattice of proteins and other molecules outside the cell (extracellular matrix). In skeletal muscles, glycosylatedα-dystroglycan helps stabilize and protect muscle fibers. In the brain, it helps direct the movement (migration) of nerve cells (neurons) during early development.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -24591,7 +24591,7 @@ gene-symbol: gene-symbol PPP2R5D
 name: name protein phosphatase 2 regulatory subunit B'delta
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/PPP2R5D
 db-key-list: text-list   text text-role html  function html:p                     html:p
-published: html:i PPP2R5D      PP2A removes phosphate groups from proteins that are part of signaling pathways involved in cell growth and turning genes on and off. PP2A enzymes containing the B56protein are found mainly in the brain, where they are thought to be primarily involved in controlling the activity of signaling pathways that play roles in the normal development and function of nerve cells (neurons).
+published: html:i PPP2R5D      PP2A removes phosphate groups from proteins that are part of signaling pathways involved in cell growth and turning genes on and off. PP2A enzymes containing the B56δprotein are found mainly in the brain, where they are thought to be primarily involved in controlling the activity of signaling pathways that play roles in the normal development and function of nerve cells (neurons).
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -25103,7 +25103,7 @@ gene-symbol: gene-symbol PSEN1
 name: name presenilin 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/PSEN1
 db-key-list: text-list   text text-role html  function html:p                  html:p                     html:p
-published: html:i PSEN1     The-secretase complex is located in the membrane that surrounds cells, where it cleaves many different proteins that span the cell membrane (transmembrane proteins). This cleavage is an important step in several chemical signaling pathways that transmit signals from outside the cell into the nucleus. One of these pathways, known as Notch signaling, is essential for the normal maturation and division of hair follicle cells and other types of skin cells. Notch signaling is also involved in normal immune system function. The-secretase complex may be best known for its role in processing amyloid precursor protein (APP), which is made in the brain and other tissues. -secretase cuts APP into smaller peptides, including soluble amyloid precursor protein (sAPP) and several versions of amyloid-beta () peptide. Evidence suggests that sAPP has growth-promoting properties and may play a role in the formation of nerve cells (neurons) in the brain both before and after birth. Other functions of sAPP and amyloid-peptide are under investigation.
+published: html:i PSEN1     Theγ-secretase complex is located in the membrane that surrounds cells, where it cleaves many different proteins that span the cell membrane (transmembrane proteins). This cleavage is an important step in several chemical signaling pathways that transmit signals from outside the cell into the nucleus. One of these pathways, known as Notch signaling, is essential for the normal maturation and division of hair follicle cells and other types of skin cells. Notch signaling is also involved in normal immune system function. Theγ-secretase complex may be best known for its role in processing amyloid precursor protein (APP), which is made in the brain and other tissues. γ-secretase cuts APP into smaller peptides, including soluble amyloid precursor protein (sAPP) and several versions of amyloid-beta (β) peptide. Evidence suggests that sAPP has growth-promoting properties and may play a role in the formation of nerve cells (neurons) in the brain both before and after birth. Other functions of sAPP and amyloid-βpeptide are under investigation.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -25119,7 +25119,7 @@ gene-symbol: gene-symbol PSENEN
 name: name presenilin enhancer gamma-secretase subunit
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/PSENEN
 db-key-list: text-list   text text-role html  function html:p               html:p
-published: html:i PSENEN    The-secretase complex is located in the membrane that surrounds cells, where it cuts apart (cleaves) many different proteins that span the cell membrane (transmembrane proteins). This cleavage is an important step in several chemical signaling pathways that transmit signals from outside the cell into the nucleus. One of these pathways, known as Notch signaling, is essential for the normal maturation and division of hair follicle cells and other types of skin cells. Notch signaling is also involved in normal immune system function.
+published: html:i PSENEN    Theγ-secretase complex is located in the membrane that surrounds cells, where it cuts apart (cleaves) many different proteins that span the cell membrane (transmembrane proteins). This cleavage is an important step in several chemical signaling pathways that transmit signals from outside the cell into the nucleus. One of these pathways, known as Notch signaling, is essential for the normal maturation and division of hair follicle cells and other types of skin cells. Notch signaling is also involved in normal immune system function.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -25423,7 +25423,7 @@ gene-symbol: gene-symbol PURA
 name: name purine rich element binding protein A
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/PURA
 db-key-list: text-list   text text-role html  function html:p            html:p
-published: html:i PURA   The Purprotein is important for normal brain development. The protein helps direct the growth and division of nerve cells (neurons). It may also be involved in the formation or maturation of myelin, the protective substance that covers nerves and promotes the efficient transmission of nerve impulses.
+published: html:i PURA   The Purαprotein is important for normal brain development. The protein helps direct the growth and division of nerve cells (neurons). It may also be involved in the formation or maturation of myelin, the protective substance that covers nerves and promotes the efficient transmission of nerve impulses.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -25743,7 +25743,7 @@ gene-symbol: gene-symbol RARA
 name: name retinoic acid receptor alpha
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/RARA
 db-key-list: text-list   text text-role html  function html:p                  html:p
-published: html:i RARA     The RARprotein binds to specific regions of DNA and attracts other proteins that help block (repress) gene transcription, the first step in protein production. In response to a specific signal, the repressive proteins are removed and other proteins that induce gene transcription bind to the RAR protein, allowing gene transcription and cell differentiation.
+published: html:i RARA     The RARαprotein binds to specific regions of DNA and attracts other proteins that help block (repress) gene transcription, the first step in protein production. In response to a specific signal, the repressive proteins are removed and other proteins that induce gene transcription bind to the RARα protein, allowing gene transcription and cell differentiation.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -26959,7 +26959,7 @@ gene-symbol: gene-symbol RUNX2
 name: name runt related transcription factor 2
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/RUNX2
 db-key-list: text-list   text text-role html  function html:p                  html:p
-published: html:i RUNX2     The RUNX2 protein is a transcription factor, which means it attaches (binds) to specific regions of DNA and helps control the activity of particular genes. Researchers believe that the RUNX2 protein acts as amaster switch,regulating a number of other genes involved in the development of cells that build bones (osteoblasts) and in the development of teeth.
+published: html:i RUNX2     The RUNX2 protein is a transcription factor, which means it attaches (binds) to specific regions of DNA and helps control the activity of particular genes. Researchers believe that the RUNX2 protein acts as a"master switch,"regulating a number of other genes involved in the development of cells that build bones (osteoblasts) and in the development of teeth.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -27374,8 +27374,8 @@ gene-summary: gene-summary
 gene-symbol: gene-symbol SDCCAG8
 name: name serologically defined colon cancer antigen 8
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/SDCCAG8
-db-key-list: related-health-condition-list   related-health-condition name ghr-page  Senior-Lken syndrome https://ghr.nlm.nih.gov/condition/senior-loken-syndrome
-published: frequency Senior-Lken syndrome is a rare disorder, with an estimated prevalence of about 1 in 1 million people worldwide. Only a few families with the condition have been described in the medical literature.
+db-key-list: related-health-condition-list   related-health-condition name ghr-page  Senior-Løken syndrome https://ghr.nlm.nih.gov/condition/senior-loken-syndrome
+published: frequency Senior-Løken syndrome is a rare disorder, with an estimated prevalence of about 1 in 1 million people worldwide. Only a few families with the condition have been described in the medical literature.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -28079,7 +28079,7 @@ gene-symbol: gene-symbol SKI
 name: name SKI proto-oncogene
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/SKI
 db-key-list: text-list   text text-role html  function html:p                                 html:p                  html:p
-published: html:i SKI          The SKI protein controls the activity of the TGF-pathway by binding to certain SMAD proteins, which interrupts signaling through the pathway. SKI protein binding within the cell can keep the SMAD protein complex from entering the nucleus, so it is unable to activate genes. Binding of the SKI protein can also occur in the nucleus. Although the SMAD complex binds to DNA, the SKI protein attracts other proteins (corepressors) that block its ability to turn genes on. The SKI protein is found in many cell types throughout the body and appears to play a role in the development of many tissues, including the skull, other bones, skin, and brain.
+published: html:i SKI          The SKI protein controls the activity of the TGF-βpathway by binding to certain SMAD proteins, which interrupts signaling through the pathway. SKI protein binding within the cell can keep the SMAD protein complex from entering the nucleus, so it is unable to activate genes. Binding of the SKI protein can also occur in the nucleus. Although the SMAD complex binds to DNA, the SKI protein attracts other proteins (corepressors) that block its ability to turn genes on. The SKI protein is found in many cell types throughout the body and appears to play a role in the development of many tissues, including the skull, other bones, skin, and brain.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -28527,7 +28527,7 @@ gene-symbol: gene-symbol SLC2A10
 name: name solute carrier family 2 member 10
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/SLC2A10
 db-key-list: text-list   text text-role html  function html:p                  html:p                              html:p
-published: html:i SLC2A10     The level of GLUT10 appears to be involved in the regulation of a process called the transforming growth factor-beta (TGF-) signaling pathway. This pathway is involved in cell growth and division (proliferation) and the process by which cells mature to carry out special functions (differentiation). The TGF- signaling pathway is also involved in bone and blood vessel development and the formation of the extracellular matrix, an intricate lattice of proteins and other molecules that forms in the spaces between cells and defines the structure and properties of connective tissues. Connective tissue provides strength and flexibility to structures throughout the body, including blood vessels, skin, joints, and the gastrointestinal tract. Studies indicate that GLUT10 may also be involved in the functioning of mitochondria, the energy-producing centers within cells.
+published: html:i SLC2A10     The level of GLUT10 appears to be involved in the regulation of a process called the transforming growth factor-beta (TGF-β) signaling pathway. This pathway is involved in cell growth and division (proliferation) and the process by which cells mature to carry out special functions (differentiation). The TGF-β signaling pathway is also involved in bone and blood vessel development and the formation of the extracellular matrix, an intricate lattice of proteins and other molecules that forms in the spaces between cells and defines the structure and properties of connective tissues. Connective tissue provides strength and flexibility to structures throughout the body, including blood vessels, skin, joints, and the gastrointestinal tract. Studies indicate that GLUT10 may also be involved in the functioning of mitochondria, the energy-producing centers within cells.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -29055,7 +29055,7 @@ gene-symbol: gene-symbol SLURP1
 name: name secreted LY6/PLAUR domain containing 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/SLURP1
 db-key-list: text-list   text text-role html  function html:p                     html:p
-published: html:i SLURP1      Laboratory studies show that SLURP-1 can bind to nicotinic acetylcholine receptors (nAChRs). SLURP-1 specifically interacts with the alpha7 (7) subunit, which is a piece of some nAChRs. Nicotinic acetylcholine receptors are best known for their role in chemical signaling between nerve cells, but they are also found in other tissues. In the skin, nAChRs regulate the activity of genes involved in the growth and division (proliferation), maturation (differentiation), and survival of cells. Through its interaction with these receptors, SLURP-1 may be involved in skin growth and development.
+published: html:i SLURP1      Laboratory studies show that SLURP-1 can bind to nicotinic acetylcholine receptors (nAChRs). SLURP-1 specifically interacts with the alpha7 (α7) subunit, which is a piece of some nAChRs. Nicotinic acetylcholine receptors are best known for their role in chemical signaling between nerve cells, but they are also found in other tissues. In the skin, nAChRs regulate the activity of genes involved in the growth and division (proliferation), maturation (differentiation), and survival of cells. Through its interaction with these receptors, SLURP-1 may be involved in skin growth and development.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -30790,7 +30790,7 @@ gene-summary: gene-summary
 gene-symbol: gene-symbol TBX6
 name: name T-box 6
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TBX6
-db-key-list: related-health-condition-list   related-health-condition name ghr-page  Mayer-Rokitansky-Kster-Hauser syndrome https://ghr.nlm.nih.gov/condition/mayer-rokitansky-kuster-hauser-syndrome related-health-condition name ghr-page  spondylocostal dysostosis https://ghr.nlm.nih.gov/condition/spondylocostal-dysostosis
+db-key-list: related-health-condition-list   related-health-condition name ghr-page  Mayer-Rokitansky-Küster-Hauser syndrome https://ghr.nlm.nih.gov/condition/mayer-rokitansky-kuster-hauser-syndrome related-health-condition name ghr-page  spondylocostal dysostosis https://ghr.nlm.nih.gov/condition/spondylocostal-dysostosis
 published: frequency MRKH syndrome affects approximately 1 in 4,500 newborn girls. frequency Spondylocostal dysostosis is a rare condition, although its exact prevalence is unknown.
 
 Record-Type: gene-withFreq
@@ -31103,7 +31103,7 @@ gene-symbol: gene-symbol TFAP2A
 name: name transcription factor AP-2 alpha
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TFAP2A
 db-key-list: text-list   text text-role html  function html:p                     html:p
-published: html:i TFAP2A      Transcription factor AP-2is involved in development before birth. In particular, this protein is active in the neural crest, which is a group of cells in the early embryo that give rise to many tissues and organs. Among the embryonic structures formed from neural crest cells are the branchial arches, html:i TFAP2A
+published: html:i TFAP2A      Transcription factor AP-2αis involved in development before birth. In particular, this protein is active in the neural crest, which is a group of cells in the early embryo that give rise to many tissues and organs. Among the embryonic structures formed from neural crest cells are the branchial arches, html:i TFAP2A
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -31111,7 +31111,7 @@ gene-symbol: gene-symbol TFAP2B
 name: name transcription factor AP-2 beta
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TFAP2B
 db-key-list: text-list   text text-role html  function html:p                  html:p
-published: html:i TFAP2B     Transcription factor AP-2is involved in development before birth. In particular, this protein is active in the neural crest, which is a group of cells in the early embryo that give rise to many tissues and organs. Neural crest cells migrate to form portions of the nervous system, glands that produce hormones (endocrine glands), pigment cells, smooth muscle and other tissues in the heart, and many tissues in the face and skull. Transcription factor AP-2 also appears to play an important role in the development of the limbs.
+published: html:i TFAP2B     Transcription factor AP-2βis involved in development before birth. In particular, this protein is active in the neural crest, which is a group of cells in the early embryo that give rise to many tissues and organs. Neural crest cells migrate to form portions of the nervous system, glands that produce hormones (endocrine glands), pigment cells, smooth muscle and other tissues in the heart, and many tissues in the face and skull. Transcription factor AP-2β also appears to play an important role in the development of the limbs.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -31175,7 +31175,7 @@ gene-symbol: gene-symbol TGFB1
 name: name transforming growth factor beta 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TGFB1
 db-key-list: text-list   text text-role html  function html:p                  html:p
-published: html:i TGFB1     The TGF-1 protein is found throughout the body but is particularly abundant in tissues that make up the skeleton, where it helps regulate the formation and growth of bone and cartilage, a tough, flexible tissue that makes up much of the skeleton during early development. TGF-1 is also involved in the formation of blood vessels, development of muscle tissue and body fat, wound healing, inflammatory processes in the immune system, and prevention of tumor growth.
+published: html:i TGFB1     The TGFβ-1 protein is found throughout the body but is particularly abundant in tissues that make up the skeleton, where it helps regulate the formation and growth of bone and cartilage, a tough, flexible tissue that makes up much of the skeleton during early development. TGFβ-1 is also involved in the formation of blood vessels, development of muscle tissue and body fat, wound healing, inflammatory processes in the immune system, and prevention of tumor growth.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -31183,7 +31183,7 @@ gene-symbol: gene-symbol TGFB2
 name: name transforming growth factor beta 2
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TGFB2
 db-key-list: text-list   text text-role html  function html:p                                    html:p
-published: html:i TGFB2           The TGF-2 protein plays a role in the formation of blood vessels, the regulation of muscle tissue and body fat development, wound healing, and immune system function. TGF-2 is especially abundant in tissues that make up the skeleton, where it helps regulate bone growth, and in the intricate lattice that forms in the spaces between cells (the extracellular matrix).
+published: html:i TGFB2           The TGFβ-2 protein plays a role in the formation of blood vessels, the regulation of muscle tissue and body fat development, wound healing, and immune system function. TGFβ-2 is especially abundant in tissues that make up the skeleton, where it helps regulate bone growth, and in the intricate lattice that forms in the spaces between cells (the extracellular matrix).
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -31191,7 +31191,7 @@ gene-symbol: gene-symbol TGFB3
 name: name transforming growth factor beta 3
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TGFB3
 db-key-list: text-list   text text-role html  function html:p                                    html:p
-published: html:i TGFB3           The TGF-3 protein is especially abundant in tissues that develop into the muscles used for movement (skeletal muscles), and plays a key role in their development. The protein is also involved in the formation of blood vessels, regulation of bone growth, wound healing, and immune system function.
+published: html:i TGFB3           The TGFβ-3 protein is especially abundant in tissues that develop into the muscles used for movement (skeletal muscles), and plays a key role in their development. The protein is also involved in the formation of blood vessels, regulation of bone growth, wound healing, and immune system function.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -31207,7 +31207,7 @@ gene-symbol: gene-symbol TGFBR1
 name: name transforming growth factor beta receptor 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TGFBR1
 db-key-list: text-list   text text-role html  function html:p               html:p                        html:p
-published: html:i TGFBR1    To carry out its signaling function, TGF-receptor type 1 spans the cell membrane, so that one end of the protein projects from the outer surface of the cell (the extracellular domain) and the other end remains inside the cell (the intracellular domain). A protein called TGF-attaches (binds) to the extracellular domain of TGF-receptor type 1, which turns on (activates) the receptor and allows it to bind to another receptor on the cell surface. These three proteins form a complex, which triggers signal transduction by activating other proteins in a signaling pathway called the TGF-pathway. Signals transmitted by the TGF-receptor complex trigger various responses by the cell, including the growth and division (proliferation) of cells, the maturation of cells to carry out specific functions (differentiation), cell movement (motility), and controlled cell death (apoptosis). Because TGF- receptor type 1 helps prevent cells from growing and dividing too rapidly or in an uncontrolled way, it can suppress the formation of tumors.
+published: html:i TGFBR1    To carry out its signaling function, TGF-βreceptor type 1 spans the cell membrane, so that one end of the protein projects from the outer surface of the cell (the extracellular domain) and the other end remains inside the cell (the intracellular domain). A protein called TGF-βattaches (binds) to the extracellular domain of TGF-βreceptor type 1, which turns on (activates) the receptor and allows it to bind to another receptor on the cell surface. These three proteins form a complex, which triggers signal transduction by activating other proteins in a signaling pathway called the TGF-βpathway. Signals transmitted by the TGF-βreceptor complex trigger various responses by the cell, including the growth and division (proliferation) of cells, the maturation of cells to carry out specific functions (differentiation), cell movement (motility), and controlled cell death (apoptosis). Because TGF-β receptor type 1 helps prevent cells from growing and dividing too rapidly or in an uncontrolled way, it can suppress the formation of tumors.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -31215,7 +31215,7 @@ gene-symbol: gene-symbol TGFBR2
 name: name transforming growth factor beta receptor 2
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TGFBR2
 db-key-list: text-list   text text-role html  function html:p               html:p                        html:p
-published: html:i TGFBR2    To carry out its signaling function, the TGF-receptor type 2 spans the cell membrane, so that one end of the protein projects from the outer surface of the cell (the extracellular domain) and the other end remains inside the cell (the intracellular domain). A protein called TGF-attaches (binds) to the extracellular domain of the TGF-receptor type 2, which turns on (activates) the receptor and allows it to bind to another receptor on the cell surface. These three proteins form a complex, which triggers signal transduction by activating other proteins in a signaling pathway called the TGF-pathway. Signals transmitted by the TGF-receptor complex trigger various responses by the cell, including the growth and division (proliferation) of cells, the maturation of cells to carry out specific functions (differentiation), cell movement (motility), and controlled cell death (apoptosis). Because TGF- receptor type 2 helps prevent cells from growing and dividing too rapidly or in an uncontrolled way, it can suppress the formation of tumors.
+published: html:i TGFBR2    To carry out its signaling function, the TGF-βreceptor type 2 spans the cell membrane, so that one end of the protein projects from the outer surface of the cell (the extracellular domain) and the other end remains inside the cell (the intracellular domain). A protein called TGF-βattaches (binds) to the extracellular domain of the TGF-βreceptor type 2, which turns on (activates) the receptor and allows it to bind to another receptor on the cell surface. These three proteins form a complex, which triggers signal transduction by activating other proteins in a signaling pathway called the TGF-βpathway. Signals transmitted by the TGF-βreceptor complex trigger various responses by the cell, including the growth and division (proliferation) of cells, the maturation of cells to carry out specific functions (differentiation), cell movement (motility), and controlled cell death (apoptosis). Because TGF-β receptor type 2 helps prevent cells from growing and dividing too rapidly or in an uncontrolled way, it can suppress the formation of tumors.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -31223,7 +31223,7 @@ gene-symbol: gene-symbol TGIF1
 name: name TGFB induced factor homeobox 1
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TGIF1
 db-key-list: text-list   text text-role html  function html:p                  html:p
-published: html:i TGIF1     TG-interacting factor regulates signaling pathways that are important for embryonic development. This protein blocks the signals of the transforming growth factor beta (TGF-) pathway. This signaling pathway transmits chemical signals from the cell surface to the nucleus, which allows the environment outside the cell to affect how the cell produces other proteins. TG-interacting factor also blocks a molecule called retinoic acid from regulating gene activity. Retinoic acid, a form of vitamin A, binds to a group of transcription factors that regulate a number of genes important for early development. By blocking these signaling pathways, TG-interacting factor ensures that certain genes are turned off at the proper time.
+published: html:i TGIF1     TG-interacting factor regulates signaling pathways that are important for embryonic development. This protein blocks the signals of the transforming growth factor beta (TGF-β) pathway. This signaling pathway transmits chemical signals from the cell surface to the nucleus, which allows the environment outside the cell to affect how the cell produces other proteins. TG-interacting factor also blocks a molecule called retinoic acid from regulating gene activity. Retinoic acid, a form of vitamin A, binds to a group of transcription factors that regulate a number of genes important for early development. By blocking these signaling pathways, TG-interacting factor ensures that certain genes are turned off at the proper time.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -31798,8 +31798,8 @@ gene-summary: gene-summary
 gene-symbol: gene-symbol TNF
 name: name tumor necrosis factor
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TNF
-db-key-list: related-health-condition-list   related-health-condition name ghr-page  Guillain-Barrsyndrome https://ghr.nlm.nih.gov/condition/guillain-barre-syndrome                         related-health-condition name ghr-page  idiopathic inflammatory myopathy https://ghr.nlm.nih.gov/condition/idiopathic-inflammatory-myopathy          related-health-condition name ghr-page  juvenile idiopathic arthritis https://ghr.nlm.nih.gov/condition/juvenile-idiopathic-arthritis                            related-health-condition name ghr-page  narcolepsy https://ghr.nlm.nih.gov/condition/narcolepsy
-published: frequency The prevalence of Guillain-Barrsyndrome is estimated to be 6 to 40 cases per 1 million people. The occurrence of the different types of Guillain-Barr syndrome varies across regions. AIDP is the most common type in North America and Europe, accounting for approximately 90 percent of cases of Guillain-Barr syndrome in those regions. AMAN and AMSAN together account for 30 to 50 percent of cases in Asian countries and Latin America but only 3 to 5 percent of cases in North America and Europe. Miller Fisher syndrome is also more common in Asian countries, accounting for approximately 20 percent of cases in these countries but less than 5 percent in North America and Europe. frequency The incidence of idiopathic inflammatory myopathy is approximately 2 to 8 cases per million people each year.For unknown reasons, polymyositis and dermatomyositis are about twice as common in women as in men, while sporadic inclusion body myositis is more common in men. frequency The incidence of juvenile idiopathic arthritis in North America and Europe is estimated to be 4 to 16 in 10,000 children. One in 1,000, or approximately 294,000, children in the United States are affected. The most common type of juvenile idiopathic arthritis in the United States is oligoarticular juvenile idiopathic arthritis, which accounts for about half of all cases. For reasons that are unclear, females seem to be affected with juvenile idiopathic arthritis somewhat more frequently than males. However, in enthesitis-related juvenile idiopathic arthritis males are affected more often than females. The incidence of juvenile idiopathic arthritis varies across different populations and ethnic groups. frequency Narcolepsy affects about 1 in 2,000 people in the United States and Western Europe. However, the disorder is likely underdiagnosed, particularly in people with mild symptoms. Worldwide, narcolepsy appears to be most common in Japan, where it affects an estimated 1 in 600 people.
+db-key-list: related-health-condition-list   related-health-condition name ghr-page  Guillain-Barrésyndrome https://ghr.nlm.nih.gov/condition/guillain-barre-syndrome                         related-health-condition name ghr-page  idiopathic inflammatory myopathy https://ghr.nlm.nih.gov/condition/idiopathic-inflammatory-myopathy          related-health-condition name ghr-page  juvenile idiopathic arthritis https://ghr.nlm.nih.gov/condition/juvenile-idiopathic-arthritis                            related-health-condition name ghr-page  narcolepsy https://ghr.nlm.nih.gov/condition/narcolepsy
+published: frequency The prevalence of Guillain-Barrésyndrome is estimated to be 6 to 40 cases per 1 million people. The occurrence of the different types of Guillain-Barré syndrome varies across regions. AIDP is the most common type in North America and Europe, accounting for approximately 90 percent of cases of Guillain-Barré syndrome in those regions. AMAN and AMSAN together account for 30 to 50 percent of cases in Asian countries and Latin America but only 3 to 5 percent of cases in North America and Europe. Miller Fisher syndrome is also more common in Asian countries, accounting for approximately 20 percent of cases in these countries but less than 5 percent in North America and Europe. frequency The incidence of idiopathic inflammatory myopathy is approximately 2 to 8 cases per million people each year.For unknown reasons, polymyositis and dermatomyositis are about twice as common in women as in men, while sporadic inclusion body myositis is more common in men. frequency The incidence of juvenile idiopathic arthritis in North America and Europe is estimated to be 4 to 16 in 10,000 children. One in 1,000, or approximately 294,000, children in the United States are affected. The most common type of juvenile idiopathic arthritis in the United States is oligoarticular juvenile idiopathic arthritis, which accounts for about half of all cases. For reasons that are unclear, females seem to be affected with juvenile idiopathic arthritis somewhat more frequently than males. However, in enthesitis-related juvenile idiopathic arthritis males are affected more often than females. The incidence of juvenile idiopathic arthritis varies across different populations and ethnic groups. frequency Narcolepsy affects about 1 in 2,000 people in the United States and Western Europe. However, the disorder is likely underdiagnosed, particularly in people with mild symptoms. Worldwide, narcolepsy appears to be most common in Japan, where it affects an estimated 1 in 600 people.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -31839,7 +31839,7 @@ gene-symbol: gene-symbol TNFRSF11B
 name: name TNF receptor superfamily member 11b
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TNFRSF11B
 db-key-list: text-list   text text-role html  function html:p               html:p                              html:p
-published: html:i TNFRSF11B    Osteoprotegerin is one of two receptor proteins that can attach (bind) to a protein called receptor activator of NF-B ligand (RANKL). The other receptor protein is called receptor activator of NF-B (RANK). Because RANKL can only bind to one receptor at a time, osteoprotegerin and RANK compete with one another. When RANKL is bound to RANK, it sets off a series of chemical signals that trigger immature osteoclasts to mature and become fully functional. When RANKL is bound to osteoprotegerin, it blocks these chemical signals and prevents the activation of osteoclasts. Because no chemical signals are transmitted when RANKL is attached to osteoprotegerin, osteoprotegerin is often called adecoy receptor. By reducing the amount of RANKL that is available to bind to RANK, osteoprotegerin plays a critical role in regulating the process of bone remodeling.
+published: html:i TNFRSF11B    Osteoprotegerin is one of two receptor proteins that can attach (bind) to a protein called receptor activator of NF-κB ligand (RANKL). The other receptor protein is called receptor activator of NF-κB (RANK). Because RANKL can only bind to one receptor at a time, osteoprotegerin and RANK compete with one another. When RANKL is bound to RANK, it sets off a series of chemical signals that trigger immature osteoclasts to mature and become fully functional. When RANKL is bound to osteoprotegerin, it blocks these chemical signals and prevents the activation of osteoclasts. Because no chemical signals are transmitted when RANKL is attached to osteoprotegerin, osteoprotegerin is often called a"decoy" receptor. By reducing the amount of RANKL that is available to bind to RANK, osteoprotegerin plays a critical role in regulating the process of bone remodeling.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -32055,7 +32055,7 @@ gene-symbol: gene-symbol TP53
 name: name tumor protein p53
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TP53
 db-key-list: text-list   text text-role html  function html:p            html:p                           html:p
-published: html:i TP53   The p53 protein is located in the nucleus of cells throughout the body, where it attaches (binds) directly to DNA. When the DNA in a cell becomes damaged by agents such as toxic chemicals, radiation, or ultraviolet (UV) rays from sunlight, this protein plays a critical role in determining whether the DNA will be repaired or the damaged cell will self-destruct (undergo apoptosis). If the DNA can be repaired, p53 activates other genes to fix the damage. If the DNA cannot be repaired, this protein prevents the cell from dividing and signals it to undergo apoptosis. By stopping cells with mutated or damaged DNA from dividing, p53 helps prevent the development of tumors. Because p53 is essential for regulating cell division and preventing tumor formation, it has been nicknamed theguardian of the genome.
+published: html:i TP53   The p53 protein is located in the nucleus of cells throughout the body, where it attaches (binds) directly to DNA. When the DNA in a cell becomes damaged by agents such as toxic chemicals, radiation, or ultraviolet (UV) rays from sunlight, this protein plays a critical role in determining whether the DNA will be repaired or the damaged cell will self-destruct (undergo apoptosis). If the DNA can be repaired, p53 activates other genes to fix the damage. If the DNA cannot be repaired, this protein prevents the cell from dividing and signals it to undergo apoptosis. By stopping cells with mutated or damaged DNA from dividing, p53 helps prevent the development of tumors. Because p53 is essential for regulating cell division and preventing tumor formation, it has been nicknamed the"guardian of the genome."
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -32119,7 +32119,7 @@ gene-symbol: gene-symbol TPM2
 name: name tropomyosin 2
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TPM2
 db-key-list: text-list   text text-role html  function html:p               html:p
-published: html:i TPM2    -tropomyosin is found primarily in skeletal muscles, which are the muscles used for movement. This protein helps regulate muscle contraction by interacting with other muscle proteins, particularly myosin and actin. These interactions are essential for stabilizing and maintaining structures called sarcomeres within muscle cells. Sarcomeres are the basic units of muscle contraction; they are made of proteins that generate the mechanical force needed for muscles to contract.
+published: html:i TPM2    β-tropomyosin is found primarily in skeletal muscles, which are the muscles used for movement. This protein helps regulate muscle contraction by interacting with other muscle proteins, particularly myosin and actin. These interactions are essential for stabilizing and maintaining structures called sarcomeres within muscle cells. Sarcomeres are the basic units of muscle contraction; they are made of proteins that generate the mechanical force needed for muscles to contract.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -32127,7 +32127,7 @@ gene-symbol: gene-symbol TPM3
 name: name tropomyosin 3
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TPM3
 db-key-list: text-list   text text-role html  function html:p               html:p
-published: html:i TPM3    Slow muscle-tropomyosin is found in skeletal muscles, which are the muscles used for movement. Skeletal muscle is made up of two types of muscle fibers: type I (slow twitch fibers) and type II (fast twitch fibers). Slow muscle -tropomyosin is found only in type I fibers. Type I fibers are the primary component of skeletal muscles that are resistant to fatigue. For example, muscles involved in posture, such as the neck muscles that hold the head steady, are made predominantly of type I fibers. Slow muscle-tropomyosin helps regulate muscle contraction in type I skeletal muscle fibers.
+published: html:i TPM3    Slow muscleα-tropomyosin is found in skeletal muscles, which are the muscles used for movement. Skeletal muscle is made up of two types of muscle fibers: type I (slow twitch fibers) and type II (fast twitch fibers). Slow muscle α-tropomyosin is found only in type I fibers. Type I fibers are the primary component of skeletal muscles that are resistant to fatigue. For example, muscles involved in posture, such as the neck muscles that hold the head steady, are made predominantly of type I fibers. Slow muscleα-tropomyosin helps regulate muscle contraction in type I skeletal muscle fibers.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -32135,7 +32135,7 @@ gene-symbol: gene-symbol TPMT
 name: name thiopurine S-methyltransferase
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TPMT
 db-key-list: text-list   text text-role html  function html:p                                 html:p
-published: html:i TPMT          Once inside the body, thiopurine drugs are converted to toxic compounds that kill immune system cells in the bone marrow. The TPMT enzymeturns off thiopurine drugs by metabolizing them to inactive, nontoxic compounds.
+published: html:i TPMT          Once inside the body, thiopurine drugs are converted to toxic compounds that kill immune system cells in the bone marrow. The TPMT enzyme"turns off" thiopurine drugs by metabolizing them to inactive, nontoxic compounds.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -32815,7 +32815,7 @@ gene-symbol: gene-symbol TUBA1A
 name: name tubulin alpha 1a
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/TUBA1A
 db-key-list: text-list   text text-role html  function html:p                     html:p
-published: html:i TUBA1A      Most cells produce-tubulin, but the protein is found in highest amounts in the developing brain. During brain development,-tubulin partners with-tubulin to form microtubules that move nerve cells (neurons) to their proper location (neuronal migration). Microtubules form scaffolding within the cell. The tubulin proteins that make up the microtubule are moved from one end of a microtubule to the other end. This protein transfer propels the microtubules in a specific direction, moving the cell.
+published: html:i TUBA1A      Most cells produceα-tubulin, but the protein is found in highest amounts in the developing brain. During brain development,α-tubulin partners withβ-tubulin to form microtubules that move nerve cells (neurons) to their proper location (neuronal migration). Microtubules form scaffolding within the cell. The tubulin proteins that make up the microtubule are moved from one end of a microtubule to the other end. This protein transfer propels the microtubules in a specific direction, moving the cell.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -33591,7 +33591,7 @@ gene-symbol: gene-symbol VHL
 name: name von Hippel-Lindau tumor suppressor
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/VHL
 db-key-list: text-list   text text-role html  function html:p                  html:p                              html:p
-published: html:i VHL     One of the targets of the VCB-CUL2 complex is a protein called hypoxia-inducible factor 2-alpha (HIF-2). HIF-2is one part (subunit) of a larger protein complex called HIF, which plays a critical role in the body's ability to adapt to changing oxygen levels. HIF controls several genes involved in cell division, the formation of new blood vessels, and the production of red blood cells. It is the major regulator of a hormone called erythropoietin, which controls red blood cell production. HIF's function is particularly important when oxygen levels are lower than normal (hypoxia). However, when adequate oxygen is available, the VCB-CUL2 complex keeps HIF from building up inappropriately in cells. The VHL protein likely plays a role in other cellular functions, including the regulation of other genes and control of cell division. Based on this function, the VHL protein is classified as a tumor suppressor, which means it prevents cells from growing and dividing too rapidly or in an uncontrolled way. The VHL protein is also involved in the formation of the extracellular matrix, which is an intricate lattice that forms in the spaces between cells and provides structural support to tissues.
+published: html:i VHL     One of the targets of the VCB-CUL2 complex is a protein called hypoxia-inducible factor 2-alpha (HIF-2α). HIF-2αis one part (subunit) of a larger protein complex called HIF, which plays a critical role in the body's ability to adapt to changing oxygen levels. HIF controls several genes involved in cell division, the formation of new blood vessels, and the production of red blood cells. It is the major regulator of a hormone called erythropoietin, which controls red blood cell production. HIF's function is particularly important when oxygen levels are lower than normal (hypoxia). However, when adequate oxygen is available, the VCB-CUL2 complex keeps HIF from building up inappropriately in cells. The VHL protein likely plays a role in other cellular functions, including the regulation of other genes and control of cell division. Based on this function, the VHL protein is classified as a tumor suppressor, which means it prevents cells from growing and dividing too rapidly or in an uncontrolled way. The VHL protein is also involved in the formation of the extracellular matrix, which is an intricate lattice that forms in the spaces between cells and provides structural support to tissues.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary
@@ -34279,7 +34279,7 @@ gene-symbol: gene-symbol YWHAE
 name: name tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein epsilon
 ghr-page: ghr-page https://ghr.nlm.nih.gov/gene/YWHAE
 db-key-list: text-list   text text-role html  function html:p                  html:p
-published: html:i YWHAE     The 14-3-3protein is active in tissues throughout the body, although its function is sometimes unclear. In the brain, this protein is involved in directing the movement of nerve cells (neuronal migration) by binding to other proteins involved in this process. It is thought that the 14-3-3protein is critical for proper neuronal migration and normal brain development.
+published: html:i YWHAE     The 14-3-3εprotein is active in tissues throughout the body, although its function is sometimes unclear. In the brain, this protein is involved in directing the movement of nerve cells (neuronal migration) by binding to other proteins involved in this process. It is thought that the 14-3-3εprotein is critical for proper neuronal migration and normal brain development.
 
 Record-Type: gene-withFreq
 gene-summary: gene-summary

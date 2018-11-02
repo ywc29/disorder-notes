@@ -1,55 +1,55 @@
 # -*- mode: rec -*-
 
-%allowed: Record-Type RecordType-Descr Gender M/F/dont-know
+%allowed: Record-Type RecordType-Descr Gender M/F/don’t-know
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
-M/F/dont-know: 17-beta hydroxysteroid dehydrogenase 3 deficiency is a condition that affects male sexual development. People with this condition are genetically male, with one X and one Y chromosome in each cell, and they have male gonads (testes). Most people with 17-beta hydroxysteroid dehydrogenase 3 deficiency are born with external genitalia that appear female. Men with this disorder are generally unable to father children (infertile).
+M/F/don’t-know: 17-beta hydroxysteroid dehydrogenase 3 deficiency is a condition that affects male sexual development. People with this condition are genetically male, with one X and one Y chromosome in each cell, and they have male gonads (testes). Most people with 17-beta hydroxysteroid dehydrogenase 3 deficiency are born with external genitalia that appear female. Men with this disorder are generally unable to father children (infertile).
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: Age
-M/F/dont-know: Certain diseases happen in sometimes of the lifehuntington/;;
+M/F/don’t-know: Certain diseases happen in sometimes of the life：huntington/血栓塞;罕見疾病多在兒童時期發病;
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: Ethnicity
-M/F/dont-know: Askenzies Jews; suitable test for different ethnicity ie the mutation leading to breast cancer is different between Western and Asian ; if Chinese-ask province 17-beta hydroxysteroid dehydrogenase 3 deficiency is common in the Arab population of Gaza affects 1 in 200 to 300 people.
+M/F/don’t-know: Askenzies Jews; suitable test for different ethnicity ie the mutation leading to breast cancer is different between Western and Asian ; if Chinese-ask province 17-beta hydroxysteroid dehydrogenase 3 deficiency is common in the Arab population of Gaza affects 1 in 200 to 300 people.
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: health status
-M/F/dont-know: no obvious health problem; receiving cancer treatment: need personalized genetic test?
+M/F/don’t-know: no obvious health problem; receiving cancer treatment: need personalized genetic test?
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: Place of staying
-M/F/dont-know: Northern Europe: risk of depression-can suggest to test the risk for depression; the place that you would like to have test ie uks NHS provide clinical test for certain area of people, USA restricts the use of genetic test for cancer prediction;2017
+M/F/don’t-know: Northern Europe: risk of depression-can suggest to test the risk for depression; the place that you would like to have test ie uk’s NHS provide clinical test for certain area of people, USA restricts the use of genetic test for cancer prediction;最快2017今年底起，可能有第一批「港產」遺傳科醫生誕生，將遺傳科知識有系統地傳承下去。
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: Family history?
-M/F/dont-know: 60703040     /
+M/F/don’t-know: 親屬出現早發性乳癌（四十五歲或以下發病） 一般大腸癌在60、70歲出現，若在30、40歲病發的個案便比較「唔正常」，尤其是近親家族中不止一宗病例，更要小心，有可能是遺傳基因導致疾病一代傳一代。 遺傳性大腸癌在臨牀上並不少見，而乳腺癌同樣有遺傳情况，一旦發現有此情况，可採取一系列預防措施，如更早或更頻密檢查，及早發現和治療病變，並透過計劃生育早作預防。 很多人以為一出生便出現的先天性疾病，才是遺傳病，其實不然，人類的疾病不少都是從遺傳得來，再加上後天的誘發因素而發病。每個人都是由精子與卵子結合成胎兒，所以父母的基因在胚胎形成時已經遺傳下來，包括變異的基因，若在胎兒出生前已經引起病變便是先天性疾病，到嬰兒出生後才出現便是後天性疾病，但也與遺傳基因有關，最常見由基因引發的後天疾病就是癌症。心血管疾病及糖尿病亦是遺傳基因和後天環境因素配合而病發。因此，現在學者希望從遺傳基因着手，目的是達到防病的效果。他指出，若家族有相關病史，成員的患病率會相對較高，建議及早改善生活習慣，以減低發病風險。 孩子患遺傳性疾病 多名成員患乳癌（最少兩名） 患上卵巢癌，家族有患乳癌及/或卵巢癌病史 本身有乳癌、卵巢癌或輸卵管癌病史，特別是高分化漿液性腺癌和絕經前卵巢和輸卵管癌
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: current weight
-M/F/dont-know: related with metabolic disease? High risk of
+M/F/don’t-know: related with metabolic disease? High risk of
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: current height
-M/F/dont-know: related with heart diseases?
+M/F/don’t-know: related with heart diseases?
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: What do you test for?
-M/F/dont-know: <span style="color:#0000FF;"><a href="https://www.gov.uk/get-dna-test"><font color="#0000FF">risk of getting cancer? Parent child or siblings relationship test (https://www.gov.uk/get-dna-test) for accredited laboratories ;  personalized genomic? Diagnosi? Find ancestor?</font></a></span>
+M/F/don’t-know: <span style="color:#0000FF;"><a href="https://www.gov.uk/get-dna-test"><font color="#0000FF">risk of getting cancer? Parent child or siblings relationship test (https://www.gov.uk/get-dna-test) for accredited laboratories ;  personalized genomic? Diagnosi? Find ancestor?</font></a></span> ‘天赋基因’检测服务没有项目资质，不该出现在市场上。在美国，这类基因检测仅停留在实验室研究阶段，禁止进入市场赚钱。人的天赋具体由哪些基因决定、如何决定，以目前的科技水平还没办法给出准确解答。比如，智商与基因有密切关系，但智商由成千上万的基因综合决定，从基因测序的角度看，很难检测出某人的智商天赋。相反，某个基因突变导致智商很低是完全能够检测出来的，例如唐氏综合征、结节性硬化症，但这是基因检测在医学上的应用。
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: Language
-M/F/dont-know: Dont mind English or Chinese
+M/F/don’t-know: Don’t mind English or Chinese
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
@@ -65,11 +65,15 @@ Gender: UK:
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
-Gender: If you have, for example, two or more close relatives from the same side of your familysuch as your mother, sister or daughterwho have had breast cancer under the age of 50, you may be eligible for surveillance for breast cancer, or genetic screening to look for the genes that make developing breast cancer more likely.
+Gender: If you have, for example, two or more close relatives from the same side of your family –such as your mother, sister or daughter – who have had breast cancer under the age of 50, you may be eligible for surveillance for breast cancer, or genetic screening to look for the genes that make developing breast cancer more likely.
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
-Gender: 50NHS
+Gender: 英國
+
+Record-Type: genetic test question
+RecordType-Descr: Information-of-the-person-to-have-test
+Gender: 如果你有兩個近親（例如你的母親，親姊妹或女兒）在50歲前得乳癌，你可能得到NHS提供乳癌監察服務或乳癌相關聯的基因檢測。
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
@@ -77,49 +81,49 @@ Gender: You'll usually need a referral from your GP or a specialist doctor for g
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
-Gender: GP
+Gender: 你通常要得到GP或專業醫生的轉介，才能得到基因測試
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: Name
-M/F/dont-know: website
+M/F/don’t-know: website
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
-Gender: 17-hydroxysteroid dehydrogenase type 10 deficiency
+Gender: 17β-hydroxysteroid dehydrogenase type 10 deficiency
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: Name
-M/F/dont-know: website
+M/F/don’t-know: website
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: 16p11.2 duplication
-M/F/dont-know: https://ghr.nlm.nih.gov/condition/16p112-duplication
+M/F/don’t-know: https://ghr.nlm.nih.gov/condition/16p112-duplication
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: 16p12.2 microdeletion
-M/F/dont-know: https://ghr.nlm.nih.gov/condition/16p122-microdeletion
+M/F/don’t-know: https://ghr.nlm.nih.gov/condition/16p122-microdeletion
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: Name
-M/F/dont-know: website
+M/F/don’t-know: website
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: <span style="background:#FFFF00;">17-beta hydroxysteroid dehydrogenase 3 deficiency</span>
-M/F/dont-know: <span style="color:#0000FF;"><a href="https://ghr.nlm.nih.gov/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiecy"><font color="#0000FF">https://ghr.nlm.nih.gov/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiecy</font></a></span>
+M/F/don’t-know: <span style="color:#0000FF;"><a href="https://ghr.nlm.nih.gov/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiecy"><font color="#0000FF">https://ghr.nlm.nih.gov/condition/17-beta-hydroxysteroid-dehydrogenase-3-deficiecy</font></a></span>
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: Name
-M/F/dont-know: website
+M/F/don’t-know: website
 
 Record-Type: genetic test question
 RecordType-Descr: Information-of-the-person-to-have-test
 Gender: 17q12 deletion syndrome
-M/F/dont-know: https://ghr.nlm.nih.gov/condition/17q12-deletion-syndrome
+M/F/don’t-know: https://ghr.nlm.nih.gov/condition/17q12-deletion-syndrome
 

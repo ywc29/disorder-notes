@@ -1,14 +1,14 @@
 # -*- mode: rec -*-
 
-%allowed: Record-Type RecordType-Descr Company-Logo day-and-time Clinic search login/registration CS
+%allowed: Record-Type RecordType-Descr Company-Logo day-and-time Clinic search login/registration CS在線諮詢
 
 Record-Type: structure of the website for genetic testing
-Company-Logo: <span style="color:#00000A;"><font color="#00000A"></font></span>
-day-and-time: Ask what type of test: Premarital test (gender, ethnic group, want to check infertility? Cancer risk? Dementia risk) cancer risk (gender risk of dementia genetic defects risk of IQ/EQ testing
+Company-Logo: <span style="color:#00000A;"><font color="#00000A">主頁</font></span>
+day-and-time: 尋找我的基因檢測服務 Ask what type of test: 婚前Premarital test (gender, ethnic group, want to check infertility? Cancer risk? Dementia risk) 癌症cancer risk (gender 腦退化risk of dementia 基因缺陷genetic defects risk of自身免疫缺乏症 IQ/EQ testing 藥物反應
 Clinic: Locations
-search: <span style="color:#00000A;"><font color="#00000A"></font></span> - -
-login/registration: Sudden death Downs syndrome // Increased risk of having cancer lack of apitide factors affecting hair loss factors affecting anxiety factors leading to seizures factors affecting movement lack of energy? Male?Female? Vision loss Hearing loss Breast Cancer risk (man and woman) Ovarian Cancer Feminine cancer
-CS: <span style="color:#00000A;"><font color="#00000A"></font></span>
+search: <span style="color:#00000A;"><font color="#00000A">有關基因檢測</font></span> -基因檢測類型 -基因檢測流程
+login/registration: 瞭解這些事 男丶女不孕的多種基因因素 流產，習慣性流產 多了染色體 無月經 脊髓性肌肉萎縮症 Sudden death Down’s syndrome 早死：夭折、活不過大人/小孩/嬰兒 Increased risk of having cancer lack of apitide factors affecting hair loss factors affecting anxiety factors leading to seizures factors affecting movement lack of energy? Male?Female? Vision loss Hearing loss Breast Cancer risk (man and woman) Ovarian Cancer Feminine cancer
+CS在線諮詢: <span style="color:#00000A;"><font color="#00000A">常見問題</font></span>
 
 Record-Type: structure of the website for genetic testing
 Company-Logo: List of acredited laboratories all over the world
@@ -126,5 +126,5 @@ Record-Type: structure of the website for genetic testing
 Company-Logo: major depression, obsessive-compulsive disorder, panic attacks, generalized anxiety disorder, post-traumatic stress disorder, and bulimia Amitriptyline
 
 Record-Type: structure of the website for genetic testing
-Company-Logo: schizophrenia, bipolar disorder, major depressive disorder, irritability associated with autistic disorder, and treatment of Tourettes disorder Aripiprazole
+Company-Logo: schizophrenia, bipolar disorder, major depressive disorder, irritability associated with autistic disorder, and treatment of Tourette’s disorder Aripiprazole
 

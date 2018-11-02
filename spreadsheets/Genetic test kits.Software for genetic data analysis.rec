@@ -66,7 +66,7 @@ Price: Ancestry service (79GBP) Health + Ancestry service (149 GBP) (can review 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
 Name: CA
-Website: Bambni Test (Berry Genomics)
+Website: Bambni Test (Berry Genomics贝瑞和康)
 Target: http://www.berrygenomics.com/bambnitest/technology/theory/
 Price: Noninvasive prenatal test (PINT)
 
@@ -115,13 +115,13 @@ Price: Noninvasive prenatal test (PINT)
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
 Name: CA
-Website: Xcelom
+Website: 香港雅士能基因科技有限公司（Xcelom
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
 Name: Germany
 Website: MGZ Medical Genetics Center.
-Price: 90% of the samples MGZ analyzes with the CytoSNP-850K BeadChip are postnatal. These analyses help identify the causes of autism spectrum disorders, intellectual disability (ID), dysmorphic features, or neurological disorders such as epilepsy. MGZ also performs prenatal analysis with conventional karyotyping, chromosomal microarrays, and noninvasive prenatal testing (NIPT) for chromosomal aneuploidy (abnormal number of chromosomes). Uses the MiSeq and NextSeq500 Systems to run a large number of custom panels to identify variants associated with rare hereditary diseases and the TruSight Cancer Sequencing Panel, which targets 94 genes with suspected associations to common and rare cancers. The sequencing panel also includes 284 SNPs suspected to correlate with cancer through genome-wide association studies (GWAS).The TruSight Cancer Sequencing Panel is a test method that anyone<br>can adapt easily in their laboratory,Dr. Benet-Pags said.Its easy to implement in automated workflows and performs with high repeatability and reproducibility. The TruSight Cancer Panel enables us to analyze more genes in a single workflow than previous technologies. The advantage is that we can identify potential mutations in cancer associated genes not primarily tested.
+Price: 90% of the samples MGZ analyzes with the CytoSNP-850K BeadChip are postnatal. These analyses help identify the causes of autism spectrum disorders, intellectual disability (ID), dysmorphic features, or neurological disorders such as epilepsy. MGZ also performs prenatal analysis with conventional karyotyping, chromosomal microarrays, and noninvasive prenatal testing (NIPT) for chromosomal aneuploidy (abnormal number of chromosomes). Uses the MiSeq and NextSeq®500 Systems to run a large number of custom panels to identify variants associated with rare hereditary diseases and the TruSight Cancer Sequencing Panel, which targets 94 genes with suspected associations to common and rare cancers. The sequencing panel also includes 284 SNPs suspected to correlate with cancer through genome-wide association studies (GWAS).The TruSight Cancer Sequencing Panel is a test method that anyone<br>can adapt easily in their laboratory,”Dr. Benet-Pagès said.“It’s easy to implement in automated workflows and performs with high repeatability and reproducibility. The TruSight Cancer Panel enables us to analyze more genes in a single workflow than previous technologies. The advantage is that we can identify potential mutations in cancer associated genes not primarily tested.
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
@@ -145,7 +145,7 @@ Price: ATLAS Biolabs performs genome-wide gene expression and SNP analyses, arra
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
 Name: UK
-Website: Birminghams woman NHS
+Website: Birmingham’s woman NHS
 Price: solid tumour 28 gene panel solid tumour 60 gene panel solid tumour 9 gene panel
 
 Record-Type: Genetic test kits
@@ -214,7 +214,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: InfiniumGlobal Screening Array-24 v1.0 Kit
+Name: Infinium®Global Screening Array-24 v1.0 Kit
 Website: Research use only
 Target: Illumina
 Price: Saliva, blood, buccal swabs, and formalin-fixed, paraffin-embedded (FFPE) samples (with optional FFPE restore kit). 200Ng human DNA
@@ -270,7 +270,7 @@ Price: FFPE tissue. 200 ng human DNA.
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: InfiniumOmni5-4 v1.2 Kit
+Name: Infinium®Omni5-4 v1.2 Kit
 Website: Research use only
 Target: Illumina
 Price: FFPE tissue. 400 ng human DNA.
@@ -396,7 +396,7 @@ RecordType-Descr: Software-for-genetic-analysis
 Name: TruSight RNA Fusion Panel
 Website: Clinical cancer research
 Target: Illumina
-Price: 10 ng total RNA, 20100 ng FFPE RNA
+Price: 10 ng total RNA, 20–100 ng FFPE RNA
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
@@ -410,7 +410,7 @@ RecordType-Descr: Software-for-genetic-analysis
 Name: AmpliSeq for Illumina BRCA Panel
 Website: Clinical cancer research
 Target: Illumina
-Price: FFPE Tissue. 1100 ng (10 ng recommended per pool)
+Price: FFPE Tissue. 1–100 ng (10 ng recommended per pool)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
@@ -445,7 +445,7 @@ RecordType-Descr: Software-for-genetic-analysis
 Name: AmpliSeq for Illumina Focus Panel
 Website: Clinical cancer research
 Target: Illumina
-Price: 1100 ng (10 ng recommended per pool) DNA/RNA from blood or FFPE
+Price: 1–100 ng (10 ng recommended per pool) DNA/RNA from blood or FFPE
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
@@ -502,54 +502,54 @@ Price: 250ng genomic DNA isolated from human peripheral whole blood specimens co
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: OptiSeqPan-Cancer Panel (65 Genes)
+Name: OptiSeq™Pan-Cancer Panel (65 Genes)
 Website: CLIA certified facility
 Target: DiaCarta
 Price: Liquid biopsy/FFPE DNA: 10 ng for detection of somatic mutations (SNP)/100 pg for germline mutations
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: OptiSeqLung Cancer Panel (29 Genes)
+Name: OptiSeq™Lung Cancer Panel (29 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: OptiSeqActionable Panel (12 Genes)
+Name: OptiSeq™Actionable Panel (12 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: OptiSeqProstate Panel (32 Genes)
+Name: OptiSeq™Prostate Panel (32 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: OptiSeqTarget Panel (33 Genes)
+Name: OptiSeq™Target Panel (33 Genes) 
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: OptiSeqColon Panel (38 Genes)
+Name: OptiSeq™Colon Panel (38 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: OptiSeqBreast Panel (44 Genes)
+Name: OptiSeq™Breast Panel (44 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: OptiSeqComprehensive Panel (76 Genes)
+Name: OptiSeq™Comprehensive Panel (76 Genes)      
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: *Whole genome sequencing
+Name: *Whole genome sequencing 全基因组测序
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: Exome sequencing
+Name: Exome sequencing全外显子测序
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: mRNA sequencing
+Name: mRNA sequencing转录组测序
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: Small RNA (miRNA, shRNA) sequencing
+Name: Small RNA (miRNA, shRNA) sequencing  
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
@@ -561,15 +561,15 @@ Name: Amplicon sequencing
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: 16S metagenomics sequencing 16S
+Name: 16S metagenomics sequencing 16S测序
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: ?
+Name: 建库测序?
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: ?
+Name: 甲基化测序?
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
@@ -811,7 +811,7 @@ Target: Agilent
 
 Record-Type: Genetic test kits
 RecordType-Descr: Software-for-genetic-analysis
-Name: Harmony
+Name: Harmony®
 Website: http://sequencing.roche.com/en/products-solutions/by-application/clinical/nipt/harmony-test-technology.html
 Target: Roche     Thermo Fisher
 

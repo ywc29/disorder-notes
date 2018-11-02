@@ -65,7 +65,7 @@ published: <span style="background:#FFFF00;">2017-12-29</span>
 Record-Type: healthCond-withFreq-and gene names
 Name1: 17 alpha-hydroxylase/17,20-lyase deficiency
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/17-alpha-hydroxylase-17-20-lyase-deficiency
-frequency1: 17-hydroxylase/17,20-lyase deficiency accounts for about 1 percent of congenital adrenal hyperplasia cases. It is estimated to occur in 1 in 1 million people worldwide.
+frequency1: 17α-hydroxylase/17,20-lyase deficiency accounts for about 1 percent of congenital adrenal hyperplasia cases. It is estimated to occur in 1 in 1 million people worldwide.
 Description1: html memo html:p autosomal recessive
 Related-gene-list1: related-gene gene-symbol ghr-page  CYP17A1 https://ghr.nlm.nih.gov/gene/CYP17A1
 Synonym-list1: 17-alpha-hydroxylase deficiency 17-alpha-hydroxylase-deficient congenital adrenal hyperplasia adrenal hyperplasia V combined 17 alpha-hydroxylase/17,20-lyase deficiency congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency congenital adrenal hyperplasia type 5 deficiency of steroid 17-alpha-monooxygenase
@@ -87,7 +87,7 @@ reviewed1: <span style="background:#FFFF00;">2008-11</span>
 published: <span style="background:#FFFF00;">2017-12-29</span>
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: 17-hydroxysteroid dehydrogenase type 10 deficiency
+Name1: 17β-hydroxysteroid dehydrogenase type 10 deficiency
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/17beta-hydroxysteroid-dehydrogenase-type-10-de ficiency
 frequency1: The prevalence of HSD10 deficiency is unknown. At least 11 affected individuals have been identified.
 Description1: html memo html:p X-linked dominant                 html:p
@@ -245,10 +245,10 @@ published: 2017-12-29
 Record-Type: healthCond-withFreq-and gene names
 Name1: 3-beta-hydroxysteroid dehydrogenase deficiency
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/3-beta-hydroxysteroid-dehydrogenase-deficiency
-frequency1: The exact prevalence of 3-HSD deficiency is unknown. At least 60 affected individuals have been reported.
+frequency1: The exact prevalence of 3β-HSD deficiency is unknown. At least 60 affected individuals have been reported.
 Description1: html memo html:p autosomal recessive
 Related-gene-list1: related-gene gene-symbol ghr-page  HSD3B2 https://ghr.nlm.nih.gov/gene/HSD3B2
-Synonym-list1: 3 beta-HSD deficiency 3 beta-ol dehydrogenase deficiency 3-betahydroxysteroid dehydrogenase deficiency 3b-hydroxysteroid dehydrogenase deficiency 3-HSD deficiency 3-HSD deficiency congenital adrenal hyperplasia 3-hydroxysteroid dehydrogenase deficiency type II 3-hydroxysteroid dehydrogenase deficiency
+Synonym-list1: 3 beta-HSD deficiency 3 beta-ol dehydrogenase deficiency 3-beta–hydroxysteroid dehydrogenase deficiency 3b-hydroxysteroid dehydrogenase deficiency 3β-HSD deficiency 3β-HSD deficiency congenital adrenal hyperplasia 3β-hydroxysteroid dehydrogenase deficiency type II 3β-hydroxysteroid dehydrogenase deficiency
 Db-key-list1: db GTR db ICD-10-CM db MeSH db OMIM db
 key1: key C0342471 key E25.0 key D000312 key 201810 key
 reviewed1: 2015-04
@@ -636,12 +636,12 @@ reviewed1: 2012-04
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Action myoclonusrenal failure syndrome
+Name1: Action myoclonus–renal failure syndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/action-myoclonus-renal-failure-syndrome
 frequency1: AMRF syndrome is a rare condition that has been found worldwide. Its exact prevalence is unknown. At least 38 individuals with the condition have been described in the medical literature.
 Description1: html memo html:p autosomal recessive       html:p                          html:p        html:p
 Related-gene-list1: related-gene gene-symbol ghr-page  SCARB2 https://ghr.nlm.nih.gov/gene/SCARB2
-Synonym-list1: action myoclonus-renal failure syndrome action myoclonusrenal failure syndrome AMRF , progressive myoclonic 4, with or without renal failure EPM4 familial myoclonus with renal failure myoclonus-nephropathy syndrome progressive myoclonus  with renal failure
+Synonym-list1: action myoclonus-renal failure syndrome action myoclonus–renal failure syndrome AMRF , progressive myoclonic 4, with or without renal failure EPM4 familial myoclonus with renal failure myoclonus-nephropathy syndrome progressive myoclonus  with renal failure
 Db-key-list1: db GTR db GeneReviews db MeSH db OMIM db Orphanet
 key1: key C0751779 key amrf key D020191 key 254900 key 163696
 reviewed1: 2016-06
@@ -653,7 +653,7 @@ GHR-webpage1: https://ghr.nlm.nih.gov/condition/activated-pi3k-delta-syndrome
 frequency1: The prevalence of activated PI3K-delta syndrome is unknown.
 Description1: html memo html:p autosomal dominant                     html:p
 Related-gene-list1: related-gene gene-symbol ghr-page  PIK3CD https://ghr.nlm.nih.gov/gene/PIK3CD
-Synonym-list1: APDS immunodeficiency 14 p110-activating mutation causing senescent T cells, lymphadenopathy, and immunodeficiency PASLI
+Synonym-list1: APDS immunodeficiency 14 p110δ-activating mutation causing senescent T cells, lymphadenopathy, and immunodeficiency PASLI
 Db-key-list1: db GTR db MeSH db OMIM db SNOMED CT
 key1: key C3714976 key D007153 key 615513 key 711480000
 reviewed1: 2014-07
@@ -870,9 +870,9 @@ reviewed1: 2016-08
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Aicardi-Goutires syndrome
+Name1: Aicardi-Goutières syndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/aicardi-goutieres-syndrome
-frequency1: Aicardi-Goutires syndrome is a rare disorder. Its exact prevalence is unknown.
+frequency1: Aicardi-Goutières syndrome is a rare disorder. Its exact prevalence is unknown.
 Description1: html memo html:p autosomal dominant  memo html:p autosomal recessive                   html:p                          html:p                    html:p                    html:p
 Related-gene-list1: related-gene gene-symbol ghr-page  ADAR https://ghr.nlm.nih.gov/gene/ADAR related-gene gene-symbol ghr-page  IFIH1 https://ghr.nlm.nih.gov/gene/IFIH1 related-gene gene-symbol ghr-page  RNASEH2A https://ghr.nlm.nih.gov/gene/RNASEH2A related-gene gene-symbol ghr-page  RNASEH2B https://ghr.nlm.nih.gov/gene/RNASEH2B related-gene gene-symbol ghr-page  RNASEH2C https://ghr.nlm.nih.gov/gene/RNASEH2C related-gene gene-symbol ghr-page  SAMHD1 https://ghr.nlm.nih.gov/gene/SAMHD1 related-gene gene-symbol ghr-page  TREX1 https://ghr.nlm.nih.gov/gene/TREX1
 Synonym-list1: AGS Aicardi-Goutieres syndrome Aicardi Goutieres syndrome Cree encephalitis encephalopathy with basal ganglia calcification familial infantile encephalopathy with intracranial calcification and chronic cerebrospinal fluid lymphocytosis pseudotoxoplasmosis syndrome
@@ -1049,7 +1049,7 @@ GHR-webpage1: <span style="background:#FFFF00;">https://ghr.nlm.nih.gov/conditio
 frequency1: <span style="background:#FFFF00;">Alpha thalassemia is a fairly common blood disorder worldwide. Thousands of</span> <span style="background:#FFFF00;">infants with Hb Bart syndrome and HbH disease are born each year, particularly</span> <span style="background:#FFFF00;">in Southeast Asia. Alpha thalassemia also occurs frequently in people from</span> <span style="background:#FFFF00;">Mediterranean countries, Africa, the Middle East, India, and Central Asia.</span>
 Description1: <span style="background:#FFFF00;">html</span> <span style="background:#FFFF00;">memo</span> html:p pattern unknown     html:p        html:p      html:p                html:p
 Related-gene-list1: <span style="background:#FFFF00;">related-gene</span> <span style="background:#FFFF00;">gene-symbol</span> <span style="background:#FFFF00;">ghr-page</span>  HBA1 https://ghr.nlm.nih.gov/gene/HBA1 related-gene gene-symbol ghr-page  HBA2 https://ghr.nlm.nih.gov/gene/HBA2
-Synonym-list1: <span style="background:#FFFF00;">alpha-thalassemia</span> -thalassemia
+Synonym-list1: <span style="background:#FFFF00;">alpha-thalassemia</span> α-thalassemia
 Db-key-list1: <span style="background:#FFFF00;">db</span> GTR db GeneReviews db ICD-10-CM db ICD-10-CM db MeSH db OMIM db OMIM db OMIM db Orphanet db SNOMED CT
 key1: <span style="background:#FFFF00;">key</span> C0002312 key a-thal key D56.0 key D56.3 key D017085 key 141800 key 141850 key 604131 key 846 key 68913001
 reviewed1: <span style="background:#FFFF00;">2017-06</span>
@@ -1080,9 +1080,9 @@ reviewed1: 2013-12
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: <span style="background:#FFFF00;">Alstrm syndrome</span>
+Name1: <span style="background:#FFFF00;">Alström syndrome</span>
 GHR-webpage1: <span style="background:#FFFF00;">https://ghr.nlm.nih.gov/condition/alstrom-syndrome</span>
-frequency1: <span style="background:#FFFF00;">More than 900 people with Alstrm syndrome have been reported worldwide.</span>
+frequency1: <span style="background:#FFFF00;">More than 900 people with Alström syndrome have been reported worldwide.</span>
 Description1: <span style="background:#FFFF00;">html</span> <span style="background:#FFFF00;">memo</span> html:p autosomal recessive     html:p
 Related-gene-list1: <span style="background:#FFFF00;">related-gene</span> <span style="background:#FFFF00;">gene-symbol</span> <span style="background:#FFFF00;">ghr-page</span>  ALMS1 https://ghr.nlm.nih.gov/gene/ALMS1
 Synonym-list1: <span style="background:#FFFF00;">ALMS</span> Alstrom-Hallgren syndrome Alstrom syndrome
@@ -2001,9 +2001,9 @@ reviewed1: 2015-06
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: <span style="background:#FFFF00;">Behet disease</span>
+Name1: <span style="background:#FFFF00;">Behçet disease</span>
 GHR-webpage1: <span style="background:#FFFF00;">https://ghr.nlm.nih.gov/condition/behcet-disease</span>
-frequency1: <span style="background:#FFFF00;">Behet disease is most common in Mediterranean countries, the Middle East,</span> <span style="background:#FFFF00;">Japan, and other parts of Asia. However, it has been found in populations</span> <span style="background:#FFFF00;">worldwide.The highest prevalence of Behet disease has been reported in northern</span> <span style="background:#FFFF00;">Turkey, where the disorder affects up to 420 in 100,000 people. The disorder is</span> <span style="background:#FFFF00;">rare in northern European countries and the United States, where it generally</span> <span style="background:#FFFF00;">affects fewer than 1 in 100,000 people.</span>
+frequency1: <span style="background:#FFFF00;">Behçet disease is most common in Mediterranean countries, the Middle East,</span> <span style="background:#FFFF00;">Japan, and other parts of Asia. However, it has been found in populations</span> <span style="background:#FFFF00;">worldwide.The highest prevalence of Behçet disease has been reported in northern</span> <span style="background:#FFFF00;">Turkey, where the disorder affects up to 420 in 100,000 people. The disorder is</span> <span style="background:#FFFF00;">rare in northern European countries and the United States, where it generally</span> <span style="background:#FFFF00;">affects fewer than 1 in 100,000 people.</span>
 Description1: <span style="background:#FFFF00;">html:p</span> <span style="background:#FFFF00;">pattern unknown</span>       html:p            html:p          html:p            html:p      html:p              html:p
 Related-gene-list1: <span style="background:#FFFF00;">HLA-B</span> <span style="background:#FFFF00;">https://ghr.nlm.nih.gov/gene/HLA-B</span>
 Synonym-list1: <span style="background:#FFFF00;">Adamantiades-Behcet disease</span> Behcet disease Behcet syndrome Behcet triple symptom complex Behcet's syndrome malignant aphthosis Old Silk Route disease triple symptom complex
@@ -2078,7 +2078,7 @@ GHR-webpage1: https://ghr.nlm.nih.gov/condition/beta-ketothiolase-deficiency
 frequency1: Beta-ketothiolase deficiency appears to be very rare. It is estimated to affect fewer than 1 in 1 million newborns.
 Description1: html:p autosomal recessive       html:p
 Related-gene-list1: ACAT1 https://ghr.nlm.nih.gov/gene/ACAT1                                     related-gene-list
-Synonym-list1: 2-alpha-methyl-3-hydroxybutyricacidemia 3-alpha-ketothiolase deficiency 3-alpha-ktd deficiency 3-alpha-oxothiolase deficiency 3-Ketothiolase deficiency 3-Methylhydroxybutyric acidemia alpha-Methylacetoacetic aciduria BKT MAT deficiency Mitochondrial 2-methylacetoacetyl-CoA thiolase deficiency - potassium stimulated Mitochondrial acetoacetyl-CoA thiolase deficiency T2 deficiency -ketothiolase deficiency
+Synonym-list1: 2-alpha-methyl-3-hydroxybutyricacidemia 3-alpha-ketothiolase deficiency 3-alpha-ktd deficiency 3-alpha-oxothiolase deficiency 3-Ketothiolase deficiency 3-Methylhydroxybutyric acidemia alpha-Methylacetoacetic aciduria BKT MAT deficiency Mitochondrial 2-methylacetoacetyl-CoA thiolase deficiency - potassium stimulated Mitochondrial acetoacetyl-CoA thiolase deficiency T2 deficiency β-ketothiolase deficiency
 Db-key-list1: db GTR db MeSH db OMIM db Orphanet db SNOMED CT db SNOMED CT db SNOMED CT
 key1: key C1536500 key D018901 key 203750 key 134 key 124258007 key 124265004 key 237953006
 reviewed1: 2008-01
@@ -2178,21 +2178,21 @@ Synonym-list1: <span style="background:#FFFF00;">key</span> C1839839 key C185219
 Db-key-list1: <span style="background:#FFFF00;">2017-12-29</span>
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Birt-Hogg-Dubsyndrome
+Name1: Birt-Hogg-Dubésyndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/birt-hogg-dube-syndrome
-frequency1: Birt-Hogg-Dubsyndrome is rare; its exact incidence is unknown. This <span style="background:#FFFF00;">condition has been reported in more than 400 families.</span>
+frequency1: Birt-Hogg-Dubésyndrome is rare; its exact incidence is unknown. This <span style="background:#FFFF00;">condition has been reported in more than 400 families.</span>
 Description1: html:p autosomal dominant     html:p
 Related-gene-list1: FLCN https://ghr.nlm.nih.gov/gene/FLCN                                     related-gene-list
-Synonym-list1: BHD fibrofolliculomas with trichodiscomas and acrochordons Hornstein-Birt-Hogg-Dubsyndrome Hornstein-Knickenberg syndrome
+Synonym-list1: BHD fibrofolliculomas with trichodiscomas and acrochordons Hornstein-Birt-Hogg-Dubésyndrome Hornstein-Knickenberg syndrome
 Db-key-list1: db GTR db GeneReviews db MeSH db OMIM db Orphanet db SNOMED CT
 key1: key C0346010 key bhd key D058249 key 135150 key 122 key 110985001
 reviewed1: 2013-01
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Bjrnstad syndrome
+Name1: Björnstad syndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/bjornstad-syndrome
-frequency1: Bjrnstad syndrome is a rare condition, although its prevalence is unknown. It has been found in populations worldwide.
+frequency1: Björnstad syndrome is a rare condition, although its prevalence is unknown. It has been found in populations worldwide.
 Description1: html:p autosomal recessive                 html:p
 Related-gene-list1: BCS1L https://ghr.nlm.nih.gov/gene/BCS1L                                        related-gene-list
 Synonym-list1: Bjornstad syndrome BJS deafness and pili torti, Bjornstad type pili torti and nerve deafness pili torti-deafness syndrome pili torti-sensorineural hearing loss PTD
@@ -2298,9 +2298,9 @@ reviewed1: 2017-07
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Boucher-Neuhuser syndrome
+Name1: Boucher-Neuhäuser syndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/boucher-neuhauser-syndrome
-frequency1: Boucher-Neuhuser syndrome is a rare condition. Its prevalence is unknown.
+frequency1: Boucher-Neuhäuser syndrome is a rare condition. Its prevalence is unknown.
 Description1: html:p ar           html:p        html:p              html:p              html:p            html:p
 Related-gene-list1: autosomal recessive  PNPLA6                                                                                                    related-gene-list
 Synonym-list1: synonym synonym synonym synonym synonym  synonym
@@ -2502,9 +2502,9 @@ reviewed1: 2015-04
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Cantsyndrome
+Name1: Cantúsyndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/cantu-syndrome
-frequency1: Cantsyndrome is a rare condition. About three dozen affected individuals have been reported in the medical literature.
+frequency1: Cantúsyndrome is a rare condition. About three dozen affected individuals have been reported in the medical literature.
 Description1: html:p autosomal dominant       html:p                html:p                  html:p
 Related-gene-list1: ABCC9 https://ghr.nlm.nih.gov/gene/ABCC9                                                                                              related-gene-list
 Synonym-list1: Cantu syndrome hypertrichosis-osteochondrodysplasia-cardiomegaly syndrome hypertrichotic osteochondrodysplasia
@@ -4254,7 +4254,7 @@ GHR-webpage1: https://ghr.nlm.nih.gov/condition/deafness-dystonia-optic-neuronop
 frequency1: DDON syndrome is a rare disorder; it has been reported in fewer than 70 people worldwide.
 Description1: html:p X-linked recessive       html:p        html:p          html:p          html:p
 Related-gene-list1: TIMM8A https://ghr.nlm.nih.gov/gene/TIMM8A                                                                      related-gene-list
-Synonym-list1: Deafness-dystonia syndrome Mohr-Tranebjrg syndrome
+Synonym-list1: Deafness-dystonia syndrome Mohr-Tranebjærg syndrome
 Db-key-list1: db GTR db GeneReviews db MeSH db OMIM db Orphanet db SNOMED CT
 key1: key C0796074 key ddon key D040181 key 304700 key 52368 key 702423009
 reviewed1: 2008-09
@@ -4587,10 +4587,10 @@ published: 2017-12-29
 Record-Type: healthCond-withFreq-and gene names
 Name1: Dopamine beta-hydroxylase deficiency
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/dopamine-beta-hydroxylase-deficiency
-frequency1: Dopamine-hydroxylase deficiency is a very rare disorder. Fewer than 20 affected individuals, all of Western European descent, have been described in the scientific literature.
+frequency1: Dopamineβ-hydroxylase deficiency is a very rare disorder. Fewer than 20 affected individuals, all of Western European descent, have been described in the scientific literature.
 Description1: html:p autosomal recessive           html:p              html:p
 Related-gene-list1: DBH https://ghr.nlm.nih.gov/gene/DBH                                                    related-gene-list
-Synonym-list1: dopamine-hydroxylase noradrenaline deficiency norepinephrine deficiency
+Synonym-list1: dopamineβ-hydroxylase noradrenaline deficiency norepinephrine deficiency
 Db-key-list1: db GTR db GeneReviews db MeSH db OMIM db Orphanet db SNOMED CT
 key1: key C0342687 key dbh key D001342 key 223360 key 230 key 237923004
 reviewed1: 2008-09
@@ -6499,9 +6499,9 @@ reviewed1: 2015-06
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Guillain-Barrsyndrome
+Name1: Guillain-Barrésyndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/guillain-barre-syndrome
-frequency1: The prevalence of Guillain-Barrsyndrome is estimated to be 6 to 40 cases per 1 million people. The occurrence of the different types of Guillain-Barr <span style="background:#FFFF00;">syndrome varies across regions. AIDP is the most common type in North America</span> <span style="background:#FFFF00;">and Europe, accounting for approximately 90 percent of cases of Guillain-Barr</span> <span style="background:#FFFF00;">syndrome in those regions. AMAN and AMSAN together account for 30 to 50 percent</span> <span style="background:#FFFF00;">of cases in Asian countries and Latin America but only 3 to 5 percent of cases</span> <span style="background:#FFFF00;">in North America and Europe. Miller Fisher syndrome is also more common in Asian</span> <span style="background:#FFFF00;">countries, accounting for approximately 20 percent of cases in these countries</span> <span style="background:#FFFF00;">but less than 5 percent in North America and Europe.</span>
+frequency1: The prevalence of Guillain-Barrésyndrome is estimated to be 6 to 40 cases per 1 million people. The occurrence of the different types of Guillain-Barré <span style="background:#FFFF00;">syndrome varies across regions. AIDP is the most common type in North America</span> <span style="background:#FFFF00;">and Europe, accounting for approximately 90 percent of cases of Guillain-Barré</span> <span style="background:#FFFF00;">syndrome in those regions. AMAN and AMSAN together account for 30 to 50 percent</span> <span style="background:#FFFF00;">of cases in Asian countries and Latin America but only 3 to 5 percent of cases</span> <span style="background:#FFFF00;">in North America and Europe. Miller Fisher syndrome is also more common in Asian</span> <span style="background:#FFFF00;">countries, accounting for approximately 20 percent of cases in these countries</span> <span style="background:#FFFF00;">but less than 5 percent in North America and Europe.</span>
 Description1: html:p pattern unknown                       html:p              html:p                        html:p              html:p
 Related-gene-list1: TNF https://ghr.nlm.nih.gov/gene/TNF                                                                                                                                              related-gene-list
 Synonym-list1: acute infectious polyneuritis acute inflammatory polyneuropathy Fisher syndrome GBS Guillain-Barre syndrome Landry-Guillain-Barre syndrome
@@ -7406,9 +7406,9 @@ reviewed1: 2015-04
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Imerslund-Grsbeck syndrome
+Name1: Imerslund-Gräsbeck syndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/imerslund-grasbeck-syndrome
-frequency1: Imerslund-Grsbeck syndrome is a rare condition that was first described in Finland and Norway; in these regions, the condition is estimated to affect 1 in 200,000 people. The condition has also been reported in other countries worldwide; its prevalence in these countries is unknown.
+frequency1: Imerslund-Gräsbeck syndrome is a rare condition that was first described in Finland and Norway; in these regions, the condition is estimated to affect 1 in 200,000 people. The condition has also been reported in other countries worldwide; its prevalence in these countries is unknown.
 Description1: html:p autosomal recessive               html:p
 Related-gene-list1: AMN https://ghr.nlm.nih.gov/gene/AMN related-gene gene-symbol ghr-page  CUBN https://ghr.nlm.nih.gov/gene/CUBN                                                 related-gene-list
 Synonym-list1: defect of enterocyte intrinsic factor receptor enterocyte cobalamin malabsorption Imerslund-Grasbeck syndrome juvenile pernicious anemia with proteinuria due to selective intestinal malabsorption of vitamin B12 megaloblastic anemia 1
@@ -8383,9 +8383,9 @@ reviewed1: 2017-06
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Legg-Calv-Perthes disease
+Name1: Legg-Calvé-Perthes disease
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/legg-calve-perthes-disease
-frequency1: The incidence of Legg-Calv-Perthes disease varies by population. The condition is most common in white populations, in which it affects an estimated 1 to 3 in 20,000 children under age 15.
+frequency1: The incidence of Legg-Calvé-Perthes disease varies by population. The condition is most common in white populations, in which it affects an estimated 1 to 3 in 20,000 children under age 15.
 Description1: html:p autosomal dominant       html:p
 Related-gene-list1: COL2A1 https://ghr.nlm.nih.gov/gene/COL2A1                                                 related-gene-list
 Synonym-list1: Calve-Perthes disease coxa plana LCPD Perthes disease
@@ -8452,9 +8452,9 @@ reviewed1: 2016-07
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Lri-Weill dyschondrosteosis
+Name1: Léri-Weill dyschondrosteosis
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/leri-weill-dyschondrosteosis
-frequency1: The prevalence of Lri-Weill dyschondrosteosis is unknown. It is diagnosed more often in females than in males.
+frequency1: The prevalence of Léri-Weill dyschondrosteosis is unknown. It is diagnosed more often in females than in males.
 Description1: html:p autosomal codominant  memo  X-linked dominant               html:p
 Related-gene-list1: SHOX https://ghr.nlm.nih.gov/gene/SHOX                                     related-gene-list
 Synonym-list1: DCO dyschondrosteosis Leri-Weill dyschondrosteosis LWD
@@ -8917,9 +8917,9 @@ reviewed1: <span style="background:#FFFF00;">2012-03</span>
 published: <span style="background:#FFFF00;">2017-12-29</span>
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Marinesco-Sjgren syndrome
+Name1: Marinesco-Sjögren syndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/marinesco-sjogren-syndrome
-frequency1: Marinesco-Sjgren syndrome appears to be a rare condition. More than 100 cases have been reported worldwide.
+frequency1: Marinesco-Sjögren syndrome appears to be a rare condition. More than 100 cases have been reported worldwide.
 Description1: html:p autosomal recessive             html:p          html:p
 Related-gene-list1: SIL1 https://ghr.nlm.nih.gov/gene/SIL1                                           related-gene-list
 Synonym-list1: Garland-Moorhouse syndrome hereditary oligophrenic cerebello-lental degeneration Marinesco-Garland syndrome MSS
@@ -8941,7 +8941,7 @@ reviewed1: <span style="background:#FFFF00;">2012-10</span>
 published: <span style="background:#FFFF00;">2017-12-29</span>
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: <span style="background:#FFFF00;">Mayer-Rokitansky-Kster-Hauser syndrome</span>
+Name1: <span style="background:#FFFF00;">Mayer-Rokitansky-Küster-Hauser syndrome</span>
 GHR-webpage1: <span style="background:#FFFF00;">https://ghr.nlm.nih.gov/condition/mayer-rokitansky-kuster-hauser-syndrome</span>
 frequency1: <span style="background:#FFFF00;">MRKH syndrome affects approximately 1 in 4,500 newborn girls.</span>
 Description1: <span style="background:#FFFF00;">html:p</span> <span style="background:#FFFF00;">autosomal dominant</span>  memo  pattern unknown               html:p
@@ -9166,11 +9166,11 @@ reviewed1: 2007-11
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: <span style="background:#FFFF00;">Mnire disease</span>
+Name1: <span style="background:#FFFF00;">Ménière disease</span>
 GHR-webpage1: <span style="background:#FFFF00;">https://ghr.nlm.nih.gov/condition/meniere-disease</span>
-frequency1: <span style="background:#FFFF00;">The prevalence of Mnire disease varies in different geographic regions</span> <span style="background:#FFFF00;">and ethnic groups. It appears to be more common in people of European descent</span> <span style="background:#FFFF00;">than in those with other backgrounds. In the United States, there are an</span> <span style="background:#FFFF00;">estimated 615,000 people with Mnire disease, and more than 45,000 new cases</span> <span style="background:#FFFF00;">are diagnosed each year.</span>
+frequency1: <span style="background:#FFFF00;">The prevalence of Ménière disease varies in different geographic regions</span> <span style="background:#FFFF00;">and ethnic groups. It appears to be more common in people of European descent</span> <span style="background:#FFFF00;">than in those with other backgrounds. In the United States, there are an</span> <span style="background:#FFFF00;">estimated 615,000 people with Ménière disease, and more than 45,000 new cases</span> <span style="background:#FFFF00;">are diagnosed each year.</span>
 Description1: <span style="background:#FFFF00;">html:p</span> <span style="background:#FFFF00;">autosomal dominant</span>           html:p          html:p      html:p
-Related-gene-list1: <span style="background:#FFFF00;">synonym</span> <span style="background:#FFFF00;">aural vertigo</span>  synonym Meniere disease db-key synonym Meniere's disease  synonym Meniere's syndrome db-key synonym Mnire's disease  synonym Mnire's vertigo db-key synonym otogenic vertigo  synonym primary endolymphatic hydrops db-key      db-key      db-key      db-key      db-key      db-key    related-gene-list
+Related-gene-list1: <span style="background:#FFFF00;">synonym</span> <span style="background:#FFFF00;">aural vertigo</span>  synonym Meniere disease db-key synonym Meniere's disease  synonym Meniere's syndrome db-key synonym Ménière's disease  synonym Ménière's vertigo db-key synonym otogenic vertigo  synonym primary endolymphatic hydrops db-key      db-key      db-key      db-key      db-key      db-key    related-gene-list
 Synonym-list1: <span style="background:#FFFF00;">key</span> C0025281 key H81.0 key H81.01 key H81.02 key H81.03 key H81.09 key D008575 key 156000 key 45360 key 13445001
 Db-key-list1: <span style="background:#FFFF00;">2017-12-29</span>
 
@@ -9455,7 +9455,7 @@ Name1: Moebius syndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/moebius-syndrome
 frequency1: The exact incidence of Moebius syndrome is unknown. Researchers estimate that the condition affects 1 in 50,000 to 1 in 500,000 newborns.
 Description1: html:p pattern unknown     html:p        html:p            html:p            html:p        html:p
-Related-gene-list1: synonym congenital ophthalmoplegia and facial paresis  synonym Mobius syndrome db-key synonym Moebius congenital oculofacial paralysis  synonym Moebius sequence db-key synonym Moebius spectrum  synonym Mbius sequence db-key      db-key                                                                         related-gene-list
+Related-gene-list1: synonym congenital ophthalmoplegia and facial paresis  synonym Mobius syndrome db-key synonym Moebius congenital oculofacial paralysis  synonym Moebius sequence db-key synonym Moebius spectrum  synonym Möbius sequence db-key      db-key                                                                         related-gene-list
 Synonym-list1: key C0221060 key D020331 key 157900 key 570 key 89444000
 Db-key-list1: 2017-12-29
 
@@ -9688,12 +9688,12 @@ reviewed1: 2006-06
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Mllerian aplasia and hyperandrogenism
+Name1: Müllerian aplasia and hyperandrogenism
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/mullerian-aplasia-and-hyperandrogenism
-frequency1: Mllerian aplasia and hyperandrogenism is a very rare disorder; it has been identified in only a few individuals worldwide.
+frequency1: Müllerian aplasia and hyperandrogenism is a very rare disorder; it has been identified in only a few individuals worldwide.
 Description1: html:p autosomal dominant                     html:p
 Related-gene-list1: WNT4 https://ghr.nlm.nih.gov/gene/WNT4                                           related-gene-list
-Synonym-list1: Biason-Lauber syndrome Mayer-Rokitansky-Kster-Hauser-Biason-Lauber syndrome Mayer-Rokitansky-Kster-Hauser-like syndrome Mullerian aplasia and hyperandrogenism Mllerian duct failure WNT4 deficiency WNT4 Mllerian aplasia WNT4 Mllerian aplasia and ovarian dysfunction
+Synonym-list1: Biason-Lauber syndrome Mayer-Rokitansky-Küster-Hauser-Biason-Lauber syndrome Mayer-Rokitansky-Küster-Hauser-like syndrome Mullerian aplasia and hyperandrogenism Müllerian duct failure WNT4 deficiency WNT4 Müllerian aplasia WNT4 Müllerian aplasia and ovarian dysfunction
 Db-key-list1: db GTR db MeSH db OMIM db Orphanet db SNOMED CT
 key1: key C2675014 key D058489 key 158330 key 247768 key 699275001
 reviewed1: 2014-07
@@ -11008,9 +11008,9 @@ reviewed1: 2015-09
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Persistent Mllerian duct syndrome
+Name1: Persistent Müllerian duct syndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/persistent-mullerian-duct-syndrome
-frequency1: Persistent Mllerian duct syndrome is a rare disorder; however, the prevalence of the condition is unknown.
+frequency1: Persistent Müllerian duct syndrome is a rare disorder; however, the prevalence of the condition is unknown.
 Description1: html:p autosomal recessive               html:p        html:p                    html:p
 Related-gene-list1: AMH https://ghr.nlm.nih.gov/gene/AMH related-gene gene-symbol ghr-page  AMHR2 https://ghr.nlm.nih.gov/gene/AMHR2                                                                      related-gene-list
 Synonym-list1: persistent oviduct syndrome PMDS
@@ -11544,7 +11544,7 @@ GHR-webpage1: <span style="background:#FFFF00;">https://ghr.nlm.nih.gov/conditio
 frequency1: <span style="background:#FFFF00;">The prevalence of progressive familial heart block is unknown. In the</span> <span style="background:#FFFF00;">United States, about 1 in 5,000 individuals have complete heart block from any</span> <span style="background:#FFFF00;">cause; worldwide, about 1 in 2,500 individuals have complete heart block.</span>
 Description1: <span style="background:#FFFF00;">html:p</span> <span style="background:#FFFF00;">autosomal dominant</span>                     html:p                        html:p            html:p
 Related-gene-list1: <span style="background:#FFFF00;">GJA5</span> <span style="background:#FFFF00;">https://ghr.nlm.nih.gov/gene/GJA5</span> related-gene gene-symbol ghr-page  SCN1B https://ghr.nlm.nih.gov/gene/SCN1B related-gene gene-symbol ghr-page  SCN5A https://ghr.nlm.nih.gov/gene/SCN5A related-gene gene-symbol ghr-page  TRPM4 https://ghr.nlm.nih.gov/gene/TRPM4                                                                               related-gene-list
-Synonym-list1: <span style="background:#FFFF00;">bundle branch block</span> HBBD hereditary bundle branch defect hereditary bundle branch system defect Lenegre Lev disease Lev-Lengre disease Lev syndrome Lev's disease PCCD progressive cardiac conduction defect
+Synonym-list1: <span style="background:#FFFF00;">bundle branch block</span> HBBD hereditary bundle branch defect hereditary bundle branch system defect Lenegre Lev disease Lev-Lenègre disease Lev syndrome Lev's disease PCCD progressive cardiac conduction defect
 Db-key-list1: <span style="background:#FFFF00;">db</span> GTR db GTR db GTR db ICD-10-CM db MeSH db OMIM db OMIM db OMIM db Orphanet db SNOMED CT
 key1: <span style="background:#FFFF00;">key</span> C1841658 key C1879286 key C1970298 key Q24.6 key D006327 key 113900 key 140400 key 604559 key 871 key 698249005
 reviewed1: <span style="background:#FFFF00;">2015-04</span>
@@ -11556,7 +11556,7 @@ GHR-webpage1: https://ghr.nlm.nih.gov/condition/progressive-familial-intrahepati
 frequency1: PFIC is estimated to affect 1 in 50,000 to 100,000 people worldwide. PFIC type 1 is much more common in the Inuit population of Greenland and the Old Order Amish population of the United States.
 Description1: html:p autosomal recessive       html:p            html:p      html:p          html:p          html:p
 Related-gene-list1: ABCB4 https://ghr.nlm.nih.gov/gene/ABCB4 related-gene gene-symbol ghr-page  ABCB11 https://ghr.nlm.nih.gov/gene/ABCB11 related-gene gene-symbol ghr-page  ATP8B1 https://ghr.nlm.nih.gov/gene/ATP8B1                                                                   related-gene-list
-Synonym-list1: ABCB4-related intrahepatic cholestasis ABCB11-related intrahepatic cholestasis ATP8B1-related intrahepatic cholestasis BSEP deficiency Byler disease Byler syndrome FIC1 deficiency low-GT familial intrahepatic cholestasis MDR3 deficiency
+Synonym-list1: ABCB4-related intrahepatic cholestasis ABCB11-related intrahepatic cholestasis ATP8B1-related intrahepatic cholestasis BSEP deficiency Byler disease Byler syndrome FIC1 deficiency lowγ-GT familial intrahepatic cholestasis MDR3 deficiency
 Db-key-list1: db GTR db GTR db GTR db GeneReviews db MeSH db OMIM db OMIM db OMIM db Orphanet db SNOMED CT
 key1: key C0268312 key C1865643 key C1866138 key pfic key D002780 key 211600 key 601847 key 602347 key 172 key 74162007
 reviewed1: 2009-12
@@ -12472,9 +12472,9 @@ reviewed1: <span style="background:#FFFF00;">2017-12</span>
 published: <span style="background:#FFFF00;">2017-12-29</span>
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Senior-Lken syndrome
+Name1: Senior-Løken syndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/senior-loken-syndrome
-frequency1: Senior-Lken syndrome is a rare disorder, with an estimated prevalence of about 1 in 1 million people worldwide. Only a few families with the condition have been described in the medical literature.
+frequency1: Senior-Løken syndrome is a rare disorder, with an estimated prevalence of about 1 in 1 million people worldwide. Only a few families with the condition have been described in the medical literature.
 Description1: html:p autosomal recessive     html:p              html:p
 Related-gene-list1: CEP290 https://ghr.nlm.nih.gov/gene/CEP290 related-gene gene-symbol ghr-page  IQCB1 https://ghr.nlm.nih.gov/gene/IQCB1 related-gene gene-symbol ghr-page  NPHP1 https://ghr.nlm.nih.gov/gene/NPHP1 related-gene gene-symbol ghr-page  NPHP4 https://ghr.nlm.nih.gov/gene/NPHP4 related-gene gene-symbol ghr-page  SDCCAG8 https://ghr.nlm.nih.gov/gene/SDCCAG8 related-gene gene-symbol ghr-page  WDR19 https://ghr.nlm.nih.gov/gene/WDR19                                                             related-gene-list
 Synonym-list1: Loken-Senior syndrome renal dysplasia and retinal aplasia renal-retinal syndrome Senior-Loken syndrome
@@ -12532,9 +12532,9 @@ reviewed1: 2017-09
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Szary syndrome
+Name1: Sézary syndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/sezary-syndrome
-frequency1: Szary syndrome is a rare condition, although its prevalence is unknown. It is the second most common form of cutaneous T-cell lymphoma after mycosis fungoides, accounting for approximately 3 to 5 percent of cases of cutaneous T-cell lymphoma.
+frequency1: Sézary syndrome is a rare condition, although its prevalence is unknown. It is the second most common form of cutaneous T-cell lymphoma after mycosis fungoides, accounting for approximately 3 to 5 percent of cases of cutaneous T-cell lymphoma.
 Description1: html:p pattern unknown             html:p                    html:p      html:p        html:p
 Related-gene-list1: synonym Sezary syndrome  synonym Sezary's lymphoma db-key      db-key      db-key      db-key      db-key      db-key      db-key      db-key      db-key      db-key      db-key      db-key      db-key      db-key    related-gene-list
 Synonym-list1: key C0036920 key C84.1 key C84.10 key C84.11 key C84.12 key C84.13 key C84.14 key C84.15 key C84.16 key C84.17 key C84.18 key C84.19 key D012751 key 3162 key 4950009
@@ -12731,9 +12731,9 @@ reviewed1: 2016-11
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Sjgren-Larsson syndrome
+Name1: Sjögren-Larsson syndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/sjogren-larsson-syndrome
-frequency1: Sjgren-Larsson syndrome was first observed in Sweden, where the prevalence of this condition is 1 per 250,000 individuals. Outside Sweden, the prevalence of this condition is unknown.
+frequency1: Sjögren-Larsson syndrome was first observed in Sweden, where the prevalence of this condition is 1 per 250,000 individuals. Outside Sweden, the prevalence of this condition is unknown.
 Description1: html:p autosomal recessive     html:p            html:p                        html:p          html:p
 Related-gene-list1: ALDH3A2 https://ghr.nlm.nih.gov/gene/ALDH3A2                                                                                              synonym-list  db-key-list
 Synonym-list1: congenital icthyosis mental retardation spasticity syndrome FALDH deficiency fatty aldehyde dehydrogenase deficiency ichthyosis oligophrenia syndrome Sjogren-Larsson syndrome SLS
@@ -12743,9 +12743,9 @@ reviewed1: 2011-10
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: <span style="background:#FFFF00;">Sjgren syndrome</span>
+Name1: <span style="background:#FFFF00;">Sjögren syndrome</span>
 GHR-webpage1: <span style="background:#FFFF00;">https://ghr.nlm.nih.gov/condition/sjogren-syndrome</span>
-frequency1: <span style="background:#FFFF00;">Sjgren syndrome is a relatively common disorder; it occurs in 0.1 to 4</span> <span style="background:#FFFF00;">percent of the population. It is difficult to determine the exact prevalence</span> <span style="background:#FFFF00;">because the characteristic features of this disorder, dry eyes and dry mouth,</span> <span style="background:#FFFF00;">can also be caused by many other conditions. Women develop Sjgren syndrome</span> <span style="background:#FFFF00;">about 10 times more often than men; the specific reason for this difference is</span> <span style="background:#FFFF00;">unknown but likely involves the effects of sex hormones on immune system</span> <span style="background:#FFFF00;">function.</span>
+frequency1: <span style="background:#FFFF00;">Sjögren syndrome is a relatively common disorder; it occurs in 0.1 to 4</span> <span style="background:#FFFF00;">percent of the population. It is difficult to determine the exact prevalence</span> <span style="background:#FFFF00;">because the characteristic features of this disorder, dry eyes and dry mouth,</span> <span style="background:#FFFF00;">can also be caused by many other conditions. Women develop Sjögren syndrome</span> <span style="background:#FFFF00;">about 10 times more often than men; the specific reason for this difference is</span> <span style="background:#FFFF00;">unknown but likely involves the effects of sex hormones on immune system</span> <span style="background:#FFFF00;">function.</span>
 Description1: <span style="background:#FFFF00;">html:p</span> <span style="background:#FFFF00;">pattern unknown</span>     html:p          html:p            html:p                              html:p             inheritance-pattern-list
 Related-gene-list1: <span style="background:#FFFF00;">synonym</span> <span style="background:#FFFF00;">Gougerot-Houwer-Sjogren syndrome</span>  synonym Gougerot-Sjogren syndrome db-key synonym keratoconjunctivitis sicca  synonym keratoconjunctivitis sicca-xerostomia db-key synonym secreto-inhibitor-xerodermostenosis  synonym sicca syndrome db-key synonym Sjogren-Gougerot syndrome  synonym Sjogren's syndrome db-key      db-key      db-key      db-key      db-key      db-key      db-key      db-key      db-key                                    related-gene-list
 Synonym-list1: <span style="background:#FFFF00;">key</span> C1527336 key M35.0 key M35.00 key M35.01 key M35.02 key M35.03 key M35.04 key M35.09 key D012859 key 270150 key 378 key 302896008 key 83901003
@@ -13030,7 +13030,7 @@ published: 2017-12-29
 Record-Type: healthCond-withFreq-and gene names
 Name1: Spinocerebellar ataxia type 2
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/spinocerebellar-ataxia-type-2
-frequency1: The prevalence of SCA2 is unknown. This condition is estimated to be one of the most common types of spinocerebellar ataxia; however, all types of <span style="background:#FFFF00;">spinocerebellar ataxia are relatively rare. SCA2 is more common in Cuba,</span> <span style="background:#FFFF00;">particularly in the Holgun province, where approximately 40 per 100,000</span> <span style="background:#FFFF00;">individuals are affected.</span>
+frequency1: The prevalence of SCA2 is unknown. This condition is estimated to be one of the most common types of spinocerebellar ataxia; however, all types of <span style="background:#FFFF00;">spinocerebellar ataxia are relatively rare. SCA2 is more common in Cuba,</span> <span style="background:#FFFF00;">particularly in the Holguín province, where approximately 40 per 100,000</span> <span style="background:#FFFF00;">individuals are affected.</span>
 Description1: html:p autosomal dominant             html:p          html:p
 Related-gene-list1: ATXN2 https://ghr.nlm.nih.gov/gene/ATXN2                                           related-gene-list
 Synonym-list1: SCA2
@@ -13105,7 +13105,7 @@ GHR-webpage1: https://ghr.nlm.nih.gov/condition/spondyloenchondrodysplasia-with-
 frequency1: SPENCDI appears to be a rare condition, although its prevalence is unknown.
 Description1: html:p autosomal recessive       html:p                  html:p                      html:p        html:p
 Related-gene-list1: ACP5 https://ghr.nlm.nih.gov/gene/ACP5                                                                                        related-gene-list
-Synonym-list1: combined immunodeficiency with autoimmunity and spondylometaphyseal dysplasia Roifman-Melamed syndrome RoifmanCosta syndrome SPENCDI
+Synonym-list1: combined immunodeficiency with autoimmunity and spondylometaphyseal dysplasia Roifman-Melamed syndrome Roifman–Costa syndrome SPENCDI
 Db-key-list1: db GTR db MeSH db MeSH db OMIM db Orphanet db SNOMED CT
 key1: key C1842763 key D007153 key D010009 key 607944 key 50816 key 703523004
 reviewed1: 2013-12
@@ -13256,9 +13256,9 @@ reviewed1: 2017-02
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Stve-Wiedemann syndrome
+Name1: Stüve-Wiedemann syndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/stuve-wiedemann-syndrome
-frequency1: Stve-Wiedemann syndrome is a rare condition that has been found worldwide. Its prevalence is unknown.
+frequency1: Stüve-Wiedemann syndrome is a rare condition that has been found worldwide. Its prevalence is unknown.
 Description1: html:p autosomal recessive             html:p          html:p              html:p                  html:p       inheritance-pattern-list
 Related-gene-list1: LIFR https://ghr.nlm.nih.gov/gene/LIFR                                                                                             related-gene-list
 Synonym-list1: neonatal Schwartz-Jampel syndrome Schwartz-Jampel type 2 syndrome SJS2 Stuve-Wiedemann dysplasia Stuve-Wiedemann syndrome Stuve-Wiedemann/Schwartz-Jampel type 2 syndrome STWS SWS
@@ -14137,14 +14137,22 @@ published: <span style="background:#FFFF00;">2017-12-29</span>
 Record-Type: healthCond-withFreq-and gene names
 Name1: <span style="background:#FFFF00;">Waardenburg syndrome</span>
 GHR-webpage1: <span style="background:#FFFF00;">https://ghr.nlm.nih.gov/condition/waardenburg-syndrome</span>
-frequency1: <span style="background:#FFFF00;">Waardenburg syndrome affects an estimated 1 in 40,000 people. It accounts</span> <span style="background:#FFFF00;">for 2 to 5 percent of all cases of congenital hearing loss. Types I and II are</span> <span style="background:#FFFF00;">the most common forms of Waardenburg syndrome, while types III and IV are rare.</span>
-Description1: <span style="background:#FFFF00;">html:p</span> <span style="background:#FFFF00;">autosomal dominant</span>                   html:p
-Related-gene-list1: <span style="background:#FFFF00;">EDN3</span> <span style="background:#FFFF00;">https://ghr.nlm.nih.gov/gene/EDN3</span> related-gene gene-symbol ghr-page  EDNRB https://ghr.nlm.nih.gov/gene/EDNRB related-gene gene-symbol ghr-page  MITF https://ghr.nlm.nih.gov/gene/MITF related-gene gene-symbol ghr-page  PAX3 https://ghr.nlm.nih.gov/gene/PAX3 related-gene gene-symbol ghr-page  SNAI2 https://ghr.nlm.nih.gov/gene/SNAI2 related-gene gene-symbol ghr-page  SOX10 https://ghr.nlm.nih.gov/gene/SOX10                                                                                                                                     related-gene-list
+frequency1: <span style="background:#FFFF00;">Waardenburg syndrome affects an estimated 1 in 40,000 people. It accounts</span>
+Description1: <span style="background:#FFFF00;">html:p</span> <span style="background:#FFFF00;">autosomal dominant</span>
+Related-gene-list1: <span style="background:#FFFF00;">EDN3</span> <span style="background:#FFFF00;">https://ghr.nlm.nih.gov/gene/EDN3</span>
 Synonym-list1: <span style="background:#FFFF00;">Waardenburg's syndrome</span>
-Db-key-list1: <span style="background:#FFFF00;">db</span> GTR db GTR db GTR db GTR db GTR db GTR db GTR db GTR db GTR db GTR db GeneReviews db MeSH db OMIM db OMIM db OMIM db OMIM db OMIM db OMIM db OMIM db OMIM db OMIM db OMIM db Orphanet db Orphanet db Orphanet db Orphanet db Orphanet db SNOMED CT
-key1: <span style="background:#FFFF00;">key</span> C0342680 key C1837203 key C1838447 key C1847722 key C1847800 key C1848519 key C1860339 key C2700405 key C2750452 key C2750457 key ws1 key D014849 key 148820 key 193500 key 193510 key 277580 key 600193 key 606662 key 608890 key 611584 key 613265 key 613266 key 894 key 895 key 896 key 897 key 3440 key 47434006
+Db-key-list1: <span style="background:#FFFF00;">db</span>
+key1: <span style="background:#FFFF00;">key</span>
 reviewed1: <span style="background:#FFFF00;">2016-08</span>
 published: <span style="background:#FFFF00;">2017-12-29</span>
+
+Record-Type: healthCond-withFreq-and gene names
+Name1: 蓝色眼珠
+frequency1: <span style="background:#FFFF00;">for 2 to 5 percent of all cases of congenital hearing loss. Types I and II are</span> <span style="background:#FFFF00;">the most common forms of Waardenburg syndrome, while types III and IV are rare.</span>
+Description1: html:p
+Related-gene-list1: related-gene gene-symbol ghr-page  EDNRB https://ghr.nlm.nih.gov/gene/EDNRB related-gene gene-symbol ghr-page  MITF https://ghr.nlm.nih.gov/gene/MITF related-gene gene-symbol ghr-page  PAX3 https://ghr.nlm.nih.gov/gene/PAX3 related-gene gene-symbol ghr-page  SNAI2 https://ghr.nlm.nih.gov/gene/SNAI2 related-gene gene-symbol ghr-page  SOX10 https://ghr.nlm.nih.gov/gene/SOX10                                                                                                                                     related-gene-list
+Db-key-list1: GTR db GTR db GTR db GTR db GTR db GTR db GTR db GTR db GTR db GTR db GeneReviews db MeSH db OMIM db OMIM db OMIM db OMIM db OMIM db OMIM db OMIM db OMIM db OMIM db OMIM db Orphanet db Orphanet db Orphanet db Orphanet db Orphanet db SNOMED CT
+key1: C0342680 key C1837203 key C1838447 key C1847722 key C1847800 key C1848519 key C1860339 key C2700405 key C2750452 key C2750457 key ws1 key D014849 key 148820 key 193500 key 193510 key 277580 key 600193 key 606662 key 608890 key 611584 key 613265 key 613266 key 894 key 895 key 896 key 897 key 3440 key 47434006
 
 Record-Type: healthCond-withFreq-and gene names
 Name1: Wagner syndrome
@@ -14171,9 +14179,9 @@ reviewed1: 2014-12
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: <span style="background:#FFFF00;">Waldenstrm macroglobulinemia</span>
+Name1: <span style="background:#FFFF00;">Waldenström macroglobulinemia</span>
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/waldenstrom-macroglobulinemia
-frequency1: Waldenstrm macroglobulinemia affects an estimated 3 per million people <span style="background:#FFFF00;">each year in the United States. Approximately 1,500 new cases of the condition</span> <span style="background:#FFFF00;">are diagnosed each year in this country, and whites are more commonly affected</span> <span style="background:#FFFF00;">than African Americans. For unknown reasons, the condition occurs twice as often</span> <span style="background:#FFFF00;">in men than women.</span>
+frequency1: Waldenström macroglobulinemia affects an estimated 3 per million people <span style="background:#FFFF00;">each year in the United States. Approximately 1,500 new cases of the condition</span> <span style="background:#FFFF00;">are diagnosed each year in this country, and whites are more commonly affected</span> <span style="background:#FFFF00;">than African Americans. For unknown reasons, the condition occurs twice as often</span> <span style="background:#FFFF00;">in men than women.</span>
 Description1: html:p not inherited               html:p              html:p                                        html:p              html:p
 Related-gene-list1: CXCR4 https://ghr.nlm.nih.gov/gene/CXCR4 related-gene gene-symbol ghr-page  MYD88 https://ghr.nlm.nih.gov/gene/MYD88                                                                                                                            related-gene-list
 Synonym-list1: macroglobulinemia of Waldenstrom Waldenstrom macroglobulinemia Waldenstrom's macroglobulinemia WM
@@ -14255,9 +14263,9 @@ reviewed1: 2015-02
 published: 2017-12-29
 
 Record-Type: healthCond-withFreq-and gene names
-Name1: Weissenbacher-Zweymller syndrome
+Name1: Weissenbacher-Zweymüller syndrome
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/weissenbacher-zweymuller-syndrome
-frequency1: Weissenbacher-Zweymller syndrome is very rare; only a few affected families worldwide have been described in the medical literature.
+frequency1: Weissenbacher-Zweymüller syndrome is very rare; only a few affected families worldwide have been described in the medical literature.
 Description1: html:p autosomal dominant               html:p                html:p
 Related-gene-list1: COL11A2 https://ghr.nlm.nih.gov/gene/COL11A2                                                             related-gene-list
 Synonym-list1: heterozygous OSMED heterozygous otospondylomegaepiphyseal dysplasia Pierre Robin syndrome with fetal chondrodysplasia WZS
@@ -14317,14 +14325,23 @@ published: <span style="background:#FFFF00;">2017-12-29</span>
 Record-Type: healthCond-withFreq-and gene names
 Name1: <span style="background:#FFFF00;">Wilson disease</span>
 GHR-webpage1: https://ghr.nlm.nih.gov/condition/wilson-disease
-frequency1: Wilson disease is a rare disorder that affects approximately 1 in 30,000 individuals.
-Description1: html:p autosomal recessive           html:p          html:p          html:p
-Related-gene-list1: ATP7B https://ghr.nlm.nih.gov/gene/ATP7B related-gene gene-symbol ghr-page  PRNP https://ghr.nlm.nih.gov/gene/PRNP                                                    related-gene-list
-Synonym-list1: copper storage disease hepatolenticular degeneration syndrome WD Wilson's disease
-Db-key-list1: db GTR db GeneReviews db ICD-10-CM db MeSH db OMIM db Orphanet db SNOMED CT
-key1: key C0019202 key wilson key E83.01 key D006527 key 277900 key 905 key 88518009
+frequency1: Wilson disease is a rare disorder that affects approximately 1 in 30,000
+Description1: html:p autosomal recessive
+Related-gene-list1: ATP7B https://ghr.nlm.nih.gov/gene/ATP7B
+Synonym-list1: copper storage disease
+Db-key-list1: db
+key1: key
 reviewed1: 2014-01
 published: 2017-12-29
+
+Record-Type: healthCond-withFreq-and gene names
+Name1: 小精灵综合症
+frequency1: individuals.
+Description1: html:p          html:p          html:p
+Related-gene-list1: related-gene gene-symbol ghr-page  PRNP https://ghr.nlm.nih.gov/gene/PRNP                                                    related-gene-list
+Synonym-list1: hepatolenticular degeneration syndrome WD Wilson's disease
+Db-key-list1: GTR db GeneReviews db ICD-10-CM db MeSH db OMIM db Orphanet db SNOMED CT
+key1: C0019202 key wilson key E83.01 key D006527 key 277900 key 905 key 88518009
 
 Record-Type: healthCond-withFreq-and gene names
 Name1: Winchester syndrome
@@ -14476,7 +14493,7 @@ GHR-webpage1: https://ghr.nlm.nih.gov/condition/x-linked-chondrodysplasia-puncta
 frequency1: X-linked chondrodysplasia punctata 2 has been estimated to affect fewer than 1 in 400,000 newborns. However, the disorder may actually be more common than this estimate because it is likely underdiagnosed, particularly in females with mild signs and symptoms.More than 95 percent of cases of X-linked chondrodysplasia punctata 2 occur in females. About a dozen males with the condition have been reported in the scientific literature.
 Description1: html:p X-linked dominant   html:p                        html:p          html:p          html:p
 Related-gene-list1: EBP https://ghr.nlm.nih.gov/gene/EBP                                                                                              related-gene-list
-Synonym-list1: CDPX2 chondrodysplasia punctata 2, X-linked Conradi-Hnermann-Happle syndrome Conradi-Hnermann Syndrome Happle syndrome X-linked dominant chondrodysplasia punctata
+Synonym-list1: CDPX2 chondrodysplasia punctata 2, X-linked Conradi-Hünermann-Happle syndrome Conradi-Hünermann Syndrome Happle syndrome X-linked dominant chondrodysplasia punctata
 Db-key-list1: db GTR db GeneReviews db ICD-10-CM db MeSH db OMIM db Orphanet db SNOMED CT
 key1: key C0282102 key x-dcdp key Q77.3 key D002806 key 302960 key 35173 key 398719004
 reviewed1: 2011-11

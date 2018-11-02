@@ -54,6 +54,7 @@ Record-Type: Useful websites
 RecordType-Descr: Reference-sequence-databases
 Name: DGV: Database of Genomic Variants
 Website: <span style="color:#0000FF;"><a href="http://dgv.tcag.ca/dgv/app/home"><font color="#0000FF">http://dgv.tcag.ca/dgv/app/home</font></a></span>
+Function: 目的是提供人类染色体结构变异的概况信息，数据库记录了一系列基因变异与表型相关的信息，数据库信息持续更新中。
 
 Record-Type: Useful websites
 RecordType-Descr: Reference-sequence-databases
@@ -98,24 +99,27 @@ Function: <b>Remarks</b>
 
 Record-Type: Useful websites
 RecordType-Descr: Reference-sequence-databases
-Name: OMIM :0nline Mendelian Inheritance in Man
+Name: OMIM :0nline Mendelian Inheritance in Man”
 Website: <span style="color:#0000FF;"><a href="http://www.omim.org/"><font color="#0000FF">http://www.omim.org/</font></a></span>
+Function: 数据库持续更新，主要着眼于可遗传的或遗传性的基因疾病，包括文本信息和相关参考信息、序列纪录、图谱和相关其他数据库。
 
 Record-Type: Useful websites
 RecordType-Descr: Reference-sequence-databases
 Name: DECIPHER: Database of Chromosomal Imbalance and Phenotype in Humans using Ensembl Resources
 Website: <span style="color:#0000FF;"><a href="https://decipher.sanger.ac.uk/index"><font color="#0000FF">https://decipher.sanger.ac.uk/index</font></a></span>
-Function: DECIPHER20010,000
+Function: 用户可以通过检索数据库，发现一系列相关的遗传疾病信息，包括变异位点、临床表型等，提高临床诊断效能。DECIPHER数据库包含了超过200家研究中心上传的超过10,000例的案例信息。
 
 Record-Type: Useful websites
 RecordType-Descr: Reference-sequence-databases
 Name: DGV: Database of Genomic Variants
 Website: <span style="color:#0000FF;"><a href="http://dgv.tcag.ca/dgv/app/home"><font color="#0000FF">http://dgv.tcag.ca/dgv/app/home</font></a></span>
+Function: 目的是提供人类染色体结构变异的概况信息，数据库记录了一系列基因变异与表型相关的信息，数据库信息持续更新中。
 
 Record-Type: Useful websites
 RecordType-Descr: Reference-sequence-databases
 Name: Orphanet
 Website: <span style="color:#0000FF;"><a href="http://www.orpha.net/consor/cgi-bin/index.php?lng=EN"><font color="#0000FF">http://www.orpha.net/consor/cgi-bin/index.php?lng=EN</font></a></span>
+Function: 数据库是为所有用户提供罕见病和罕见病药物信息的开放门户，目的在于提高罕见病的诊断、护理和治疗效果。
 
 Record-Type: Useful websites
 RecordType-Descr: Reference-sequence-databases

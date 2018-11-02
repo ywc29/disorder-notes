@@ -66,7 +66,7 @@ Service-provides: Ancestry service (79GBP) Health + Ancestry service (149 GBP) (
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
 Country: CA
-Company-name: Bambni Test (Berry Genomics)
+Company-name: Bambni Test (Berry Genomics贝瑞和康)
 Website: http://www.berrygenomics.com/bambnitest/technology/theory/
 Service-provides: Noninvasive prenatal test (PINT)
 
@@ -115,13 +115,13 @@ Service-provides: Noninvasive prenatal test (PINT)
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
 Country: CA
-Company-name: Xcelom
+Company-name: 香港雅士能基因科技有限公司（Xcelom
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
 Country: Germany
 Company-name: MGZ Medical Genetics Center.
-Service-provides: 90% of the samples MGZ analyzes with the CytoSNP-850K BeadChip are postnatal. These analyses help identify the causes of autism spectrum disorders, intellectual disability (ID), dysmorphic features, or neurological disorders such as epilepsy. MGZ also performs prenatal analysis with conventional karyotyping, chromosomal microarrays, and noninvasive prenatal testing (NIPT) for chromosomal aneuploidy (abnormal number of chromosomes). Uses the MiSeq and NextSeq500 Systems to run a large number of custom panels to identify variants associated with rare hereditary diseases and the TruSight Cancer Sequencing Panel, which targets 94 genes with suspected associations to common and rare cancers. The sequencing panel also includes 284 SNPs suspected to correlate with cancer through genome-wide association studies (GWAS).The TruSight Cancer Sequencing Panel is a test method that anyone<br>can adapt easily in their laboratory,Dr. Benet-Pags said.Its easy to implement in automated workflows and performs with high repeatability and reproducibility. The TruSight Cancer Panel enables us to analyze more genes in a single workflow than previous technologies. The advantage is that we can identify potential mutations in cancer associated genes not primarily tested.
+Service-provides: 90% of the samples MGZ analyzes with the CytoSNP-850K BeadChip are postnatal. These analyses help identify the causes of autism spectrum disorders, intellectual disability (ID), dysmorphic features, or neurological disorders such as epilepsy. MGZ also performs prenatal analysis with conventional karyotyping, chromosomal microarrays, and noninvasive prenatal testing (NIPT) for chromosomal aneuploidy (abnormal number of chromosomes). Uses the MiSeq and NextSeq®500 Systems to run a large number of custom panels to identify variants associated with rare hereditary diseases and the TruSight Cancer Sequencing Panel, which targets 94 genes with suspected associations to common and rare cancers. The sequencing panel also includes 284 SNPs suspected to correlate with cancer through genome-wide association studies (GWAS).The TruSight Cancer Sequencing Panel is a test method that anyone<br>can adapt easily in their laboratory,”Dr. Benet-Pagès said.“It’s easy to implement in automated workflows and performs with high repeatability and reproducibility. The TruSight Cancer Panel enables us to analyze more genes in a single workflow than previous technologies. The advantage is that we can identify potential mutations in cancer associated genes not primarily tested.
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
@@ -145,7 +145,7 @@ Service-provides: ATLAS Biolabs performs genome-wide gene expression and SNP ana
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
 Country: UK
-Company-name: Birminghams woman NHS
+Company-name: Birmingham’s woman NHS
 Service-provides: solid tumour 28 gene panel solid tumour 60 gene panel solid tumour 9 gene panel
 
 Record-Type: Genetic test kits
@@ -214,7 +214,7 @@ Service-provides: FFPE tissue. 200 ng human DNA.
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: InfiniumGlobal Screening Array-24 v1.0 Kit
+Country: Infinium®Global Screening Array-24 v1.0 Kit
 Company-name: Research use only
 Website: Illumina
 Service-provides: Saliva, blood, buccal swabs, and formalin-fixed, paraffin-embedded (FFPE) samples (with optional FFPE restore kit). 200Ng human DNA
@@ -270,7 +270,7 @@ Service-provides: FFPE tissue. 200 ng human DNA.
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: InfiniumOmni5-4 v1.2 Kit
+Country: Infinium®Omni5-4 v1.2 Kit
 Company-name: Research use only
 Website: Illumina
 Service-provides: FFPE tissue. 400 ng human DNA.
@@ -396,7 +396,7 @@ RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequenci
 Country: TruSight RNA Fusion Panel
 Company-name: Clinical cancer research
 Website: Illumina
-Service-provides: 10 ng total RNA, 20100 ng FFPE RNA
+Service-provides: 10 ng total RNA, 20–100 ng FFPE RNA
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
@@ -410,7 +410,7 @@ RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequenci
 Country: AmpliSeq for Illumina BRCA Panel
 Company-name: Clinical cancer research
 Website: Illumina
-Service-provides: FFPE Tissue. 1100 ng (10 ng recommended per pool)
+Service-provides: FFPE Tissue. 1–100 ng (10 ng recommended per pool)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
@@ -445,7 +445,7 @@ RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequenci
 Country: AmpliSeq for Illumina Focus Panel
 Company-name: Clinical cancer research
 Website: Illumina
-Service-provides: 1100 ng (10 ng recommended per pool) DNA/RNA from blood or FFPE
+Service-provides: 1–100 ng (10 ng recommended per pool) DNA/RNA from blood or FFPE
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
@@ -502,54 +502,54 @@ Service-provides: 250ng genomic DNA isolated from human peripheral whole blood s
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: OptiSeqPan-Cancer Panel (65 Genes)
+Country: OptiSeq™Pan-Cancer Panel (65 Genes)
 Company-name: CLIA certified facility
 Website: DiaCarta
 Service-provides: Liquid biopsy/FFPE DNA: 10 ng for detection of somatic mutations (SNP)/100 pg for germline mutations
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: OptiSeqLung Cancer Panel (29 Genes)
+Country: OptiSeq™Lung Cancer Panel (29 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: OptiSeqActionable Panel (12 Genes)
+Country: OptiSeq™Actionable Panel (12 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: OptiSeqProstate Panel (32 Genes)
+Country: OptiSeq™Prostate Panel (32 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: OptiSeqTarget Panel (33 Genes)
+Country: OptiSeq™Target Panel (33 Genes) 
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: OptiSeqColon Panel (38 Genes)
+Country: OptiSeq™Colon Panel (38 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: OptiSeqBreast Panel (44 Genes)
+Country: OptiSeq™Breast Panel (44 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: OptiSeqComprehensive Panel (76 Genes)
+Country: OptiSeq™Comprehensive Panel (76 Genes)      
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: *Whole genome sequencing
+Country: *Whole genome sequencing 全基因组测序
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: Exome sequencing
+Country: Exome sequencing全外显子测序
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: mRNA sequencing
+Country: mRNA sequencing转录组测序
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: Small RNA (miRNA, shRNA) sequencing
+Country: Small RNA (miRNA, shRNA) sequencing  
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
@@ -561,15 +561,15 @@ Country: Amplicon sequencing
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: 16S metagenomics sequencing 16S
+Country: 16S metagenomics sequencing 16S测序
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: ?
+Country: 建库测序?
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: ?
+Country: 甲基化测序?
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
@@ -811,7 +811,7 @@ Website: Agilent
 
 Record-Type: Genetic test kits
 RecordType-Descr: Sequencing-service-:-(whole-genome-sequencing,-target-sequencing,-SNPs)
-Country: Harmony
+Country: Harmony®
 Company-name: http://sequencing.roche.com/en/products-solutions/by-application/clinical/nipt/harmony-test-technology.html
 Website: Roche     Thermo Fisher
 

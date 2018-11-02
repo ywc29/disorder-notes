@@ -56,7 +56,7 @@ Website: 23andMe
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
 Name: CA
-Website: Bambni Test (Berry Genomics)
+Website: Bambni Test (Berry Genomics贝瑞和康)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
@@ -96,7 +96,7 @@ Website: Harmony Prenatal Test (Arlosa)*
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
 Name: CA
-Website: Xcelom
+Website: 香港雅士能基因科技有限公司（Xcelom
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
@@ -121,7 +121,7 @@ Website: Atlas-Biolabs
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
 Name: UK
-Website: Birminghams woman NHS
+Website: Birmingham’s woman NHS
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
@@ -173,7 +173,7 @@ Website: Research use only
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: InfiniumGlobal Screening Array-24 v1.0 Kit
+Name: Infinium®Global Screening Array-24 v1.0 Kit
 Website: Research use only
 
 Record-Type: Genetic test kits
@@ -213,7 +213,7 @@ Website: Research use only
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: InfiniumOmni5-4 v1.2 Kit
+Name: Infinium®Omni5-4 v1.2 Kit
 Website: Research use only
 
 Record-Type: Genetic test kits
@@ -381,52 +381,52 @@ Website: In vitro diagnostic product
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: OptiSeqPan-Cancer Panel (65 Genes)
+Name: OptiSeq™Pan-Cancer Panel (65 Genes)
 Website: CLIA certified facility
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: OptiSeqLung Cancer Panel (29 Genes)
+Name: OptiSeq™Lung Cancer Panel (29 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: OptiSeqActionable Panel (12 Genes)
+Name: OptiSeq™Actionable Panel (12 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: OptiSeqProstate Panel (32 Genes)
+Name: OptiSeq™Prostate Panel (32 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: OptiSeqTarget Panel (33 Genes)
+Name: OptiSeq™Target Panel (33 Genes) 
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: OptiSeqColon Panel (38 Genes)
+Name: OptiSeq™Colon Panel (38 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: OptiSeqBreast Panel (44 Genes)
+Name: OptiSeq™Breast Panel (44 Genes)
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: OptiSeqComprehensive Panel (76 Genes)
+Name: OptiSeq™Comprehensive Panel (76 Genes)      
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: *Whole genome sequencing
+Name: *Whole genome sequencing 全基因组测序
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: Exome sequencing
+Name: Exome sequencing全外显子测序
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: mRNA sequencing
+Name: mRNA sequencing转录组测序
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: Small RNA (miRNA, shRNA) sequencing
+Name: Small RNA (miRNA, shRNA) sequencing  
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
@@ -438,15 +438,15 @@ Name: Amplicon sequencing
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: 16S metagenomics sequencing 16S
+Name: 16S metagenomics sequencing 16S测序
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: ?
+Name: 建库测序?
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: ?
+Name: 甲基化测序?
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
@@ -638,7 +638,7 @@ Website: Research use only
 
 Record-Type: Genetic test kits
 RecordType-Descr: Companies-providing-genetic-data-analysis
-Name: Harmony
+Name: Harmony®
 Website: http://sequencing.roche.com/en/products-solutions/by-application/clinical/nipt/harmony-test-technology.html
 
 Record-Type: Genetic test kits
