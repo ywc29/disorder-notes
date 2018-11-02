@@ -1,4 +1,10 @@
 #!/usr/bin/env python2
+
+def main():
+    parser = Parser()
+    parser.feed(sys.stdin.read()) ; parser.close()
+    flushRows()
+
 import re, os, sys, HTMLParser
 headings = None
 rows = [] ; curRow = [] ; curCell = [] ; colspan = 0
@@ -13,6 +19,7 @@ def flushRows():
             heads = heads[:i]+heads[i+1:]
             rows = map(lambda r:r[:i-1]+[" ".join(r[i-1:i+1])]+r[i+1:],rows)
         i += 1
+    print "Record-Type:",sys.argv[1]
     for h,v in zip(heads,zip(*rows)):
         v = " ".join(v).strip()
         if h and v: print h+": "+v
@@ -45,7 +52,7 @@ class Parser(HTMLParser.HTMLParser):
         elif tag=="tr":
             if not headings:
                 headings = map(lambda x:re.sub("<[^>]*>","",x).replace(" ","-"),curRow)
-                print "%allowed: "+" ".join(h for h in headings if h)+"\n"
+                print "%allowed: Record-Type "+" ".join(h for h in headings if h)+"\n"
             else:
                 if curRow[0]: flushRows()
                 rows.append(curRow)
@@ -54,7 +61,4 @@ class Parser(HTMLParser.HTMLParser):
     def handle_data(self,data):
         data = data.strip()
         if data and colspan: curCell.append(data)
-
-parser = Parser()
-parser.feed(sys.stdin.read()) ; parser.close()
-flushRows()
+if __name__=="__main__": main()

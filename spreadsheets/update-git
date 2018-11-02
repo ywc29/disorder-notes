@@ -14,7 +14,7 @@ for N in ~/Desktop/For\ oncofocus/*.xlsx; do
   echo "Converting $N to HTML"
   ssconvert -S "$N" "$B.%s.html"
   echo "Converting $N to REC"
-  for H in "$B.*.html" ; do ./html2rec.py < "$H" > "$(echo $H|sed -e s/html$/rec/)";done
+  for H in "$B.*.html" ; do ./html2rec.py "$B" < "$H" > "$(echo $H|sed -e s/html$/rec/)";done
 done &&
 echo Committing... &&
 git add *csv *html *rec &&
