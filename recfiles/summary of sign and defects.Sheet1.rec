@@ -912,7 +912,7 @@ Symptoms: abnormal curvature of the spine (scoliosis)
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-Symptoms: Symptoms    Symptoms development periods (before birth, at birth, childhood, adolescent)
+Symptoms: Symptoms Example   Symptoms development periods (before birth, at birth, childhood, adolescent)
 # NOTE: Symptoms
 # NOTE: Symptoms development periods (before birth, at birth, childhood, adolescent)
 
@@ -1134,7 +1134,7 @@ Symptoms: Ethnic/ family group Gaza in Arab; Iceland; Siberia; Dominican Republi
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
-Symptoms: Gendar Female; Male
+Symptoms: Gender Female; Male
 
 Record_Type: summary of sign and defects
 Record_SubType: Sheet1
