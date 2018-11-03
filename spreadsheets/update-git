@@ -6,7 +6,7 @@ if ! test "a$1" == at; then lxterminal -e '/bin/bash -c "$HOME/disorder-notes/sp
 echo Starting
 if ! cd ~/disorder-notes/spreadsheets; then echo directory fail; read; exit 1; fi
 echo Syncing...
-git pull &&
+if ! git pull; then read; exit 1; fi &&
 for N in ~/Desktop/For\ oncofocus/*.xlsx; do
   export B="$(echo "$N"|sed -e 's,.*/,,' -e 's/.xlsx*$//')"
   echo "Converting $N to CSV"

@@ -2039,7 +2039,8 @@ Chinese: Syndromes related to hair loss/ baldness, not sparse hair
 Record_Type: Condition-freq
 Record_SubType: Sheet7
 RecordType_Descr: syndroms not listed in the western but only in china official website
-Chinese: Name Website
+Chinese: Name GHR-webpage
+# NOTE: GHR-webpage
 
 Record_Type: Condition-freq
 Record_SubType: Sheet7
@@ -2269,7 +2270,8 @@ Record_Type: Condition-freq
 Record_SubType: Sheet7
 RecordType_Descr: syndroms not listed in the western but only in china official website
 Chinese: Name
-English: Website
+English: GHR-webpage
+# NOTE: GHR-webpage
 
 Record_Type: Condition-freq
 Record_SubType: Sheet7
@@ -2442,7 +2444,8 @@ Record_Type: Condition-freq
 Record_SubType: Sheet7
 RecordType_Descr: syndroms not listed in the western but only in china official website
 Chinese: Name
-English: Website
+English: GHR-webpage
+# NOTE: GHR-webpage
 
 Record_Type: Condition-freq
 Record_SubType: Sheet7
@@ -2717,7 +2720,8 @@ Record_Type: Condition-freq
 Record_SubType: Sheet7
 RecordType_Descr: syndroms not listed in the western but only in china official website
 Chinese: Name
-English: Website
+English: GHR-webpage
+# NOTE: GHR-webpage
 
 Record_Type: Condition-freq
 Record_SubType: Sheet7
@@ -3198,7 +3202,8 @@ Record_Type: Condition-freq
 Record_SubType: Sheet7
 RecordType_Descr: syndroms not listed in the western but only in china official website
 Chinese: Name
-English: Website
+English: GHR-webpage
+# NOTE: GHR-webpage
 
 Record_Type: Condition-freq
 Record_SubType: Sheet7
@@ -5040,7 +5045,8 @@ Chinese: Syndroms correlate with infertility difficult to pregnant
 Record_Type: Condition-freq
 Record_SubType: Sheet7
 RecordType_Descr: syndroms not listed in the western but only in china official website
-Chinese: Name
+Chinese: Name GHR-webpage
+# NOTE: GHR-webpage
 English: Genes
 
 Record_Type: Condition-freq
@@ -5220,7 +5226,8 @@ Record_Type: Condition-freq
 Record_SubType: Sheet7
 RecordType_Descr: syndroms not listed in the western but only in china official website
 Chinese: Name
-English: Website
+English: GHR-webpage
+# NOTE: GHR-webpage
 
 Record_Type: Condition-freq
 Record_SubType: Sheet7
@@ -5240,7 +5247,8 @@ Chinese: late onset syndromes
 Record_Type: Condition-freq
 Record_SubType: Sheet7
 RecordType_Descr: syndroms not listed in the western but only in china official website
-Chinese: Name Website
+Chinese: Name GHR-webpage
+# NOTE: GHR-webpage
 
 Record_Type: Condition-freq
 Record_SubType: Sheet7
