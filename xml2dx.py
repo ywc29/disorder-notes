@@ -11,7 +11,7 @@ mark_down_xml = True
 wordContext = 3 # num words on each side
 max_phraseLen = 3
 min_records_multiPhrase = 2 # multi-word phrase must match at least this number of different records to be indexed
-stop_words = set(["a","all","are","an","and","at","be","but","by","for","if","in","the","this","to","too","some"]) # etc
+stop_words = set(["a","all","are","an","and","as","at","be","but","by","can","for","have","if","in","of","on","that","the","this","to","too","some","usually","very","with"]) # etc
 assert all(x==x.lower() for x in stop_words)
 
 import sys, re
@@ -22,7 +22,8 @@ def candidate_phrases(words):
             w = words[start:start+phraseLen]
             if phraseLen>1 and not(all(x[0].isalpha() and x[-1].isalpha() for x in w)): continue # don't cut across starting quotes, commas, etc (but hyphens in middle OK)
             if not all(any(x.isalpha() for x in ww) for ww in w): continue # every word must have at least one alphabetical char for the phrase to make sense
-            if all(keywordify(ww) in stop_words for ww in w): continue
+            if any(keywordify(ww) in stop_words for ww in w[:1]+w[-1:]): continue
+            if any("://" in ww for ww in w): continue # URLs
             yield (start,phraseLen)
 
 def capsInitial(w):
