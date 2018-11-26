@@ -10,10 +10,10 @@
 index_only_inside = r"<html>.*?</html>" # or "" for all
 mark_down_xml = True
 lineNos_only = True
-wordContext = 3 # num words on each side
+wordContext = 6 # num words on each side
 max_phraseLen = 3
 min_records_multiPhrase = 2 # multi-word phrase must match at least this number of different records to be indexed
-stop_words = set(["a","all","are","an","and","as","at","be","but","by","can","for","have","if","in","of","on","that","the","this","to","too","some","usually","very","with"]) # etc
+stop_words = set(["a","all","are","an","and","as","at","be","but","by","can","for","from","have","if","in","of","on","that","the","this","to","too","some","usually","very","with"]) # etc
 assert all(x==x.lower() for x in stop_words)
 
 import sys, re
