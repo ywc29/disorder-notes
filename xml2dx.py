@@ -7,7 +7,9 @@
 
 # Silas S. Brown 2018 - public domain
 
+index_only_inside = r"<html>.*?</html>" # or "" for all
 mark_down_xml = True
+lineNos_only = True
 wordContext = 3 # num words on each side
 max_phraseLen = 3
 min_records_multiPhrase = 2 # multi-word phrase must match at least this number of different records to be indexed
@@ -55,8 +57,10 @@ def context(words,wordNo,phraseLen=1):
 
 mDict = {}    
 lines = sys.stdin.read().decode('utf-8').split('\n')
-if mark_down_xml: lines2 = [re.sub("<[A-Za-z/][^>]*>","",l) for l in lines]
-else: lines2 = lines
+lines2 = lines
+if index_only_inside: lines2 = [" ".join(re.findall(index_only_inside,l)) for l in lines]
+if mark_down_xml: lines2 = [re.sub("<[A-Za-z/][^>]*>","",l) for l in lines2]
+if lineNos_only: lines = [str(x) for x in xrange(len(lines))]
 for kwds,orig in zip(lines2,lines):
     kwds = kwds.split()
     for start,phraseLen in candidate_phrases(kwds):
