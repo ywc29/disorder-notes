@@ -1,0 +1,912 @@
+# -*- mode: rec -*-
+
+%allowed: Record_Type Record_SubType RecordType_Descr Company Website Direct_to_consumer_genetic_test?_(y/n) Raw_data_reanalysis?_(y/n) Remarks
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: 23andMe
+Website: https://www.23andme.com/en-gb/compare-dna-tests/
+Direct_to_consumer_genetic_test?_(y/n): Y health+ancestry breast, ovarian and other cancers3 variants in the BRCA1 and BRCA2 genes; relevant for Ashkenazi Jewish descent
+Raw_data_reanalysis?_(y/n): N
+Remarks: Illumina
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: 23DNA UK
+Website: http://london.23dna.co/
+Direct_to_consumer_genetic_test?_(y/n): Relationship DNA tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: 24 genetics
+Website: https://24genetics.com/en/
+Direct_to_consumer_genetic_test?_(y/n): Y
+Raw_data_reanalysis?_(y/n): Y not free
+Remarks: Analyze 23 chromosomes+ mitochondria. Our new 24Genetics Panel analyses 700,000 markers.
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Accurate DNA
+Website: https://accuratedna.net/
+Direct_to_consumer_genetic_test?_(y/n): Relationship DNA tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: AffinityDNA
+Website: https://www.affinitydna.co.uk/
+Direct_to_consumer_genetic_test?_(y/n): Y Relationship DNA tests + direct to consumer tests
+Raw_data_reanalysis?_(y/n): N
+Remarks: SNP
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: AFRICAN ANCESTRY
+Website: http://www.africanancestry.com/home/
+Direct_to_consumer_genetic_test?_(y/n): Ancestry test for African
+Raw_data_reanalysis?_(y/n): N
+Remarks: Once we receive your DNA sample, our laboratory extracts your DNA’s genetic sequence. Then scientists compare your sequence to the largest database of African genetic sequences in existence.
+# NOTE: Once we receive your DNA sample, our laboratory extracts your DNA’s genetic sequence. Then scientists compare your sequence to the largest database of African genetic sequences in existence.
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: AGS Advance Genomic Solutions
+Website: https://www.ags-health.com/about-us
+Direct_to_consumer_genetic_test?_(y/n): Y
+Raw_data_reanalysis?_(y/n): Y not free
+Remarks: Measures 60 Unique Genetic Variations related to health and wellness
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: AlphaBiolabs
+Website: https://www.alphabiolabs.co.uk/services/dna-testing/
+Direct_to_consumer_genetic_test?_(y/n): Relationship DNA tests
+Raw_data_reanalysis?_(y/n): N
+Remarks: Our test uses 25 markers
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: ANABOLICGenes
+Website: http://en.anabolicgenes.com/explication3.html
+Direct_to_consumer_genetic_test?_(y/n): Y
+Raw_data_reanalysis?_(y/n): N
+Remarks: In partnership with GenetiConcept™, our new all-in one DNA testing service is out now : health, fitness, skin, wellness and drug response !Uninterpreted raw data file with +1million SNPs tested.
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Ancestry DNA Test
+Website: website not available
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Ancestry Testing
+Website: website not available
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: AncestryDNA
+Website: https://www.ancestry.co.uk/dna/?clickref=1011l5L7LZUokey=Uhttps://www.ancestry.co.uk/dna/?clickref=1011l5L7LZUoadref=clickref=1011l5L7LZUoo_xid=01100l4aVqo_lid=01100l4aVqo_sch=Affiliate+External
+Direct_to_consumer_genetic_test?_(y/n): Ancestry test only
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: ANGELSCOPE
+Website: http://www.dnapaternitylondon.com/shop/
+Direct_to_consumer_genetic_test?_(y/n): Relationship DNA tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: AngliaDNA
+Website: http://www.angliadna.co.uk/
+Direct_to_consumer_genetic_test?_(y/n): Relationship DNA tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: App MD
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: assuredna
+Website: https://www.assuredna.co.uk/collections/dna-health-lifestyle-testing
+Direct_to_consumer_genetic_test?_(y/n): Y Relationship DNA tests + direct to consumer tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: AthGene
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: ATHLETIGEN
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Atlas Biomed
+Website: https://atlasbiomed.com/uk/dna
+Direct_to_consumer_genetic_test?_(y/n): Y
+Raw_data_reanalysis?_(y/n): N
+Remarks: sample is analysed in the lab using Illumina technology.
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: AWAKENS
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: BIOSTATUS HEALTH
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: CALIGENIX
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Cellmark
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Chronomics
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: CODEGEN
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: color
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: dadcheck gold
+Website: website not available
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: dadcheck silver
+Website: website not available
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: dante labs
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DashGenomics
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DDC DNA Diagnostics Centre
+Website: https://dnacentre.co.uk/dna-testing-services/peace-of-mind-aunt-uncle-dna-test/
+Direct_to_consumer_genetic_test?_(y/n): Relationship DNA tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DIAGNOMICS
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Dna 11
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNA Ancestry Project
+Website: https://www.dnaancestryproject.com/
+Direct_to_consumer_genetic_test?_(y/n): Ancestry test
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNA Art Gallery
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNA ART US
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNA EFFECT
+Website: http://www.dnaeffect.com/
+Direct_to_consumer_genetic_test?_(y/n): N
+Raw_data_reanalysis?_(y/n): N
+Remarks: DNA-Art is artwork that displays your unique DNA profile, whether on canvas or digital format, making your artwork completely one of a kind and personalised. Seems just display customer the electrophoresis picture of polymorphisms
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNA Legal
+Website: https://www.dnalegal.com/dna-testing
+Direct_to_consumer_genetic_test?_(y/n): Relationship DNA tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNA Organisation UK
+Website: https://www.dnauk.org/
+Direct_to_consumer_genetic_test?_(y/n): Relationship DNA tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNA PAINTER
+Website: https://dnapainter.com/help
+Direct_to_consumer_genetic_test?_(y/n): N
+Raw_data_reanalysis?_(y/n): Y, intended for genealogists and family history enthusiasts who have taken a DNA test.
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNA Romance
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNA SOLUTIONS
+Website: http://www.dnasolutions.co.uk/dna-ancestry.htm?utm_source=dnatestingchoice
+Direct_to_consumer_genetic_test?_(y/n): Relationship DNA tests + Ancestry paternal /maternal tests
+Raw_data_reanalysis?_(y/n): N
+Remarks: The DNA Profile Test analyses 18 regions of DNA and includes an Allele Report with each of the regions tested.
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNA TRIBES
+Website: website not available
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNA@Home
+# NOTE: DNA@Home
+Website: http://www.dna-at-home.co.uk/order.html?utm_source=dnatestingchoice
+Direct_to_consumer_genetic_test?_(y/n): Y Relationship DNA tests + direct to consumer tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNA Unwrapped
+Website: https://www.dnaunwrapped.com/how-the-test-works
+Direct_to_consumer_genetic_test?_(y/n): Ancestry test
+Raw_data_reanalysis?_(y/n): N
+Remarks: DNA ancestry test + travel
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNAClinics
+Website: https://www.dnatestingclinics.co.uk/dna-tests-available
+Direct_to_consumer_genetic_test?_(y/n): Relationship DNA tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNAcode
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNAFit
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNAFour
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNALAND
+Website: https://dna.land/
+Direct_to_consumer_genetic_test?_(y/n): N
+Raw_data_reanalysis?_(y/n): Y 23Me, MyHeritageDNA
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: dnaPower
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNATRIBES
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DNAWorldwide
+Website: https://www.dna-worldwide.com/extended-family-dna-test/aunt-uncle-dna-testing?ref=1
+Direct_to_consumer_genetic_test?_(y/n): Relationship DNA tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Dot One
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: DYNAMIC DNA
+Website: https://dynamicdnalabs.com/shop-all-products/
+Direct_to_consumer_genetic_test?_(y/n): Y +Ancestry test and DNA art
+Raw_data_reanalysis?_(y/n): N
+Remarks: Blog recently updated. DNA art product seems generated from electrophoresis of RFLP
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: EasyDNA
+Website: https://www.easydna.co.uk/dna-tests/
+Direct_to_consumer_genetic_test?_(y/n): Y Relationship DNA tests + direct to consumer tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: EDGC
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Enlis Genomics
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: EONE-DIAGNOMICS Genome Center
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Eugene
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: evergreenlife
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: FamilyTreeDNA
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Fitgenetix
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: FITNESS GENES
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: FOUND MyFitness
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: FullGenomes
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: FUTURA GENETICS
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: GED match
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Gemetrics
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Gene Heritage
+Website: http://www.geneheritage.com/?r=dtc
+Direct_to_consumer_genetic_test?_(y/n): N
+Raw_data_reanalysis?_(y/n): Y
+Remarks: uses raw data from AncestryDNA™, FamilyTreeDNA, 23andMe, and others to report on your family's genes, traits, and ancient origins.
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Gene Partner
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: gene2me
+Website: https://www.gene2me.global/en/
+Direct_to_consumer_genetic_test?_(y/n): Y, + ancestry
+Raw_data_reanalysis?_(y/n): N
+Remarks: Serves both English and Koreans. Eone-diagnomics genome center can run genetic tests on 13 different elements (body mass index, triglycerides, cholesterol, blood sugar control, blood pressure control, pigmentation, hair loss, hair thickness, skin aging, skin elasticity, vitamin C concentrations, caffeine metabolism, and 46 kinds of genes
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: genebase
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Geneblitz
+Website: website not available
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: GENE BY GENE
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Gene Heritage
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: genecove
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: genefit
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Geneknot
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: genepalate
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: GENEPLANET
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: GenePlaza
+Website: https://www.geneplaza.com/
+Remarks: English, France, and NL
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: genetic genie
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: genetichealth
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: GENETICONCEPT
+Website: https://geneticoncept.com/
+Direct_to_consumer_genetic_test?_(y/n): Y
+Raw_data_reanalysis?_(y/n): Y 23Me
+Remarks: Revolutionary all-in one DNA testing with over 600 000 genetic markers analysed. The technology we use is Illumina HumanOmniExpress-24 chip. The Infinium OmniExpress BeadChip provides superior quality of analysis, normally designed for GWAS studies (genome-wide association).
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: GENETIC PHOTOS
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: GENETRACK BIOLABS
+Website: http://www.genetrack.co.uk/tests/dna-aunt-uncle-test?utm_source=dnatestingchoice
+Direct_to_consumer_genetic_test?_(y/n): Relationship DNA tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: genetrainer
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: GeneX
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Genomapp
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: GENSMART
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: GPS ORIGINS
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: GTLDNA
+Website: https://www.gtldna.co.uk/dna-tests/
+Direct_to_consumer_genetic_test?_(y/n): Y Relationship DNA tests + direct to consumer tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: HaploGrep2
+Website: http://haplogrep.uibk.ac.at/about.html
+Direct_to_consumer_genetic_test?_(y/n): N
+Raw_data_reanalysis?_(y/n): Y
+Remarks: Any given range of the mitochondrial genome can be used for haplogroup classification, which is based on the phylogenetic stability of mtDNA polymorphisms.
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: helix love
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: HELYS
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Heterogeneous
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: HOLISTIC HEALTH
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: HomeDNA
+Website: https://homedna.com/uk/product/homedna-starter-ancestry-test
+Direct_to_consumer_genetic_test?_(y/n): Ancestry test
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: homeDNADirect
+Website: https://www.homednadirect.co.uk/dna-tests/
+Direct_to_consumer_genetic_test?_(y/n): Y Relationship DNA tests + direct to consumer tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Home Health UK
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: I am Y I am
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: iDDNA
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: iGENEA
+Website: https://www.igenea.com/en/jews
+Direct_to_consumer_genetic_test?_(y/n): Ancestry test
+Raw_data_reanalysis?_(y/n): N
+Remarks: A DNA test by iGENEA also provides you with clear evidence of whether you have Jewish roots.
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Impute
+Website: https://www.impute.me/contact/
+Direct_to_consumer_genetic_test?_(y/n): N
+Raw_data_reanalysis?_(y/n): Y
+Remarks: This software is provided for educational and research purpose. The project is non-profit and free to use.
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: infinome
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Instant Chemistry
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: IntegratedGENETICS
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: INTERNATIONAL BIOSCIENCES
+Website: https://www.ibdna.com/dna-tests/
+Direct_to_consumer_genetic_test?_(y/n): Y Relationship DNA tests + direct to consumer tests
+Raw_data_reanalysis?_(y/n): N
+Remarks: SNP
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Jinomz
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: KARMA GENES
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Kate Kerr
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: KeyForensic
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: KiraGen
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: KNOW YOUR GENETICS
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: LifecodeGx
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: lifegenetics
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: livewello
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: LivingDNA
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: MapmyGene
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: mapmygenome
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: MARMITE
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: MIADNA
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: MOLECULAR FITNESS
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: MTHFR SUPPORT
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: MUHDO
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: MY.GENE.DIET
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: myDNA
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: myDNAhealth
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: mygenomebox
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: MyHeritageDNA
+Website: https://www.myheritage.com/dna?utm_source=partner_dnatestingchoiceutm_medium=partnerutm_campaign=dnatestingchoice_nov16_mhdnatr_funnel=mh+dnatr_placement=dnatestingchoice.comtr_country=UKtr_device=
+Direct_to_consumer_genetic_test?_(y/n): Ancestry test
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: myINNERGO
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: NATGENE
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: NATIONAL GEOGRAPHIC
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: NeoGenetics
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: newlife GENETICS
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: NIMBL
+Website: http://www.nimblediagnostics.co.uk/order/rel.html?utm_source=dnatestingchoice
+Direct_to_consumer_genetic_test?_(y/n): Relationship DNA tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: northgene
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: NutraHacker
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: ONEFAM
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: ORIGINAL GENE
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: oxfordancestors
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Paternity Depot
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Personality gene
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: pillcheck
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Play DNA
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Prenatal Paternities
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Promethease
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: PURE
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Qlu
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: RIGHTANGLED
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: roots for real
+Website: http://www.rootsforreal.com/service_en.php
+Direct_to_consumer_genetic_test?_(y/n): Ancestry test
+Raw_data_reanalysis?_(y/n): Y not free
+Remarks: offers mtDNA and Y-DNA testing services.
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Segment Mapper
+Website: http://kittymunson.com/dna/SegmentMapper.php
+Direct_to_consumer_genetic_test?_(y/n): N
+Raw_data_reanalysis?_(y/n): Y
+Remarks: This program will make a chromosome web page chart from a CSV file for segments mapped for up to 40 individuals.
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: SelfDecode
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: SEQUENCING
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Silverberry Genomix
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: SIMPLIFIED GENETICS
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: smart nutrition
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: SOCCER GENOMICS
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: StrateGene
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: SUPER WELLNESS
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: That DNA Company
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: TheGenealogist
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: themakingsofme
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: TOOLBOX GENOMICS
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: TRUE REPORT
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: TRULY HEAL
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: uBiome
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Universal Forensics
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: USC University of Southern California
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: vDNA
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: VIAGUARD
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: VIAMEDEX
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: VITAGEN-X
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: vitaminlab
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: VITL
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: WEGENE
+Raw_data_reanalysis?_(y/n): Y
+Remarks: Companies running by Chinese. Illumina BeadChip基因芯片，基于已有的数据库深度定制，并为东亚人群特别优化. WeGene检测标准版2.0不仅可以为每个用户提供120万个有极高解读价值的位点（核心数据），更有超过2000万个有潜在解读价值的位点（扩展数据），数据质量透明可见。您还可通过数据授权获取300+项第三方解读报告，更好地探索自我。
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: What IF Plan
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: WHO’ZtheDADDY?
+Website: https://www.whozthedaddy.com/dna-tests/
+Direct_to_consumer_genetic_test?_(y/n): Y Relationship DNA tests + direct to consumer tests
+Raw_data_reanalysis?_(y/n): N
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: WiXHealth
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Wobblebase
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: Xcode life
+Website: https://www.xcode.life/
+Direct_to_consumer_genetic_test?_(y/n): N
+Raw_data_reanalysis?_(y/n): Y not free
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: YOUNOM
+
+Record_Type: genetic test companies and sequencing data reanalysis
+Record_SubType: Sheet1
+Company: yourDNAportal
+Website: https://www.yourdnaportal.com/
+Direct_to_consumer_genetic_test?_(y/n): N
+Raw_data_reanalysis?_(y/n): Y
+Remarks: Provide calculation on the possibility
+

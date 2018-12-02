@@ -1193,3 +1193,7 @@ Record_SubType: Sheet2
 Symptoms: abnormal curvature of the spine (scoliosis)
 # NOTE: abnormal curvature of the spine (scoliosis)
 
+Record_Type: summary of sign and defects
+Record_SubType: Sheet2
+Symptoms: Things to ask: patient’s symptoms(affects which part? Body, mental,or intelligent), age symptoms started, how often
+

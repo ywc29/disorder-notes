@@ -4,8 +4,208 @@
 
 Record_Type: genes tested by companies
 Record_SubType: Sheet1
+Gene: ABL1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ABL2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ACVR2A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ADAMTS20
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: AFF1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: AFF3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: AKAP9
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: AKT1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: AKT2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: AKT3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ALK
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: APC
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: AR
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ARAF
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ARID1A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ARID2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ARNT
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ASXL1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ATF1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ATM
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ATR
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ATRX
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: AURKA
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: AURKB
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: AURKC
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: AXL
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BAI3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BAP1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BCL10
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BCL11A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BCL11B
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BCL2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BCL2L1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BCL2L2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BCL3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BCL6
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BCL9
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BCR
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BIRC2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BIRC3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BIRC5
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BLM
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BLNK
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BMPR1A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
 Gene: BRAF
 Involved_codons: 600 (DiaCarta)
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BRCA1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BRCA2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BRD3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BRIP1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BTK
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: BUB1B
 
 Record_Type: genes tested by companies
 Record_SubType: Sheet1
@@ -14,8 +214,656 @@ Involved_codons: 816 (DiaCarta)
 
 Record_Type: genes tested by companies
 Record_SubType: Sheet1
+Gene: CARD11
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CASC5
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CBL
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CCND1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CCND2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CCND3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CCNE1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CD79A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CD79B
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDC73
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDH1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDH11
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDH2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDH20
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDH5
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDK12
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDK2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDK4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDK6
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDK8
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDKN1B
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDKN2A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDKN2B
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CDKN2C
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CEBPA
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CFTR
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CHEK1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CHEK2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CIC
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CKS1B
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CMPK1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: COL1A1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CRBN
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CREB1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CREBBP
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CRKL
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CRTC1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CSF1R
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CSMD3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CTNNA1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CTNNB1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CYLD
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CYP2C19
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: CYP2D6
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: DAXX
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: DCC
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: DDB2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: DDIT3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: DDR2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: DEK
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: DICER1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: DNMT3A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: DPYD
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: DST
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
 Gene: EGFR
 Involved_codons: 719, ex19Del, 790, 858, 861 (DiaCarta)
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: EML4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: EP300
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: EP400
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: EPHA3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: EPHA7
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: EPHB1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: EPHB4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: EPHB6
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ERBB2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ERBB3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ERBB4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ERCC1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ERCC2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ERCC3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ERCC4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ERCC5
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ERG
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ESR1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ETS1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ETV1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ETV4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ETV5
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: EXT1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: EXT2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: EZH2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FAM123B
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FANCA
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FANCC
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FANCD2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FANCF
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FANCG
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FANCI
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FAS
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FBXW7
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FGF19
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FGF3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FGFR1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FGFR2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FGFR3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FGFR4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FGR
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FH
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FLCN
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FLI1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FLT1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FLT3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FLT4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FN1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FOXL2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FOXO1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FOXO3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FOXP1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FOXP4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: FZR1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: G6PD
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: GATA1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: GATA2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: GATA3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: GDNF
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: GNA11
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: GNAQ
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: GNAS
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: GPR124
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: GRM8
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: GUCY1A2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: H3F3A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: HCAR1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: HIF1A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: HIST1H3B
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: HLF
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: HNF1A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: HOOK3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: HRAS
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: HSP90AA1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: HSP90AB1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ICK
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: IDH1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: IDH2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: IGF1R
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: IGF2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: IGF2R
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: IKBKB
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: IKBKE
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: IKZF1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: IL2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: IL21R
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: IL6ST
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: IL7R
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ING4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: IRF4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: IRS2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ITGA10
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ITGA9
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ITGB2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ITGB3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: JAK1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: JAK2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: JAK3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: JUN
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: KAT6A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: KAT6B
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: KDM5C
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: KDM6A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: KDR
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: KEAP1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: KIT
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: KLF6
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: KNSTRN
 
 Record_Type: genes tested by companies
 Record_SubType: Sheet1
@@ -24,11 +872,951 @@ Involved_codons: 12, 13, 59, 61, 117, 146 (DiaCarta)
 
 Record_Type: genes tested by companies
 Record_SubType: Sheet1
+Gene: LAMP1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: LCK
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: LIFR
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: LPHN3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: LPP
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: LRP1B
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: LTF
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: LTK
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MAF
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MAFB
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MAGEA1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MAGI1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MAGOH
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MALT1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MAML2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MAP2K1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MAP2K2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MAP2K4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MAP3K7
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MAPK1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MAPK8
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MARK1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MARK4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MAX
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MBD1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MCL1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MDM2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MDM4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MED12
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MEN1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MET
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MITF
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MLH1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MLL
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MLL2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MLL3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MLLT10
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MMP2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MN1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MPL
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MRE11A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MSH2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MSH6
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MTOR
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MTR
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MTRR
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MUC1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MUTYH
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MYB
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MYBL1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MYC
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MYCL1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MYCN
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MYD88
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MYH11
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: MYH9
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NBN
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NCOA1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NCOA2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NCOA4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NF1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NF2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NFE2L2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NFKB1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NFKB2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NIN
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NKX2-1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NLRP1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NOTCH1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NOTCH2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NOTCH3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NOTCH4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NPM1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
 Gene: NRAS
 Involved_codons: 12, 13, 59, 61, 117, 146 (DiaCarta)
 
 Record_Type: genes tested by companies
 Record_SubType: Sheet1
+Gene: NRG1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NSD1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NTRK1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NTRK2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NTRK3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NUMA1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NUP214
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NUP98
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PAK3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PALB2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: NUTM1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PALB2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PARP1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PAX3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PAX5
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PAX7
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PAX8
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PBRM1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PBX1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PDE4DIP
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PDGFB
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PDGFRA
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PDGFRB
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PER1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PGAP3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PHOX2B
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PIK3C2B
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
 Gene: PIK3CA
 Involved_codons: 542, 545, 1047 (DiaCarta)
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PIK3CB
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PIK3CD
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PIK3CG
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PIK3R1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PIK3R2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PIM1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PKHD1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PLAG1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PLCG1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PLEKHG5
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PML
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PMS1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PMS2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: POLE
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: POT1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: POU5F1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PPARG
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PPP2R1A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PRDM1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PRKACA
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PRKACB
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PRKAR1A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PRKDC
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PSIP1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PTCH1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PTEN
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PTGS2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PTPN11
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PTPRD
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: PTPRT
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RAC1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RAD50
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RAD51
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RAD51B
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RAD51C
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RAD51D
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RAF1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RALGDS
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RARA
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RB1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RECQL4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: REL
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RELA
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RET
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RHEB
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RHOH
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RICTOR
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RNASEL
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RNF2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RNF213
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RNF43
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ROS1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RPS6KA2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RRM1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RSPO2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RSPO3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RUNX1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: RUNX1T1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SAMD9
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SBDS
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SDHA
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SDHB
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SDHC
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SDHD
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SEPT9
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SETD2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SF3B1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SGK1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SH2D1A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SLX4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SMAD2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SMAD4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SMARCA4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SMARCB1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SMO
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SMUG1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SOCS1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SOX11
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SOX2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SPOP
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SRC
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SSX1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: STAT3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: STK11
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: STK36
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SUFU
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SYK
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: SYNE1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TAF1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TAF1L
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TAL1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TBX22
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TCF12
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TCF3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TCF7L1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TCF7L2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TCL1A
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TERT
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TET1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TET2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TFE3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TGFBR2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TGM7
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: THBS1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TIMP3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TLR4
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TLX1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TNFAIP3
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TNFRSF14
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TNK2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TOP1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TP53
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TPR
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TRIM24
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TRIM33
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TRIP11
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TRRAP
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TSC1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TSC2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: TSHR
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: U2AF1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: UBR5
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: UGT1A1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: USP9X
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: VHL
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: WAS
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: WHSC1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: WRN
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: WT1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: XPA
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: XPC
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: XPO1
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: XRCC2
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ZNF384
+
+Record_Type: genes tested by companies
+Record_SubType: Sheet1
+Gene: ZNF521
 
